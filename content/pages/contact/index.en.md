@@ -1,7 +1,7 @@
 ---
-title: test
-url: test
+title: Contact page
+slug: contact
 image:
   source: images/karsten-winegeart-_pzci_uwkso-unsplash.jpg
-  alt: Doggy
+  alt: This is a dog
 ---

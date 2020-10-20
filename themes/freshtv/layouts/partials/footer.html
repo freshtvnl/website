@@ -1,0 +1,17 @@
+<div class="max-w-6xl mx-auto px-4 py-2 border-t-2">
+  <div class="flex justify-between">
+    <div>
+      {{ T "copyright"}} {{ dateFormat "2006" now }} - {{.Site.Title}}
+    </div>
+    <div class="">
+      <span class="font-bold">
+        {{ T "change_language"}} 
+      </span>
+      <ul>
+        {{ range $.Site.Home.AllTranslations }}
+        <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,8 @@
+nl:
+  languageName: Nederland (Nederlands)
+  languageCode: nl
+  weight: 1
+en:
+  languageName: International (English)
+  languageCode: en
+  weight: 2

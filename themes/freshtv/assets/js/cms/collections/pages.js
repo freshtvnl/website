@@ -9,8 +9,8 @@ const fields = [
     i18n: true
   },
   {
-    label: 'Url',
-    name: 'url',
+    label: 'Slug',
+    name: 'slug',
     widget: 'string',
     required: false,
     i18n: true

@@ -1,0 +1,12 @@
+baseURL: 'https://www.freshtv.nl'
+languageCode: nl
+title: FreshTV
+theme: freshtv
+paginate: 100
+defaultContentLanguage: nl
+markup:
+    goldmark:
+        renderer:
+          unsafe: true
+permalinks:
+  pages: /:slug/

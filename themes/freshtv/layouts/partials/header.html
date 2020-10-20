@@ -1,0 +1,16 @@
+{{ $page := . }}
+
+<div class="max-w-6xl mx-auto px-4 py-2 border-b-2">
+  <div class="flex justify-between">
+    <a href="{{.Site.BaseURL}}{{.Site.LanguagePrefix}}">
+      Freshtv logo
+    </a>
+    <nav class="flex">
+      {{ range $index, $element := .Site.Menus.main }}
+      {{ $is := $page.IsMenuCurrent "main" . }}
+      {{ $has := $page.HasMenuCurrent "main" . }}
+        <a href="{{.URL | absLangURL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</div>
