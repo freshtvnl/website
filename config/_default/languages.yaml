@@ -2,6 +2,10 @@ nl:
   languageName: Nederland (Nederlands)
   languageCode: nl
   weight: 1
+  permalinks:
+    members: over-ons/:slug 
+    pages: :slug
+
 en:
   languageName: International (English)
   languageCode: en

@@ -10,5 +10,9 @@
   {
     "id": "change_language",
     "translation": "Verander taal"
+  },
+  {
+    "id": "read_more",
+    "translation": "Lees verder"
   }
 ]

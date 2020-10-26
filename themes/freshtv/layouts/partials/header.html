@@ -9,7 +9,10 @@
       {{ range $index, $element := .Site.Menus.main }}
       {{ $is := $page.IsMenuCurrent "main" . }}
       {{ $has := $page.HasMenuCurrent "main" . }}
+        {{if eq .Weight 0 }}
+        {{ else }}
         <a href="{{.URL | absLangURL }}">{{ .Name }}</a>
+        {{ end }}
       {{ end }}
     </nav>
   </div>

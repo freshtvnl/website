@@ -2,16 +2,20 @@
 window.CMS_MANUAL_INIT = true
 
 import CMS from 'netlify-cms-app'
+import { branches } from './collections/branches'
+import { members } from './collections/members'
 
 import { pages } from './collections/pages'
+import { solutions } from './collections/solutions'
+import { knowledgebase } from './collections/knowledgebase'
 
 
 CMS.init({
   config: {
     load_config_file: false,
     local_backend: true,
-    media_folder: '/static/meda',
-    public_folder: '/meda',
+    media_folder: '/static/media',
+    public_folder: '/media',
     backend: {
       name: 'git-gateway'
     },
@@ -26,6 +30,6 @@ CMS.init({
       locales: ['nl', 'en'],
       default_locale: 'nl'
     },
-    collections: [pages]
+    collections: [pages, members, branches, solutions, knowledgebase]
   },
 })

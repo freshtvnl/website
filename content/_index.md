@@ -1,5 +1,5 @@
 ---
-title: test
+title: Fresh TV Homepage
 ---
 
-test
+Welkom bij de nieuwe website van freshtv

@@ -1,21 +1,11 @@
 import { image } from "../partials/image"
+import { menu } from "../partials/menu"
+import { base } from "../partials/base"
+import { blocks } from "../blocks/index"
 
 const fields = [
-  {
-    label: 'Title',
-    name: 'title',
-    widget: 'string',
-    required: false,
-    i18n: true
-  },
-  {
-    label: 'Slug',
-    name: 'slug',
-    widget: 'string',
-    required: false,
-    i18n: true
-  },
-  image
+  ...base,
+  image,
 ]
 
 const pages = {
@@ -30,9 +20,18 @@ const pages = {
   editor: {
     preview: false
   },
+  view_filters: [
+    {
+      label: 'Drafts',
+      field: 'draft',
+      pattern: true
+    }
+  ],
   folder: 'content/pages',
   fields: [
-    ...fields
+    ...fields,
+    ...blocks,
+    menu
   ],
 }
 

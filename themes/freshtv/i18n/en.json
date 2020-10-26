@@ -10,5 +10,9 @@
   {
     "id": "change_language",
     "translation": "Change language"
+  },
+  {
+    "id": "read_more",
+    "translation": "Read more"
   }
 ]

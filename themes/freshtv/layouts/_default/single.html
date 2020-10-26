@@ -4,6 +4,7 @@
   <div class="leading-relaxted">
     {{ .Content }}
   </div>
+  {{- partial "blocks/index.html" . -}}
   {{- partial "translations.html" . -}}
 </div>
 {{ end }}
