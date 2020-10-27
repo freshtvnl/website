@@ -1,17 +1,17 @@
 {{ $page := . }}
 
-<div class="max-w-6xl mx-auto px-4 py-2 border-b-2">
+<div class="mx-auto px-4 lg:px-8 xl:px-12 py-3 lg:py-5 xl:py-8">
   <div class="flex justify-between">
     <a href="{{.Site.BaseURL}}{{.Site.LanguagePrefix}}">
       Freshtv logo
     </a>
-    <nav class="flex">
+    <nav class="flex space-x-6">
+      {{ $currentPage := . }}
       {{ range $index, $element := .Site.Menus.main }}
-      {{ $is := $page.IsMenuCurrent "main" . }}
-      {{ $has := $page.HasMenuCurrent "main" . }}
+      
         {{if eq .Weight 0 }}
         {{ else }}
-        <a href="{{.URL | absLangURL }}">{{ .Name }}</a>
+        <a href="{{.URL | absLangURL }}" class="{{ if $currentPage.IsMenuCurrent  "main" . }}font-bold{{ end }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </nav>
