@@ -5,6 +5,7 @@ import CMS from 'netlify-cms-app'
 import { branches } from './collections/branches'
 import { members } from './collections/members'
 
+import { cases } from './collections/cases'
 import { pages } from './collections/pages'
 import { solutions } from './collections/solutions'
 import { knowledgebase } from './collections/knowledgebase'
@@ -30,6 +31,6 @@ CMS.init({
       locales: ['nl', 'en'],
       default_locale: 'nl'
     },
-    collections: [pages, members, branches, solutions, knowledgebase]
+    collections: [pages, members, branches, solutions, cases, knowledgebase]
   },
 })

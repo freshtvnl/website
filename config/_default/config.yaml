@@ -1,4 +1,4 @@
-baseURL: 'https://www.freshtv.nl'
+baseURL: 'https://freshtv.netlify.app/'
 languageCode: nl
 title: FreshTV
 theme: freshtv
@@ -10,3 +10,4 @@ markup:
           unsafe: true
 permalinks:
   pages: /:slug/
+  

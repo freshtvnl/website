@@ -3,8 +3,9 @@ nl:
   languageCode: nl
   weight: 1
   permalinks:
-    members: over-ons/:slug 
-    pages: :slug
+    members: over-ons/:slug/ 
+    pages: :slug/
+    cases: portfolio/:slug/
 
 en:
   languageName: International (English)
