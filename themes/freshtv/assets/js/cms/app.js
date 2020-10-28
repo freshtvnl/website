@@ -18,7 +18,8 @@ CMS.init({
     media_folder: '/static/media',
     public_folder: '/media',
     backend: {
-      name: 'git-gateway'
+      name: 'github',
+      repo: 'freshtvnl/website'
     },
     media_library: {
       name: '',
