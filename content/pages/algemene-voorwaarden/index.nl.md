@@ -1,5 +1,5 @@
 ---
-title: Algemene voorwaarden 1
+title: Algemene voorwaarden
 slug: agemene-voorwaarden
 draft: false
 ---
