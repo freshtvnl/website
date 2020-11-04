@@ -1,0 +1,17 @@
+{{ $site := .Site }}
+{{ $page := . }}
+
+{{ with .Params.blocks }}
+
+  {{ range . }}
+
+    {{ if eq .type "content_block" }}
+      {{ partial "blocks/content_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
+    {{ if eq .type "collection_block" }}
+      {{ partial "blocks/collection_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
+  {{ end }}
+{{ end }}

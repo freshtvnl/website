@@ -1,0 +1,18 @@
+[
+  {
+    "id": "translation_available",
+    "translation": "Translation available"
+  },
+  {
+    "id": "copyright",
+    "translation": "Copyright"
+  },
+  {
+    "id": "change_language",
+    "translation": "Change language"
+  },
+  {
+    "id": "read_more",
+    "translation": "Read more"
+  }
+]

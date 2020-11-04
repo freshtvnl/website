@@ -1,7 +1,7 @@
-baseURL: 'https://freshtv.netlify.app/'
+baseURL: 'https://philflo.netlify.app/'
 languageCode: nl
-title: FreshTV
-theme: freshtv
+title: Phil&Flo
+theme: philflo
 paginate: 100
 defaultContentLanguage: nl
 markup:

@@ -1,5 +1,5 @@
 ---
-title: Fresh TV Homepage
+title: Phil & Flo Homepage
 ---
 
-Welkom bij de nieuwe website van freshtv
+Welkom bij de nieuwe website van philflo
