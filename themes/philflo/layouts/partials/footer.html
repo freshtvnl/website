@@ -1,17 +1,25 @@
-<div class="max-w-6xl mx-auto px-4 py-2 border-t-2">
-  <div class="flex justify-between">
-    <div>
-      {{ T "copyright"}} {{ dateFormat "2006" now }} - {{.Site.Title}}
+<div class="bg-gray-100">
+  <div class="max-w-screen-xl mx-auto px-4 py-2 lg:py-12 xl:pt-24 ">
+    <div class="grid grid-cols-3">
+        <div>
+          <p class="text-4xl mb-4">Say Hello!</p>
+          <a href="mailto:info@philflo.com" class="text-lg tracking-wider">info@philflo.com</a>
+        </div>
     </div>
-    <div class="">
-      <span class="font-bold">
-        {{ T "change_language"}} 
-      </span>
-      <ul>
-        {{ range $.Site.Home.AllTranslations }}
-        <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-        {{ end }}
-      </ul>
+    <div class="flex justify-between mt-24">
+      <div>
+        {{ T "copyright"}} {{ dateFormat "2006" now }} - {{.Site.Title}}
+      </div>
+      <div class="">
+        <span class="font-bold">
+          {{ T "change_language"}} 
+        </span>
+        <ul>
+          {{ range $.Site.Home.AllTranslations }}
+          <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
     </div>
   </div>
 </div>

@@ -1,7 +1,7 @@
 {{ $page := . }}
 
-<div class="mx-auto px-4 lg:px-8 xl:px-12 py-3 lg:py-5 xl:py-8">
-  <div class="flex justify-between">
+<div class="mx-auto w-full px-4 py-3 lg:py-5 xl:py-8">
+  <div class="flex justif lg:px-12 xl:px-24 justify-between items-center">
     <a href="{{.Site.BaseURL}}{{.Site.LanguagePrefix}}">
       <svg width="67" height="64" viewBox="0 0 67 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <g clip-path="url(#clip0)">
@@ -28,10 +28,9 @@
     <nav class="flex space-x-6">
       {{ $currentPage := . }}
       {{ range $index, $element := .Site.Menus.main }}
-      
         {{if eq .Weight 0 }}
         {{ else }}
-        <a href="{{.URL | absLangURL }}" class="{{ if $currentPage.IsMenuCurrent  "main" . }}font-bold{{ end }}">{{ .Name }}</a>
+        <a href="{{.URL | absLangURL }}" class="font-semibold {{ if $currentPage.IsMenuCurrent  "main" . }}font-bold{{ end }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </nav>

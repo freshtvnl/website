@@ -1,6 +1,6 @@
 baseURL: 'https://philflo.netlify.app/'
 languageCode: nl
-title: Phil&Flo
+title: Phil & Flo
 theme: philflo
 paginate: 100
 defaultContentLanguage: nl
