@@ -1,7 +1,10 @@
 // This global flag enables manual initialization.
 window.CMS_MANUAL_INIT = true
 
+
 import CMS from 'netlify-cms-app'
+import { Widget as IdWidget } from '@ncwidgets/id'
+
 import { branches } from './collections/branches'
 import { members } from './collections/members'
 
@@ -11,6 +14,7 @@ import { solutions } from './collections/solutions'
 import { knowledgebase } from './collections/knowledgebase'
 import { homepages } from './collections/homepages'
 
+CMS.registerWidget(IdWidget)
 
 CMS.init({
   config: {

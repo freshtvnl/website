@@ -9,6 +9,16 @@
       {{ partial "blocks/hero_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
 
+  {{ end }}
+
+  <div id="main">
+  {{ range . }}
+
+   
+    {{ if eq .type "selectedwork_block" }}
+      {{ partial "blocks/selectedwork_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
     {{ if eq .type "content_block" }}
       {{ partial "blocks/content_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
@@ -18,4 +28,5 @@
     {{ end }}
 
   {{ end }}
+  </div>
 {{ end }}

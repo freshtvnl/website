@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
+    "@ncwidgets/id": "^0.8.1",
     "@tailwindcss/typography": "^0.2.0",
     "autoprefixer": "^10.0.1",
     "netlify-cms-app": "^2.12.27",

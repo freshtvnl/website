@@ -21,4 +21,11 @@ export const base = [
     default: true,
     i18n: true
   },
+  {
+    label: "ID",
+    name: "id",
+    widget: "ncw-id",
+    required: true,
+    i18n: true
+  },
 ]

@@ -14,7 +14,7 @@ module.exports = {
 
       maxWidth: {
         ...maxWidth,
-        'screen-2xl': "1400px"
+        'screen-2xl': "1600px"
       },
 
       fontFamily: {
@@ -28,6 +28,12 @@ module.exports = {
           blue: {
             ...colors.blue,
             '500' : '#1572CE'
+          },
+
+          green: {
+            ...colors.green,
+            '400' : "#6fbc95",
+            '500' : "#007f66",
           },
         
           gray: {

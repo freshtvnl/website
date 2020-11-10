@@ -1,6 +1,7 @@
 import { content } from './content'
 import { collection } from './collection'
 import { hero } from './hero'
+import { selectedwork } from './selectedwork'
 
 export const blocks = [
   {
@@ -11,7 +12,8 @@ export const blocks = [
     types: [
       hero,
       content,
-      collection
+      collection,
+      selectedwork
     ]
   }
 ]

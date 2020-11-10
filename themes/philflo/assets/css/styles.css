@@ -48,3 +48,6 @@
   font-display: swap;
 }
 
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
