@@ -5,6 +5,10 @@
 
   {{ range . }}
 
+    {{ if eq .type "hero_block" }}
+      {{ partial "blocks/hero_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
     {{ if eq .type "content_block" }}
       {{ partial "blocks/content_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}

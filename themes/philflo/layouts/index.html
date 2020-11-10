@@ -1,8 +1,5 @@
 {{ define "main" }}
-<div class="max-w-screen-xl mx-auto px-4 py-8">
-  <h1 class="text-4xl mb-4">{{ .Title }}</h1>
-  <div class="leading-relaxted">
-    {{ .Content }}
-  </div>
-</div>
+{{- partial "blocks/index.html" . -}}
+
+
 {{ end }}

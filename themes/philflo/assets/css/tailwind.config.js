@@ -1,4 +1,4 @@
-const { colors, fontFamily } = require('tailwindcss/defaultTheme')
+const { colors, fontFamily, maxWidth } = require('tailwindcss/defaultTheme')
 
 
 module.exports = {
@@ -12,6 +12,11 @@ module.exports = {
   theme: {
     extend: {
 
+      maxWidth: {
+        ...maxWidth,
+        'screen-2xl': "1400px"
+      },
+
       fontFamily: {
         ...fontFamily,
         'sans' : ['Bw Modelica', 'sans-serif']
@@ -19,6 +24,11 @@ module.exports = {
 
       colors: {
         ...colors,
+
+          blue: {
+            ...colors.blue,
+            '500' : '#1572CE'
+          },
         
           gray: {
             ...colors.gray,

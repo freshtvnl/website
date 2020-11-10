@@ -1,5 +1,6 @@
 import { content } from './content'
 import { collection } from './collection'
+import { hero } from './hero'
 
 export const blocks = [
   {
@@ -8,6 +9,7 @@ export const blocks = [
     widget: 'list',
     i18n: true,
     types: [
+      hero,
       content,
       collection
     ]

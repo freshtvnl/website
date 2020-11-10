@@ -1,0 +1,15 @@
+{{ $site := .site }}
+{{ $page := .page }}
+{{ $params := .params }}
+
+<div class="max-w-screen-2xl mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-20">
+  {{ with $params.title }}
+  <h1 class="text-4xl font-bold mb-4">{{ . | markdownify }}</h1>
+  {{ end }}
+  {{ with $params.image}}
+  {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "1280" "height" "700" "class" "mt-12 lg:mt-16 pr-12 xl:pr-48 z-20 relative") }}
+  {{ end }}
+  <div class="bg-gray-100 w-2/3 py-12 lg:py-16 transform float-right -translate-y-16">
+    &nbsp;
+  </div>
+</div>

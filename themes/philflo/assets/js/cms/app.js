@@ -9,6 +9,7 @@ import { cases } from './collections/cases'
 import { pages } from './collections/pages'
 import { solutions } from './collections/solutions'
 import { knowledgebase } from './collections/knowledgebase'
+import { homepages } from './collections/homepages'
 
 
 CMS.init({
@@ -32,6 +33,6 @@ CMS.init({
       locales: ['nl', 'en'],
       default_locale: 'nl'
     },
-    collections: [pages, members, branches, solutions, cases, knowledgebase]
+    collections: [pages, members, branches, solutions, cases, knowledgebase, homepages]
   },
 })
