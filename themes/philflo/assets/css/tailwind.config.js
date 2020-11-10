@@ -14,7 +14,7 @@ module.exports = {
 
       maxWidth: {
         ...maxWidth,
-        'screen-2xl': "1600px"
+        'screen-2xl': "1800px"
       },
 
       fontFamily: {
@@ -44,7 +44,9 @@ module.exports = {
       }
     }
   },
-  variants: {},
+  variants: {
+    backgroundOpacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+  },
   plugins: [
     require('@tailwindcss/typography'),
   ]

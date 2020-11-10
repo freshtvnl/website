@@ -2,7 +2,7 @@
 {{ $page := .page }}
 {{ $params := .params }}
 
-<div class="max-w-screen-2xl mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-32 mb-12 lg:mb-32 xl:mb-48">
+<div class="max-w-screen-2xl mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-24 mb-12 lg:mb-32 xl:mb-48">
   {{ with $params.title }}
   <h1 class="text-4xl font-bold mb-4">{{ . | markdownify }}</h1>
   {{ end }}
