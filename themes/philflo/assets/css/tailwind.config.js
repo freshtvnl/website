@@ -11,6 +11,12 @@ module.exports = {
   purge: [],
   theme: {
     extend: {
+
+      fontFamily: {
+        ...fontFamily,
+        'sans' : ['Bw Modelica', 'sans-serif']
+      },
+
       colors: {
         ...colors,
         

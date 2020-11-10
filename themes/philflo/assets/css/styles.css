@@ -1,3 +1,50 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url('../fonts/BwModelica-Bold.woff2') format('woff2'),
+      url('../fonts/BwModelica-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url('../fonts/BwModelica-Regular.woff2') format('woff2'),
+      url('../fonts/BwModelica-Regular.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url('../fonts/BwModelica-Medium.woff2') format('woff2'),
+      url('../fonts/BwModelica-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url('../fonts/BwModelica-Black.woff2') format('woff2'),
+      url('../fonts/BwModelica-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url('../fonts/BwModelica-Thin.woff2') format('woff2'),
+      url('../fonts/BwModelica-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
