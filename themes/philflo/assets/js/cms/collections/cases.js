@@ -2,11 +2,13 @@ import { image } from "../partials/image"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { brandcolors } from "../partials/brandcolors"
+import { selectedbranch } from "../partials/selectedbranch"
 
 const fields = [
   ...base,
   image,
   brandcolors,
+  selectedbranch,
   seo
 ]
 

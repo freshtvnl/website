@@ -8,7 +8,7 @@
       <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
     {{ end }}
     {{ with $params.items }}
-    <div class="grid grid-cols-3 md:gap-6 lg:gap-12 xl:gap-16">
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-12">
     {{ range . }}
       {{ range where $site.Pages "Params.id" . }}
       {{ $item := . }}
@@ -20,6 +20,9 @@
           <h3 class="text-xl font-bold">
             {{ .Title }}
           </h3>
+          {{ range where $site.Pages "Params.id" .Params.branch }}
+          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+          {{ end }}
         </div>
       </a>
       {{ end }}

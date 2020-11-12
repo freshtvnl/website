@@ -16,6 +16,14 @@ export const brandcolors = {
     {
       label: "Goed rood",
       value: "red-500"
+    },
+    {
+      label: "Zonnebloem geel",
+      value: "yellow-500"
+    },
+    {
+      label: "Zorgvuldig Magenta",
+      value: "pink-500"
     }
   ]
 }
