@@ -4,36 +4,27 @@
 
 <div class="bg-gray-100 text-gray-800">
   <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-32">
-
     {{ with $params.title }}
       <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
     {{ end }}
-
     {{ with $params.items }}
     <div class="grid grid-cols-3 md:gap-6 lg:gap-12 xl:gap-16">
-
-    
     {{ range . }}
-    
       {{ range where $site.Pages "Params.id" . }}
       {{ $item := . }}
       <a href="{{$item.RelPermalink}}" class="block relative">
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
         {{ end }}
-        <div class="bg-blue-500 absolute inset-0 z-20 opacity-0 hover:opacity-100  duration-200  transition p-12 text-gray-100">
+        <div class="{{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100  duration-200  transition p-12 text-gray-100">
           <h3 class="text-xl font-bold">
             {{ .Title }}
           </h3>
         </div>
       </a>
       {{ end }}
-
     {{ end }}
-
     </div>
-
     {{ end }}
-
   </div>
 </div>
