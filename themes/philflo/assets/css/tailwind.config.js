@@ -46,6 +46,11 @@ module.exports = {
   },
   variants: {
     backgroundOpacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    translate: ["responsive", "hover", "focus", "active", "group-hover"],
+    transitionProperty: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    transform: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    transformOrigin: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
   },
   plugins: [
     require('@tailwindcss/typography'),

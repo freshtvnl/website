@@ -8,7 +8,7 @@
       <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
     {{ end }}
     {{ with $params.items }}
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-12">
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
     {{ range . }}
       {{ range where $site.Pages "Params.id" . }}
       {{ $item := . }}
@@ -16,8 +16,8 @@
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
         {{ end }}
-        <div class="{{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100  duration-200  transition p-12 text-gray-100">
-          <h3 class="text-xl font-bold">
+        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100">
+          <h3 class="text-xl lg:text-3xl font-bold">
             {{ .Title }}
           </h3>
           {{ range where $site.Pages "Params.id" .Params.branch }}
@@ -27,6 +27,11 @@
       </a>
       {{ end }}
     {{ end }}
+    </div>
+    <div class="flex justify-center items-center pt-8 lg:pt-16">
+      <a href="/portfolio" class="w-12 h-12 bg-green-500  flex items-center justify-center  ">
+        <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+      </a>
     </div>
     {{ end }}
   </div>
