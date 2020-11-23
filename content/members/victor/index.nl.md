@@ -1,5 +1,9 @@
 ---
 title: Victor
 slug: victor
-draft: false
+draft: true
+id: kJ07QyNzs
+image:
+  source: images/20_victor.png
+  alt: Victor
 ---
