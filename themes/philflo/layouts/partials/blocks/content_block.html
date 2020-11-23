@@ -4,12 +4,12 @@
 {{ $align := .params.align }}
 <div class="max-w-screen-2xl mx-auto px-4 py-8">
   <div class="mt-12 lg:mt-20 xl:mt-32 ">
-    <div class="grid md:grid-cols-5 md:col-gap-12 {{if eq $align "right" }}md:grid-flow-col-dense{{end}}">
-      <div class="col-span-2 {{if eq $align "right"}}md:col-start-4{{end}} prose lg:prose-lg">
+    <div class="grid md:grid-cols-5 md:gap-x-24 {{if eq $align "right" }}md:grid-flow-col-dense{{end}}">
+      <div class="col-span-2 {{if eq $align "right"}}md:col-start-4{{end}} prose lg:prose-lg py-12">
         {{$params.content | markdownify}}
       </div>
       <div class="col-span-3">
-        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "730" "height" "500" "class" "") }}
+        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1000" "height" "600" "class" "") }}
       </div>
     </div>
   </div>
