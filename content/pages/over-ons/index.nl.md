@@ -1,7 +1,10 @@
 ---
 title: "Over ons "
 slug: over-ons
+id: jCP4fqjKI
 blocks:
+  - type: hero_block
+    title: Over <span class="text-border">Phil en Flo</span>
   - type: content_block
     content: >-
       ## Waarom
@@ -33,6 +36,7 @@ blocks:
     collection: members
     title: Team
     number_of_items: 9
+    heading: h2
 menu:
   main:
     weight: 1
