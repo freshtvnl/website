@@ -2,13 +2,13 @@ const { colors, fontFamily, maxWidth } = require('tailwindcss/defaultTheme')
 
 
 module.exports = {
-  future: {
-    // removeDeprecatedGapUtilities: true,
-    // purgeLayersByDefault: true,
-    defaultLineHeights: true,
-    standardFontWeights: true
+  purge: {
+    enabled: process.env.HUGO_ENVIRONMENT === "production",
+    content: ["layouts/**/*.html"],
+    options: {
+      whitelist: [],
+    },
   },
-  purge: [],
   theme: {
     extend: {
 
@@ -45,12 +45,12 @@ module.exports = {
     }
   },
   variants: {
-    backgroundOpacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    translate: ["responsive", "hover", "focus", "active", "group-hover"],
-    transitionProperty: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    transform: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    transformOrigin: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    // backgroundOpacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    // translate: ["responsive", "hover", "focus", "active", "group-hover"],
+    // transitionProperty: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    // transform: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    // transformOrigin: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
+    // opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
   },
   plugins: [
     require('@tailwindcss/typography'),

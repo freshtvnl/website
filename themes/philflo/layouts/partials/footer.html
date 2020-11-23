@@ -51,3 +51,10 @@
     </div>
   </div>
 </div>
+
+{{ $alpine := resources.Get "js/alpine.js" }}
+{{ $alpine := $alpine | resources.Minify }}
+{{ with $alpine }}
+{{ $secureJS := . | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ end }}

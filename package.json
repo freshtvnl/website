@@ -14,14 +14,14 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "@ncwidgets/id": "^0.8.1",
-    "@tailwindcss/typography": "^0.2.0",
-    "autoprefixer": "^10.0.1",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.0.2",
     "netlify-cms-app": "^2.12.27",
-    "postcss": "^8.1.2",
-    "postcss-cli": "^8.1.0",
-    "postcss-import": "^12.0.1",
+    "postcss": "^8.1.9",
+    "postcss-cli": "^8.3.0",
+    "postcss-import": "^13.0.0",
     "postcss-nested": "^5.0.1",
-    "tailwindcss": "^1.9.6",
+    "tailwindcss": "^2.0.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }

@@ -21,7 +21,7 @@
 {{ $src1x := (.Fill (printf "%s %s" $size "Center" )) }}
 {{ $src2x := (.Fill (printf "%s %s" $size2x "Center" )) }}
 <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" alt="{{ $alt }}"
-  class="lazy {{ $class }}" width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy">
+  class=" {{ $class }}" width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy">
 {{ end }}
 {{ end }}
 {{ end }}
