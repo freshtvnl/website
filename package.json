@@ -16,7 +16,7 @@
     "@ncwidgets/id": "^0.8.1",
     "@tailwindcss/typography": "^0.3.1",
     "autoprefixer": "^10.0.2",
-    "netlify-cms-app": "^2.12.27",
+    "netlify-cms-app": "^2.13.3",
     "postcss": "^8.1.9",
     "postcss-cli": "^8.3.0",
     "postcss-import": "^13.0.0",

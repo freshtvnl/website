@@ -14,6 +14,35 @@ export const collection = {
       i18n: true,
     },
     {
+      label: "Heading",
+      name: "heading",
+      widget: "select",
+      options: [
+        {
+          "label": "H1 heading",
+          "value": "h1"
+        },
+        {
+          "label": "H2 heading",
+          "value": "h2"
+        },
+        {
+          "label": "H3 heading",
+          "value": "h3"
+        },
+        {
+          "label": "H4 heading",
+          "value": "h4"
+        },
+        {
+          "label": "H5 heading",
+          "value": "h5"
+        },
+      ],
+      required: true,
+      i18n: true,
+    },
+    {
       label: "Number of items",
       name: "number_of_items",
       widget: "number",
@@ -37,6 +66,10 @@ export const collection = {
         {
           "label": "Branches",
           "value": "branches"
+        },
+        {
+          "label": "Cases",
+          "value": "cases"
         }
       ],
       required: false,

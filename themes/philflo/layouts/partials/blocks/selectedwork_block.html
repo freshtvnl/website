@@ -1,9 +1,10 @@
 {{ $site := .site }}
 {{ $page := .page }}
 {{ $params := .params }}
+{{ $heading := .params.heading }}
 
 <div class="bg-gray-100 text-gray-800">
-  <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-32">
+  <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-24">
     {{ with $params.title }}
       <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
     {{ end }}
@@ -28,11 +29,13 @@
       {{ end }}
     {{ end }}
     </div>
+    {{ if $params.more_items}}
     <div class="flex justify-center items-center pt-8 lg:pt-16">
       <a href="/portfolio" class="w-12 h-12 bg-green-500  flex items-center justify-center  ">
         <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
       </a>
     </div>
+    {{ end }}
     {{ end }}
   </div>
 </div>

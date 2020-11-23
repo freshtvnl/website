@@ -21,7 +21,15 @@ export const selectedwork = {
       search_fields: ["title"],
       display_fields: ["title"],
       value_field: "id",
-      multiple: true
+      multiple: true,
+      i18n: true,
+    },
+    {
+      label: "Show more items link",
+      name: "more_items",
+      widget: "boolean",
+      i18n: true,
+      required: false
     }
   ]
 }

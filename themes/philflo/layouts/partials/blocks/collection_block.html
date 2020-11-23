@@ -2,20 +2,73 @@
 {{ $page := .page }}
 {{ $params := .params }}
 {{ $numItems := (cond (ne ($params.number_of_items) nil) ($params.number_of_items) ( 3 ) ) }}
-<div class="mt-12  ">
-  {{ if $params.title }}
-  <div class="mb-8">
-    <h2 class="text-3xl font-bold">{{ $params.title}}</h2>
-  </div>
-  {{ end }}
-  <div class="grid md:grid-cols-3 md:col-gap-12 md:row-gap-12">
-  {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
-  <div class=" border border-gray-200 p-4 ">
-    {{ $page := . }}
-      <h3 class="text-xl font-semibold">{{ .Title }}</h3>
+{{ $heading :=  (cond (ne ($params.heading) nil ) (.params.heading) ("h2") ) }}
+{{ $headingclass := "text-2xl font-bold mb-4 xl:mb-12" }}
+{{ $title := $params.title }}
 
-      <a href="{{.RelPermalink}}">{{ T "read_more" }}</a>
-  </div>
-  {{ end }}
+{{ if eq $params.collection "cases" }}
+<div class="bg-gray-100 text-gray-800">
+  <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:pt-24">
+
+    {{ if $title }}
+      {{ if eq $heading "h1"}}
+        <h1 class="{{$headingclass}}">{{$title}}</h1>
+      {{ end }}
+      {{ if eq $heading "h2"}}
+        <h2 class="{{$headingclass}}">{{$title}}</h2>
+      {{ end }}
+      {{ if eq $heading "h3"}}
+        <h3 class="{{$headingclass}}">{{$title}}</h3>
+      {{ end }}
+      {{ if eq $heading "h4"}}
+        <h4 class="{{$headingclass}}">{{$title}}</h4>
+      {{ end }}
+      {{ if eq $heading "h5"}}
+        <h5 class="{{$headingclass}}">{{$title}}</h5>
+      {{ end }}
+    {{ end }}
+
+
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
+      {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
+      {{ $item := . }}
+      <a href="{{$item.RelPermalink}}" class="block relative">
+        {{ with .Params.image}}
+        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
+        {{ end }}
+        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100">
+          <h3 class="text-xl lg:text-3xl font-bold">
+            {{ .Title }}
+          </h3>
+          {{ range where $site.Pages "Params.id" .Params.branch }}
+          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+          {{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
   </div>
 </div>
+{{ else }}
+
+<div class="max-w-screen-2xl mx-auto px-4 py-8">
+  <div class="mt-12  ">
+    {{ if $params.title }}
+    <div class="mb-8">
+      <h2 class="text-3xl font-bold">{{ $params.title}}</h2>
+    </div>
+    {{ end }}
+    <div class="grid md:grid-cols-3 md:col-gap-12 md:row-gap-12">
+    {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
+    <div class=" border border-gray-200 p-4 ">
+      {{ $page := . }}
+        <h3 class="text-xl font-semibold">{{ .Title }}</h3>
+
+        <a href="{{.RelPermalink}}">{{ T "read_more" }}</a>
+    </div>
+    {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
