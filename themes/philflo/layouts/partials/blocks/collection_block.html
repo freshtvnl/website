@@ -28,17 +28,15 @@
       {{ end }}
     {{ end }}
 
-
-
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
       {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
       {{ $item := . }}
-      <a href="{{$item.RelPermalink}}" class="block relative">
+      <a href="{{$item.RelPermalink}}" class="block relative overflow-hidden text-white">
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
         {{ end }}
-        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100">
-          <h3 class="text-xl lg:text-3xl font-bold">
+        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100 translate-x-10 hover:translate-x-0">
+          <h3 class="text-xl lg:text-3xl font-bold ">
             {{ .Title }}
           </h3>
           {{ range where $site.Pages "Params.id" .Params.branch }}
