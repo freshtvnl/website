@@ -9,7 +9,7 @@ module.exports = {
       path.resolve(__dirname) + "/content/**/*.md", 
     ],
     options: {
-      whitelist: [
+      safelist: [
         'bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-pink-500', 'bg-yellow-500'
       ],
     },
