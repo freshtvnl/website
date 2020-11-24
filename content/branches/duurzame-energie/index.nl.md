@@ -31,6 +31,13 @@ blocks:
       Wij maken enkel hoogwaardige producten die duurzaam in te zetten zijn. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en dus de inhoudt goed doornemen en opstellen.
     image:
       source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+  - type: selectedwork_block
+    title: Duurzame cases
+    items:
+      - sCR0-5I1N
+      - DG0aSzvMj
+      - dD7nogK0Q
+    more_items: true
   - type: content_block
     align: left
     content: >-

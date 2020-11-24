@@ -3,7 +3,7 @@
 {{ $params := .params }}
 {{ $heading := .params.heading }}
 
-<div class="bg-gray-100 text-gray-800">
+<div class="bg-gray-100 text-gray-800 mb-12 lg:mb-20 xl:mb-32">
   <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-24">
     {{ with $params.title }}
       <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
