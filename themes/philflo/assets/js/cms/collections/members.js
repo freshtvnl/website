@@ -1,6 +1,7 @@
 import { image } from "../partials/image"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
+import { blocks } from "../blocks/index"
 
 const fields = [
   ...base,
@@ -46,7 +47,8 @@ const members = {
   },
   folder: 'content/members',
   fields: [
-    ...fields
+    ...fields,
+    ...blocks
   ],
 }
 
