@@ -6,7 +6,9 @@ module.exports = {
     enabled: process.env.HUGO_ENVIRONMENT === "production",
     content: [path.resolve(__dirname) + "/layouts/**/*.html"],
     options: {
-      whitelist: [],
+      whitelist: [
+        'bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-pink-500', 'bg-yellow-500'
+      ],
     },
   },
   theme: {
