@@ -27,6 +27,10 @@
       {{ partial "blocks/collection_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
 
+    {{ if eq .type "contact_block" }}
+      {{ partial "blocks/contact_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
   {{ end }}
   </div>
 {{ end }}

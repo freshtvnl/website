@@ -56,4 +56,10 @@ blocks:
       Zodra de film af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
     image:
       source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+  - type: contact_block
+    content: Ik adviseer je graag over het behalen van jouw doelstellingen met de
+      inzet van video en animatie. Bel me op 085 - 273 8331
+    contacts:
+      - PZcCTyF1B
+    more_items: true
 ---
