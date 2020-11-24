@@ -3,5 +3,5 @@ title: Renewable energy
 slug: renewable-energy
 draft: false
 id: PkR2AheA1P
-color: green-500
+color: green
 ---

@@ -2,6 +2,7 @@ import { image } from "../partials/image"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { brandcolors } from "../partials/brandcolors"
+import { blocks } from "../blocks/index"
 
 const fields = [
   ...base,
@@ -24,7 +25,8 @@ const branches = {
   },
   folder: 'content/branches',
   fields: [
-    ...fields
+    ...fields,
+    ...blocks
   ],
 }
 

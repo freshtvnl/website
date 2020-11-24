@@ -7,23 +7,23 @@ export const brandcolors = {
   options: [
     {
       label: "Groen",
-      value: "green-500"
+      value: "green"
     },
     {
       label: "Tech blauw",
-      value: "blue-500"
+      value: "blue"
     },
     {
       label: "Goed rood",
-      value: "red-500"
+      value: "red"
     },
     {
       label: "Zonnebloem geel",
-      value: "yellow-500"
+      value: "yellow"
     },
     {
       label: "Zorgvuldig Magenta",
-      value: "pink-500"
+      value: "pink"
     }
   ]
 }

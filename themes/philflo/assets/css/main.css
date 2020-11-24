@@ -53,5 +53,11 @@
 }
 
 .text-border {
-  @apply border-b-4 border-green-400;
+  @apply border-b-4;
+}
+
+.page-green {
+  .text-border {
+    @apply border-green-400;
+  }
 }

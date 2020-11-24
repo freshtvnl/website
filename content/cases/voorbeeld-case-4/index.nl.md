@@ -5,6 +5,6 @@ id: dD7nogK0Q
 image:
   source: images/tom-podmore-1hvqqowl_fu-unsplash.jpg
   alt: yellow bulding
-color: yellow-500
+color: yellow
 branch: q6TD9LMXU
 ---

@@ -6,6 +6,6 @@ id: fm2wFFmdb
 image:
   source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
   alt: man on beach
-color: blue-500
+color: blue
 branch: YBLABQPne
 ---

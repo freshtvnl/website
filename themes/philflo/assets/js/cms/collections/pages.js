@@ -1,11 +1,13 @@
 import { image } from "../partials/image"
 import { menu } from "../partials/menu"
 import { base } from "../partials/base"
+import { seo } from "../partials/seo"
 import { blocks } from "../blocks/index"
 
 const fields = [
   ...base,
   image,
+  seo
 ]
 
 const pages = {
