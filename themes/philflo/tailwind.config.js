@@ -4,7 +4,10 @@ const path = require("path");
 module.exports = {
   purge: {
     enabled: process.env.HUGO_ENVIRONMENT === "production",
-    content: [path.resolve(__dirname) + "/layouts/**/*.html"],
+    content: [
+      path.resolve(__dirname) + "/layouts/**/*.html", 
+      path.resolve(__dirname) + "/content/**/*.md", 
+    ],
     options: {
       whitelist: [
         'bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-pink-500', 'bg-yellow-500'

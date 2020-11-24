@@ -2,7 +2,7 @@
 title: Phil & Flo
 blocks:
   - type: hero_block
-    title: Wij verbeelden de <span class="border-b-4 border-green-400">wereld van
+    title: Wij verbeelden de <span class="border-b-4 text-border">wereld van
       morgen.</span>
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg

@@ -57,7 +57,7 @@
 }
 
 .text-border {
-  @apply border-b-4;
+  @apply border-b-4 border-green-400;
 }
 
 .page-green {
