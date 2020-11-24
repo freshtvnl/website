@@ -3,7 +3,7 @@
 {{ $params := .params }}
 {{ $numItems := (cond (ne ($params.number_of_items) nil) ($params.number_of_items) ( 3 ) ) }}
 {{ $heading :=  (cond (ne ($params.heading) nil ) (.params.heading) ("h2") ) }}
-{{ $headingclass := "text-2xl font-bold mb-4 xl:mb-12" }}
+{{ $headingclass := "text-2xl lg:text-3xl font-bold mb-4 xl:mb-12" }}
 {{ $title := $params.title }}
 
 {{ if eq $params.collection "cases" }}
@@ -50,9 +50,7 @@
 </div>
 {{ else if eq $params.collection "members"  }}
 
-<div class="bg-gray-100 text-gray-800">
-  <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:pt-24">
-
+<div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-8 lg:pb-24">
     {{ if $title }}
       {{ if eq $heading "h1"}}
         <h1 class="{{$headingclass}}">{{$title}}</h1>
@@ -71,26 +69,23 @@
       {{ end }}
     {{ end }}
 
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-24">
       {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
       {{ $item := . }}
-      <a href="{{$item.RelPermalink}}" class="block relative overflow-hidden text-white">
+      <a href="{{$item.RelPermalink}}" class="block relative text-center">
         {{ with .Params.image}}
-        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "relative") }}
+        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "transform scale-100 hover:scale-110 transition duration-300 mx-auto ") }}
         {{ end }}
-        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100 translate-x-10 hover:translate-x-0">
-          <h3 class="text-xl lg:text-3xl font-bold ">
+        <div class="text-center">
+          <h3 class="text-xl lg:text-2xl font-bold  ">
             {{ .Title }}
           </h3>
-          {{ range where $site.Pages "Params.id" .Params.branch }}
-          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
-          {{ end }}
+          <p>Functie</p>
         </div>
       </a>
       {{ end }}
     </div>
   </div>
-</div>
 
 {{ else }}
 
