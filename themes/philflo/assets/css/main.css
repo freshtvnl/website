@@ -3,6 +3,8 @@
 @import "tailwindcss/utilities";
 
 
+/* purgecss start ignore */
+
 @font-face {
   font-family: 'Bw Modelica';
   src: url('../fonts/BwModelica-Bold.woff2') format('woff2'),
@@ -48,6 +50,8 @@
   font-display: swap;
 }
 
+
+
 .smooth-scroll {
   scroll-behavior: smooth;
 }
@@ -61,3 +65,5 @@
     @apply border-green-400;
   }
 }
+
+/* purgecss end ignore */
