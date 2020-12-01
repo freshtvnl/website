@@ -1,12 +1,12 @@
 ---
-title: Phil & Flo
+title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
     title: Wij verbeelden de <span class="border-b-4 text-border">wereld van
       morgen.</span>
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
-      alt: Hond met rood kleed
+      alt: Green
   - type: content_block
     align: center
     content: >-
@@ -21,7 +21,7 @@ blocks:
 
       Ons doel is een versnelling van deze mooie toekomst te realiseren door jouw ideeën te verbeelden. Wij verbeelden de wereld van morgen. Wat doe jij voor de wereld van morgen?
   - type: selectedwork_block
-    title: Geselecteerd werk
+    title: Cases
     items:
       - sCR0-5I1N
       - fm2wFFmdb
