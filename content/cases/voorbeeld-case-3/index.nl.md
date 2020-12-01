@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld case 3
+title: 3D commercial - Kunstenaars organisatie
 draft: false
 id: DG0aSzvMj
 image:
