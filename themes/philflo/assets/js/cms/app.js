@@ -24,7 +24,7 @@ CMS.init({
     public_folder: '/media',
     backend: {
       name: 'github',
-      repo: 'philflonl/website'
+      repo: 'freshtvnl/website'
     },
     media_library: {
       name: '',
