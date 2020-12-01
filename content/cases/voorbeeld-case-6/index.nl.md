@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld case 6
+title: Douwe Egberts - Promotiefilm
 draft: false
 id: E9m0t0ALL
 image:
