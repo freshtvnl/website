@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld case 5
+title: UMCG - Chirurgie Employer Branding film
 draft: false
 id: cc-ik-qqS
 image:
