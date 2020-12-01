@@ -35,8 +35,6 @@ blocks:
     title: Duurzame cases
     items:
       - sCR0-5I1N
-      - DG0aSzvMj
-      - dD7nogK0Q
     more_items: true
   - type: content_block
     align: left
