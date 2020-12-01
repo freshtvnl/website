@@ -4,7 +4,7 @@ slug: Uitlegfilm over betaalapp
 draft: false
 id: fm2wFFmdb
 image:
-  source: images/payconiq-innovatieve-tech-phil-en-flo.png
+  source: images/schermafbeelding-2020-12-01-om-16.02.29.png
   alt: "Payconiq - Phil en Flo "
 color: blue
 branch: YBLABQPne
