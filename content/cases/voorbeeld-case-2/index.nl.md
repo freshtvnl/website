@@ -1,10 +1,10 @@
 ---
-title: Voorbeeld case 2
-slug: voorbeeld-case-2
+title: Payconiq - QR-code scan en betaal app
+slug: Uitlegfilm over betaalapp
 draft: false
 id: fm2wFFmdb
 image:
-  source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+  source: images/payconiq-innovatieve-tech-phil-en-flo.png
   alt: man on beach
 color: blue
 branch: YBLABQPne
