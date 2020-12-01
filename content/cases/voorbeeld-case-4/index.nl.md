@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld case 4
+title: Coornhert Gymnasium - Promotiefilm school
 draft: false
 id: dD7nogK0Q
 image:
