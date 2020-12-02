@@ -13,23 +13,28 @@ blocks:
       dat er nog veel moet gebeuren om iedereen te voorzien van duurzame
       voedsel. Wij proberen dit te versnellen door jou te helpen met het
       verbeelden van je product.
+    displaymedia: image
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
   - type: content_block
     align: left
+    displaymedia: image
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
     content: Voedsel ....
   - type: content_block
     align: right
+    displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-2.jpg
   - type: content_block
     align: left
+    displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-4.jpg
   - type: content_block
     align: right
+    displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio.jpg
   - type: selectedwork_block

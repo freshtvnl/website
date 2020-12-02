@@ -10,6 +10,7 @@ blocks:
   - type: hero_block
     title: De wereld van <span class="text-border">Peter</span>, is de wereld van
       morgen
+    displaymedia: image
     image:
       source: images/nathan-guzman-acv_7qnaaio-unsplash.jpg
   - type: content_block
