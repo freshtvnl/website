@@ -21,7 +21,7 @@ blocks:
 
       Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
     image:
-      source: images/aii04944.jpg
+      source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
   - type: content_block
     align: right
     content: >-
