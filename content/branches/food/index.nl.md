@@ -7,7 +7,7 @@ seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
 blocks:
   - type: hero_block
-    title: Verbeelden van ons voedsel
+    title: Verbeelden van ons <span class="text-border">eten & drinken</span>
     content: Phil & Flo Creative Studio specialiseert zich in het vastleggen en
       verbeelden van food. Als je kijkt naar de wereld van morgen, dan zie je
       dat er nog veel moet gebeuren om iedereen te voorzien van duurzame
