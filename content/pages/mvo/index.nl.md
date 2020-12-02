@@ -56,7 +56,6 @@ blocks:
       ## Phil & Flo klimaatneutraal?
 
 
-
       Wij werken elke dag aan een betere wereld. Waaronder het klimaat.
 
       Elke dag kijken wij kritisch wat we kunnen verbeteren. Maar dit is wat we nu al doen:
@@ -64,17 +63,27 @@ blocks:
 
       Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via  https://treesforall.nl/compenseer-co2/
 
+
+
       Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via https://loyaltree.nl/
+
+
 
       Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.
 
+
+
       Onze relatiegeschenken zijn duurzaam of ECO https://join-the-pipe.org/
+
+
 
       Wij investeren in windmolenparken op zee https://meewind.nl/fonds/zeewind-bestaande-parken/
 
+
+
       Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
     image:
-      source: images/florian-kijkt-omhoog-mvo-phil-en-flo.jpg
+      source: images/phil-en-flo-mvo.jpg
     displaymedia: image
 menu:
   main:
