@@ -32,4 +32,11 @@ blocks:
     align: right
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio.jpg
+  - type: selectedwork_block
+    items:
+      - E9m0t0ALL
+    title: Cases
+  - type: contact_block
+    contacts:
+      - Nc7XQAY2B
 ---
