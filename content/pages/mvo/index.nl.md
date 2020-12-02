@@ -49,6 +49,7 @@ blocks:
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
+    displaymedia: image
   - type: content_block
     align: left
     content: >-
@@ -74,6 +75,7 @@ blocks:
       Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
     image:
       source: images/florian-kijkt-omhoog-mvo-phil-en-flo.jpg
+    displaymedia: image
 menu:
   main:
     weight: 6
