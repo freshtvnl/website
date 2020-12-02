@@ -45,7 +45,7 @@ blocks:
 
 
       #### **Onze black-list zal worden aangevuld naarmate de tijd vordert.**
-    align: left
+    align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
 menu:
