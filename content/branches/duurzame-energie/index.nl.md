@@ -19,9 +19,9 @@ blocks:
       ## Expertise duurzame energie
 
 
-      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden. Wij zijn tevens aangesloten bij het NVDE en Peter is hier ook het aanspreekpunt voor.
+      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
     image:
-      source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+      source: images/aii04944.jpg
   - type: content_block
     align: right
     content: >-
