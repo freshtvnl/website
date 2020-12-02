@@ -72,6 +72,8 @@ blocks:
       Wij investeren in windmolenparken op zee https://meewind.nl/fonds/zeewind-bestaande-parken/
 
       Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
+    image:
+      source: images/florian-kijkt-omhoog-mvo-phil-en-flo.jpg
 menu:
   main:
     weight: 6
