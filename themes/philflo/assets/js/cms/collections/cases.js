@@ -3,6 +3,7 @@ import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { brandcolors } from "../partials/brandcolors"
 import { selectedbranch } from "../partials/selectedbranch"
+import { blocks } from "../blocks/index"
 
 const fields = [
   ...base,
@@ -26,7 +27,8 @@ const cases = {
   },
   folder: 'content/cases',
   fields: [
-    ...fields
+    ...fields,
+    ...blocks
   ],
 }
 

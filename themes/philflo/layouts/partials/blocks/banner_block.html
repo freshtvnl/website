@@ -1,0 +1,57 @@
+{{ $site := .site }}
+{{ $page := .page }}
+{{ $params := .params }}
+{{ $display := .params.displaymedia}}
+<div class="py-8">
+  {{ if not $params.fullwidth }}
+    <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-8">
+  {{ end }}
+    {{ if and ($params.video) (eq $display "custom_video") }}
+      <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
+        {{ with  $params.video.source_webm }}
+          <source src="{{.}}" type="video/webm">
+        {{ end }}
+        {{ with  $params.video.source_mp4 }}
+        <source src="{{.}}" type="video/mp4">
+        {{ end }}
+      </video>
+    {{ end }}
+    
+    {{ if and ($params.image) (eq $display "image") }}
+      {{ if $params.fullwidth }}
+      {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "2560" "height" "1200" "class" "") }}
+      {{ else }}
+      {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1640" "height" "900" "class" "") }}
+      {{ end }}
+    {{ end }}
+
+    {{ if and ($params.youtube) (eq $display "youtube_video") }}
+      {{ with $params.youtube.id}}
+      <div class="video-wrapper">
+        <div id="player" data-video="{{.}}"></div>
+      </div>
+      <script>
+         var tag = document.createElement('script');
+          var player = document.getElementById('player');
+
+          tag.src = "https://www.youtube.com/iframe_api";
+          var firstScriptTag = document.getElementsByTagName('script')[0];
+          firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+
+          //var player;
+          function onYouTubeIframeAPIReady() {
+            player = new YT.Player('player', {
+              height: '390',
+              width: '640',
+              videoId: player.dataset.video
+            });
+          }
+      </script>
+      {{ end }}
+    {{ end }}
+
+  {{ if $params.fullwidth }}
+    </div>
+  {{ end }}
+</div>

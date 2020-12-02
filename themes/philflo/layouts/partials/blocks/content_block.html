@@ -2,6 +2,8 @@
 {{ $page := .page }}
 {{ $params := .params }}
 {{ $align := .params.align }}
+{{ $display := .params.displaymedia }}
+
 <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-8">
   <div class="mb-12 lg:mb-20 xl:mb-32 ">
     <div class="grid md:grid-cols-5 md:gap-x-24 {{if eq $align "right" }}md:grid-flow-col-dense{{end}}">
@@ -9,7 +11,50 @@
         {{$params.content | markdownify}}
       </div>
       <div class="col-span-5 md:col-span-3">
-        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1000" "height" "600" "class" "") }}
+        {{ if and ($params.video) (eq $display "custom_video") }}
+        <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
+          {{ with  $params.video.source_webm }}
+            <source src="{{.}}" type="video/webm">
+          {{ end }}
+          {{ with  $params.video.source_mp4 }}
+          <source src="{{.}}" type="video/mp4">
+          {{ end }}
+        </video>
+      {{ end }}
+      
+      {{ if and ($params.image) (eq $display "image") }}
+        {{ if $params.fullwidth }}
+        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "2560" "height" "1200" "class" "") }}
+        {{ else }}
+        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1640" "height" "900" "class" "") }}
+        {{ end }}
+      {{ end }}
+  
+      {{ if and ($params.youtube) (eq $display "youtube_video") }}
+        {{ with $params.youtube.id}}
+        <div class="video-wrapper">
+          <div id="player" data-video="{{.}}"></div>
+        </div>
+        <script>
+           var tag = document.createElement('script');
+            var player = document.getElementById('player');
+  
+            tag.src = "https://www.youtube.com/iframe_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  
+  
+            //var player;
+            function onYouTubeIframeAPIReady() {
+              player = new YT.Player('player', {
+                height: '390',
+                width: '640',
+                videoId: player.dataset.video
+              });
+            }
+        </script>
+        {{ end }}
+      {{ end }}
       </div>
     </div>
   </div>

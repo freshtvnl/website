@@ -31,6 +31,10 @@
       {{ partial "blocks/contact_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
 
+    {{ if eq .type "banner_block" }}
+      {{ partial "blocks/banner_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
   {{ end }}
   </div>
 {{ end }}

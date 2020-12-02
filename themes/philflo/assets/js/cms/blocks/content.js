@@ -1,4 +1,4 @@
-import { image } from '../partials/image'
+import { media } from '../partials/media'
 
 export const content = {
   label: "Content block",
@@ -22,6 +22,7 @@ export const content = {
       required: false,
       i18n: true,
     },
-    image
+    ...media
+    
   ]
 }

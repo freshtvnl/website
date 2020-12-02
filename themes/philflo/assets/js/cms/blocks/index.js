@@ -3,6 +3,7 @@ import { collection } from './collection'
 import { hero } from './hero'
 import { selectedwork } from './selectedwork'
 import { contact } from './contact'
+import { banner } from './banner'
 
 export const blocks = [
   {
@@ -15,7 +16,8 @@ export const blocks = [
       content,
       collection,
       selectedwork,
-      contact
+      contact,
+      banner
     ]
   }
 ]
