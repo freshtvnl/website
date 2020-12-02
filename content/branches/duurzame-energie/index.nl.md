@@ -39,7 +39,7 @@ blocks:
 
       Duurzame energie is belangrijk en kan serieus zijn, maar eigenlijk proberen we er juist een feestje van te maken. Qua samenwerking met jullie en ons team en natuurlijk ook voor de eindgebruiker; de persoon die de film gaat kijken. Een feestje om samen creatief tot een prachtig product te komen en een feestje voor de kijker om naar te kijken. Mooie beelden, een boeiend verhaal en een interessante boodschap.
     image:
-      source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+      source: images/feestje-phil-en-flo.jpg
   - type: content_block
     align: right
     content: >-
@@ -48,7 +48,7 @@ blocks:
 
       Zodra de film af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
     image:
-      source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+      source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
   - type: selectedwork_block
     title: Duurzame cases
     items:
