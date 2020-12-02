@@ -28,9 +28,9 @@ blocks:
       ## Duurzaam inzetbaar
 
 
-      Wij maken enkel hoogwaardige producten die duurzaam in te zetten zijn. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en dus de inhoudt goed doornemen en opstellen.
+      Wij maken enkel hoogwaardige producten die duurzaam zijn in te zetten. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoudt goed door te nemen en op te stellen.
     image:
-      source: images/kevin-turcios-kwttjdkq94o-unsplash.jpg
+      source: images/groningen-seaport-duurzame-energie-phil-en-flo.png
   - type: selectedwork_block
     title: Duurzame cases
     items:
