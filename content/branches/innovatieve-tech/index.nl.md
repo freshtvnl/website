@@ -21,8 +21,7 @@ blocks:
       ## Duurzaam inzetbaar
 
 
-
-      FreshTV stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime inzetbaar zijn.
+      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn.
     displaymedia: image
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
@@ -33,4 +32,7 @@ blocks:
 
 
       Onze experts staan ook voor klaar om een strategie uit te denken op het gebied van campagnematige inzet. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen.
+    displaymedia: image
+    image:
+      source: images/innovatieve-tech-oio2-phil-en-flo.jpg
 ---
