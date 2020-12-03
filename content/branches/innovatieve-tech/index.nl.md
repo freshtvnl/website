@@ -50,4 +50,7 @@ blocks:
     items:
       - fm2wFFmdb
   - type: banner_block
+    displaymedia: custom_video
+    video:
+      source_mp4: https://freshtv.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
 ---
