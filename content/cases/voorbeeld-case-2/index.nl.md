@@ -55,4 +55,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: xG-FjaFq03A
+  - type: content_block
+    content: >-
+      ## Resultaat
+
+
+
+      De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, YouTube en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
+    align: right
+    image:
+      source: images/payconiq-phil-en-flo-achter-de-schermen.jpg
 ---
