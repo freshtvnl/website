@@ -12,10 +12,7 @@ blocks:
       expertises inzetten om hun inspirerende verhaal te verbeelden.
 
 
-      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat hun doelgroep een extra vertaalslag nodig heeft om meegenomen te worden in jouw verhaal. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Door onze affiniteit en enthousiasme. 
-
-
-      We doen dit door middel van verschillende manieren. Voor elke moment in de customer journey van jouw klant maken we maatwerk.
+      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat hun doelgroep een extra vertaalslag nodig heeft omhet te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
     image:
       source: images/innovatieve-tech-phil-en-flo.jpg
   - type: content_block
@@ -30,4 +27,10 @@ blocks:
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
   - type: content_block
+    content: >-
+      ## Campagnematige inzet
+
+
+
+      Onze experts staan ook voor klaar om een strategie uit te denken op het gebied van campagnematige inzet. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen.
 ---
