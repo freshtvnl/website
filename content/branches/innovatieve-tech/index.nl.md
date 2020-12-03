@@ -5,7 +5,7 @@ draft: false
 id: YBLABQPne
 blocks:
   - type: hero_block
-    title: Disruptieve technische innovatie
+    title: Disruptieve <span class="text-border">technische innovatie</span>
     content: >-
       Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij zijn
       dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
