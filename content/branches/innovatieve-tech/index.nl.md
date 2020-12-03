@@ -35,4 +35,15 @@ blocks:
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
     align: right
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
+  - type: selectedwork_block
+    items:
+      - fm2wFFmdb
+    title: Video voorbeelden
+  - type: selectedwork_block
+    title: Animatie voorbeelden
+    items:
+      - fm2wFFmdb
 ---
