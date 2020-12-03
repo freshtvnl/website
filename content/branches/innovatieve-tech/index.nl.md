@@ -16,6 +16,18 @@ blocks:
 
 
       We doen dit door middel van verschillende manieren. Voor elke moment in de customer journey van jouw klant maken we maatwerk.
+    image:
+      source: images/innovatieve-tech-phil-en-flo.jpg
   - type: content_block
+    align: left
+    content: >-
+      ## Duurzaam inzetbaar
+
+
+
+      FreshTV stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime inzetbaar zijn.
+    displaymedia: image
+    image:
+      source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
   - type: content_block
 ---
