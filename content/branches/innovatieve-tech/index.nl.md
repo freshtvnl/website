@@ -22,7 +22,7 @@ blocks:
 
 
       Phil & Flo stuurt op duurzame klantrelaties. Door intensieve en voornamelijk enthousiaste relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn. Daarnaast is het fijn om tijdens de samenwerking plezier te maken en er samen iets moois van te bouwen.
-    displaymedia: custom_video
+    displaymedia: image
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
     video:
@@ -49,8 +49,4 @@ blocks:
     title: Animatie voorbeelden
     items:
       - fm2wFFmdb
-  - type: banner_block
-    displaymedia: custom_video
-    video:
-      source_mp4: https://freshtv.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
 ---
