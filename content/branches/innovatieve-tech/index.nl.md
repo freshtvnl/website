@@ -35,4 +35,5 @@ blocks:
     displaymedia: image
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
+    align: right
 ---
