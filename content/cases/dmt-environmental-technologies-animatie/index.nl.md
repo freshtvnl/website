@@ -4,7 +4,7 @@ slug: Animatiefilm over biogas
 draft: false
 id: fm2wFFmdb
 image:
-  source: ""
+  source: images/duurzame-energie-dmt-biogas.jpg
   alt: ""
 color: green
 branch: 0uhmsFFxS
