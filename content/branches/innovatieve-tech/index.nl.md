@@ -12,7 +12,7 @@ blocks:
       expertises inzetten om hun inspirerende verhaal te verbeelden.
 
 
-      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat hun doelgroep een extra vertaalslag nodig heeft omhet te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
+      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
     image:
       source: images/innovatieve-tech-phil-en-flo.jpg
   - type: content_block
@@ -21,7 +21,7 @@ blocks:
       ## Duurzaam inzetbaar
 
 
-      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn.
+      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve en voornamelijk enthousiaste relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn. Daarnaast is het fijn om tijdens de samenwerking plezier te maken en er samen iets moois van te bouwen.
     displaymedia: image
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
@@ -30,8 +30,7 @@ blocks:
       ## Campagnematige inzet
 
 
-
-      Onze experts staan ook voor klaar om een strategie uit te denken op het gebied van campagnematige inzet. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen.
+      Onze experts staan ook klaar om een strategie uit te denken om de doelgroep te bereiken met onze films. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan bijvoorbeeld op LinkedIn. Vraag ons naar de mogelijkheden.
     displaymedia: image
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
