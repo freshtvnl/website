@@ -22,7 +22,7 @@ blocks:
   - type: content_block
     displaymedia: custom_video
     video:
-      source_mp4: https://dsh.re/6cb65
+      source_mp4: freshtv.nl/video/payconiq-Phil-en-Flo-website.mp4
     align: left
     content: >-
       ## Doelstellingen
