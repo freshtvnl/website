@@ -68,4 +68,5 @@ blocks:
     align: right
     image:
       source: images/payconiq-phil-en-flo-achter-de-schermen.jpg
+    displaymedia: image
 ---
