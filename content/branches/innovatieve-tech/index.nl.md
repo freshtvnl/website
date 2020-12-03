@@ -27,6 +27,7 @@ blocks:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
     video:
       source_mp4: freshtv.nl/video/innovatieve%20tech-Phil%20en%20Flo%20video%20website.mp4
+      source_webm: freshtv.nl/video/innovatieve%20tech-Phil%20en%20Flo%20video%20website.webm
   - type: content_block
     content: >-
       ## Campagnematige inzet
