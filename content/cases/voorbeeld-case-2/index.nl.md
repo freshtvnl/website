@@ -23,4 +23,36 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://dsh.re/6cb65
+    align: left
+    content: >-
+      ## Doelstellingen
+
+
+
+      Payconiq krachtig en duidelijk in de markt zetten. Wat kan je met de betaal-app, hoe compleet zijn de bijbehorende functies en wat maakt het betalen ermee zo ontzettend eenvoudig? Genoeg vragen om te beantwoorden. Het uiteindelijk doel? Dat iedereen gebruik gaat maken van deze app en zich nooit meer over betalingen hoeft te bekommeren.
+  - type: content_block
+    align: right
+    content: >-
+      ## Uitvoering
+
+
+
+      Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte video zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
+
+      Naast de algemene B2C en B2B video’s, zijn situatie-specifieke video’s opgenomen. Hierin presenteren we het gemak van de betaal-app onder verschillende omstandigheden. Bijvoorbeeld vanuit je bed online het winkelmandje afrekenen, in een restaurant de rekening delen of gewoon op de bank je concerttickets aankoop bevestigen met één simpele vingerafdruk.
+
+      De video’s zijn volledig in de betreffende huisstijl van Payconiq opgeleverd, zodat de videocontent naadloos aansluit bij alle andere huisstijldragers.
+  - type: content_block
+    content: >-
+      ## Duurzaamheid
+
+
+
+      In het kader van duurzaamheid en schaalbaarheid is gebruik gemaakt van een voice-over. Dit zorgt ervoor dat de films van nieuwe voice-overs in andere talen kunnen worden voorzien, zonder dat er opnieuw gefilmd moet worden, omdat acteurs in beeld praten. Handig, want Payqonic heeft grote plannen. Ook buiten de Nederlandse grenzen!
+
+      Vanwege de internationale ambities, hebben we tijdens de filmopnames niet de applicatie maar een groen scherm gefilmd. Onze animatie-specialisten hebben hierdoor de mogelijkheid om de schermen naar wens in te vullen en op een later moment aan te passen. Bijvoorbeeld om de teksten in het scherm te vertalen van het Nederlands naar het Engels.
+    align: left
+    displaymedia: youtube_video
+    youtube:
+      id: xG-FjaFq03A
 ---
