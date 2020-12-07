@@ -3,6 +3,8 @@ title: Innovatieve Tech
 slug: Innovatieve-tech
 draft: false
 id: YBLABQPne
+image:
+  source: images/innovatieve-tech-phil-en-flo.jpg
 color: blue
 blocks:
   - type: hero_block

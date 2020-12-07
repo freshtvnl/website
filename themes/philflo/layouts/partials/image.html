@@ -11,13 +11,9 @@
 {{ $size2x := (printf "%s%s%s" (print $width2x) "x" (print $height2x )) }}
 
 {{ $class := .class }}
-
 {{ if $source }}
-
 {{ with $page.Resources.GetMatch $source  }}
-
 {{ with .  }}
-
 {{ $src1x := (.Fill (printf "%s %s" $size "Center" )) }}
 {{ $src2x := (.Fill (printf "%s %s" $size2x "Center" )) }}
 <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" alt="{{ $alt }}"

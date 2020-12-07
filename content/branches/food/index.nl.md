@@ -3,9 +3,9 @@ title: Food
 slug: food
 draft: false
 id: CA0ObKsX0
+image:
+  source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
 color: red
-seo:
-  image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
 blocks:
   - type: hero_block
     title: Verbeelden van ons <span class="text-border">eten & drinken</span>
@@ -45,4 +45,6 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
 ---

@@ -4,6 +4,9 @@ slug: duurzame-energie
 draft: false
 id: 0uhmsFFxS
 color: green
+image:
+  source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
+  alt: "text"
 blocks:
   - type: hero_block
     title: De wereld van morgen draait op <span class="text-border">duurzame

@@ -1,4 +1,4 @@
-const { colors, fontFamily, maxWidth } = require('tailwindcss/defaultTheme')
+const { colors, fontFamily, maxWidth, screens } = require('tailwindcss/defaultTheme')
 const path = require("path");
 
 module.exports = {
@@ -25,6 +25,11 @@ module.exports = {
       fontFamily: {
         ...fontFamily,
         'sans' : ['Bw Modelica', 'sans-serif']
+      },
+
+      screens: {
+        ...screens,
+        '2xl' : '1700px'
       },
 
       colors: {
