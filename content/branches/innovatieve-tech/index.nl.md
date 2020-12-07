@@ -3,6 +3,7 @@ title: Innovatieve Tech
 slug: Innovatieve-tech
 draft: false
 id: YBLABQPne
+color: blue
 blocks:
   - type: hero_block
     title: Disruptieve <span class="text-border">technische innovatie</span>
