@@ -13,10 +13,10 @@
   {{ end }}
   {{ with $params.image}}
   {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "1600" "height" "900" "class" "mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative") }}
-  <div class="bg-green-400 w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
+  <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
     &nbsp;
     <a href="#main" class="hidden md:block">
-      <div class="w-12 h-12 bg-green-500  flex items-center justify-center animate-bounce duration-700 ">
+      <div class="w-12 h-12 bg-black bg-opacity-10 flex items-center justify-center animate-bounce duration-700 ">
         <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
       </div>
     </a>

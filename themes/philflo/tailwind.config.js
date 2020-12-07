@@ -45,7 +45,21 @@ module.exports = {
             ...colors.gray,
             '100' : '#F2F7F9',
             '800' : '#212B30'
+          },
+
+          yellow: {
+            ...colors.yellow,
+            '500' : '#ffc200'
+          },
+          red: {
+            ...colors.red,
+            '500' : '#da453f'
+          },
+          pink: {
+            ...colors.pink,
+            '500' : '#ec008c'
           }
+
       }
     }
   },

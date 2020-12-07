@@ -3,6 +3,7 @@ title: Food
 slug: food
 draft: false
 id: CA0ObKsX0
+color: red
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
 blocks:

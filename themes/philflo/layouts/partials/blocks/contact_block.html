@@ -2,10 +2,6 @@
 {{ $page := .page }}
 {{ $params := .params }}
 
-
-
-{{ $color :=  (cond (ne ($page.Params.color) nil ) ( printf "%s%s%s" "bg-" $page.Params.color "-500") ("bg-green-500") ) }}
-
 <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-8 mb-12 lg:mb-20 xl:mb-32">
   <div class="grid grid-cols-5 gap-16">
     <div class="col-span-5 sm:col-span-2"> 
@@ -29,8 +25,8 @@
     </div>
     {{ end }}
     <div class="self-center col-span-5 sm:col-span-3">
-      <div class="p-8 sm:p-12 {{$color}} text-white prose lg:prose-lg xl:prose-xl relative">
-        <div class="h-12 w-12 transform rotate-45 {{$color}} absolute sm:left-0 sm:-translate-x-1/2 top-0 sm:top-12 -translate-y-1/2 sm:translate-y-0">&nbsp;</div>
+      <div class="p-8 sm:p-12 branch-element-bg text-white prose lg:prose-lg xl:prose-xl relative">
+        <div class="h-12 w-12 transform rotate-45 branch-element-bg absolute sm:left-0 sm:-translate-x-1/2 top-0 sm:top-12 -translate-y-1/2 sm:translate-y-0">&nbsp;</div>
         {{ with $params.content }}
           {{ . }}
         {{ end }}
