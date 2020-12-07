@@ -5,7 +5,7 @@ import { seo } from "../partials/seo"
 const fields = [
   ...base,
   image,
-  seo
+  
 ]
 
 const solutions = {
@@ -22,7 +22,8 @@ const solutions = {
   },
   folder: 'content/solutions',
   fields: [
-    ...fields
+    ...fields,
+    seo
   ],
 }
 

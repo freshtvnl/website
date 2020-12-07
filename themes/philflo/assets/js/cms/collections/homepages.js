@@ -20,7 +20,7 @@ const fields = [
     required: false,
     i18n: true
   },
-  seo
+ 
 ]
 
 const homepages = {
@@ -51,7 +51,8 @@ const homepages = {
       file: "content/_index.md",
       fields: [
         ...fields,
-        ...blocks
+        ...blocks,
+        seo
       ],
     },
     {
@@ -60,7 +61,8 @@ const homepages = {
       file: "content/_index.en.md",
       fields: [
         ...fields,
-        ...blocks
+        ...blocks,
+        seo
       ],
     }
   ],

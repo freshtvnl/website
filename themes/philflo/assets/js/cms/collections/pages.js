@@ -7,7 +7,7 @@ import { blocks } from "../blocks/index"
 const fields = [
   ...base,
   image,
-  seo
+  
 ]
 
 const pages = {
@@ -33,6 +33,7 @@ const pages = {
   fields: [
     ...fields,
     ...blocks,
+    seo,
     menu
   ],
 }

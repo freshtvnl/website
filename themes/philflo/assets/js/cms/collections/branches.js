@@ -8,7 +8,6 @@ const fields = [
   ...base,
   image,
   brandcolors,
-  seo
 ]
 
 const branches = {
@@ -26,7 +25,8 @@ const branches = {
   folder: 'content/branches',
   fields: [
     ...fields,
-    ...blocks
+    ...blocks,
+    seo
   ],
 }
 

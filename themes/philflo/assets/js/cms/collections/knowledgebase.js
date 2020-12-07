@@ -5,7 +5,6 @@ import { seo } from "../partials/seo"
 const fields = [
   ...base,
   image,
-  seo
 ]
 
 const knowledgebase = {
@@ -22,7 +21,8 @@ const knowledgebase = {
   },
   folder: 'content/knowledgebase',
   fields: [
-    ...fields
+    ...fields,
+    seo
   ],
 }
 

@@ -10,7 +10,7 @@ const fields = [
   image,
   brandcolors,
   selectedbranch,
-  seo
+  
 ]
 
 const cases = {
@@ -28,7 +28,8 @@ const cases = {
   folder: 'content/cases',
   fields: [
     ...fields,
-    ...blocks
+    ...blocks,
+    seo
   ],
 }
 

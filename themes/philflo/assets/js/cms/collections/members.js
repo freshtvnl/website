@@ -20,7 +20,7 @@ const fields = [
     required: false,
     i18n: true
   },
-  seo
+  
 ]
 
 const members = {
@@ -48,7 +48,8 @@ const members = {
   folder: 'content/members',
   fields: [
     ...fields,
-    ...blocks
+    ...blocks,
+    seo
   ],
 }
 
