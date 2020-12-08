@@ -26,5 +26,5 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://freshtv.nl/video/Boknet-Phil%20en%20Flo%20website%20source.mp4
-      source_webm: https://freshtv.nl/video/Boknet-Phil%20en%20Flo%20website%20source.webm
+      source_webm: https://freshtv.nl/video/Boknet-Phil-en-Flo-website-source.webm
 ---
