@@ -3,6 +3,8 @@ title: Onderwijs, kunst & Cultuur
 slug: onderwijs-kunst-Cultuur
 draft: false
 id: q6TD9LMXU
+image:
+  source: images/onderwijs-promotiefilm.jpg
 blocks:
   - type: content_block
     content: >-
