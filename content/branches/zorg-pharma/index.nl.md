@@ -3,4 +3,21 @@ title: Zorg & Pharma
 slug: zorg-pharma
 draft: false
 id: o0NtTZixr
+image:
+  source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
+blocks:
+  - type: content_block
+    align: left
+    content: >-
+      ## De wereld van morgen leeft gezond
+
+
+      Goede zorg vinden we vanzelfsprekend hier in Europa. We hebben het hier fantastisch voor elkaar. Dat betekent ook dat er tijd en geld is voor onderzoek die weer kan worden gebruikt in de rest van de wereld. Om ook wereldwijd ziektes uit te bannen is goede pharmaceutische industrie belangrijk. Daarom werken wij graag samen met zorg & pharma bedrijven om doorbraken en oplossingen te communiceren door middel van interactieve brochures, animatiefilms en videofilms. Onze specialist op het gebied van zorg en pharma is Victor. Bel hem gerust voor vrijblijvend advies op maat 085 - 273 8331.
+    displaymedia: image
+    image:
+      source: images/foto-umcg.png
+  - type: content_block
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
