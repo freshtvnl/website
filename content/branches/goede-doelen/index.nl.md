@@ -7,7 +7,7 @@ image:
   source: images/goede-doel-welcome-app.jpg
 blocks:
   - type: content_block
-    align: center
+    align: left
     content: >-
       ## Goede doelen
 
@@ -18,6 +18,15 @@ blocks:
       source_mp4: https://freshtv.nl/video/Welcome-app-goed-doel.mp4
       source_webm: https://freshtv.nl/video/Welcome-app-goed-doel.webm
   - type: content_block
+    align: right
+    content: Wil je meer weten over de mogelijkheden van een animatiefilm, een
+      interactieve film of een persoonlijke film voor fondsenwerving, uitleg of
+      begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen
+      die wij bieden op het gebied van marketing en communicatie voor goede
+      doelen, 085 - 273 8331.
+    image:
+      source: images/home-start-goede-doelen.jpg
+    displaymedia: image
   - type: selectedwork_block
     items:
       - DG0aSzvMj
