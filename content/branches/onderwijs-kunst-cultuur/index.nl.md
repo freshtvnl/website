@@ -16,4 +16,11 @@ blocks:
     image:
       source: images/onderwijs-promotiefilm.jpg
       alt: Onderwijs promotiefilm
+  - type: content_block
+    align: right
+    content: >-
+      ## Kunst & Cultuur
+
+
+      Waarom plaatsen we kunst & Cultuur in dezelfde hoek als onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst en cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van Kunst & Cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische interactieve films of virtual reality (360 graden) animatie films.
 ---
