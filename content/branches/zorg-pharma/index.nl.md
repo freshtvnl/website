@@ -17,6 +17,10 @@ blocks:
     image:
       source: images/foto-umcg.png
   - type: content_block
+    content: |-
+      ## Interactieve oplossingen voor pharmaceutische bedrijven
+
+      We zijn gespecialiseerd
   - type: contact_block
     contacts:
       - kJ07QyNzs
