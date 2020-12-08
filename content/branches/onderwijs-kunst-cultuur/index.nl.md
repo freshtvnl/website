@@ -27,4 +27,15 @@ blocks:
     video:
       source_mp4: https://freshtv.nl/video/Boknet-Phil%20en%20Flo%20website%20source.mp4
       source_webm: https://freshtv.nl/video/Boknet-Phil-en-Flo-website-source.webm
+  - type: selectedwork_block
+    title: Video voorbeelden
+    items:
+      - dD7nogK0Q
+  - type: selectedwork_block
+    title: Animatie voorbeelden
+    items:
+      - DG0aSzvMj
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
