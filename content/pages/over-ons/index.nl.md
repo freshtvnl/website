@@ -30,15 +30,15 @@ blocks:
       Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van een aantal kernwaarden die we hebben samengevat als BLIEP. 
 
 
-      \- Beste\
+      * Beste
 
-      - Leukste\
+      * Leukste
 
-      - Innovatief\
+      * Innovatief
 
-      - Efficiënt\
+      * Efficiënt
 
-      - Principieel
+      * Principieel
     align: right
     displaymedia: image
     image:
