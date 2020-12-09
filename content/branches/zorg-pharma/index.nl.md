@@ -5,6 +5,7 @@ draft: false
 id: o0NtTZixr
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
+color: pink
 blocks:
   - type: content_block
     align: left
