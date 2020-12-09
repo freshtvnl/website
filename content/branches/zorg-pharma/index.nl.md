@@ -25,6 +25,7 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+    align: right
   - type: contact_block
     contacts:
       - kJ07QyNzs
