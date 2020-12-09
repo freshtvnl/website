@@ -5,6 +5,7 @@ draft: false
 id: q6TD9LMXU
 image:
   source: images/onderwijs-promotiefilm.jpg
+color: yellow
 blocks:
   - type: content_block
     content: >-
