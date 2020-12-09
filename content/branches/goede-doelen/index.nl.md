@@ -17,6 +17,7 @@ blocks:
     video:
       source_mp4: https://freshtv.nl/video/Welcome-app-goed-doel.mp4
       source_webm: https://freshtv.nl/video/Welcome-app-goed-doel.webm
+      autoplay: true
   - type: content_block
     align: right
     content: Wil je meer weten over de mogelijkheden van een animatiefilm, een
