@@ -27,7 +27,18 @@ blocks:
       ## Hoe
 
 
-      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Wij zijn specialisten op het gebied van video, animatie en interactieve video. Onze creaties zijn het beste als we ze maken voor de juiste organisaties, de organisaties die zich inzetten voor een betere wereld.
+      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van een aantal kernwaarden die we hebben samengevat als BLIEP. 
+
+
+      \- Beste\
+
+      - Leukste\
+
+      - Innovatief\
+
+      - Efficiënt\
+
+      - Principieel
     align: right
     displaymedia: image
     image:
@@ -37,7 +48,8 @@ blocks:
     content: >-
       ## Wat
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In justo lorem, vehicula sit amet consectetur id, suscipit vitae nisi. Ut eu ligula facilisis, mollis risus vel, suscipit dolor. Donec tempus arcu sit amet ipsum ultrices tristique. Fusce auctor, tellus a pulvinar maximus, felis justo auctor sem, non hendrerit nunc enim ut enim.
+
+      Wij zijn specialisten op het gebied van video, animatie en interactieve video. Onze creaties zijn het beste als we ze maken voor de juiste organisaties, de organisaties die zich inzetten voor een betere wereld.
     align: left
     displaymedia: image
     image:
