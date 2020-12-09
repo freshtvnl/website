@@ -5,6 +5,7 @@ draft: false
 id: 7P41lTMjs
 image:
   source: images/goede-doel-welcome-app.jpg
+color: red
 blocks:
   - type: content_block
     align: left
