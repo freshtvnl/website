@@ -43,7 +43,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
-      alt: Hond in mand
+      alt: Inge op de bank
   - type: content_block
     content: >-
       ## Wat
@@ -53,8 +53,8 @@ blocks:
     align: left
     displaymedia: image
     image:
-      source: images/karsten-winegeart-_pzci_uwkso-unsplash.jpg
-      alt: Hond in rood
+      source: images/peter-opnames-douwe-egberts.jpg
+      alt: Opnames Douwe Egberts
   - type: collection_block
     collection: members
     title: Team
