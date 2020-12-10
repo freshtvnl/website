@@ -51,10 +51,17 @@ blocks:
       ## Kijkers?
 
 
-      Zodra de film af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
+      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
     displaymedia: image
     image:
       source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
+  - type: content_block
+    content: >-
+      ## Voordelen van video en animatie 
+
+
+      Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen. Vraag ons naar de mogelijkheden.
+    displaymedia: custom_video
   - type: selectedwork_block
     title: Duurzame cases
     items:
