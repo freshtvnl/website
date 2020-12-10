@@ -7,7 +7,19 @@
     <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-8">
   {{ end }}
     {{ if and ($params.video) (eq $display "custom_video") }}
-      <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
+    {{ if $params.video.autoplay }}
+      <div>
+        <video autoplay muted loop playsinline class="w-full focus:outline-none autoplay">
+          {{ with  $params.video.source_webm }}
+            <source src="{{.}}" type="video/webm">
+          {{ end }}
+          {{ with  $params.video.source_mp4 }}
+          <source src="{{.}}" type="video/mp4">
+          {{ end }}
+        </video>
+      </div>
+    {{ else }}
+      <video controls class="w-full focus:outline-none">
         {{ with  $params.video.source_webm }}
           <source src="{{.}}" type="video/webm">
         {{ end }}
@@ -15,6 +27,9 @@
         <source src="{{.}}" type="video/mp4">
         {{ end }}
       </video>
+    {{ end }}
+
+
     {{ end }}
     
     {{ if and ($params.image) (eq $display "image") }}
