@@ -92,7 +92,7 @@
 
 
 <div class=" mx-auto px-6 lg:px-12 xl:px-24 py-8 mb-12 lg:mb-24">
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-16 xl:gap-y-24">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-16 xl:gap-y-24 2xl:gap-x-32">
     {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
     {{ $pagecolor :=  (cond (ne (.Params.color) nil ) (.Params.color) ("green") ) }}
     {{ $page := .}}
@@ -102,7 +102,7 @@
         {{ end }}
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "1600" "height" "900" "class" "mt-6 lg:mt-8 pr-6 md:pr-12 lg:pr-20 xl:pr-32 2xl:pr-48 z-20 relative") }}
-       <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-16 lg:pt-20 lg:pb-6 xl:py-10 2xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
+       <div class="branch-element-bg w-2/3 pb-4 pt-6 md:pt-8 lg:pt-12 lg:pb-6 xl:py-6 2xl:py-8 transform float-right -translate-y-8 -mb-8 flex justify-end px-12">
           &nbsp;
           <span class="hidden lg:block transform -rotate-90">
             <div class="w-12 h-12 bg-black bg-opacity-10 flex items-center justify-center ">

@@ -24,7 +24,7 @@ module.exports = {
 
       fontFamily: {
         ...fontFamily,
-        'sans' : ['Bw Modelica', 'sans-serif']
+        'sans' : ['Bw Modelica SS01', 'sans-serif']
       },
 
       screens: {

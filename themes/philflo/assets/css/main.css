@@ -6,50 +6,49 @@
 /* purgecss start ignore */
 
 @font-face {
-  font-family: 'Bw Modelica';
-  src: url('../fonts/BwModelica-Bold.woff2') format('woff2'),
-      url('../fonts/BwModelica-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Bw Modelica';
-  src: url('../fonts/BwModelica-Regular.woff2') format('woff2'),
-      url('../fonts/BwModelica-Regular.woff') format('woff');
+  font-family: 'Bw Modelica SS01';
+  src: url('../fonts/BwModelicaSS01-Medium.woff2') format('woff2'),
+      url('../fonts/BwModelicaSS01-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Bw Modelica';
-  src: url('../fonts/BwModelica-Medium.woff2') format('woff2'),
-      url('../fonts/BwModelica-Medium.woff') format('woff');
-  font-weight: 500;
+  font-family: 'Bw Modelica SS02';
+  src: url('../fonts/BwModelicaSS02-Bold.woff2') format('woff2'),
+      url('../fonts/BwModelicaSS02-Bold.woff') format('woff');
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Bw Modelica';
-  src: url('../fonts/BwModelica-Black.woff2') format('woff2'),
-      url('../fonts/BwModelica-Black.woff') format('woff');
+  font-family: 'Bw Modelica SS02';
+  src: url('../fonts/BwModelicaSS02-Thin.woff2') format('woff2'),
+      url('../fonts/BwModelicaSS02-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bw Modelica SS02';
+  src: url('../fonts/BwModelicaSS02-Black.woff2') format('woff2'),
+      url('../fonts/BwModelicaSS02-Black.woff') format('woff');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Bw Modelica';
-  src: url('../fonts/BwModelica-Thin.woff2') format('woff2'),
-      url('../fonts/BwModelica-Thin.woff') format('woff');
-  font-weight: 100;
+  font-family: 'Bw Modelica SS02';
+  src: url('../fonts/BwModelicaSS02-Regular.woff2') format('woff2'),
+      url('../fonts/BwModelicaSS02-Regular.woff') format('woff');
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
-
 
 
 .smooth-scroll {
