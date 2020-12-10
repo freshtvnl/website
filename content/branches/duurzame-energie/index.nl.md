@@ -64,6 +64,7 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://freshtv.nl/video/Alfen-duurzame-energie.mp4
+      autoplay: true
   - type: selectedwork_block
     title: Duurzame cases
     items:
