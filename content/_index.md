@@ -2,11 +2,11 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: Wij verbeelden de <span class="border-b-4 text-border">wereld van
-      morgen.</span>
+    title: Wij verbeelden de ***wereld van morgen.***
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
+    content: ""
   - type: content_block
     align: center
     content: >-

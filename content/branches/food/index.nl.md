@@ -8,7 +8,7 @@ image:
 color: red
 blocks:
   - type: hero_block
-    title: Verbeelden van ons <span class="text-border">eten & drinken</span>
+    title: Verbeelden van ons ***eten & drinken***
     content: Phil & Flo Creative Studio specialiseert zich in het vastleggen en
       verbeelden van food. Als je kijkt naar de wereld van morgen, dan zie je
       dat er nog veel moet gebeuren om iedereen te voorzien van duurzame

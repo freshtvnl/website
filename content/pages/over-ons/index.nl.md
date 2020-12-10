@@ -4,7 +4,7 @@ slug: over-ons
 id: jCP4fqjKI
 blocks:
   - type: hero_block
-    title: Over <span class="text-border">Phil en Flo</span>
+    title: Over ***Phil en Flo***
   - type: content_block
     content: >-
       ## Waarom

@@ -8,7 +8,7 @@ image:
 color: blue
 blocks:
   - type: hero_block
-    title: Disruptieve <span class="text-border">technische innovatie</span>
+    title: Disruptieve ***technische innovatie***
     content: >-
       Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij zijn
       dan ook trots op de wijze waarop onze innovatieve Tech klanten onze

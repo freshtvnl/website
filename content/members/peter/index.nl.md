@@ -8,7 +8,7 @@ image:
   alt: Peter
 blocks:
   - type: hero_block
-    title: De wereld van <span class="text-border">Peter</span>, is de wereld van
+    title: De wereld van ***Peter***, is de wereld van
       morgen
     displaymedia: image
     image:

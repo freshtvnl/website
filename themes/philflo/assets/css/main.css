@@ -55,8 +55,13 @@
   scroll-behavior: smooth;
 }
 
-.text-border {
+
+.text-border, em strong {
   @apply border-b-4 border-green-500;
+}
+
+em strong {
+  font-style: normal;
 }
 
 .branch-element-bg {
@@ -68,8 +73,12 @@
     @apply bg-green-500;
   }
 
-  .text-border {
+  .text-border, em strong {
     @apply border-green-500;
+  }
+
+  .prose a {
+    @apply text-green-500 !important;
   }
 }
 
@@ -77,8 +86,11 @@
   .branch-element-bg {
     @apply bg-blue-500;
   }
-  .text-border {
+  .text-border, em strong {
     @apply border-blue-500;
+  }
+  .prose a {
+    @apply text-blue-500 !important;
   }
 }
 
@@ -86,8 +98,11 @@
   .branch-element-bg {
     @apply bg-red-500;
   }
-  .text-border {
+  .text-border, em strong {
     @apply border-red-500;
+  }
+  .prose a {
+    @apply text-red-500 !important;
   }
 }
 
@@ -95,8 +110,11 @@
   .branch-element-bg {
     @apply bg-yellow-500;
   }
-  .text-border {
+  .text-border, em strong {
     @apply border-yellow-500;
+  }
+  .prose a {
+    @apply text-yellow-500 !important;
   }
 }
 
@@ -104,8 +122,11 @@
   .branch-element-bg {
     @apply bg-pink-500;
   }
-  .text-border {
+  .text-border, em strong {
     @apply border-pink-500;
+  }
+  .prose a {
+    @apply text-pink-500 !important;
   }
 }
 

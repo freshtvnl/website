@@ -6,7 +6,7 @@ image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
 blocks:
   - type: hero_block
-    title: Wij werken niet voor <span class="text-border">klimaatverwoestende</span>
+    title: Wij werken niet voor ***klimaatverwoestende***
       organisaties
     content: Wist je dat luchtvervuiling bijdraagt aan meer doden tijdens de
       Covid-19 uitbraak? (Harvard studie,

@@ -9,8 +9,7 @@ image:
 color: green
 blocks:
   - type: hero_block
-    title: De wereld van morgen draait op <span class="text-border">duurzame
-      energie</span>
+    title: De wereld van morgen draait op ***duurzame energie***
     content: De wereld van morgen draait op duurzame energie. Daar worden nu de
       eerste stappen in gezet. Ons team wil helpen bij de versnelling van
       duurzame energie door initiatieven en innovaties te verbeelden in animatie
