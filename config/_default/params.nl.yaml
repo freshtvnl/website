@@ -1,0 +1,11 @@
+footer:
+  title: Say Hello!
+  phonenumber:
+    formatted: +31 85 273 8331
+    raw: '+31852738331'
+  social:
+    title: Stay in the loop
+    facebook: https://www.facebook.com
+    twitter: https://www.twitter.com
+    instagram: https://www.instagram.com
+  
