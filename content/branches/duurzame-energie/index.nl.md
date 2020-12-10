@@ -28,10 +28,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Duurzaam inzetbaar
+      ## Duurzaam inzetbaar \*\*\*video en animatie\*\*\*
 
 
-      Wij maken enkel hoogwaardige producten die duurzaam zijn in te zetten. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoudt goed door te nemen en op te stellen.
+      Wij maken enkel hoogwaardige producten die duurzaam zijn in te zetten. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoud goed door te nemen en op te stellen.
     displaymedia: image
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
