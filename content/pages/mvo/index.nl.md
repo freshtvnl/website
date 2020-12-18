@@ -1,13 +1,12 @@
 ---
 title: MVO
-slug: mvo
+slug: Maatschappelijk verantwoord ondernemen
 id: zVQIJsr9a
 image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
 blocks:
   - type: hero_block
-    title: Wij werken niet voor ***klimaatverwoestende***
-      organisaties
+    title: Wij werken niet voor ***klimaatverwoestende*** organisaties
     content: Wist je dat luchtvervuiling bijdraagt aan meer doden tijdens de
       Covid-19 uitbraak? (Harvard studie,
       https://projects.iq.harvard.edu/covid-pm/home) Alleen daarom al is streven
@@ -21,8 +20,8 @@ blocks:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
   - type: content_block
     content: >-
-      #### **Wij werken per definitie niet voor de volgende branches, onze
-      Black-list;**
+      #### **Wij werken per definitie niet voor de volgende branches, ***onze
+      Black-list***/**
 
 
       (Laatste update 02-12-2020)
