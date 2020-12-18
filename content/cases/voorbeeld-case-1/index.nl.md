@@ -19,7 +19,7 @@ blocks:
     image:
       source: images/alfen-smart-charging-network-ao.jpg
   - type: banner_block
-    fullwidth: true
+    fullwidth: false
     displaymedia: youtube_video
     youtube:
       id: djHYZpzuwtc
