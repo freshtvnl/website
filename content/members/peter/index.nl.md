@@ -11,23 +11,23 @@ blocks:
     title: De wereld van ***Peter***, is de wereld van morgen
     displaymedia: image
     image:
-      source: images/nathan-guzman-acv_7qnaaio-unsplash.jpg
+      source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
   - type: content_block
     align: center
     content: >-
       ## Over Peter
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id hendrerit ligula, ac consectetur urna. Maecenas id erat dolor. Nam erat nunc, molestie pretium lacus non, feugiat condimentum erat. Donec in nisi sit amet lacus faucibus efficitur nec vitae ligula. Aenean dictum ipsum in odio laoreet tristique
+      Als echte creatieveling betrokken bij veel projecten op strategische basis. Peter is daarnaast vooral bezig met het verder uitbouwen van Phil & Flo, "Om meer mensen te redden van saaie bedrijven" aldus Peter. 
 
 
-      Donec in nisi sit amet lacus faucibus efficitur nec vitae ligula. Aenean dictum ipsum in odio laoreet tristique
+      Samen met Suzan (zijn vrouw) runt hij Phil & Flo Creative Studio. Samen hebben ze twee kinderen Phileine (Phil) & Florian (Flo). Zo, dan is het mysterie van onze bedrijfsnaam ook opgelost ;)
 
 
-      Denean nulla ante, finibus eget tempus eget, accumsan vitae enim. In neque turpis, facilisis in auctor at, imperdiet vitae purus. Mauris sit amet blandit sapien, vitae semper neque. Nunc vitae bibendum felis. In vel quam ornare, vehicula neque non, varius mauris. Integer scelerisque accumsan pellentesque.
+      Daarnaast groot voorvechter van duurzame energie en duurzame initiatieven. Hekelt de belangen en lobbywerk van een specifieke oliemaatschappij in Nederland.
 
 
-      Bel mij op 06 11 88 44 33
+      Je kan Peter bereiken via het algemene nummer 085 273 8331
 
 
       <a data-src="vcard" href="images/peter_graaf-phil-en-flo-1-.vcf" class="vcard-link">Download vCard</a>
