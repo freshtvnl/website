@@ -38,4 +38,13 @@ blocks:
       source_webm: https://freshtv.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
       autoplay: true
   - type: content_block
+    align: left
+    content: >-
+      ## Resultaten
+
+
+      Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
+    displaymedia: image
+    image:
+      source: images/alfen-smart-charging-network-wireframe.jpg
 ---
