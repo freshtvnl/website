@@ -10,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Dit is de wereld van Phil & Flo
+      ## Dit is de wereld van ***Phil & Flo***
 
 
       Stel je eens een wereld voor waarin we ernstige ziektes onder controle hebben, waarin we schone lucht ademen en dat alle kinderen veilig naar school kunnen. Klinkt dat niet goed? Wij vinden van wel. En om dit te bereiken zetten we nu de stappen die nodig zijn. Wij helpen bedrijven in innovatieve sectoren, in de zorg, in het onderwijs, in de duurzame energie en in de duurzame food sector om hun verhaal bekend te maken onder het grote publiek.
