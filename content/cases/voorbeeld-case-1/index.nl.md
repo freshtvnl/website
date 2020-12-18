@@ -9,18 +9,18 @@ image:
 color: green
 branch: 0uhmsFFxS
 blocks:
-  - type: content_block
-    align: left
-    content: >-
-      ## \*\*\*Techniek verbeelden\*\*\*
-
-
-      Alfen heeft ons gevraagd om een animatie te produceren die inzichtelijk maakt hoe de verschiollende laadpalen voor electrische auto's kunnen communiceren en slim kunnen samen werken. Wij hebben een script uitgewerkt de stijl en samen met Alfen bepaald wie de doelgroep is en wat hun mate van kennis op dit gebied is.
+  - type: hero_block
+    title: "***Techniek verbeelden***"
+    content: Alfen heeft ons gevraagd om een animatie te produceren die inzichtelijk
+      maakt hoe de verschillende laadpalen voor elektrische auto's kunnen
+      communiceren en slim kunnen samen werken. Wij hebben een script uitgewerkt
+      de stijl en samen met Alfen bepaald wie de doelgroep is en wat hun mate
+      van kennis op dit gebied is.
+    image:
+      source: images/alfen-smart-charging-network-ao.jpg
+  - type: banner_block
+    fullwidth: true
     displaymedia: youtube_video
-    video:
-      source_mp4: ""
-      source_webm: ""
-      autoplay: true
     youtube:
       id: djHYZpzuwtc
   - type: content_block
