@@ -44,4 +44,14 @@ blocks:
       source: ""
     youtube:
       id: djHYZpzuwtc
+  - type: content_block
+    align: right
+    content: >-
+      ## Visie van onze grafische vormgever
+
+
+      "Ik vond dit echt een superleuk project om te doen, dit soort animaties geven mij altijd een goed gevoel. Deze laadpalen zijn ook een belangrijke bijdrage aan de wereld van morgen, zodat iedereen straks makkelijk elektrisch kan gaan rijden."
+    displaymedia: image
+    image:
+      source: images/aron-3d-animatie.jpg
 ---
