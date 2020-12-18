@@ -18,11 +18,6 @@ blocks:
       van kennis op dit gebied is.
     image:
       source: images/alfen-smart-charging-network-ao.jpg
-  - type: banner_block
-    fullwidth: false
-    displaymedia: youtube_video
-    youtube:
-      id: djHYZpzuwtc
   - type: content_block
     align: right
     content: >-
@@ -44,7 +39,9 @@ blocks:
 
 
       Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
-    displaymedia: image
+    displaymedia: youtube_video
     image:
-      source: images/alfen-smart-charging-network-wireframe.jpg
+      source: ""
+    youtube:
+      id: djHYZpzuwtc
 ---
