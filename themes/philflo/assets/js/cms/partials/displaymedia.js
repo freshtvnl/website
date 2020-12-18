@@ -17,5 +17,9 @@ export const displaymedia = {
       label: "YouTube video",
       value: "youtube_video"
     },
+    {
+      label: "iframe",
+      value: "iframe"
+    },
   ]
 }

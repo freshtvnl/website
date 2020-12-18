@@ -23,6 +23,9 @@ blocks:
       ## 3D Animatie
 
       x
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: selectedwork_block
     title: Selected work
     items:

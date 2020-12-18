@@ -31,6 +31,12 @@
 
 
     {{ end }}
+
+    {{ if and ($params.iframe) (eq $display "iframe") }}
+      <div class="video-wrapper">
+        <iframe src="{{$params.iframe.source}}" frameborder="0"></iframe>
+      </div>
+    {{ end}}
     
     {{ if and ($params.image) (eq $display "image") }}
       {{ if $params.fullwidth }}
