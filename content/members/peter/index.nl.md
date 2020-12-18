@@ -1,6 +1,6 @@
 ---
 title: Peter
-slug: peter
+slug: peter de Graaf
 draft: false
 id: PZcCTyF1B
 image:
