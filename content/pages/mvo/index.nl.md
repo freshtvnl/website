@@ -21,7 +21,7 @@ blocks:
   - type: content_block
     content: >-
       #### **Wij werken per definitie niet voor de volgende branches, ***onze
-      Black-list***/**
+      Black-list**\***
 
 
       (Laatste update 02-12-2020)
