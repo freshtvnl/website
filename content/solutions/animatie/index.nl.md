@@ -1,6 +1,6 @@
 ---
 title: Animatie
-slug: animatie
+slug: animatie laten maken
 draft: false
 id: wvUKuLAzh
 blocks:
