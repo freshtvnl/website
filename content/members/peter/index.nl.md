@@ -8,8 +8,7 @@ image:
   alt: Peter
 blocks:
   - type: hero_block
-    title: De wereld van ***Peter***, is de wereld van
-      morgen
+    title: De wereld van ***Peter***, is de wereld van morgen
     displaymedia: image
     image:
       source: images/nathan-guzman-acv_7qnaaio-unsplash.jpg
@@ -29,6 +28,9 @@ blocks:
 
 
       Bel mij op 06 11 88 44 33
+
+
+      <a data-src="vcard" href="images/peter_graaf-phil-en-flo-1-.vcf" class="vcard-link">Download vCard</a>
     image:
       source: ""
   - type: selectedwork_block
