@@ -36,5 +36,6 @@ blocks:
     video:
       source_mp4: https://freshtv.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
       source_webm: https://freshtv.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
+      autoplay: true
   - type: content_block
 ---
