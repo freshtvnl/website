@@ -13,13 +13,28 @@ blocks:
       ## Dit is de wereld van ***Phil & Flo***
 
 
-      Stel je eens een wereld voor waarin we ernstige ziektes onder controle hebben, waarin we schone lucht ademen en dat alle kinderen veilig naar school kunnen. Klinkt dat niet goed? Wij vinden van wel. En om dit te bereiken zetten we nu de stappen die nodig zijn. Wij helpen bedrijven in innovatieve sectoren, in de zorg, in het onderwijs, in de duurzame energie en in de duurzame food sector om hun verhaal bekend te maken onder het grote publiek.
+      Stel je eens een wereld voor waarin we ernstige ziektes onder controle hebben, waarin we schone lucht ademen en dat kinderen wereldwijd veilig naar school kunnen. 
 
 
-      Dat doen we met het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. Vroeger met grotschilderingen en nu met waanzinnige 3D animaties en video’s. 
+
+      Dat klinkt goed toch? 
 
 
-      Ons doel is een versnelling van deze mooie toekomst te realiseren door jouw ideeën te verbeelden. Wij verbeelden de wereld van morgen. Wat doe jij voor de wereld van morgen?
+      Om dit te bereiken zetten wij nu de stappen die nodig zijn. Innovatieve Technologie, zorg, onderwijs, fair food, goede doelen en duurzame energie zijn onze topsectoren. 
+
+
+
+      Wij zijn overtuigd dat deze sectoren het verschil gaan maken, zeker met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. 
+
+      In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, VR en interactieve video’s.
+
+
+
+      Ons doel? Het beste en leukste creatieve team voor een snelle transitie naar deze mooie toekomst.
+
+
+
+      Wij zijn Phil & Flo, \*\*\*Wij verbeelden de wereld van morgen.\*\*\*
   - type: selectedwork_block
     title: Cases
     items:
