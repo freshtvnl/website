@@ -21,19 +21,23 @@ blocks:
     displaymedia: image
     image:
       source: images/2d-animatie-laten-maken.jpg
+  - type: content_block
+    align: right
+    content: >-
+      ## 3D Animatie
+
+
+      Een 3D animatie is de mooiste vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties! Lees hier meer over 3D animaties.
+    displaymedia: image
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+    youtube:
+      image:
+        source: images/3d-animatie-laten-maken.jpg
   - type: selectedwork_block
     title: Selected work
     items:
       - cc-ik-qqS
-  - type: content_block
-    align: left
-    content: |-
-      ## 3D Animatie
-
-      x
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: selectedwork_block
     title: Selected work
     items:
