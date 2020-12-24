@@ -5,7 +5,7 @@ draft: false
 id: wvUKuLAzh
 blocks:
   - type: hero_block
-    title: Animatie
+    title: Animatie laten maken
     content: x
   - type: content_block
     align: left
