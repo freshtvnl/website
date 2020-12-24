@@ -34,6 +34,8 @@ blocks:
     youtube:
       image:
         source: images/3d-animatie-laten-maken.jpg
+    image:
+      source: images/3d-animatie-laten-maken.jpg
   - type: selectedwork_block
     title: Selected work
     items:
