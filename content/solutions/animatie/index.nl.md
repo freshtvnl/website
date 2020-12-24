@@ -6,11 +6,13 @@ id: wvUKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: hero_block
-    title: Animatie
-    content: Animatiefilms komen in vele vormen en maten, omdat ze zoveel van elkaar
-      verschillen kan je hieronder een keuze maken uit 3D animatie, 2D animatie
-      of VR animatie.
+  - type: content_block
+    align: center
+    content: >-
+      ## Animatie
+
+
+      Animatiefilms komen in vele vormen en maten, omdat ze zoveel van elkaar verschillen kan je hieronder een keuze maken uit 3D animatie, 2D animatie of VR animatie.
   - type: content_block
     align: left
     content: >-
