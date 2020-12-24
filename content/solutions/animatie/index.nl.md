@@ -22,7 +22,7 @@ blocks:
     image:
       source: images/2d-animatie-laten-maken.jpg
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## 3D Animatie
 
