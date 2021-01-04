@@ -23,7 +23,7 @@ blocks:
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
     content: >-
-      ## Meewerken voor de \*\*\*juiste balans\*\*\*
+      ## Meewerken voor de ***juiste balans***
 
 
       De stappen om tot deze situatie te komen worden nu gezet door innovatieve organisaties in de foodsector. FreshTV helpt organisaties hun verhaal aan het grote publiek te vertellen. Door middel van het creëren van een sterk verhaal maatwerk visualisaties zorgen we dat jouw verhaal in een stroomversnelling komt en de juiste personen bereikt.
@@ -41,7 +41,7 @@ blocks:
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-4.jpg
     content: >-
-      ## Verbeelden van onze \*\*\*primaire levensbehoefte\*\*\*
+      ## Verbeelden van onze ***primaire levensbehoefte***
 
 
       Phil & Flo Creative Studio specialiseert zich in het vastleggen en verbeelden van food. Als je kijkt naar de wereld van morgen, dan zie je dat er nog veel moet gebeuren om iedereen te voorzien van duurzame voedsel. Wij proberen dit te versnellen door jou te helpen met het verbeelden van je product.

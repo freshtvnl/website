@@ -20,6 +20,13 @@ const fields = [
     required: false,
     i18n: true
   },
+  {
+    label: 'Call to action',
+    name: 'cta',
+    widget: 'text',
+    required: false,
+    i18n: true
+  },
   
 ]
 
