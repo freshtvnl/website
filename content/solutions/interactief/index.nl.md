@@ -14,4 +14,10 @@ blocks:
       een quiz toevoegen, een link naar een PDF of website maken en nog veel
       meer.
   - type: content_block
+    align: left
+    displaymedia: iframe
+    content: |-
+      ## Niet normaal wat je allemaal kan
+
+      Echt niet normaal, de mogelijkheden van een interactieve brochure
 ---
