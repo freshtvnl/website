@@ -28,7 +28,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Duurzaam inzetbaar \*\*\*video en animatie\*\*\*
+      ## Duurzaam inzetbaar ***video en animatie***
 
 
       Wij maken enkel hoogwaardige producten die duurzaam zijn in te zetten. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoud goed door te nemen en op te stellen.
@@ -57,7 +57,7 @@ blocks:
       source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
   - type: content_block
     content: >-
-      ## Voordelen van video en animatie 
+      ## ***Voordelen*** van video en animatie
 
 
       Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen. Vraag ons naar de mogelijkheden.
