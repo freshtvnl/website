@@ -20,4 +20,6 @@ blocks:
       ## Niet normaal wat je allemaal kan
 
       Echt niet normaal, de mogelijkheden van een interactieve brochure
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
 ---
