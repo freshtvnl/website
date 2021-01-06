@@ -13,6 +13,7 @@ import { pages } from './collections/pages'
 import { solutions } from './collections/solutions'
 import { knowledgebase } from './collections/knowledgebase'
 import { homepages } from './collections/homepages'
+import { reviews } from './collections/reviews'
 import { global } from './settings/global'
 
 CMS.registerWidget(IdWidget)
@@ -38,7 +39,7 @@ CMS.init({
       locales: ['nl', 'en'],
       default_locale: 'nl'
     },
-    collections: [pages, members, branches, solutions, cases, knowledgebase, homepages, global]
+    collections: [pages, members, branches, solutions, cases, knowledgebase, homepages, reviews, global]
   },
 })
 
