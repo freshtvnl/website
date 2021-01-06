@@ -15,6 +15,7 @@ import { knowledgebase } from './collections/knowledgebase'
 import { homepages } from './collections/homepages'
 import { reviews } from './collections/reviews'
 import { faq } from './collections/faq'
+import { forms } from './collections/forms'
 import { global } from './settings/global'
 
 CMS.registerWidget(IdWidget)
@@ -40,7 +41,7 @@ CMS.init({
       locales: ['nl', 'en'],
       default_locale: 'nl'
     },
-    collections: [pages, members, branches, solutions, cases, knowledgebase, homepages, reviews, faq, global]
+    collections: [pages, members, branches, solutions, cases, knowledgebase, homepages, reviews, faq, forms, global]
   },
 })
 
