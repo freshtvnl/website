@@ -1,6 +1,7 @@
 ---
 title: Zorg & Pharma
 slug: zorg-pharma
+weight: 2
 draft: false
 id: o0NtTZixr
 image:

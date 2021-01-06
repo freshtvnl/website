@@ -14,6 +14,13 @@ export const base = [
     i18n: true
   },
   {
+    label: 'Weight',
+    name: 'weight',
+    widget: 'number',
+    required: false,
+    i18n: true
+  },
+  {
     label: "Draft",
     name: "draft",
     widget: "boolean",
