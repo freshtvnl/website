@@ -16,6 +16,7 @@ blocks:
 
 
       Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
+    displaymedia: image
     image:
       source: images/innovatieve-tech-phil-en-flo.jpg
   - type: content_block

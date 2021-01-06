@@ -15,6 +15,7 @@ blocks:
       duurzame energie door initiatieven en innovaties te verbeelden in animatie
       en videofilms. Jouw project of idee kan daardoor het grote publiek
       bereiken, of juist die ene angel investor.
+    displaymedia: image  
   - type: content_block
     align: left
     content: >-

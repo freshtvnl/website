@@ -13,6 +13,7 @@ blocks:
       je merk. Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je
       een quiz toevoegen, een link naar een PDF of website maken en nog veel
       meer.
+    displaymedia: image  
   - type: content_block
     align: left
     displaymedia: iframe

@@ -12,6 +12,7 @@ blocks:
       heeft gekozen voor de inzet van een Employer Branding video en
       vacaturefilms. Samen met ChipSoft zijn wij het avontuur aangegaan. Dat
       heeft tot de volgende aanpak, inzichten en resultaten geleid.
+    displaymedia: image
     title: Employer Branding voor ChipSoft
   - type: content_block
     align: left

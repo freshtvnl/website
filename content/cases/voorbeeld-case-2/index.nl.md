@@ -16,6 +16,7 @@ blocks:
       Payconiq is de toekomst op het gebied van betalen. Wat rest, is een
       succesvolle videostrategie om deze fantastische app succesvol te
       lanceren."
+    displaymedia: image
     title: Product video Payconiq
     image:
       source: images/payconiq-innovatieve-tech-phil-en-flo.jpg

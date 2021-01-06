@@ -16,6 +16,7 @@ blocks:
       klimaatverwoestende organisaties, niet-integere organisaties en
       organisaties die de gezondheid van mensen niet serieus nemen of zelfs in
       gevaar brengen.
+    displaymedia: image
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
   - type: content_block

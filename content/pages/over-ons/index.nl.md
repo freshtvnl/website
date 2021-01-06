@@ -5,6 +5,7 @@ id: jCP4fqjKI
 blocks:
   - type: hero_block
     title: Over ***Phil en Flo***
+    displaymedia: image
   - type: content_block
     content: >-
       ## Waarom

@@ -16,6 +16,7 @@ blocks:
       communiceren en slim kunnen samen werken. Wij hebben een script uitgewerkt
       de stijl en samen met Alfen bepaald wie de doelgroep is en wat hun mate
       van kennis op dit gebied is.
+    displaymedia: image
     image:
       source: images/alfen-smart-charging-network-ao.jpg
   - type: content_block

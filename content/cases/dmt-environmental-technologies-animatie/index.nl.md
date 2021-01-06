@@ -15,6 +15,7 @@ blocks:
       biologische afvalproducten die hoofdzakelijk methaan (CH4) en kooldioxide
       (CO2) bevatten.
     title: Biogas productie
+    displaymedia: image
     image:
       source: ""
   - type: content_block
