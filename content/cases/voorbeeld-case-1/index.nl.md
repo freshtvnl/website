@@ -22,10 +22,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Alfen kiest voor \*\*\*3D animatie\*\*\* 
+      ## Alfen kiest voor ***3D animatie*** 
 
 
-      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een 3D animatie, dit is een prachtige manier om je \*\*\*eigen wereld tot leven te brengen\*\*\*. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
+      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een 3D animatie, dit is een prachtige manier om je ***eigen wereld tot leven te brengen***. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
     displaymedia: custom_video
     image:
       source: images/alfen-smart-charging-network-ao.jpg

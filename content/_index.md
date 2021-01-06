@@ -35,7 +35,7 @@ blocks:
 
 
 
-      Wij zijn Phil & Flo, \*\*\*Wij verbeelden de wereld van morgen.\*\*\*
+      Wij zijn Phil & Flo, ***Wij verbeelden de wereld van morgen.***
   - type: selectedwork_block
     title: Cases
     items:
