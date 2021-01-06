@@ -16,6 +16,8 @@ blocks:
       een quiz toevoegen, een link naar een PDF of website maken en nog veel
       meer.
     displaymedia: image
+    image:
+      source: images/interactieve-video-philenflo.jpg
   - type: content_block
     align: left
     displaymedia: iframe
