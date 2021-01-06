@@ -5,7 +5,7 @@ draft: false
 id: CA0ObKsX0
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
-color: red
+color: orange
 blocks:
   - type: hero_block
     title: Verbeelden van ons ***eten & drinken***

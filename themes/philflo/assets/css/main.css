@@ -106,6 +106,18 @@ em strong {
   }
 }
 
+.page-orange {
+  .branch-element-bg {
+    @apply bg-orange-500;
+  }
+  .text-border, em strong {
+    @apply border-orange-500;
+  }
+  .prose a {
+    @apply text-orange-500 !important;
+  }
+}
+
 .page-yellow {
   .branch-element-bg {
     @apply bg-yellow-500;

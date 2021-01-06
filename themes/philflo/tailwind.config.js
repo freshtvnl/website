@@ -52,6 +52,10 @@ module.exports = {
             '800' : '#212B30'
           },
 
+          orange: {
+            '500' : '#EF9620'
+          },
+
           yellow: {
             ...colors.yellow,
             '500' : '#ffc200'

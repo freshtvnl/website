@@ -22,6 +22,10 @@ export const brandcolors = {
       value: "yellow"
     },
     {
+      label: "Food Oranje",
+      value: "orange"
+    },
+    {
       label: "Zorgvuldig Magenta",
       value: "pink"
     }
