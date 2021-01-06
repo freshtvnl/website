@@ -1,6 +1,7 @@
 {{ $site := .site }}
 {{ $page := .page }}
 {{ $params := .params }}
+{{ $display := .params.displaymedia }}
 
 <div class="max-w-screen-2xl w-full mx-auto  px-6 lg:px-12 xl:px-24 py-8 md:pb-20 xl:pt-24  {{if $params.image }} {{end}}  xl:-translate-y-6 transform">
   {{ with $params.title }}
@@ -11,8 +12,61 @@
     {{ . | markdownify }}
   </div>
   {{ end }}
-  {{ with $params.image}}
-  {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "1600" "height" "900" "class" "mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative") }}
+  
+  {{ if and ($params.video) (eq $display "custom_video") }}
+  <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
+    <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
+      {{ with  $params.video.source_webm }}
+        <source src="{{.}}" type="video/webm">
+      {{ end }}
+      {{ with  $params.video.source_mp4 }}
+      <source src="{{.}}" type="video/mp4">
+      {{ end }}
+    </video>
+  </div>
+  {{ end }}
+
+  {{ if and ($params.iframe) (eq $display "iframe") }}
+  <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
+    <div class="video-wrapper">
+      <iframe src="{{$params.iframe.source}}" frameborder="0"></iframe>
+    </div>
+  </div>
+  {{ end}}
+
+  {{ if and ($params.image) (eq $display "image") }}
+    {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1600" "height" "900" "class" "mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative") }}
+  {{ end }}
+
+  {{ if and ($params.youtube) (eq $display "youtube_video") }}
+    {{ with $params.youtube.id}}
+    <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
+      <div class="video-wrapper">
+        <div id="player" data-video="{{.}}"></div>
+      </div>
+    </div>
+    <script>
+        var tag = document.createElement('script');
+        var player = document.getElementById('player');
+
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+
+        //var player;
+        function onYouTubeIframeAPIReady() {
+          player = new YT.Player('player', {
+            height: '390',
+            width: '640',
+            videoId: player.dataset.video
+          });
+        }
+    </script>
+    {{ end }}
+  {{ end }}
+
+  
   <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
     &nbsp;
     <a href="#main" class="hidden md:block">
@@ -21,5 +75,4 @@
       </div>
     </a>
   </div>
-  {{ end }}
 </div>

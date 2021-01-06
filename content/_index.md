@@ -7,6 +7,7 @@ blocks:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
     content: ""
+    displaymedia: image
   - type: content_block
     align: center
     content: >-

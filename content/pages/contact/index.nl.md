@@ -9,6 +9,9 @@ blocks:
   - type: hero_block
     title: Contact
     content: "## Neem contact op met Phil & Flo!"
+    youtube:
+      id: esX7SFtEjHg
+    displaymedia: youtube_video
 menu:
   main:
     weight: 7
