@@ -3,6 +3,8 @@ title: Interactief
 slug: interactief
 draft: false
 id: HklGfir85
+image:
+  source: images/interactieve-video-philenflo.jpg
 blocks:
   - type: hero_block
     title: Interactie op hoog niveau
@@ -13,7 +15,7 @@ blocks:
       je merk. Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je
       een quiz toevoegen, een link naar een PDF of website maken en nog veel
       meer.
-    displaymedia: image  
+    displaymedia: image
   - type: content_block
     align: left
     displaymedia: iframe
