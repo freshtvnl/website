@@ -66,7 +66,7 @@
     {{ end }}
   {{ end }}
 
-  
+  {{ if or $params.video $params.iframe $params.image $params.youtube }}
   <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
     &nbsp;
     <a href="#main" class="hidden md:block">
@@ -75,4 +75,5 @@
       </div>
     </a>
   </div>
+  {{ end }}
 </div>
