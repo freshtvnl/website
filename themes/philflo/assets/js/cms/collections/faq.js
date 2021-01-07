@@ -14,7 +14,7 @@ const fields = [
     fields: [
       {
         label: 'Question',
-        name: 'Question',
+        name: 'question',
         widget: 'string',
         required: false,
         i18n: true
