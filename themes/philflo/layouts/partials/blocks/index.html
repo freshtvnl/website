@@ -15,6 +15,12 @@
   {{ range . }}
 
    
+    {{ if eq .type "selectedfaqs_block" }}
+      {{ partial "blocks/selectedfaqs_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+    {{ if eq .type "selectedreviews_block" }}
+      {{ partial "blocks/selectedreviews_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
     {{ if eq .type "selectedwork_block" }}
       {{ partial "blocks/selectedwork_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
