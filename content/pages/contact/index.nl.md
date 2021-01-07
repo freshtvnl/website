@@ -12,6 +12,16 @@ blocks:
     youtube:
       id: esX7SFtEjHg
     displaymedia: youtube_video
+  - type: selectedfaqs_block
+    title: faq
+    items:
+      - QBToQiJHS
+    more_items: true
+  - type: selectedreviews_block
+    title: reviews
+    items:
+      - -VoVn5xcW
+    more_items: true
 menu:
   main:
     weight: 7
