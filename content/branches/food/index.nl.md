@@ -19,7 +19,7 @@ blocks:
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
     video:
-      source_mp4: https://www.philenflo.nl/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      source_mp4: https://www.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: left
     displaymedia: image
