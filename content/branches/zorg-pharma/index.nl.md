@@ -87,4 +87,10 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+    content: >-
+      ### ***Samenwerken?***
+
+
+
+      Schroom niet op contact op te nemen. Onze specialist staan klaar om vrijblijvend te sparren over jouw communicatie uitdagingen!
 ---
