@@ -15,9 +15,11 @@ blocks:
       zich heen en er precies genoeg wordt geproduceerd om de gehele
       wereldbevolking te voeden. Zonder voedselverspilling en oneerlijke
       verdeling van het voedsel.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/JDE-koffie-film-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: left
     displaymedia: image
