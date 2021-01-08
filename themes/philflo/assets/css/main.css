@@ -68,9 +68,17 @@ em strong {
   @apply bg-green-500;
 }
 
+.branch-element-text {
+  @apply text-green-500;
+}
+
 .page-green {
   .branch-element-bg {
     @apply bg-green-500;
+  }
+
+  .branch-element-text {
+    @apply text-green-500;
   }
 
   .text-border, em strong {
@@ -92,6 +100,9 @@ em strong {
   .prose a {
     @apply text-blue-500 !important;
   }
+  .branch-element-text {
+    @apply text-blue-500;
+  }
 }
 
 .page-red {
@@ -103,6 +114,9 @@ em strong {
   }
   .prose a {
     @apply text-red-500 !important;
+  }
+  .branch-element-text {
+    @apply text-red-500;
   }
 }
 
@@ -116,6 +130,9 @@ em strong {
   .prose a {
     @apply text-orange-500 !important;
   }
+  .branch-element-text {
+    @apply text-orange-500;
+  }
 }
 
 .page-yellow {
@@ -128,6 +145,9 @@ em strong {
   .prose a {
     @apply text-yellow-500 !important;
   }
+  .branch-element-text {
+    @apply text-yellow-500;
+  }
 }
 
 .page-pink {
@@ -139,6 +159,9 @@ em strong {
   }
   .prose a {
     @apply text-pink-500 !important;
+  }
+  .branch-element-text {
+    @apply text-pink-500;
   }
 }
 

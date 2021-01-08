@@ -16,6 +16,7 @@ blocks:
     title: faq
     items:
       - QBToQiJHS
+      - LLXpXYoMm
     more_items: false
   - type: selectedreviews_block
     title: reviews
