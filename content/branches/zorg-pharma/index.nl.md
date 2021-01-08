@@ -65,10 +65,12 @@ blocks:
 
 
       Voor iedere managementdoelstelling maken wij maatwerk producten die effectief bijdragen aan het behalen hiervan. Iedere doelstelling vergt namelijk een andere aanpak. Wil jij je doelgroep op een educatieve manier informeren? Wil jij je doelgroep op ongeëvenaarde wijze service bieden? Ons multidisciplinaire team heeft naast het vermogen om strategisch mee te denken, het vermogen om volledig in huis maatwerk te leveren.
-    displaymedia: custom_video
+    displaymedia: youtube_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
-      autoplay: true
+      source_mp4: ""
+      autoplay: false
+    youtube:
+      id: p0l_rmBMrlA
   - type: content_block
     align: left
     content: >-
@@ -76,9 +78,12 @@ blocks:
 
 
       Digitaal ondersteunde onderwijsvormen is een steeds belangrijker thema in de medische wereld. De kracht van visuele middelen wordt steeds duidelijker en bij de juiste inzet wordt dit effectief ingezet. Met onze maatwerk oplossingen kunnen medische communicatiespecialisten het beste medisch onderwijs bieden aan hun medewerkers, patiënten en cliënten.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
-      id: p0l_rmBMrlA
+      id: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      autoplay: true
   - type: contact_block
     contacts:
       - kJ07QyNzs
