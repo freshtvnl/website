@@ -58,6 +58,18 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: O25uN5rKj1I
+  - type: content_block
+    align: right
+    content: >-
+      ## Veelzijdige oplossingen
+
+
+
+      Voor iedere managementdoelstelling maken wij maatwerk producten die effectief bijdragen aan het behalen hiervan. Iedere doelstelling vergt namelijk een andere aanpak. Wil jij je doelgroep op een educatieve manier informeren? Wil jij je doelgroep op ongeëvenaarde wijze service bieden? Ons multidisciplinaire team heeft naast het vermogen om strategisch mee te denken, het vermogen om volledig in huis maatwerk te leveren.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      autoplay: true
   - type: contact_block
     contacts:
       - kJ07QyNzs
