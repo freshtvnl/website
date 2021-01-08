@@ -4,7 +4,7 @@ slug: duurzame-energie
 draft: false
 id: 0uhmsFFxS
 image:
-  source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
+  source: images/duurzame-energie-phil-en-flo.jpg
   alt: text
 color: green
 blocks:
@@ -15,7 +15,10 @@ blocks:
       duurzame energie door initiatieven en innovaties te verbeelden in animatie
       en videofilms. Jouw project of idee kan daardoor het grote publiek
       bereiken, of juist die ene angel investor.
-    displaymedia: image  
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
