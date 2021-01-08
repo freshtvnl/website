@@ -1,6 +1,7 @@
 ---
 title: Video
 slug: video laten maken
+weight: 3
 draft: true
 id: YwJ5gT_tJ
 blocks:
