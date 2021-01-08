@@ -7,7 +7,10 @@ blocks:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
     content: ""
-    displaymedia: image
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
+      autoplay: true
   - type: content_block
     align: center
     content: >-
