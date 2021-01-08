@@ -1,12 +1,14 @@
 ---
 title: Onderwijs, kunst & Cultuur
 slug: onderwijs-kunst-Cultuur
+weight: 4
 draft: false
 id: q6TD9LMXU
 image:
   source: images/onderwijs-promotiefilm.jpg
 color: yellow
 blocks:
+  - type: hero_block
   - type: content_block
     content: >-
       ## Opleiders voor de wereld van morgen
@@ -17,6 +19,8 @@ blocks:
     image:
       source: images/onderwijs-promotiefilm.jpg
       alt: Onderwijs promotiefilm
+    video:
+      autoplay: false
   - type: content_block
     align: right
     content: >-
