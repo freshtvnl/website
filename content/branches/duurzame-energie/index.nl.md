@@ -77,10 +77,10 @@ blocks:
     title: Duurzame cases
     items:
       - sCR0-5I1N
+      - fm2wFFmdb
     more_items: true
   - type: contact_block
-    content: Ik adviseer je graag over het behalen van jouw doelstellingen met de
-      inzet van video en animatie. Bel me op 085 - 273 8331
+    content: ""
     contacts:
       - PZcCTyF1B
     more_items: true
