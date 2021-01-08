@@ -5,7 +5,7 @@ id: qos3pjrf_
 blocks:
   - type: collection_block
     collection: solutions
-    number_of_items: 999
+    number_of_items: 6
     heading: h1
 menu:
   main:
