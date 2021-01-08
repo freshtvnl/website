@@ -22,7 +22,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Expertise duurzame energie
+      ## ***Expertise*** duurzame energie
 
 
       Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
@@ -35,10 +35,13 @@ blocks:
       ## Duurzaam inzetbaar ***video en animatie***
 
 
-      Wij maken enkel hoogwaardige producten die duurzaam zijn in te zetten. Dit betekent dat de film voor langere periodes inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoud goed door te nemen en op te stellen.
-    displaymedia: image
+      Wij maken enkel hoogwaardige producten die duurzaam in te zetten zijn. Dit betekent dat de film voor langere periode inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoud zo relevant mogelijk te maken.
+    displaymedia: custom_video
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
