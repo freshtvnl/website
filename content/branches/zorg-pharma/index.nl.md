@@ -47,7 +47,7 @@ blocks:
       autoplay: false
     align: right
     iframe:
-      source: https://projects.ivorystudio.net/embed/concepts/z7SNCOzMYwRRIEKgMvqqUvPF
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
     align: left
     content: >-
