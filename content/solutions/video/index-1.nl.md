@@ -2,7 +2,7 @@
 title: Video
 slug: video laten maken
 weight: 3
-draft: true
+draft: false
 id: YwJ5gT_tJ
 blocks:
   - type: content_block
