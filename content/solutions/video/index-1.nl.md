@@ -1,5 +1,5 @@
 ---
-title: Video
+title: Video1
 slug: video laten maken
 weight: 3
 draft: false
