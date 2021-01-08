@@ -1,7 +1,7 @@
 ---
 title: Zorg & Pharma
 slug: zorg-pharma
-weight: 2
+weight: 3
 draft: false
 id: o0NtTZixr
 image:
@@ -26,7 +26,7 @@ blocks:
       Hoe bereik je je doelgroep met nieuwe doorbraken, of hoe trek je nieuwe sponsors aan? Met een interactieve en intuitieve brochure van Phil & Flo. Het belang van pharmaceutische bedrijven met ethische doelstellingen en ethische managementdoelen is in ieders belang. Daarom is ons team bereid om jou te helpen bij het produceren van marketing middelen die impact maken bij je doelgroep. Bekijk deze interactieve brochure van Pharmerit (Open Health) hiernaast.
     displaymedia: custom_video
     video:
-      source_mp4: ""
+      source_mp4: https://www.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
     align: right
   - type: contact_block
     contacts:
