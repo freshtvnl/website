@@ -52,20 +52,6 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Persoonlijke*** video laten maken
-
-
-      Het creëren van een ***echt***, interactief en vooral ***persoonlijke dialoog*** met de doelgroep. Dat is natuurlijk het doel dat je nastreeft. Makkelijk te begrijpen communicatie in combinatie met persoonlijke op de doelgroep gerichte boodschappen. Dat is de kracht van persoonlijke video door Phil & Flo. Lees hier meer over wat persoonijke video voor jouw organisatie kan betekenen.
-    displaymedia: iframe
-    video:
-      autoplay: true
-    youtube:
-      id: "7lgeGNnzvsQ "
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
-  - type: content_block
-    align: left
-    content: >-
       ## ***Commercial*** laten maken
 
 
@@ -78,11 +64,25 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/Commercial-laten-maken.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Persoonlijke*** video laten maken
+
+
+      Het creëren van een ***echt***, interactief en vooral ***persoonlijke dialoog*** met de doelgroep. Dat is natuurlijk het doel dat je nastreeft. Makkelijk te begrijpen communicatie in combinatie met persoonlijke op de doelgroep gerichte boodschappen. Dat is de kracht van persoonlijke video door Phil & Flo. Lees hier meer over wat persoonijke video voor jouw organisatie kan betekenen.
+    displaymedia: iframe
+    video:
+      autoplay: true
+    youtube:
+      id: "7lgeGNnzvsQ "
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - dD7nogK0Q
+      - cc-ik-qqS
+      - E9m0t0ALL
     more_items: true
 ---
