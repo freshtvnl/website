@@ -1,6 +1,6 @@
 ---
 title: Douwe Egberts - Promotiefilm
-draft: false
+draft: true
 id: E9m0t0ALL
 image:
   source: images/schermafbeelding-2020-12-01-om-16.24.30.png
@@ -19,4 +19,11 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## Vraagstuk
+
+
+      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is
 ---
