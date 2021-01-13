@@ -14,7 +14,7 @@ blocks:
       Video komt in vele vormen en maten, omdat ze zoveel van elkaar verschillen kan je hieronder een keuze maken uit bedrijfsfilms, commercials of Employer Branding.
     displaymedia: image
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
   - type: content_block
     align: left
     content: >-
