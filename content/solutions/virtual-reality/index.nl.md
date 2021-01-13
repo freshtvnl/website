@@ -21,7 +21,12 @@ blocks:
     content: "## Virtual Reality Animatie"
   - type: content_block
     align: left
-    content: "## Virtual Reality Video"
+    content: >-
+      ## Virtual Reality Video
+
+
+      Heb je weleens aan de rand van een afgrond gestaan in een 360 graden film? Of heb je weleens in een VR achtbaan gezeten? Het gevoel alsof je naar beneden valt of gaat vallen? Je maakt het dan ook echt mee, dat is de kracht van Virtual reality video. Lees hier meer over de mogelijkheden voor jouw organisatie.
     youtube:
       id: whTY-lLc2Tc
+    displaymedia: youtube_video
 ---
