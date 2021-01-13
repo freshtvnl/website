@@ -22,5 +22,6 @@ blocks:
       ## Hoe korter, ***hoe beter***
 
 
-      Mensen hebben maar een korte aandachtsspanne, binnen ongeveer 4 seconden wordt . Dus je hebt nog geen tien seconden om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s not done binnen de videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een ludiek shot of creëer hele snelle quick preview van wat er allemaal te zien is in de video.
+      Mensen hebben maar een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
+    displaymedia: image
 ---
