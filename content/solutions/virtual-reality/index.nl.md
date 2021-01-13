@@ -1,7 +1,7 @@
 ---
 title: Virtual Reality
 slug: virtual-reality
-weight: 2
+weight: 4
 draft: false
 id: Yu_OxyeJZ
 image:
