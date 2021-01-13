@@ -5,7 +5,7 @@ weight: 3
 draft: false
 id: YBLABQPne
 image:
-  source: images/innovatieve-tech-phil-en-flo.jpg
+  source: images/zorg-innovatie.jpg
 color: blue
 blocks:
   - type: hero_block
