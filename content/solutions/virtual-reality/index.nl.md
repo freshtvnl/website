@@ -16,4 +16,12 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: EnIbX-67iuc
+  - type: content_block
+    align: left
+    content: "## Virtual Reality Animatie"
+  - type: content_block
+    align: left
+    content: "## Virtual Reality Video"
+    youtube:
+      id: whTY-lLc2Tc
 ---
