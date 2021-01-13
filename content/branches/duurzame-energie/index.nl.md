@@ -1,6 +1,7 @@
 ---
 title: Duurzame Energie
 slug: duurzame-energie
+weight: 1
 draft: false
 id: 0uhmsFFxS
 image:

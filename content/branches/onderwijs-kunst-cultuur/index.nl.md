@@ -5,7 +5,7 @@ weight: 4
 draft: false
 id: q6TD9LMXU
 image:
-  source: images/onderwijs-promotiefilm.jpg
+  source: images/coornhert-onderwijs-communicatie-1.jpg
 color: yellow
 blocks:
   - type: hero_block

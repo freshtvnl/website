@@ -1,6 +1,7 @@
 ---
 title: Innovatieve Tech
 slug: Innovatieve-tech
+weight: 3
 draft: false
 id: YBLABQPne
 image:

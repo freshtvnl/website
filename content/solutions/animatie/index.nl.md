@@ -1,6 +1,7 @@
 ---
 title: Animatie
 slug: animatie
+weight: 1
 draft: false
 id: wvUKuLAzh
 image:

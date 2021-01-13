@@ -1,7 +1,7 @@
 ---
 title: Video
 slug: video laten maken
-weight: 3
+weight: 2
 draft: false
 id: YwJ5gT_tJ
 image:
