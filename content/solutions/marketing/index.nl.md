@@ -1,7 +1,7 @@
 ---
 title: Videomarketing
 slug: videomarketing
-weight: 1
+weight: 5
 draft: true
 id: WnlJtd9dP
 image:
