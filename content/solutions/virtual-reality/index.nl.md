@@ -11,7 +11,7 @@ blocks:
     content: Virtual reality is echt de volgende stap in beleving. Heb je wel eens
       een VR-bril opgehad? De meeste ondertussen wel. Echter niet iedereen heeft
       een goede headset thuis liggen. Daarom is VR content nog beperkt in te
-      zetten, maar als je het inzet op een zinvolle manier, dan is de imapct erg
+      zetten, maar als je het inzet op een zinvolle manier, dan is de impact erg
       groot, evenals de reacties van de kijker ;)
     displaymedia: youtube_video
     youtube:
