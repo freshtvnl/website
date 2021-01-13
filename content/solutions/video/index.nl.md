@@ -51,12 +51,18 @@ blocks:
       autoplay: true
   - type: content_block
     align: left
-    content: "## ***Persoonlijke*** video"
-    displaymedia: youtube_video
+    content: >-
+      ## ***Persoonlijke*** video
+
+
+      Het creëren van een ***echt***, interactief en vooral ***persoonlijke dialoog*** met de doelgroep. Dat is natuurlijk het doel dat je nastreeft. Makkelijk te begrijpen communicatie in combinatie met persoonlijke op de doelgroep gerichte boodschappen. Dat is de kracht van persoonlijke video door Phil & Flo. Lees hier meer over wat persoonijke video voor jouw organisatie kan betekenen.
+    displaymedia: iframe
     video:
       autoplay: true
     youtube:
       id: "7lgeGNnzvsQ "
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     align: left
     content: "## Commercial"
