@@ -1,6 +1,7 @@
 ---
 title: Interactief
 slug: interactief
+weight: 3
 draft: false
 id: HklGfir85
 image:
