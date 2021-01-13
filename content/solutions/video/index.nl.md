@@ -14,9 +14,9 @@ blocks:
 
 
       Video komt in vele vormen en maten, omdat ze zoveel van elkaar verschillen kan je hieronder een keuze maken uit bedrijfsfilms, commercials of Employer Branding.
-    displaymedia: image
+    displaymedia: null
     image:
-      source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
+      source: ""
   - type: content_block
     align: left
     content: >-
@@ -28,8 +28,8 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://freshtv.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.mp4
-      source_webm: https://freshtv.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
+      source_mp4: https://philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.mp4
+      source_webm: https://philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
   - type: content_block
     align: left
