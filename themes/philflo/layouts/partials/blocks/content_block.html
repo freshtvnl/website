@@ -9,6 +9,17 @@
     <div class="grid md:grid-cols-5 md:gap-x-24 {{if eq $align "right" }}md:grid-flow-col-dense{{end}}">
       <div class="col-span-5 {{if eq $align "center" }}md:col-span-5 mx-auto{{else}}md:col-span-2{{end}} {{if eq $align "right"}}md:col-start-4{{end}} prose lg:prose-lg xl:prose-xl py-6 md:py-2">
         {{ $params.content | markdownify }}
+
+        {{ with $params.cta }}
+        <div class="mt-6">
+          {{ if eq .type "button" }}
+          <a href="{{.url}}" class="branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;">{{.text}}</a>
+          {{ else }}
+          <a href="{{.url}}" class="branch-element-text">{{.text}}</a>
+          {{ end }}
+        </div>
+        {{ end}}
+
       </div>
       <div class="col-span-5 md:col-span-3">
         {{ if and ($params.video) (eq $display "custom_video") }}

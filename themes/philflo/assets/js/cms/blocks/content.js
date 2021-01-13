@@ -1,4 +1,5 @@
 import { media } from '../partials/media'
+import { cta } from '../partials/cta'
 
 export const content = {
   label: "Content block",
@@ -22,7 +23,8 @@ export const content = {
       required: false,
       i18n: true,
     },
-    ...media
+    ...media,
+    cta
     
   ]
 }

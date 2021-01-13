@@ -8,6 +8,7 @@ module.exports = {
       height: ['hover', 'focus', 'group-hover'],
       translate: ['hover', 'focus', 'group-hover'],
       minHeight: ['hover', 'focus', 'group-hover'],
+      backgroundOpacity: ['hover'],
     }
   },
   purge: {

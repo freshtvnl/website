@@ -23,6 +23,10 @@ blocks:
     displaymedia: image
     image:
       source: images/2d-animatie-laten-maken.jpg
+    cta:
+      url: /test
+      text: Lees meer
+      type: link
   - type: content_block
     align: left
     content: >-
@@ -38,6 +42,10 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     image:
       source: images/3d-animatie-laten-maken.jpg
+    cta:
+      url: /test/
+      text: nog een test
+      type: button
   - type: content_block
     align: left
     content: >-
