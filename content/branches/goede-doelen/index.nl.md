@@ -5,7 +5,7 @@ weight: 6
 draft: false
 id: 7P41lTMjs
 image:
-  source: images/goede-doel-welcome-app.jpg
+  source: images/phil-en-flo-mvo.jpg
 color: red
 blocks:
   - type: content_block
