@@ -10,17 +10,17 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Video laten maken
+      ## ***Video*** laten maken
 
 
-      Het is erg belangrijk om te kiezen voor het juiste middel, als het gaat om doeltreffende marketing. Daarom produceren we verschillende soorten video's. Op deze pagina vindt je een aantal primaire videovormen die handig zijn in de juiste marketingmix. We produceren echter nog vele andere vormen video, vraag onze adviseur voor meer informatie.
+      Het is erg belangrijk om te kiezen voor het *juiste middel*, als het gaat om doeltreffende marketing. Daarom produceren we verschillende soorten video's. Op deze pagina vindt je een aantal primaire videovormen die handig zijn in de juiste marketingmix. We produceren echter nog vele andere vormen video, vraag onze adviseur voor meer informatie.
     displaymedia: null
     image:
       source: ""
   - type: content_block
     align: left
     content: >-
-      ## Bedrijfsfilm
+      ## ***Bedrijfsfilm***
 
 
       Een bedrijfsfilm of corporate movie laten maken is een prachtige manier om je bedrijf met haar unieke visie te presenteren. We kijken samen met jou wat de doelen zijn van je organisatie en wat jullie voor de wereld van morgen betekenen. Lees hier meer over bedrijfsfilms.
@@ -34,7 +34,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Employer Branding
+      ## ***Employer Branding***
 
 
       Ben je op zoek naar het juiste personeel voor je organisatie? Dan is een employer branding film van Phil & Flo een goede manier om je kansen flink te vergroten. De kandidaat krijgt direct een realistisch beeld van je organsiatie en proeft de sfeer die er hangt. Lees hier meer over de voordelen van employer branding films.
@@ -51,7 +51,7 @@ blocks:
       autoplay: true
   - type: content_block
     align: left
-    content: "## Persoonlijke video"
+    content: "## ***Persoonlijke*** video"
     displaymedia: youtube_video
     video:
       autoplay: true
