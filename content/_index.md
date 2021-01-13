@@ -22,11 +22,10 @@ blocks:
       Dat klinkt geweldig, toch? 
 
 
-      Om dit te bereiken zetten wij nu de stappen die nodig zijn. Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food zijn in onze ogen de sectoren die het verschil gaan maken. Zeker met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. \
+      Om dit te bereiken zetten wij nu de stappen die nodig zijn. Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food zijn in onze ogen de sectoren die het verschil gaan maken. Zeker met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie.
 
 
       In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s.
-
 
 
       Ons doel? Het beste en leukste creatieve team, voor een snelle transitie naar deze mooie toekomst.
@@ -41,7 +40,6 @@ blocks:
       - DG0aSzvMj
       - dD7nogK0Q
       - cc-ik-qqS
-      - E9m0t0ALL
     more_items: true
   - type: collection_block
     collection: solutions
