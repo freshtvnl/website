@@ -77,6 +77,7 @@ blocks:
         source: images/pra-louelle-commercial.jpg
     video:
       source_mp4: https://www.philenflo.nl/video/Commercial-laten-maken.mp4
+      autoplay: true
   - type: selectedwork_block
     title: Selected work
     items:
