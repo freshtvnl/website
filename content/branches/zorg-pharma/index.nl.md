@@ -1,7 +1,7 @@
 ---
 title: Zorg & Pharma
 slug: zorg-pharma
-weight: 2
+weight: 3
 draft: false
 id: o0NtTZixr
 image:
@@ -9,43 +9,90 @@ image:
 color: pink
 blocks:
   - type: hero_block
+    content: Goede zorg vinden we vanzelfsprekend hier in Europa. We hebben het hier
+      fantastisch voor elkaar. Dat betekent ook dat er tijd en geld is voor
+      onderzoek die weer kan worden gebruikt in de rest van de wereld. Om ook
+      wereldwijd ziektes uit te bannen is goede pharmaceutische industrie
+      belangrijk. Daarom werken wij graag samen met zorg & pharma bedrijven om
+      doorbraken en oplossingen te communiceren door middel van interactieve
+      brochures, animatiefilms en videofilms. Onze specialist op het gebied van
+      zorg en pharma is Victor. Bel hem gerust voor vrijblijvend advies op maat
+      085 - 273 8331.
+    title: De wereld van morgen ***leeft gezond***
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
+    align: left
     content: >-
-      ## Opleiders voor de ***wereld van morgen***
+      ## ***Samenwerking***
 
 
-      Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij staan aan de basis van een nieuwe generatie die de wereld van morgen vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze fantastische branche. Om onze oplossingen zoals interactieve film of animaties in te zetten bij het verspreiden van onderwijs ideeen of de promotie van leergemeenschappen. Onze onderwijsspecialist is Sebastiaan, hij heeft de passie om jou te helpen bij het vormgeven van je ideeen. Bel Sebastiaan nu op 085 - 273 8331 om direct even vrijblijvend over de mogelijkheden te sparren.
-    displaymedia: iframe
+      Vanuit onze passie en behoefte om bij te dragen aan innovatieve gezondheidszorg proberen wij dagelijks weer te excelleren. Of wij beter zijn dan onze concurrenten? Geen idee, wij focussen ons puur om elke dag beter te worden in ons eigen werk. Dat doen wij door middel van een plezierige samenwerking, waarin wij vanuit intrinsieke motivatie willen weten wat jij wilt vertellen. Wij willen je begrijpen en met jouw boodschap impact maken op het gebied van gezondheid en welzijn.
+    displaymedia: image
     image:
-      source: images/onderwijs-promotiefilm.jpg
-      alt: Onderwijs promotiefilm
+      source: images/foto-umcg.png
     video:
       autoplay: false
+  - type: content_block
+    content: >-
+      ## ***Interactieve oplossingen*** voor Pharma
+
+
+      Hoe bereik je je doelgroep met nieuwe doorbraken, of hoe trek je nieuwe sponsors aan? Met een interactieve en intuïtieve brochure van Phil & Flo. Het belang van farmaceutische bedrijven met ethische doelstellingen en ethische managementdoelen is in ieders belang. Daarom is ons team bereid om jou te helpen bij het produceren van marketing middelen die impact maken bij je doelgroep. Bekijk deze interactieve brochure van Pharmerit (Open Health) hiernaast.
+    displaymedia: iframe
+    video:
+      source_mp4: ""
+      autoplay: false
+    align: right
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+  - type: content_block
+    align: left
+    content: >-
+      ## Oplossing ***animatiefilms***
+
+
+      Medische wetenschap bevat vaak een bepaalde mate van complexiteit. Wij bieden de vertaalslag om complexe materie op een laagdrempelige manier inzichtelijk maken. Op deze manier helpen wij jou om innovatie te accelereren. Animatie biedt een enorm krachtig communicatiemiddel, of dit nu om patiëntcommunicatie, uitleg over een doorbraak, of het overtuigen van behandelaren gaat. Samen met jouw creëren we een naadloos aansluitende stijl en script om de gewenste impact te bereiken. Dit gieten we in een passende stijl om jouw communicatiedoelstelling te behalen.
+    displaymedia: youtube_video
+    youtube:
+      id: O25uN5rKj1I
+    image:
+      alt: ""
   - type: content_block
     align: right
     content: >-
-      ## Kunst & Cultuur
+      ## Veelzijdige ***oplossingen***
 
 
-      Waarom plaatsen we kunst & Cultuur in dezelfde hoek als onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst en cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van Kunst & Cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische interactieve films of virtual reality (360 graden) animatie films.
-    displaymedia: custom_video
+      Voor iedere managementdoelstelling maken wij maatwerk producten die effectief bijdragen aan het behalen hiervan. Iedere doelstelling vergt namelijk een andere aanpak. Wil jij je doelgroep op een educatieve manier informeren? Wil jij je doelgroep op ongeëvenaarde wijze service bieden? Ons multidisciplinaire team heeft naast het vermogen om strategisch mee te denken, het vermogen om volledig in huis maatwerk te leveren.
+    displaymedia: youtube_video
     video:
-      source_mp4: https://freshtv.nl/video/Boknet-Phil%20en%20Flo%20website%20source.mp4
-      source_webm: https://freshtv.nl/video/Boknet-Phil-en-Flo-website-source.webm
+      source_mp4: ""
+      autoplay: false
+    youtube:
+      id: p0l_rmBMrlA?rel=0
+  - type: content_block
+    align: left
+    content: >-
+      ## Onderwijs in ***medische communicatie***
+
+
+      Digitaal ondersteunde onderwijsvormen is een steeds belangrijker thema in de medische wereld. De kracht van visuele middelen wordt steeds duidelijker en bij de juiste inzet wordt dit effectief ingezet. Met onze maatwerk oplossingen kunnen medische communicatiespecialisten het beste medisch onderwijs bieden aan hun medewerkers, patiënten en cliënten.
+    displaymedia: custom_video
+    youtube:
+      id: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
-  - type: selectedwork_block
-    title: Video voorbeelden
-    items:
-      - dD7nogK0Q
-  - type: selectedwork_block
-    title: Animatie voorbeelden
-    items:
-      - DG0aSzvMj
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
-  - contacts:
       - kJ07QyNzs
+    content: >-
+      ### ***Samenwerken?***
+
+
+
+      Schroom niet op contact op te nemen. Onze specialist staan klaar om vrijblijvend te sparren over jouw communicatie uitdagingen!
 ---
