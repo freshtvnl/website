@@ -70,11 +70,13 @@ blocks:
 
 
       Wil je een commercial laten maken? Wij hebben maar één duidelijk doel: Jouw boodschap creatief en helder overbrengen aan de juiste doelgroep! Wij vinden het belangrijk dat de commercials die wij produceren van het hoogste niveau zijn. Daarnaast houden wij ons aan onze ethische normen. Lees hier meer over commercials.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: uU_QxytkDYY
       image:
         source: images/pra-louelle-commercial.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/Commercial-laten-maken.mp4
   - type: selectedwork_block
     title: Selected work
     items:
