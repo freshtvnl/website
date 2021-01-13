@@ -77,8 +77,8 @@ blocks:
   - type: selectedwork_block
     title: Duurzame cases
     items:
-      - sCR0-5I1N
       - fm2wFFmdb
+      - sCR0-5I1N
     more_items: true
   - type: contact_block
     content: ""

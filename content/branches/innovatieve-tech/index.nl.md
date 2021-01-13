@@ -5,7 +5,7 @@ weight: 3
 draft: false
 id: YBLABQPne
 image:
-  source: images/innovatieve-tech-phil-en-flo.jpg
+  source: images/zorg-innovatie.jpg
 color: blue
 blocks:
   - type: hero_block
@@ -17,9 +17,12 @@ blocks:
 
 
       Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/innovatieve-tech-phil-en-flo.jpg
+      source: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -31,8 +34,8 @@ blocks:
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
     video:
-      source_mp4: https://freshtv.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
-      source_webm: https://freshtv.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
+      source_mp4: https://philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
+      source_webm: https://philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
       autoplay: true
   - type: content_block
     content: >-
