@@ -1,6 +1,7 @@
 ---
 title: Goede Doelen
 slug: goede-doelen
+weight: 1
 draft: false
 id: 7P41lTMjs
 image:
