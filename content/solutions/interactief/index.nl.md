@@ -7,7 +7,7 @@ image:
   source: images/interactieve-video-philenflo.jpg
 blocks:
   - type: hero_block
-    title: Interactie op hoog niveau
+    title: Interactie op ***hoog niveau***
     content: Wil je echt interactie op hoog niveau met je doelgroep? Kies dan voor
       onze interactieve video mogelijkheden. Je geeft de kijker allerlei keuzes
       die voor hun relevant kunnen zijn. Ze zijn zelf in control. Het voordeel
@@ -15,16 +15,19 @@ blocks:
       je merk. Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je
       een quiz toevoegen, een link naar een PDF of website maken en nog veel
       meer.
-    displaymedia: image
+    displaymedia: iframe
     image:
       source: images/interactieve-video-philenflo.jpg
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
     align: left
     displaymedia: iframe
-    content: |-
-      ## Niet normaal wat je allemaal kan
+    content: >-
+      ## Concrete cases
 
-      Echt niet normaal, de mogelijkheden van een interactieve brochure
+
+      Werkelijk fantastische mogelijkheden met interactieve video. Elke keer weer ben ik verbaasd over de creatieve mogelijkheden die de verschillende lagen van interactieve video met zich meebrengt. Relevantie voor de kijker is hierbij geen loos woord. De kijker bepaald en ervaart. Neem contact met me op om direct jouw case vrijblijvend voor te leggen, 085 - 273 8331. Peter de Graaf.
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
 ---
