@@ -37,20 +37,25 @@ const fields = [
             widget: 'string'
           },
           {
-            label: 'Facebook',
-            name: 'facebook',
-            widget: 'string'
-          },
-          {
-            label: 'Twitter',
-            name: 'twitter',
+            label: 'LinkedIn',
+            name: 'linkedin',
             widget: 'string'
           },
           {
             label: 'Instagram',
             name: 'instagram',
             widget: 'string'
-          }
+          },
+          {
+            label: 'Facebook',
+            name: 'facebook',
+            widget: 'string'
+          },
+          {
+            label: 'YouTube',
+            name: 'youtube',
+            widget: 'string'
+          },
         ]
       },
     ]
