@@ -52,6 +52,21 @@ blocks:
   - type: content_block
     align: left
     content: >-
+      ## ***Commercial*** laten maken
+
+
+      Wil je een commercial laten maken? Wij hebben maar één duidelijk doel: Jouw boodschap creatief en helder overbrengen aan de juiste doelgroep! Wij vinden het belangrijk dat de commercials die wij produceren van het hoogste niveau zijn. Daarnaast houden wij ons aan onze ethische normen. Lees hier meer over commercials.
+    displaymedia: custom_video
+    youtube:
+      id: uU_QxytkDYY
+      image:
+        source: images/pra-louelle-commercial.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/Commercial-laten-maken.mp4
+      autoplay: true
+  - type: content_block
+    align: left
+    content: >-
       ## ***Persoonlijke*** video laten maken
 
 
@@ -63,23 +78,11 @@ blocks:
       id: "7lgeGNnzvsQ "
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Commercial*** laten maken
-
-
-      Wil je een commercial laten maken? Wij hebben maar één duidelijk doel: Jouw boodschap creatief en helder overbrengen aan de juiste doelgroep! Wij vinden het belangrijk dat de commercials die wij produceren van het hoogste niveau zijn. Daarnaast houden wij ons aan onze ethische normen. Lees hier meer over commercials.
-    displaymedia: youtube_video
-    youtube:
-      id: uU_QxytkDYY
-      image:
-        source: images/pra-louelle-commercial.jpg
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - dD7nogK0Q
+      - cc-ik-qqS
+      - E9m0t0ALL
     more_items: true
 ---
