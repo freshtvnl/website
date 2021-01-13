@@ -2,6 +2,14 @@ const { colors, fontFamily, maxWidth, screens } = require('tailwindcss/defaultTh
 const path = require("path");
 
 module.exports = {
+  variants: {
+    extend: {
+      inset: ['hover', 'focus', 'group-hover'],
+      height: ['hover', 'focus', 'group-hover'],
+      translate: ['hover', 'focus', 'group-hover'],
+      minHeight: ['hover', 'focus', 'group-hover'],
+    }
+  },
   purge: {
     enabled: process.env.HUGO_ENVIRONMENT === "production",
     content: [
@@ -69,16 +77,9 @@ module.exports = {
             '500' : '#ec008c'
           }
 
+
       }
     }
-  },
-  variants: {
-    // backgroundOpacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    // translate: ["responsive", "hover", "focus", "active", "group-hover"],
-    // transitionProperty: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    // transform: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    // transformOrigin: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
-    // opacity: ['responsive', 'hover', 'focus', 'active', 'group-hover'],
   },
   plugins: [
     require('@tailwindcss/typography'),
