@@ -5,6 +5,17 @@ import { blocks } from "../blocks/index"
 
 const fields = [
   ...base,
+  {
+    label: "Select Parent",
+    name: "parent",
+    widget: "relation",
+    collection: "solutions",
+    search_fields: ["title"],
+    display_fields: ["title"],
+    value_field: "id",
+    multiple: false,
+    i18n: true,
+  },
   image,
   
 ]

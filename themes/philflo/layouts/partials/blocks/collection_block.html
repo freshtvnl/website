@@ -123,6 +123,7 @@
   <div class="grid grid-cols-1 md:grid-cols-3 gap-16 xl:gap-y-24 2xl:gap-x-24">
     {{ range $index, $element := (where (where ($site.Pages) "Kind" "page") "Type" $params.collection) | first $numItems  }}
     {{ $pagecolor :=  (cond (ne (.Params.color) nil ) (.Params.color) ("green") ) }}
+    {{ if .Params.Parent }} {{ else }}
     {{ $page := .}}
     <a href="{{.RelPermalink}}" class=" page-{{$pagecolor}}">
         {{ with .Title}}
@@ -140,6 +141,7 @@
         </div>
         {{ end }}
       </a>
+      {{ end }}
     {{ end }}
   </div>
 </div>
