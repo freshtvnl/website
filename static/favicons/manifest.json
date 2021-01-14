@@ -1,0 +1,9 @@
+{
+  "name": "Phil & Flo",
+  "short_name": "Phil & Flo",
+  "theme_color": "#007f66",
+  "background_color": "#007f66",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
