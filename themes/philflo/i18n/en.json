@@ -14,5 +14,26 @@
   {
     "id": "read_more",
     "translation": "Read more"
+  },
+  {
+    "id": "view_more_items",
+    "translation": "View more items"
+  },
+  {
+    "id": "scroll_down",
+    "translation": "Scroll Down"
+  },
+  
+  {
+    "id": "toggle_menu",
+    "translation": "Toggle menu"
+  },
+  {
+    "id": "close_menu",
+    "translation": "Close menu"
+  },
+  {
+    "id": "toggle_item",
+    "translation": "Toggle item"
   }
 ]

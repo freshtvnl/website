@@ -14,5 +14,25 @@
   {
     "id": "read_more",
     "translation": "Lees verder"
+  },
+  {
+    "id": "view_more_items",
+    "translation": "Bekijk meer items"
+  },
+  {
+    "id": "scroll_down",
+    "translation": "Scrol naar beneden"
+  },
+  {
+    "id": "toggle_menu",
+    "translation": "Toggle menu"
+  },
+  {
+    "id": "close_menu",
+    "translation": "Menu sluiten"
+  },
+  {
+    "id": "toggle_item",
+    "translation": "Toggle item"
   }
 ]
