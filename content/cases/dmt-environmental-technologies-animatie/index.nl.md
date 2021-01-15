@@ -15,9 +15,12 @@ blocks:
       biologische afvalproducten die hoofdzakelijk methaan (CH4) en kooldioxide
       (CO2) bevatten.
     title: Biogas productie
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/duurzame-energie-dmt-biogas.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
+      source_webm: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.webm
   - type: content_block
     displaymedia: youtube_video
     video:
