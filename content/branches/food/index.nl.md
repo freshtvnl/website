@@ -1,5 +1,5 @@
 ---
-title: Food
+title: Fair Food
 slug: food
 weight: 5
 draft: false
@@ -11,10 +11,10 @@ blocks:
   - type: hero_block
     title: Verbeelden van ons ***eten & drinken***
     content: Stel je eens een wereld voor waarin de oceanen vrij zijn van de
-      duizenden tonnen plastic, de mens weer in de balans staat met de wereld om
-      zich heen en er precies genoeg wordt geproduceerd om de gehele
-      wereldbevolking te voeden. Zonder voedselverspilling en oneerlijke
-      verdeling van het voedsel.
+      duizenden tonnen plastic en de mens weer in de balans staat met de wereld
+      om zich heen. Dat er precies genoeg wordt geproduceerd op duurzame wijze
+      om de gehele wereldbevolking te voeden. Zonder voedselverspilling en
+      oneerlijke verdeling van het voedsel.
     displaymedia: custom_video
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
@@ -30,7 +30,7 @@ blocks:
       ## Meewerken voor de ***juiste balans***
 
 
-      De stappen om tot deze situatie te komen worden nu gezet door innovatieve organisaties in de foodsector. FreshTV helpt organisaties hun verhaal aan het grote publiek te vertellen. Door middel van het creëren van een sterk verhaal maatwerk visualisaties zorgen we dat jouw verhaal in een stroomversnelling komt en de juiste personen bereikt.
+      De stappen om tot deze situatie te komen, worden nu gezet door innovatieve organisaties in de foodsector. Phil & Flo helpt organisaties hun verhaal aan het grote publiek te vertellen. Door middel van het creëren van een sterk verhaal en maatwerk visualisaties zorgen we dat jouw verhaal in een stroomversnelling komt en de juiste personen bereikt.
   - type: content_block
     align: right
     displaymedia: image
