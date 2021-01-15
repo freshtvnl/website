@@ -62,4 +62,5 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
       source_webm: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.webm
+      autoplay: true
 ---
