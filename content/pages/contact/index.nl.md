@@ -10,21 +10,15 @@ blocks:
     title: Contact
     content: "## Neem contact op met Phil & Flo!"
     youtube:
-      id: esX7SFtEjHg
-    displaymedia: youtube_video
-  - type: selectedfaqs_block
-    title: faq
-    items:
-      - QBToQiJHS
-      - LLXpXYoMm
-    more_items: false
+      id: ""
+    displaymedia: image
+    image:
+      source: images/aron-sophie.jpg
   - type: selectedreviews_block
     title: reviews
     items:
-      - -VoVn5xcW
-      - -VoVn5xcW
-      - -VoVn5xcW
-    more_items: true
+      - 4vF9wbJjI
+    more_items: false
 menu:
   main:
     weight: 7
