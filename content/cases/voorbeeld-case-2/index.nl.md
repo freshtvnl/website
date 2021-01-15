@@ -16,18 +16,20 @@ blocks:
       Payconiq is de toekomst op het gebied van betalen. Wat rest, is een
       succesvolle videostrategie om deze fantastische app succesvol te
       lanceren."
-    displaymedia: image
-    title: Product video Payconiq
+    displaymedia: custom_video
+    title: "***Product video Payconiq***"
     image:
       source: images/payconiq-innovatieve-tech-phil-en-flo.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     displaymedia: custom_video
     video:
-      source_mp4: freshtv.nl/video/payconiq-Phil-en-Flo-website.mp4
+      source_mp4: https://www.philenflo.nl/veilig/Payconiq-film2-Phil-en-Flo.mp4
     align: left
     content: >-
-      ## Doelstellingen
-
+      ## ***Doelstellingen***
 
 
       Payconiq krachtig en duidelijk in de markt zetten. Wat kan je met de betaal-app, hoe compleet zijn de bijbehorende functies en wat maakt het betalen ermee zo ontzettend eenvoudig? Genoeg vragen om te beantwoorden. Het uiteindelijk doel? Dat iedereen gebruik gaat maken van deze app en zich nooit meer over betalingen hoeft te bekommeren.
