@@ -1,5 +1,5 @@
 ---
-title: Food
+title: Fair Food
 slug: food
 weight: 5
 draft: false
