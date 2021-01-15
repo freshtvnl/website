@@ -56,7 +56,7 @@ blocks:
 
 
 
-      Een volle en drukke draaidag is eigenlijk altijd een standaard en vraagt daarom altijd om een goede voorbereiding én samenwerking. Alleen zo kunnen we kwaliteit garanderen! De samenwerking met het Coornhert liep perfect, wat heeft bijgedragen aan een prachtig eindresultaat. Tijdens de draaidag hielden we bij het filmen rekening met onze doelgroep door korte en vlotte shots te schieten. De aandachtspan van een gemiddelde 12-jarige is namelijk behoorlijk kort. Alleen door op elk vlak rekening te houden met je doelgroep kan je komen tot een film die specifiek de door jou beoogde doelgroep aanspreekt. Een lange, leuke én inspirerende draaidag heeft ons prachtige pakkende beelden opgeleverd.
+      Een volle en drukke draaidag is eigenlijk altijd een standaard en vraagt daarom altijd om een goede voorbereiding én samenwerking. Alleen zo kunnen we kwaliteit garanderen! De samenwerking met het Coornhert liep perfect, wat heeft bijgedragen aan een prachtig eindresultaat. Tijdens de draaidag hielden we bij het filmen rekening met onze doelgroep door korte en vlotte shots te schieten. De aandachtspanne van een 12-jarige is namelijk behoorlijk kort. Alleen door op elk vlak rekening te houden met je doelgroep kan je komen tot een film die specifiek de door jou beoogde doelgroep aanspreekt. Een lange, leuke én inspirerende draaidag heeft ons prachtige pakkende beelden opgeleverd.
     displaymedia: image
     image:
       source: images/collegas-freshtv-tijdens-draaidag.jpg
@@ -71,4 +71,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 3a-xG2hPd64
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Visie van de regisseur***
+
+
+      ‘’Het is inspirerend om te zien hoe het Coornhert succesvol het ''kleinschalige'' weet vast te houden, in een tijd waar schaalvergroting nog steeds de norm is. Onderwijs op maat dankzij een kern- en keuzerooster met daarbij veel persoonlijke aandacht voor de leerling. Dit was overduidelijk terug te zien tijdens onze draaidag. Er is niks mooiers dan werken voor organisaties met ideeën waar je in gelooft!’’ Sebastiaan – Creative Producer Video
+    displaymedia: image
+    image:
+      source: images/coornhert-onderwijs-communicatie-1.jpg
 ---
