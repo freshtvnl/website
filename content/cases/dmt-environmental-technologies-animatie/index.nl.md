@@ -14,17 +14,21 @@ blocks:
       afvalstromen. Hoe zij dit doen? Door biogas op te waarderen uit
       biologische afvalproducten die hoofdzakelijk methaan (CH4) en kooldioxide
       (CO2) bevatten.
-    title: Biogas productie
-    displaymedia: image
+    title: "***Biogas productie***"
+    displaymedia: custom_video
     image:
-      source: ""
+      source: images/duurzame-energie-dmt-biogas.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
+      source_webm: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.webm
+      autoplay: true
   - type: content_block
     displaymedia: youtube_video
     video:
-      source_mp4: freshtv.nl/video/payconiq-Phil-en-Flo-website.mp4
+      source_mp4: ""
     align: left
     content: >-
-      ## Doelstellingen
+      ## ***Doelstellingen***
 
 
       DMT maakt verschillende technologische systemen waarmee dit wordt bereikt. De technologieën die worden gebruikt zijn erg specifiek en specialistisch, hiervoor is veel proces technische kennis nodig. Binnen de werkzaamheden van DMT worden verschillende technologische disciplines gecombineerd wat het ingewikkeld maakt. 
@@ -39,35 +43,46 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Uitvoering
+      ## ***Uitvoering***
 
 
       De productanimaties van Phil & Flo geven DMT de digitale tools om hun producten en processen op een heldere en begrijpelijke manier uit te leggen aan een breed publiek. 
 
 
-      Zo zijn de producten van DMT erg interessant voor veehouders, zij maken aanspraak op subsidies wanneer zij afvalstoffen omzetten tot grondstoffen. Deze afvalstoffen, zoals methaan, worden omgezet in grondstoffen zoals Biogas. 
-
-
-      Het is een uitdaging om DMT’s processen mondeling goed uit te leggen. Om deze doelgroep op een laagdrempelige manier uit te leggen hoe onze biogas-opwekkingsinstallaties werken, zet DMT nu 3D-animatie in. De perfecte synergie tussen de gesproken voice-over en de bijpassende visualisaties zorgen voor een effectieve kennisoverdracht.
-
-
-      Onze projectmanagers hebben veel affiniteit met duurzame oplossingen, de samenwerking is daarom erg gelijkwaardig en leuk. Wij begrijpen niet alleen hoe dit soort processen werken, maar ook de urgentie van dit soort oplossingen met het oog op de wereld van morgen. 
-
-
-      “Phil & Flo heeft ons goed en deskundig geholpen, keurig advies en hun werk is altijd netjes”
+      Zo zijn de producten van DMT erg interessant voor veehouders, zij maken aanspraak op subsidies wanneer zij afvalstoffen omzetten tot grondstoffen. Deze afvalstoffen, zoals methaan, worden omgezet in grondstoffen zoals Biogas.
     displaymedia: image
     youtube:
       id: ""
     image:
       source: images/duurzame-energie-dmt-biogas-phil-en-flo.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: vrijblijvend offerte aanvragen
+      type: link
   - type: content_block
-    content: >-
-      ## Duurzaamheid
-
-
-      DMT’s verzorgingsgebied is over heel de wereld. Voor DMT is het dus van belang, dat ze de animaties op globaal niveau kunnen inzetten. De films zijn duurzaam ingestoken, dat wil zeggen dat we alle tijdsgebonden elementen strategisch uit de film elimineren. Op deze manier zijn onze producties minimaal 4 tot 5 jaar inzetbaar.
     align: left
+    content: >-
+      ## ***3D Animatie oplossingen***
+
+
+      Het is een uitdaging om DMT’s processen mondeling goed uit te leggen. Om deze doelgroep op een laagdrempelige manier te verbeelden hoe deze biogas-opwekkingsinstallaties werken, zet DMT nu 3D-animatie's van Phil & Flo in. De perfecte synergie tussen de gesproken voice-over en de bijpassende visualisaties zorgen voor een effectieve kennisoverdracht.
+
+
+      Onze projectmanagers hebben veel affiniteit met duurzame oplossingen, de samenwerking is daarom erg gelijkwaardig en leuk. Wij begrijpen niet alleen hoe dit soort processen werken, maar ook de urgentie van dit soort oplossingen met het oog op de wereld van morgen.
     displaymedia: youtube_video
     youtube:
-      id: ""
+      id: 4ymw1qhmU80
+  - type: content_block
+    content: >-
+      ## ***Duurzaamheid***
+
+
+      DMT’s verzorgingsgebied is over heel de wereld. Voor DMT Environmental Technology is het dus van belang, dat ze de animaties op globaal niveau kunnen inzetten. De films zijn in zes talen vertaald (zie de Franse versie als voorbeeld) De films zijn duurzaam ingestoken, dat wil zeggen dat we alle tijdsgebonden elementen strategisch uit de film elimineren. Op deze manier zijn onze producties minimaal vijf jaar inzetbaar.
+    align: right
+    displaymedia: youtube_video
+    youtube:
+      id: ryEtNcgv-Oo
+  - type: contact_block
+    contacts:
+      - PZcCTyF1B
 ---

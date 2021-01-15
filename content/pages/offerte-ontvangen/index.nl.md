@@ -13,5 +13,5 @@ blocks:
     form: F2bycGgYY
 menu:
   main:
-    weight: 6
+    weight: ""
 ---
