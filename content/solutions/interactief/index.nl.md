@@ -57,4 +57,14 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/c86BN00W3mbz78Be
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Meerdere storylines***
+
+
+      In interactieve video’s kan je direct de interactie met de kijker opzoeken. Je kan de kijker de keuze geven welke richting het wil opgaan in de animatiefilm, of welke informatie belangrijk is voor hem of haar. Daarnaast zorgt interactieve video ervoor dat je niet meerdere video’s hoeft te publiceren. Aangezien alles in één heldere videoplayer past.
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
 ---
