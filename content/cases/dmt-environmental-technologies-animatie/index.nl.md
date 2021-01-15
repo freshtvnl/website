@@ -74,7 +74,7 @@ blocks:
 
 
       DMT’s verzorgingsgebied is over heel de wereld. Voor DMT Environmental Technology is het dus van belang, dat ze de animaties op globaal niveau kunnen inzetten. De films zijn in zes talen vertaald (zie de Franse versie als voorbeeld) De films zijn duurzaam ingestoken, dat wil zeggen dat we alle tijdsgebonden elementen strategisch uit de film elimineren. Op deze manier zijn onze producties minimaal vijf jaar inzetbaar.
-    align: left
+    align: right
     displaymedia: youtube_video
     youtube:
       id: ryEtNcgv-Oo
