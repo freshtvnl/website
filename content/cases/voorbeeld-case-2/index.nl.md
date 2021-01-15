@@ -74,4 +74,8 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: xG-FjaFq03A
+    cta:
+      text: Ook interesse in een succesvolle productvideo? Neem contact op.
+      type: link
+      url: /offerte-ontvangen/
 ---
