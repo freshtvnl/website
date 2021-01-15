@@ -2,7 +2,7 @@
 title: Interactief
 slug: interactieve video
 weight: 3
-draft: true
+draft: false
 id: HklGfir85
 parent: wvUKuLAzh
 image:
