@@ -20,6 +20,7 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/Coornhert-opendag-film-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -31,4 +32,32 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: T8gs75RhQkQ
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Kleinschalig en veilig onderwijs***
+
+
+
+      Om het kleinschalige en veilige karakter van het Coornhert in beeld te brengen is er gekozen voor film. Daar waar 2D animatie juist concepten kan uitleggen, kan film op een prachtige emotie en sfeer overbrengen. Op basis van emotie maken we als mens de meeste keuzes, daarom is er gekozen voor een film om leerlingen uit groep 8 (én ouders) aan te spreken. Maar hoe ga je dan te werk?
+
+
+      We zijn het filmtraject begonnen met een uitgebreide creatieve sessie. Hierin konden we samen met docenten en teamleiders van het Coornhert komen tot de kern van de boodschap die we over moesten brengen. Vervolgens is er stap voor stap naar een prachtig draaiboek gewerkt, waarin pakkende filmshots en interviewvragen waren opgenomen.
+    displaymedia: custom_video
+    image:
+      source: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
+      autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Draaidag & samenwerking***
+
+
+
+      Een volle en drukke draaidag is eigenlijk altijd een standaard en vraagt daarom altijd om een goede voorbereiding én samenwerking. Alleen zo kunnen we kwaliteit garanderen! De samenwerking met het Coornhert liep perfect, wat heeft bijgedragen aan een prachtig eindresultaat. Tijdens de draaidag hielden we bij het filmen rekening met onze doelgroep door korte en vlotte shots te schieten. De aandachtspan van een gemiddelde 12-jarige is namelijk behoorlijk kort. Alleen door op elk vlak rekening te houden met je doelgroep kan je komen tot een film die specifiek de door jou beoogde doelgroep aanspreekt. Een lange, leuke én inspirerende draaidag heeft ons prachtige pakkende beelden opgeleverd.
+    displaymedia: image
+    image:
+      source: images/collegas-freshtv-tijdens-draaidag.jpg
 ---
