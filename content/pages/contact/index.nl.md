@@ -21,9 +21,7 @@ blocks:
   - type: selectedreviews_block
     title: reviews
     items:
-      - -VoVn5xcW
-      - -VoVn5xcW
-      - -VoVn5xcW
+      - 4vF9wbJjI
     more_items: true
 menu:
   main:
