@@ -52,6 +52,10 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+  - type: selectedreviews_block
+    more_items: true
+    items:
+      - 4vF9wbJjI
   - type: selectedwork_block
     title: Video voorbeelden
     items:
