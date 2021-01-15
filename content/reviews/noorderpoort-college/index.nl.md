@@ -1,6 +1,6 @@
 ---
 title: Noorderpoort college
-draft: true
+draft: false
 id: 4vF9wbJjI
 quote:
   stars: 4
