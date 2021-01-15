@@ -18,7 +18,6 @@ blocks:
     title: reviews
     items:
       - 4vF9wbJjI
-      - -VoVn5xcW
     more_items: false
 menu:
   main:
