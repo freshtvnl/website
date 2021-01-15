@@ -34,5 +34,30 @@
   {
     "id": "toggle_item",
     "translation": "Toggle item"
+  },
+  {
+    "id": "name",
+    "translation": "Naam"
+  },
+  {
+    "id": "email",
+    "translation": "E-mail"
+  },
+  {
+    "id": "organization",
+    "translation": "Organisatie"
+  },
+  {
+    "id": "phonenumber",
+    "translation": "Telefoonnummer"
+  },
+  {
+    "id": "notes",
+    "translation": "Omschrijf je wensen"
+  },
+  {
+    "id": "receive_quotation",
+    "translation": "Offerte ontvangen"
   }
+  
 ]
