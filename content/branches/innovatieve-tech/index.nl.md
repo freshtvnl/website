@@ -51,11 +51,8 @@ blocks:
     contacts:
       - kJ07QyNzs
   - type: selectedwork_block
-    items:
-      - fm2wFFmdb
-    title: Video voorbeelden
-  - type: selectedwork_block
     title: Animatie voorbeelden
     items:
       - fm2wFFmdb
+      - sCR0-5I1N
 ---
