@@ -20,6 +20,22 @@ export const menu = {
         },
       ]
     },
+    {
+      label: 'Footer navigation',
+      name: 'footer',
+      widget: 'object',
+      required: false,
+      i18n: true,
+      fields: [
+        {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          required: false,
+          i18n: true,
+        },
+      ]
+    },
    
   ]
 }

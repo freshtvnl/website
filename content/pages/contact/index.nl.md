@@ -22,4 +22,6 @@ blocks:
 menu:
   main:
     weight: 7
+  footer:
+    weight: 7
 ---

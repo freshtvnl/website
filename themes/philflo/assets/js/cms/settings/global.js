@@ -27,6 +27,23 @@ const fields = [
         ]
       },
       {
+        label: 'Email',
+        name: 'email',
+        widget: 'object',
+        fields: [
+          {
+            label: 'Formatted',
+            name: 'formatted',
+            widget: 'string'
+          },
+          {
+            label: 'Raw',
+            name: 'raw',
+            widget: 'string'
+          }
+        ]
+      },
+      {
         label: 'Social',
         name: 'social',
         widget: 'object',

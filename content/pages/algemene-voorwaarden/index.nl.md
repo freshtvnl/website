@@ -264,4 +264,7 @@ blocks:
 
 
       Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
+menu:
+  footer:
+    weight: 2
 ---

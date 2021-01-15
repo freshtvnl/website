@@ -2,8 +2,13 @@
   <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-12 lg:py-12 xl:pt-32 ">
     <div class="grid grid-cols-2 md:grid-cols-3 items-end space-y-12">
         <div>
-          <p class="text-4xl mb-4 text-white">Say Hello!</p>
-          <a href="tel:+31852738331" class="text-xl tracking-wider text-white">+31 85 273 8331</a>
+          <p class="text-4xl mb-6 text-white">Say Hello!</p>
+          {{ with .Site.Params.footer.phonenumber }}
+          <a href="tel:{{ .raw }}" class="text-xl tracking-wider text-white block hover:underline">{{ .formatted }}</a>
+          {{ end }}
+          {{ with .Site.Params.footer.email }}
+          <a href="mailto:{{ .raw }}" class="text-xl tracking-wider text-white block mt-1 hover:underline">{{ .formatted }}</a>
+          {{ end }}
         </div>
         <div class="space-y-4 flex items-center flex-col">
           <p class="text-xl">Stay in the loop</p>
@@ -53,6 +58,16 @@
       <div>
         {{ T "copyright"}} {{ dateFormat "2006" now }} - {{.Site.Title}}
       </div>
+      <nav class="flex flex-col md:flex-row md:space-x-6">
+        {{ $currentPage := . }}
+        {{ range $index, $element := .Site.Menus.footer }}
+          {{if eq .Weight 0 }}
+          {{ else }}
+          <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 {{ if $currentPage.IsMenuCurrent  "footer" . }}font-bold border-white{{ else }}font-semibold border-green-500 {{ end }}">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+  
       <div class="flex space-x-6 hidden">
         <span class="font-bold">
           {{ T "change_language"}} 
