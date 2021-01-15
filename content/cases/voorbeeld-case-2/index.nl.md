@@ -37,8 +37,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Uitvoering
-
+      ## ***Uitvoering***
 
 
       Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte video zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
@@ -51,26 +50,28 @@ blocks:
       id: -8n5l374t2Q
   - type: content_block
     content: >-
-      ## Duurzaamheid
-
+      ## ***Duurzaamheid***
 
 
       In het kader van duurzaamheid en schaalbaarheid is gebruik gemaakt van een voice-over. Dit zorgt ervoor dat de films van nieuwe voice-overs in andere talen kunnen worden voorzien, zonder dat er opnieuw gefilmd moet worden, omdat acteurs in beeld praten. Handig, want Payqonic heeft grote plannen. Ook buiten de Nederlandse grenzen!
 
       Vanwege de internationale ambities, hebben we tijdens de filmopnames niet de applicatie maar een groen scherm gefilmd. Onze animatie-specialisten hebben hierdoor de mogelijkheid om de schermen naar wens in te vullen en op een later moment aan te passen. Bijvoorbeeld om de teksten in het scherm te vertalen van het Nederlands naar het Engels.
     align: left
-    displaymedia: youtube_video
+    displaymedia: image
     youtube:
-      id: xG-FjaFq03A
+      id: ""
+    image:
+      source: images/payconiq-phil-en-flo-achter-de-schermen.jpg
   - type: content_block
     content: >-
-      ## Resultaat
-
+      ## ***Resultaat***
 
 
       De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, YouTube en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
     align: right
     image:
-      source: images/payconiq-phil-en-flo-achter-de-schermen.jpg
-    displaymedia: image
+      source: ""
+    displaymedia: youtube_video
+    youtube:
+      id: xG-FjaFq03A
 ---
