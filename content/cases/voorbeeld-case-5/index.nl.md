@@ -72,4 +72,7 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: G_dlOtmAnas
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
