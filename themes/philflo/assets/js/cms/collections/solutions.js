@@ -15,6 +15,7 @@ const fields = [
     value_field: "id",
     multiple: false,
     i18n: true,
+    required: false
   },
   image,
   
