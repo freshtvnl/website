@@ -17,7 +17,7 @@ blocks:
     title: Biogas productie
     displaymedia: image
     image:
-      source: ""
+      source: images/duurzame-energie-dmt-biogas.jpg
   - type: content_block
     displaymedia: youtube_video
     video:
