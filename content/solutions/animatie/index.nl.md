@@ -4,6 +4,7 @@ slug: animatie
 weight: 1
 draft: false
 id: wvUKuLAzh
+parent: wvUKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -13,28 +14,28 @@ blocks:
       ## Animatie
 
 
-      Animatiefilms komen in vele vormen en maten, omdat ze zoveel van elkaar verschillen kan je hieronder een keuze maken uit 3D animatie, 2D animatie of VR animatie.
+      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
   - type: content_block
     align: left
     content: >-
       ## 2D animatie
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing is. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Lees meer over 2D animaties.
+      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
     displaymedia: image
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /test
+      url: /2d-animatie/
       text: Lees meer
-      type: link
+      type: button
   - type: content_block
     align: left
     content: >-
       ## 3D Animatie
 
 
-      Een 3D animatie is de mooiste vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties! Lees hier meer over 3D animaties.
+      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
     displaymedia: image
     iframe:
       source: ""
@@ -44,8 +45,8 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
     cta:
-      url: /test/
-      text: nog een test
+      url: /3d-animatie-laten-maken/
+      text: Lees hier meer
       type: button
   - type: content_block
     align: left
@@ -59,6 +60,10 @@ blocks:
       autoplay: true
     youtube:
       id: "7lgeGNnzvsQ "
+    cta:
+      url: /vr-animatie-laten-maken/
+      text: Lees hier mee
+      type: button
   - type: selectedwork_block
     title: Selected work
     items:
