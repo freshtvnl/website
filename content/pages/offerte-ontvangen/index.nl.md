@@ -10,10 +10,7 @@ blocks:
       * Vrijblijvend een maatwerk offerte ontvangen
       * Binnen 1 werkdag reactie
       * Leukste videomarketing bureau van Nederland
-
-
-
-      OFFERTE FORMULIER
+    form: F2bycGgYY
 menu:
   main:
     weight: 6

@@ -19,6 +19,20 @@
           {{ end }}
         </div>
         {{ end}}
+        
+        {{ with $params.form }}
+
+        {{ range where $site.Pages "Params.id" . }}
+        {{ $item := . }}
+          {{ with .Title }}
+           <h3>{{.}}</h3>
+          {{ end }}
+          {{ partial "form.html" (dict "page" $page "data" . ) }}
+
+        {{ end }}
+
+        {{ end }}
+
 
       </div>
       <div class="col-span-5 md:col-span-3">

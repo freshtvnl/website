@@ -1,0 +1,38 @@
+{{ $page := .page }}
+{{ $data := .data }}
+
+{{ $thankyou := $data.Params.thankyou_page}}
+{{ $type := $data.Params.type }}
+{{ $name := $data.Title }}
+
+<div class="mt-3">
+
+
+  <div x-data="formData()" x-init="formSetup()">
+    <form method="post" name="{{$name}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
+    <input type="hidden" name="utm_source" value="" x-model="utm_source"  />
+    <input type="hidden" name="utm_medium" value="" x-model="utm_medium"  />
+    <input type="hidden" name="utm_content" value="" x-model="utm_content"  />
+    <input type="hidden" name="utm_campaign" value="" x-model="utm_campaign"  />
+
+
+    {{ if eq $type "quotation"}}
+      quotation form fields
+    {{ end }}
+    
+
+    </form>
+    <script>
+      function formData() {
+        return {
+          formSetup() {
+            this.utm_source = sessionStorage.getItem('utm_source');
+            this.utm_medium = sessionStorage.getItem('utm_medium');
+            this.utm_content = sessionStorage.getItem('utm_content');
+            this.utm_campaign = sessionStorage.getItem('utm_campaign');
+          }
+        }
+      }
+    </script>
+
+</div>

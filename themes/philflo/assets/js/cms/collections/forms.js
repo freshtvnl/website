@@ -28,6 +28,14 @@ const fields = [
     required: true,
     i18n: true
   },
+  {
+    label: "Form Type",
+    name: "type",
+    widget: "select",
+    options: ["quotation"],
+    required: true,
+    i18n: true,
+  },
 ]
 
 const forms = {
