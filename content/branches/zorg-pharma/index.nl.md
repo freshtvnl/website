@@ -35,6 +35,10 @@ blocks:
       source: images/foto-umcg.png
     video:
       autoplay: false
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
   - type: content_block
     content: >-
       ## ***Interactieve oplossingen*** voor Pharma
@@ -48,10 +52,14 @@ blocks:
     align: right
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+    cta:
+      url: /interactieve-video/
+      text: Lees hier meer over interactieve video
+      type: link
   - type: content_block
     align: left
     content: >-
-      ## Oplossing ***animatiefilms***
+      ## ***Oplossing*** ***animatiefilms***
 
 
       Medische wetenschap bevat vaak een bepaalde mate van complexiteit. Wij bieden de vertaalslag om complexe materie op een laagdrempelige manier inzichtelijk maken. Op deze manier helpen wij jou om innovatie te accelereren. Animatie biedt een enorm krachtig communicatiemiddel, of dit nu om patiëntcommunicatie, uitleg over een doorbraak, of het overtuigen van behandelaren gaat. Samen met jouw creëren we een naadloos aansluitende stijl en script om de gewenste impact te bereiken. Dit gieten we in een passende stijl om jouw communicatiedoelstelling te behalen.
@@ -60,10 +68,14 @@ blocks:
       id: O25uN5rKj1I
     image:
       alt: ""
+    cta:
+      url: /animatie-laten-maken/
+      text: Lees meer over animatie
+      type: link
   - type: content_block
     align: right
     content: >-
-      ## Veelzijdige ***oplossingen***
+      ## ***Veelzijdige*** ***oplossingen***
 
 
       Voor iedere managementdoelstelling maken wij maatwerk producten die effectief bijdragen aan het behalen hiervan. Iedere doelstelling vergt namelijk een andere aanpak. Wil jij je doelgroep op een educatieve manier informeren? Wil jij je doelgroep op ongeëvenaarde wijze service bieden? Ons multidisciplinaire team heeft naast het vermogen om strategisch mee te denken, het vermogen om volledig in huis maatwerk te leveren.
@@ -86,6 +98,10 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: contact_block
     contacts:
       - kJ07QyNzs
