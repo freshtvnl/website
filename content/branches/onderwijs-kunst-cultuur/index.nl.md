@@ -22,7 +22,7 @@ blocks:
       ## Onderwijs ***oplossingen***
 
 
-      Om onze oplossingen zoals interactieve film of animaties in te zetten bij het verspreiden van onderwijs ideeen of de promotie van leergemeenschappen. Onze onderwijsspecialist is Sebastiaan, hij heeft de passie om jou te helpen bij het vormgeven van je ideeen. Bel Sebastiaan nu op 085 - 273 8331 om direct even vrijblijvend over de mogelijkheden te sparren.
+      Wij produceren interactieve film of animaties voor het onderwijs, zodat deze zijn in te zetten bij het verspreiden van onderwijs ideeën of de promotie van leergemeenschappen. Onze onderwijsspecialist is Sebastiaan, hij heeft de passie om jou te helpen bij het vormgeven van je ideeën. Bel Sebastiaan nu op 085 - 273 8331 om direct vrijblijvend over de mogelijkheden te sparren.
     displaymedia: image
     image:
       source: images/onderwijs-promotiefilm.jpg
@@ -32,10 +32,14 @@ blocks:
     iframe:
       source: ""
     align: left
+    cta:
+      url: /portfolio/
+      text: Bekijk ons portfolio
+      type: link
   - type: content_block
     align: right
     content: >-
-      ## Kunst & Cultuur
+      ## ***Kunst & Cultuur***
 
 
       Waarom plaatsen we kunst & Cultuur in dezelfde hoek als onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst en cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van Kunst & Cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische interactieve films of virtual reality (360 graden) animatie films.
@@ -44,6 +48,10 @@ blocks:
       source_mp4: https://philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
       source_webm: https://philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: selectedwork_block
     title: Video voorbeelden
     items:
