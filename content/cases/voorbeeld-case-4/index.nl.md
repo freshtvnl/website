@@ -20,4 +20,15 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/Coornhert-opendag-film-Phil-en-Flo.mp4
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Het kern- & keuzerooster***
+
+
+
+      Coornhert had net een nieuw kern- en keuzerooster geïntroduceerd eind 2019. Dit rooster bestaat, zoals de naam doet vermoeden, uit vaste kernvakken en een keuzegedeelte waarin leerlingen zelf hun verdiepingen kunnen kiezen. Hiermee daagt het Coornhert haar leerlingen uit om meer autonome keuzes te maken. Om dit nieuwe roostersysteem uit te leggen aan leerlingen, ouders, en kinderen uit groep 8, kwam Phil & Flo met het idee om een 2D uitleganimatie te maken. 2D animatie is bij uitstek geschikt om (abstracte) concepten simpel uit te leggen. Ondertussen is het kern- en keuzerooster succesvol doorgevoerd, en enthousiast ontvangen binnen het Coornhert.
+    displaymedia: youtube_video
+    youtube:
+      id: T8gs75RhQkQ
 ---
