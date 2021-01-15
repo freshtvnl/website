@@ -8,5 +8,5 @@ image:
   alt: Sebastiaan
 function: Projectmanager onderwijs
 cta: "Ik help je graag bij het realiseren van je doelen. Bel me vrijblijvend
-  voor informatie over je eigen ideeën 085 - 273 8331  "
+  voor meer uitleg over de mogelijkheden 085 - 273 8331  "
 ---
