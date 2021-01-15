@@ -43,7 +43,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Uitvoering
+      ## ***Uitvoering***
 
 
       De productanimaties van Phil & Flo geven DMT de digitale tools om hun producten en processen op een heldere en begrijpelijke manier uit te leggen aan een breed publiek. 
@@ -55,6 +55,10 @@ blocks:
       id: ""
     image:
       source: images/duurzame-energie-dmt-biogas-phil-en-flo.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: vrijblijvend offerte aanvragen
+      type: link
   - type: content_block
     align: left
     content: >-
