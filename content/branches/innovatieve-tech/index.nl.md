@@ -59,9 +59,8 @@ blocks:
     contacts:
       - kJ07QyNzs
   - type: selectedwork_block
-    title: Animatie voorbeelden
+    title: Portfolio
     items:
       - fm2wFFmdb
       - sCR0-5I1N
-    more_items: true
 ---
