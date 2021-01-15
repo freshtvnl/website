@@ -10,10 +10,11 @@ blocks:
     content: Hoe vind je de juiste persoon voor die ene specifieke functie? Dat kan,
       op de traditionele manier, met een geschreven vacaturetekst. ChipSoft
       heeft gekozen voor de inzet van een Employer Branding video en
-      vacaturefilms. Samen met ChipSoft zijn wij het avontuur aangegaan. Dat
-      heeft tot de volgende aanpak, inzichten en resultaten geleid.
+      vacaturefilms van Phil & Flo. Samen met ChipSoft zijn wij het avontuur
+      aangegaan. Dat heeft tot de volgende aanpak, inzichten en resultaten
+      geleid.
     displaymedia: image
-    title: Employer Branding voor ChipSoft
+    title: "***Employer Branding voor ChipSoft***"
   - type: content_block
     align: left
     content: >-
