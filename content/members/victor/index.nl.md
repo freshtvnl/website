@@ -17,5 +17,7 @@ blocks:
     displaymedia: image
     youtube:
       image:
-        source: images/20_victor.png
+        source: ""
+    image:
+      source: images/20_victor.png
 ---
