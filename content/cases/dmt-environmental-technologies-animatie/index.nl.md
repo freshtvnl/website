@@ -14,7 +14,7 @@ blocks:
       afvalstromen. Hoe zij dit doen? Door biogas op te waarderen uit
       biologische afvalproducten die hoofdzakelijk methaan (CH4) en kooldioxide
       (CO2) bevatten.
-    title: Biogas productie
+    title: "***Biogas productie***"
     displaymedia: custom_video
     image:
       source: images/duurzame-energie-dmt-biogas.jpg
