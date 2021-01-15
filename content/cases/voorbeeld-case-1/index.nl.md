@@ -26,10 +26,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Alfen kiest voor ***3D animatie*** 
+      ## ***Alfen kiest voor 3D animatie***
 
 
-      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een 3D animatie, dit is een prachtige manier om je ***eigen wereld tot leven te brengen***. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
+      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een 3D animatie, dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
     displaymedia: image
     image:
       source: images/alfen-smart-charging-network-ao.jpg
@@ -40,7 +40,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Resultaten
+      ## ***Resultaten***
 
 
       Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
@@ -49,14 +49,25 @@ blocks:
       source: ""
     youtube:
       id: djHYZpzuwtc
+    cta:
+      url: ""
+      text: ""
+      type: link
   - type: content_block
     align: right
     content: >-
-      ## Visie van onze grafische vormgever
+      ## ***Visie van onze grafische vormgever***
 
 
-      "Ik vond dit echt een superleuk project om te doen, dit soort animaties geven mij altijd een goed gevoel. Deze laadpalen zijn ook een belangrijke bijdrage aan de wereld van morgen, zodat iedereen straks makkelijk elektrisch kan gaan rijden."
+      "Ik vond dit echt een superleuk project om te doen, dit soort animaties geven mij altijd een goed gevoel. Deze laadpalen zijn ook een belangrijke bijdrage aan de wereld van morgen, zodat iedereen straks makkelijk elektrisch kan gaan rijden." - Aron
     displaymedia: image
     image:
       source: images/aron-3d-animatie.jpg
+    cta:
+      text: Ik wil ook graag met Aron samenwerken
+      url: /offerte-ontvangen/
+      type: link
+  - type: contact_block
+    contacts:
+      - PZcCTyF1B
 ---
