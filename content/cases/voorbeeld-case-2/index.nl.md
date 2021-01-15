@@ -87,4 +87,7 @@ blocks:
       text: Ook interesse in een succesvolle productvideo? Neem contact op.
       type: link
       url: /offerte-ontvangen/
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
