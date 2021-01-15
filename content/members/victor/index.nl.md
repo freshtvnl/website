@@ -19,5 +19,5 @@ blocks:
       image:
         source: ""
     image:
-      source: images/20_victor.png
+      source: ""
 ---
