@@ -60,4 +60,15 @@ blocks:
     displaymedia: image
     image:
       source: images/collegas-freshtv-tijdens-draaidag.jpg
+  - type: content_block
+    align: right
+    content: >-
+      ## ‘’Coornhert daag je uit!’’ ***het eindresultaat***
+
+
+
+      ‘’Coornhert daagt je uit!’’ is de titel van de film. In 80 seconden nemen we je mee naar het Coornhert, haar leerlingen, docenten, vakken en sfeer. De Coornhert introductiefilm werd enorm goed ontvangen onder (oud)leerlingen en docenten. In één dag had de video al ruim duizend organische views, wat een prachtig eerste resultaat! Oordeel zelf en bekijk de film.
+    displaymedia: youtube_video
+    youtube:
+      id: 3a-xG2hPd64
 ---
