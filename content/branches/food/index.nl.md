@@ -1,6 +1,6 @@
 ---
 title: Fair Food
-slug: food
+slug: Fair Food
 weight: 5
 draft: false
 id: CA0ObKsX0
