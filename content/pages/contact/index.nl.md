@@ -18,7 +18,8 @@ blocks:
     title: reviews
     items:
       - 4vF9wbJjI
-    more_items: true
+      - -VoVn5xcW
+    more_items: false
 menu:
   main:
     weight: 7
