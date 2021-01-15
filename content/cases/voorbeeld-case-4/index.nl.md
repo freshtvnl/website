@@ -88,4 +88,7 @@ blocks:
       url: /offerte-ontvangen
       text: Offerte ontvangen
       type: button
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
