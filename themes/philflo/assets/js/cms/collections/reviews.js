@@ -26,10 +26,6 @@ const fields = [
             value: 4
           },
           {
-            label: '4.5 stars',
-            value: 4.5
-          },
-          {
             label: '5 stars',
             value: 5
           }
@@ -54,6 +50,13 @@ const fields = [
         label: 'Content',
         name: 'content',
         widget: 'markdown',
+        required: false,
+        i18n: true
+      },
+      {
+        label: 'Company',
+        name: 'company',
+        widget: 'string',
         required: false,
         i18n: true
       },

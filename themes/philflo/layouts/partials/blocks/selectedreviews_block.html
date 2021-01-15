@@ -3,29 +3,52 @@
 {{ $params := .params }}
 {{ $heading := .params.heading }}
 
-<div class="bg-gray-100 text-gray-800 mb-12 lg:mb-20 xl:mb-32">
+<div class="bg-white text-gray-800 mb-12 lg:mb-20 xl:mb-32">
   <div class="mx-auto  px-6 lg:px-12 xl:px-24 py-8 lg:py-12 xl:py-24">
     {{ with $params.title }}
-      <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
+      <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
     {{ end }}
     {{ with $params.items }}
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
+
+    {{ $numOfItems := len .}}
+   
+    {{ if eq $numOfItems 3}}
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto">
+    {{ else if eq $numOfItems 2}}
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-6  xl:gap-12 w-auto mx-auto max-w-7xl">
+    {{ else }}
+    <div class="grid grid-cols-1 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto">
+    {{ end }}
     {{ range . }}
-      {{ range where $site.Pages "Params.id" . }}
+
+    
+    {{ range where $site.Pages "Params.id" . }}
       {{ $item := . }}
-      <a href="{{$item.RelPermalink}}" class="block relative overflow-hidden">
-        {{ with .Params.image}}
-        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
-        {{ end }}
-        <div class="transition transform duration-200 {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute inset-0 z-20 opacity-0 hover:opacity-100 p-12 text-gray-100 translate-x-10 hover:translate-x-0">
-          <h3 class="text-xl lg:text-3xl font-bold">
-            {{ .Title }}
-          </h3>
-          {{ range where $site.Pages "Params.id" .Params.branch }}
-          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+      <div class="bg-gray-100 max-w-2xl mx-auto w-full py-4 px-4 lg:py-8 lg:px-8 flex flex-col justify-center items-center prose">
+        {{ with .Params.quote }}
+          {{ if .image }}
+            <div>
+              {{ partial "image.html" (dict "page" $page "source" .image.source "alt" .image.alt "width" "500" "height" "500" "class" "") }}
+            </div>
           {{ end }}
-        </div>
-      </a>
+          <div class="text-center mt-6">
+            {{ .content }}
+          </div>
+          <div class="mt-6 flex text-yellow-500">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+            {{ if eq .stars 5 }}
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+            {{ end }}
+          </div>
+          <div class="mt-6 flex">
+            - {{ .auteur}}, {{ .functie }} @ {{.company}}
+          </div>
+        {{ end }}
+      </div>
+     
       {{ end }}
     {{ end }}
     </div>

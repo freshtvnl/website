@@ -22,6 +22,8 @@ blocks:
     title: reviews
     items:
       - -VoVn5xcW
+      - -VoVn5xcW
+      - -VoVn5xcW
     more_items: true
 menu:
   main:
