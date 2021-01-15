@@ -10,13 +10,9 @@ color: blue
 blocks:
   - type: hero_block
     title: Disruptieve ***technische innovatie***
-    content: >-
-      Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij zijn
-      dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
+    content: Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij
+      zijn dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
       expertises inzetten om hun inspirerende verhaal te verbeelden.
-
-
-      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
     displaymedia: custom_video
     image:
       source: ""
@@ -55,4 +51,15 @@ blocks:
     items:
       - fm2wFFmdb
       - sCR0-5I1N
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Vernieuwen en innoveren***
+
+
+      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
+      source_webm: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.webm
 ---
