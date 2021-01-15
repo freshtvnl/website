@@ -41,10 +41,6 @@ blocks:
 
 
       Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte video zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
-
-      Naast de algemene B2C en B2B video’s, zijn situatie-specifieke video’s opgenomen. Hierin presenteren we het gemak van de betaal-app onder verschillende omstandigheden. Bijvoorbeeld vanuit je bed online het winkelmandje afrekenen, in een restaurant de rekening delen of gewoon op de bank je concerttickets aankoop bevestigen met één simpele vingerafdruk.
-
-      De video’s zijn volledig in de betreffende huisstijl van Payconiq opgeleverd, zodat de videocontent naadloos aansluit bij alle andere huisstijldragers.
     displaymedia: youtube_video
     youtube:
       id: -8n5l374t2Q
