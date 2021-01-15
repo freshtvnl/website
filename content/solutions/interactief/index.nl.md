@@ -44,4 +44,17 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Bestaande video’s interactief maken***
+
+
+      Veel organisaties hebben in het verleden al video’s laten maken en willen niet opnieuw investeren in nieuwe video of animatie. Met de interactieve video oplossingen van Phil & Flo hoeft dat ook niet, wij kunnen bestaande video’s interactief maken zodat ze een nieuw jasje krijgen en weer jaren meekunnen.
+
+
+      Geef dus je animatiefilm of bedrijfsfilm een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/c86BN00W3mbz78Be
 ---
