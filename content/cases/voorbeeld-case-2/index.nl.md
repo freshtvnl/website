@@ -47,7 +47,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***situatie-specifieke video’s*** 
+      ## ***Situatie-specifieke video’s***
 
 
       Naast de algemene B2C en B2B video’s, zijn situatie-specifieke video’s opgenomen. Hierin presenteren we het gemak van de betaal-app onder verschillende omstandigheden. Bijvoorbeeld vanuit je bed online het winkelmandje afrekenen, in een restaurant de rekening delen of gewoon op de bank je concerttickets aankoop bevestigen met één simpele vingerafdruk.
