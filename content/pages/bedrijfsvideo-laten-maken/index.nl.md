@@ -21,10 +21,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Een promotiefilm maken van ***begin tot eind***
+      ## Spread the word
 
 
-      Samen bepalen we het doel van je film. Wil je een algemene impressie geven van je bedrijf? Of toch informeren over een product of dienst? Als we het doel helder hebben, brengen we je doelgroep en boodschap in kaart. Omdat we jarenlange ervaring hebben, maken we er één die prikkelt en overtuigt. Van script tot scherm en dan nog ietsje verder ;)
+      Waar de focus van een **corporate- of bedrijfsvideo** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
