@@ -13,6 +13,9 @@ blocks:
       klanten niet alleen zien wat je in huis hebt, je wekt ook vertrouwen bij
       je doelgroep. Een promotiefilm voor je organisatie is niet langer een
       optie, maar een absolute aanrader!
+    displaymedia: youtube_video
+    youtube:
+      id: ClGeBnffWew
   - type: content_block
     align: left
     content: >-
