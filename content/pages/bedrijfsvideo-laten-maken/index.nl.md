@@ -1,6 +1,6 @@
 ---
 title: Bedrijfsvideo
-slug: Bedrijfsvideo laten maken
+slug: Bedrijfsvideo
 draft: false
 id: WcYkSOTTF
 blocks:
