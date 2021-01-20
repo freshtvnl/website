@@ -34,9 +34,11 @@ blocks:
 
 
       Computer animaties in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: 085 - 273 8331
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
   - type: content_block
     align: left
     content: >-
