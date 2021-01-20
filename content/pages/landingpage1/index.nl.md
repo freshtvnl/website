@@ -15,6 +15,7 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       source_webm: ""
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -27,6 +28,7 @@ blocks:
       source: ""
     video:
       source_mp4: https://www.philenflo.nl/3d-animatie-duurzame-energie.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -39,6 +41,7 @@ blocks:
       source: ""
     video:
       source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -54,6 +57,7 @@ blocks:
       source: ""
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
