@@ -5,12 +5,15 @@ draft: false
 id: 4awsNMvv31
 blocks:
   - type: hero_block
-    title: Prachtige ***3D animaties*** voor jouw organisatie
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***3D animatie laten maken***"
+    content: Wil jij een 3D animatie laten maken voor je product of dienst? Dat is
+      echt een toffe manier om de aandacht van de doelgroep te trekken. Een 3D
+      animatie laten maken is natuurlijk de enige manier om ingewikkelde
+      producten bijvoorbeeld van binnen te laten zien. Laat je verrassen door
+      ons creatieve team.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
   - type: content_block
     align: left
     content: >-
