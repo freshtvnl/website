@@ -27,7 +27,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/3d-animatie-duurzame-energie.mp4
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
     align: right
