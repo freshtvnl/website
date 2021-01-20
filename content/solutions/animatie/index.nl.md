@@ -80,6 +80,7 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      autoplay: true
   - type: selectedwork_block
     title: Selected work
     items:
@@ -87,4 +88,14 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+  - type: content_block
+    align: left
+    content: >-
+      ## Waarvoor kun je een ***animatie laten maken***?
+
+
+      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
 ---
