@@ -30,13 +30,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Corporate*** identiteit?
+      ## ***Videoproductie inzetten***
 
 
-      Bij Phil & Flo vinden we dat in de steeds verder digitaliserende klantrelatie de wensen en belangen van je klant altijd voorop moeten staan. Met de komst van verschillende social media, gecombineerd met YouTube, is het nog nooit zo eenvoudig geweest om jouw corporate identiteit te delen met je doelgroep.
-
-
-      Phil & Flo maakt jouw verhaal persoonlijk, met **eigen mensen en eigen wensen**. Daarmee toont een bedrijfsvideo hoe trots je bent op je medewerkers en klanten merken dat verschil. In de producties van Phil & Flo spelen echte mensen de hoofdrol.
+      Wat je doel ook is met een video, als je deze door Phil & Flo laat produceren, ben je verzekerd van een eindresultaat van topkwaliteit. Deze kun je op allerlei manieren gebruiken: plaats een bedrijfsfilm bijvoorbeeld op een vaste plaats op je website, zodat potentiële klanten en/of werknemers hier altijd kennis met je kunnen maken. Of werk aan een uitgekiende marketingstrategie op social media met speciaal gemaakte productfilmpjes. Wat je ook doet, wij helpen je van begin tot eind.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
