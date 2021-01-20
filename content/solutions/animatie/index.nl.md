@@ -202,4 +202,19 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Kies de juiste kleuren***
+
+
+      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
+      autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Contact opnemen
+      type: button
 ---
