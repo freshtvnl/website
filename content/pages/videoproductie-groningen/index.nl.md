@@ -12,11 +12,11 @@ blocks:
       dat je jezelf onderscheidt in je marketing. Zeker online, waar allerlei
       advertenties vechten om de aandacht van de bezoeker. Daarom heb je een
       specialist in videoproductie in Groningen nodig die niet alleen jou
-      begrijpt, maar ook je doelgroep. Wij zitten in de Oude Boteringestraat, om
-      de hoek dus Bij Phil & Flo hebben we daar gelukkig al jaren ervaring mee.
-    displaymedia: youtube_video
+      begrijpt, maar ook je doelgroep, bij Phil & Flo hebben we daar gelukkig
+      jaren ervaring mee. Wij zitten in de Oude Boteringestraat, om de hoek dus.
+    displaymedia: null
     youtube:
-      id: PEXDnd9K_m4
+      id: ""
   - type: content_block
     align: left
     content: >-
