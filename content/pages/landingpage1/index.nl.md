@@ -70,16 +70,22 @@ blocks:
       source: images/peter-suzan-kopie.jpg
     video:
       source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ### Vergroot je kansen met ***3D animaties***
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
-    displaymedia: image
+      Een 3D animatievideo is dus een goede manier om je producten te verkopen of een bepaald onderwerp bij je doelgroep duidelijk te maken. Tekeningen zien er levendiger uit in een 3D-animatie en het maakt je boodschap aantrekkelijker en toegankelijker.
+
+
+      Bekijk eens ons portfolio voor meer animatie voorbeelden! Of lees hier meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken).
+    displaymedia: custom_video
     image:
       source: images/inge-bank.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
   - type: content_block
     align: right
     content: >-
