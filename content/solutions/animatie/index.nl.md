@@ -136,4 +136,15 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## Doelgericht aan de slag met de animatiefilms van Phil & Flo
+
+
+      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      autoplay: true
 ---
