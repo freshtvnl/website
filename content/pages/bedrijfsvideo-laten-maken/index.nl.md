@@ -1,5 +1,5 @@
 ---
-title: Bedrijfsvideo laten maken
+title: Bedrijfsvideo
 slug: Bedrijfsvideo laten maken
 draft: false
 id: WcYkSOTTF
