@@ -1,7 +1,7 @@
 ---
 title: videoproductie groningen
 slug: videoproductie groningen
-draft: true
+draft: false
 id: DFhjXX4LC
 blocks:
   - type: hero_block
