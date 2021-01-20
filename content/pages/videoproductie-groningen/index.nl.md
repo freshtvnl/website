@@ -5,16 +5,15 @@ draft: false
 id: DFhjXX4LC
 blocks:
   - type: hero_block
-    title: "***Een bedrijfsvideo maken***"
-    content: Een goede bedrijfsvideo helpt je om je klanten een goede indruk van je
-      organisatie te geven. We spelen met de bedrijfsvideo in op de emoties van
-      je doelgroep en bevatten alle momenten van trots, geluk en succes binnen
-      je organisatie. Net als in het echte leven. Mensen kijken graag naar
-      andere mensen, daarom is er geen betere manier voor klanten om zich aan de
-      hand van een bedrijfsvideo te verbinden met je organisatie. Immers, als
-      een potentiële klant zich kan identificeren met waar je voor staat en waar
-      je voor gaat, geeft dat de klant meer zelfvertrouwen. Ook wordt de
-      waarschijnlijkheid groter dat een klant voor jouw product of dienst kiest.
+    title: "***Videoproductie Groningen***"
+    content: Als bedrijf in Groningen val je al op door de locatie. Maar deze
+      noordelijkste grote stad van het land kan zich aardig meten met de
+      Randstad wat betreft nieuwe ondernemingen. Daarom is het extra belangrijk
+      dat je jezelf onderscheidt in je marketing. Zeker online, waar allerlei
+      advertenties vechten om de aandacht van de bezoeker. Daarom heb je een
+      specialist in videoproductie in Groningen nodig die niet alleen jou
+      begrijpt, maar ook je doelgroep. Bij Phil & Flo hebben we daar gelukkig al
+      jaren ervaring mee.
     displaymedia: youtube_video
     youtube:
       id: PEXDnd9K_m4
