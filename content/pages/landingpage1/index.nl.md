@@ -18,13 +18,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## ***3D product animatiefilm***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Een 3D product animatie is een prachtige manier om de binnenkant van een product goed weer te geven. Of om de werking van het product uit te beelden, op micro niveau of juist op grote afstand. In een eigen gecreëerde omgeving, met decors en landschappen die we speciaal voor jou ontwikkelen. 3D animatiefilms zijn kwalitatief hoogstaande producten die absoluut de aandacht trekken en super realistisch zijn.
+    displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+    video:
+      source_mp4: https://www.philenflo.nl/3d-animatie-duurzame-energie.mp4
   - type: content_block
     align: right
     content: >-
