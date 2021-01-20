@@ -114,4 +114,15 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Hoe werkt*** een animatie laten maken?
+
+
+      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
+      autoplay: true
 ---
