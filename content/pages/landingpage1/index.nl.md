@@ -1,11 +1,11 @@
 ---
-title: Landing page 01
-slug: Bedrijfsfilm laten maken
+title: 3D Animatie laten maken
+slug: 3D Animatie laten maken
 draft: false
 id: 4awsNMvv31
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
+    title: Prachtige ***3D animaties*** voor jouw organisatie
     content: >-
       ## Prachtige bedrijfsfilms voor organisaties met betekenis
 
