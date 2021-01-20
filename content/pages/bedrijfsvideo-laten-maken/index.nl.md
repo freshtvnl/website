@@ -57,10 +57,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Een promotiefilm met impact***
+      ## ***Over ons***
 
 
-      Onze specialisten zetten zich elke dag in om de meeste impact te maken voor onze wereld. Een promotiefilm voor je organisatie zullen we dus nooit zomaar afraffelen. Hier nemen we de tijd voor. Een creatieve sessie met de makers, een duidelijk voorgesprek met onze adviseurs en een kundige regisseur tijdens de opnames bewaken onze kwaliteitsstandaard. Onze promotiefilms gaan jaren mee, een goede investering dus.
+      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een reclamespot. Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
