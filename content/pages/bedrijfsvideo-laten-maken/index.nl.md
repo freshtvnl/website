@@ -1,6 +1,6 @@
 ---
-title: Bedrijfsvideo laten maken
-slug: Bedrijfsvideo laten maken
+title: Bedrijfsvideo
+slug: Bedrijfsvideo
 draft: false
 id: WcYkSOTTF
 blocks:
@@ -66,5 +66,5 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - 7VtuzLwVv
 ---
