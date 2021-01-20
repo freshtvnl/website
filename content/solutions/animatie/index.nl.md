@@ -175,4 +175,5 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
+      autoplay: true
 ---
