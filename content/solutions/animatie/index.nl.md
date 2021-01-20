@@ -186,4 +186,5 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      autoplay: true
 ---
