@@ -24,7 +24,7 @@ blocks:
       Een 3D product animatie is een prachtige manier om de binnenkant van een product goed weer te geven. Of om de werking van het product uit te beelden, op micro niveau of juist op grote afstand. In een eigen gecreëerde omgeving, met decors en landschappen die we speciaal voor jou ontwikkelen. 3D animatiefilms zijn kwalitatief hoogstaande producten die absoluut de aandacht trekken en super realistisch zijn.
     displaymedia: custom_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
     video:
       source_mp4: https://www.philenflo.nl/3d-animatie-duurzame-energie.mp4
   - type: content_block
@@ -33,7 +33,7 @@ blocks:
       ### ***Wat zijn de voordelen van een bedrijfsfilm?***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Computer animaties in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: 085 - 273 8331
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
