@@ -103,4 +103,14 @@ blocks:
       url: /offerte-ontvangen/
       text: offerte ontvangen
       type: button
+  - type: content_block
+    align: right
+    content: >-
+      ## Animatie laten maken om ***meer op te vallen***
+
+
+      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
 ---
