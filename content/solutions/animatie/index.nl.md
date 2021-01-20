@@ -154,6 +154,10 @@ blocks:
 
 
       Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
