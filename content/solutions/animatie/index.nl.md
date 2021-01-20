@@ -128,7 +128,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Waarom werkt een animatie laten maken?
+      ## Waarom werkt een ***animatie laten maken***?
 
 
       Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
@@ -139,7 +139,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de animatiefilms van Phil & Flo
+      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
 
 
       Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
@@ -147,4 +147,11 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Ongekende mogelijkheden*** met het laten maken van een animatie
+
+
+      Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
 ---
