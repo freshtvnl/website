@@ -61,13 +61,15 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ### ***3D design filosofie***
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
-    displaymedia: image
+      Onze animatoren gaan elke dag met veel enthousiasme naar hun werk. En dat kan alleen maar, omdat we geloven in onze eigen kracht en onze uitgesproken design filosofie. Een filosofie die aansluit bij onze eigen waarden. Wij geloven namelijk in de kracht van kleur en vormen en om deze te koppelen aan de eigen identiteit van de organisatie waar we de animatiefilms voor produceren. Zo creëren we een gave film die herkenbaar is voor jou organisatie maar die ook duidelijk onderscheidend is. Maak kennis met ons bureau voor meer informatie!
+    displaymedia: custom_video
     image:
       source: images/peter-suzan-kopie.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
   - type: content_block
     align: left
     content: >-
