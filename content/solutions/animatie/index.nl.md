@@ -176,4 +176,14 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***De juiste toon*** in een animatie
+
+
+      Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
 ---
