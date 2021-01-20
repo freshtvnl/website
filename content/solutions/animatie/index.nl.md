@@ -154,4 +154,15 @@ blocks:
 
 
       Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
+  - type: content_block
+    align: left
+    content: >-
+      ## In ***stijl*** een animatie laten maken
+
+
+      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
+      autoplay: true
 ---
