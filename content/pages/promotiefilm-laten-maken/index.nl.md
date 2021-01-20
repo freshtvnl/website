@@ -47,36 +47,6 @@ blocks:
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
-    align: right
-    content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
-
-
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
-    displaymedia: image
-    image:
-      source: images/peter-suzan-kopie.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
-
-
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
-    displaymedia: image
-    image:
-      source: images/inge-bank.jpg
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
-
-
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
-    displaymedia: image
-    image:
-      source: images/feestje-phil-en-flo.jpg
-  - type: content_block
     align: left
     content: >-
       ### ***Persoonlijke Storytelling***
