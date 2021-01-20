@@ -14,9 +14,9 @@ blocks:
       specialist in videoproductie in Groningen nodig die niet alleen jou
       begrijpt, maar ook je doelgroep, bij Phil & Flo hebben we daar gelukkig
       jaren ervaring mee. Wij zitten in de Oude Boteringestraat, om de hoek dus.
-    displaymedia: null
+    displaymedia: youtube_video
     youtube:
-      id: ""
+      id: PEXDnd9K_m4
   - type: content_block
     align: left
     content: >-
