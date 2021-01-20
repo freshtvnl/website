@@ -210,6 +210,9 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
+  - type: contact_block
+    contacts:
+      - HZCh75c-T
   - type: selectedwork_block
     title: Selected work
     items:
@@ -217,7 +220,4 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
-  - type: contact_block
-    contacts:
-      - HZCh75c-T
 ---
