@@ -20,10 +20,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Spread the word
+      ## ***Videoproductie in Groningen*** met impact
 
 
-      Waar de focus van een **corporate- of bedrijfsvideo** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
+      Een video kan verschillende doelen hebben. Je kunt er heel goed iets mee uitleggen, maar ook mensen informeren of overtuigen. Dat komt door het verhalende karakter en door de aansprekende elementen: bewegend beeld en geluid. Met sfeervolle camerabeelden, creatieve animaties en een prettig achtergrondmuziekje zal je doelgroep met plezier kijken naar jouw video.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
