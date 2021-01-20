@@ -53,11 +53,11 @@ blocks:
       ## ***Videoproductie laten maken***?
 
 
-      Ben je benieuwd geworden naar de concrete voordelen van een videoproductie? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
+      Ben je benieuwd geworden naar de concrete voordelen van een videoproductie? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Bel nu vrijblijvend met onze experts op 085 - 273 8331
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - PZcCTyF1B
 ---
