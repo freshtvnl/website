@@ -30,7 +30,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## ***3D animaties*** 
 
 
       Computer animaties in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: 085 - 273 8331
@@ -42,13 +42,18 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ### Complexe ***product 3D animaties***
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
-    displaymedia: image
+      Wil je liever niet gebruikmaken van een karakter, dan kun je er ook voor kiezen om bijvoorbeeld een langdradige powerpoint in een aantrekkelijke 3D animatie te laten vormgeven. Er is waarschijnlijk geen ander medium dan 3D-animatiefilm die zo snel een visuele samenvatting kan geven of het idee van een complex product kan uitleggen. 3D-animaties zijn dynamisch en weten de aandacht vast te houden.
+
+
+      Bij Phil & Flo laten we zien wat niet gefilmd kan worden; er zijn voor ons geen grenzen wat je kunt laten zien met 3D renders (computer animatie). Samen met de voice-over en begeleidende teksten zal een animatie duidelijk en verhelderend zijn.
+    displaymedia: custom_video
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
   - type: content_block
     align: right
     content: >-
