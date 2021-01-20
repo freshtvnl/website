@@ -70,6 +70,13 @@ blocks:
       url: /vr-animatie-laten-maken/
       text: Lees hier mee
       type: button
+  - type: content_block
+    align: right
+    content: >-
+      ## Juist voor ***online doelgroep***
+
+
+      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
   - type: selectedwork_block
     title: Selected work
     items:
