@@ -50,7 +50,7 @@ blocks:
       **Google beloont** websites die goede content bevatten, zoals goede bedrijfsvideo's. Daarmee verschijn je dus hoger in de zoekresultaten.
 
 
-      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten jouw bedrijf, je producten, diensten en je service makkelijker en sneller begrijpen. Een klant die jou dankzij je bedrijfsfilm beter begrijpt, heeft meer vertrouwen in je. Een win-winsituatie, want dankzij dit vertrouwen worden je verkoopcijfers gestimuleerd.
+      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies 085 273 8331.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
