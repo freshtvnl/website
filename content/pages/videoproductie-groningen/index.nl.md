@@ -40,23 +40,20 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Hoog in de zoekresultaten***
+      ## ***Videoproductie*** Groningen op maat
 
 
-      **Google beloont** websites die goede content bevatten, zoals goede bedrijfsvideo's. Daarmee verschijn je dus hoger in de zoekresultaten.
-
-
-      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies 085 273 8331.
+      Of je nu zelf allerlei ideeën hebt over de video die je wilt laten maken, of het concept liever door ons wilt laten uitdenken: bij Phil & Flo staan we voor je klaar. Wij begeleiden je bij alle stappen, van eerste conceptontwikkeling tot het inzetten van je video in marketingcampagnes. We hebben namelijk ook het nodige verstand (sinds 2009, toen nog onder de naam FreshTV ;) ) van online strategieën. Zo voorkomen we dat je doelgroep de boodschap mist. Kom gerust langs op ons kantoor in de Oude Boteringestraat 71, voor videoproductie in Groningen om kennis te maken.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ## ***Over ons***
+      ## ***Videoproductie laten maken***?
 
 
-      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een reclamespot. Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
+      Ben je benieuwd geworden naar de concrete voordelen van een videoproductie? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
