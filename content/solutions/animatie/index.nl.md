@@ -31,6 +31,7 @@ blocks:
       type: button
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
