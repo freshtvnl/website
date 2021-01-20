@@ -32,25 +32,27 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## 3D Animatie
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    displaymedia: image
-    iframe:
-      source: ""
+  - displaymedia: custom_video
     youtube:
       image:
         source: images/3d-animatie-laten-maken.jpg
-    image:
-      source: images/3d-animatie-laten-maken.jpg
+    iframe:
+      source: ""
+    align: left
     cta:
       url: /3d-animatie-laten-maken/
       text: Lees hier meer
       type: button
+    content: >-
+      ## ***3D Animatie***
+
+
+      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+    type: content_block
+    video:
+      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+    image:
+      source: images/3d-animatie-laten-maken.jpg
   - type: content_block
     align: left
     content: >-
