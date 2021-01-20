@@ -125,4 +125,15 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
+  - type: content_block
+    align: right
+    content: >-
+      ## Waarom werkt een animatie laten maken?
+
+
+      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      autoplay: true
 ---
