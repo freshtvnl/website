@@ -56,7 +56,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Virtual Reality Animatie
+      ## ***Virtual Reality Animatie***
 
 
       Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
