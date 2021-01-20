@@ -51,6 +51,7 @@ blocks:
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      autoplay: true
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
