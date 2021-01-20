@@ -11,8 +11,8 @@ blocks:
       slechts 20% van wat je zegt (verbaal), maar wel 80% van wat je ze laat
       zien (non-verbaal). Met deze film laat je je huidige en toekomstige
       klanten niet alleen zien wat je in huis hebt, je wekt ook vertrouwen bij
-      je doelgroep. Een film voor je promotie is niet langer een optie, maar een
-      absolute must!
+      je doelgroep. Een promotiefilm voor je organisatie is niet langer een
+      optie, maar een absolute aanrader!
   - type: content_block
     align: left
     content: >-
