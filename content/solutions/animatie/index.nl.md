@@ -81,13 +81,6 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
-  - type: selectedwork_block
-    title: Selected work
-    items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
-    more_items: true
   - type: content_block
     align: left
     content: >-
@@ -217,4 +210,14 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
+  - type: selectedwork_block
+    title: Selected work
+    items:
+      - DG0aSzvMj
+      - sCR0-5I1N
+      - fm2wFFmdb
+    more_items: true
+  - type: contact_block
+    contacts:
+      - HZCh75c-T
 ---
