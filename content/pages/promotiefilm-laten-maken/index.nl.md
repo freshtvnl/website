@@ -29,10 +29,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Waarom zal ik een ***promotiefilm*** maken?
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Het is een uitstekende manier om de identiteit van je merk te visualiseren. Ook is de film uitermate geschikt om te delen op social media. Als je de film op de juiste kanalen plaatst, kan de interactie met je klant tot behoorlijk toenemen. Je online vindbaarheid wordt ook aanzienlijk verbeterd; plaats je jouw promotiefilm via YouTube op je website, dan verschijn je hoger in de zoekresultaten van Google.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
