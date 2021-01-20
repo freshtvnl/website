@@ -39,32 +39,12 @@
   {{ end }}
 
   {{ if and ($params.youtube) (eq $display "youtube_video") }}
-    {{ with $params.youtube.id}}
-    <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
-      <div class="video-wrapper">
-        <div id="player" data-video="{{.}}"></div>
-      </div>
-    </div>
-    <script>
-        var tag = document.createElement('script');
-        var player = document.getElementById('player');
-
-        tag.src = "https://www.youtube.com/iframe_api";
-        var firstScriptTag = document.getElementsByTagName('script')[0];
-        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-
-        //var player;
-        function onYouTubeIframeAPIReady() {
-          player = new YT.Player('player', {
-            height: '390',
-            width: '640',
-            videoId: player.dataset.video
-          });
-        }
-    </script>
-    {{ end }}
+  {{ with $params.youtube.id}}
+  <div class="video-wrapper">
+    <div id="player-{{. | urlize}}" data-video="{{.}}" class="videoplayer"></div>
+  </div>
   {{ end }}
+{{ end }}
 
   {{ if or $params.video $params.iframe $params.image $params.youtube }}
   <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
