@@ -1,16 +1,15 @@
 ---
-title: Landing page 20
-slug: Bedrijfsfilm laten maken
+title: Vacature video
+slug: Vacature video
 draft: false
 id: 4awsasdfNMvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Vacature*** video"
+    content: Al sinds de opkomst van vacaturebanken worden er lange, saaie
+      vacatureteksten gepubliceerd. Tijden veranderen en teksten worden als saai
+      en vervelend beschouwd. Helemaal als de tekst langer dan één A4tje is en
+      vol zit met vakjargon.
   - type: content_block
     align: left
     content: >-
