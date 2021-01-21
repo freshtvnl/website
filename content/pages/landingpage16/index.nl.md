@@ -28,13 +28,15 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Een wervingsvideo laten maken, ***hoe werkt dat***?
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
+      Een wervingsvideo geeft kandidaten een goed beeld van het bedrijf. Letterlijk. Jij en je collega’s vertellen over het bedrijf en brengen zo het enthousiasme over voor de camera. Ons team ondersteunt en begeleidt de collega’s tijdens het filmen. Geen acteurs, maar een **eerlijk verhaal**. Sfeervolle beelden, de juiste achtergrondmuziek en een professionele montage doen de rest. Zo ontstaat het verhaal van jouw bedrijf binnen één minuut.
+    displaymedia: youtube_video
     image:
       source: images/aron-sophie.jpg
+    youtube:
+      id: zfG1OTMelcw
   - type: content_block
     align: left
     content: >-
