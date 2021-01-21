@@ -19,7 +19,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Videoproductie voor meer impact
+      ## Videoproductie voor meer ***impact***
 
 
       Meer dan 85% van de marketeers kiest voor video en niet voor niets. Veel mensen haken al snel af bij een hele lap tekst, maar raken geboeid door sterke camerabeelden, heldere animatie en een sfeervol achtergrondmuziekje. Ze worden van nature aangetrokken door bewegend beeld en geluid: twee cruciale kenmerken die een tekst of illustratie als advertentie mist.
@@ -39,7 +39,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### Videoproductie Amsterdam op maat
+      ## Videoproductie Amsterdam op maat
 
 
       Heb je zelf allerlei ideeën over de bedrijfsvideo die je wilt laten maken of laat je liever het hele concept door ons uitdenken? Bij Phil & Flo staan we voor je klaar. Waar gewenst begeleiden we je bij alle stappen: van eerste conceptontwikkeling en vaststellen van een succesvol script tot het inzetten van jouw video in complete marketingcampagnes. Kom gerust langs op ons kantoor op de Herengracht 420, voor videoproductie in Amsterdam, om samen de mogelijkheden te bespreken.
