@@ -19,23 +19,30 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ### Opvallen met ***YouTube video***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Het is belangrijk dat jouw YouTube video aan de juiste eisen voldoet en daarnaast ook nog eens de juiste doelgroep bereikt. Wij weten exact waar een doeltreffende video aan moet voldoen om zichtbaar resultaat te behalen.
+
+
+      De mogelijkheden bij het laten maken van een YouTube video zijn enorm. We leveren advies op maat en komen samen tot een video die zijn doel treft. Wij maken een video voor YouTube waar je trots op zult zijn!
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Lage kosten met YouTube video ads
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Een groot voordeel is dat de kosten van het vertonen van YouTube video ads veel lager zijn dan bijvoorbeeld een televisie reclame. De kosten ten opzichte van het relevante bereik van een YouTube video liggen gemiddeld 100 keer lager dan een TV reclame.
+
+
+      Daarnaast is YouTube de één na grootste zoekmachine van de wereld. Ga met de trend mee en laat ons meedenken over de inzet van video op YouTube. Wij adviseren en komen met een YouTube video die volledig aansluit bij jouw wensen.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
