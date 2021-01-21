@@ -95,4 +95,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: asB9nPdOCHk
+  - type: content_block
+    align: left
+    content: >-
+      ## Het bereik van employer branding films
+
+
+      Een film om je als bedrijf te profileren kun je heel gericht voor een specifieke vacature maken, maar ook juist breed inzetbaar houden. Als je diep ingaat op een specifieke functie, laat je bijvoorbeeld een collega uitgebreid over het werk vertellen. Je geeft dan een heel goed beeld van de specifieke functie, maar de film is moeilijker te hergebruiken. Als je kiest voor een meer algemene film over je bedrijf, kun je deze in verschillende vacatures gebruiken. Bovendien heb je een grotere kans dat meer mensen je employer branding video gaan delen op sociale media.
+    displaymedia: youtube_video
+    youtube:
+      id: FFJ3QrYl1tA
 ---
