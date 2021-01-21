@@ -31,7 +31,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Een commercial laten maken van A tot Z
+      ## Een ***commercial*** laten maken van A tot Z
 
 
       Ben je op zoek naar een creatief videoproductie bureau dat jou in het gehele traject begeleidt en een uniek en overtuigend eindproduct aflevert? Welkom bij Phil & Flo! In samenwerking met jou bedenken we het gehele concept en produceren we een commercial die opvalt en resultaat boekt. Onze frisse blik en jarenlange ervaring staan garant voor een commercial die jouw klanten overtuigt.
@@ -43,10 +43,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Commercial als onderdeel van ***communicatiemix***
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op YouTube als Pre-roll, Instream of postroll. Daarnaast is ook Instagram stories een geweldige manier om je product of dienst aan je publiek te tonen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
