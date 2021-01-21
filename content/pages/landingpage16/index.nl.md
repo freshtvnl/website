@@ -74,9 +74,11 @@ blocks:
       * Architectuur
 
       * Duurzame Industrie
-    displaymedia: image
+    displaymedia: youtube_video
     image:
       source: images/peter-suzan-kopie.jpg
+    youtube:
+      id: DcsHQff1z8k
   - type: content_block
     align: left
     content: >-
