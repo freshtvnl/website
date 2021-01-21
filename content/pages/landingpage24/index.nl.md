@@ -27,7 +27,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Video laten maken voor een Instagram story
+      ## Video laten maken voor een ***Instagram story***
 
 
       Je onderneming heeft misschien al een zakelijk Instagram-account waarmee je je doelgroep kunt bereiken. Dan is het voor jou, net als voor iedere Instagram-gebruiker, mogelijk om video’s te plaatsen in de vorm van een Instagram story. Dit zijn korte slideshows of filmpjes die maar een beperkte tijd online staan, maar het wel erg goed doen op je tijdlijn. Met een professioneel geproduceerd filmpje in je story gooi je hoge ogen bij je volgers.
@@ -37,7 +37,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Adverteer op Instagram met video
+      ## ***Adverteer*** op Instagram met video
 
 
       Instagram is onderdeel van Facebook, en heeft dus ook veel tools voor adverteerders. Heb je een zakelijk account? Dan is het mogelijk om advertentievideo’s te uploaden en in te zetten in marketingcampagnes. Vanzelfsprekend kan Phil & Flo een professionele reclamevideo maken voor je marketing op social media, die precies de juiste doelgroep aanspreekt. Daarnaast kunnen we je ook adviseren over hoe je dit filmpje optimaal inzet en de tools van Instagram zo goed mogelijk gebruikt.
