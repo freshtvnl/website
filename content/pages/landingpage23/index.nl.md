@@ -66,16 +66,10 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Je bedrijfsfilm laten maken voor sociale media***
-
-
-      Sociale media zijn niet meer weg te denken uit online marketing. En zeg nou zelf: hoe vaak zie je een stuk tekst gedeeld worden, in vergelijking met filmpjes? Als je bedrijfsfilm een goed verhaal vertelt of grappig of spannend genoeg in elkaar zit, zullen mensen deze gaan delen op sociale media. Dat kan zelfs leiden tot een sneeuwbaleffect en dan vergroot je het bereik exponentieel. Door te kiezen voor een bedrijfsfilm van Phil & Flo, vergroot je je kansen om opgepikt te worden. Wij zetten je liever op de kaart als trending dan als saai en statisch.
-    displaymedia: image
-    image:
-      source: images/jde-phil-en-flo-behind-the-scenes.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: contact_block
     contacts:
       - Nc7XQAY2B
