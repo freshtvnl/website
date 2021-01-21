@@ -63,6 +63,10 @@ blocks:
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: content_block
     align: left
     content: >-
