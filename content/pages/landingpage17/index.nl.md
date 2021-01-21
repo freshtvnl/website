@@ -49,13 +49,17 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Videoproductie laten maken?
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Ben je benieuwd geworden naar de concrete voordelen van een videoproductie? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
-      source: images/peter-suzan-kopie.jpg
+      source: images/inge-sophie-kopie.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: left
     content: >-
