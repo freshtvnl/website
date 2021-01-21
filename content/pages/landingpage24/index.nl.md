@@ -57,10 +57,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ### Instagram video laten maken
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
+      In online marketing zijn sociale media al lang niet meer weg te denken en Instagram lijkt daar alleen maar te groeien. Als je dan ook nog bedenkt dat videomarketing veel pakkender is dan niet-bewegend beeld, is het logisch om dit in te zetten in jouw marketingstrategie. Bij Phil & Flo helpen we je graag op alle gebieden: van het volledig produceren van video tot het effectief inzetten ervan, en alles daartussen. Zo scoor jij optimaal met video op Instagram.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
