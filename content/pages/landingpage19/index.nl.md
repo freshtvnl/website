@@ -5,32 +5,19 @@ draft: false
 id: bb4awsNMvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
-
-
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
-    image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
-
-
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
-    image:
-      source: images/aron-sophie.jpg
+    title: "***Video testimonial***"
+    content: Zelf schreeuwen dat je de allerbeste of goedkoopste bent (in je
+      vakgebied) is een manier van marketing die we steeds minder vaak zien.
+      Vandaag de dag leven we in een zogenoemde reputatie-samenleving. Deze
+      reputatie wordt voornamelijk gevormd door de mening van anderen over jouw
+      organisatie, want geloof het of niet; mensen vertonen nu eenmaal
+      kuddegedrag. Hoe kan je hier als organisatie effectief op inspelen?
+      Allereerst door je klanten dusdanig in de watten te leggen dat ze lovend
+      over je product of dienstverlening zijn. Bied deze tevreden groep
+      vervolgens een podium om hun klantbeoordeling te kunnen uiten. Dit kan in
+      tekst, maar Phil & Flo wil je liever kennis laten maken met het veel
+      krachtigere fenomeen; video testimonials!
+    displaymedia: null
   - type: content_block
     align: left
     content: >-
