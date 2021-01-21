@@ -49,13 +49,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Persoonlijke Storytelling***
+      ## ***Zet je bedrijfsfilm effectief in***
 
 
-      Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
+      Een professionele film voor jouw bedrijf in Eindhoven is een mooi begin, maar hoe zorg je ervoor dat de juiste mensen hem nu ook daadwerkelijk onder ogen krijgen? Bij Phil & Flo hebben we veel ervaring met video marketingcampagnes. Van traditionele Ad campagnes op je website tot “organische” video’s op social media. Haal ons in huis en je film wordt zeker gezien. [](https://www.freshtv.nl/contact/)
     displaymedia: image
     image:
       source: images/inge-sophie-kopie.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
   - type: content_block
     align: right
     content: >-
