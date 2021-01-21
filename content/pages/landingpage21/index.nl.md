@@ -12,6 +12,9 @@ blocks:
       advertentie! Het voegt beleving en kracht toe aan het imago van een
       product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
       creatief en helder overbrengen aan de juiste doelgroep!'
+    displaymedia: youtube_video
+    youtube:
+      id: uU_QxytkDYY
   - type: content_block
     align: left
     content: >-
