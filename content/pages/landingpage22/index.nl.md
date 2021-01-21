@@ -6,11 +6,10 @@ id: 4awsNMvv3dfadf
 blocks:
   - type: hero_block
     title: "***Adverteren op YouTube***"
-    content: >-
-      ## Indisplay, instream en preroll YouTube marketing
-
-
-      In 2006 nam Google de videowebsite YouTube over. Sindsdien hebben de advertentiemogelijkheden binnen het kanaal een enorme vlucht genomen. Indisplay, instream en preroll zijn de populairste vormen van YouTube-marketing. Welke kansen bieden deze video-ads?
+    content: In 2006 nam Google de videowebsite YouTube over. Sindsdien hebben de
+      advertentiemogelijkheden binnen het kanaal een enorme vlucht genomen.
+      **Indisplay, instream en preroll** zijn de populairste vormen van
+      YouTube-marketing. Welke kansen bieden deze video-ads?
   - type: content_block
     align: left
     content: >-
