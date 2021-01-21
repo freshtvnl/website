@@ -57,6 +57,10 @@ blocks:
       source: images/peter-opnames-douwe-egberts.jpg
     youtube:
       id: zfG1OTMelcw
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: contact_block
     contacts:
       - kJ07QyNzs
