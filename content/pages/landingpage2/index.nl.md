@@ -18,10 +18,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Televisie Commercial vs YouTube Ads
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Uit recent onderzoek blijkt dat de gemiddelde impact van televisiereclame ongeveer op 52% ligt. Maar de impact van een YouTube pre-roll (advertentievideo voordat de video start die je aanklikt) is al opgeklommen naar 48%. Dat ligt dus heel dicht bij elkaar, terwijl de kosten voor het uitzenden van televisiereclame soms wel 100x zo duur is als een YouTube reclame.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
