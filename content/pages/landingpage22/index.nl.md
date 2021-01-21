@@ -5,12 +5,12 @@ draft: false
 id: 4awsNMvv3dfadf
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
+    title: "***Adverteren op YouTube***"
     content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
+      ## Indisplay, instream en preroll YouTube marketing
 
 
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+      In 2006 nam Google de videowebsite YouTube over. Sindsdien hebben de advertentiemogelijkheden binnen het kanaal een enorme vlucht genomen. Indisplay, instream en preroll zijn de populairste vormen van YouTube-marketing. Welke kansen bieden deze video-ads?
   - type: content_block
     align: left
     content: >-
