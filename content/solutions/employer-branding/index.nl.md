@@ -3,6 +3,8 @@ title: Employer Branding
 slug: Employer Branding
 draft: false
 id: yV7XuAtMH
+image:
+  source: images/employer-branding.jpg
 blocks:
   - type: hero_block
     title: "***Employer Branding films***"
