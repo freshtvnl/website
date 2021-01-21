@@ -34,5 +34,5 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - 7VtuzLwVv
 ---
