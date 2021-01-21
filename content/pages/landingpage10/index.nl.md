@@ -1,16 +1,24 @@
 ---
-title: Landing page 10
-slug: Bedrijfsfilm laten maken
+title: YouTube video laten maken
+slug: YouTube video laten maken
 draft: false
 id: 4awsNMvv3bc
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***YouTube video laten maken***"
+    content: Wil je succes met een YouTube video? Phil & Flo zal je gegarandeerd
+      succes bieden met de verspreiding van video op wereld’s grootste
+      videoplatform. Het grootst videoplatform? Jazeker! YouTube geeft zoveel
+      kansen voor organisaties, dat het zonde zou zijn als je hier geen gebruik
+      van maakt. YouTube wordt elke maand bezocht door meer dan één miljard
+      unieke bezoekers. Wij leveren niet alleen gave videoproducties, maar
+      zorgen er ook voor dat jouw YouTube video’s goed bekeken worden en het
+      achterliggende doel bereikt wordt. Wacht niet langer met een YouTube video
+      laten maken en bespreek je mogelijkheden met onze marketingexperts 085 -
+      273 8331
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
   - type: content_block
     align: left
     content: >-
