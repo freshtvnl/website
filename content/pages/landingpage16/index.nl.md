@@ -40,13 +40,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## ***Vacature*** films
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
-    displaymedia: image
+      De wervingsvideo of vacature film kan inzoomen op een specifieke vacature of juist het bedrijf in alle aspecten laten zien. Ons creatieve marketing team denkt mee over de meest **succesvolle formule**. Een wervingsvideo laten maken door het team van Phil & Flo is een mooie ervaring die zich uitbetaalt.
+    displaymedia: youtube_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    youtube:
+      id: Y4PzsL92oww
   - type: content_block
     align: right
     content: >-
