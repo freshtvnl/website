@@ -21,13 +21,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Je klanten een podium bieden?
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Op welke manier laat jij je klanten hun verhaal over jouw organisatie vertellen? Twijfel niet over het maken van een frisse kennismaking. Dan nemen we direct jouw mogelijkheden op het gebied van video testimonials door!
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: right
     content: >-
@@ -38,16 +42,6 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
-
-
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
-    displaymedia: image
-    image:
-      source: images/inge-bank.jpg
   - type: content_block
     align: right
     content: >-
