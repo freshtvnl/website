@@ -49,10 +49,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Succes door ***kwaliteit***
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Phil & Flo creative Studio maakt videoproducties van hoge kwaliteit. We werken met professionals die zich elke dag inzetten om een prachtige videoproductie voor jouw organisatie te maken. We werken snel, doordacht en efficiënt. Zodoende krijg je de hoogst mogelijke kwaliteit in kort tijdsbestek. Onze films zijn hoogwaardig qua kwaliteit maar ook qua inhoud. We weten aan de hand van uitgebreide data wanneer mensen een film bekijken of uitkijken. Deze info verwerken we in elke film die we produceren. Daarnaast is ons team gewoon leuk om mee samen te werken.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
