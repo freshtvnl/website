@@ -1,16 +1,18 @@
 ---
-title: Landing page 15
-slug: Bedrijfsfilm laten maken
+title: Reclamevideo
+slug: Reclamevideo
 draft: false
 id: 4awsNMvv3121
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Reclamevideo*** om de aandacht te pakken"
+    content: "Reclame video inzetten is al bijna net zo lang ingeburgerd als dat we
+      televisie kijken. Deze vorm van reclame wint ook steeds meer terrein op
+      internet. Reclamefilmpjes vangen zo goed de aandacht, dat mensen zich nu
+      nog reclamevideo’s van jaren geleden herinneren. Bovendien slaan leuke
+      commercials goed aan bij de doelgroep. Dat wil je voor jouw bedrijf toch
+      ook? Maar hoe maak je zo’n filmpje, en belangrijker nog: hoe zorg je dat
+      je ermee scoort? Bij Phil & Flo weten we daar wel raad mee."
   - type: content_block
     align: left
     content: >-
