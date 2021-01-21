@@ -55,7 +55,7 @@ blocks:
     align: right
     displaymedia: youtube_video
     content: >-
-      ## Waarom recruiters aankloppen bij Phil & Flo
+      ## Waarom ***recruiters*** aankloppen bij Phil & Flo
 
 
       Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien.
