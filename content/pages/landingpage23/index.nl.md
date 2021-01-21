@@ -29,10 +29,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## ***Online video***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Op zoek naar een bureau dat jou helpt met het meest effectieve communicatiemiddel, de online video? Phil & Flo doet het! We ontwikkelen, produceren en plaatsen je videoproductie van begin tot eind. Welke boodschap wil je overbrengen en naar welke doelgroep? Belangrijke vragen waar je snel een antwoord op wilt hebben. Wij helpen je hierbij, maar ondersteunt je ook bij iedere vervolgstap. Samen bedenken we een concept en maken we een video die niet alleen goed en interessant is, maar ook conversieverhogend werkt.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
