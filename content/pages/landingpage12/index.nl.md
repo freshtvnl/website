@@ -26,10 +26,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ### Bedrijfsfilm ***laten maken*** of zelf doen?
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Iedereen kan tegenwoordig films maken. Met een camera op iedere telefoon en goedkope (of gratis) video editing software kun je aan de slag. Maar het risico is dat je daarmee onprofessioneel overkomt en dat wil je natuurlijk niet. Je tekent toch ook niet je eigen briefpapier? Het is dan ook veel beter om te kiezen voor een studio om professioneel een bedrijfsfilm te laten maken. In Groningen kun je daarvoor terecht bij Phil & Flo. Ons kantoor zit in de Oude Boteringestraat 71!
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
