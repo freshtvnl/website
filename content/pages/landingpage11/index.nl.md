@@ -29,20 +29,20 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ## Bereik ***verschillende*** doelen
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
+      Een band opbouwen met (potentiële) klanten, toekomstige werknemers voorlichten of nieuwe opdrachtgevers overtuigen: een bedrijfsfilm kan verschillende doelen dienen voor jouw onderneming in Eindhoven. Stuk voor stuk doelen die wij van Phil & Flo bereiken door authentieke storytelling, waardoor je een blijvende, emotionele connectie maakt met jouw doelgroep. Een goed gevoel dat ze straks voor jou kiezen. Neem contact op om een bedrijfsfilm te laten maken in Eindhoven.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
+      ## ***Succesvolle*** bedrijfsfilm in Eindhoven
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Iedereen kan tegenwoordig films maken. Met de camera op jouw smartphone en goedkope of zelfs gratis video editing software kun je al aan de slag. Maar vertel je dan het juiste verhaal, raak je dan de juiste snaar, en heb je er Uberhaupt tijd voor? Onze professionals leveren echt iets beters. Zeker in branches waar bedrijven over elkaar heen buitelen om aandacht te krijgen is een krachtige bedrijfsfilm cruciaal. Juist daarom kies je voor een professioneel videoproductiebedrijf dat vanuit jaren praktijkervaring jouw bedrijfsfilm produceert. In Eindhoven kun je hiervoor terecht bij Phil & Flo Creative Studio.
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
@@ -68,5 +68,7 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
+      - Nc7XQAY2B
+  - contacts:
       - Nc7XQAY2B
 ---
