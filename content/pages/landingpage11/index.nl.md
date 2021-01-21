@@ -49,7 +49,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Zet je bedrijfsfilm effectief in***
+      ## Zet je bedrijfsfilm ***effectief*** in
 
 
       Een professionele film voor jouw bedrijf in Eindhoven is een mooi begin, maar hoe zorg je ervoor dat de juiste mensen hem nu ook daadwerkelijk onder ogen krijgen? Bij Phil & Flo hebben we veel ervaring met video marketingcampagnes. Van traditionele Ad campagnes op je website tot “organische” video’s op social media. Haal ons in huis en je film wordt zeker gezien. [](https://www.freshtv.nl/contact/)
