@@ -53,13 +53,17 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## ***Commercial*** laten maken?
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Ben jij het ook zat om een commercial of reclame spot te laten ontwikkelen die niet opvalt? Neem contact op met onze creatieve specialisten en maak vrijblijvend kennis met ons!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: left
     content: >-
