@@ -76,16 +76,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Persoonlijke Storytelling***
-
-
-      Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
-    displaymedia: image
-    image:
-      source: images/inge-sophie-kopie.jpg
   - type: contact_block
     contacts:
       - kJ07QyNzs
