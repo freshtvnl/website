@@ -10,6 +10,9 @@ blocks:
       befaamde bedrijfsuitjes. De sfeer in een bedrijf is lastig te beschrijven
       en proef je niet in een vacaturetekst. Met een wervingsvideo lukt het wèl
       om dat gevoel over te brengen.
+    displaymedia: youtube_video
+    youtube:
+      id: Mc0MxOCQVdo
   - type: content_block
     align: left
     content: >-
