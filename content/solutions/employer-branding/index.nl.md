@@ -105,4 +105,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: FFJ3QrYl1tA
+  - type: content_block
+    align: right
+    content: >-
+      ## Employer branding film op ***Indeed*** en sociale media
+
+
+      Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op Instagram en LinkedIn is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aansprekend maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op Indeed beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je vacature en/of employer branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
+    displaymedia: youtube_video
+    youtube:
+      id: B_GiMlwjABE
 ---
