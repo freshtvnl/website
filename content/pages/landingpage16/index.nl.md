@@ -80,10 +80,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ## ***Verspreiding***
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
+      Jouw Wervingsvideo kan bij een goede videodistributie een grote hit worden onder jouw doelgroep op sociale media. Een aansprekende film wordt graag gedeeld en bereikt zo die talenten die je graag binnen wilt halen. Ook zoekmachines houden van video’s. Wij kunnen je adviseren over zoekmachineoptimalisatie in combinatie met wervingsvideo’s, zodat jullie bedrijfsvideo de hoge score krijgt die hij verdient.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
