@@ -40,27 +40,31 @@ blocks:
       Binnen de YouTube marketing zijn Indisplay video-ads een krachtig instrument om je naamsbekendheid en branding op te krikken. Deze advertenties verschijnen als gesponsorde, aanbevolen video’s boven in zoekresultaten. Nauwelijks van andere video’s en afspeellijsten te onderscheiden, waardoor mensen ze snel aanklikken!
     displaymedia: image
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: images/inge-bank.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Instream en preroll voorafgaand aan een video
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Deze twee vormen van advertentie lijken op elkaar. **Instream** en **preroll** advertenties verschijnen voorafgaand aan een video, duren maximaal dertig seconden en bieden de mogelijkheid om Call To Action (CTA’s), specifieke URL’s te maken. Preroll-ads kun je niet doorspoelen, waardoor je er gegarandeerd impressies mee koopt. Bij Instream hebben kijkers na vijf seconden de mogelijkheid om de advertentie over te slaan. Je betaalt pas nadat iemand meer dan deze 5 seconden heeft gekeken. Hierdoor bereik je alleen de écht geïnteresseerden.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ## Ook Indisplay, Instream of preroll ads inzetten?
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
+      Wil je ook aan de slag met YouTube-marketing? Onze specialisten weten hoe je met jouw video ads opvalt tussen de concurrentie en de juiste doelgroep bereikt. Stap voor stap adviseert Phil & Flo over hoe je video zo effectief mogelijk inzet in het reclamenetwerk van YouTube. Termen als indisplay, instream en preroll zijn ons niet vreemd. We weten jouw YouTube-marketing gericht in te zetten door vooraf de karakteristieken van jouw doelgroep in kaart te brengen.
     displaymedia: image
     image:
-      source: images/inge-bank.jpg
+      source: images/feestje-phil-en-flo.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: right
     content: >-
