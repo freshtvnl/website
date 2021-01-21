@@ -5,12 +5,13 @@ draft: false
 id: 4awsNMadfvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Commercial*** laten maken"
+    content: '[](https://www.freshtv.nl/commercial-laten-maken/# "Volgende")Wil je
+      een commercial laten maken? Dan ben je bij Phil & Flo aan het juiste
+      adres. Een commercial zegt zoveel meer dan een gesproken of geschreven
+      advertentie! Het voegt beleving en kracht toe aan het imago van een
+      product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
+      creatief en helder overbrengen aan de juiste doelgroep!'
   - type: content_block
     align: left
     content: >-
