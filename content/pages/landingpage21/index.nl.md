@@ -1,6 +1,6 @@
 ---
-title: Landing page 21
-slug: Bedrijfsfilm laten maken
+title: commercial laten maken
+slug: commercial laten maken
 draft: false
 id: 4awsNMadfvv3
 blocks:
