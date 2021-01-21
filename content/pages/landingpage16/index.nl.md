@@ -90,13 +90,17 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
+      ## Vandaag nog meer weten over ***employer branding***?
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige Employer branding video’s om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
   - type: content_block
     align: left
     content: >-
