@@ -1,23 +1,24 @@
 ---
-title: Landing page 13
-slug: Bedrijfsfilm laten maken
+title: Productfilm
+slug: Productfilm
 draft: false
 id: 4awsNMvv3g
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Productfilm*** laten maken"
+    content: Het kan lastig zijn om kort uit te leggen wat je producten zijn en wat
+      ze doen. Op internet is zoveel informatie beschikbaar dat we niet meer
+      weten welke informatie relevant is en welke niet. Productfilms zijn daarom
+      dé oplossing om to the point informatie aan je klanten te geven. Bij Phil
+      & Flo zijn zij we overtuigd dat een geanimeerde- of een echte productfilm
+      de toekomst van productpromotie is.
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Presenteer krachtig jouw ***producten***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Productvideo’s maar ook uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D, 3D of op een geweldige manier in beeld te brengen. Een productfilm biedt uitgebreide mogelijkheden om in minder tijd (soms slechts 15 seconden) meer informatie te presenteren dan in een producttekst. Met een productfilm van Phil & Flo vinden jouw klanten met slechts één klik alle informatie over het juiste product.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
