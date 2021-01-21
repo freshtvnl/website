@@ -1,16 +1,16 @@
 ---
-title: Landing page 14
-slug: Bedrijfsfilm laten maken
+title: Branding video laten maken
+slug: Branding video laten maken
 draft: false
 id: 4awsNMvv3aq
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: Het gevoel en ***hart*** van je bedrijf in beeld
+    content: Zonder goede branding video ben je niet zichtbaar en niet tastbaar. Het
+      is de beste online marketing tool van dit moment. Door een korte film te
+      laten maken zet je je bedrijf neer zoals het is, of zoals jij wilt dat het
+      wordt. Je brengt het ware bedrijfsgevoel over en onderscheidt je met jouw
+      unieke ‘brand’ of merk van de concurrentie.
   - type: content_block
     align: left
     content: >-
