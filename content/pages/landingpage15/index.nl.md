@@ -29,33 +29,37 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Het ***doel*** van je reclamevideo
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Een reclamefilmpje of commercial is erg doelgericht: potentiële klanten overtuigen van een bepaalde product, dienst of merk, zodat deze doelgroep voor jou kiest. Dan is het natuurlijk handig als je weet wie je doelgroep is, en wat het beste werkt om ze aan te spreken. Welke stijl past daar goed bij, en welke kanalen kies je? Om je reclamevideo zo effectief mogelijk in te zetten, helpen we je met het beantwoorden van deze vragen.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ### Alles voor een reclamevideo van topkwaliteit
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Als we een concept hebben voor je reclamevideo, gaan we aan de slag. We luisteren graag naar je eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een script en het ontwikkelen van de commercial. Wij hebben vakkundige animators in dienst én ervaren filmmakers, zodat je een passende vorm bij ons kunt kiezen. Met Phil & Flo wordt je reclamevideo een doorslaand succes.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Een reclamevideo laten maken?
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Wil je een reclamevideo die tot de verbeelding spreekt? Neem contact met ons op, dan nemen we direct alle plannen door. Uiteraard kun je ook vragen om een online prijsindicatie!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: content_block
     align: left
     content: >-
@@ -66,16 +70,6 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
-
-
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
-    displaymedia: image
-    image:
-      source: images/feestje-phil-en-flo.jpg
   - type: content_block
     align: left
     content: >-
