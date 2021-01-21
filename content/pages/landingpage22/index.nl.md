@@ -1,6 +1,6 @@
 ---
-title: Landing page 22
-slug: Bedrijfsfilm laten maken
+title: Adverteren op YouTube
+slug: Adverteren op YouTube
 draft: false
 id: 4awsNMvv3dfadf
 blocks:
