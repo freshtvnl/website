@@ -34,10 +34,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## ***Indisplay***: aanbevolen video
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Binnen de YouTube marketing zijn Indisplay video-ads een krachtig instrument om je naamsbekendheid en branding op te krikken. Deze advertenties verschijnen als gesponsorde, aanbevolen video’s boven in zoekresultaten. Nauwelijks van andere video’s en afspeellijsten te onderscheiden, waardoor mensen ze snel aanklikken!
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
