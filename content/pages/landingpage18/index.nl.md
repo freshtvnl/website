@@ -16,10 +16,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Simpele manier ***uitleggen***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Een instructiefilm is een korte, bondige video die op een simpele manier uitlegt hoe bestaande, maar ook toekomstige klanten jouw product of dienst kunnen gebruiken. Ook kun je een instructiefilm inzetten met als doel mensen voorlichting te geven of te informeren. Zo kun je in één keer duidelijk maken wat bijvoorbeeld de veiligheidseisen zijn in een productiehal of laboratorium. Een instructiefilm is een goede manier om stap voor stap in beeld te brengen hoe iets werkt of hoe iets moet worden gedaan.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
