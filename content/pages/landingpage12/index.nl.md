@@ -1,16 +1,18 @@
 ---
-title: Landing page 12
-slug: Bedrijfsfilm laten maken
+title: bedrijfsfilm laten maken groningen
+slug: bedrijfsfilm laten maken groningen
 draft: false
 id: 4awsNMvv3ef
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: Bedrijfsfilm laten maken in ***Groningen***
+    content: Zit je met je bedrijf of organisatie in Groningen of omgeving? Niet zo
+      gek, want deze noordelijke stad heeft genoeg te bieden voor ondernemers.
+      Het is een voedingsbodem voor talent en creatieve geesten. Geen wonder dus
+      dat veel ondernemers zich hier vestigen. Hoe breng je je bedrijf het beste
+      onder de aandacht in Groningen? Door een bedrijfsfilm te laten maken kun
+      je in een korte, heldere en aansprekende boodschap goed opvallen. Daar kan
+      Phil & Flo in de Oude Boteringestraat je goed bij helpen.
   - type: content_block
     align: left
     content: >-
