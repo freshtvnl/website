@@ -47,4 +47,14 @@ blocks:
 
 
       De beste werknemers zijn steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? Met een employer branding film val je alvast goed op. Zeker als de concurrentie alleen maar een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
+  - type: content_block
+    align: right
+    displaymedia: youtube_video
+    content: >-
+      ## Waarom recruiters aankloppen bij Phil & Flo
+
+
+      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien.
+    youtube:
+      id: Mc0MxOCQVdo
 ---
