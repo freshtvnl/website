@@ -1,43 +1,46 @@
 ---
-title: Landing page 24
-slug: Bedrijfsfilm laten maken
+title: Instagram video laten maken
+slug: Instagram video laten maken
 draft: false
 id: 4awsNMasdfavv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Instagram*** video laten maken"
+    content: Instagram is, net als het overkoepelende Facebook, een vriendelijk
+      platform voor adverteerders. Met gebruikers die meer en meer op dit
+      nieuwere platform te vinden zijn dan op Facebook zelf, is het geen
+      onverstandige stap om met je doelgroep mee te verhuizen. Op Instagram kun
+      je heel gemakkelijk een video (laten) maken en plaatsen als
+      marketingcampagne, zoals je misschien al van Facebook gewend bent. Wil je
+      hier echt alles uithalen, neem dan contact op met Phil & Flo. Wij maken
+      een aansprekende video voor je, en helpen je bij het optimaal inzetten.
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Spreek je doelgroep aan op ***Instagram***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Als je een Instagram video wilt laten maken, is het extra belangrijk dat je goed nadenkt over de stijl en de boodschap. Het is een erg trendgevoelig platform met een over het algemeen jongere doelgroep. Daar ligt dus het risico dat je de plank misslaat met een toon die niet aanspreekt. Gelukkig zijn onze videomakers creatieve professionals met een goed gevoel voor trends. Wij kunnen je dan ook goed adviseren, en maken filmpjes die goed bij je organisatie passen en aansluiting vinden bij je doelgroep.
     displaymedia: image
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/inge-sophie-kopie.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Video laten maken voor een Instagram story
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Je onderneming heeft misschien al een zakelijk Instagram-account waarmee je je doelgroep kunt bereiken. Dan is het voor jou, net als voor iedere Instagram-gebruiker, mogelijk om video’s te plaatsen in de vorm van een Instagram story. Dit zijn korte slideshows of filmpjes die maar een beperkte tijd online staan, maar het wel erg goed doen op je tijdlijn. Met een professioneel geproduceerd filmpje in je story gooi je hoge ogen bij je volgers.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Adverteer op Instagram met video
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Instagram is onderdeel van Facebook, en heeft dus ook veel tools voor adverteerders. Heb je een zakelijk account? Dan is het mogelijk om advertentievideo’s te uploaden en in te zetten in marketingcampagnes. Vanzelfsprekend kan Phil & Flo een professionele reclamevideo maken voor je marketing op social media, die precies de juiste doelgroep aanspreekt. Daarnaast kunnen we je ook adviseren over hoe je dit filmpje optimaal inzet en de tools van Instagram zo goed mogelijk gebruikt.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
