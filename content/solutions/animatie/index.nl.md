@@ -65,7 +65,7 @@ blocks:
     video:
       autoplay: true
     youtube:
-      id: "7lgeGNnzvsQ "
+      id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
       text: Lees hier mee
