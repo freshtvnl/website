@@ -36,23 +36,27 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ### Je bedrijfsfilm ***effectief*** inzetten
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Met een professionele bedrijfsfilm ben je een heel eind, maar nog niet klaar. Want hoe zorg je ervoor dat mensen je film ook zien? Bij Phil & Flo hebben we veel ervaring met het succesvol inzetten van video’s in online marketingcampagnes. Van traditionele ad campaigns op websites tot social media, met ons wordt je video zeker gezien. Interesse? Je bent niet de enige, met ruim 200 klanten in heel Nederland zijn we populair door onze kennis en ervaring! Kom langs op ons kantoor in Groningen en ontdek wat je anders had laten liggen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Bedrijfsfilm laten maken?
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Ben je benieuwd geworden naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: left
     content: >-
