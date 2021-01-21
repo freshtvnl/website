@@ -42,20 +42,24 @@ blocks:
       Een groot voordeel is dat de kosten van het vertonen van YouTube video ads veel lager zijn dan bijvoorbeeld een televisie reclame. De kosten ten opzichte van het relevante bereik van een YouTube video liggen gemiddeld 100 keer lager dan een TV reclame.
 
 
-      Daarnaast is YouTube de één na grootste zoekmachine van de wereld. Ga met de trend mee en laat ons meedenken over de inzet van video op YouTube. Wij adviseren en komen met een YouTube video die volledig aansluit bij jouw wensen.
+      Daarnaast is YouTube de één na grootste zoekmachine van de wereld. Ga met de trend mee en laat ons meedenken over de inzet van video op YouTube. Wij adviseren je  en komen met een YouTube video die volledig aansluit bij jouw wensen.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Overtuigd?
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Wil je een video voor YouTube laten maken die je doelen bereikt? Wij komen met passend advies en helpen je graag! Neem contact op en bespreek je mogelijkheden.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: content_block
     align: right
     content: >-
