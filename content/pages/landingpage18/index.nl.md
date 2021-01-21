@@ -26,20 +26,22 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## ***Ingewikkeld*** onderwerp uitleggen?
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
+      Dankzij video onthouden mensen je boodschap beter. Als je als bedrijf bijvoorbeeld werkt met gevaarlijke grondstoffen of met zwaar materiaal, wil je alle veiligheidsinstructies bij iedereen binnen je organisatie duidelijk hebben. Een instructiefilm in de vorm van een (3D) animatie of een explanimation is dan bij uitstek geschikt voor het laten zien van gevaarlijke stoffen of de reacties van chemische stoffen, zonder dit in het echt te hoeven nabootsen voor video-opnames.
+    displaymedia: custom_video
     image:
       source: images/aron-sophie.jpg
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-bouw.mp4
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Instructiefilms voor ***personeel***
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Bij Phil & Flo brengen we de gevaren of problemen in beeld die kunnen ontstaan wanneer je personeel zich niet aan de regels houdt. Ook kun je er voor kiezen om een instructiefilm voor gebruik in de zorg te laten maken. Daar moeten er vaak ingewikkelde onderwerpen worden uitgelegd aan patiënten, cliënten of medewerkers. Een instructiefilm helpt ze om de materie begrijpelijker, speelser en minder zwaar te maken.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
