@@ -63,16 +63,20 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Je bedrijfsfilm laten maken voor sociale media***
+      ## Bedrijfsfilm op maat in ***Eindhoven***
 
 
-      Sociale media zijn niet meer weg te denken uit online marketing. En zeg nou zelf: hoe vaak zie je een stuk tekst gedeeld worden, in vergelijking met filmpjes? Als je bedrijfsfilm een goed verhaal vertelt of grappig of spannend genoeg in elkaar zit, zullen mensen deze gaan delen op sociale media. Dat kan zelfs leiden tot een sneeuwbaleffect en dan vergroot je het bereik exponentieel. Door te kiezen voor een bedrijfsfilm van Phil & Flo, vergroot je je kansen om opgepikt te worden. Wij zetten je liever op de kaart als trending dan als saai en statisch.
+      Interesse in een bedrijfsfilm op maat? Je bent niet de enige! Met ruim 400 klanten in Eindhoven en de rest van Nederland zijn we populair door onze kennis en jarenlange ervaring. Wij helpen je desgewenst bij iedere stap: van allereerst conceptontwikkeling en een succesvol script tot de inzet van jouw video in een complete marketingcampagne. Of je nu zelf allerlei ideeën hebt over je film of het hele concept door ons laat uitdenken.
     displaymedia: image
     image:
-      source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      source: images/peter-opnames-douwe-egberts.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - 7VtuzLwVv
   - contacts:
       - Nc7XQAY2B
 ---
