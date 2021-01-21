@@ -14,40 +14,20 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Waar sta je voor?
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
-    image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
-
-
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
-    image:
-      source: images/aron-sophie.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
-
-
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Wie zijn jullie? Waar staan jullie voor? Wat is de sfeer op de werkvloer? Hoe klinkt een tevreden klant? Dit vat je niet in tekst en afbeeldingen alleen. De kernwaarden van het bedrijf komen het beste over in een film gemaakt door Phil & Flo. Ideeën nodig?
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## ***Branding video*** voor Social Media
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Met een branding video geef je potentiële klanten de nodige informatie en een inkijkje in je bedrijf. Maar belangrijker nog: je valt op. Een goede Branding video wordt snel opgepikt en via YouTube, Instagram of LinkedIn talloze keren gedeeld. Een video zorgt voor gemiddeld 30 procent meer conversie op je site. Met een onprofessionele of zelfs helemaal geen bedrijfsfilm vis je achter het net: geen bereik, geen views, geen klanten.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
