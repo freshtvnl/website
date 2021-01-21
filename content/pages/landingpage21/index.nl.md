@@ -18,13 +18,16 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Effectief, doelgericht en ***creatief***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Een creatieve insteek is essentieel om een commercial te produceren die raak is. Waarom? Omdat jouw boodschap in 15 tot 30 seconden overgebracht moet worden, met als belangrijkste doel: de kijker tot actie over laten gaan! Maar waar bevindt jouw potentiële doelgroep zich? Ga je de commercial op televisie uitzenden of via YouTube verspreiden? Welke boodschap is het belangrijkst? Welke call-to-action trekt jouw doelgroep over de streep? Vragen die in het beginstadium van groot belang zijn. Wij helpen je het concept glashelder te krijgen, zodat je commercial effectief en doelgericht is.
+    displaymedia: custom_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
+    video:
+      source_mp4: https://www.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
