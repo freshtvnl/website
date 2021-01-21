@@ -24,7 +24,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Indisplay, instream en preroll 
+      ## Indisplay, instream en ***pre-roll*** 
 
 
       Advertentiemogelijkheden op YouTube. Video-advertenties op YouTube leveren meer op dan traditionele tv-reclames. En dat is ook niet zo gek, want tot YouTube heb je altijd toegang. Of je nu thuis, op je werk of in de trein zit. Hier adverteren is ideaal voor het vergroten van je naamsbekendheid en branding. Je hebt verschillende advertentiemogelijkheden, waaronder **indisplay**, **instream** en **preroll**.
