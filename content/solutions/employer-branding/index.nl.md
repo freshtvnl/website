@@ -82,4 +82,7 @@ blocks:
 
       **Wij hebben een frisse en unieke blik op de presentatie in videovorm om talent aan te trekken**. Door de verhalen van je collega’s op een aantrekkelijke manier te presenteren, maken we potentiële werknemers enthousiast en geïnteresseerd in jouw bedrijf.
     align: left
+    displaymedia: youtube_video
+    youtube:
+      id: 1rv163H132E
 ---
