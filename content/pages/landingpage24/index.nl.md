@@ -47,10 +47,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## ***IGTV video*** laten maken
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Instagram zelf lijkt ook de meerwaarde van bewegend beeld te zien, en heeft de app IGTV (Instagram TV) gelanceerd. Hierop zijn langere filmpjes te uploaden, die jouw volgers dan kunnen bekijken. Het voordeel van IGTV is dat je er langere content op kwijt kunt, zoals een bedrijfsvideo of een explanimation. Ook blijft het filmpje zo lang staan als je wilt. Met een professionele animatie of een strak filmpje op IGTV maak je nog meer indruk op je potentiële klanten.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
