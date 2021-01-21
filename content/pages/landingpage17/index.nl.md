@@ -13,33 +13,36 @@ blocks:
       Daarom heb je een specialist in videoproductie in Amsterdam nodig. Wij van
       Phil & Flo begrijpen niet alleen jou, maar ook je doelgroep. En weten zo
       video’s te maken die niet meer loslaten.
+    displaymedia: youtube_video
+    youtube:
+      id: FaX5C6_EH24
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Videoproductie voor meer impact
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Meer dan 85% van de marketeers kiest voor video en niet voor niets. Veel mensen haken al snel af bij een hele lap tekst, maar raken geboeid door sterke camerabeelden, heldere animatie en een sfeervol achtergrondmuziekje. Ze worden van nature aangetrokken door bewegend beeld en geluid: twee cruciale kenmerken die een tekst of illustratie als advertentie mist.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Zet ***videoproductie*** in
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Iets uitleggen, mensen informeren of overtuigen: een video kun je voor verschillende doelen inzetten. Wat jouw doel ook is, als je deze door Phil & Flo in Amsterdam laat produceren, ben je verzekerd van een goed scorende film. Waar is nagedacht over zaken als doel, marketingstrategie, lancering en video advertenties. Met het eindresultaat kun je alle kanten op: plaats jouw bedrijfsvideo bijvoorbeeld op je website, zodat klanten alvast kennis met je kunnen maken. Of werk aan een uitgekiende social mediastrategie met speciaal gemaakte productfilmpjes.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ### Videoproductie Amsterdam op maat
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Heb je zelf allerlei ideeën over de bedrijfsvideo die je wilt laten maken of laat je liever het hele concept door ons uitdenken? Bij Phil & Flo staan we voor je klaar. Waar gewenst begeleiden we je bij alle stappen: van eerste conceptontwikkeling en vaststellen van een succesvol script tot het inzetten van jouw video in complete marketingcampagnes. Kom gerust langs op ons kantoor op de Herengracht 420, voor videoproductie in Amsterdam, om samen de mogelijkheden te bespreken.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
