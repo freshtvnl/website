@@ -61,4 +61,25 @@ blocks:
       Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien.
     youtube:
       id: Mc0MxOCQVdo
+  - type: content_block
+    content: >-
+      ## Succes voor ***elke branche***
+
+
+      We hebben al vele employer branding films gemaakt voor verschillende branches:
+
+
+      * IT branche
+
+      * Zorg en Pharma branche
+
+      * Financiële branche
+
+      * Architectuur branche
+
+      * Duurzame Industrie branche
+
+
+      **Wij hebben een frisse en unieke blik op de presentatie in videovorm om talent aan te trekken**. Door de verhalen van je collega’s op een aantrekkelijke manier te presenteren, maken we potentiële werknemers enthousiast en geïnteresseerd in jouw bedrijf.
+    align: left
 ---
