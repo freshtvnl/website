@@ -56,10 +56,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
+      ## Een branding video laten maken door Phil & Flo
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Het unieke concept, het logo en de sfeer van jouw bedrijf communiceer je het best door een branding video te laten maken. Onze specialisten stemmen de bedrijfsfilm af op de stijl en toon van jouw doelgroep. Een branding video laten maken door Phil & Flo betekent een professionele productie met een verbluffend resultaat.
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
