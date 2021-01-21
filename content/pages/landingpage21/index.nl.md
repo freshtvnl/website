@@ -65,16 +65,6 @@ blocks:
       text: Contact opnemen
       type: button
   - type: content_block
-    align: left
-    content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
-
-
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
-    displaymedia: image
-    image:
-      source: images/inge-bank.jpg
-  - type: content_block
     align: right
     content: >-
       ### ***Je verhaal vertellen met een bedrijfsfilm***
@@ -84,16 +74,6 @@ blocks:
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ### ***Persoonlijke Storytelling***
-
-
-      Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
-    displaymedia: image
-    image:
-      source: images/inge-sophie-kopie.jpg
   - type: content_block
     align: right
     content: >-
@@ -106,5 +86,5 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - PZcCTyF1B
 ---
