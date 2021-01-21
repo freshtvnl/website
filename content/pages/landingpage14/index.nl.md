@@ -49,7 +49,7 @@ blocks:
       \- Call to action. De video overtuigt en zet aan tot actie.
 
 
-      Professionaliteit. Met een vakkundig gefilmde en gemonteerde video onderscheid je je direct van de vele amateuristische films op internet.
+      \- Professionaliteit. Met een vakkundig gefilmde en gemonteerde video onderscheid je je direct van de vele amateuristische films op internet.
     displaymedia: image
     image:
       source: images/inge-sophie-kopie.jpg
