@@ -34,13 +34,25 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Kort en krachtig je verhaal vertellen***
+      ## Een branding video, hoe werkt het?
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
+      Bij Phil & Flo weten we hoe je indruk maakt. Dit zijn de belangrijkste ingrediënten voor een goede video.
+
+
+      \- Storytelling. Medewerkers en klanten vertellen hun persoonlijke verhaal waarin de doelgroep zich herkent.
+
+
+      \- Vertrouwen. Een goede branding video straalt vertrouwen uit. Het weerspiegelt de trots en het succes van de onderneming.
+
+
+      \- Call to action. De video overtuigt en zet aan tot actie.
+
+
+      Professionaliteit. Met een vakkundig gefilmde en gemonteerde video onderscheid je je direct van de vele amateuristische films op internet.
     displaymedia: image
     image:
-      source: images/inge-bank.jpg
+      source: images/inge-sophie-kopie.jpg
   - type: content_block
     align: right
     content: >-
