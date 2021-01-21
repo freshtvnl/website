@@ -67,13 +67,17 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Je verhaal vertellen met een bedrijfsfilm***
+      ## Een Instagram video laten maken?
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Wil je een Instagram video die tot de verbeelding spreekt? Neem contact op met onze specialisten. Uiteraard kun je ook vragen om een online prijsindicatie!
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: content_block
     align: left
     content: >-
