@@ -9,7 +9,10 @@ blocks:
     content: Al sinds de opkomst van vacaturebanken worden er lange, saaie
       vacatureteksten gepubliceerd. Tijden veranderen en teksten worden als saai
       en vervelend beschouwd. Helemaal als de tekst langer dan één A4tje is en
-      vol zit met vakjargon.
+      vol zit met vakjargon. Check een voorbeeld hieronder.
+    displaymedia: youtube_video
+    youtube:
+      id: Mc0MxOCQVdo
   - type: content_block
     align: left
     content: >-
