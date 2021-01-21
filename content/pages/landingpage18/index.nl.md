@@ -1,16 +1,18 @@
 ---
-title: Landing page 18
-slug: Bedrijfsfilm laten maken
+title: Instructiefilm
+slug: Instructiefilm
 draft: false
 id: aa4awsNMvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Instructiefilm laten maken***"
+    content: "Stel je eens voor: je krijgt een nieuwe telefoon of tablet in handen.
+      Wat je dan wilt, is zo snel mogelijk dat ding opstarten en ermee aan de
+      slag! Het liefst pluis je niet eerst heel de handleiding uit, maar wil je
+      direct weten wat je er mee kunt. Gemak dient de mens, zeggen we bij Phil &
+      Flo. Wij creëren korte instructiefilms of voorlichtingsfilms die het jouw
+      potentiële klanten makkelijker maken je product, dienst of een bepaalde
+      instructie sneller te begrijpen."
   - type: content_block
     align: left
     content: >-
