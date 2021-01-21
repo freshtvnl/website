@@ -39,10 +39,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Maak van ***kijkers*** klanten
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Een video is dé manier om van je kijkers klanten te maken. Dit kan met bijvoorbeeld een [commercial](https://www.philenflo.nl/commercial-laten-maken/), maar wat dacht je van een [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)? Jouw video is makkelijk te delen en vergroot op die manier je online vindbaarheid. Dat betekent dus: meer naamsbekendheid, meer bezoekers en niet geheel onbelangrijk: meer klanten!
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
