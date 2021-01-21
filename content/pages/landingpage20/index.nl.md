@@ -28,23 +28,35 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Video als ***activerend*** medium
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Video is een activerend medium waardoor je talent activeert en attendeert op jouw boodschap. Met een vacature video kan je binnen één minuut uitleggen waar jouw organisatie voor staat en wat de functie inhoudt. Je neemt alle twijfel weg. Met jouw enthousiasme vertel je meteen waarom het zo leuk is om voor jullie te werken en kan het talent meteen proeven aan de sfeer. Daarna deel je de video op LinkedIn op adverteer je de video op de juiste doelgroep voor het allerbeste resultaat! Uiteraard helpen we je daarmee.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## Voordelen van een ***vacature*** film
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
-    displaymedia: image
+      * In plaats van saaie tekst vertel jij alles over de functie inhoud;
+
+      * Een vacature video brengt emotie over en nieuw talent krijgt meteen een gevoel met de organisatie;
+
+      * Door de combinatie van een mens in beeld aangevuld met goede achtergrond muziek, blijft de kijker geboeid;
+
+      * Er zijn geen vragen meer over de functie inhoud;
+
+      * Hoge respons. Op vacature video’s wordt meer gereageerd dan alleen vacatureteksten.
+
+      * Onderscheidend vermogen ten opzichte van alle concurrenten die ook vacatures open hebben staan.
+    displaymedia: youtube_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    youtube:
+      id: zfG1OTMelcw
   - type: content_block
     align: right
     content: >-
