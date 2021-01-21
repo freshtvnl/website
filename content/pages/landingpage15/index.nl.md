@@ -13,6 +13,9 @@ blocks:
       commercials goed aan bij de doelgroep. Dat wil je voor jouw bedrijf toch
       ook? Maar hoe maak je zo’n filmpje, en belangrijker nog: hoe zorg je dat
       je ermee scoort? Bij Phil & Flo weten we daar wel raad mee."
+    displaymedia: youtube_video
+    youtube:
+      id: -8n5l374t2Q
   - type: content_block
     align: left
     content: >-
