@@ -1,6 +1,6 @@
 ---
-title: Landing page 19
-slug: Bedrijfsfilm laten maken
+title: video testimonial
+slug: video testimonial
 draft: false
 id: bb4awsNMvv3
 blocks:
