@@ -14,6 +14,10 @@ blocks:
       te laten maken. Zo’n film werkt prima als reclame voor je bedrijf als
       werkgever, omdat je eigen werknemers en collega’s erin vertellen over de
       werksfeer. En die film plaats je op Indeed, LinkedIn en Instagram!
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
