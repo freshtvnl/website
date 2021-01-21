@@ -16,10 +16,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ### Val op met een bedrijfsfilm in ***Groningen***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Je bedrijf onder de aandacht brengen met een bedrijfsfilm kan verschillende doelen dienen. Om een band op te bouwen met je (potentiële) klanten, bijvoorbeeld. Maar ook om toekomstige werknemers voor te lichten is het een nuttig middel. Een bedrijfsfilm laten maken voor je onderneming in Groningen zorgt er in ieder geval voor dat je veel meer opvalt dan met alleen tekst. Een geschreven beschrijving komt al snel standaard en ongeïnspireerd over, hoe goed geschreven ook. Daar pakt een film veel beter de aandacht.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
