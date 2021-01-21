@@ -135,4 +135,11 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: zfG1OTMelcw
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+  - type: contact_block
+    contacts:
+      - Nc7XQAY2B
 ---
