@@ -16,13 +16,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## ***Wervingsvideo***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Je als bedrijf ten opzichte van je concurrenten op een fantastische manier onderscheiden? Geen saaie vacaturetekst, maar een authentieke film waarin het bedrijf en de functie in de schijnwerpers worden gezet. Een film die je kan inzetten op al je social media kanalen zoals LinkedIn, Instagram, Facebook en op de vacaturebanken zoals **Indeed**. Bel direct vrijblijvend met onze specialisten voor meer informatie! 085 - 273 8331
+    displaymedia: youtube_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+    youtube:
+      id: quK6uD7_-1Y
   - type: content_block
     align: right
     content: >-
