@@ -1,16 +1,18 @@
 ---
-title: Landing page 17
-slug: Bedrijfsfilm laten maken
+title: Videoproductie Amsterdam
+slug: Videoproductie Amsterdam
 draft: false
 id: 124awsNMvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: Videoproductie ***Amsterdam***
+    content: 118.200. Zoveel bedrijven kent onze hoofdstad Amsterdam. Hoe val jij op
+      tussen al die anderen? Door jezelf te onderscheiden in jouw marketing. En
+      wat leent zich daar beter voor dan video? Een foto zegt meer dan duizend
+      woorden; de waarde van een goede bedrijfsvideo kan in de miljoenen lopen!
+      Daarom heb je een specialist in videoproductie in Amsterdam nodig. Wij van
+      Phil & Flo begrijpen niet alleen jou, maar ook je doelgroep. En weten zo
+      video’s te maken die niet meer loslaten.
   - type: content_block
     align: left
     content: >-
