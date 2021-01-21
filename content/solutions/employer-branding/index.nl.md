@@ -85,4 +85,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 1rv163H132E
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Employer branding*** volgens Phil & Flo
+
+
+      Wat maakt de werkwijze van Phil & Flo zo uniek? **Onze filmmakers zijn creatieve geesten**, die iedere keer de juiste invalshoek weten te vinden om je bedrijf en werksfeer in videovorm succesvol te presenteren. Dat doen ze met steeds het doel voor ogen: **het overtuigen van potentiële werknemers**. Met dat doel voor ogen gaan ze het hele proces door, van a tot z, om een perfecte employer branding video te maken: van eerste scripts en opnames tot de laatste stappen in het productieproces. En dat doen we allemaal in overleg, met een persoonlijke aanpak.
+    displaymedia: youtube_video
+    youtube:
+      id: asB9nPdOCHk
 ---
