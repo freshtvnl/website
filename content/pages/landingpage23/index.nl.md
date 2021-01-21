@@ -1,16 +1,21 @@
 ---
-title: Landing page 23
-slug: Bedrijfsfilm laten maken
+title: Videoproductie
+slug: Videoproductie
 draft: false
 id: 4awadfsNMvv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Een videoproductie maken***"
+    content: Wil je een videoproductie laten maken? Bij Phil & Flo zijn we ervan
+      overtuigd dat video het ideale middel is om jouw verhaal te vertellen. Op
+      je website, in een commercial, als TikTok of op YouTube; de mogelijkheden
+      zijn oneindig. Niet voor niets is video uitgegroeid tot één van de
+      populairste marketingmiddelen. Phil & Flo maakt jouw organisatie visueel
+      aantrekkelijk!
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/HZPC-Sunita.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
