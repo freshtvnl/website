@@ -19,13 +19,13 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Beter dan ***advertenties***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Zeker online is het gemakkelijk om te kiezen voor reclame in de vorm van tekst en illustraties: het digitale equivalent van een advertentie in krant of tijdschrift. Maar deze advertenties worden veel genegeerd door websitebezoekers, of door adblockers compleet onzichtbaar gemaakt. Als je echt wilt opvallen, is een reclamevideo veel effectiever. Bovendien vinden veel mensen een kort filmpje ook leuker.
     displaymedia: image
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/aron-sophie.jpg
   - type: content_block
     align: right
     content: >-
