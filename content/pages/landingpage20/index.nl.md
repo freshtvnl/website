@@ -16,13 +16,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Waarom een ***vacature*** video?
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Hoe pak je dit probleem aan en zorg je dat juist het perfecte talent kiest voor jouw organisatie? Dit doe je met een **vacature video**. Een vacaturefilm brengt de juiste boodschap over met emotie. Daarnaast worden Google en YouTube steeds vaker gebruikt voor het vinden van de juiste vacature. Sterker nog YouTube is bijna de populairste zoekmachine ter wereld en geeft Google nog meer voorrang op hoogwaardige videocontent in de zoekresultaten!
+    displaymedia: youtube_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
+    youtube:
+      id: G_dlOtmAnas
   - type: content_block
     align: right
     content: >-
