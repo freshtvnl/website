@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="smooth-scroll">
+<html lang="{{ .Site.Language.Lang }}" class="smooth-scroll">
   {{- partial "head.html" . -}}
 
   {{ $pagecolor :=  (cond (ne (.Params.color) nil ) (.Params.color) ("green") ) }}

@@ -33,7 +33,7 @@
       {{ $item := . }}
       <a href="{{$item.RelPermalink}}" class="block relative overflow-hidden text-white group">
         {{ with .Params.image}}
-        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "780" "height" "1000" "class" "relative") }}
+        {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "630" "height" "800" "class" "relative") }}
         {{ end }}
         <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-12 text-gray-100">
           <h3 class="text-xl lg:text-3xl font-bold ">
@@ -132,7 +132,7 @@
         <h2 class="text-2xl md:text-3xl lg:text-4xl font-bold mb-2">{{ . | markdownify }}</h2>
         {{ end }}
         {{ with .Params.image}}
-        {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "700" "height" "700" "class" "mt-6 lg:mt-8 pr-6 md:pr-12 lg:pr-8 xl:pr-10 2xl:pr-12 z-20 relative") }}
+        {{ partial "image.html" (dict "page" $page "source" .source "alt" .alt "width" "550" "height" "550" "class" "mt-6 lg:mt-8 pr-6 md:pr-12 lg:pr-8 xl:pr-10 2xl:pr-12 z-20 relative") }}
        <div class="branch-element-bg w-2/3 pb-4 pt-6 md:pt-8 lg:pt-12 lg:pb-6 xl:py-6 xl:pt-12 2xl:py-8 2xl:pt-12 transform float-right -translate-y-8 -mb-8 flex justify-end px-12">
           &nbsp;
           <span class="hidden lg:block transform -rotate-90">

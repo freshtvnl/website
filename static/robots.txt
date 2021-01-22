@@ -1,0 +1,21 @@
+User-agent:*
+
+# DISALLOWS BY SMARTRANKING 012021
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /bedankt-voor-je-smoothie-aanvraag/
+Disallow: /wp-admin/admin-ajax.php
+Disallow: */feed/$
+Disallow: */rss/$
+Disallow: */rss2/$
+Disallow: /tag/
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /case_cat/
+Disallow: /author/
+Disallow: /wp-login.php
+Disallow: *?*s=*
+Disallow: *?*cat=*
+Disallow: *?*wordfence_logHuman=*
+
+Sitemap: https://philflo.nl/sitemap.xml

@@ -55,9 +55,9 @@
       
       {{ if and ($params.image) (eq $display "image") }}
         {{ if $params.fullwidth }}
-        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "2560" "height" "1200" "class" "") }}
+        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1600" "height" "700" "class" "") }}
         {{ else }}
-        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1640" "height" "900" "class" "") }}
+        {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "930" "height" "500" "class" "") }}
         {{ end }}
       {{ end }}
   
