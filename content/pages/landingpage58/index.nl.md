@@ -1,6 +1,6 @@
 ---
-title: Landing page 58
-slug: landingpage
+title: 2D Animatie
+slug: 2D Animatie
 weight: 1
 draft: false
 id: wvUKuLAzh58
@@ -10,10 +10,10 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## ***2D animatie*** laten maken
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk. Lees verder onder deze voorbeelden.
   - type: content_block
     align: left
     content: >-
