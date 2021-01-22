@@ -37,7 +37,7 @@ blocks:
       source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## De unieke ***designfilosofie*** van Phil & Flo
 
@@ -48,7 +48,7 @@ blocks:
       source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Kleurgebruik in jouw uitleganimatie
 
@@ -59,7 +59,7 @@ blocks:
       source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Nieuwe ontwikkelingen
 
@@ -75,7 +75,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - kJ07QyNzs
   - type: selectedwork_block
     title: Selected work
     items:
