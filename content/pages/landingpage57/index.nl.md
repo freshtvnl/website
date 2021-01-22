@@ -21,7 +21,7 @@ blocks:
   - displaymedia: youtube_video
     youtube:
       image:
-        source: images/3d-animatie-laten-maken.jpg
+        source: ""
       id: E6m4y9RaiII
     iframe:
       source: ""
@@ -60,14 +60,16 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Een 3D productvideo inzetten als instructievideo
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
-    displaymedia: custom_video
+      3D Productvideo’s zijn super effectief en multi-inzetbaar. Zo kun je een productvideo effectief inzetten voor het delen van productinformatie met je medewerkers. Heb je een nieuw product om de markt te veroveren en wil je jouw medewerkers voorzien van alle technische informatie? Dan biedt een productanimatie dé oplossing. Maar je kunt de 3D product video ook laten verwerken in een commercial en bijvoorbeeld inzetten als promovideo tijdens beurzen en evenementen. De mogelijkheden zijn eindeloos.
+    displaymedia: youtube_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    youtube:
+      id: nCiuDz461D8
   - type: content_block
     align: left
     content: >-
@@ -86,24 +88,13 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Animatie laten maken om ***meer op te vallen***
+      ## Samen aan de slag met Phil & Flo
 
 
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+      Creative Studio Phil & Flo realiseert niet alleen 3D productvideo’s, maar ons team denkt ook mee op welke wijze de video jouw marketingstrategie kan versterken. Wij begeleiden je dan ook stap voor stap in het videoproces om jouw beoogd doel te bereiken. Van videoscript tot het uiteindelijke resultaat: wij zorgen ervoor dat het product helder en realistisch in beeld wordt gebracht.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Hoe werkt*** een animatie laten maken?
-
-
-      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
+      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -185,10 +176,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Kies de juiste kleuren***
+      ## Kom in contact
 
 
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
+      Ben je benieuwd naar de mogelijkheden? Phil & Flo denkt graag met je mee! Neem telefonisch contact met ons op voor meer informatie of bezoek een van onze vestigingen.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
