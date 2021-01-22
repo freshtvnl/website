@@ -17,10 +17,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
+      ## Kies voor een ***trefzekere*** animatie
 
 
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
+      Jij en je accountmanagers weten als geen ander hoe moeilijk het kan zijn om de aandacht te vangen en vast te houden van potentiële klanten. Een animatie vertelt kort en duidelijk alles wat ze moeten weten. Bovendien is het, door een luchtige en speelse presentatie, leuk en aangenaam om naar te kijken. Er is van alles mogelijk: 2D-animatie, 3D, en zelfs animatie vermengd met echte videobeelden. Om te promoten, uit te leggen en te overtuigen.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
