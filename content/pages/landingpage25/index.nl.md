@@ -35,13 +35,15 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Je zoektocht naar personeel start hier!
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
+      De druk op de zorg wordt steeds groter, onder andere door de toenemende vergrijzing. Als werkgever in de zorg is het vinden van geschikt personeel daarom moeilijker maar belangrijker dan ooit! Phil & Flo helpt zorginstanties met het vinden van geschikte kandidaten. Wij doen dit door prikkelende en interessante werken-bij films te maken, die gericht zijn op specifieke zorgvacatures. In deze video’s benadrukken we de unieke aspecten van de zorginstelling, gaan we in op de bedrijfscultuur, collegialiteit en spreken we geschikte kandidaten rechtstreeks aan. Op deze manier solliciteren alleen de mensen die aansluiten bij het opgestelde vacatureprofiel. Onze employer branding film voor het UMCG is hier een perfect voorbeeld van.
+    displaymedia: youtube_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
+    youtube:
+      id: G_dlOtmAnas
   - type: content_block
     align: left
     content: >-
