@@ -13,6 +13,10 @@ blocks:
       aan de ene kant, en patiënten aan de andere. Met een video of animatie van
       Phil & Flo Creative Studio onthoud je een verhaal beter en blijft een
       boodschap écht hangen.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
