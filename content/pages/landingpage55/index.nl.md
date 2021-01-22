@@ -64,7 +64,7 @@ blocks:
       ## Nieuwe ontwikkelingen
 
 
-      Ook is het belangrijk dat we weten voor wie de uitleganimatie bedoeld is en waar deze vertoond zal worden. Want de interpretatie van beeld is, net als geschreven en gesproken taal, tijds- en cultuurgebonden. Daarom zijn wij altijd op de hoogte van de nieuwste ontwikkelingen in binnen- en buitenland, bestuderen en beoefenen we verschillende technieken en gaan we graag het avontuur aan.
+      Ook is het belangrijk dat we weten voor wie de uitleganimatie bedoeld is en waar deze vertoond zal worden. Want de interpretatie van beeld is, net als geschreven en gesproken taal, tijds- en cultuurgebonden. Daarom zijn wij altijd op de hoogte van de nieuwste ontwikkelingen in binnen- en buitenland, bestuderen en beoefenen we verschillende technieken en gaan we graag het avontuur aan. Vraag vrijblijvend een offerte aan.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
