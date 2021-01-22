@@ -46,10 +46,16 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ## Klantdata vs. persoonlijke media
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Het spreekt voor zich dat je met een persoonlijk bericht betere resultaten bereikt bij je doelgroep dan met een algemene mailing of advertentie. **Een personalized video is de ideale koppeling tussen klantdata en persoonlijke media**. Daarmee is het een effectief middel om gedrag te beïnvloeden.
+
+
+      Phil & Flo heeft veel ervaring met gepersonaliseerde video’s en ook de beveiliging van de data die gepaard gaat met het persoonlijk maken van de video. Omdat wij alle films en data op onze eigen servers beheren en hosten, kunnen we miljoenen verschillende gepersonaliseerde [videofilms](https://www.philenflo.nl/videofilm-laten-maken/) en gepersonaliseerde [animaties](https://www.philenflo.nl/animatie-laten-maken/) veilig opslaan.
+
+
+      Kortom: gepersonaliseerde video’s hebben een positieve invloed op de klantenbinding, omdat het de kijker laat zien dat je je echt in ze hebt verdiept.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
