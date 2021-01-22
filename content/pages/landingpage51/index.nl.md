@@ -143,17 +143,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Voor wie*** laat je een animatie maken?
-
-
-      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons portfolio voor de uitgebreide stijlen die we hanteren.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
-      autoplay: true
   - type: contact_block
     contacts:
       - HZCh75c-T
