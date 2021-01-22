@@ -7,17 +7,19 @@ id: wvUKuLAzh57
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***3D Product animatie***
-
-
-      Wil je jouw nieuwste innovatie op een unieke manier met de wereld delen? Dan is een 3D productvideo de ideale tool. Phil & Flo maakt professionele 3D animatiefilms waarbij we het meest geavanceerde product op een duidelijke manier weergeven. Alle unique selling points van je product komen aan bod waarbij we een mix creëren van techniek en toepasbaarheid. Via de nieuwste technieken kunnen we jouw product volledig in 3D weergeven.
-    displaymedia: custom_video
+  - type: hero_block
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+    content: Wil je jouw nieuwste innovatie op een unieke manier met de wereld
+      delen? Dan is een 3D productvideo de ideale tool. Phil & Flo maakt
+      professionele 3D animatiefilms waarbij we het meest geavanceerde product
+      op een duidelijke manier weergeven. Alle unique selling points van je
+      product komen aan bod waarbij we een mix creëren van techniek en
+      toepasbaarheid. Via de nieuwste technieken kunnen we jouw product volledig
+      in 3D weergeven.
+    title: "***3D Product animatie***"
+    displaymedia: custom_video
   - displaymedia: youtube_video
     youtube:
       image:
