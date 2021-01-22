@@ -81,21 +81,6 @@ blocks:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
-    content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
-
-
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
-  - type: content_block
     align: right
     content: >-
       ## Animatie laten maken om ***meer op te vallen***
@@ -175,32 +160,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***De juiste toon*** in een animatie
+      ## Vandaag nog alles weten over een animatie?
 
 
-      Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## De unieke designfilosofie van Phil & Flo
-
-
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Kies de juiste kleuren***
-
-
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
+      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten. 085 -273 8331
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
@@ -219,4 +182,6 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+    contacts:
+      - HZCh75c-T
 ---
