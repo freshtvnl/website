@@ -25,8 +25,8 @@
   {{- partial "meta/twitterCards" . -}}
   {{- partial "meta/favicon" . -}}
   
-  {{ if .Params.seo.noindex}}
   <meta name="robots" content="noindex">
+  {{ if .Params.seo.noindex}}
   {{ end }}
   
   {{- if .IsHome -}}
