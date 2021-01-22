@@ -59,13 +59,15 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ### Waarom Phil & Flo als partner in de zorg communicatie?
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
-    displaymedia: image
+      In deze digitale eeuw worden we dagelijks overspoeld met berichten en video’s op sociale media. Je moet dus echt iets unieks te bieden hebben, wil je opgemerkt worden. Wij van Phil & Flo zetten daarom in op creatieve, persoonlijke en innovatieve animaties en films. We blijven op de hoogte van de nieuwste technieken en mogelijkheden zodat jouw boodschap ook echt aankomt bij de beoogde doelgroep. We leveren niet alleen een animatie of video op, maar helpen je ook om deze effectief in te zetten in online marketingcampagnes. We kunnen je geheel ontzorgen als het gaat om videomarketing, en bieden passende oplossingen voor elk budget. Misschien nog wel het belangrijkste, we zijn de leukste videomarketeers van Nederland! Neem contact met ons op, en we helpen je met jouw uitdagingen en wensen.
+    displaymedia: youtube_video
     image:
       source: images/peter-suzan-kopie.jpg
+    youtube:
+      id: dEjwtwU7g-M
   - type: content_block
     align: left
     content: >-
