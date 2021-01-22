@@ -1,16 +1,18 @@
 ---
-title: Landing page 27
-slug: Bedrijfsfilm laten maken
+title: Personalized video
+slug: Personalized video
 draft: false
 id: 4awsNM1212vv3
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    title: "***Personalized video***"
+    content: Voor organisaties is het belangrijk om zich te focussen op het creëren
+      van een echt, interactief en vooral persoonlijk dialoog met de klant. Deze
+      communicatie moet toegankelijk zijn en voor iedereen gemakkelijk te
+      begrijpen. Het is een stuk service die niet langer alleen maar wordt
+      verwacht; daarentegen, het is een vereiste. Phil & Flo haakt hier handig
+      op in. Wij laten in een personalized video aan je doelgroep zien hoe uniek
+      je bent.
   - type: content_block
     align: left
     content: >-
