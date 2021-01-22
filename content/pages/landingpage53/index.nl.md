@@ -1,5 +1,5 @@
 ---
-title: Landing page 53
+title: Animatie Groningen
 slug: landingpage
 weight: 1
 draft: false
