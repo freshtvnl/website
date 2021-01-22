@@ -1,6 +1,6 @@
 ---
-title: Landing page 60
-slug: landingpage
+title: Educatieve animatiefilm maken
+slug: Educatieve animatiefilm maken
 weight: 1
 draft: false
 id: wvUKuLAzh60
@@ -10,17 +10,17 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## ***Educatieve*** animatiefilm maken
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Een pakkende intro, passende voice-over en iets duidelijk maken dat zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie animatiefilm maken is dat het prettig is om naar te kijken. Wie is er inmiddels niet met animatie op gegroeid? Wij in ieder geval wel!
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Voordelen van een educatie animatiefilm maken
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Het is niet altijd eenvoudig om een gecompliceerd onderwerp even in een paar zinnen aan je doelgroep uit te leggen. Laat staan dat die boodschap blijft hangen bij jouw publiek. Door een educatie animatiefilm te maken kun je je doelgroep overtuigen met een ultrakorte, glasheldere en visuele uitleg.Animatie heeft namelijk de eigenschap niets tot de verbeelding toe te laten. Met andere woorden: animatie kan inzicht geven in zaken wat het menselijk oog niet kan waarnemen.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -43,10 +43,10 @@ blocks:
       text: Lees hier meer
       type: button
     content: >-
-      ## ***3D Animatie***
+      ## ***Educatieve animatiefilm*** houdt de aandacht vast
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Als docent, trainer of opleider wil je eigenlijk in zo’n kort mogelijk tijdsbestek iets duidelijk maken aan je publiek. Het is natuurlijk al helemaal mooi als iedereen je meteen begrijpt in wat je duidelijk wilt maken. Een simpele tekening zegt vaak al meer dan duizend woorden en stel je eens voor wat je in een minuut visueel teweeg zou kunnen brengen. En weeg dat eens af tegen in de hoeveelheid energie die je er in moet steken om iets met woorden en teksten onomwonden duidelijk te maken. Wij snappen dat het rekensommetje snel is gemaakt.
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
@@ -56,19 +56,20 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Virtual Reality Animatie***
+      ## ***Educatie*** is nooit meer saai
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
-    displaymedia: youtube_video
+      In ieder geval niet met Phil & Flo, dat mag je van ons aannemen. Wil je eens een verhelderend gesprek over het visualiseren van jouw droge educatieve materie? Kom in contact en laat weten welke uitdaging jij voor ons in petto hebt.
+    displaymedia: custom_video
     video:
       autoplay: true
+      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: null
   - type: content_block
     align: right
     content: >-
