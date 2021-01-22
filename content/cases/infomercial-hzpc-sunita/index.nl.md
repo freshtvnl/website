@@ -3,6 +3,8 @@ title: Infomercial HZPC sunita
 slug: Infomercial hzpc sunita
 draft: false
 id: E10s9zxwT
+image:
+  source: images/hzpc.jpg
 color: orange
 branch: CA0ObKsX0
 blocks:
