@@ -47,13 +47,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ## ***Zorgproduct*** of dienstverlening
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
-    displaymedia: image
+      Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een 2D animatie, 3D animatie of Virtual Reality-animatie. We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
+    displaymedia: youtube_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    youtube:
+      id: zCAbmUrj74g
   - type: content_block
     align: right
     content: >-
