@@ -10,10 +10,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Explanimation laten maken
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      In iedere organisatie zit een verhaal dat verteld moet worden. Een ‘explanimation’ (explanation + animation) is eigenlijk een fancy woord voor een uitleganimatie. Het is een korte animatievideo waarin je heel snel uitlegt hoe complexe producten, diensten, systemen of processen werken. Ook kun je een explanimation laten maken om een samenvatting van een jaarverslag of ingewikkeld rapport te presenteren en inzichtelijk te maken. In ieder geval is een explanimation laten maken vaak de beste manier om snel en duidelijk iets uit te leggen. Goed begrepen worden door je klanten is essentieel voor elk bedrijf, maar keer op keer je verhaal vertellen is best wel vermoeiend. Je hebt niet altijd zicht of je accountmanagers altijd het juiste verhaal vertellen. Daarbij komt dat niet iedereen direct alles wat je verkoopt of aanbiedt begrijpt. Door het gebruik van tekst, beeld en geluid in je eigen huisstijl wordt je boodschap zo effectief mogelijk gecommuniceerd. Phil & Flo brengt jouw verhaal tot leven.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -21,47 +21,28 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
+      ## De kracht van een ***explanimation*** laten maken
 
 
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
+      **Storytelling werkt**, weten we inmiddels. Onze hersenen zoeken continu naar verhalen om informatie te begrijpen en op te slaan in ons brein. Verhalen triggeren ons ook om de gegeven feiten in een verhaal op onszelf of een herkenbare situatie te projecteren. Daarom komen we bij Phil & Flo in een explanimation niet met cijfertjes, maar met verhalen. Wij wéten dat video geschikt is om ervaringen, sferen en gevoelens mee over te brengen.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     content: >-
-      ## Animatie laten maken om ***meer op te vallen***
+      ## Op reis
 
 
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Hoe werkt*** een animatie laten maken?
+      Phil & Flo neemt je mee op reis naar het uiteindelijke doel wat jij met je explanimation wilt bereiken. Wij zorgen ervoor dat jouw verhaal én uitleg blijven hangen. [Animatie](https://www.philenflo.nl/animatie-laten-maken/) leent zich er daarnaast goed voor om de visuele identiteit van je bedrijf of organisatie naar voren te laten komen.
 
 
-      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## Waarom werkt een ***animatie laten maken***?
-
-
-      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
+      Wij denken met je mee over hoe wij je van de concurrent kunnen onderscheiden. In uiteenlopende designs – van heel gedetailleerd tot erg abstract – geven we jouw klant uitleg over uiteenlopende onderwerpen. Een explanimation laten maken is de ideale tool om binnen één a twee minuten je boodschap helder over te brengen op je doelgroep.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
