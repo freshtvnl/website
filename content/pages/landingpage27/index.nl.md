@@ -22,27 +22,27 @@ blocks:
       Een personalized video kun je volgens ons vergelijken met het krijgen van een ouderwets, handgeschreven verjaardagskaartje. Iemand is jouw verjaardag niet vergeten en heeft de moeite genomen om je persoonlijk te feliciteren. Datzelfde gevoel wanneer zo’n kaartje op je deurmat valt, willen we bij Phil & Flo ook bij jou en je klanten achterlaten. In een personalized video spreken we mensen persoonlijk aan, wist je dat maar liefst 85% van de doelgroep klikt op een persoonlijke video vanuit een mailing?
     displaymedia: image
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/inge-sophie-kopie.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Een streepje voor met personalized video
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Onze professionals stemmen een gepersonaliseerde video af op degene die de video bekijkt. Ze zijn namelijk gebaseerd op informatie uit bijvoorbeeld jouw CRM-systeem en ze geven ons relevante inzichten om boeiende video’s voor diverse zakelijke doelen te creëren. Dankzij de nieuwste technieken kunnen we *real time* deze video’s bijsturen of wijzigen. Je klanten kunnen dan niet anders dan de video opmerken wanneer je ze direct aanspreekt. Mochten er bijvoorbeeld klantgegevens veranderen, dan past ons systeem de gepersonaliseerde boodschap automatisch aan.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
   - type: content_block
     align: left
-    content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
-
-
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+    content: Een persoonlijke video kan je inzetten om bijvoorbeeld veelgestelde
+      vragen in video’s te beantwoorden. Op basis van een naam voelen de klanten
+      zich aangesproken. En zo helpen we je om werkdruk weg te nemen of kosten
+      te verlagen bij de helpdesk. **Als organisatie heb je zo een streepje voor
+      en is je klant eerder geneigd iets voor je terug te doen.**
     displaymedia: image
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: images/feestje-phil-en-flo.jpg
   - type: content_block
     align: right
     content: >-
