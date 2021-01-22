@@ -1,8 +1,10 @@
 ---
-title: employer branding chipsoft
-slug: employer branding chipsoft
+title: Employer branding chipsoft
+slug: Employer branding chipsoft
 draft: false
 id: 6ODogkb7_
+image:
+  source: images/employer-branding-chipsoft.jpg
 color: blue
 branch: YBLABQPne
 blocks:
