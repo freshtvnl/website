@@ -3,6 +3,7 @@ title: employer branding chipsoft
 slug: employer branding chipsoft
 draft: false
 id: 6ODogkb7_
+color: blue
 branch: YBLABQPne
 blocks:
   - type: hero_block
