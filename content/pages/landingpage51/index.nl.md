@@ -1,6 +1,6 @@
 ---
-title: Landing page 51
-slug: landingpage
+title: Animatiefilm laten maken
+slug: Animatiefilm laten maken
 weight: 1
 draft: false
 id: wvUKuLAzh51
@@ -10,17 +10,17 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## Een effectieve ***animatiefilm*** laten maken
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Animaties zijn er in vele soorten en maten, maar hebben allemaal een gelijksoortig doel: het helder en effectief overbrengen van een boodschap. Een animatiefilm is een fantastische manier om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te leggen, of een proces te illustreren. Phil & Flo maakt professionele animaties voor al deze doeleinden. Onze animatiefilms zijn creatief, divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over dan je met alleen tekst bereikt.
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## De ***voordelen*** van een animatiefilm
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Het menselijk brein denkt graag in verbanden. Als je die verbanden zelf uit tekst moet halen, kost dat veel meer moeite dan wanneer je ze voor je ziet. Als je dus wilt dat je boodschap goed overkomt, en beter blijft hangen, kies je het beste voor een animatiefilm. Met de visuele ondersteuning van bewegende beelden lukt het veel beter om een moeilijk concept uit te leggen, of de voordelen van een product te laten zien. Je doelgroep vindt een animatiefilm over het algemeen leuker, interessanter en makkelijker te begrijpen dan tekst of een diapresentatie.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
