@@ -1,6 +1,6 @@
 ---
-title: 3D product animatie
-slug: 3D product animatie
+title: 3D productvideo
+slug: 3D productvideo
 weight: 1
 draft: false
 id: wvUKuLAzh57
