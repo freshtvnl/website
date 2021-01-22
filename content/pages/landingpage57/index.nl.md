@@ -81,7 +81,7 @@ blocks:
       Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
+      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/
