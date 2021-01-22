@@ -120,10 +120,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Ongekende mogelijkheden*** met het laten maken van een animatie
+      ## Bereik en inzet van je animatiefilm
 
 
-      Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
+      Als de animatiefilm eenmaal af is, wil je er natuurlijk mee aan de slag. Ook daar kunnen we je bij helpen. Als je een video handig gebruikt op je website, vergroot je namelijk je vindbaarheid in zoekmachines. Ook kan het zomaar zijn dat je animatie veel likes en shares krijgt op LinkedIn, Facebook en [Instagram](https://www.freshtv.nl/instagram-video-laten-maken/), als je deze in een social media campagne inzet. Wij helpen je op weg met het doeltreffend gebruiken van je animatie, en het vergroten van je bereik. Wij vinden het immers ook zonde als niemand de animatiefilm zou zien.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
