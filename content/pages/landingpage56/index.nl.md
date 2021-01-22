@@ -37,16 +37,16 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     content: >-
-      ## ***3D Animatie***
+      ## ***Bedrijfsfilm of animatie*** Amsterdam
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Een uitstekende manier om je bedrijf te presenteren is met een animatiefilm. De meeste mensen zijn visueel ingesteld, en kijken liever naar een luchtig en kort filmpje dan dat ze een saaie tekst lezen. Dat geldt ook voor jouw doelgroep. Laat je dus van je luchtige kant zien met een animatiefilm. Door zo je verhaal te vertellen, maak je een veel diepere connectie met potentiële opdrachtgevers en andere zakelijke relaties.
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
