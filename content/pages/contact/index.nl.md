@@ -3,17 +3,17 @@ title: Contact
 slug: contact
 id: 8zohO6MTO
 image:
-  source: images/chewy-kiqjfzbii9w-unsplash.jpg
-  alt: Dit is een hond
+  source: ""
+  alt: ""
 blocks:
-  - type: hero_block
-    title: Contact
-    content: "## Neem contact op met Phil & Flo!"
-    youtube:
-      id: ""
+  - type: content_block
+    align: center
+    content: "## ***Neem contact op met onze studio.***"
     displaymedia: image
-    image:
-      source: images/aron-sophie.jpg
+    youtube:
+      image:
+        source: images/aron-sophie.jpg
+    form: 2nOvI3M4P
   - type: selectedreviews_block
     title: reviews
     items:
