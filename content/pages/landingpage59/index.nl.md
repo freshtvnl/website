@@ -1,6 +1,6 @@
 ---
-title: Landing page 59
-slug: landingpage
+title: Animatie studio in Den Haag
+slug: Animatie studio in Den Haag
 weight: 1
 draft: false
 id: wvUKuLAzh59
@@ -10,17 +10,17 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## Animatie studio Den Haag
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Zoek je een animatiestudio in Den Haag? De animatiespecialisten van Phil en Flo staan klaar om voor bedrijven, organisaties en ondernemers in Den Haag pakkende animatiefilms te maken.
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Animatie studio gezocht Den Haag
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Wil je jezelf echt op de kaart zetten? Animaties zijn een sterke toevoeging aan je marketing, online content en sales tools. Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen. Wij werken graag met bedrijven, overheid en semi-overheid en zijn goed in zowel commerciële, zakelijke als educatieve animaties.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -43,10 +43,10 @@ blocks:
       text: Lees hier meer
       type: button
     content: >-
-      ## ***3D Animatie***
+      ## Animatie studio Den Haag en omgeving
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Omdat Phil & Flo diverse projecten in uitvoer heeft voor de overheid, is het fijn dat we een animatiestudio dichtbij Den Haag hebben, in Rotterdam. Voor het ontwikkelen van concepten en het bespreken van strategie en scripts werkt persoonlijk overleg altijd nog het beste. Maar ook online hebben we alle tools om effectief te communiceren over je animatie. Wij betrekken je in alle stappen en verwerken je feedback. Zo streven we naar een unieke animatie die goed bij je past.
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
@@ -56,10 +56,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Virtual Reality Animatie***
+      ## Animatie studio en meer
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      Phil & Flo doet meer dan alleen maar het maken van pakkende animaties. We zijn expert op het gebied van videomarketing. We weten dus als geen andere animatiestudio (in Den Haag of elders) hoe je een goede animatie in elkaar zet om je doelgroep te bereiken. En we helpen je op weg met het succesvol inzetten van de animatie. Het zou toch zonde zijn als je een animatie laat maken die niemand ziet?
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -72,29 +72,14 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Meer weten over onze animatiestudio?
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      We zijn trots op ons werk, daarom kun je onze cases ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag meer in persoon over wat we doen en wat we voor jou kunnen betekenen.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
-
-
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
   - type: content_block
     align: right
     content: >-
