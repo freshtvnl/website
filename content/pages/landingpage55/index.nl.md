@@ -17,36 +17,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Waarom een ***uitleganimatie*** laten maken?
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
-
-
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Animatie laten maken om ***meer op te vallen***
-
-
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+      De toepassingen van een uitleganimatie zijn super uitgebreid; of het nu gaat om het communiceren van een ingewikkelde boodschap of het verduidelijken van een product of dienst. Wij maken door middel van onze unieke uitleganimaties op een laagdrempelige en vooral heldere manier inzichtelijk wat jij wilt vertellen. Zo wordt jouw verhaal als uitleganimatie niet alleen toegankelijk, maar ook aantrekkelijk!
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
@@ -54,46 +28,13 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Hoe werkt*** een animatie laten maken?
+      ## ***Uitleganimatie*** maken van A tot Z
 
 
-      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
+      Wil je een succesvolle uitleganimatie laten maken? Phil & Flo Creative Studio regelt het voor je. Iedere uitleganimatie is maatwerk en gemaakt in de huisstijl van jouw bedrijf. Dit betekent dat onze hoogwaardige uitlgeanimaties vanaf het begin voor jou zijn ontworpen en gecreëerd door onze vakmensen. Daarnaast zijn we als videomarketing specialist uitstekend in staat om je uitleganimatie op een succesvolle manier te plaatsen, zodat je video ook echt gezien wordt!
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## Waarom werkt een ***animatie laten maken***?
-
-
-      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
-
-
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Ongekende mogelijkheden*** met het laten maken van een animatie
-
-
-      Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
