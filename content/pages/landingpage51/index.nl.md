@@ -31,35 +31,24 @@ blocks:
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+  - type: content_block
+    align: right
     content: >-
-      ## ***3D Animatie***
+      ## Gepersonaliseerde animatiefilm
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
+      Phil & Flo maakt geen animatiefilms waarvan er dertien in een dozijn gaan. Iedere animatiefilm die uit de creatieve geesten van onze professionals komt, is uniek. Om dat te bereiken, gaan we intensief met je in gesprek over het doel, de stijl en het publiek van de animatie die je wilt. Met een standaardanimatie loop je veel eerder het risico dat je minder authentiek, saai, of goedkoop overkomt op je doelgroep. Mensen haken dan sneller af. Daarom geven we de voorkeur aan een gepersonaliseerde aanpak.
+    displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
   - type: content_block
     align: left
     content: >-
-      ## ***Virtual Reality Animatie***
+      ## Een professioneel resultaat
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      Misschien zie je een beetje op tegen de kosten. Maar als je kiest voor een animatiefilm van mindere kwaliteit, loop je het risico dat je onprofessioneel overkomt, en daar knappen mensen vaak op af. Zo loop je dus het risico dat je, in plaats van je doelgroep te vergroten, deze juist verkleint en mensen afschrikt. Dat kost je uiteindelijk nog meer. Daarom kun je beter kiezen voor een professioneel bedrijf, zoals Phil & Flo. Wij hebben de ervaring en expertise om jouw wensen en eisen te begrijpen, maar we kunnen ons ook in de klant inleven. En we maken natuurlijk prachtige animaties 😉
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -67,19 +56,8 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Juist voor ***online doelgroep***
-
-
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-      autoplay: true
+      text: Lees hier meer
+      type: null
   - type: content_block
     align: left
     content: >-
