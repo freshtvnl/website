@@ -20,13 +20,18 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Videomarketing voor de zorg
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Phil & Flo zet zich al jarenlang in voor verschillende zorginstanties. We helpen je met het uitleggen van producten en diensten of helpen je om geschikte kandidaten te vinden voor jouw vacatures.
+
+
+      Wij zetten succesvolle videocampagnes op, die jouw specifieke doelgroep(en) bereiken. We helpen je van a tot z en tackelen jouw uitdaging middels creatieve videomarketing. Zorgaanbieders zoals het UMCG, PRA Health Science, Chipsoft, Erasmus MC, AMC, Maasstad en Medilime hebben het succes van Phil & Flo al ervaren!
+    displaymedia: youtube_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+    youtube:
+      id: F9_sYXmQRQY
   - type: content_block
     align: right
     content: >-
