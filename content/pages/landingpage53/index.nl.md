@@ -39,14 +39,18 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## In ***stijl*** een animatie laten maken
+      ## Zet je animatie gericht in
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+      Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, Eindhoven of Amsterdam, en we vertellen je graag meer over [animatie](https://www.philenflo.nl/animatie-laten-maken/) en videomarketing voor jouw bedrijf.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: offerte ontvangen
+      type: button
   - type: content_block
     align: right
     content: >-
