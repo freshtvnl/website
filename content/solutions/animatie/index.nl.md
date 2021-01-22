@@ -1,6 +1,6 @@
 ---
-title: Animatie
-slug: animatie
+title: Animatie laten maken
+slug: Animatie laten maken
 weight: 1
 draft: false
 id: wvUKuLAzh
