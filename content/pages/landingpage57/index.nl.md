@@ -44,7 +44,7 @@ blocks:
     image:
       source: ""
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Virtual Reality Animatie***
 
@@ -60,7 +60,7 @@ blocks:
       text: Lees hier mee
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Een 3D productvideo inzetten als instructievideo
 
@@ -73,7 +73,7 @@ blocks:
     youtube:
       id: nCiuDz461D8
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Waarvoor kun je een ***animatie laten maken***?
 
@@ -88,7 +88,7 @@ blocks:
       text: offerte ontvangen
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Samen aan de slag met Phil & Flo
 
@@ -99,7 +99,7 @@ blocks:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Kom in contact
 
