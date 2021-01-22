@@ -1,7 +1,7 @@
 ---
 title: bedankt-invullen-contactformulier
 slug: bedankt-invullen-contactformulier
-draft: true
+draft: false
 id: mZIdByQL3
 blocks:
   - type: content_block
