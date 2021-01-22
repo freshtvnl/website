@@ -7,44 +7,6 @@ id: wvUKuLAzh52
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
-    content: >-
-      ## ***3D Animatie***
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
-    video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
-      autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Virtual Reality Animatie***
-
-
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
-    displaymedia: youtube_video
-    video:
-      autoplay: true
-    youtube:
-      id: 0ljMPjPQjRI
-    cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
   - type: content_block
     align: right
     content: >-
@@ -195,4 +157,10 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+    contacts:
+      - HZCh75c-T
+  - items:
+      - DG0aSzvMj
+      - sCR0-5I1N
+      - fm2wFFmdb
 ---
