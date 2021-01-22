@@ -1,6 +1,6 @@
 ---
-title: Animatie studio in Den Haag
-slug: Animatie studio in Den Haag
+title: Animatie studio Den Haag
+slug: Animatie studio Den Haag
 weight: 1
 draft: false
 id: wvUKuLAzh59
