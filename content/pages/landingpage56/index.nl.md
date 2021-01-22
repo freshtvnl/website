@@ -56,15 +56,15 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Virtual Reality Animatie***
+      ## Employer branding animatie
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      Als werkgever in Amsterdam wil je natuurlijk graag goed voor de dag komen bij potentiële nieuwe collega’s. Hoe ontstijg je het niveau van een tweeregelig cliché in de vacature? Met een [employer branding film](https://www.philenflo.nl/oplossingen/employer-branding/) val je op en breng je authentiek de sfeer in je bedrijf over. Je kunt kiezen voor het gebruik van animatie om een iets luchtigere toon aan te slaan: volledig of naast echte videobeelden. Het is natuurlijk het meest authentiek als je huidige collega’s klanten of leveranciers aan het woord laat.
     displaymedia: youtube_video
     video:
       autoplay: true
     youtube:
-      id: 0ljMPjPQjRI
+      id: vAbxnwaoCMQ
     cta:
       url: /vr-animatie-laten-maken/
       text: Lees hier mee
