@@ -39,32 +39,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## In ***stijl*** een animatie laten maken
+      ## De unieke ***designfilosofie*** van Phil & Flo
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Voor wie*** laat je een animatie maken?
-
-
-      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons portfolio voor de uitgebreide stijlen die we hanteren.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***De juiste toon*** in een animatie
-
-
-      Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
+      Goede vormgeving versterkt de betekenis en impact van beeld. Maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je uitleganimatie samen.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
@@ -72,10 +50,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## De unieke designfilosofie van Phil & Flo
+      ## Kleurgebruik in jouw uitleganimatie
 
 
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
+      Ons brein houdt van symmetrie. Daar worden we rustig van. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor chaos, prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kennis van kleur is dus van groot belang. En laten we dat nu net in ons bezit hebben.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
@@ -83,10 +61,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Kies de juiste kleuren***
+      ## Nieuwe ontwikkelingen
 
 
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
+      Ook is het belangrijk dat we weten voor wie de uitleganimatie bedoeld is en waar deze vertoond zal worden. Want de interpretatie van beeld is, net als geschreven en gesproken taal, tijds- en cultuurgebonden. Daarom zijn wij altijd op de hoogte van de nieuwste ontwikkelingen in binnen- en buitenland, bestuderen en beoefenen we verschillende technieken en gaan we graag het avontuur aan.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
