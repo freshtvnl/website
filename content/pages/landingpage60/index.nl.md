@@ -69,7 +69,7 @@ blocks:
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
-      type: null
+      type: button
   - type: content_block
     align: right
     content: >-
