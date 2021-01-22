@@ -1,6 +1,6 @@
 ---
 title: Offerte formulier
-thankyou_page: https://www.google.nl
+thankyou_page: /bedankt-offerte-aanvraag/
 id: F2bycGgYY
-type: "quotation"
+type: quotation
 ---
