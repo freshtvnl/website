@@ -1,6 +1,6 @@
 ---
-title: Landing page 56
-slug: landingpage
+title: Animatie bedrijf Amsterdam
+slug: Animatie bedrijf Amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh56
