@@ -44,26 +44,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
-
-
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
-    displaymedia: image
-    image:
-      source: images/peter-suzan-kopie.jpg
-  - type: content_block
-    align: right
-    content: >-
-      ### ***Je bedrijfsfilm laten maken voor sociale media***
-
-
-      Sociale media zijn niet meer weg te denken uit online marketing. En zeg nou zelf: hoe vaak zie je een stuk tekst gedeeld worden, in vergelijking met filmpjes? Als je bedrijfsfilm een goed verhaal vertelt of grappig of spannend genoeg in elkaar zit, zullen mensen deze gaan delen op sociale media. Dat kan zelfs leiden tot een sneeuwbaleffect en dan vergroot je het bereik exponentieel. Door te kiezen voor een bedrijfsfilm van Phil & Flo, vergroot je je kansen om opgepikt te worden. Wij zetten je liever op de kaart als trending dan als saai en statisch.
-    displaymedia: image
-    image:
-      source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
       - PZcCTyF1B
