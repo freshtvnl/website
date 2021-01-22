@@ -10,24 +10,24 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## Animatie bedrijf in ***Amsterdam***: Phil & Flo
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Wil je jezelf op een originele manier op de kaart zetten? Phil & Flo maakt voor jou een animatie om je bedrijf in Amsterdam te promoten. Een animatie is vaak een leukere, luchtige manier dan alleen videobeelden, en geeft je bedrijf een frisse, levendige indruk.
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Animatie voor bedrijf in ***Amsterdam***
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Wil je jezelf op een originele manier op de kaart zetten? Phil & Flo maakt voor jou een animatie om je bedrijf in Amsterdam te promoten. Een [animatie](https://www.philenflo.nl/animatie-laten-maken/) is vaak een leukere, luchtige manier dan alleen videobeelden, en geeft je bedrijf een frisse, levendige indruk. Er is van alles mogelijk: [2D-animatie](https://www.philenflo.nl/2d-animatie/), [3D-animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) en zelfs een combinatie met echte filmbeelden. Op ons kantoor in Amsterdam laten we je graag voorbeelden zien en vertellen je er alles over.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
