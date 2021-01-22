@@ -19,6 +19,14 @@ blocks:
   - type: content_block
     align: center
     form: 2nOvI3M4P
+    content: ""
+  - type: selectedreviews_block
+    title: reviews
+    items:
+      - 4vF9wbJjI
+    more_items: false
+  - type: content_block
+    align: center
     content: |-
       ### ***Groningen*** (Hoofdkantoor)
 
@@ -35,14 +43,13 @@ blocks:
       Hurksestraat 64\
       5652 AL Eindhoven
 
+
+
+      **Algemene bedrijfsinformatie**
+
       KVK Nummer: 80801331\
       BTW Nummer: NL861804983B01\
       Impressum Deutschland: Direktor Peter de Graaf
-  - type: selectedreviews_block
-    title: reviews
-    items:
-      - 4vF9wbJjI
-    more_items: false
 menu:
   main:
     weight: 7
