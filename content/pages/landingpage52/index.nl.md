@@ -64,36 +64,18 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Ongekende mogelijkheden*** met het laten maken van een animatie
+      ## Wat is ***jouw*** verhaal?
 
 
-      Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## In ***stijl*** een animatie laten maken
-
-
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Voor wie*** laat je een animatie maken?
-
-
-      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons portfolio voor de uitgebreide stijlen die we hanteren.
+      Benieuwd naar hoe wij verder te werk gaan? Of wil je gewoon even sparren over de invalshoek van jouw explanimation? Laat je gegevens achter en wij nmen samen je kansen met je door.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: left
     content: >-
