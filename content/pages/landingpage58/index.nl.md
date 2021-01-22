@@ -13,62 +13,24 @@ blocks:
       ## ***2D animatie*** laten maken
 
 
-      Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk. Lees verder onder deze voorbeelden.
+      Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## 2D animatie
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Een 2D animatie kun je gebruiken om een stukje informatie levendiger en duidelijker te presenteren. Je spreekt er meer mensen mee aan en kunt er beter iets mee uitleggen dan met alleen tekst. Het werkt ook beter dan een illustratie, door de toevoeging van bewegende elementen, voice-over en muziek en geluid. Als je een uitleg tot promotie hebt waar mensen in tekst- of illustratievorm sneller aan voorbijgaan, kun je er dus beter kiezen om een 2D-animatie te laten maken.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
-    content: >-
-      ## ***3D Animatie***
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
-    video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
-      autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Virtual Reality Animatie***
-
-
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
-    displaymedia: youtube_video
-    video:
-      autoplay: true
-    youtube:
-      id: 0ljMPjPQjRI
-    cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
   - type: content_block
     align: right
     content: >-
@@ -219,4 +181,6 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+    contacts:
+      - HZCh75c-T
 ---
