@@ -1,6 +1,6 @@
 ---
-title: Landing page 57
-slug: landingpage
+title: 3D product animatie
+slug: 3D product animatie
 weight: 1
 draft: false
 id: wvUKuLAzh57
@@ -14,6 +14,9 @@ blocks:
 
 
       Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
   - type: content_block
     align: left
     content: >-
