@@ -98,10 +98,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Waarom werkt een ***animatie laten maken***?
+      ## Concept animatiefilm
 
 
-      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
+      Een animatiefilm maken is een kunst. Het begint met het uitdenken van een concept. Dat is de fase waar jij als opdrachtgever ook nauw bij wordt betrokken. We gaan samen aan de slag om zo helder mogelijk je ideeën, wensen en het uiteindelijke onderwerp in kaart te brengen. Op basis van de concepten, scripts en storyboards die we zo maken, kunnen onze creatieve animators met de nieuwste technieken een fraaie en aansprekende animatie gaan maken. Dankzij een goed concept komt daarin de boodschap helder en duidelijk over.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
