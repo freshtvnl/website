@@ -76,43 +76,6 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
-  - type: content_block
-    align: left
-    content: >-
-      ## ***De juiste toon*** in een animatie
-
-
-      Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## De unieke designfilosofie van Phil & Flo
-
-
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Kies de juiste kleuren***
-
-
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: Contact opnemen
-      type: button
   - type: contact_block
     contacts:
       - HZCh75c-T
