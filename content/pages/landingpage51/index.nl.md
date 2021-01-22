@@ -27,7 +27,7 @@ blocks:
     cta:
       url: /2d-animatie/
       text: Lees meer
-      type: button
+      type: null
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
