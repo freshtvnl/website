@@ -1,6 +1,6 @@
 ---
-title: infomercial hzpc sunita
-slug: infomercial hzpc sunita
+title: Infomercial HZPC sunita
+slug: Infomercial hzpc sunita
 draft: false
 id: E10s9zxwT
 color: orange
