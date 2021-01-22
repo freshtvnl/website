@@ -8,7 +8,27 @@ image:
 blocks:
   - type: content_block
     align: left
-    content: "## ***Neem contact op met onze studio.***"
+    content: |-
+      ## ***Neem contact op met onze studio.***
+
+      ### ***Groningen*** (Hoofdkantoor)
+
+      Oude-Boteringestraat 71\
+      9712 GG Groningen
+
+      ### ***Amsterdam***
+
+      Herengracht 420\
+      1017 BZ Amsterdam
+
+      ### ***Eindhoven***
+
+      Hurksestraat 64\
+      5652 AL Eindhoven
+
+      KVK Nummer: 80801331\
+      BTW Nummer: NL861804983B01\
+      Impressum Deutschland: Direktor Peter de Graaf
     displaymedia: image
     youtube:
       image:
