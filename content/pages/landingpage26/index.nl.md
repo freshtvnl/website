@@ -13,20 +13,20 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Groot ***succes***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Een video die persoonlijk is gemaakt voor klanten wordt gemiddeld 85% vaker geopend dan video’s die dat niet zijn. Je klant voelt zich persoonlijk aangesproken en de betrokkenheid bij je bedrijf wordt op die manier verhoogd. Het zal je dan ook niet verbazen dat klanten na het zien van een gepersonaliseerde video eerder tot actie over zullen gaan!
     displaymedia: image
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/inge-bank.jpg
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ## Van concept tot ***uitvoering***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Op zoek naar een creatief bureau dat jou helpt bij het personaliseren van jouw video? Phil & Flo regelt het voor je. We helpen je een video te creëren van concept tot uitvoering. Dankzij onze jarenlange ervaring en de nieuwste technieken zijn we in staat om video’s realtime aan te passen, zodat je je film ook op lange termijn kan inzetten!
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
