@@ -1,6 +1,6 @@
 ---
-title: Landing page 54
-slug: landingpage
+title: Animatie video
+slug: Animatie video
 weight: 1
 draft: false
 id: wvUKuLAzh54
@@ -10,10 +10,10 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## ***Animatie video*** laten maken
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Wil je je klanten op een aansprekende manier bereiken? Met een animatie-video kom je helder, luchtig en opvallend voor de dag.
   - type: content_block
     align: left
     content: >-
