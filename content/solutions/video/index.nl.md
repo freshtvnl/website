@@ -1,5 +1,5 @@
 ---
-title: Video
+title: Video laten maken
 slug: video laten maken
 weight: 2
 draft: false
@@ -85,4 +85,32 @@ blocks:
       - cc-ik-qqS
       - E9m0t0ALL
     more_items: true
+  - type: content_block
+    align: left
+    content: >-
+      ## Vermenselijk je merk met een video
+
+
+      Vandaag de dag shoppen, werken en communiceren mensen steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een videofilm is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze videofilm laten maken.
+  - type: content_block
+    align: right
+    content: >-
+      ## Videofilm laten maken van A tot Z
+
+
+      Dus je hebt besloten dat het tijd is om een videofilm te laten maken? Mooi! Phil & Flo kijkt welke videofilm het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we videofilms die je niet meer loslaten.
+  - type: content_block
+    align: left
+    content: >-
+      ## Ook een videofilm laten maken?
+
+
+      Wil je een videofilm laten maken die scoort? Kom een kopje koffie drinken in Amsterdam, Eindhoven of Groningen en ontdek welk soort videofilm het beste bij jou past!
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
