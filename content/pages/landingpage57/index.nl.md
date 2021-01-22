@@ -10,34 +10,19 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## ***3D Product animatie***
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Wil je jouw nieuwste innovatie op een unieke manier met de wereld delen? Dan is een 3D productvideo de ideale tool. Phil & Flo maakt professionele 3D animatiefilms waarbij we het meest geavanceerde product op een duidelijke manier weergeven. Alle unique selling points van je product komen aan bod waarbij we een mix creëren van techniek en toepasbaarheid. Via de nieuwste technieken kunnen we jouw product volledig in 3D weergeven.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-  - type: content_block
-    align: left
-    content: >-
-      ## ***2D animatie***
-
-
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
-    displaymedia: custom_video
-    image:
-      source: images/2d-animatie-laten-maken.jpg
-    cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
-    video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
-  - displaymedia: custom_video
+  - displaymedia: youtube_video
     youtube:
       image:
         source: images/3d-animatie-laten-maken.jpg
+      id: E6m4y9RaiII
     iframe:
       source: ""
     align: left
@@ -46,16 +31,16 @@ blocks:
       text: Lees hier meer
       type: button
     content: >-
-      ## ***3D Animatie***
+      ## Introduceer je product via een 3D productvideo
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Bij een 3D productvideo draait alles om jouw product. Waar het bij een commercial vooral gaat om branding, is het doel van een productvideo om belangrijke informatie over je product te delen. Dat neemt natuurlijk niet weg dat je een productvideo tevens kunt gebruiken ter promotie. Dit kan juist een waardevolle aanvulling zijn op je marketingplan. Een productvideo is ideaal om jouw doelgroep kennis te laten maken met je product of assortiment. Je kunt alle voordelen van je product tonen in deze video. Elk detail wordt belicht van toepassing tot kwaliteit, zodat het product effectief onder de aandacht wordt gebracht. Bekijk hiernaast de 3D video die we, in slechts dertig dagen, hebben gerealiseerd voor EllenMatic.
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: left
     content: >-
