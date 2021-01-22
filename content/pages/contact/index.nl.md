@@ -8,9 +8,18 @@ image:
 blocks:
   - type: content_block
     align: left
+    content: "## Neem ***contact*** op met onze studio."
+    displaymedia: image
+    youtube:
+      image:
+        source: images/aron-sophie.jpg
+    form: ""
+    image:
+      source: images/aron-sophie.jpg
+  - type: content_block
+    align: center
+    form: 2nOvI3M4P
     content: |-
-      ## ***Neem contact op met onze studio.***
-
       ### ***Groningen*** (Hoofdkantoor)
 
       Oude-Boteringestraat 71\
@@ -29,16 +38,6 @@ blocks:
       KVK Nummer: 80801331\
       BTW Nummer: NL861804983B01\
       Impressum Deutschland: Direktor Peter de Graaf
-    displaymedia: image
-    youtube:
-      image:
-        source: images/aron-sophie.jpg
-    form: ""
-    image:
-      source: images/aron-sophie.jpg
-  - type: content_block
-    align: center
-    form: 2nOvI3M4P
   - type: selectedreviews_block
     title: reviews
     items:
