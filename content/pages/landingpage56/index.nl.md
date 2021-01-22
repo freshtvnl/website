@@ -66,16 +66,16 @@ blocks:
     youtube:
       id: vAbxnwaoCMQ
     cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Animatie en video inzetten
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      Met een professionele video of animatie voor je bedrijf kun je jezelf niet alleen online presenteren: Je kunt ze ook meegeven met je accountmanagers op tablet, voor een klantbezoek. Of je gebruikt ze bij presentaties en op beurzen. Wij weten goed wat daarvoor werkt, en wat niet. Kom dus gerust langs op ons kantoor aan de Herengracht in Amsterdam, of nodig ons uit bij jou op locatie om vrijblijvend de mogelijkheden te ontdekken.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
