@@ -50,10 +50,13 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
+      ## Van script tot ***scenario***
 
 
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
+      Uit onderzoek blijkt dat mensen gesproken informatie beter onthouden dan geschreven informatie. Ook leidt gesproken informatie tot betere attitudes ten opzichte van de boodschap. We zeggen daarom bij Phil & Flo altijd: een goede voorbereiding is het halve werk.
+
+
+      [Ons team](https://www.philenflo.nl/over-ons/) gaat eerst op zoek naar die herkenbare situatie, zo één waar iedere klant van jouw bedrijf zich mee kan identificeren. Samen creëren we een nieuwe, onderscheidende wereld waarin je net een streepje voor hebt met jouw explanimation. Van script tot scenario en de strategische verspreiding van het eindproduct via social media; wij weten wat er nodig is om succes te boeken.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
