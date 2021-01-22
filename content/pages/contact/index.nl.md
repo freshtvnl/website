@@ -34,6 +34,8 @@ blocks:
       image:
         source: images/aron-sophie.jpg
     form: ""
+    image:
+      source: images/aron-sophie.jpg
   - type: content_block
     align: center
     form: 2nOvI3M4P
