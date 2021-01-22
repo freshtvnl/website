@@ -109,10 +109,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
+      ## Huisstijl en animatie
 
 
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
+      Ook in je animatiefilm wil je aansluiten op je huisstijl. Onze animators zullen zich netjes aan jouw richtlijnen voor visuele uitingen houden: denk aan het kleurenpalet, of het lettertype, als er (spaarzaam) tekst voorkomt in de animatie. Op andere gebieden zijn ze vrijer: de uiteindelijke vormgeving is uiteindelijk een creatief proces. Maar waar ze altijd rekening mee zullen houden, is dat de animatie in toon en stijl bij jouw bedrijf past. Serieus, speels of een beetje luchtig: we stemmen het op jou en je doelgroep af.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
