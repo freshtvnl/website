@@ -131,10 +131,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## In ***stijl*** een animatie laten maken
+      ## Ook een doeltreffende animatiefilm laten maken?
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+      Wil je graag meer weten over wat voor animaties we allemaal maken, en welke daarvan jij zou kunnen gebruiken? Wij vertellen je er graag alles over. Of je nu op zoek bent naar een uitleganimatie, een bedrijfsfilm of je wilt graag meer weten over jouw kansen met videomarketing. Kom gerust langs of neem contact op om te ontdekken wat er allemaal mogelijk is voor jou met een animatiefilm.
     displaymedia: custom_video
     video:
       source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
