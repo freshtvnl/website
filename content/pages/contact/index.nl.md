@@ -7,12 +7,15 @@ image:
   alt: ""
 blocks:
   - type: content_block
-    align: center
+    align: left
     content: "## ***Neem contact op met onze studio.***"
     displaymedia: image
     youtube:
       image:
         source: images/aron-sophie.jpg
+    form: ""
+  - type: content_block
+    align: center
     form: 2nOvI3M4P
   - type: selectedreviews_block
     title: reviews
