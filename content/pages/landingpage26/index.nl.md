@@ -1,6 +1,6 @@
 ---
-title: Landing page 26
-slug: Bedrijfsfilm laten maken
+title: Gepersonaliseerde video
+slug: Gepersonaliseerde video
 draft: false
 id: 4awsNadf1Mvv3
 blocks:
