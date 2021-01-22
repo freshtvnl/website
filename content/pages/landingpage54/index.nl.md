@@ -17,17 +17,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Overtuig met animatie & video
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Wil je je klanten op een aansprekende manier bereiken? Met een animatie-video kom je helder, luchtig en opvallend voor de dag. Het moderne publiek wordt continu bestookt met informatie, dus als jij opvalt en in een zeer korte tijd je boodschap treffend overbrengt, is dat een duidelijke voorsprong op de concurrentie. Animatie & video zijn hiervoor uitermate geschikt. Binnen 40-60 seconden kom je tot de kern, en bereik je je doelgroep veel beter dan met leeswerk.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -37,16 +37,16 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     content: >-
-      ## ***3D Animatie***
+      ## Animatie video en tekst
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Natuurlijk heb je een heleboel te vertellen. Het is dan ook verleidelijk om dat allemaal uit te typen in grote lappen tekst. Maar als je een doelgroep wilt aanspreken, kun je moeilijk verwachten dat die dat allemaal gaan lezen. Waarom ze niet trakteren op een leuk, interessant en bovenal: korte animatie-video, waarin je dezelfde boodschap overbrengt? Dat werkt veel beter in het bereiken van je doelgroep en door de duidelijke toon en sfeer kun je ze ook veel beter overtuigen.
     type: content_block
     video:
       source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
