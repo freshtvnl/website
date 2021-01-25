@@ -8,38 +8,38 @@
 <div class="mt-1">
 
   
-    <form method="post" name="{{$name}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
+    <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" >
     
       {{ if eq $type "quotation"}}
       <div class="grid grid-cols-4 gap-6">
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" name="firstlast_name" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="firstlast_name" name="firstlast_name" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" name="organization" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" name="email" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" name="phonenumber"  required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber"  required>
           </label>
         </div>
         <div class='col-span-4'>
           <label class="block">
             <span >{{ T "notes" }} <span class="text-red-500">*</span></span>
-            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" name="notes"  required></textarea>
+            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
           </label>
         </div>
       </div>
