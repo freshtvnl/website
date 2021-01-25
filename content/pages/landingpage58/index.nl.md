@@ -29,7 +29,7 @@ blocks:
       text: ""
       type: null
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -40,7 +40,7 @@ blocks:
       Visuele elementen zorgen altijd voor een duidelijker geheel. Daarnaast verlevendigen ze een presentatie, en geven deze een luchtig en aantrekkelijk geheel. Kleur, speelse en duidelijke vormen en een prettig achtergrondmuziekje zijn veel fijner om naar te kijken dan alleen saaie tekst. Als je een huisstijl hebt, kunnen de 2D-animatiespecialisten van Phil & Flo daar prima mee uit de voeten. Zo zorg je voor een consistente visuele stijl die doorwerkt in deze vrolijke vorm van videomarketing.
     displaymedia: youtube_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
     youtube:
       id: ZHSWX7R_cwo
@@ -53,7 +53,7 @@ blocks:
       Drie dimensies zijn met de huidige technieken niet per se een grotere uitdaging dan een 2D-animatie. Toch zijn er nog genoeg redenen om het bij twee dimensies te houden. Een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) kan al snel overdreven overkomen, zeker als het voor de animatie niet nodig is om in drie dimensies te werken. Een 2D-animatie heeft een zekere charme die goed werkt en verloren gaat als je voor 3D kiest alleen maar omdat het kan. Bovendien zijn de kosten van 2D vaak minder dan bij 3D.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/
@@ -68,7 +68,7 @@ blocks:
       De specialisten van Phil & Flo adviseren je graag over welke vorm van videomarketing geschikt is voor jou. Wij zijn thuis in allerlei videoproducties zoals bedrijfsfilms, employer branding, 3D- en 2D-animatie. We hebben getalenteerde animators die voor jou een aansprekend filmpje kunnen maken waarin je in stijlvolle 2D-animatie je boodschap kunt overbrengen.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -79,7 +79,7 @@ blocks:
       Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/

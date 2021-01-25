@@ -9,7 +9,7 @@ blocks:
     content: ""
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
+      source_mp4: https://video.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
       autoplay: true
   - type: content_block
     align: center

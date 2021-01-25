@@ -18,7 +18,7 @@ blocks:
       werksfeer. En die film plaats je op Indeed, LinkedIn en Instagram!
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
     align: left

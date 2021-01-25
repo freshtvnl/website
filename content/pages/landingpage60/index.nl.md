@@ -29,7 +29,7 @@ blocks:
       text: Lees meer
       type: button
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - displaymedia: custom_video
     youtube:
@@ -49,7 +49,7 @@ blocks:
       Als docent, trainer of opleider wil je eigenlijk in zo’n kort mogelijk tijdsbestek iets duidelijk maken aan je publiek. Het is natuurlijk al helemaal mooi als iedereen je meteen begrijpt in wat je duidelijk wilt maken. Een simpele tekening zegt vaak al meer dan duizend woorden en stel je eens voor wat je in een minuut visueel teweeg zou kunnen brengen. En weeg dat eens af tegen in de hoeveelheid energie die je er in moet steken om iets met woorden en teksten onomwonden duidelijk te maken. Wij snappen dat het rekensommetje snel is gemaakt.
     type: content_block
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
       autoplay: true
     image:
       source: images/3d-animatie-laten-maken.jpg
@@ -63,7 +63,7 @@ blocks:
     displaymedia: custom_video
     video:
       autoplay: true
-      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
     youtube:
       id: 0ljMPjPQjRI
     cta:

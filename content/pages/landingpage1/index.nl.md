@@ -13,7 +13,7 @@ blocks:
       ons creatieve team.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       source_webm: ""
       autoplay: true
   - type: content_block
@@ -27,7 +27,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -40,7 +40,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -56,7 +56,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -69,7 +69,7 @@ blocks:
     image:
       source: images/peter-suzan-kopie.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -85,7 +85,7 @@ blocks:
     image:
       source: images/inge-bank.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: right

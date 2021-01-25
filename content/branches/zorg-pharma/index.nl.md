@@ -21,7 +21,7 @@ blocks:
     title: De wereld van morgen ***leeft gezond***
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -96,7 +96,7 @@ blocks:
     youtube:
       id: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/

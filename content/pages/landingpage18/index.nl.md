@@ -34,7 +34,7 @@ blocks:
     image:
       source: images/aron-sophie.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-bouw.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw.mp4
       autoplay: true
   - type: content_block
     align: left

@@ -23,7 +23,7 @@ blocks:
       Jij en je accountmanagers weten als geen ander hoe moeilijk het kan zijn om de aandacht te vangen en vast te houden van potentiële klanten. Een animatie vertelt kort en duidelijk alles wat ze moeten weten. Bovendien is het, door een luchtige en speelse presentatie, leuk en aangenaam om naar te kijken. Er is van alles mogelijk: 2D-animatie, 3D, en zelfs animatie vermengd met echte videobeelden. Om te promoten, uit te leggen en te overtuigen.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -34,7 +34,7 @@ blocks:
       De animatiespecialisten van Phil & Flo werken met hoogwaardige software en hardware om onze creatieve ideeën naar een sprankelende animatie te vertalen. Daarbij kunnen we in twee of drie dimensies werken. Wat we kiezen, hangt af van jouw voorkeur, en wat het beste past bij het concept. Met een [2D-animatie](https://www.philenflo.nl/2d-animatie/) kun je vaak een sfeervolle toon zetten, en [3D](https://www.philenflo.nl/3d-animatie-laten-maken/) voegt meer dynamiek toe. Een combinatie van beide kan ook.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -45,7 +45,7 @@ blocks:
       Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, Eindhoven of Amsterdam, en we vertellen je graag meer over [animatie](https://www.philenflo.nl/animatie-laten-maken/) en videomarketing voor jouw bedrijf.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatie-psychische-zorg.mp4
+      source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -56,7 +56,7 @@ blocks:
       Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/

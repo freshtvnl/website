@@ -21,12 +21,12 @@ blocks:
     image:
       source: images/payconiq-innovatieve-tech-phil-en-flo.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
       autoplay: true
     align: left
     content: >-
@@ -55,7 +55,7 @@ blocks:
       De video’s zijn volledig in de betreffende huisstijl van Payconiq opgeleverd, zodat de videocontent naadloos aansluit bij alle andere huisstijldragers.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Payconiq-film3-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film3-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     content: >-

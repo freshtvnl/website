@@ -47,7 +47,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -62,7 +62,7 @@ blocks:
       image:
         source: images/pra-louelle-commercial.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/Commercial-laten-maken.mp4
+      source_mp4: https://video.philenflo.nl/video/Commercial-laten-maken.mp4
       autoplay: true
   - type: content_block
     align: left

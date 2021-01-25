@@ -19,8 +19,8 @@ blocks:
     image:
       source: images/duurzame-energie-dmt-biogas.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
-      source_webm: https://www.philenflo.nl/video/DMT-biogas-Phil-en-Flo.webm
+      source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
+      source_webm: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.webm
       autoplay: true
   - type: content_block
     displaymedia: youtube_video

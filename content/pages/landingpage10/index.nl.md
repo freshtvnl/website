@@ -18,7 +18,7 @@ blocks:
       273 8331
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left

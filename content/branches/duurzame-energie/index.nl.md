@@ -18,7 +18,7 @@ blocks:
       bereiken, of juist die ene angel investor.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
+      source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -41,7 +41,7 @@ blocks:
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
     video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left

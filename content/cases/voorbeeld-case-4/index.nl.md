@@ -19,7 +19,7 @@ blocks:
     title: "***Op zoek naar brugklassers***"
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/Coornhert-opendag-film-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Coornhert-opendag-film-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -47,7 +47,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://www.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left

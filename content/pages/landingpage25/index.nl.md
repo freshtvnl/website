@@ -15,7 +15,7 @@ blocks:
       boodschap écht hangen.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left

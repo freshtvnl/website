@@ -29,7 +29,7 @@ blocks:
       text: ""
       type: null
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - displaymedia: custom_video
     youtube:
@@ -49,7 +49,7 @@ blocks:
       Natuurlijk heb je een heleboel te vertellen. Het is dan ook verleidelijk om dat allemaal uit te typen in grote lappen tekst. Maar als je een doelgroep wilt aanspreken, kun je moeilijk verwachten dat die dat allemaal gaan lezen. Waarom ze niet trakteren op een leuk, interessant en bovenal: korte animatie-video, waarin je dezelfde boodschap overbrengt? Dat werkt veel beter in het bereiken van je doelgroep en door de duidelijke toon en sfeer kun je ze ook veel beter overtuigen.
     type: content_block
     video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
       source: images/3d-animatie-laten-maken.jpg
@@ -78,7 +78,7 @@ blocks:
       Zoekmachines houden meer van film dan je denkt. Ook Google en consorten hebben door dat er een flinke verschuiving aan het plaatsvinden is van tekst richting animatie, video en illustraties. Maar ze kunnen animatie-video’s nog niet zo goed interpreteren. Daarom helpen we zoekmachines een handje op weg, door onze video’s te optimaliseren voor indexatie. Zo brengen wij je content naar een hogere positie in de zoekresultaten met onze animatie-video’s.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -89,7 +89,7 @@ blocks:
       Wij werken altijd in overleg en leveren je maatwerk. Dat doen we omdat we geloven dat standaardanimaties veel minder aansprekend zijn: sterker nog, ze hebben een beetje een goedkope uitstraling en kunnen niet de emotionele connectie maken die een goede, persoonlijke animatie-video wel kan. Bel onze adviseur voor een globale prijsindicatie. 085 - 273 8331
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -100,7 +100,7 @@ blocks:
       Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/

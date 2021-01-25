@@ -29,7 +29,7 @@ blocks:
       text: Lees meer
       type: button
     video:
-      source_mp4: https://www.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - displaymedia: custom_video
     youtube:
@@ -49,7 +49,7 @@ blocks:
       Omdat Phil & Flo diverse projecten in uitvoer heeft voor de overheid, is het fijn dat we een animatiestudio dichtbij Den Haag hebben, in Rotterdam. Voor het ontwikkelen van concepten en het bespreken van strategie en scripts werkt persoonlijk overleg altijd nog het beste. Maar ook online hebben we alle tools om effectief te communiceren over je animatie. Wij betrekken je in alle stappen en verwerken je feedback. Zo streven we naar een unieke animatie die goed bij je past.
     type: content_block
     video:
-      source_mp4: https://www.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
       source: images/3d-animatie-laten-maken.jpg
@@ -78,7 +78,7 @@ blocks:
       We zijn trots op ons werk, daarom kun je onze cases ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag meer in persoon over wat we doen en wat we voor jou kunnen betekenen.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -89,7 +89,7 @@ blocks:
       Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen.
     displaymedia: custom_video
     video:
-      source_mp4: https://www.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/
