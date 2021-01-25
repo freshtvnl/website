@@ -8,14 +8,13 @@
 <div class="mt-1">
 
   
-    <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" >
-    
+    <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
       {{ if eq $type "quotation"}}
       <div class="grid grid-cols-4 gap-6">
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="firstlast_name" name="firstlast_name" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" required>
           </label>
         </div>
         <div class='col-span-2'>
