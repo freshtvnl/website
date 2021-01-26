@@ -20,6 +20,8 @@ blocks:
       kun je écht indruk maken."
     title: "***Bedrijfsanimatie***"
     displaymedia: custom_video
+    video:
+      source_mp4: video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: center
     content: >-
