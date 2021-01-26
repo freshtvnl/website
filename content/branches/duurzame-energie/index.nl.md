@@ -71,9 +71,9 @@ blocks:
       Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen. Vraag ons naar de mogelijkheden.
     displaymedia: custom_video
     video:
-      source_mp4: https://freshtv.nl/video/Alfen-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/Alfen-duurzame-energie.mp4
       autoplay: true
-      source_webm: https://freshtv.nl/video/Alfen-duurzame-energie.webm
+      source_webm: https://video.philenflo.nl/video/Alfen-duurzame-energie.webm
   - type: selectedwork_block
     title: Duurzame cases
     items:
