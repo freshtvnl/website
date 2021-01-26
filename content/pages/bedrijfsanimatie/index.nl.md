@@ -51,7 +51,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### Daarom een bedrijfsanimatie!
 
@@ -60,13 +60,21 @@ blocks:
 
 
       Beeld je bijvoorbeeld het volgende eens in: we starten met een close-up van jouw (hoofd)kantoor waar je medewerkers keihard aan het werk zijn. Vervolgens zoomen we uit om het hele gebouw te kunnen zien en dan schieten we omhoog de lucht in voor een totaalperspectief.
-
-
-      Een [geanimeerde bedrijfsvideo](https://www.freshtv.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Perspectief***
+
+
+      Een [geanimeerde bedrijfsvideo](https://www.philenflo.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
+    displaymedia: custom_video
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
   - type: content_block
     align: left
     content: >-
