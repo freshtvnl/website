@@ -99,41 +99,15 @@ blocks:
       text: ""
       type: null
   - type: content_block
-    align: right
+    align: left
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Meet our Phil & Flo team
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      Kom eens langs, of nodig ons uit om ons leuke team te ontmoeten. Met een passie voor Virtual reality en alle mogelijkheden die dit met zich meebrengt. Ons team van videomarketeers en designers vult elkaar aan om jou doelen met video te behalen! Bel ons nu op 085 – 273 8331
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
-
-
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Animatie laten maken om ***meer op te vallen***
-
-
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: left
