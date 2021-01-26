@@ -10,9 +10,7 @@ blocks:
       ## Bedrijfsanimatie
 
 
-      Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze doen. Op internet is zoveel informatie beschikbaar dat we niet meer weten welke informatie relevant is en welke niet. Bedrijfsanimaties zijn daarom dé oplossing om structuur aan te brengen in die overload aan informatie. Bij Phil & Flo Videomarketing zijn we ervan overtuigd dat een geanimeerde video serious business is. Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
-
-
+      Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze doen. Op internet is zoveel informatie beschikbaar dat we niet meer weten welke informatie relevant is en welke niet. Bedrijfsanimaties zijn daarom dé oplossing om structuur aan te brengen in die overload aan informatie. Bij Phil & Flo zijn we ervan overtuigd dat een geanimeerde video serious business is. Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
 
 
       ### Jouw klant enthousiasmeren
@@ -22,8 +20,6 @@ blocks:
 
 
       We verplaatsen ons in je klant en we gaan na wat voor hen belangrijk is. **Het draait immers niet om jou, maar om de klant die koning is**. En jouw bedrijf of product is de oplossing. Een bedrijfsanimatie biedt ook de mogelijkheid om gemakkelijk je huisstijl te verwerken. Klanten zullen namelijk bepaalde kleuren of karakters associëren met je organisatie. Onze bedrijfsanimaties zijn verrassend, concreet en speels. Hoe duidelijker en aantrekkelijker het verhaal, hoe makkelijker voor jouw doelgroep.
-
-
 
 
       ### Daarom een bedrijfsanimatie!
@@ -36,8 +32,6 @@ blocks:
 
 
       Een [geanimeerde bedrijfsvideo](https://www.freshtv.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
-
-
 
 
       ## Vraag ons het hemd van het lijf
