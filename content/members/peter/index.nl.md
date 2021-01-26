@@ -1,11 +1,15 @@
 ---
 title: Peter
-slug: peter de Graaf
+slug: Peter de Graaf
 draft: false
 id: PZcCTyF1B
 image:
   source: images/20_peter.png
   alt: Peter
+function: Co-founder
+cta: Ik ben als echte creatieveling betrokken bij veel projecten op strategische
+  en creatieve basis. Bel me op 085 - 273 8331 voor een vrijblijvend gesprek.
+color: orange
 blocks:
   - type: hero_block
     title: De wereld van ***Peter***, is de wereld van morgen
