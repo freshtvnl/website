@@ -8,15 +8,28 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
   - type: hero_block
+    title: "***VR animatie laten maken***"
+    content: Wil jij jouw bezoekers een levensechte ervaring geven vanuit zijn luie
+      stoel? Wil jij echt voorlopen op je concurrenten? Met een VR animatie van
+      Phil & Flo bied jij jouw klanten, studenten of cliënten of prospects iets
+      unieks, namelijk een levensechte ervaring. De mogelijkheden voor een VR
+      animatie laten maken zijn eindeloos. Wil je meer informatie? Neem contact
+      met ons op en weet vandaag nog meer over VR animaties.
+    displaymedia: youtube_video
+    youtube:
+      id: 0ljMPjPQjRI
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## Wat is een ***VR*** animatie?
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Een VR animatie is een film, waarbij je de kijker het gevoel geeft dat hij de controle heeft over de video. De kijker kan namelijk zelf bepalen waar hij naartoe kijkt. Doordat je zelf rond kan kijken in de VR animatie voelt het alsof je er zelf echt bij bent.
     video:
       autoplay: false
+    displaymedia: youtube_video
+    youtube:
+      id: WqCH4DNQBUA
   - type: content_block
     align: left
     content: >-
