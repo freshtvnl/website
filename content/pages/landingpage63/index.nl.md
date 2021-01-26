@@ -44,7 +44,7 @@ blocks:
       text: ""
       type: null
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Waarom*** een animatie?
 
