@@ -33,17 +33,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Hoe werkt een VR animatie?
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Bij een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote [animatie](https://www.philenflo.nl/animatie-laten-maken/) van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of je mobiel kan je door de VR animatie kijken. De echte VR ervaring heb je met behulp van een VR bril. Door de bewegingen van je hoofd kijk je rond in de VR animatie net zoals in het dagelijkse leven.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -53,16 +53,26 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     content: >-
-      ## ***3D Animatie***
+      ## Waarom kiezen voor een VR animatie?
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Een VR animatie is een zeer effectief middel om jouw boodschap over te brengen. Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Dit zorgt ervoor dat een VR animatie zeer effectief is. Er zijn vele mogelijkheden op het gebied van VR animatie:
+
+
+      * E-learnings voor werknemers of scholieren
+
+      * Ontwerpen laten zien in VR
+
+      * Het visualiseren van jouw product
+
+
+      Naast deze verschillende onderwerpen zijn er nog vele andere mogelijkheden. Heb je zelf een idee? Wij komen graag met jou in contact om de mogelijkheden te bespreken. Een VR animatie zorgt ervoor dat jouw product of idee tot leven komt.
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
