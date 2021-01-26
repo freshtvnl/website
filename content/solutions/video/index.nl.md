@@ -28,8 +28,8 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.mp4
-      source_webm: https://philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
+      source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.mp4
+      source_webm: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
   - type: content_block
     align: left

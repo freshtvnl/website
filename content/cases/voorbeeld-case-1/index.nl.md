@@ -20,8 +20,8 @@ blocks:
     image:
       source: images/alfen-smart-charging-network-ao.jpg
     video:
-      source_mp4: https://philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
-      source_webm: https://philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
+      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
+      source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
       autoplay: true
   - type: content_block
     align: right

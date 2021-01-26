@@ -42,8 +42,8 @@ blocks:
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
     video:
-      source_mp4: https://philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
-      source_webm: https://philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
+      source_mp4: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
+      source_webm: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
       autoplay: true
   - type: content_block
     content: >-
