@@ -21,8 +21,9 @@ blocks:
     title: "***Bedrijfsanimatie***"
     displaymedia: custom_video
     video:
-      source_mp4: video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
       autoplay: true
+      source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
   - type: content_block
     align: left
     content: >-
