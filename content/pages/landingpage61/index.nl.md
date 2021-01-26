@@ -91,7 +91,7 @@ blocks:
       * Ervaren = Meemaken & onthouden
     displaymedia: youtube_video
     video:
-      autoplay: true
+      autoplay: false
     youtube:
       id: 0ljMPjPQjRI
     cta:
