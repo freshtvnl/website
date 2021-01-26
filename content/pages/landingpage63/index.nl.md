@@ -1,19 +1,20 @@
 ---
-title: Landing page 63
-slug: landingpage
+title: animatie maken rotterdam
+slug: animatie maken rotterdam
 weight: 1
 draft: false
 id: wvUKuLAzh63
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+  - type: hero_block
+    video:
+      autoplay: false
+    content: Ben je gevestigd in Rotterdam, en op zoek naar een professionele
+      animatie? Rotterdam is een hot spot voor toptalent op het gebied van
+      videomarketing en animatiefilms. Phil & Flo heeft een kantoor in Rotterdam
+      waar we je graag ontmoeten.
+    title: Animatie laten maken in ***Rotterdam*** door Phil & Flo
   - type: content_block
     align: left
     content: >-
