@@ -4,15 +4,24 @@ slug: bedrijfsanimatie
 draft: false
 id: 0wFfBvVZd
 blocks:
+  - type: hero_block
+    content: "Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze
+      doen. Op internet is zoveel informatie beschikbaar dat we niet meer weten
+      welke informatie relevant is en welke niet. Bedrijfsanimaties zijn daarom
+      dé oplossing om structuur aan te brengen in die overload aan informatie.
+      Bij Phil & Flo zijn we ervan overtuigd dat een geanimeerde video serious
+      business is. Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we
+      kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te
+      animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve
+      mogelijkheden om in minder tijd meer informatie te presenteren. Waar een
+      video met acteurs vaak een commercieel randje heeft en moeilijker te
+      ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer
+      ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo
+      kun je écht indruk maken."
+    title: Bedrijfsanimatie
   - type: content_block
     align: center
     content: >-
-      ## Bedrijfsanimatie
-
-
-      Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze doen. Op internet is zoveel informatie beschikbaar dat we niet meer weten welke informatie relevant is en welke niet. Bedrijfsanimaties zijn daarom dé oplossing om structuur aan te brengen in die overload aan informatie. Bij Phil & Flo zijn we ervan overtuigd dat een geanimeerde video serious business is. Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
-
-
       ### Jouw klant enthousiasmeren
 
 
