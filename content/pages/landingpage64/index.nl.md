@@ -17,7 +17,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: center
+    align: left
     content: >-
       ## ***Frisse animatie*** in Amsterdam
 
