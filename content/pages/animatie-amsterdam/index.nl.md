@@ -1,6 +1,6 @@
 ---
-title: animatie amsterdam
-slug: animatie amsterdam
+title: animatie amsterdam2
+slug: 2animatie amsterdam
 draft: false
 id: nEW23EnRF
 blocks:
