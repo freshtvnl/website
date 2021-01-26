@@ -3,11 +3,12 @@ import { menu } from "../partials/menu"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { blocks } from "../blocks/index"
+import { brandcolors } from "../partials/brandcolors"
 
 const fields = [
   ...base,
   image,
-  
+  brandcolors
 ]
 
 const pages = {

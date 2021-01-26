@@ -2,6 +2,7 @@ import { image } from "../partials/image"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { blocks } from "../blocks/index"
+import { brandcolors } from "../partials/brandcolors"
 
 const fields = [
   ...base,
@@ -20,7 +21,7 @@ const fields = [
     required: false,
     i18n: true
   },
- 
+  brandcolors
 ]
 
 const homepages = {

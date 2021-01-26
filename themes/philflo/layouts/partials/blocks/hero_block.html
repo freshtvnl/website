@@ -40,7 +40,7 @@
 
   {{ if and ($params.youtube) (eq $display "youtube_video") }}
   {{ with $params.youtube.id}}
-  <div class="video-wrapper">
+  <div class="video-wrapper relative z-20 mt-8">
     <div id="player-{{. | urlize}}" data-video="{{.}}" class="videoplayer"></div>
   </div>
   {{ end }}
