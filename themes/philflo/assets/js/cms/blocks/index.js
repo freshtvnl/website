@@ -5,6 +5,7 @@ import { selectedwork } from './selectedwork'
 import { selectedfaqs } from './selectedfaqs'
 import { selectedreviews } from './selectedreviews'
 import { contact } from './contact'
+import { contentList } from './contentList'
 
 export const blocks = [
   {
@@ -19,7 +20,8 @@ export const blocks = [
       selectedwork,
       contact,
       selectedfaqs,
-      selectedreviews
+      selectedreviews,
+      contentList
     ]
   }
 ]

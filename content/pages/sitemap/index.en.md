@@ -1,4 +1,3 @@
 ---
-title: Sitemap
-slug: sitemap
+draft: true
 ---

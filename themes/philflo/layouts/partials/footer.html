@@ -63,7 +63,7 @@
         {{ range $index, $element := .Site.Menus.footer }}
           {{if eq .Weight 0 }}
           {{ else }}
-          <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 {{ if $currentPage.IsMenuCurrent  "footer" . }}font-bold border-white{{ else }}font-semibold border-green-500 {{ end }}">{{ .Name }}</a>
+          <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 {{ if $currentPage.IsMenuCurrent  "footer" . }}font-bold border-white{{ else }}font-semibold text-border {{ end }}">{{ .Name }}</a>
           {{ end }}
         {{ end }}
       </nav>
