@@ -81,11 +81,14 @@ blocks:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
     align: left
-    content: >-
-      ## ***Virtual Reality Animatie***
+    content: |-
+      ## ***Voordelen*** van een VR animatie
 
-
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      * Oneindige mogelijkheden
+      * Een unieke en onderscheidende manier van communicatie
+      * Op maat gemaakte boodschap voor jouw doelgroep
+      * Een glasheldere boodschap
+      * Ervaren = Meemaken & onthouden
     displaymedia: youtube_video
     video:
       autoplay: true
