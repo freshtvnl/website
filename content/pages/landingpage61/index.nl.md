@@ -95,9 +95,9 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     content: >-
