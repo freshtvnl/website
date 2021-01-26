@@ -5,25 +5,29 @@ draft: false
 id: 0wFfBvVZd
 blocks:
   - type: hero_block
-    content: "Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze
+    content: Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze
       doen. Op internet is zoveel informatie beschikbaar dat we niet meer weten
       welke informatie relevant is en welke niet. Bedrijfsanimaties zijn daarom
       dé oplossing om structuur aan te brengen in die overload aan informatie.
       Bij Phil & Flo zijn we ervan overtuigd dat een geanimeerde video serious
-      business is. Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we
-      kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te
-      animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve
-      mogelijkheden om in minder tijd meer informatie te presenteren. Waar een
-      video met acteurs vaak een commercieel randje heeft en moeilijker te
-      ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer
-      ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo
-      kun je écht indruk maken."
+      business is.
     title: "***Bedrijfsanimatie***"
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
       autoplay: true
       source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Aantrekkelijke*** animaties
+
+
+      Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
