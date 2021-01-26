@@ -39,10 +39,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
+      ### A film is only as good as the ***people*** who make it happen
 
 
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+      Like Michael Keaton said, “Filmmaking is the ultimate team sport.” With your stories and ideas and our innovation, we believe that there can be no greater team. And as a team, we will be in it together right from the first draft to the final cut. The creative process isn’t a linear one, and through all the brainstorming, dead ends and wrong turns we promise to stay fun to work with. Communication is key, and so, with the line of communication kept open between your team and ours, we are here to give your voice a visual. So, tell us all about who you are, how you came to be, what you plan to become - give us your vision and we’ll give it a video.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
