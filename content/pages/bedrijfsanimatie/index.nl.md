@@ -24,7 +24,7 @@ blocks:
       source_mp4: video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: center
+    align: left
     content: >-
       ### Jouw klant enthousiasmeren
 
@@ -33,8 +33,9 @@ blocks:
 
 
       We verplaatsen ons in je klant en we gaan na wat voor hen belangrijk is. **Het draait immers niet om jou, maar om de klant die koning is**. En jouw bedrijf of product is de oplossing. Een bedrijfsanimatie biedt ook de mogelijkheid om gemakkelijk je huisstijl te verwerken. Klanten zullen namelijk bepaalde kleuren of karakters associëren met je organisatie. Onze bedrijfsanimaties zijn verrassend, concreet en speels. Hoe duidelijker en aantrekkelijker het verhaal, hoe makkelijker voor jouw doelgroep.
-
-
+  - type: content_block
+    align: right
+    content: >-
       ### Daarom een bedrijfsanimatie!
 
 
@@ -45,10 +46,19 @@ blocks:
 
 
       Een [geanimeerde bedrijfsvideo](https://www.freshtv.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
-
-
+    displaymedia: custom_video
+  - type: content_block
+    align: left
+    content: >-
       ## Vraag ons het hemd van het lijf
 
 
       Aarzel niet om in contact met ons te komen en ons het hemd van het lijf te vragen over een bedrijfsanimatie. We hebben de oplossing voor jou communicatievraagstuk!
+    displaymedia: custom_video
+    video:
+      autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
 ---
