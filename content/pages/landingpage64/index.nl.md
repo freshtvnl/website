@@ -46,10 +46,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Waarom werkt een ***animatie laten maken***?
+      ## Zeg het met ***bewegend*** beeld
 
 
-      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
+      Een animatie doet twee dingen veel beter dan tekst en statische afbeeldingen: opvallen en een verhaal vertellen. Je pakt de aandacht met graphics en een stijl die je doelgroep aanspreken, en goed bij je bedrijf passen. In een duidelijke, luchtige en sfeervolle animatie vertel je een verhaal op een speelse of juist serieuze manier. Daar zetten we natuurlijk ook passende achtergrondmuziek, geluidseffecten en een prettige voice-over voor in. Hoe dan ook, de boodschap komt altijd helder over.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
@@ -57,10 +57,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
+      ## ***Visie*** op animatie
 
 
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
+      Met alle mogelijkheden die moderne techniek biedt is 2D animatie, 3D Animatie, interactieve animatie en Virtual Reality animatie voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
