@@ -48,13 +48,13 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Hoe maken wij een animatiefilm?
+      ## Hoe maken wij een ***animatiefilm***?
 
 
       Of je nu in Eindhoven zit, of ergens anders met je onderneming, we komen graag bij je langs om vrijblijvend de mogelijkheden door te spreken. Je bent ook van harte welkom op een van onze kantoren (Hurksestraat 64, Eindhoven). Als we besluiten in zee te gaan, houden we je nauw betrokken bij het maken van de concepten en scripts. Zo weten we allebei zeker dat je tevreden zult zijn met het eindresultaat.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
