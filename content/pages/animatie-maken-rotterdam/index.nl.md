@@ -1,6 +1,6 @@
 ---
-title: animatie maken rotterdam
-slug: animatie maken rotterdam
+title: animatie maken rotterdam2
+slug: animatie maken rotterdam2
 draft: false
 id: sctFmCqwa
 blocks:
