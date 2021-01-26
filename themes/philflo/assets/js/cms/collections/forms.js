@@ -32,7 +32,7 @@ const fields = [
     label: "Form Type",
     name: "type",
     widget: "select",
-    options: ["quotation"],
+    options: ["quotation", "contact"],
     required: true,
     i18n: true,
   },

@@ -9,7 +9,6 @@
 
   
     <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
-      {{ if eq $type "quotation"}}
       <div class="grid grid-cols-4 gap-6">
         <div class='col-span-2'>
           <label class="block">
@@ -42,9 +41,12 @@
           </label>
         </div>
       </div>
-
-      <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
-    {{ end }}
+      {{ if eq $type "quotation"}}
+        <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
+      {{ end }}
+      {{ if eq $type "contact"}}
+        <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+      {{ end }}
     
 
     </form>

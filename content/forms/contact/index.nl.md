@@ -1,6 +1,6 @@
 ---
-title: contact
+title: Contact
 thankyou_page: /bedankt-invullen-contactformulier/
 id: 2nOvI3M4P
-type: quotation
+type: contact
 ---

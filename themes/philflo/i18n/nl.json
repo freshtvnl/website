@@ -58,6 +58,10 @@
   {
     "id": "receive_quotation",
     "translation": "Offerte ontvangen"
+  },
+  {
+    "id": "send_form",
+    "translation": "Formulier versturen"
   }
   
 ]
