@@ -69,6 +69,11 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+    cta:
+      url: /offerte-ontvangen/
+      text: Ask for a quote
+      type: button
+    form: F2bycGgYY
   - type: contact_block
     contacts:
       - Nc7XQAY2B
