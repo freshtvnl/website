@@ -1,12 +1,13 @@
 ---
-title: Landing page 61
-slug: landingpage
+title: vr animatie laten maken
+slug: vr animatie laten maken
 weight: 1
 draft: false
 id: wvUKuLAzh61
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
+  - type: hero_block
   - type: content_block
     align: center
     content: >-
@@ -14,6 +15,8 @@ blocks:
 
 
       Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+    video:
+      autoplay: false
   - type: content_block
     align: left
     content: >-
