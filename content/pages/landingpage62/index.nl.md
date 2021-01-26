@@ -8,6 +8,17 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
   - type: hero_block
+    content: Ondernemer in Eindhoven? Vertaal je briljante concept, plan of product
+      in een animatie. Phil & Flo helpt je graag op weg. Met een animatie bereik
+      je mensen die geen zin of tijd hebben om grote stukken tekst te lezen,
+      maar wel interesse hebben in jou. Het zou toch jammer zijn als je die
+      groep mensen mist? Bij ons ben je verzekerd van een doeltreffende animatie
+      om kort en krachtig je boodschap uit te leggen.
+    title: "***Animatie film laten maken in Eindhoven door Phil & Flo***"
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -121,17 +132,6 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## De unieke designfilosofie van Phil & Flo
-
-
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
