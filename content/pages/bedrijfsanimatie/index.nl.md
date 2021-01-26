@@ -18,7 +18,8 @@ blocks:
       ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer
       ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo
       kun je écht indruk maken."
-    title: Bedrijfsanimatie
+    title: "***Bedrijfsanimatie***"
+    displaymedia: custom_video
   - type: content_block
     align: center
     content: >-
