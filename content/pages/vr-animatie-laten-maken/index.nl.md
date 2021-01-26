@@ -1,6 +1,6 @@
 ---
 title: vr animatie laten maken
-slug: vr animatie laten maken
+slug: vr animatie laten maken 2
 draft: false
 id: i-sKNY_Vl
 blocks:
