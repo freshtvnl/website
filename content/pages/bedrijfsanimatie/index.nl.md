@@ -34,6 +34,10 @@ blocks:
 
 
       We verplaatsen ons in je klant en we gaan na wat voor hen belangrijk is. **Het draait immers niet om jou, maar om de klant die koning is**. En jouw bedrijf of product is de oplossing. Een bedrijfsanimatie biedt ook de mogelijkheid om gemakkelijk je huisstijl te verwerken. Klanten zullen namelijk bepaalde kleuren of karakters associëren met je organisatie. Onze bedrijfsanimaties zijn verrassend, concreet en speels. Hoe duidelijker en aantrekkelijker het verhaal, hoe makkelijker voor jouw doelgroep.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -48,6 +52,9 @@ blocks:
 
       Een [geanimeerde bedrijfsvideo](https://www.freshtv.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
     displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
