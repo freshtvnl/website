@@ -63,7 +63,7 @@ blocks:
       Met alle mogelijkheden die moderne techniek biedt is 2D animatie, 3D Animatie, interactieve animatie en Virtual Reality animatie voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
   - type: content_block
     align: right
