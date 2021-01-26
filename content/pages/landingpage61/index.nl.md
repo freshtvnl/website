@@ -19,7 +19,7 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
   - type: content_block
-    align: center
+    align: left
     content: >-
       ## Wat is een ***VR*** animatie?
 
@@ -31,9 +31,9 @@ blocks:
     youtube:
       id: WqCH4DNQBUA
   - type: content_block
-    align: left
+    align: right
     content: >-
-      ## Hoe werkt een VR animatie?
+      ## Hoe werkt een ***VR animatie***?
 
 
       Bij een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote [animatie](https://www.philenflo.nl/animatie-laten-maken/) van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of je mobiel kan je door de VR animatie kijken. De echte VR ervaring heb je met behulp van een VR bril. Door de bewegingen van je hoofd kijk je rond in de VR animatie net zoals in het dagelijkse leven.
@@ -53,7 +53,7 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: right
+    align: left
     cta:
       url: ""
       text: ""
@@ -80,7 +80,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: left
+    align: right
     content: |-
       ## ***Voordelen*** van een VR animatie
 
