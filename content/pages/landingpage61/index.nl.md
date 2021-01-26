@@ -110,7 +110,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Vandaag nog ***alles weten*** over een VR animatie?
 
@@ -126,7 +126,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - PZcCTyF1B
   - type: selectedwork_block
     title: Selected work
     items:
