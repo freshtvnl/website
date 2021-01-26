@@ -1,74 +1,13 @@
 ---
-title: Landing page 62
-slug: landingpage
+title: animatie film eindhoven
+slug: animatie film eindhoven
 weight: 1
 draft: false
 id: wvUKuLAzh62
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
-  - type: content_block
-    align: left
-    content: >-
-      ## ***2D animatie***
-
-
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
-    displaymedia: custom_video
-    image:
-      source: images/2d-animatie-laten-maken.jpg
-    cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
-      autoplay: true
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
-    content: >-
-      ## ***3D Animatie***
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
-    video:
-      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
-      autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Virtual Reality Animatie***
-
-
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
-    displaymedia: youtube_video
-    video:
-      autoplay: true
-    youtube:
-      id: 0ljMPjPQjRI
-    cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
+  - type: hero_block
   - type: content_block
     align: right
     content: >-
@@ -219,4 +158,10 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+    contacts:
+      - HZCh75c-T
+  - items:
+      - DG0aSzvMj
+      - sCR0-5I1N
+      - fm2wFFmdb
 ---
