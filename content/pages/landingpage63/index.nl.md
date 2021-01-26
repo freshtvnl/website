@@ -20,45 +20,6 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
-
-
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
-    displaymedia: custom_video
-    image:
-      source: images/2d-animatie-laten-maken.jpg
-    cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
-      autoplay: true
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
-    content: >-
-      ## ***3D Animatie***
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
-    video:
-      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
-      autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
-  - type: content_block
-    align: left
-    content: >-
       ## ***Virtual Reality Animatie***
 
 
@@ -130,17 +91,6 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
-
-
-      Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: right
