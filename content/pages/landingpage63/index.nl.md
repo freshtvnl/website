@@ -9,12 +9,14 @@ image:
 blocks:
   - type: hero_block
     video:
-      autoplay: false
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
     content: Ben je gevestigd in Rotterdam, en op zoek naar een professionele
       animatie? Rotterdam is een hot spot voor toptalent op het gebied van
       videomarketing en animatiefilms. Phil & Flo heeft een kantoor in Rotterdam
       waar we je graag ontmoeten.
     title: Animatie laten maken in ***Rotterdam*** door Phil & Flo
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
