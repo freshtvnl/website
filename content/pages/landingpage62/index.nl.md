@@ -68,7 +68,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Kies de juiste kleuren***
 
@@ -84,7 +84,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - 7VtuzLwVv
   - type: selectedwork_block
     title: Selected work
     items:
