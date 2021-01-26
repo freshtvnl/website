@@ -12,15 +12,21 @@ blocks:
       animatie maakt in één oogopslag duidelijk wat je boodschap is. Phil & Flo
       maakt animatievideo’s met de juiste mix van beeld, geluid en animatie.
     title: Animatie laten maken in ***Amsterdam*** door Phil & Flo
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
+      autoplay: true
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie laten maken?***
+      ## ***Frisse animatie*** in Amsterdam
 
 
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+      Ons team van animators en marketeers in Amsterdam is klaar om samen te werken met bedrijven, instanties en ondernemers die op zoek zijn naar een frisse manier van storytelling en videomarketing. We produceren voor jou de juiste online marketing content; unieke, op maat gemaakte animatiefilms.
     video:
-      autoplay: false
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
