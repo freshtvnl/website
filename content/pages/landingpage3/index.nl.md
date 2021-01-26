@@ -13,20 +13,26 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ### Find your voice or project it even ***further***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Take your company to the next level and reach out to audiences far and wide. There is nothing more impressive than a company with a defined identity, that knows exactly what it is and isn’t afraid to share it with the world.
+
+
+      Corporate films are simple and versatile, which is what makes them such wonderful tools in our fast-paced, completely digitalized world. From an elevator pitch at a business conference to a method of advertising your business on television, your corporate video can do it all. They can speak volumes in a matter of minutes.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
   - type: content_block
     align: right
     content: >-
-      ### ***Wat zijn de voordelen van een bedrijfsfilm?***
+      ### Launch a brand new product with ***pizzaz***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      Create a training video that’ll keep all of your employees engaged and enthusiastic. Put together your yearly achievements and corporate milestones, and show the world, in the most literal sense, just how much your company has grown and developed over time. Build company morale and do it all to the tune of a great backing score.
+
+
+      Like any film, a corporate video is bound to draw attention. And so with a film like this in your pocket, put yourself on the radar of some new customers and build up your reputation amongst older ones. Let people know exactly what you have to offer and do it in such a way, that they will not be forgetting any time soon. With a film like this, you can not only keep people up to date with all of your products, services, and new ideas but you can also document your progress over the years, as a visual record of sorts to learn from. Within the company itself, a corporate video is a great way to deliver a message or introduce a CEO in a way that will most definitely make an impact.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
