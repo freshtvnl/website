@@ -73,7 +73,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Ask for a quote
       type: button
-    form: F2bycGgYY
+    form: ""
   - type: contact_block
     contacts:
       - Nc7XQAY2B
