@@ -1,5 +1,5 @@
 ---
-title: offerte ontvangen
+title: Offerte
 slug: offerte ontvangen
 draft: false
 id: jHqH8CRTK
@@ -13,5 +13,5 @@ blocks:
     form: F2bycGgYY
 menu:
   main:
-    weight: ""
+    weight: 6
 ---
