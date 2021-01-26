@@ -1,6 +1,6 @@
 ---
-title: Landing page 64
-slug: landingpage
+title: Animatie Amsterdam
+slug: Animatie Amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh64
