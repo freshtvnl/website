@@ -8,13 +8,22 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 color: red
 blocks:
+  - type: hero_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
+    content: Zoek je een animatiestudio in Utrecht? De animatiespecialisten van Phil
+      & Flo staan klaar om voor bedrijven, organisaties en ondernemers in
+      Utrecht pakkende animatiefilms te maken.
+    title: "Phil & Flo: ***Animatie studio Utrecht***"
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
-      ## In ***stijl*** een animatie laten maken
+      ## Animatie studio Utrecht
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+      Wij kiezen voor een persoonlijke aanpak om tot een uniek resultaat te komen. Onze specialisten kijken waar je doelgroep zich bevindt en waar deze interesse in heeft, vervolgens ontwikkelen we samen met jou het concept en daarna gaan we creatief en vakkundig aan de slag met het maken van de animatie. Met onze animatiestudio kies je voor echt maatwerk en geen dertien-in-een-dozijn.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
@@ -22,10 +31,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Voor wie*** laat je een animatie maken?
+      ## Hoe werkt onze animatie studio?
 
 
-      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons portfolio voor de uitgebreide stijlen die we hanteren.
+      Als je met ons in zee gaat, houden we je continu op de hoogte van de voortgang. We werken sowieso met een helder stappenplan. We bepalen het doel van de animatiefilm, schrijven het script, en vertalen dat naar een aansprekende video. Maar daar houdt het niet op: we zijn namelijk ook expert op het gebied van videomarketing. Wij helpen je dus ook met het bepalen van een strategie om je animatie gericht in te zetten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
@@ -101,5 +110,4 @@ blocks:
       - DG0aSzvMj
       - sCR0-5I1N
       - fm2wFFmdb
-  - type: hero_block
 ---
