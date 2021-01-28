@@ -43,11 +43,11 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     content: >-
       ## De mogelijkheden van een ***animatiestudio***
 
