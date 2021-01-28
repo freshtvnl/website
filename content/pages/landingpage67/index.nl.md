@@ -6,6 +6,7 @@ draft: false
 id: wv1212UKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
+color: yellow
 blocks:
   - type: hero_block
     video:
