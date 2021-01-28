@@ -34,24 +34,6 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Employer Branding***
-
-
-      Ben je op zoek naar het juiste personeel voor je organisatie? Dan is een employer branding film van Phil & Flo een goede manier om je kansen flink te vergroten. De kandidaat krijgt direct een realistisch beeld van je organsiatie en proeft de sfeer die er hangt. Lees hier meer over de voordelen van employer branding films.
-    displaymedia: custom_video
-    iframe:
-      source: ""
-    youtube:
-      image:
-        source: ""
-    image:
-      source: ""
-    video:
-      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
       ## ***Commercial*** laten maken
 
 
@@ -77,7 +59,25 @@ blocks:
     youtube:
       id: "7lgeGNnzvsQ "
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Employer Branding***
+
+
+      Ben je op zoek naar het juiste personeel voor je organisatie? Dan is een employer branding film van Phil & Flo een goede manier om je kansen flink te vergroten. De kandidaat krijgt direct een realistisch beeld van je organsiatie en proeft de sfeer die er hangt. Lees hier meer over de voordelen van employer branding films.
+    displaymedia: custom_video
+    iframe:
+      source: ""
+    youtube:
+      image:
+        source: ""
+    image:
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: selectedwork_block
     title: Portfolio
     items:
