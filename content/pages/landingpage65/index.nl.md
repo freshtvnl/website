@@ -1,12 +1,25 @@
 ---
-title: Landing page 65
-slug: landingpage
+title: Animatiestudio Groningen
+slug: Animatiestudio Groningen
 weight: 1
 draft: false
 id: wvUKuas1aLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
+  - type: hero_block
+    title: "***Animatiestudio Groningen***"
+    content: "In het hoge noorden van Nederland broeit het van de creativiteit.
+      Groningen heeft een allure die creatieve vakmensen aantrekt. Ook voor een
+      professionele animatiestudio hoef je niet meer naar de Randstad: op het
+      kantoor in de Oude Boteringestraat 71 in Groningen kun je bij Phil & Flo
+      terecht voor al je animatiebehoeften. Wij maken creatieve en aanpsrekende
+      animaties, van uitleganimatie tot VR animatie voor organisaties in en
+      buiten Groningen."
+    displaymedia: custom_video
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
   - type: content_block
     align: center
     content: >-
@@ -14,6 +27,8 @@ blocks:
 
 
       Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+    video:
+      autoplay: false
   - type: content_block
     align: left
     content: >-
@@ -137,7 +152,7 @@ blocks:
       Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
+      source_mp4: ""
       autoplay: true
   - type: content_block
     align: right
