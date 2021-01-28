@@ -1,6 +1,6 @@
 <div class="branch-element-bg text-white">
   <div class="max-w-screen-2xl mx-auto px-6 lg:px-12 xl:px-24 py-12 lg:py-12 xl:pt-32 ">
-    <div class="grid grid-cols-2 md:grid-cols-3 items-end space-y-12">
+    <div class="md:grid  md:grid-cols-3 items-end space-y-12">
         <div>
           <p class="text-4xl mb-6 text-white">Say Hello!</p>
           {{ with .Site.Params.footer.phonenumber }}
@@ -10,7 +10,7 @@
           <a href="mailto:{{ .raw }}" class="text-xl tracking-wider text-white block mt-1 hover:underline">{{ .formatted }}</a>
           {{ end }}
         </div>
-        <div class="space-y-4 flex items-center flex-col">
+        <div class="space-y-4 flex md:items-center flex-col">
           <p class="text-xl">Stay in the loop</p>
           <div class="flex items-center space-x-4">
             {{ with .Site.Params.footer.social.linkedin }}
@@ -44,7 +44,7 @@
           
           </div>
         </div>
-        <div class="col-span-2 md:col-span-1 flex justify-center md:justify-end ">
+        <div class="col-span-2 md:col-span-1 flex md:justify-center md:justify-end ">
           <a href="{{.Site.BaseURL}}{{.Site.LanguagePrefix}}">
             <svg class="w-20 text-white" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
               <path d="M7.52941 0.656062C4.16667 1.5183 2.1835 3.58768 1.40749 7.03664C0.976366 8.90483 0.947632 30.1159 0.947632 255.189C0.947632 480.263 0.976366 501.474 1.40749 503.342C2.21224 506.906 4.31036 509.004 7.87429 509.809C9.74248 510.24 30.9536 510.269 256.171 510.269C481.388 510.269 502.599 510.24 504.467 509.809C508.031 509.004 510.129 506.906 510.934 503.342C511.365 501.474 511.394 480.263 511.394 255.189C511.394 30.1159 511.365 8.90483 510.934 7.03664C510.129 3.47272 508.031 1.3746 504.467 0.569841C502.599 0.138721 481.417 0.10998 255.912 0.138721C24.1706 0.167462 9.31137 0.1962 7.52941 0.656062V0.656062ZM502.484 255.189V501.359H9.85745V9.01979H502.484V255.189Z" fill="currentColor"/>
