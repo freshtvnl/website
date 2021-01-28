@@ -67,8 +67,9 @@ blocks:
       type: button
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
+      source_mp4: ""
       autoplay: true
+      source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
   - type: contact_block
     contacts:
       - PZcCTyF1B
