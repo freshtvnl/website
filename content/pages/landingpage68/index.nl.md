@@ -8,20 +8,32 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 color: pink
 blocks:
+  - type: hero_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
+      source_webm: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
+    title: "***Explainer animatie*** laten maken door Phil & Flo"
+    content: Heb jij een ingewikkelde boodschap voor je klanten, leveranciers of
+      potentiële klanten? Is het moeilijk voor je klanten om jouw product goed
+      te begrijpen en tastbaar te maken? Dit is natuurlijk erg lastig wanneer je
+      je producten wilt verkopen, daarom moet je boodschap simpel en duidelijk
+      zijn.
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## ***Versimpelen*** van je boodschap
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Phil & Flo helpt jou met het versimpelen van je boodschap. Hoe wij dat doen? Met een explainer animatie. Phil & Flo is de specialist op het gebied van explainer animaties. Wij zorgen er niet alleen voor dat jouw boodschap gemakkelijk te begrijpen is, je boodschap wordt dankzij onze animaties ook zeer aantrekkelijk voor je doelgroep. De mogelijkheden zijn oneindig!
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -31,16 +43,16 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     content: >-
-      ## ***3D Animatie***
+      ## Wat is een explainer animatie?
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Een explainer animatie of uitleganimatie is een video waarin er kort maar krachtig iets wordt uitgelegd. Anders dan een ‘opgenomen’ video, maakt een animatie gebruik van digitaal geproduceerde beelden. Digitale tekeningen die op maat worden gemaakt. Voordeel hiervan is de controle die je hebt over de kwaliteit van de productie.
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
@@ -61,15 +73,18 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
+      text: Lees hier meer over VR
       type: button
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## Waarom een ***explainer*** animatie laten maken?
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      Om jouw complexe boodschap simpel te maken, zijn woorden vaak niet genoeg. Om een boodschap simpel en begrijpelijk te maken werkt een combinatie van beeld en geluid fantastisch.
+
+
+      Dit komt, doordat beeld en geluid elkaar versterken. Daarom is een explainer animatie gemakkelijker te verwerken door ons brein dan alleen tekst, of alleen geluid. Een explainer animatie zorgt ervoor dat je brein minder hoeft te interpreteren. Daarnaast kan je in een animatie gemakkelijker emoties en nuances overbrengen door beeld en geluid. Hierdoor wordt je boodschap beter begrepen door jouw publiek.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
