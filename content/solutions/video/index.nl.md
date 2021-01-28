@@ -118,6 +118,9 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+    displaymedia: youtube_video
+    youtube:
+      id: xG-FjaFq03A
   - type: contact_block
     contacts:
       - kJ07QyNzs
