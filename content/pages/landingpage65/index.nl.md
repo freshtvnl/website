@@ -52,7 +52,7 @@ blocks:
       ## De mogelijkheden van een ***animatiestudio***
 
 
-      Met een animatie kun je nog alle kanten op. Je kunt het bij een [stijlvolle 2D-animatie](/2d-animatie/) houden, of de diepte ingaan met een [3D-animatie](/3d-animatie-laten-maken/). Daarnaast kies je voor de juiste muziek onder je animatiefilm, en een prettige vertelstem. Zeker bij uitleganimaties is het belangrijk dat je de juiste elementen kiest, zodat de kijkers niet afhaken. Gelukkig weten de vakmensen van Phil & Flo’s animatiestudio in Groningen goed wat werkt, en wat niet. Samen met hen ontwikkel je je animatiefilm van concept tot videofilm.
+      Met een animatie kun je nog alle kanten op. Je kunt het bij een [stijlvolle 2D-animatie](/2d-animatie/) houden, of de diepte ingaan met een [3D-animatie](/3d-animatie-laten-maken/). Daarnaast kies je voor de juiste muziek onder je animatiefilm, en een prettige vertelstem. Zeker bij uitleganimaties is het belangrijk dat je de juiste elementen kiest, zodat de kijkers niet afhaken. Gelukkig weten de vakmensen van Phil & Flo’s animatiestudio in Groningen goed wat werkt en wat niet. Samen met hen ontwikkel je je animatiefilm van concept tot videofilm.
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
