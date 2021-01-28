@@ -42,10 +42,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***De juiste toon*** in een animatie
+      ## Marketingstrategie en promotie
 
 
-      Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
+      Als je een succesvolle animatie hebt laten maken voor je bedrijf in Utrecht, wil je ook je relevante doelgroep bereiken. Hoe doe je dat? Met een goed uitgedachte marketingstrategie zorgen we ervoor dat je animatie aankomt bij je doelgroep in Utrecht en daarbuiten natuurlijk. Dat kan door goed geplaatste video-advertenties, een social media campagne en een succesvolle lancering van je video. Wij stemmen de promotie en marketing van je animatiefilm perfect af op de inhoud.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
