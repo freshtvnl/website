@@ -1,4 +1,4 @@
-const { colors, fontFamily, maxWidth, screens } = require('tailwindcss/defaultTheme')
+const { colors, fontFamily, maxWidth, screens, lineHeight } = require('tailwindcss/defaultTheme')
 const path = require("path");
 
 module.exports = {
@@ -25,6 +25,25 @@ module.exports = {
   },
   theme: {
     extend: {
+
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            h2: {
+              lineHeight: '1.4'
+            }
+          }
+        },
+
+        xl: {
+          css: {
+            h2: {
+              lineHeight: '1.4'
+            }
+          }
+        }
+
+      }),
 
       maxWidth: {
         ...maxWidth,
@@ -76,8 +95,9 @@ module.exports = {
           pink: {
             ...colors.pink,
             '500' : '#ec008c'
-          }
+          },
 
+         
 
       }
     }

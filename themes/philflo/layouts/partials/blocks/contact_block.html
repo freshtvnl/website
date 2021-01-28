@@ -9,11 +9,11 @@
         {{ range . }}
           {{ range where $site.Pages "Params.id" . }}
           {{ $item := . }}
-          <a href="{{$item.RelPermalink}}" class="block relative text-center">
+          <a href="{{$item.RelPermalink}}" class="block relative lg:text-center">
             {{ with .Params.image}}
-            {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "transform scale-100 hover:scale-110 transition duration-300 mx-auto ") }}
+            {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "transform scale-100 hover:scale-110 transition duration-300 lg:mx-auto  w-64 ") }}
             {{ end }}
-            <div class="text-center  pt-4">
+            <div class="lg:text-center  pt-4">
               <h3 class="text-xl lg:text-2xl font-bold   ">
                 {{ .Title }}
               </h3>
