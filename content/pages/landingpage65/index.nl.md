@@ -62,10 +62,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Virtual Reality Animatie***
+      ## De leukste ***animatiestudio*** in Groningen
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      We zijn niet alleen de beste te zijn als animatiestudio, maar we proberen ook de leukste te zijn in Groningen. Kom bij ons langs en ontdek alle toffe mogelijkheden met animatiefilms. Naast het maken van je animatie vertellen we je ook hoe je deze zo effectief mogelijk gebruikt. Zo voorkom je dat deze nooit gezien wordt, want dat gebeurd nog te veel. Wij creëren een animatiefilm en adviseren je over de maximale online inzet van deze film!
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -73,56 +73,8 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
+      text: Lees hier meer over VR
       type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Juist voor ***online doelgroep***
-
-
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
-
-
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Animatie laten maken om ***meer op te vallen***
-
-
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
-      autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Hoe werkt*** een animatie laten maken?
-
-
-      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
-      autoplay: true
   - type: content_block
     align: right
     content: >-
