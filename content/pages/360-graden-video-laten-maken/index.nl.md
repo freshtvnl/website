@@ -32,6 +32,10 @@ blocks:
 
       Er zijn oneindige creatieve mogelijkheden voor een 360 graden film. Om je van inspiratie te voorzien leggen we je graag wat voorbeelden uit. Heb je zelf een ander idee in gedachten? Leg het aan ons voor en wij komen graag met een voorstel. De mogelijkheden zijn oneindig.
     align: right
+    displaymedia: image
+    image:
+      source: images/aron-3d-animatie_hu198473c553df0dccbbe8a93d1eb1fb38_183067_930x500_fill_q75_box_center.jpg
+      alt: Aron bij Phil & Flo
   - type: content_block
     align: left
     content: >-
