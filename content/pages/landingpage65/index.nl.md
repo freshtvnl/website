@@ -21,28 +21,19 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
   - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
-    video:
-      autoplay: false
-  - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Animatie is ***duidelijk en aansprekend***
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/solutions/animatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een commercial, maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -58,10 +49,10 @@ blocks:
       text: Lees hier meer
       type: button
     content: >-
-      ## ***3D Animatie***
+      ## De mogelijkheden van een ***animatiestudio***
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Met een animatie kun je nog alle kanten op. Je kunt het bij een [stijlvolle 2D-animatie](/2d-animatie/) houden, of de diepte ingaan met een [3D-animatie](/3d-animatie/). Daarnaast kies je voor de juiste muziek onder je animatiefilm, en een prettige vertelstem. Zeker bij uitleganimaties is het belangrijk dat je de juiste elementen kiest, zodat de kijkers niet afhaken. Gelukkig weten de vakmensen van Phil & Flo’s animatiestudio in Groningen goed wat werkt, en wat niet. Samen met hen ontwikkel je je animatiefilm van concept tot videofilm.
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
