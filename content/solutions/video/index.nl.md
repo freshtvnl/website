@@ -79,7 +79,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: selectedwork_block
-    title: Selected work
+    title: Portfolio
     items:
       - dD7nogK0Q
       - cc-ik-qqS
@@ -91,7 +91,11 @@ blocks:
       ## Vermenselijk je merk met een video
 
 
-      Vandaag de dag shoppen, werken en communiceren mensen steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een videofilm is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze videofilm laten maken.
+      Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een videofilm is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze videofilm laten maken.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -99,6 +103,10 @@ blocks:
 
 
       Dus je hebt besloten dat het tijd is om een videofilm te laten maken? Mooi! Phil & Flo kijkt welke videofilm het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we videofilms die je niet meer loslaten.
+    displaymedia: custom_video
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
   - type: content_block
     align: left
     content: >-
