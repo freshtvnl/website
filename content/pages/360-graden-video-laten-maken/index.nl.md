@@ -44,7 +44,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### 360 graden video voor de medische wereld
 
@@ -55,7 +55,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Vandaag nog alles weten over een 360 graden video?
 
@@ -65,6 +65,10 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
+      autoplay: true
   - type: contact_block
     contacts:
       - PZcCTyF1B
