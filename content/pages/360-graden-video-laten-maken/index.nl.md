@@ -39,9 +39,6 @@ blocks:
 
 
       Met een VR video is het mogelijk om kinderen spelenderwijs te laten leren, dit is natuurlijk altijd beter dan het lezen uit een boekje. Een 360 graden video is niet alleen geschikt voor kleine kinderen, maar ook voor de oudere student.  Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Dit zorgt ervoor dat een 360 graden video zeer effectief is. Wil je als school echt effectief kennis overdragen? Dan is een 360 graden video de oplossing.
-  - type: contact_block
-    contacts:
-      - PZcCTyF1B
   - type: content_block
     align: left
     content: >-
@@ -60,4 +57,7 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+  - type: contact_block
+    contacts:
+      - PZcCTyF1B
 ---
