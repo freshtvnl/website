@@ -49,7 +49,7 @@ blocks:
       text: ""
       type: null
     content: >-
-      ## Wat is een explainer animatie?
+      ## Wat is een ***explainer animatie***?
 
 
       Een explainer animatie of uitleganimatie is een video waarin er kort maar krachtig iets wordt uitgelegd. Anders dan een ‘opgenomen’ video, maakt een animatie gebruik van digitaal geproduceerde beelden. Digitale tekeningen die op maat worden gemaakt. Voordeel hiervan is de controle die je hebt over de kwaliteit van de productie.
