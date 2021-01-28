@@ -1,19 +1,13 @@
 ---
-title: Landing page 68
-slug: landingpage
+title: Explainer animatie
+slug: Explainer animatie
 weight: 1
 draft: false
 id: wvUKasdfasdfuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
+color: pink
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
   - type: content_block
     align: left
     content: >-
