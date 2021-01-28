@@ -46,6 +46,10 @@ blocks:
 
 
       Ook in de medische wereld is een 360 graden video de toekomst. Je kan onder andere artsen beter opleiden door een VR video. Een student geneeskunde kan een operatie ontelbare keren meemaken voordat hij zelf gaat opereren. Dit zorgt voor veel minder medische fouten. Kijkoperaties kunnen worden nagebootst en door het besturen van virtuele instrumenten kan men handelingen oefenen. Voornamelijk dankzij het trainen van de oog-hand coördinatie kunnen artsen zich goed voorbereiden op een operatie.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
