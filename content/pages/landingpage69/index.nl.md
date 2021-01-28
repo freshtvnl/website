@@ -1,81 +1,46 @@
 ---
-title: Landing page 69
-slug: landingpageasdfasdf
+title: animatie studio amsterdam
+slug: animatie-studio-amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
+color: red
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+  - type: hero_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
+    displaymedia: custom_video
+    title: Zoek je een ***animatiestudio in Amsterdam***?
+    content: Zoek je een animatiestudio in Amsterdam? De animatie specialisten van
+      Phil & Flo staan klaar om voor bedrijven, organisaties en ondernemers in
+      Amsterdam pakkende en unieke animatiefilms te maken.
   - type: content_block
     align: left
     content: >-
-      ## ***2D animatie***
+      ## Animatie studio in Amsterdam?
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Op zoek naar een animatie studio in Amsterdam? Het team van Phil & Flo is klaar om samen met jou de uitdaging aan te gaan. We leveren geen standaardwerk, maar maken iedere animatie op maat. Er zijn immers al genoeg animaties online te vinden die er hetzelfde uitzien. Kijk samen met onze frisse blik hoe jij animatie effectief kunt inzetten in je marketing, en het een onmisbaar onderdeel maakt van je content strategie.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
-  - displaymedia: custom_video
-    youtube:
-      image:
-        source: images/3d-animatie-laten-maken.jpg
-    iframe:
-      source: ""
-    align: left
-    cta:
-      url: /3d-animatie-laten-maken/
-      text: Lees hier meer
-      type: button
-    content: >-
-      ## ***3D Animatie***
-
-
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
-    type: content_block
-    video:
-      source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
-      autoplay: true
-    image:
-      source: images/3d-animatie-laten-maken.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Virtual Reality Animatie***
-
-
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
-    displaymedia: youtube_video
-    video:
-      autoplay: true
-    youtube:
-      id: 0ljMPjPQjRI
-    cta:
-      url: /vr-animatie-laten-maken/
-      text: Lees hier mee
-      type: button
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## ***De aanpak*** van onze animatie studio
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      Omdat we graag persoonlijk werken, maak je al meteen kennis met een van onze projectmanagers die voor onze studio in Amsterdam werken. Die stippelt samen met jou het traject verder uit. Daarbij vragen we je om je input en feedback op concept, strategie en script. Natuurlijk luisteren we ook graag naar jouw designers en huisstijl: wij vinden het belangrijk als je een consistente, visuele stijl hebt, en daar horen animaties bij.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -182,17 +147,6 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
-      autoplay: true
-  - type: content_block
-    align: right
-    content: >-
-      ## De unieke designfilosofie van Phil & Flo
-
-
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
     align: left
