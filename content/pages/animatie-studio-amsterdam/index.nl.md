@@ -1,6 +1,6 @@
 ---
-title: animatie studio amsterdam
-slug: animatie studio amsterdam
+title: animatie studio amsterdam1
+slug: animatie studio amsterdam1
 draft: false
 id: SlNYTGPTb
 blocks:
