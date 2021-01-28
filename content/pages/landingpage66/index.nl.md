@@ -53,10 +53,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## De unieke designfilosofie van Phil & Flo
+      ## Leer Phil & Flo animatie studio kennen
 
 
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
+      Om je te overtuigen en inspireren, hebben we een grote greep uit eerdere cases online. Zo zie je van tevoren wat onze animatie studio al in Utrecht heeft gedaan. Wij geloven ook in persoonlijk contact met onze klanten. Daarom gaan we graag vrijblijvend met je in gesprek. Zie jij dat ook zitten? Dan kun je meteen contact met ons opnemen, of langskomen op een van onze kantoren.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
@@ -64,10 +64,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Kies de juiste kleuren***
+      ## Vandaag nog alles weten over onze animatie studio?
 
 
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
+      Wil je weten wat wij kunnen maken voor jou? Neem contact op met onze specialisten via het contactformulier of bel vrijblijvend naar 085 -273 8331
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
