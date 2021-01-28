@@ -11,7 +11,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
-    title: "***Bedrijfsanimatie laten maken*** | Phil & Flo"
+    title: "***Bedrijfsanimatie laten maken*** door Phil & Flo"
     content: Een animatie laat je maken als je iets te vertellen hebt. Je
       introduceert een nieuw product of nieuwe dienst, je bent aan het
       uitbreiden en zoekt nieuwe werknemers, of hebt nieuwe procedures die je
