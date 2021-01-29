@@ -28,8 +28,6 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 8tKtbeTsmfQ
-  - type: content_block
-  - type: content_block
   - type: contact_block
     contacts:
       - 2BVK9YvSq
