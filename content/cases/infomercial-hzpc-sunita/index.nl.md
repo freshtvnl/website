@@ -27,6 +27,10 @@ blocks:
       Retailers enthousiast krijgen om Sunita te gaan verkopen in hun winkels. Daarnaast is de film bedoeld om boeren te informeren over het aardappelras wat ze onder de grond krijgen of hebben.
     align: left
     displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/HZPC-sunita-boeren-k.mp4
+      source_webm: ""
+      autoplay: true
   - type: content_block
     content: >-
       ### ***Inhoud***
@@ -43,6 +47,10 @@ blocks:
 
       4. Verschillende bereidingswijzen van Sunita.
     align: right
+    video:
+      autoplay: true
+      source_mp4: https:/video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
@@ -53,6 +61,7 @@ blocks:
     displaymedia: custom_video
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Timelapse-phil-en-flo-k.mp4
   - type: content_block
     align: right
     content: >-
@@ -63,6 +72,7 @@ blocks:
     displaymedia: custom_video
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/HZPC-aardappelen-kokenk.mp4
   - type: content_block
     align: left
     content: >-
