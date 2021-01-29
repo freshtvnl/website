@@ -46,20 +46,30 @@ blocks:
 
 
       Zo hebben we een heldere uitleganimatie opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe PRA te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
-      ### Ervaring in video-testimonials
+      ### Ervaring in ***video-testimonials***
 
 
       Een animatie is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend video-testimonials gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
+    displaymedia: youtube_video
+    youtube:
+      id: i1ljV8twDig
   - type: content_block
     align: left
     content: >-
-      ### De organisatie in een bedrijfsfilm
+      ### De organisatie in een ***bedrijfsfilm***
 
 
       Na de uitleg van wat geneesmiddelen onderzoek is en het delen van ervaringen is het natuurlijk belangrijk om te weten met wat voor organisatie de kandidaat in aanraking komt. Een bedrijfsfilm die deze informatie verschaft kan om deze reden niet ontbreken. Sterker nog, deze film is zelfs essentieel. Je doet namelijk geen zaken met een bedrijf waar je geen vertrouwen in hebt. Zeker niet als het om je gezondheid gaat!
+    displaymedia: youtube_video
+    youtube:
+      id: uxDljSPqZA8
   - type: content_block
     align: right
     content: >-
@@ -67,8 +77,17 @@ blocks:
 
 
       PRA Health Sciences is een uitstekend voorbeeld van een geslaagde videocampagne. Het denkwerk voorafgaand aan de filmopnames en animeerwerk in combinatie met het goed online wegzetten op YouTube heeft geresulteerd tot een verdubbeling in het aantal aanmeldingen. Met name de uitleganimatie doet haar werk uitstekend met inmiddels meer dan 1 miljoen weergaven. Kijk voor alle videoresultaten eens naar het compleet ingerichte [YouTube kanaal van PRA Health Sciences](https://www.youtube.com/user/vrijwilligerPRA).
+
+
+      Wil je ook meer informatie over een videocampagne voor jouw organisatie? Neem contact op of bel onze adviseurs 085 273 8331
     displaymedia: custom_video
-  - type: content_block
+    video:
+      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-2-Phil-en-Flo-website-source.mp4
+      autoplay: true
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: contact_block
     contacts:
       - PZcCTyF1B
