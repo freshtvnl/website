@@ -12,6 +12,7 @@ blocks:
     displaymedia: custom_video
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
     content: PRA Health Sciences zoekt doorlopend naar vrijwilligers die mee willen
       werken aan een geneesmiddelenonderzoek. Bij een geneesmiddelenonderzoek
       worden kandidaten een bepaalde periode opgenomen in het onderzoekscentrum
