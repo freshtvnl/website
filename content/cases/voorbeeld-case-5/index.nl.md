@@ -17,9 +17,12 @@ blocks:
       overtuigende werken-bij video te maken om potentiële aniossen aan te
       spreken.
     title: Werken als Anios
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/foto-umcg.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     content: >-
       ## ***Doelstellingen***
@@ -45,11 +48,14 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Functieaspecten anios Chirurgie***
-
+      ## Functieaspecten ***anios Chirurgie***
 
 
       Om kandidaten echt enthousiast te maken voor de functie anios binnen de Chirurgie, hebben we ervoor gekozen om een goede balans van zachte en harde aspecten van de functie in beeld te brengen. Denk bij de harde aspecten onder andere aan werkzaamheden op de traumakamer, gipspolikliniek en de kinderafdeling. De meer unieke zachte aspecten waren onder andere het onderwijs, de laparoscopische oefenbox, het onderzoekslab, en niet te vergeten het ‘kroketmoment’ met alle collega’s. Het hoogtepunt van de film is natuurlijk de niertransplantatie. Hier hebben we tijdens een operatie de chirurgen, aiossen en aniossen van het UMCG in actie gezien.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie2-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -58,9 +64,12 @@ blocks:
 
 
       Bij het maken van een film kiezen we vaak tussen óf interviews óf een voice-overstem om de beelden te begeleiden. Omdat het in dit geval om een werken-bij video ging, hebben we gekozen voor interviews met verschillende collega’s van de afdeling Chirurgie. Dit geeft een persoonlijk karakter aan de film. We kiezen hierbij altijd voor een diverse samenstelling zodat een breder publiek aangesproken wordt door de film. Dit betekent onder andere een goede verhouding tussen man en vrouw, en verschillende functies en dus invalshoeken.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/interview1.jpg
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
