@@ -1,10 +1,10 @@
 ---
 title: Douwe Egberts - Promotiefilm
-draft: true
+draft: false
 id: E9m0t0ALL
 image:
   source: images/schermafbeelding-2020-12-01-om-16.24.30.png
-  alt: blue background
+  alt: ""
 color: orange
 branch: CA0ObKsX0
 blocks:
@@ -26,4 +26,5 @@ blocks:
 
 
       De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is
+    displaymedia: custom_video
 ---
