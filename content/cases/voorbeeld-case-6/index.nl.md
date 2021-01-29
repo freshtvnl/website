@@ -39,4 +39,5 @@ blocks:
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
+      autoplay: true
 ---
