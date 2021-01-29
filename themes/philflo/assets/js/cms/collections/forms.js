@@ -4,7 +4,7 @@ const fields = [
     name: 'title',
     widget: 'string',
     required: false,
-    i18n: true
+    i18n: true,
   },
   {
     label: 'Thank you page url',

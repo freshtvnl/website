@@ -18,8 +18,8 @@ blocks:
       source: images/aron-sophie.jpg
   - type: content_block
     align: center
+    content: "## Contact formulier"
     form: 2nOvI3M4P
-    content: ""
   - type: selectedreviews_block
     title: reviews
     items:
