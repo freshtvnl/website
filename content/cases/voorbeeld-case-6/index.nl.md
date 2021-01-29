@@ -53,11 +53,17 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      Nederlandse versie
+      ## ***Nederlandse versie***
 
 
       Bekijk hier de totale film in het Nederlands. Ben je ook geïnteresseerd in een goede promotiefilm voor je organisatie? Bel vrijblijvend met onze adviseurs over de mogelijkheden.
     displaymedia: youtube_video
+    youtube:
+      id: AvBUto8vuuc
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: contact_block
     contacts:
       - Nc7XQAY2B
