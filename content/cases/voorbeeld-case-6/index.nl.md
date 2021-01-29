@@ -10,7 +10,7 @@ color: orange
 branch: CA0ObKsX0
 blocks:
   - type: hero_block
-    title: Douwe Egberts Commercial
+    title: "***Douwe Egberts Commercial***"
     content: Voor Douwe Egberts hebben we voor de zakelijk gebruiker een commercial
       gemaakt die de voordelen van de Douwe Egberts oplossingen goed en smaakvol
       weergeven. We hebben gekozen voor een ambachtelijke aanpak in de film, met
