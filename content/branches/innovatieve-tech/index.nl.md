@@ -5,7 +5,7 @@ weight: 3
 draft: false
 id: YBLABQPne
 image:
-  source: images/zorg-innovatie.jpg
+  source: images/vertical-farming.jpg
 color: blue
 blocks:
   - type: hero_block
@@ -17,7 +17,7 @@ blocks:
     image:
       source: ""
     video:
-      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
     align: left
@@ -51,10 +51,13 @@ blocks:
 
 
       Onze experts staan ook klaar om een strategie uit te denken om de doelgroep te bereiken met onze films. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan bijvoorbeeld op LinkedIn. Vraag ons naar de mogelijkheden.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
     align: left
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw-Phil-en-Flo-website-source.mp4
   - type: contact_block
     contacts:
       - kJ07QyNzs
