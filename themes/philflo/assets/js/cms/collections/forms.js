@@ -32,7 +32,7 @@ const fields = [
     label: "Form Type",
     name: "type",
     widget: "select",
-    options: ["quotation", "contact"],
+    options: ["quotation", "contact", "birthday", "review_intern", "review_extern"],
     required: true,
     i18n: true,
   },

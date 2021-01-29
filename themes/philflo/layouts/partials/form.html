@@ -10,6 +10,7 @@
   
     <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
       <div class="grid grid-cols-4 gap-6">
+        {{ if eq $type "quotation"}}
         <div class='col-span-4'>
           <label class="block">
             <span >{{ T "notes" }} <span class="text-red-500">*</span></span>
@@ -19,35 +20,114 @@
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber"  required>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
           </label>
         </div>
+        <div class="col-span-4">
+          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
+        </div>
       </div>
-      {{ if eq $type "quotation"}}
-        <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
       {{ end }}
+  
       {{ if eq $type "contact"}}
-        <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+        <div class='col-span-4'>
+          <label class="block">
+            <span >{{ T "notes" }} <span class="text-red-500">*</span></span>
+            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "name" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "email" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+          </label>
+        </div>
+        <div class="col-span-4">
+          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+        </div>
+      </div>
       {{ end }}
-    
+
+      {{ if eq $type "birthday"}}
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "name" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "birthday" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="birthday" name="birthday" type="text" placeholder="dd-mm-yyyy"  required >
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+          </label>
+        </div>
+        <div class="col-span-4">
+          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+        </div>
+      </div>
+    {{ end }}
+
+
+    {{ if eq $type "review_intern"}}
+
+    intern formulier
+
+    {{ end }}
+
+    {{ if eq $type "review_extern"}}
+
+    extern formulier
+
+    {{ end }}
+  
 
     </form>
    

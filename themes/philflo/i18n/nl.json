@@ -62,6 +62,10 @@
   {
     "id": "send_form",
     "translation": "Formulier versturen"
+  },
+  {
+    "id": "birthday",
+    "translation": "Verjaardag"
   }
   
 ]
