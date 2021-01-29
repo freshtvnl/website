@@ -3,6 +3,9 @@ title: Instructiefilm
 slug: Instructiefilm
 draft: false
 id: aa4awsNMvv3
+seo:
+  title: Instructiefilm - Phil & Flo Videomarketing
+  description: "Weg met saaie handleidingen: kies voor een instructiefilm! Wij brengen stap voor stap in beeld hoe jouw product of dienst werkt of hoe iemand moet handelen."
 blocks:
   - type: hero_block
     title: "***Instructiefilm laten maken***"

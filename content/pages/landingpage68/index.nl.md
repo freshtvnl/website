@@ -4,6 +4,9 @@ slug: Explainer animatie
 weight: 1
 draft: false
 id: wvUKasdfasdfuLAzh
+seo:
+  title: Explanimation laten maken - Phil en Flo Videomarketing
+  description: Een explanimation legt binnen twee minuten uit wat je precies bedoelt met jouw product, dienst, systeem of proces. Neem contact op
 image:
   source: images/2d-animatie-laten-maken.jpg
 color: pink

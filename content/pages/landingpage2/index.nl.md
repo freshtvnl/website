@@ -3,6 +3,9 @@ title: YouTube Marketing
 slug: YouTube Marketing
 draft: false
 id: 4awsNMvv32
+seo:
+  title: Youtube marketing - Adverteer op YouTube - Phil & Flo Videomarketing
+  description: Youtube Marketing. Wij adviseren je hoe je video en animatiefilms in kunt zetten in het reclamenetwerk van YouTube. Ontdek de kracht van YouTube marketing!
 blocks:
   - type: hero_block
     title: "***YouTube*** marketing"

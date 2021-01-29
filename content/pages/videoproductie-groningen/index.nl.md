@@ -1,6 +1,9 @@
 ---
 title: videoproductie groningen
 slug: videoproductie groningen
+seo:
+  title: Videoproductie Groningen - Succesvol en Snel - Phil & Flo Videomarketing
+  description: Videoproductie laten maken? Phil & Flo is dé specialist op het gebied van succesvolle videproducties. Neem nu contact op om de mogelijkheden te bespreken!
 draft: false
 id: DFhjXX4LC
 blocks:

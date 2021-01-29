@@ -3,6 +3,9 @@ title: Branding video laten maken
 slug: Branding video laten maken
 draft: false
 id: 4awsNMvv3aq
+seo:
+  title: Branding video laten maken - Phil & Flo Videomarketing
+  description: Waar sta jij voor als bedrijf? Vertaal het in een Branding Video. | De succesvolle manier van StoryTelling | Al 10 jaar specialist | Bel ons nu
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld

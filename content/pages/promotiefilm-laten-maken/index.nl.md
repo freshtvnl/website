@@ -1,6 +1,9 @@
 ---
 title: Promotiefilm laten maken
 slug: Promotiefilm laten maken
+seo:
+  title: Promotiefilm laten maken | Phil & Flo Videomarketing
+  description: Promotiefilm laten maken? Phil & Flo kan je helpen! Samen zorgen we voor een film die laat zien wat jij in huis hebt. Kom vrijblijvend een smoothie drinken!
 draft: false
 id: 9x8EDNyU8
 blocks:

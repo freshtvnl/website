@@ -3,6 +3,9 @@ title: Gepersonaliseerde video
 slug: Gepersonaliseerde video
 draft: false
 id: 4awsNadf1Mvv3
+seo:
+  title: Gepersonaliseerd video - Phil & Flo Videomarketing
+  description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
 blocks:
   - type: hero_block
     title: "***Gepersonaliseerde video***"

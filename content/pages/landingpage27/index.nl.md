@@ -3,6 +3,9 @@ title: Personalized video
 slug: Personalized video
 draft: false
 id: 4awsNM1212vv3
+seo:
+  title: Personalized video - Phil & Flo Videomarketing
+  description: Een personalized video staat voor je klant kennen en met concrete, gepersonaliseerde oplossingen komen. Denk mee en beantwoord de behoeften van je klant!
 blocks:
   - type: hero_block
     title: "***Personalized video***"

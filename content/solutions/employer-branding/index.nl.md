@@ -3,6 +3,9 @@ title: Employer Branding
 slug: Employer Branding
 draft: false
 id: yV7XuAtMH
+seo:
+  title: Employer Branding video laten maken | Specialist Phil & Flo Videomarketing
+  description: Employer branding video nodig? Phil & Flo Videomarketing > Sneller en beter nieuwe medewerkers werven met een authentieke film > Alle branches > Bel ons nu.
 image:
   source: images/employer-branding.jpg
 blocks:

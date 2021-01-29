@@ -1,6 +1,9 @@
 ---
 title: 2D Animatie
 slug: 2D Animatie
+seo:
+  title: 2D animatie laten maken | Phil & Flo Videomarketing
+  description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
 weight: 1
 draft: false
 id: wvUKuLAzh58

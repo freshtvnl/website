@@ -3,6 +3,9 @@ title: Vacature video
 slug: Vacature video
 draft: false
 id: 4awsasdfNMvv3
+seo:
+  title: Vacature Video Laten Maken - Snel Resultaat - Phil & Flo Videomarketing
+  description: Direct resultaat met een goede vacature video. Jouw openstaande vacatures beter onder de aandacht met een succesvolle vacature video voor iedere branche!
 blocks:
   - type: hero_block
     title: "***Vacature*** video"

@@ -2,6 +2,9 @@
 title: MVO
 slug: Maatschappelijk verantwoord ondernemen
 id: zVQIJsr9a
+seo:
+  title: Klimaatneutraal - Phil & Flo Videomarketing
+  description: Wij werken niet voor klimaatverwoestende organisaties zoals olie industrie, lees ons statement. Wij werken zelf 100% Co2 neutraal.
 image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
 blocks:

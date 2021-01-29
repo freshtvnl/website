@@ -3,6 +3,9 @@ title: Stage
 slug: stage
 draft: false
 id: hH6C22vEw
+seo:
+  title: Stagelopen bij video of animatie bedrijf - Phil & Flo Videomarketing
+  description: Stage lopen bij een videoproductie bedrijf of animatie studio in de regio Groningen? Neem dan contact op met Phil & Flo Videomarketing via ons stageformulier!
 blocks:
   - type: content_block
     align: center

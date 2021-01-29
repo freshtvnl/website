@@ -3,6 +3,9 @@ title: Algemene voorwaarden
 slug: agemene-voorwaarden
 draft: false
 id: j18wstXaE
+seo:
+  title: Spelregels - Algemene voorwaarden - Videomarketing Phil & Flo
+  description: Phil & Flo videomarketing werkt met bepaalde spelregels; ofwel de algemene voorwaarden. Bekijk de video voor meer informatie!
 blocks:
   - type: content_block
     align: center

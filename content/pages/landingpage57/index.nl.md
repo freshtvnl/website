@@ -4,6 +4,9 @@ slug: 3D productvideo
 weight: 1
 draft: false
 id: wvUKuLAzh57
+seo:
+  title: 3D productvideo laten maken door Phil & Flo Videomarketing | klik hier
+  description: 3D productvideo laten maken door het leukste bureau van Nederland! Phil & Flo Videomarketing | Mooiste renders | Slimste marketing | Hoge klanttevredenheid!
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

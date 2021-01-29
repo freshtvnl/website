@@ -3,6 +3,9 @@ title: Bedrijfsfilm Eindhoven
 slug: Bedrijfsfilm Eindhoven
 draft: false
 id: 4awsNMvv3d
+seo:
+  title: Bedrijfsfilm Eindhoven - Snel en Professioneel - Phil & Flo
+  description: Bedrijfsfilm laten maken in Eindhoven? De nummer 1 in succesvolle bedrijfsfilms in Eindhoven en omgeving. Bel ons direct voor afspraak ;)
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken in Eindhoven***"

@@ -1,6 +1,9 @@
 ---
 title: Animatiefilm laten maken
 slug: Animatiefilm laten maken
+seo:
+  title: Animatiefilm Laten Maken - Say Yes to Team Fresh ;)
+  description: Ook een succesvolle animatiefilm laten maken? Ons specialistische team produceert de animatiefilm die past bij je organisatie! Bel ons nu, of straks...
 weight: 1
 draft: false
 id: wvUKuLAzh51

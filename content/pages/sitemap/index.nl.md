@@ -4,6 +4,9 @@ slug: sitemap
 weight: 1
 draft: false
 id: K7N5t7lJE
+seo:
+  title: Sitemap - Phil & Flo Video marketing
+  description: 
 blocks:
   - type: hero_block
     title: Sitemap
