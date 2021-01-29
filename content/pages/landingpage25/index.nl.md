@@ -3,6 +3,9 @@ title: Communicatie in de zorg
 slug: Communicatie in de zorg
 draft: false
 id: 4awsNMvv3121212
+seo:
+  title: Communicatie in de zorg - Phil & Flo Videomarketing
+  description: Onderscheid je van andere zorgaanbieders met communicatie in de zorg. Jouw boodschap over goede zorg visualiseren door Phil & Flo videomarketing.
 blocks:
   - type: hero_block
     title: "***Communicatie in de zorg***"

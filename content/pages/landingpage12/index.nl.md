@@ -3,6 +3,9 @@ title: bedrijfsfilm laten maken groningen
 slug: bedrijfsfilm laten maken groningen
 draft: false
 id: 4awsNMvv3ef
+seo:
+  title: Bedrijfsfilm laten maken Groningen - Productie en Marketing - Phil & Flo
+  description: Bedrijfsfilm laten maken in Groningen? Wij zijn dé specialist in succesvolle bedrijfsfilms in Groningen en omgeving. Bel ons direct voor afspraak ;)
 blocks:
   - type: hero_block
     title: Bedrijfsfilm laten maken in ***Groningen***

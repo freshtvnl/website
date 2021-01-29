@@ -1,6 +1,9 @@
 ---
 title: Adverteren op YouTube
 slug: Adverteren op YouTube
+seo:
+  title: Adverteren op YouTube - Phil & Flo Videomarketing
+  description: 
 draft: false
 id: 4awsNMvv3dfadf
 blocks:

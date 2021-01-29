@@ -4,6 +4,9 @@ slug: animatie-studio-utrecht
 weight: 1
 draft: false
 id: wvUK1212auLAzh
+seo:
+  title: Animatie studio in Utrecht | Phil & Flo Videomarketing
+  description: Phil & Flo Animatie studio in Utrecht |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 color: red

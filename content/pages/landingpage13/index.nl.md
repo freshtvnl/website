@@ -3,6 +3,9 @@ title: Productfilm
 slug: Productfilm
 draft: false
 id: 4awsNMvv3g
+seo:
+  title: Productfilm - Succes dankzij Phil & Flo Videomarketing
+  description: Met een productfilm van Phil & Flo vinden jouw klanten met slechts één klik alle relevante informatie over het juiste product.
 blocks:
   - type: hero_block
     title: "***Productfilm*** laten maken"

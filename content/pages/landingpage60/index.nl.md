@@ -4,6 +4,9 @@ slug: Educatieve animatiefilm maken
 weight: 1
 draft: false
 id: wvUKuLAzh60
+seo:
+  title: Educatieve animatievideo maken - Phil & Flo Videomarketing
+  description: Educatie animatiefilm maken? Maak iets in zo’n kort mogelijk tijdsbestek duidelijk aan je doelgroep. Zo komt je boodschap goed over.
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

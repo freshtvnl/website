@@ -3,6 +3,9 @@ title: bedrijfsanimatie
 slug: bedrijfsanimatie
 draft: false
 id: 0wFfBvVZd
+seo:
+  title: Bedrijfsanimatie - Phil & Flo Videomarketing
+  description: "Laat met een bedrijfsanimatie zien wie je bent en wat je doet. Ga met je tijd mee! Van productdemo tot uitlegvideo: wij maken ze simpel en aantrekkelijk."
 blocks:
   - type: hero_block
     content: Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze

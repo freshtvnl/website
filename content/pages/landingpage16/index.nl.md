@@ -3,6 +3,9 @@ title: Wervingsvideo laten maken
 slug: Wervingsvideo laten maken
 draft: false
 id: 4awsNMvv3gw
+seo:
+  title: Wervingsvideo video laten maken | Specialist Phil & Flo Videomarketing
+  description: vacatures open? Laat een Wervingsvideo maken door Phil & Flo Videomarketing > Nieuwe medewerkers werven met een authentieke film > Alle branches > Bel ons nu.
 blocks:
   - type: hero_block
     title: "***Wervingsvideo*** laten maken"

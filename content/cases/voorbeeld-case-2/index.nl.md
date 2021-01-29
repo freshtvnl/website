@@ -6,6 +6,9 @@ id: fm2wFFmdb
 image:
   source: images/schermafbeelding-2020-12-01-om-16.02.29.png
   alt: "Payconiq - Phil en Flo "
+seo:
+  title: Productvideo Payconiq P2P - Phil & Flo Videomarketing
+  description: "Portfolio Phil & Flo Videomarketing presenteert de Productvideo Payconiq P2P: Your new pay to pay. Pay fast, pay easy, Payconiq"
 color: blue
 branch: YBLABQPne
 blocks:

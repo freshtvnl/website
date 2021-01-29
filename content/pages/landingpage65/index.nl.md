@@ -4,6 +4,9 @@ slug: Animatiestudio Groningen
 weight: 1
 draft: false
 id: wvUKuas1aLAzh
+seo:
+  title: AnimatieStudio Groningen - Phil & Flo Videomarketing
+  description: Een animatie laat je maken in Groningen! Proeffesionele animatiefilms door onze animatiestudio in Groningen. Kom langs voor een afspraak. Bel ons nu.
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

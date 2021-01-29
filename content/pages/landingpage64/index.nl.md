@@ -4,6 +4,9 @@ slug: Animatie Amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh64
+seo:
+  title: Animatie laten maken in Amsterdam | Door Phil & Flo Videomarketing
+  description: Animatie laten maken in Amsterdam doe je bij Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

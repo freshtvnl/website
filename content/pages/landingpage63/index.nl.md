@@ -4,6 +4,9 @@ slug: animatie maken rotterdam
 weight: 1
 draft: false
 id: wvUKuLAzh63
+seo:
+  title: Animatie maken Rotterdam | Door Phil & Flo Videomarketing
+  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

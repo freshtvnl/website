@@ -8,6 +8,8 @@ image:
   alt: ""
 color: orange
 branch: CA0ObKsX0
+seo:
+  title: Commercial Douwe Egberts - Phil & Flo Videomarketing
 blocks:
   - type: hero_block
     title: "***Douwe Egberts Commercial***"

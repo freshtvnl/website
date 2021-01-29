@@ -1,6 +1,9 @@
 ---
 title: animatie film eindhoven
 slug: animatie film eindhoven
+seo:
+  title: Animatie film laten maken in Eindhoven | Phil & Flo Videomarketing
+  description: Animatie film laten maken in Eindhoven door Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 weight: 1
 draft: false
 id: wvUKuLAzh62

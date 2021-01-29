@@ -4,6 +4,9 @@ slug: animatie-studio-amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh
+seo: 
+  title: Animatie studio Amsterdam | Creatief en Snel | Phil & Flo Videomarketing
+  description: Phil & Flo Animatie studio in Amsterdam | Creatieve animatiefilms | We produceren unieke maatwerk animaties voor jouw organisatie! 2D, 3D en VR! Bel ons nu!
 image:
   source: images/2d-animatie-laten-maken.jpg
 color: red

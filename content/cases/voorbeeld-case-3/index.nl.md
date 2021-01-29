@@ -8,6 +8,9 @@ image:
   alt: ""
 color: red
 branch: 7P41lTMjs
+seo:
+  title: Beroeps Organisatie Kunstenaars - 3D Animatie - Phil & Flo Videomarketing
+  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als commercial wordt deze geadverteerd tijdens de Ster reclames. Kunstliefhebbers en kunstenaars vind elkaar!
 blocks:
   - type: hero_block
     title: "***Beroeps Organisatie Kunstenaars*** – 3D Animatie"

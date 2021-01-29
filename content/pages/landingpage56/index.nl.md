@@ -4,6 +4,9 @@ slug: Animatie bedrijf Amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh56
+seo:
+  title: Animatie bedrijf Amsterdam | Phil & Flo Videomarketing
+  description: Animatie bedrijf in Amsterdam Phil & Flo Videomarketing |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

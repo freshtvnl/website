@@ -3,6 +3,9 @@ title: Employer branding chipsoft
 slug: Employer branding chipsoft
 draft: false
 id: 6ODogkb7_
+seo:
+  title: Employer Branding ChipSoft - Phil & Flo Videomarketing
+  description: "Employer Branding ChipSoft: met trots presenteert Phil & Flo Videomarketing deze geslaagde videoproducties. Ontdek de totstandkoming van dit interessante project!"
 image:
   source: images/employer-branding-chipsoft.jpg
 color: blue
