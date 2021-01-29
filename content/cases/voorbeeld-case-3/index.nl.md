@@ -1,5 +1,6 @@
 ---
 title: 3D commercial - Kunstenaars organisatie
+slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
 draft: false
 id: DG0aSzvMj
 image:
