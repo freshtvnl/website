@@ -92,4 +92,7 @@ blocks:
       type: button
     youtube:
       id: NVxOYpMF0mw
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
