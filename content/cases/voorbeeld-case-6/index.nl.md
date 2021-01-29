@@ -22,9 +22,21 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Vraagstuk
+      ## ***Vraagstuk***
 
 
-      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is
+      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijtig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
+    displaymedia: youtube_video
+    youtube:
+      id: DE5OAQNrQJY
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Resultaat***
+
+
+      De films zijn in meerdere landen door de accountmanagers van Douwe Egberts ingezet. Het effect van defilms heeft duidelijk geresulteert in meer verkopen, echter hebben wij geen concrete verkoopcijfers. Wel zijn de verschillende landen tevreden met het resultaat.
     displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
 ---
