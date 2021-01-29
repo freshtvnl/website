@@ -31,9 +31,13 @@ blocks:
 
       Het enthousiasmeren van geschikte aniossen was onze doelstelling. Om dit te doen hebben we ervoor gekozen om de afdeling Chirurgie en werkzaamheden als stoer, divers en uniek naar voren te laten komen in de film. Dit zijn uiteraard niet elementen die we vanuit Phil & Flo geprojecteerd hebben, maar aspecten die wij tijdens onze rondleiding en creatieve sessie op locatie naar voren zagen komen. Zo konden we een realistische maar overtuigende video schieten.
     align: left
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/niertransplantatie-1.jpg
+    video:
+      source_webm: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.webm
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
