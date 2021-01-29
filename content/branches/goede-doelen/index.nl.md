@@ -11,7 +11,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Goede doelen
+      ## ***Goede doelen***
 
 
       Phil & Flo zet zich in voor de wereld van morgen. Dat betekent dat we onze kennis ook moeten inzetten voor goede doelen. Daarom produceren we elk jaar een aantal animatiefilms of videofilms voor goede doelen tegen gereduceerd tarief of zelfs helemaal gratis. Wat maakt iets voor ons een goed doel? Wij bepalen per goed doel of we daaraan onze tijd willen besteden als team. Is het idee leuk, het goede doel goed genoeg en hebben we een klik? Dan maken we een geweldige film voor je!
@@ -22,18 +22,25 @@ blocks:
       autoplay: true
   - type: content_block
     align: right
-    content: Wil je meer weten over de mogelijkheden van een animatiefilm, een
-      interactieve film of een persoonlijke film voor fondsenwerving, uitleg of
-      begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen
-      die wij bieden op het gebied van marketing en communicatie voor goede
-      doelen, 085 - 273 8331.
+    content: >-
+      ## Film voor ***goede doelen***
+
+
+      Wil je meer weten over de mogelijkheden van een animatiefilm, een interactieve film of een persoonlijke film voor fondsenwerving, uitleg of begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, 085 - 273 8331.
     image:
       source: images/home-start-goede-doelen.jpg
     displaymedia: image
-  - type: selectedwork_block
-    items:
-      - DG0aSzvMj
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+  - type: selectedwork_block
+    items:
+      - DG0aSzvMj
+      - dD7nogK0Q
+      - sCR0-5I1N
+    more_items: true
 ---
