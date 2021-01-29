@@ -19,6 +19,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
+      source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
   - type: content_block
     align: left
     content: >-
