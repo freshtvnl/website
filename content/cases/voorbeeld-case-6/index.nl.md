@@ -1,5 +1,6 @@
 ---
 title: Douwe Egberts - Promotiefilm
+slug: douwe-egberts-promotiefilm
 draft: false
 id: E9m0t0ALL
 image:
