@@ -35,9 +35,22 @@ blocks:
       ## ***Resultaat***
 
 
-      De films zijn in meerdere landen door de accountmanagers van Douwe Egberts ingezet. Het effect van defilms heeft duidelijk geresulteert in meer verkopen, echter hebben wij geen concrete verkoopcijfers. Wel zijn de verschillende landen tevreden met het resultaat.
+      De films zijn in meerdere landen door de accountmanagers van Douwe Egberts ingezet. Het effect van de films heeft duidelijk geresulteerd in meer verkopen, de verschillende landen zijn zeer tevreden met het resultaat.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Achter de schermen***
+
+
+      We werken bij Phil & Flo uitsluitend met video en film professionals. Zie hier de belichting van het ambachtelijke shot van de de koffiemeester.
+    displaymedia: image
+    image:
+      source: images/apjr_20190430_0001.jpg
+  - type: contact_block
+    contacts:
+      - Nc7XQAY2B
 ---
