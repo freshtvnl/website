@@ -201,6 +201,70 @@
       <p>Vragen m.b.t. de productie t/m de oplevering van de eindproducten en/of diensten.</p>
     </div>
 
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Contactpersoon projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
+        <select name="projectbegeleiding" id="projectbegeleiding" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+          <option value="inge">Inge</option>
+          <option value="sebastiaan">Sebastiaan</option>
+        </select>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Persoonlijke klik projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Bereikbaarheid projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Expertise projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Afspraken projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Compliment(en) voor projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Tip(s) voor projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
+      </label>
+    </div>
+
+
+    <div class="col-span-4">
+      <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+    </div>
+
 
     {{ end }}
 
@@ -288,6 +352,157 @@
       <p>Vragen m.b.t. de productie t/m de oplevering van de eindproducten en/of diensten.</p>
     </div>
 
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Contactpersoon projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
+        <select name="projectbegeleiding" id="projectbegeleiding" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+          <option value="inge">Inge</option>
+          <option value="sebastiaan">Sebastiaan</option>
+        </select>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Persoonlijke klik projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Bereikbaarheid projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Expertise projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Afspraken projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Compliment(en) voor projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Tip(s) voor projectbegeleiding<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
+      </label>
+    </div>
+
+    <div class="col-span-4"> 
+      <h3>Eindresultaat</h3>
+      <p>Vragen m.b.t. de eindproducten of -diensten.</p>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (volledig ontevreden) en 10 (razend enthousiast). Het cijfer wordt online gebruikt als referentie.</span>
+        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Toelichting algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Vertel hoe jij de samenwerking hebt ervaren</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Wat ga je met de video- of animatiefilm doen?<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Wat ga je met de video- of animatiefilm doen?<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
+        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
+      </label>
+    </div>
+
+    <div class='col-span-4'>
+      <label class="block">
+        <span class="block">Welke videovormen zijn interessant voor de toekomst?<span class="text-red-500">*</span></span>
+        <span class="text-gray-500 text-base block mb-4">Meerdere opties aanvinken is mogelijk.</span>
+        <fieldset>
+          <div>
+            <input type="checkbox" id="uitleganimatie" name="videoToekomst" value="uitleganimatie">
+            <label for="uitleganimatie">Uitleganimatie 2D/3D</label>
+          </div>
+          <div>
+            <input type="checkbox" id="bedrijfsfilm" name="videoToekomst" value="bedrijfsfilm">
+            <label for="bedrijfsfilm">Bedrijfsfilm</label>
+          </div>
+          <div>
+            <input type="checkbox" id="productfilm" name="videoToekomst" value="productfilm">
+            <label for="productfilm">Productfilm</label>
+          </div>
+          <div>
+            <input type="checkbox" id="employer" name="videoToekomst" value="employer">
+            <label for="employer">Employer Branding / vacaturefilms</label>
+          </div>
+          <div>
+            <input type="checkbox" id="commercial" name="videoToekomst" value="commercial">
+            <label for="commercial">Commercial</label>
+          </div>
+          <div>
+            <input type="checkbox" id="voorlichtingsfilm" name="videoToekomst" value="voorlichtingsfilm">
+            <label for="voorlichtingsfilm">Voorlichtingsfilm</label>
+          </div>
+          <div>
+            <input type="checkbox" id="interactieveVideo" name="videoToekomst" value="interactieveVideo">
+            <label for="interactieveVideo">Interactieve video</label>
+          </div>
+          <div>
+            <input type="checkbox" id="gepersonaliseerdeVideo" name="videoToekomst" value="gepersonaliseerdeVideo">
+            <label for="gepersonaliseerdeVideo">Gepersonaliseerde video</label>
+          </div>
+        </fieldset>
+      </label>
+    </div>
+
+    
+    <div class="col-span-4"> 
+      <h3>Persoonsgegevens</h3>
+      <p>Zodat we contact met je kunnen opnemen</p>
+    </div>
+
+
+
+   
+
+
+    <div class="col-span-4">
+      <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+    </div>
 
     {{ end }}
   
