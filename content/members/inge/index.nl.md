@@ -37,6 +37,9 @@ blocks:
 
 
       Hoe ben ik te beschrijven? Ik zou zeggen, bel mij maar op dan ondervind je het meteen! Even zonder grappen.. Ik ben een flexibele, spontane en leergierige projectmanager. Ik luister en praat graag. Zo maak ik altijd eerst kennis met je zodat ik weet wie je bent, wat je functie is en waar je je graag mee bezig houdt. Ik ben erg punctueel. Ik maak planningen, lijstjes en afspraken en kom ze vervolgens allemaal na.
+
+
+      <a data-src="vcard" href="images/inge_jonker.vcf" class="vcard-link">Download vCard</a>
     displaymedia: image
     image:
       source: ""
