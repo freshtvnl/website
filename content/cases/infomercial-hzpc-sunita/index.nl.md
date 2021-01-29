@@ -49,7 +49,7 @@ blocks:
     align: right
     video:
       autoplay: true
-      source_mp4: https:/video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
     displaymedia: custom_video
   - type: content_block
     align: left
