@@ -13,8 +13,13 @@ cta: Joejoe Inge hier. Plannen, organiseren en regelen, het zit in mijn DNA. Als
   begeleiden en te regelen. Sinds september 2019 ben ik aan de slag als creative
   producer bij Phil & Flo.
 blocks:
+  - type: hero_block
+    title: De wereld van ***Inge***
+    displaymedia: image
+    image:
+      source: images/inge-bank.jpg
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## Even ***terug in de tijd***
 
@@ -34,5 +39,5 @@ blocks:
       Hoe ben ik te beschrijven? Ik zou zeggen, bel mij maar op dan ondervind je het meteen! Even zonder grappen.. Ik ben een flexibele, spontane en leergierige projectmanager. Ik luister en praat graag. Zo maak ik altijd eerst kennis met je zodat ik weet wie je bent, wat je functie is en waar je je graag mee bezig houdt. Ik ben erg punctueel. Ik maak planningen, lijstjes en afspraken en kom ze vervolgens allemaal na.
     displaymedia: image
     image:
-      source: images/inge-bank.jpg
+      source: ""
 ---
