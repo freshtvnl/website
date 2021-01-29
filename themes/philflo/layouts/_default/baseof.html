@@ -6,7 +6,11 @@
 
 
   <body class="bg-white text-gray-800 flex flex-col justify-between min-h-screen font-sans page-{{$pagecolor}}">
-      <div class="flex flex-col flex-1">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THMVXK3"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->  
+    <div class="flex flex-col flex-1">
         {{- partial "header.html" . -}}
         <div id="content" class="flex flex-col flex-1" >
         {{- block "main" . }}{{- end }}
