@@ -10,6 +10,7 @@
   
     <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
       <div class="grid grid-cols-4 gap-6">
+        
         {{ if eq $type "quotation"}}
         <div class='col-span-4'>
           <label class="block">
@@ -118,13 +119,43 @@
 
     {{ if eq $type "review_intern"}}
 
-    intern formulier
+    <div class='col-span-4'>
+      <label class="block">
+        <span>Als bedankje wil ik een...<span class="text-red-500">*</span></span>
+        <select name="gift" id="gift" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+          <option value="zalando15">Zalando Giftcard t.w.v. €15,-</option>
+          <option value="bol15">Bol.com cadeaubon t.w.v. €15,-</option>
+        </select>
+      </label>
+    </div>
+    
+    <div class="col-span-4"> 
+      <h3>Salestraject</h3>
+      <p>Vragen m.b.t. de eerste kennismaking t/m het tekenen van de offerte.</p>
+    </div>
+
+
+
 
     {{ end }}
 
     {{ if eq $type "review_extern"}}
 
-    extern formulier
+    <div class='col-span-4'>
+      <label class="block">
+        <span>Als bedankje wil ik een...<span class="text-red-500">*</span></span>
+        <select name="gift" id="gift" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+          <option value="zalando25">Zalando Giftcard t.w.v. €25,-</option>
+          <option value="bol25">Bol.com cadeaubon t.w.v. €25,-</option>
+        </select>
+      </label>
+    </div>
+    
+    <div class="col-span-4"> 
+      <h3>Salestraject</h3>
+      <p>Vragen m.b.t. de eerste kennismaking t/m het tekenen van de offerte.</p>
+    </div>
+
 
     {{ end }}
   
