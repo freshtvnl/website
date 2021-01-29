@@ -3,6 +3,9 @@ title: commercial laten maken
 slug: commercial laten maken
 draft: false
 id: 4awsNMadfvv3
+seo:
+  title: Commercial laten maken voor TV en online | Phil & Flo
+  description: TV of online Commercial laten maken. Wij produceren de commercial die de doelgroep overtuigt en activeert. Neem contact op.
 blocks:
   - type: hero_block
     title: "***Commercial*** laten maken"

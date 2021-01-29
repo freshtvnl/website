@@ -5,6 +5,9 @@ id: 8zohO6MTO
 image:
   source: ""
   alt: ""
+seo:
+  title: Contact gegevens Phil & Flo Videomarketing
+  description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken of andere vragen? Neem contact met ons op. Phil & Flo Videomarketing contactpagina.
 blocks:
   - type: content_block
     align: left

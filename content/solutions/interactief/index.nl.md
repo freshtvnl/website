@@ -5,6 +5,9 @@ weight: 3
 draft: false
 id: HklGfir85
 parent: wvUKuLAzh
+seo:
+  title: Interactieve video - Phil & Flo Videomarketing
+  description: Interactieve video is een revolutionaire marketing tool, waarbij je interactieve elementen toevoegt aan video’s. Vraag nu je offerte aan.
 image:
   source: images/interactieve-video-philenflo.jpg
 blocks:

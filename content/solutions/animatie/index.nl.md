@@ -220,4 +220,7 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+seo:
+  title: Animatie laten maken | Goed, Snel en Creatief | Phil & Flo Videomarketing
+  description: Een Animatie laten maken doe je bij Phil & Flo | Opvallend ✔ Marketing geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons nu voor meer info.
 ---

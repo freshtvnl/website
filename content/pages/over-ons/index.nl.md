@@ -3,6 +3,9 @@ title: "Over ons "
 slug: over-ons
 id: jCP4fqjKI
 color: pink
+seo:
+  title: Over Ons - Phil & Flo Videomarketing
+  description: Dit is het Phil & Flo team waar we trots op zijn! Kennis maken? Kom langs voor het drinken van een gezonde maar vooral lekkere smoothie!
 blocks:
   - type: hero_block
     title: Over ***Phil en Flo***

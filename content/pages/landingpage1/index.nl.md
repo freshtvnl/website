@@ -117,4 +117,7 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: 3D Animatie laten maken - Phil & Flo Videomarketing
+  description: 3D animatie laten maken voor je organisatie of product? Bekijk onze gave 3D animaties en lees over onze design filosofie.
 ---

@@ -1,6 +1,9 @@
 ---
 title: Uitleganimatie laten maken
 slug: Uitleganimatie laten maken
+seo:
+  title: Uitleganimatie laten maken - Uniek en opvallend -Phil & Flo Videomarketing
+  description: Uitleganimatie laten maken? Phil & Flo produceert een unieke op maat gemaakte uitleganimatie voor je. Snel, hoogwaardig en zonder gedoe. Bel ons nu.
 weight: 1
 draft: false
 id: wvUKuLAzh55

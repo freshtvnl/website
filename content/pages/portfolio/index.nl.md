@@ -2,6 +2,9 @@
 title: Portfolio
 slug: portfolio
 id: O0UIFeS1b
+seo:
+  title: Portfolio Phil & Flo Videomarketing - Bekijk hier onze videoproducties
+  description: Trots op ons portfolio! 300+ organisaties kiezen voor onze video- en animatiefilms. Bekijk de frisse producties van Phil & Flo en kies echte kwaliteit
 blocks:
   - type: collection_block
     collection: cases

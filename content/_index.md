@@ -47,4 +47,7 @@ blocks:
     heading: h3
     title: Oplossingen
 id: xXIrpfv7c
+seo:
+  title: "Phil & Flo Videomarketing · #1 Video Marketing Specialist"
+  description: Frisse Video in combinatie met Krachtige Marketing. Phil & Flo produceert videofilms en animatiefilms die scoren onder jouw doelgroep. Bel ons nu voor advies
 ---

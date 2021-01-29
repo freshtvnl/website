@@ -4,6 +4,9 @@ slug: vr animatie laten maken
 weight: 1
 draft: false
 id: wvUKuLAzh61
+seo:
+  title: VR animatie laten maken - Phil & Flo Videomarketing
+  description: VR animatie laten maken doe je bij Phil & Flo | Onderscheidend met creatieve Virtual Reality content | Ervaar nu zelf VR bij ons en bel ons
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:

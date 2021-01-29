@@ -94,4 +94,7 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol -Phil & Flo
+  description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten. 10 jaar ervaring. Vakkundig, online gericht en klimaatneutraal. Bel ons.
 ---
