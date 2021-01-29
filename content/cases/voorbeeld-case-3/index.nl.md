@@ -26,10 +26,14 @@ blocks:
       ## ***Aan de slag***
 
 
-      Ons team heeft direct zich verzameld en met onze drie animatoren, twee projectmanagers en een art director heeft het team van Phil & Flo deze commercial gerealiseerd. Met een 3D kamer, 2D muurschilderingen en sounddesign van onze externe soundengineer hebben we het verhaal van de kunstenaars weten te schetsen. De reacties op deze commercial waren lovend, en we zijn erg trots dat we dit binnen één week hebben geproduceerd en opgeleverd aan de publieke zenders.
+      Ons team heeft zich direct verzameld en met onze drie animatoren, twee projectmanagers en een art director heeft het team van Phil & Flo deze commercial gerealiseerd. Met een 3D kamer, 2D muurschilderingen en sounddesign van onze externe soundengineer hebben we het verhaal van de kunstenaars weten te schetsen. De reacties op deze commercial waren lovend, en we zijn erg trots dat we dit binnen één week hebben geproduceerd en opgeleverd aan de publieke zenders.
     displaymedia: youtube_video
     youtube:
       id: 8tKtbeTsmfQ
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
   - type: contact_block
     contacts:
       - 2BVK9YvSq
