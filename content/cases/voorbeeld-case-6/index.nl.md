@@ -1,10 +1,10 @@
 ---
 title: Douwe Egberts - Promotiefilm
-draft: true
+draft: false
 id: E9m0t0ALL
 image:
   source: images/schermafbeelding-2020-12-01-om-16.24.30.png
-  alt: blue background
+  alt: ""
 color: orange
 branch: CA0ObKsX0
 blocks:
@@ -22,8 +22,35 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Vraagstuk
+      ## ***Vraagstuk***
 
 
-      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is
+      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijtig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
+    displaymedia: youtube_video
+    youtube:
+      id: DE5OAQNrQJY
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Resultaat***
+
+
+      De films zijn in meerdere landen door de accountmanagers van Douwe Egberts ingezet. Het effect van de films heeft duidelijk geresulteerd in meer verkopen, de verschillende landen zijn zeer tevreden met het resultaat.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
+      autoplay: true
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Achter de schermen***
+
+
+      We werken bij Phil & Flo uitsluitend met video en film professionals. Zie hier de belichting van het ambachtelijke shot van de de koffiemeester.
+    displaymedia: image
+    image:
+      source: images/apjr_20190430_0001.jpg
+  - type: contact_block
+    contacts:
+      - Nc7XQAY2B
 ---
