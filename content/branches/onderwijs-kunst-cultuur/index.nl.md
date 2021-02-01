@@ -18,11 +18,18 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
+    align: left
     content: >-
-      ## Onderwijs ***oplossingen***
+      ## Onderwijs voor de wereld van morgen
 
 
-      Wij produceren interactieve film of animaties voor het onderwijs, zodat deze zijn in te zetten bij het verspreiden van onderwijs ideeën of de promotie van leergemeenschappen. Onze onderwijsspecialist is Sebastiaan, hij heeft de passie om jou te helpen bij het vormgeven van je ideeën. Bel Sebastiaan nu op 085 - 273 8331 om direct vrijblijvend over de mogelijkheden te sparren.
+      De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij van Phil & Flo ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst die zij zelf kunnen vormgeven. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
+  - type: content_block
+    content: >-
+      ## ***1 + 1 = 3?***
+
+
+      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een animatie. We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het CSB in Amsterdam? Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
     displaymedia: image
     image:
       source: images/onderwijs-promotiefilm.jpg
@@ -31,11 +38,11 @@ blocks:
       autoplay: false
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
       url: /portfolio/
       text: Bekijk ons portfolio
-      type: link
+      type: button
   - type: content_block
     align: right
     content: >-
