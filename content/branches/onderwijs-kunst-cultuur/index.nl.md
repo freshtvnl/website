@@ -49,7 +49,7 @@ blocks:
       text: Bekijk ons portfolio
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Kunst & Cultuur***
 
@@ -65,15 +65,12 @@ blocks:
       text: Offerte ontvangen
       type: button
   - type: selectedreviews_block
-    more_items: true
+    more_items: false
     items:
       - 4vF9wbJjI
+      - _fqI8a0st
   - type: selectedwork_block
     title: Video voorbeelden
-    items:
-      - dD7nogK0Q
-  - type: selectedwork_block
-    title: Animatie voorbeelden
     items:
       - DG0aSzvMj
   - type: contact_block
