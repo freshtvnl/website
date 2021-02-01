@@ -24,13 +24,16 @@ blocks:
 
 
       De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij van Phil & Flo ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst die zij zelf kunnen vormgeven. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
     content: >-
       ## ***1 + 1 = 3?***
 
 
       Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een animatie. We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
-    displaymedia: iframe
+    displaymedia: image
     image:
       source: images/onderwijs-promotiefilm.jpg
       alt: Onderwijs promotiefilm
