@@ -73,7 +73,4 @@ blocks:
     title: Video voorbeelden
     items:
       - DG0aSzvMj
-  - type: contact_block
-    contacts:
-      - 7VtuzLwVv
 ---
