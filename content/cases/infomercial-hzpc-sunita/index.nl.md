@@ -5,7 +5,7 @@ draft: false
 id: E10s9zxwT
 seo:
   title: Infomercial HZPC Sunita - Phil & Flo Videomarketing
-  description: Infomercial HZPC Sunita: met trots presenteert Phil & Flo Videomarketing deze geslaagde videoproductie. Ontdek de totstandkoming van dit interessante project!""
+  description: "Infomercial HZPC Sunita: met trots presenteert Phil & Flo Videomarketing deze geslaagde videoproductie. Ontdek de totstandkoming van dit interessante project!"
 image:
   source: images/hzpc.jpg
 color: orange
