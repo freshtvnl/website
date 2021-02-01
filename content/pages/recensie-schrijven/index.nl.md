@@ -1,6 +1,6 @@
 ---
 title: recensie schrijven
-slug: recensie-schrijven
+slug: recensie schrijven
 draft: false
 id: kwZUcdnlu
 blocks:
