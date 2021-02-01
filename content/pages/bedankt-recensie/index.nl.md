@@ -9,5 +9,5 @@ blocks:
       ## ***Bedankt voor het achterlaten van een recensie.***
 
 
-      Dit wordt zeer gewaardeerd en stelt ons in statt om onze dienstverlening naar een hoger niveau te tillen.
+      Dit wordt zeer gewaardeerd en stelt ons in staat om onze dienstverlening naar een hoger niveau te tillen.
 ---
