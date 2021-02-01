@@ -5,7 +5,7 @@ draft: false
 id: kwZUcdnlu
 blocks:
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## ***Hoe heb jij onze samenwerking ervaren?***
 
