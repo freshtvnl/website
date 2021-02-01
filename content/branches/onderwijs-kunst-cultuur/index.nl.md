@@ -29,7 +29,7 @@ blocks:
       ## ***1 + 1 = 3?***
 
 
-      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een animatie. We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het CSB in Amsterdam? Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
+      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een animatie. We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
     displaymedia: iframe
     image:
       source: images/onderwijs-promotiefilm.jpg
