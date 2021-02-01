@@ -20,7 +20,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Onderwijs voor de wereld van morgen
+      ## ***Onderwijs*** voor de wereld van morgen
 
 
       De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij van Phil & Flo ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst die zij zelf kunnen vormgeven. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
