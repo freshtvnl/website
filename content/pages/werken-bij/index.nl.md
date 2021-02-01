@@ -6,17 +6,16 @@ id: ngCqLHsIo
 blocks:
   - type: content_block
     content: >-
-      Wij zijn op zoek naar gemotiveerde medewerkers die een toffe baan willen
-      met veel afwisseling op het gebied van video, animatiefilms, websites en
-      online marketing. Wij zijn op zoek naar toppers die ons team versterken en
-      achter onze kernwaarden staan:
+      ## ***Werken bij Phil & Flo Creative Studio***
+
+
+      Wij zijn op zoek naar gemotiveerde medewerkers die een toffe baan willen met veel afwisseling op het gebied van video, animatiefilms, websites en online marketing. Wij zijn op zoek naar toppers die ons team versterken en achter onze kernwaarden staan:
 
 
       **Groningen:**
 
 
-      **1. Account/ sales**\
-
+      1. **Account/ sales**
 
       2. Animator 3D (AE, C4D) (VERVULD)
 
@@ -60,6 +59,7 @@ blocks:
 
 
       **Interesse? Laat je gegevens achter dan maken we snel een afspraak!**
+    align: center
 seo:
   title: Werken bij video, marketing en animatie studio - Phil & Flo Videomarketing
   description: Werken bij een tof videomarketing bureau? Check onze vacatures!
