@@ -5,10 +5,11 @@ id: 8zohO6MTO
 image:
   source: ""
   alt: ""
-seo:
-  title: Contact gegevens Phil & Flo Videomarketing
-  description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken of andere vragen? Neem contact met ons op. Phil & Flo Videomarketing contactpagina.
 blocks:
+  - type: content_block
+    align: center
+    content: "## Contact formulier"
+    form: 2nOvI3M4P
   - type: content_block
     align: left
     content: "## Neem ***contact*** op met onze studio."
@@ -19,10 +20,6 @@ blocks:
     form: ""
     image:
       source: images/aron-sophie.jpg
-  - type: content_block
-    align: center
-    content: "## Contact formulier"
-    form: 2nOvI3M4P
   - type: selectedreviews_block
     title: reviews
     items:
@@ -53,6 +50,11 @@ blocks:
       KVK Nummer: 80801331\
       BTW Nummer: NL861804983B01\
       Impressum Deutschland: Direktor Peter de Graaf
+seo:
+  title: Contact gegevens Phil & Flo Videomarketing
+  description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
+    of andere vragen? Neem contact met ons op. Phil & Flo Videomarketing
+    contactpagina.
 menu:
   main:
     weight: 7
