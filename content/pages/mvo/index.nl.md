@@ -69,8 +69,9 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-keuze.jpg
+    align: right
 seo:
-  title: Klimaatneutraal - Phil & Flo Videomarketing
+  title: Klimaatneutraal - Phil & Flo Creative studio
   description: Wij werken niet voor klimaatverwoestende organisaties zoals olie
     industrie, lees ons statement. Wij werken zelf 100% Co2 neutraal.
 menu:
