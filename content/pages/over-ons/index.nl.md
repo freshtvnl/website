@@ -41,7 +41,7 @@ blocks:
       ## ***Wat***
 
 
-      Wij zijn specialisten op het gebied van video, animatie en interactieve video. Onze creaties zijn het beste als we ze maken voor de juiste organisaties, de organisaties die zich inzetten voor een betere wereld.
+      Wij zijn specialisten op het gebied van ***[video](/video-laten-maken/)***, ***[animatie](/animatie-laten-maken/)***, ***[Virtual Reality](/vr-animatie-laten-maken/)*** & ***[interactieve video](/interactieve-video/)***. Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
 
 
       Neem contact met ons op voor meer informatie.
@@ -60,9 +60,9 @@ blocks:
     number_of_items: 9
     heading: h2
 seo:
-  title: Over Ons - Phil & Flo Videomarketing
-  description: Dit is het Phil & Flo team waar we trots op zijn! Kennis maken? Kom
-    langs voor het drinken van een gezonde maar vooral lekkere smoothie!
+  title: Over Ons - Phil & Flo Creative Studio
+  description: Dit is het Phil & Flo team waar we trots op zijn! Kennis maken? Ons
+    team legt je graag uit wat we voor jou kunnen produceren
 menu:
   main:
     weight: 1
