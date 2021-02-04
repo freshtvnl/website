@@ -41,7 +41,7 @@ blocks:
       ## ***Wat***
 
 
-      Wij zijn specialisten op het gebied van ***[video](/video-laten-maken/)***, ***[animatie](/animatie-laten-maken/)***, ***[Virtual Reality](/vr-animatie-laten-maken/)*** & ***[interactieve video](/interactieve-video/)***. Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
+      Wij zijn specialisten op het gebied van [video](/video-laten-maken/), [animatie](/animatie-laten-maken/), [Virtual Reality](/vr-animatie-laten-maken/) & [interactieve video](/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
 
 
       Neem contact met ons op voor meer informatie.
@@ -54,6 +54,8 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+    video:
+      source_mp4: https://video.philenflo.nl/video/210204-timelapse-muur-phil-en-flo-Phil-en-Flo-website-source.mp4
   - type: collection_block
     collection: members
     title: Team
