@@ -21,7 +21,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Spread the word
+      ## ***Spread the word, eh.. video***
 
 
       Waar de focus van een **corporate- of bedrijfsvideo** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
@@ -40,9 +40,12 @@ blocks:
 
 
       Phil & Flo maakt jouw verhaal persoonlijk, met **eigen mensen en eigen wensen**. Daarmee toont een bedrijfsvideo hoe trots je bent op je medewerkers en klanten merken dat verschil. In de producties van Phil & Flo spelen echte mensen de hoofdrol.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -53,9 +56,12 @@ blocks:
 
 
       De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies 085 273 8331.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -63,15 +69,16 @@ blocks:
 
 
       Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een reclamespot. Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/jde-phil-en-flo-behind-the-scenes.jpg
-  - type: contact_block
-    contacts:
-      - 7VtuzLwVv
-  - type: content_list
-    branches_items:
-      - 0uhmsFFxS
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Ik wil graag een offerte ontvangen
+      type: button
 seo:
   title: Bedrijfsvideo door Phil & Flo Videomarketing
   description: Onze bedrijfsvideo’s laten zien hoe trots je bent op je
