@@ -46,7 +46,7 @@ blocks:
 
       Neem contact met ons op voor meer informatie.
     align: left
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
       alt: Opnames Douwe Egberts
