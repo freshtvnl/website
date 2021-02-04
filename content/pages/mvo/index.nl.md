@@ -7,37 +7,32 @@ image:
 blocks:
   - type: hero_block
     title: Maatschappelijk ***verantwoord*** ondernemen
-    content: ""
+    content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
+      gestoeld. Vanuit FreshTV (hoe we eerder heetten) begon dit te spelen.
+      Teamleden die ongemakkelijk werden om hun tijd te investeren in
+      organisaties waar ze totaal niet achter stonden. Sowieso waren we het snel
+      eens dat klimaatverandering geen hoax is en dat klimaatverwoestende
+      organisaties de eerste zijn die we moesten blocken. Daarnaast kwamen er
+      vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
+      hier zeer bewust mee bezig en zullen ons uiteraard meebewegen met de
+      gedachtes van ons team en de buitenwereld.
     displaymedia: image
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
   - type: content_block
     content: >-
-      #### **Wij werken per definitie niet voor de volgende branches, ***onze
-      Black-list**\***
+      ## ***Met wie we graag samenwerken***
 
 
-      (Laatste update 02-12-2020)
+      Wij vinden dat iedereen met wie we samen werken een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
 
 
-      * Olie industrie
-
-      * Tabak industrie
-
-      * Olie verwerkende industrie
-
-      * Belegging-instituten die investeren (meer dan 20%) in Olie/ wapen aandelen
-
-      * Wapen industrie
-
-      * Plastic (op oliebasis) verwerkende industrie (als er alternatieven zijn)
-
-      * Greenwashing (het laten lijken dat je duurzaam bent, maar dit niet bent)
-
-      * Politieke partijen zonder goede oplossing voor duurzaamheid, ethiek, vluchtelingenbeleid
 
 
-      #### **Onze black-list zal worden aangevuld naarmate de tijd vordert.**
+      #### Uitsluitingen
+
+
+      Uiteraard zijn er een aantal branches die we uitsluiten van onze creativiteit; Olie industrie, Tabak industrie, Olie verwerkende industrie, Belegging-instituten die meer dan 20% investeren in Olie/ wapen aandelen, Wapen industrie, Plastic (op oliebasis) verwerkende industrie (als er alternatieven zijn), Greenwashing (het laten lijken dat je duurzaam bent, maar dit niet bent), Politieke partijen zonder goede oplossing voor duurzaamheid, ethiek, vluchtelingenbeleid.
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
@@ -81,12 +76,7 @@ blocks:
     content: Wist je dat luchtvervuiling bijdraagt aan meer doden tijdens de
       Covid-19 uitbraak? (Harvard studie,
       https://projects.iq.harvard.edu/covid-pm/home) Alleen daarom al is streven
-      naar een klimaatneutrale wereld de moeite waard. Wij vinden dat iedereen
-      met wie we samen werken een bijdrage zou kunnen leveren aan het verbeteren
-      van de wereld. Dit betekent dat wij de keuze maken om niet te werken voor
-      klimaatverwoestende organisaties, niet-integere organisaties en
-      organisaties die de gezondheid van mensen niet serieus nemen of zelfs in
-      gevaar brengen.
+      naar een klimaatneutrale wereld de moeite waard.
 seo:
   title: Klimaatneutraal - Phil & Flo Videomarketing
   description: Wij werken niet voor klimaatverwoestende organisaties zoals olie
