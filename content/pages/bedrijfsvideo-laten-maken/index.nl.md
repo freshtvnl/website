@@ -3,9 +3,6 @@ title: Bedrijfsvideo
 slug: Bedrijfsvideo
 draft: false
 id: WcYkSOTTF
-seo:
-  title: Bedrijfsvideo door Phil & Flo Videomarketing
-  description: Onze bedrijfsvideo’s laten zien hoe trots je bent op je medewerkers, en klanten merken dat verschil. Hoe mogen wij jouw corporate story visualiseren?
 blocks:
   - type: hero_block
     title: "***Een bedrijfsvideo maken***"
@@ -70,4 +67,12 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+  - type: content_list
+    branches_items:
+      - 0uhmsFFxS
+seo:
+  title: Bedrijfsvideo door Phil & Flo Videomarketing
+  description: Onze bedrijfsvideo’s laten zien hoe trots je bent op je
+    medewerkers, en klanten merken dat verschil. Hoe mogen wij jouw corporate
+    story visualiseren?
 ---
