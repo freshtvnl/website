@@ -3,9 +3,6 @@ title: Algemene voorwaarden
 slug: agemene-voorwaarden
 draft: false
 id: j18wstXaE
-seo:
-  title: Spelregels - Algemene voorwaarden - Videomarketing Phil & Flo
-  description: Phil & Flo videomarketing werkt met bepaalde spelregels; ofwel de algemene voorwaarden. Bekijk de video voor meer informatie!
 blocks:
   - type: content_block
     align: center
@@ -19,7 +16,7 @@ blocks:
       ### Artikel 1. Algemeen
 
 
-      1. Deze voorwaarden zijn van toepassing op iedere aanbieding, offerte en overeenkomst tussen FreshTV Videomarketing hierna te noemen: “opdrachtnemer”, en een Opdrachtgever waarop Opdrachtnemer deze voorwaarden van toepassing heeft verklaard, voor zover van deze voorwaarden niet door partijen uitdrukkelijk en schriftelijk is afgeweken.
+      1. Deze voorwaarden zijn van toepassing op iedere aanbieding, offerte en overeenkomst tussen Phil & Flo Creative Studio VOF hierna te noemen: “opdrachtnemer”, en een Opdrachtgever waarop Opdrachtnemer deze voorwaarden van toepassing heeft verklaard, voor zover van deze voorwaarden niet door partijen uitdrukkelijk en schriftelijk is afgeweken.
 
       2. De onderhavige voorwaarden zijn eveneens van toepassing op overeenkomsten met Opdrachtnemer, voor de uitvoering waarvan door Opdrachtnemer derden dienen te worden betrokken.
 
@@ -212,34 +209,6 @@ blocks:
       3. Partijen zullen eerst een beroep op de rechter doen nadat zij zich tot het uiterste hebben ingespannen een geschil in onderling overleg te beslechten.
 
 
-       
-
-
-      LOG:
-
-
-      31 juli 2019 wijzigingen:
-
-
-      Artikel 1. Opdrachtnemer naam gewijzigd van FreshTV naar FreshTV Videomarketing\
-
-      Artikel 2. geldigheidsduur offertes verkort van 60 dagen naar 30 dagen\
-
-      Artikel 6.1 Betalingstermijn gewijzigd in: 5 werkdagen na offerte goedkeuring\
-
-      Artikel 6.1 Percentages gewijzigd van 50% en 50% naar 70% en 30%.\
-
-      Artikel 6.2 Creditcard en PayPal optie toegevoegd\
-
-      Artikel 6.6 Berekeningsmethode incasso Rapport voorwerk 2 verwijderd.
-
-
-      15 mei 2018 wijzigingen:
-
-
-      Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
-
-
       LOG:
 
       18 december 2020 Wijzigingen:
@@ -267,6 +236,10 @@ blocks:
 
 
       Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
+seo:
+  title: Spelregels - Algemene voorwaarden - Videomarketing Phil & Flo
+  description: Phil & Flo videomarketing werkt met bepaalde spelregels; ofwel de
+    algemene voorwaarden. Bekijk de video voor meer informatie!
 menu:
   footer:
     weight: 2
