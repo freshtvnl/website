@@ -56,6 +56,7 @@ blocks:
       type: button
     video:
       source_mp4: https://video.philenflo.nl/video/210204-timelapse-muur-phil-en-flo-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: collection_block
     collection: members
     title: Team
