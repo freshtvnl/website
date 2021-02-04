@@ -25,9 +25,11 @@ blocks:
 
 
       Waar de focus van een **corporate- of bedrijfsvideo** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: right
     content: >-
