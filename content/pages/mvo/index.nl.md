@@ -27,12 +27,10 @@ blocks:
       Wij vinden dat iedereen met wie we samen werken een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
 
 
-
-
       #### Uitsluitingen
 
 
-      Uiteraard zijn er een aantal branches die we uitsluiten van onze creativiteit; Olie industrie, Tabak industrie, Olie verwerkende industrie, Belegging-instituten die meer dan 20% investeren in Olie/ wapen aandelen, Wapen industrie, Plastic (op oliebasis) verwerkende industrie (als er alternatieven zijn), Greenwashing (het laten lijken dat je duurzaam bent, maar dit niet bent), Politieke partijen zonder goede oplossing voor duurzaamheid, ethiek, vluchtelingenbeleid.
+      Uiteraard zijn er een aantal branches die we uitsluiten van onze creativiteit; Olie industrie, Tabak industrie, Olie verwerkende industrie, Beleggings-instituten die meer dan 20% investeren in Olie/ wapen aandelen, Wapen industrie, Plastic (op oliebasis) verwerkende industrie (als er alternatieven zijn), Greenwashing (het laten lijken dat je duurzaam bent, maar dit niet bent), Politieke partijen zonder goed antwoord op duurzaamheid, ethiek en vluchtelingenbeleid.
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
