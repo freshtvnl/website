@@ -2,7 +2,7 @@
 title: Landing page 70
 slug: landingpage
 weight: 1
-draft: false
+draft: true
 id: wvUKuLAzhsdfaafsd
 image:
   source: images/2d-animatie-laten-maken.jpg
