@@ -4,6 +4,7 @@ slug: Maatschappelijk verantwoord ondernemen
 id: zVQIJsr9a
 image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
+color: orange
 blocks:
   - type: hero_block
     title: Maatschappelijk ***verantwoord*** ondernemen
@@ -29,6 +30,10 @@ blocks:
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
     displaymedia: image
+    cta:
+      url: /contact/
+      text: Kom in contact
+      type: button
   - type: content_block
     align: left
     content: >-
