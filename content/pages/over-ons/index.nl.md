@@ -3,26 +3,20 @@ title: "Over ons "
 slug: over-ons
 id: jCP4fqjKI
 color: pink
-seo:
-  title: Over Ons - Phil & Flo Videomarketing
-  description: Dit is het Phil & Flo team waar we trots op zijn! Kennis maken? Kom langs voor het drinken van een gezonde maar vooral lekkere smoothie!
 blocks:
   - type: hero_block
     title: Over ***Phil en Flo***
     displaymedia: image
     content: Phil & Flo Creative Studio komt voort uit FreshTV Videomarketing. Wij
-      bestaan al sinds 2009, maar zijn in 2021 veranderd van naam en ook van
-      visie. Lees ons verhaal hieronder voor meer informatie over onze nieuwe
+      bestaan al sinds 2009, maar zijn in 2021 veranderd van naam en van visie.
+      Lees ons verhaal hieronder voor meer informatie over ons team en onze
       visie.
   - type: content_block
     content: >-
-      ## ***Waarom***
+      ## ***Wij verbeelden de wereld van morgen.***
 
 
-      ***Wij verbeelden de wereld van morgen.***
-
-
-      Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken, wij willen organisaties die zich inzetten voor een betere wereld helpen hun boodschap te verkondigen, te verbeelden.
+      Waarom? Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken. Wij willen organisaties, die zich actief inzetten voor een betere wereld, helpen hun boodschap te verkondigen, te verbeelden.
     align: left
     displaymedia: image
     image:
@@ -36,18 +30,7 @@ blocks:
       ## ***Hoe***
 
 
-      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van een aantal kernwaarden die we hebben samengevat als BLIEP.
-
-
-      * Beste
-
-      * Leukste
-
-      * Innovatief
-
-      * Efficiënt
-
-      * Principieel
+      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van een aantal kernwaarden die we hebben samengevat als ***BLIEP***: ***B***este, ***L***eukste, ***I***nnovatief, ***E***fficiënt & ***P***rincipieel.
     align: right
     displaymedia: image
     image:
@@ -76,6 +59,10 @@ blocks:
     title: Team
     number_of_items: 9
     heading: h2
+seo:
+  title: Over Ons - Phil & Flo Videomarketing
+  description: Dit is het Phil & Flo team waar we trots op zijn! Kennis maken? Kom
+    langs voor het drinken van een gezonde maar vooral lekkere smoothie!
 menu:
   main:
     weight: 1
