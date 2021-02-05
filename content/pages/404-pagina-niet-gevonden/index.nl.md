@@ -6,10 +6,11 @@ id: hulL85z1p
 blocks:
   - type: hero_block
     title: 404 - Pagina niet gevonden
-    content: "Helaas, deze pagina kon niet gevonden worden\r\n"
+    content: Helaas, blijkbaar is de link niet goed. [Ga snel terug naar
+      start!](https://philenflo.nl)
     displaymedia: image
     image:
-      source: images/sarah-kilian-52jrtc2s_ve-unsplash.jpg
+      source: images/404-phil-en-flo.jpg
   - type: content_block
     align: center
     content: >-
