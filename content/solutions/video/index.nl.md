@@ -4,22 +4,21 @@ slug: video laten maken
 weight: 2
 draft: false
 id: YwJ5gT_tJ
-seo:
-  title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
-  description: Een video laten maken door Phil & Flo | Wij maken een video die scoort bij je doelgroep | Een video die je organisatie succesvol in beeld brengt. Bel ons nu.
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Video*** laten maken
-
-
-      Het is erg belangrijk om te kiezen voor het *juiste middel*, als het gaat om doeltreffende marketing. Daarom produceren we verschillende soorten video's. Op deze pagina vindt je een aantal primaire videovormen die handig zijn in de juiste marketingmix. We produceren echter nog vele andere vormen video, vraag onze adviseur voor meer informatie.
-    displaymedia: null
-    image:
-      source: ""
+  - type: hero_block
+    content: Als het gaat om doeltreffende marketing is het erg belangrijk om te
+      kiezen voor het *juiste middel.* Daarom kan je bij ons verschillende
+      soorten video laten maken. Op deze pagina vindt je een aantal primaire
+      videovormen die bijna noodzakelijk zijn in de juiste marketingmix. We
+      produceren echter nog vele andere vormen video, vraag onze adviseurs voor
+      meer informatie.
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
+    title: "***Video laten maken***"
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
@@ -81,13 +80,6 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
-  - type: selectedwork_block
-    title: Portfolio
-    items:
-      - dD7nogK0Q
-      - cc-ik-qqS
-      - E10s9zxwT
-    more_items: true
   - type: content_block
     align: left
     content: >-
@@ -124,7 +116,9 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: xG-FjaFq03A
-  - type: contact_block
-    contacts:
-      - kJ07QyNzs
+seo:
+  title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
+  description: Een video laten maken door Phil & Flo | Wij maken een video die
+    scoort bij je doelgroep | Een video die je organisatie succesvol in beeld
+    brengt. Bel ons nu.
 ---
