@@ -6,6 +6,7 @@ draft: false
 id: WnlJtd9dP
 image:
   source: images/inge-bank.jpg
+color: blue
 blocks:
   - type: hero_block
     title: Videomarketing tips en tricks
