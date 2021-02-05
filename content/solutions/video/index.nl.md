@@ -6,6 +6,7 @@ draft: false
 id: YwJ5gT_tJ
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
+color: blue
 blocks:
   - type: hero_block
     content: Als het gaat om doeltreffende marketing is het erg belangrijk om te
@@ -33,6 +34,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.mp4
       source_webm: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
+    cta:
+      url: /bedrijfsfilm-laten-maken/
+      text: Bedrijfsfilm laten maken
+      type: button
   - type: content_block
     align: left
     content: >-
