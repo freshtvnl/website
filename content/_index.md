@@ -2,7 +2,7 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: Wij verbeelden de ***wereld van morgen.***
+    title: "***Wij verbeelden de wereld van morgen.***"
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
@@ -17,21 +17,47 @@ blocks:
       ## Dit is de wereld van ***Phil & Flo***
 
 
-      Stel je eens een wereld voor waarin kinderen wereldwijd veilig naar school kunnen, we ernstige ziektes onder controle hebben en waarin we schone lucht ademen.
+      Stel je eens de wereld van morgen voor...
 
-      Dat klinkt geweldig, toch? 
+      Vol schone lucht en schoon water.
+
+      Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg.
 
 
-      Om dit te bereiken zetten wij nu de stappen die nodig zijn. Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food zijn in onze ogen de sectoren die het verschil gaan maken. Zeker met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie.
+      Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken;
+
+
+      Innovatieve Technologie, 
+
+      zorg, 
+
+      duurzame energie, 
+
+      onderwijs,
+
+      goede doelen en
+
+      fair food.
+
+
+      Wat denk jij? [Vertel het ons](/contact/).
+
+      Zodat we samen de stappen kunnen zetten die nu nodig zijn.
+
+      Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie.
 
 
       In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s.
 
-
-      Ons doel? Het beste en leukste creatieve team, voor een snelle transitie naar deze mooie toekomst.
+      Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst.
 
 
       Wij zijn Phil & Flo, ***Wij verbeelden de wereld van morgen.***
+  - type: collection_block
+    collection: solutions
+    number_of_items: 6
+    heading: h3
+    title: Oplossingen
   - type: selectedwork_block
     title: Cases
     items:
@@ -41,11 +67,6 @@ blocks:
       - dD7nogK0Q
       - cc-ik-qqS
     more_items: true
-  - type: collection_block
-    collection: solutions
-    number_of_items: 6
-    heading: h3
-    title: Oplossingen
 id: xXIrpfv7c
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
