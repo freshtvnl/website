@@ -63,7 +63,7 @@ blocks:
       ## ***Persoonlijke*** video laten maken
 
 
-      Het creëren van een ***echt***, interactief en vooral ***persoonlijke dialoog*** met de doelgroep. Dat is natuurlijk het doel dat je nastreeft. Makkelijk te begrijpen communicatie in combinatie met persoonlijke op de doelgroep gerichte boodschappen. Dat is de kracht van persoonlijke video door Phil & Flo. Lees hier meer over wat persoonijke video voor jouw organisatie kan betekenen.
+      Het creëren van een **echt**, interactief en vooral **persoonlijke dialoog** met de doelgroep. Dat is natuurlijk het doel dat je nastreeft. Makkelijk te begrijpen communicatie met impact in combinatie met persoonlijke op de doelgroep gerichte boodschappen. Dat is de kracht van persoonlijke video door Phil & Flo. Met de naam van de kijker in beeld, de voorkeuren van de kijker, letterlijk alles is te personaliseren met onze persoonlijke video's. Lees hier meer over wat persoonlijke video voor jouw organisatie kan betekenen.
     displaymedia: iframe
     video:
       autoplay: true
