@@ -75,24 +75,28 @@ blocks:
       url: /persoonlijke-video/
       text: Persoonlijke film laten maken
       type: button
-  - type: content_block
+  - displaymedia: custom_video
+    youtube:
+      image:
+        source: ""
+    iframe:
+      source: ""
     align: left
+    cta:
+      url: /employer-branding/
+      text: Employer branding film
+      type: button
     content: >-
       ## ***Employer Branding***
 
 
       Ben je op zoek naar het juiste personeel voor je organisatie? Dan is een employer branding film van Phil & Flo een goede manier om je kansen flink te vergroten. De kandidaat krijgt direct een realistisch beeld van je organsiatie en proeft de sfeer die er hangt. Lees hier meer over de voordelen van employer branding films.
-    displaymedia: custom_video
-    iframe:
-      source: ""
-    youtube:
-      image:
-        source: ""
-    image:
-      source: ""
+    type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
+    image:
+      source: ""
   - type: content_block
     align: left
     content: >-
