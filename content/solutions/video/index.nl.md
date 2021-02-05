@@ -53,6 +53,10 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Commercial-laten-maken.mp4
       autoplay: true
+    cta:
+      url: /commercial-laten-maken/
+      text: Commercial laten maken
+      type: button
   - type: content_block
     align: left
     content: >-
