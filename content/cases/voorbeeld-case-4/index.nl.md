@@ -10,9 +10,6 @@ image:
   alt: coornehr Lyceum film
 color: yellow
 branch: q6TD9LMXU
-seo:
-  title: Coornhert Gymnasium - Phil & Flo Videomarketing
-  description: Om het Coornhert Gymnasium te promoten als kleinschalige, en veilige middelbare school, maakten wij deze pakkende video.
 blocks:
   - type: hero_block
     content: Het Coornhert Gymnasium moet net als elke middelbare school elk jaar de
