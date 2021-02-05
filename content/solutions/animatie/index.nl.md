@@ -1,20 +1,18 @@
 ---
-title: Animatie laten maken
-slug: Animatie laten maken
-weight: 1
 draft: false
-id: wvUKuLAzh
-parent: wvUKuLAzh
-image:
-  source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
-    align: center
-    content: >-
-      ## ***Animatie laten maken?***
-
-
-      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor onze animatiefilms. Omdat animatiefilms zoveel van elkaar verschillen kies je hieronder uit 3D animatie, 2D animatie of VR animatie.
+  - type: hero_block
+    content: Wil jij ook je eigen wereld creëren en de kijker meenemen in een
+      verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies
+      dan voor onze unieke maatwerk animatiefilms. Animaties zijn er in
+      verschillende vormen, kies hieronder uit [3D animatie](/3d-animatie/), [2D
+      animatie](/2d-animatie-laten-maken/) of [VR
+      animatie](/vr-animatie-laten-maken/).
+    title: "***Animatie laten maken?***"
+    displaymedia: custom_video
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: left
     content: >-
@@ -220,7 +218,16 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+parent: wvUKuLAzh
+title: Animatie laten maken
+slug: Animatie laten maken
+weight: 1
+id: wvUKuLAzh
+image:
+  source: images/2d-animatie-laten-maken.jpg
 seo:
   title: Animatie laten maken | Goed, Snel en Creatief | Phil & Flo Videomarketing
-  description: Een Animatie laten maken doe je bij Phil & Flo | Opvallend ✔ Marketing geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons nu voor meer info.
+  description: Een Animatie laten maken doe je bij Phil & Flo | Opvallend ✔
+    Marketing geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons
+    nu voor meer info.
 ---
