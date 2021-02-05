@@ -21,9 +21,11 @@ blocks:
 
 
       Een video die persoonlijk is gemaakt voor klanten wordt gemiddeld 85% vaker geopend dan video’s die dat niet zijn. Je klant voelt zich persoonlijk aangesproken en de betrokkenheid bij je bedrijf wordt op die manier verhoogd. Het zal je dan ook niet verbazen dat klanten na het zien van een gepersonaliseerde video eerder tot actie over zullen gaan!
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/inge-bank.jpg
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
   - type: content_block
     align: right
     content: >-
@@ -31,9 +33,11 @@ blocks:
 
 
       Op zoek naar een creatief bureau dat jou helpt bij het personaliseren van jouw video? Phil & Flo regelt het voor je. We helpen je een video te creëren van concept tot uitvoering. Dankzij onze jarenlange ervaring en de nieuwste technieken zijn we in staat om video’s realtime aan te passen, zodat je je film ook op lange termijn kan inzetten!
-    displaymedia: image
+    displaymedia: iframe
     image:
-      source: images/aron-sophie.jpg
+      source: ""
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     align: left
     content: >-
