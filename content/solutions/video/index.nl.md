@@ -17,7 +17,8 @@ blocks:
       meer informatie.
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      source_webm: ""
     title: "***Video laten maken***"
     displaymedia: custom_video
   - type: content_block
