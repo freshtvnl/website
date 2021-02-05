@@ -71,6 +71,10 @@ blocks:
       id: "7lgeGNnzvsQ "
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    cta:
+      url: /persoonlijke-video/
+      text: Persoonlijke film laten maken
+      type: button
   - type: content_block
     align: left
     content: >-
