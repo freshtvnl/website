@@ -1,6 +1,6 @@
 ---
 draft: false
-color: pink
+color: green
 blocks:
   - type: hero_block
     title: Interactie op ***hoog niveau***
