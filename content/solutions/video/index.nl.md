@@ -100,7 +100,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Vermenselijk je merk met een video
+      ## ***Vermenselijk*** je merk met een video
 
 
       Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een videofilm is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze videofilm laten maken.
@@ -111,7 +111,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Videofilm laten maken van A tot Z
+      ## ***Videofilm laten maken*** van A tot Z
 
 
       Dus je hebt besloten dat het tijd is om een videofilm te laten maken? Mooi! Phil & Flo kijkt welke videofilm het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we videofilms die je niet meer loslaten.
@@ -122,13 +122,13 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Ook een videofilm laten maken?
+      ## ***Ook een videofilm laten maken?***
 
 
-      Wil je een videofilm laten maken die scoort? Kom een kopje koffie drinken in Amsterdam, Eindhoven of Groningen en ontdek welk soort videofilm het beste bij jou past!
+      Wil je een videofilm laten maken die scoort? Kom een kopje koffie drinken in Amsterdam, Eindhoven of Groningen en ontdek welk soort videofilm het beste bij jou past! Of bel direct met onze adviseurs 085 - 273 8331
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Contact opnemen
       type: button
     displaymedia: youtube_video
     youtube:
