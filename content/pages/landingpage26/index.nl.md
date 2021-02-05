@@ -44,7 +44,7 @@ blocks:
       ## Ook een ***gepersonaliseerde*** video?
 
 
-      Een persoonlijke boodschap vertellen? Kom vrijblijvend langs op één van onze kantoren in Eindhoven, Amsterdam of Groningen en ontdek wat wij voor jou kunnen betekenen!
+      Een persoonlijke boodschap vertellen? Kom vrijblijvend langs op één van onze kantoren in Eindhoven, Amsterdam of Groningen en ontdek wat wij voor jou kunnen betekenen! Of bel onze adviseurs vrijblijvend over de mogelijkheden, 085 - 2738331
     displaymedia: image
     image:
       source: images/inge-bank.jpg
@@ -52,11 +52,9 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: contact_block
-    contacts:
-      - PZcCTyF1B
 seo:
   title: Gepersonaliseerd video - Phil & Flo Videomarketing
-  description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔
-    Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
+  description: Persoonlijke video laten maken door Phil & Flo | Onderscheidende
+    content ✔ Uniek en datagedreven ✔ Persoonlijk en interactief. Bel onze
+    specialisten
 ---
