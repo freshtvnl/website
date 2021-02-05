@@ -2,11 +2,8 @@
 title: Coornhert Gymnasium - Promotiefilm school
 draft: false
 id: dD7nogK0Q
-seo:
-  title: Coornhert Gymnasium 2D Animatie - Phil & Flo Videomarketing
-  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als commercial wordt deze geadverteerd tijdens de Ster reclames. Kunstliefhebbers en kunstenaars vind elkaar!
 image:
-  source: images/schermafbeelding-2020-12-01-om-16.06.14.png
+  source: images/coornhert-onderwijs-communicatie-1.jpg
   alt: coornehr Lyceum film
 color: yellow
 branch: q6TD9LMXU
@@ -94,4 +91,9 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+seo:
+  title: Coornhert Gymnasium 2D Animatie - Phil & Flo Videomarketing
+  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als
+    commercial wordt deze geadverteerd tijdens de Ster reclames.
+    Kunstliefhebbers en kunstenaars vind elkaar!
 ---
