@@ -1,5 +1,5 @@
 ---
-title: "***Contact***"
+title: Contact
 slug: contact
 id: 8zohO6MTO
 image:
@@ -24,6 +24,8 @@ blocks:
     title: reviews
     items:
       - 4vF9wbJjI
+      - _fqI8a0st
+      - MaNQWLXGQ
     more_items: false
   - type: content_block
     align: center
