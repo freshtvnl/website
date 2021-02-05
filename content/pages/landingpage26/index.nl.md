@@ -3,16 +3,17 @@ title: Gepersonaliseerde video
 slug: Gepersonaliseerde video
 draft: false
 id: 4awsNadf1Mvv3
-seo:
-  title: Gepersonaliseerd video - Phil & Flo Videomarketing
-  description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
 blocks:
   - type: hero_block
     title: "***Gepersonaliseerde video***"
-    content: Met deze video spreek je je doelgroep direct aan. Alle informatie in de
-      video is precies afgestemd op jouw doelgroep. Denk bijvoorbeeld aan een
-      video over pensioenopbouw of een verzekeringspolis. Bij Phil & Flo weten
-      we precies hoe we jouw video het beste kunnen personaliseren!
+    content: Met deze persoonlijke video spreek je je doelgroep direct aan. Alle
+      informatie in de video is precies afgestemd op jouw doelgroep. Denk
+      bijvoorbeeld aan een video over pensioenopbouw, een verzekeringspolis of
+      rondleiding door je organisatie. Bij Phil & Flo weten we precies hoe we
+      jouw video het beste kunnen personaliseren!
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
     align: left
     content: >-
@@ -50,4 +51,8 @@ blocks:
   - type: contact_block
     contacts:
       - PZcCTyF1B
+seo:
+  title: Gepersonaliseerd video - Phil & Flo Videomarketing
+  description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔
+    Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
 ---
