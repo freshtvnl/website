@@ -14,11 +14,8 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      De link naar deze pagina is niet zo fris meer.
-
-
-      Ben je op zoek naar een specifieke pagina? Neem dan [contact met ons op](/contact). 
-
+      Ben je op zoek naar een specifieke pagina? Neem dan [contact met ons
+      op](/contact). \
 
       Of ga direct naar onze [Homepage](/)
 ---
