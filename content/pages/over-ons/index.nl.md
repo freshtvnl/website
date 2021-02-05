@@ -41,7 +41,7 @@ blocks:
       ## ***Wat***
 
 
-      Wij zijn specialisten op het gebied van [video](/oplossingen/video-laten-maken/), [animatie](/animatie-laten-maken/), [Virtual Reality](/vr-animatie-laten-maken/) & [interactieve video](/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
+      Wij zijn specialisten op het gebied van [video](/oplossingen/video-laten-maken/), [animatie](/oplossingen/animatie-laten-maken/), [Virtual Reality](/vr-animatie-laten-maken/) & [interactieve video](/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
 
 
       Neem contact met ons op voor meer informatie.
