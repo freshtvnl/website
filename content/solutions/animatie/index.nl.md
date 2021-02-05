@@ -5,8 +5,9 @@ blocks:
     content: Wil jij ook je eigen wereld creëren en de kijker meenemen in een
       verhaal die duidelijk, maar vooral interessant is om naar te kijken? Kies
       dan voor onze unieke maatwerk animatiefilms. Animaties zijn er in
-      verschillende vormen, kies hieronder uit [3D animatie](/3d-animatie/), [2D
-      animatie](/2d-animatie-laten-maken/) of [VR
+      verschillende vormen, kies hieronder uit [3D
+      animatie](https://www.philenflo.nl/3d-animatie-laten-maken/), [2D
+      animatie](https://www.philenflo.nl/2d-animatie/) of [VR
       animatie](/vr-animatie-laten-maken/).
     title: "***Animatie laten maken?***"
     displaymedia: custom_video
