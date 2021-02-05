@@ -7,7 +7,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      Bedankt voor je sessie aanvraag.
+      ## ***Bedankt voor je sessie aanvraag.***
 
 
       Je hebt een **goede keuze** gemaakt om een gratis sessie in te boeken met onze specialisten.\
