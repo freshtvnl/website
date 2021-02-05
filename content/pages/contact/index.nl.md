@@ -23,35 +23,31 @@ blocks:
   - type: selectedreviews_block
     title: reviews
     items:
-      - 4vF9wbJjI
-      - _fqI8a0st
       - MaNQWLXGQ
+      - _fqI8a0st
+      - 4vF9wbJjI
     more_items: false
   - type: content_block
     align: center
     content: |-
-      ### ***Groningen*** (Hoofdkantoor)
-
+      ***Groningen*** (Hoofdkantoor)\
       Oude-Boteringestraat 71\
       9712 GG Groningen
 
-      ### ***Amsterdam***
-
+      ***Amsterdam***\
       Herengracht 420\
       1017 BZ Amsterdam
 
-      ### ***Eindhoven***
-
+      ***Eindhoven***\
       Hurksestraat 64\
       5652 AL Eindhoven
 
-
-
-      **Algemene bedrijfsinformatie**
-
+      ***Algemene bedrijfsinformatie***\
       KVK Nummer: 80801331\
-      BTW Nummer: NL861804983B01\
-      Impressum Deutschland: Direktor Peter de Graaf
+      BTW Nummer: NL861804983B01
+
+      *Für unsere Deutsche Gäste:*\
+      Impressum Deutschland: Direktor P. de Graaf / S. Abbas
 seo:
   title: Contact gegevens Phil & Flo Videomarketing
   description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
