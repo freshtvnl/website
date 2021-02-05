@@ -4,13 +4,10 @@ slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
 draft: false
 id: DG0aSzvMj
 image:
-  source: images/goede-doelen-boknet-phil-en-flo-3d-commercial.png
+  source: images/goede-doelen-boknet-phil-en-flo-3d-commercial.jpg
   alt: ""
 color: red
 branch: 7P41lTMjs
-seo:
-  title: Beroeps Organisatie Kunstenaars - 3D Animatie - Phil & Flo Videomarketing
-  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als commercial wordt deze geadverteerd tijdens de Ster reclames. Kunstliefhebbers en kunstenaars vind elkaar!
 blocks:
   - type: hero_block
     title: "***Beroeps Organisatie Kunstenaars*** – 3D Animatie"
@@ -40,4 +37,9 @@ blocks:
   - type: contact_block
     contacts:
       - 2BVK9YvSq
+seo:
+  title: Beroeps Organisatie Kunstenaars - 3D Animatie - Phil & Flo Videomarketing
+  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als
+    commercial wordt deze geadverteerd tijdens de Ster reclames.
+    Kunstliefhebbers en kunstenaars vind elkaar!
 ---
