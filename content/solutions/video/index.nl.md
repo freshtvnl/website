@@ -83,7 +83,7 @@ blocks:
       source: ""
     align: left
     cta:
-      url: /employer-branding/
+      url: /oplossingen/employer-branding/
       text: Employer branding film
       type: button
     content: >-
