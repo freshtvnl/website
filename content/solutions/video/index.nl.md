@@ -73,7 +73,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     cta:
-      url: /persoonlijke-video/
+      url: https://www.philenflo.nl/gepersonaliseerde-video/
       text: Persoonlijke film laten maken
       type: button
   - displaymedia: custom_video
