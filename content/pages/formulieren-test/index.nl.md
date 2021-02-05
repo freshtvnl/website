@@ -24,4 +24,8 @@ blocks:
     align: center
     form: 2nOvI3M4P
     content: "## Contact formulier"
+  - type: content_block
+    align: center
+    content: "## 30 minutes"
+    form: mVPMJ90XQ
 ---

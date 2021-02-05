@@ -11,7 +11,50 @@
     <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
       <div class="grid grid-cols-4 gap-6">
         
-        {{ if eq $type "quotation"}}
+        {{ if eq $type "30minutes"}}
+        <div class='col-span-4'>
+          <label class="block">
+            <span >Wat wil je bespreken?<span class="text-red-500">*</span></span>
+            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
+          </label>
+        </div>
+        <div class='col-span-4'>
+          <label class="block">
+            <span>Wanneer? Kies datum en tijd<span class="text-red-500">*</span></span>
+            <input  class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="30mindatetimepicker" name="datetime" type="datetime" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "name" }} <span class="text-red-500">*</span></span>
+            <input  class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "email" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+          </label>
+        </div>
+        <div class="col-span-4">
+          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Aanvragen</button>
+        </div>
+      </div>
+      {{ end }}
+
+      {{ if eq $type "quotation"}}
         <div class='col-span-4'>
           <label class="block">
             <span >{{ T "notes" }} <span class="text-red-500">*</span></span>

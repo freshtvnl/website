@@ -1,3 +1,7 @@
+import 'alpinejs'
+import flatpickr from "flatpickr"
+import { Dutch } from 'flatpickr/dist/l10n/nl.js'
+
 function youTubeVideos() {
 
   var getPlayers = document.getElementsByClassName('videoplayer');
@@ -84,3 +88,20 @@ if(urlParams.has('utm_source')) sessionStorage.setItem('utm_source', urlParams.g
 if(urlParams.has('utm_medium')) sessionStorage.setItem('utm_medium', urlParams.get('utm_medium') )
 if(urlParams.has('utm_content')) sessionStorage.setItem('utm_content', urlParams.get('utm_content') )
 if(urlParams.has('utm_campaign')) sessionStorage.setItem('utm_campaign', urlParams.get('utm_campaign') )
+
+
+function init30MinDateTimeElement() {
+
+  const picker = document.getElementById('30mindatetimepicker');
+
+  if(!picker) return
+
+  flatpickr(picker, {
+    "locale": Dutch,
+    enableTime: true,
+    dateFormat: "d-m-Y H:i",
+  });
+
+}
+
+init30MinDateTimeElement();
