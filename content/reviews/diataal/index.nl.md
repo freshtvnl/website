@@ -1,5 +1,5 @@
 ---
-title: diataal
+title: Diataal animatie
 slug: diataal
 draft: false
 id: _fqI8a0st
