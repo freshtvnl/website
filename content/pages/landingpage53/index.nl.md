@@ -4,9 +4,6 @@ slug: Animatie Groningen
 weight: 1
 draft: false
 id: wvUKuLAzh53
-seo:
-  title: Animatie laten maken in Groningen | Door Phil & Flo Videomarketing
-  description: Animatie laten maken in Groningen doe je bij Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -53,7 +50,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Vandaag nog alles weten over een animatie?
+      ## Vandaag nog ***alles weten*** over een animatie?
 
 
       Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
@@ -73,8 +70,13 @@ blocks:
     items:
       - DG0aSzvMj
       - sCR0-5I1N
-      - fm2wFFmdb
+      - cc-ik-qqS
     more_items: true
     contacts:
       - HZCh75c-T
+seo:
+  title: Animatie laten maken in Groningen | Door Phil & Flo Videomarketing
+  description: Animatie laten maken in Groningen doe je bij Phil & Flo
+    |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief
+    & innovatief
 ---
