@@ -34,7 +34,7 @@ blocks:
     align: center
     content: <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true"
-      width="640" height="1008" frameborder="0" marginheight="0"
+      width="1000" height="1008" frameborder="0" marginheight="0"
       marginwidth="0">Laden…</iframe>
 seo:
   title: Stagelopen bij video of animatie bedrijf - Phil & Flo Creative studio
