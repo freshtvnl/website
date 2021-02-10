@@ -3,17 +3,18 @@ title: Bedrijfsfilm laten maken
 slug: Bedrijfsfilm laten maken
 draft: false
 id: 4awsNMvv3
-seo:
-  title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol -Phil & Flo
-  description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten. 10 jaar ervaring. Vakkundig, online gericht en klimaatneutraal. Bel ons.
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken***"
     content: >-
-      ## Prachtige bedrijfsfilms voor organisaties met betekenis
+      #### Prachtige bedrijfsfilms voor organisaties met betekenis
 
 
       Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -21,9 +22,12 @@ blocks:
 
 
       De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+    video:
+      source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -31,9 +35,12 @@ blocks:
 
 
       75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/aron-sophie.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -51,9 +58,12 @@ blocks:
 
 
       Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/peter-suzan-kopie.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -61,9 +71,12 @@ blocks:
 
 
       Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/animatie-laten-maken/)!
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/inge-bank.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -71,9 +84,12 @@ blocks:
 
 
       Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/feestje-phil-en-flo.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -81,9 +97,12 @@ blocks:
 
 
       Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/inge-sophie-kopie.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
+      autoplay: true
   - type: content_block
     align: right
     content: >-
@@ -97,5 +116,8 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
-
+seo:
+  title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol -Phil & Flo
+  description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten.
+    10 jaar ervaring. Vakkundig, online gericht en klimaatneutraal. Bel ons.
 ---
