@@ -15,9 +15,11 @@
     <nav class="hidden md:flex space-x-6">
       {{ $currentPage := . }}
       {{ range $index, $element := .Site.Menus.main }}
+      {{ $currentPage.Params.Section }}
+      {{  $active := or (eq $currentPage.Title .Name) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .))}}
         {{if eq .Weight 0 }}
         {{ else }}
-        <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 {{ if $currentPage.IsMenuCurrent  "main" . }}font-bold border-green-500{{ else }}font-semibold border-white {{ end }}">{{ .Name }}</a>
+        <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 {{ if $active }}font-bold menu-border{{ else }}font-semibold border-white {{ end }} {{if eq .URL "/contact/"}}text-green-500{{end}}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </nav>
@@ -36,9 +38,10 @@
         </button>
         {{ $currentPage := . }}
         {{ range $index, $element := .Site.Menus.main }}
+        {{  $active := or (eq $currentPage.Title .Name) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .))}}
           {{if eq .Weight 0 }}
           {{ else }}
-          <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 border-white text-white {{ if $currentPage.IsMenuCurrent  "main" . }}font-bold border-opacity-100{{ else }}font-semibold border-opacity-30 {{ end }}">{{ .Name }}</a>
+          <a href="{{.URL | absLangURL }}" class="pb-2 border-b-4 opacity-100 hover:opacity-80 border-white text-white {{ if $active }}font-bold border-opacity-100{{ else }}font-semibold border-opacity-30 {{ end }}">{{ .Name }}</a>
           {{ end }}
         {{ end }}
       </nav>

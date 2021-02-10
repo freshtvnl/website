@@ -4,8 +4,8 @@ slug: Bedrijfsfilm laten maken
 draft: false
 id: 4awsNMvv3
 seo:
-  title: Bedrijfsanimatie laten maken | Phil & Flo Videomarketing
-  description: Phil & Flo Videomarketing voor bedrijfsanimatie laten maken | Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
+  title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol -Phil & Flo
+  description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten. 10 jaar ervaring. Vakkundig, online gericht en klimaatneutraal. Bel ons.
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken***"
@@ -97,7 +97,5 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
-seo:
-  title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol -Phil & Flo
-  description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten. 10 jaar ervaring. Vakkundig, online gericht en klimaatneutraal. Bel ons.
+
 ---

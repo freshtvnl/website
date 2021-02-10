@@ -57,7 +57,7 @@
 }
 
 
-.text-border, em strong {
+.text-border, em strong, .menu-border {
   @apply border-b-4 border-green-500;
 }
 
@@ -82,7 +82,7 @@ em strong {
     @apply text-green-500;
   }
 
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-green-500;
   }
 
@@ -95,7 +95,7 @@ em strong {
   .branch-element-bg {
     @apply bg-blue-500;
   }
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-blue-500;
   }
   .prose a {
@@ -110,7 +110,7 @@ em strong {
   .branch-element-bg {
     @apply bg-red-500;
   }
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-red-500;
   }
   .prose a {
@@ -125,7 +125,7 @@ em strong {
   .branch-element-bg {
     @apply bg-orange-500;
   }
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-orange-500;
   }
   .prose a {
@@ -140,7 +140,7 @@ em strong {
   .branch-element-bg {
     @apply bg-yellow-500;
   }
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-yellow-500;
   }
   .prose a {
@@ -155,7 +155,7 @@ em strong {
   .branch-element-bg {
     @apply bg-pink-500;
   }
-  .text-border, em strong {
+  .text-border, em strong, .menu-border {
     @apply border-pink-500;
   }
   .prose a {
