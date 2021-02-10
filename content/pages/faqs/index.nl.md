@@ -12,11 +12,11 @@ blocks:
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Bedrijfsfilm"
+    title: Bedrijfsfilm
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "360 graden video"
+    title: 360 graden video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
@@ -24,50 +24,50 @@ blocks:
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Employer branding video"
+    title: Employer branding video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Infograpic"
+    title: Infograpic
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Instructie video"
+    title: Instructie video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Infomericals"
+    title: Infomericals
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Interactieve video"
+    title: Interactieve video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Persoonlijke video"
+    title: Persoonlijke video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Promotievideo"
+    title: Promotievideo
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Reclame"
+    title: Reclame
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Social video"
+    title: Social video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "VR video"
+    title: VR video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
-    title: "Voorlichtingsvideo"
+    title: Voorlichtingsvideo
     items:
       - QBToQiJHS
 menu:
   footer:
-    weight: 2
+    weight: ""
 ---
