@@ -15,7 +15,7 @@ blocks:
     align: center
     content: >-
       Ben je op zoek naar een specifieke pagina? Neem dan [contact met ons
-      op](/contact). \
+      op](https://www.philenflo.nl/contact/). \
 
-      Of ga direct naar onze [Homepage](/)
+      Of ga direct naar onze [Homepage](https://www.philenflo.nl/).
 ---
