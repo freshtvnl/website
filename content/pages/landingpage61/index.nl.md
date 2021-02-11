@@ -4,9 +4,6 @@ slug: vr animatie laten maken
 weight: 1
 draft: false
 id: wvUKuLAzh61
-seo:
-  title: VR animatie laten maken - Phil & Flo Videomarketing
-  description: VR animatie laten maken doe je bij Phil & Flo | Onderscheidend met creatieve Virtual Reality content | Ervaar nu zelf VR bij ons en bel ons
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -39,7 +36,7 @@ blocks:
       ## Hoe werkt een ***VR animatie***?
 
 
-      Bij een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote [animatie](https://www.philenflo.nl/animatie-laten-maken/) van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of je mobiel kan je door de VR animatie kijken. De echte VR ervaring heb je met behulp van een VR bril. Door de bewegingen van je hoofd kijk je rond in de VR animatie net zoals in het dagelijkse leven.
+      Bij een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of je mobiel kan je door de VR animatie kijken. De echte VR ervaring heb je met behulp van een VR bril. Door de bewegingen van je hoofd kijk je rond in de VR animatie net zoals in het dagelijkse leven.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -137,4 +134,8 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+seo:
+  title: VR animatie laten maken - Phil & Flo Videomarketing
+  description: VR animatie laten maken doe je bij Phil & Flo | Onderscheidend met
+    creatieve Virtual Reality content | Ervaar nu zelf VR bij ons en bel ons
 ---
