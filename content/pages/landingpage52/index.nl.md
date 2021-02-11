@@ -39,7 +39,7 @@ blocks:
       ## Op reis
 
 
-      Phil & Flo neemt je mee op reis naar het uiteindelijke doel wat jij met je explanimation wilt bereiken. Wij zorgen ervoor dat jouw verhaal én uitleg blijven hangen. [Animatie](https://www.philenflo.nl/animatie-laten-maken/) leent zich er daarnaast goed voor om de visuele identiteit van je bedrijf of organisatie naar voren te laten komen.
+      Phil & Flo neemt je mee op reis naar het uiteindelijke doel wat jij met je explanimation wilt bereiken. Wij zorgen ervoor dat jouw verhaal én uitleg blijven hangen. [Animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) leent zich er daarnaast goed voor om de visuele identiteit van je bedrijf of organisatie naar voren te laten komen.
 
 
       Wij denken met je mee over hoe wij je van de concurrent kunnen onderscheiden. In uiteenlopende designs – van heel gedetailleerd tot erg abstract – geven we jouw klant uitleg over uiteenlopende onderwerpen. Een explanimation laten maken is de ideale tool om binnen één a twee minuten je boodschap helder over te brengen op je doelgroep.
