@@ -3,9 +3,6 @@ title: bedrijfsanimatie
 slug: bedrijfsanimatie
 draft: false
 id: 0wFfBvVZd
-seo:
-  title: Bedrijfsanimatie - Phil & Flo Videomarketing
-  description: "Laat met een bedrijfsanimatie zien wie je bent en wat je doet. Ga met je tijd mee! Van productdemo tot uitlegvideo: wij maken ze simpel en aantrekkelijk."
 blocks:
   - type: hero_block
     content: Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze
@@ -73,7 +70,7 @@ blocks:
       ## ***Perspectief***
 
 
-      Een [geanimeerde bedrijfsvideo](https://www.philenflo.nl/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
+      Een [geanimeerde bedrijfsvideo](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
     displaymedia: custom_video
     video:
       autoplay: true
@@ -92,4 +89,9 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+seo:
+  title: Bedrijfsanimatie - Phil & Flo Videomarketing
+  description: "Laat met een bedrijfsanimatie zien wie je bent en wat je doet. Ga
+    met je tijd mee! Van productdemo tot uitlegvideo: wij maken ze simpel en
+    aantrekkelijk."
 ---
