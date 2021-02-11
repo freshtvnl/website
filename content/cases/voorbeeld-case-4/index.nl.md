@@ -85,7 +85,7 @@ blocks:
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
     cta:
-      url: /offerte-ontvangen
+      url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
       type: button
   - type: contact_block
