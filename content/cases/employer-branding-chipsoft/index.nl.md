@@ -3,9 +3,6 @@ title: Employer branding chipsoft
 slug: Employer branding chipsoft
 draft: false
 id: 6ODogkb7_
-seo:
-  title: Employer Branding ChipSoft - Phil & Flo Videomarketing
-  description: "Employer Branding ChipSoft: met trots presenteert Phil & Flo Videomarketing deze geslaagde videoproducties. Ontdek de totstandkoming van dit interessante project!"
 image:
   source: images/employer-branding-chipsoft.jpg
 color: blue
@@ -34,7 +31,7 @@ blocks:
       ## Inhoud
 
 
-      Leidend voor de inhoud van de films zijn natuurlijk de openstaande vacatures: voor welke functie is een dergelijke vacaturefilm gewenst? Naast een algemene [Employer Branding](https://www.philenflo.nl/employer-branding/) video heeft ChipSoft logischerwijs gekozen voor twee [vacaturevideo’s](https://www.philenflo.nl/vacature-video/):
+      Leidend voor de inhoud van de films zijn natuurlijk de openstaande vacatures: voor welke functie is een dergelijke vacaturefilm gewenst? Naast een algemene [Employer Branding video](https://www.philenflo.nl/oplossingen/employer-branding/) heeft ChipSoft logischerwijs gekozen voor twee [vacaturevideo’s](https://www.philenflo.nl/vacature-video/):
 
 
       * Vacaturefilm Ontwikkelaar
@@ -56,4 +53,9 @@ blocks:
 
 
       De films zijn inmiddels duizenden keren bekeken. *Views* zijn leuk, maar bepalen niet zo zeer het succes van een video. Na het zien van de video, heeft de kijker een realistisch beeld van wat de functie en het bedrijf te bieden heeft. Dit heeft geleid tot kwalitatief betere reacties, prettige sollicitatiegesprekken en uiteindelijk toppersoneel!
+seo:
+  title: Employer Branding ChipSoft - Phil & Flo Videomarketing
+  description: "Employer Branding ChipSoft: met trots presenteert Phil & Flo
+    Videomarketing deze geslaagde videoproducties. Ontdek de totstandkoming van
+    dit interessante project!"
 ---
