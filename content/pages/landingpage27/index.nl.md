@@ -3,9 +3,6 @@ title: Personalized video
 slug: Personalized video
 draft: false
 id: 4awsNM1212vv3
-seo:
-  title: Personalized video - Phil & Flo Videomarketing
-  description: Een personalized video staat voor je klant kennen en met concrete, gepersonaliseerde oplossingen komen. Denk mee en beantwoord de behoeften van je klant!
 blocks:
   - type: hero_block
     title: "***Personalized video***"
@@ -55,7 +52,7 @@ blocks:
       Het spreekt voor zich dat je met een persoonlijk bericht betere resultaten bereikt bij je doelgroep dan met een algemene mailing of advertentie. **Een personalized video is de ideale koppeling tussen klantdata en persoonlijke media**. Daarmee is het een effectief middel om gedrag te beïnvloeden.
 
 
-      Phil & Flo heeft veel ervaring met gepersonaliseerde video’s en ook de beveiliging van de data die gepaard gaat met het persoonlijk maken van de video. Omdat wij alle films en data op onze eigen servers beheren en hosten, kunnen we miljoenen verschillende gepersonaliseerde [videofilms](https://www.philenflo.nl/videofilm-laten-maken/) en gepersonaliseerde [animaties](https://www.philenflo.nl/animatie-laten-maken/) veilig opslaan.
+      Phil & Flo heeft veel ervaring met gepersonaliseerde video’s en ook de beveiliging van de data die gepaard gaat met het persoonlijk maken van de video. Omdat wij alle films en data op onze eigen servers beheren en hosten, kunnen we miljoenen verschillende gepersonaliseerde [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/) en gepersonaliseerde [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) veilig opslaan.
 
 
       Kortom: gepersonaliseerde video’s hebben een positieve invloed op de klantenbinding, omdat het de kijker laat zien dat je je echt in ze hebt verdiept.
@@ -79,4 +76,9 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: Personalized video - Phil & Flo Videomarketing
+  description: Een personalized video staat voor je klant kennen en met concrete,
+    gepersonaliseerde oplossingen komen. Denk mee en beantwoord de behoeften van
+    je klant!
 ---
