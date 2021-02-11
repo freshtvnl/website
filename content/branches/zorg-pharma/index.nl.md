@@ -53,7 +53,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     cta:
-      url: /interactieve-video/
+      url: https://www.philenflo.nl/oplossingen/interactieve-video/
       text: Lees hier meer over interactieve video
       type: link
   - type: content_block
@@ -69,7 +69,7 @@ blocks:
     image:
       alt: ""
     cta:
-      url: /animatie-laten-maken/
+      url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
       text: Lees meer over animatie
       type: link
   - type: content_block
