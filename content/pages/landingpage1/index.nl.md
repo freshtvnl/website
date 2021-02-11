@@ -80,7 +80,7 @@ blocks:
       Een 3D animatievideo is dus een goede manier om je producten te verkopen of een bepaald onderwerp bij je doelgroep duidelijk te maken. Tekeningen zien er levendiger uit in een 3D-animatie en het maakt je boodschap aantrekkelijker en toegankelijker.
 
 
-      Bekijk eens ons portfolio voor meer animatie voorbeelden! Of lees hier meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken).
+      Bekijk eens ons portfolio voor meer animatie voorbeelden! Of lees hier meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/employer-branding/).
     displaymedia: custom_video
     image:
       source: images/inge-bank.jpg
@@ -111,7 +111,7 @@ blocks:
     image:
       source: images/inge-sophie-kopie.jpg
     cta:
-      url: /offerte-ontvangen
+      url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
       type: button
   - type: contact_block
@@ -119,5 +119,6 @@ blocks:
       - Nc7XQAY2B
 seo:
   title: 3D Animatie laten maken - Phil & Flo Videomarketing
-  description: 3D animatie laten maken voor je organisatie of product? Bekijk onze gave 3D animaties en lees over onze design filosofie.
+  description: 3D animatie laten maken voor je organisatie of product? Bekijk onze
+    gave 3D animaties en lees over onze design filosofie.
 ---
