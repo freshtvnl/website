@@ -6,7 +6,7 @@ id: LVN66mSaQ
 blocks:
   - type: content_block
     content: >-
-      **Privacybeleid Phil & Flo Creative Studio**
+      # **Privacybeleid Phil & Flo Creative Studio**
 
 
       https://www.philenflo.nl
@@ -31,7 +31,6 @@ blocks:
 
 
       ***CRM***
-
 
 
       **Pipedrive**
@@ -152,8 +151,6 @@ blocks:
 
 
       Wij behouden te allen tijde het recht ons privacybeleid te wijzigen. Op deze pagina vindt u echter altijd de meest recente versie. Als het nieuwe privacybeleid gevolgen heeft voor de wijze waarop wij reeds verzamelde gegevens met betrekking tot u verwerken, dan brengen wij u daarvan per e-mail op de hoogte.
-
-
 
 
       **Contactgegevens Privacy afdeling**
