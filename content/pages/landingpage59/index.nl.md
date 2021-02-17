@@ -1,9 +1,6 @@
 ---
 title: Animatie studio Den Haag
 slug: Animatie studio Den Haag
-seo:
-  title: Animatie studio in Den Haag | Phil & Flo Videomarketing
-  description: Phil & Flo Animatie studio in Den Haag |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 weight: 1
 draft: false
 id: wvUKuLAzh59
@@ -13,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Animatie studio Den Haag
+      # Animatie studio Den Haag
 
 
       Zoek je een animatiestudio in Den Haag? De animatiespecialisten van Phil en Flo staan klaar om voor bedrijven, organisaties en ondernemers in Den Haag pakkende animatiefilms te maken.
@@ -101,4 +98,8 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+seo:
+  title: Animatie studio in Den Haag | Phil & Flo Videomarketing
+  description: Phil & Flo Animatie studio in Den Haag |Onderscheidende content ✔
+    Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 ---
