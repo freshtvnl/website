@@ -4,9 +4,6 @@ slug: sitemap
 weight: 1
 draft: false
 id: K7N5t7lJE
-seo:
-  title: Sitemap - Phil & Flo Video marketing
-  description: 
 blocks:
   - type: hero_block
     title: Sitemap
@@ -16,7 +13,11 @@ blocks:
     pages_items:
       - v1RwkPjTk
       - j18wstXaE
-      - dXcpqXVdj
+      - 0wFfBvVZd
+      - 4awsNMvv31
+      - 4awsNMvv3
+      - WcYkSOTTF
+      - 4awsNMvv3bc
   - type: content_list
     title: Branches
     content: De branches waar wij voor werken
@@ -48,6 +49,9 @@ blocks:
       - WnlJtd9dP
       - YwJ5gT_tJ
       - Yu_OxyeJZ
+seo:
+  title: Sitemap - Phil & Flo Video marketing
+  description: null
 menu:
   footer:
     weight: 3
