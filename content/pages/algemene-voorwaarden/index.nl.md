@@ -7,6 +7,11 @@ blocks:
   - type: content_block
     align: center
     content: >-
+      # Algemene voorwaarden 
+
+
+
+
       ### Aanpassing op 18 december 2020
 
 
