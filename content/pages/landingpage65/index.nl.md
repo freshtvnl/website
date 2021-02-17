@@ -26,7 +26,7 @@ blocks:
       ## Animatie is ***duidelijk en aansprekend***
 
 
-      Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/solutions/animatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een commercial, maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
+      Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een commercial, maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
