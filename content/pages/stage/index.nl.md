@@ -7,7 +7,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Stage***
+      # ***Stage***
 
 
       *Beschikbare stageplekken **vanaf 2021** in Groningen:*
