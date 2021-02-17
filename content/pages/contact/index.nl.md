@@ -8,7 +8,7 @@ image:
 blocks:
   - type: content_block
     align: center
-    content: "## Contact formulier"
+    content: "# Contact formulier"
     form: 2nOvI3M4P
   - type: content_block
     align: left
