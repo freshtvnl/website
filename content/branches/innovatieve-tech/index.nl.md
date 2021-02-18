@@ -58,12 +58,11 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw-Phil-en-Flo-website-source.mp4
+    cta:
+      url: /contact
+      text: Contact opnemen
+      type: button
   - type: contact_block
     contacts:
       - kJ07QyNzs
-  - type: selectedwork_block
-    title: Portfolio
-    items:
-      - fm2wFFmdb
-      - sCR0-5I1N
 ---
