@@ -62,11 +62,8 @@ blocks:
       url: /contact
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - kJ07QyNzs
   - type: content_block
-    align: left
+    align: right
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     displaymedia: iframe
@@ -75,4 +72,7 @@ blocks:
 
 
       Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een interactieve brochure een goede oplossing. Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter!
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
