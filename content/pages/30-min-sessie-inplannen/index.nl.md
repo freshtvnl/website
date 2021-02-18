@@ -11,4 +11,5 @@ blocks:
 
 
       Boek nu geheel vrijblijvend een sessie met onze specialisten over de inzet van video, animatie of videomarketing.
+    align: center
 ---
