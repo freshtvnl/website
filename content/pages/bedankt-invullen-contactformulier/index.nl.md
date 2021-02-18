@@ -6,10 +6,11 @@ id: mZIdByQL3
 blocks:
   - type: content_block
     align: center
-    content: |-
+    content: >-
       ## ***Bedankt voor het invullen van het contactformulier***
 
-      Wij proberen binnen één werkdag met een reactie te komen op jouw bericht.
+
+      Je hebt een **goede keuze** gemaakt om conatct met ons op te nemen. Wij zullen binnen één werkdag met een reactie te komen op jouw bericht.
 seo:
   noindex: true
 ---
