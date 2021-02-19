@@ -10,6 +10,7 @@
 {{ $size := (printf "%s%s%s" $width "x" $height ) }}
 {{ $size2x := (printf "%s%s%s" (print $width2x) "x" (print $height2x )) }}
 
+
 {{ $class := .class }}
 {{ if $source }}
 {{ with $page.Resources.GetMatch $source  }}

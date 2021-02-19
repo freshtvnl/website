@@ -13,11 +13,11 @@
     {{ $numOfItems := len .}}
    
     {{ if eq $numOfItems 3}}
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto items-start">
     {{ else if eq $numOfItems 2}}
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-6  xl:gap-12 w-auto mx-auto max-w-7xl">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-6  xl:gap-12 w-auto mx-auto max-w-7xl  items-start">
     {{ else }}
-    <div class="grid grid-cols-1 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto">
+    <div class="grid grid-cols-1 gap-3 lg:gap-6 xl:gap-12 w-auto mx-auto  items-start">
     {{ end }}
     {{ range . }}
 
@@ -28,7 +28,7 @@
         {{ with .Params.quote }}
           {{ if .image }}
             <div>
-              {{ partial "image.html" (dict "page" $page "source" .image.source "alt" .image.alt "width" "500" "height" "500" "class" "") }}
+              {{ partial "image.html" (dict "page" $item "source" .image.source "alt" .image.alt "width" "500" "height" "500" "class" "object-cover") }}
             </div>
           {{ end }}
           <div class="text-center mt-6">
