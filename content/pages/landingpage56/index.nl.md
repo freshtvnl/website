@@ -10,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Animatie bedrijf in ***Amsterdam***: Phil & Flo
+      # Animatie bedrijf in ***Amsterdam***: Phil & Flo
 
 
       Wil je jezelf op een originele manier op de kaart zetten? Phil & Flo maakt voor jou een animatie om je bedrijf in Amsterdam te promoten. Een animatie is vaak een leukere, luchtige manier dan alleen videobeelden, en geeft je bedrijf een frisse, levendige indruk.
