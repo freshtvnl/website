@@ -10,7 +10,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Explanimation laten maken
+      # Explanimation laten maken
 
 
       In iedere organisatie zit een verhaal dat verteld moet worden. Een ‘explanimation’ (explanation + animation) is eigenlijk een fancy woord voor een uitleganimatie. Het is een korte animatievideo waarin je heel snel uitlegt hoe complexe producten, diensten, systemen of processen werken. Ook kun je een explanimation laten maken om een samenvatting van een jaarverslag of ingewikkeld rapport te presenteren en inzichtelijk te maken. In ieder geval is een explanimation laten maken vaak de beste manier om snel en duidelijk iets uit te leggen. Goed begrepen worden door je klanten is essentieel voor elk bedrijf, maar keer op keer je verhaal vertellen is best wel vermoeiend. Je hebt niet altijd zicht of je accountmanagers altijd het juiste verhaal vertellen. Daarbij komt dat niet iedereen direct alles wat je verkoopt of aanbiedt begrijpt. Door het gebruik van tekst, beeld en geluid in je eigen huisstijl wordt je boodschap zo effectief mogelijk gecommuniceerd. Phil & Flo brengt jouw verhaal tot leven.
