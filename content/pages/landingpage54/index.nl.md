@@ -10,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Animatie video*** laten maken
+      # ***Animatie video*** laten maken
 
 
       Wil je je klanten op een aansprekende manier bereiken? Met een animatie-video kom je helder, luchtig en opvallend voor de dag.
