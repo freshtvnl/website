@@ -1,9 +1,6 @@
 ---
 title: Animatiefilm laten maken
 slug: Animatiefilm laten maken
-seo:
-  title: Animatiefilm Laten Maken - Say Yes to Team Fresh ;)
-  description: Ook een succesvolle animatiefilm laten maken? Ons specialistische team produceert de animatiefilm die past bij je organisatie! Bel ons nu, of straks...
 weight: 1
 draft: false
 id: wvUKuLAzh51
@@ -13,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Een effectieve ***animatiefilm*** laten maken
+      # Een effectieve ***animatiefilm*** laten maken
 
 
       Animaties zijn er in vele soorten en maten, maar hebben allemaal een gelijksoortig doel: het helder en effectief overbrengen van een boodschap. Een animatiefilm is een fantastische manier om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te leggen, of een proces te illustreren. Phil & Flo maakt professionele animaties voor al deze doeleinden. Onze animatiefilms zijn creatief, divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over dan je met alleen tekst bereikt.
@@ -149,4 +146,9 @@ blocks:
   - type: contact_block
     contacts:
       - HZCh75c-T
+seo:
+  title: Animatiefilm Laten Maken - Say Yes to Team Fresh ;)
+  description: Ook een succesvolle animatiefilm laten maken? Ons specialistische
+    team produceert de animatiefilm die past bij je organisatie! Bel ons nu, of
+    straks...
 ---
