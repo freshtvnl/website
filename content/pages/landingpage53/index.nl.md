@@ -10,7 +10,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## Animatie laten maken in ***Groningen?***
+      # Animatie laten maken in ***Groningen?***
 
 
       60 seconden. Meer tijd besteedt de gemiddelde bezoeker niet aan de inhoud van een webpagina. Je kunt je wel voorstellen dat ze dus niet uitgebreid de tijd nemen om een stuk tekst te lezen, hoe goed je verhaal ook is. Phil & Flo is een ervaren specialist in animatie in Groningen (Oude Boteringestraat 71). Wij helpen je graag op weg naar effectievere communicatie.
