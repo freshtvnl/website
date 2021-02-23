@@ -4,16 +4,13 @@ slug: Educatieve animatiefilm maken
 weight: 1
 draft: false
 id: wvUKuLAzh60
-seo:
-  title: Educatieve animatievideo maken - Phil & Flo Videomarketing
-  description: Educatie animatiefilm maken? Maak iets in zo’n kort mogelijk tijdsbestek duidelijk aan je doelgroep. Zo komt je boodschap goed over.
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Educatieve*** animatiefilm maken
+      # ***Educatieve*** animatiefilm maken
 
 
       Een pakkende intro, passende voice-over en iets duidelijk maken dat zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie animatiefilm maken is dat het prettig is om naar te kijken. Wie is er inmiddels niet met animatie op gegroeid? Wij in ieder geval wel!
@@ -83,4 +80,8 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+seo:
+  title: Educatieve animatievideo maken - Phil & Flo Videomarketing
+  description: Educatie animatiefilm maken? Maak iets in zo’n kort mogelijk
+    tijdsbestek duidelijk aan je doelgroep. Zo komt je boodschap goed over.
 ---
