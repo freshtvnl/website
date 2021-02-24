@@ -3,9 +3,6 @@ title: Videoproductie Amsterdam
 slug: Videoproductie Amsterdam
 draft: false
 id: 124awsNMvv3
-seo:
-  title: Videoproductie Amsterdam - Succesvol en Snel - Phil & Flo Videomarketing
-  description: Videoproductie laten maken? Phil & Flo is dé specialist op het gebied van succesvolle videproducties. Neem nu contact op om de mogelijkheden te bespreken!
 blocks:
   - type: hero_block
     title: Videoproductie ***Amsterdam***
@@ -66,4 +63,8 @@ blocks:
   - type: contact_block
     contacts:
       - PZcCTyF1B
+seo:
+  title: Videoproductie Amsterdam - Succesvol - Phil & Flo Videomarketing
+  description: Videoproductie laten maken? Phil & Flo is dé specialist op het
+    gebied van succesvolle videproducties. Neem nu contact op!
 ---
