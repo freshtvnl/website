@@ -18,4 +18,6 @@ quote:
   functie: Founder
   company: Adresults
   auteur: Robert
+seo:
+  noindex: true
 ---
