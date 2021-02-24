@@ -10,4 +10,6 @@ quote:
     animatie. Snel en professioneel opgepakt. Binnen een week een mooi
     resultaat. Zeer tevreden over deze samenwerking. Bedankt!
   company: Noorderpoort College
+seo:
+  noindex: true
 ---
