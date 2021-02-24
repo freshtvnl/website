@@ -30,7 +30,7 @@ blocks:
       ### ***Trots momentje***
 
 
-      Ik ken meerdere trotse momenten bij Phil & Flo. Voor K3 Pebblestone had ik een script en animatie opgeleverd waar geen feedback op werd gegeven.  Toen dacht ik echt ‘wauw we zaten perfect op 1 lijn’. Dat voelt goed als ik prettig kan levelen met een klant. Extra bevestiging kreeg ik door allemaal 10-en in de review van de klant te krijgen. Toen was ik écht trots. 
+      Ik ken meerdere trotse momenten bij Phil & Flo. Voor K3 Pebblestone had ik een script en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) opgeleverd waar geen feedback op werd gegeven.  Toen dacht ik echt ‘wauw we zaten perfect op 1 lijn’. Dat voelt goed als ik prettig kan levelen met een klant. Extra bevestiging kreeg ik door allemaal 10-en in de review van de klant te krijgen. Toen was ik écht trots. 
 
 
       ### ***Karaktertje*** op zich
@@ -43,4 +43,8 @@ blocks:
     displaymedia: image
     image:
       source: ""
+seo:
+  title: Medewerker Inge van Phil & Flo | Wij verbeelden de wereld van morgen
+  description: "De wereld van Inge | Medewerkster bij Phil & Flo | Maak kennis met
+    ons team. "
 ---
