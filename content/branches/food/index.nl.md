@@ -6,6 +6,7 @@ draft: false
 id: CA0ObKsX0
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
+  alt: Reclame Douwe Egberts
 color: orange
 blocks:
   - type: hero_block
@@ -26,6 +27,7 @@ blocks:
     displaymedia: image
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
+      alt: Reclame voor Douwe Egberts
     content: >-
       ## Meewerken voor de ***juiste balans***
 
@@ -40,16 +42,18 @@ blocks:
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-2.jpg
+      alt: Infomercial Sunita
     content: >-
       ## ***Oplossingen voor de fair food industrie***
 
 
-      Phil & Flo zoekt samen met jou naar het beste middel om de doelgroep te bereiken. Of dit nu high-end productanimatie is, een heldere uitleganimatie of een persoonlijke en interactieve film. Wij zorgen dat je de juiste tools inzet. Bel ons vrijblijvend om te sparren over de mogelijkheden. 085 - 273 8331
+      Phil & Flo zoekt samen met jou naar het beste middel om de doelgroep te bereiken. Of dit nu high-end [productanimatie](https://www.philenflo.nl/3d-productvideo/) is, een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) of een [persoonlijke](https://www.philenflo.nl/gepersonaliseerde-video/) en [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/). Wij zorgen dat je de juiste tools inzet. Bel ons vrijblijvend om te sparren over de mogelijkheden. 085 - 273 8331
   - type: content_block
     align: left
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-4.jpg
+      alt: Infomercial Sunita
     content: >-
       ## Verbeelden van onze ***primaire levensbehoefte***
 
@@ -64,6 +68,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio.jpg
+      alt: Infomercial Sunita
     content: >-
       ## ***Duurzaam inzetbaar***
 
@@ -78,4 +83,7 @@ blocks:
       - Nc7XQAY2B
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
+  title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
+  description: Een productvideo, interactieve video of commercial voor jouw unieke
+    product. Ontdek de mogelijkheden voor de Fair Food branche bij Phil & Flo.
 ---
