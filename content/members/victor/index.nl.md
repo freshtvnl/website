@@ -24,4 +24,6 @@ blocks:
         source: ""
     image:
       source: ""
+seo:
+  noindex: true
 ---
