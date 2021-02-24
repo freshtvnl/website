@@ -6,6 +6,7 @@ draft: false
 id: q6TD9LMXU
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
+  alt: "Videomarketing onderwijs "
 color: yellow
 blocks:
   - type: hero_block
@@ -29,12 +30,13 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     image:
       source: images/onderwijs-promotiefilm.jpg
+      alt: Opname video onderwijs
   - type: content_block
     content: >-
       ## ***1 + 1 = 3?***
 
 
-      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een animatie. We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
+      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
     displaymedia: iframe
     image:
       source: images/onderwijs-promotiefilm.jpg
@@ -54,7 +56,7 @@ blocks:
       ## ***Kunst & Cultuur***
 
 
-      Waarom plaatsen we kunst & Cultuur in dezelfde hoek als onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst en cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van Kunst & Cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische interactieve films of virtual reality (360 graden) animatie films.
+      Waarom plaatsen we kunst & Cultuur in dezelfde hoek als onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst en cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van Kunst & Cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische [interactieve films](https://www.philenflo.nl/oplossingen/interactieve-video/) of [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) ([360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/)) animatie films.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
@@ -73,4 +75,9 @@ blocks:
     title: Video voorbeelden
     items:
       - DG0aSzvMj
+seo:
+  title: "De wereld van morgen verbeelden voor de onderwijs, cultuur of kunst sector "
+  description: Verbeeld met animatie, interactieve film, virtual reality jouw
+    wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
+    unieke video's.
 ---
