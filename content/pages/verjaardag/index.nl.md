@@ -16,4 +16,6 @@ blocks:
     image:
       source: ""
     form: xxoKKZjUJ
+seo:
+  noindex: true
 ---
