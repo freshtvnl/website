@@ -3,9 +3,6 @@ title: Wervingsvideo laten maken
 slug: Wervingsvideo laten maken
 draft: false
 id: 4awsNMvv3gw
-seo:
-  title: Wervingsvideo video laten maken | Specialist Phil & Flo Videomarketing
-  description: vacatures open? Laat een Wervingsvideo maken door Phil & Flo Videomarketing > Nieuwe medewerkers werven met een authentieke film > Alle branches > Bel ons nu.
 blocks:
   - type: hero_block
     title: "***Wervingsvideo*** laten maken"
@@ -92,16 +89,18 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Phil & Flo employer branding
   - type: content_block
     align: right
     content: >-
       ## Vandaag nog meer weten over ***employer branding***?
 
 
-      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige Employer branding video’s om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
+      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige [Employer branding video’s](https://www.philenflo.nl/oplossingen/employer-branding/) om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+      alt: Het team van Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte Ontvangen
@@ -109,4 +108,9 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: Wervingsvideo video laten maken | Specialist Phil & Flo Videomarketing
+  description: vacatures open? Laat een Wervingsvideo maken door Phil & Flo
+    Videomarketing > Nieuwe medewerkers werven met een authentieke film > Alle
+    branches > Bel ons nu.
 ---
