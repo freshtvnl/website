@@ -16,6 +16,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
+      alt: Peter De Graaf
   - type: content_block
     align: center
     content: >-
@@ -43,4 +44,8 @@ blocks:
       - DG0aSzvMj
       - cc-ik-qqS
       - dD7nogK0Q
+seo:
+  title: Peter de Graaf | Phil & Flo | Wij verbeelden de wereld van morgen
+  description: Peter de Graaf | Eigenaar Phil & Flo | De wereld van Peter, is de
+    wereld van morgen. Maak snel kennis.
 ---
