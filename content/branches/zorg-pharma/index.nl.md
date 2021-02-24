@@ -6,6 +6,7 @@ draft: false
 id: o0NtTZixr
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
+  alt: "Employer branding UMCG "
 color: pink
 blocks:
   - type: hero_block
@@ -14,10 +15,12 @@ blocks:
       onderzoek die weer kan worden gebruikt in de rest van de wereld. Om ook
       wereldwijd ziektes uit te bannen is goede pharmaceutische industrie
       belangrijk. Daarom werken wij graag samen met zorg & pharma bedrijven om
-      doorbraken en oplossingen te communiceren door middel van interactieve
-      brochures, animatiefilms en videofilms. Onze specialist op het gebied van
-      zorg en pharma is Victor. Bel hem gerust voor vrijblijvend advies op maat
-      085 - 273 8331.
+      doorbraken en oplossingen te communiceren door middel van [interactieve
+      brochures](https://www.philenflo.nl/oplossingen/interactieve-video/),
+      [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
+      en [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
+      Onze specialist op het gebied van zorg en pharma is Victor. Bel hem gerust
+      voor vrijblijvend advies op maat 085 - 273 8331.
     title: De wereld van morgen ***leeft gezond***
     displaymedia: custom_video
     video:
@@ -33,6 +36,7 @@ blocks:
     displaymedia: image
     image:
       source: images/foto-umcg.png
+      alt: "Employer branding UMCG "
     video:
       autoplay: false
     cta:
@@ -111,4 +115,8 @@ blocks:
 
 
       Schroom niet op contact op te nemen. Onze specialist staan klaar om vrijblijvend te sparren over jouw communicatie uitdagingen!
+seo:
+  title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
+  description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
+    zorginstelling met de beste content. Ontdek hier onze mogelijkheden. "
 ---
