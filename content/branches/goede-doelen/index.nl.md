@@ -14,7 +14,7 @@ blocks:
       # ***Goede doelen***
 
 
-      Phil & Flo zet zich in voor de wereld van morgen. Dat betekent dat we onze kennis ook moeten inzetten voor goede doelen. Daarom produceren we elk jaar een aantal animatiefilms of videofilms voor goede doelen tegen gereduceerd tarief of zelfs helemaal gratis. Wat maakt iets voor ons een goed doel? Wij bepalen per goed doel of we daaraan onze tijd willen besteden als team. Is het idee leuk, het goede doel goed genoeg en hebben we een klik? Dan maken we een geweldige film voor je!
+      Phil & Flo zet zich in voor de wereld van morgen. Dat betekent dat we onze kennis ook moeten inzetten voor goede doelen. Daarom produceren we elk jaar een aantal [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/) voor goede doelen tegen gereduceerd tarief of zelfs helemaal gratis. Wat maakt iets voor ons een goed doel? Wij bepalen per goed doel of we daaraan onze tijd willen besteden als team. Is het idee leuk, het goede doel goed genoeg en hebben we een klik? Dan maken we een geweldige film voor je!
     displaymedia: custom_video
     video:
       source_mp4: https://freshtv.nl/video/Welcome-app-goed-doel.mp4
@@ -26,7 +26,7 @@ blocks:
       ## Film voor ***goede doelen***
 
 
-      Wil je meer weten over de mogelijkheden van een animatiefilm, een interactieve film of een persoonlijke film voor fondsenwerving, uitleg of begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, 085 - 273 8331.
+      Wil je meer weten over de mogelijkheden van een animatiefilm, een [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/) of een [persoonlijke film](https://www.philenflo.nl/gepersonaliseerde-video/) voor fondsenwerving, uitleg of begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, 085 - 273 8331.
     image:
       source: images/home-start-goede-doelen.jpg
     displaymedia: image
@@ -43,4 +43,8 @@ blocks:
       - dD7nogK0Q
       - sCR0-5I1N
     more_items: true
+seo:
+  title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo
+  description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
+    juiste animaitefilm of video. Zo wordt jouw boodschap gehoord. "
 ---
