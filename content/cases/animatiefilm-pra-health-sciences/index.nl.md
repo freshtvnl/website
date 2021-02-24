@@ -45,7 +45,7 @@ blocks:
       ### ***Uitleganimatie*** schept duidelijkheid
 
 
-      Zo hebben we een heldere uitleganimatie opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe PRA te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
+      Zo hebben we een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe PRA te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-Phil-en-Flo-website-source.mp4
@@ -56,7 +56,7 @@ blocks:
       ### Ervaring in ***video-testimonials***
 
 
-      Een animatie is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend video-testimonials gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
+      Een animatie is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend [video-testimonials](https://www.philenflo.nl/video-testimonial/) gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
     displaymedia: youtube_video
     youtube:
       id: i1ljV8twDig
@@ -66,7 +66,7 @@ blocks:
       ### De organisatie in een ***bedrijfsfilm***
 
 
-      Na de uitleg van wat geneesmiddelen onderzoek is en het delen van ervaringen is het natuurlijk belangrijk om te weten met wat voor organisatie de kandidaat in aanraking komt. Een bedrijfsfilm die deze informatie verschaft kan om deze reden niet ontbreken. Sterker nog, deze film is zelfs essentieel. Je doet namelijk geen zaken met een bedrijf waar je geen vertrouwen in hebt. Zeker niet als het om je gezondheid gaat!
+      Na de uitleg van wat geneesmiddelen onderzoek is en het delen van ervaringen is het natuurlijk belangrijk om te weten met wat voor organisatie de kandidaat in aanraking komt. Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) die deze informatie verschaft kan om deze reden niet ontbreken. Sterker nog, deze film is zelfs essentieel. Je doet namelijk geen zaken met een bedrijf waar je geen vertrouwen in hebt. Zeker niet als het om je gezondheid gaat!
     displaymedia: youtube_video
     youtube:
       id: uxDljSPqZA8
@@ -91,4 +91,8 @@ blocks:
   - type: contact_block
     contacts:
       - PZcCTyF1B
+seo:
+  title: Animatiefilm PRA Health Sciences - Phil & Flo Videomarketing
+  description: "Phil & Flo Videomarketing presenteert de animatiefilm PRA Health
+    Sciences: Hoe werkt geneesmiddelenonderzoek?"
 ---
