@@ -12,10 +12,10 @@ blocks:
   - type: hero_block
     title: "***Beroeps Organisatie Kunstenaars*** – 3D Animatie"
     displaymedia: custom_video
-    content: Maak binnen één week een opvallende gave commercial voor een
-      organisatie die het tijdens de Covid pandemie erg zwaar had. Gratis
-      zendtijd op de publieke zenders werd beschikbaar gesteld en nu de
-      commercial zelf nog.
+    content: Maak binnen één week een opvallende gave [commercial
+      ](https://www.philenflo.nl/commercial-laten-maken/)voor een organisatie
+      die het tijdens de Covid pandemie erg zwaar had. Gratis zendtijd op de
+      publieke zenders werd beschikbaar gesteld en nu de commercial zelf nog.
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
