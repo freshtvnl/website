@@ -11,4 +11,6 @@ cta: Als Co-founder van Phil & Flo ben ik verantwoordelijk voor de
   kwaliteitsbewaking. Met mijn achtergrond als Ortho-pedagoog is mijn branche
   specialisme Zorg en Onderwijs. Bel me op 085 -273 8331 voor vrijblijvend
   advies.
+seo:
+  noindex: true
 ---
