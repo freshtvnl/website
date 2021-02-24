@@ -12,4 +12,6 @@ cta: >-
   zijn recht komt.
 
   Jouw visie voor de wereld van morgen? Neem contact met ons op! 085 - 273 8331
+seo:
+  noindex: true
 ---
