@@ -10,4 +10,6 @@ blocks:
 
 
       Dit wordt zeer gewaardeerd en stelt ons in staat om onze dienstverlening naar een hoger niveau te tillen.
+seo:
+  noindex: true
 ---
