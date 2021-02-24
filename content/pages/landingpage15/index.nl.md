@@ -10,9 +10,10 @@ blocks:
       televisie kijken. Deze vorm van reclame wint ook steeds meer terrein op
       internet. Reclamefilmpjes vangen zo goed de aandacht, dat mensen zich nu
       nog reclamevideo’s van jaren geleden herinneren. Bovendien slaan leuke
-      commercials goed aan bij de doelgroep. Dat wil je voor jouw bedrijf toch
-      ook? Maar hoe maak je zo’n filmpje, en belangrijker nog: hoe zorg je dat
-      je ermee scoort? Bij Phil & Flo weten we daar wel raad mee."
+      [commercials](https://www.philenflo.nl/commercial-laten-maken/) goed aan
+      bij de doelgroep. Dat wil je voor jouw bedrijf toch ook? Maar hoe maak je
+      zo’n filmpje, en belangrijker nog: hoe zorg je dat je ermee scoort? Bij
+      Phil & Flo weten we daar wel raad mee."
     displaymedia: youtube_video
     youtube:
       id: -8n5l374t2Q
@@ -26,6 +27,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
+      alt: Team Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -36,6 +38,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: Reclamevideo maken
   - type: content_block
     align: left
     content: >-
@@ -46,6 +49,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: Reclamevideo maken
   - type: content_block
     align: right
     content: >-
@@ -56,6 +60,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Team Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
@@ -63,4 +68,8 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: "Reclamevideo laten maken | Phil & Flo "
+  description: Een reclamevideo die spreekt tot de verbeelding van jouw doelgroep.
+    Ontdek de mogelijkheden met Phil & Flo. Neem contact op.
 ---
