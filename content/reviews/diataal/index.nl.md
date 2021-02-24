@@ -15,4 +15,6 @@ quote:
     uitleganimatie over hoe de adaptiviteit in onze Diatoetsen werkt."
   company: Diataal
   auteur: Iris
+seo:
+  noindex: true
 ---
