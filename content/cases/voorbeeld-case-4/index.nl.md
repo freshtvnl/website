@@ -27,8 +27,7 @@ blocks:
       ## ***Het kern- & keuzerooster***
 
 
-
-      Coornhert had net een nieuw kern- en keuzerooster geïntroduceerd eind 2019. Dit rooster bestaat, zoals de naam doet vermoeden, uit vaste kernvakken en een keuzegedeelte waarin leerlingen zelf hun verdiepingen kunnen kiezen. Hiermee daagt het Coornhert haar leerlingen uit om meer autonome keuzes te maken. Om dit nieuwe roostersysteem uit te leggen aan leerlingen, ouders, en kinderen uit groep 8, kwam Phil & Flo met het idee om een 2D uitleganimatie te maken. 2D animatie is bij uitstek geschikt om (abstracte) concepten simpel uit te leggen. Ondertussen is het kern- en keuzerooster succesvol doorgevoerd, en enthousiast ontvangen binnen het Coornhert.
+      Coornhert had net een nieuw kern- en keuzerooster geïntroduceerd eind 2019. Dit rooster bestaat, zoals de naam doet vermoeden, uit vaste kernvakken en een keuzegedeelte waarin leerlingen zelf hun verdiepingen kunnen kiezen. Hiermee daagt het Coornhert haar leerlingen uit om meer autonome keuzes te maken. Om dit nieuwe roostersysteem uit te leggen aan leerlingen, ouders, en kinderen uit groep 8, kwam Phil & Flo met het idee om een 2D uitleganimatie te maken. [2D animatie ](https://www.philenflo.nl/2d-animatie/)is bij uitstek geschikt om (abstracte) concepten simpel uit te leggen. Ondertussen is het kern- en keuzerooster succesvol doorgevoerd, en enthousiast ontvangen binnen het Coornhert.
     displaymedia: youtube_video
     youtube:
       id: T8gs75RhQkQ
@@ -93,7 +92,6 @@ blocks:
       - 7VtuzLwVv
 seo:
   title: Coornhert Gymnasium 2D Animatie - Phil & Flo Videomarketing
-  description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als
-    commercial wordt deze geadverteerd tijdens de Ster reclames.
-    Kunstliefhebbers en kunstenaars vind elkaar!
+  description: Speciaal voor het Coornhert Gymnasium hebben wij een unieke video
+    ontwikkelt. Ontdek hier het verhaal van deze samenwerking.
 ---
