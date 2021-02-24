@@ -13,9 +13,11 @@ blocks:
     title: De wereld van morgen draait op ***duurzame energie***
     content: De wereld van morgen draait op duurzame energie. Daar worden nu de
       eerste stappen in gezet. Ons team wil helpen bij de versnelling van
-      duurzame energie door initiatieven en innovaties te verbeelden in animatie
-      en videofilms. Jouw project of idee kan daardoor het grote publiek
-      bereiken, of juist die ene angel investor.
+      duurzame energie door initiatieven en innovaties te verbeelden in
+      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en
+      [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
+      Jouw project of idee kan daardoor het grote publiek bereiken, of juist die
+      ene angel investor.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
@@ -30,6 +32,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
+      alt: Peter de Graaf
   - type: content_block
     align: right
     content: >-
@@ -40,6 +43,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
+      alt: duurzame energie animatie
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
@@ -53,6 +57,7 @@ blocks:
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+      alt: Team Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -63,6 +68,7 @@ blocks:
     displaymedia: image
     image:
       source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
+      alt: Animatie duurzame energie
   - type: content_block
     content: >-
       ## ***Voordelen*** van video en animatie
@@ -85,4 +91,8 @@ blocks:
     contacts:
       - PZcCTyF1B
     more_items: true
+seo:
+  title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
+  description: Videofilms of animatie's ter promotie van duurzame energie. Ontdek
+    de mogelijkheden voor jouw branche bij Phil & Flo.
 ---
