@@ -12,4 +12,6 @@ cta: >-
   specialiteit! 
 
   Zowel in 3D als 2D maak ik animaties die jouw helpen je verhaal te vertellen.
+seo:
+  noindex: true
 ---
