@@ -3,9 +3,6 @@ title: Infomercial HZPC sunita
 slug: Infomercial hzpc sunita
 draft: false
 id: E10s9zxwT
-seo:
-  title: Infomercial HZPC Sunita - Phil & Flo Videomarketing
-  description: "Infomercial HZPC Sunita: met trots presenteert Phil & Flo Videomarketing deze geslaagde videoproductie. Ontdek de totstandkoming van dit interessante project!"
 image:
   source: images/hzpc.jpg
 color: orange
@@ -16,8 +13,9 @@ blocks:
     content: Hoe introduceer je een nieuw aardappelras? Dat is een interessante
       vraag van [opdrachtgever HZPC](https://www.hzpc.com/). Phil & Flo Creative
       Studio kwam op het idee om een krachtige infomercial (informatieve
-      commercial) te ontwikkelen. Dat heeft tot de volgende inzichten, aanpak en
-      resultaten geleid.
+      [commercial](</commercial-laten-maken/	https://philenflo.nl/commercial-laten-maken/>))
+      te ontwikkelen. Dat heeft tot de volgende inzichten, aanpak en resultaten
+      geleid.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/HZPC-Sunita.mp4
@@ -85,7 +83,7 @@ blocks:
       De film is uitbundig onder de aandacht gebracht tijdens de drukbezochte Potato Days van HZPC. Van zowel de opdrachtgever als hun bezoekers hebben wij positieve feedback mogen ontvangen. Verder wordt de video komend jaar actief ingezet om eerder beschreven doelstellingen te halen.
 
 
-      Wil je ook zo'n gave film voor jouw organisatie? Neem nu contact met ons op.
+      Wil je ook zo'n gave film voor jouw organisatie? [Neem nu contact met ons op](https://www.philenflo.nl/contact/).
     video:
       autoplay: false
     displaymedia: youtube_video
@@ -98,4 +96,9 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+seo:
+  title: Infomercial HZPC Sunita - Phil & Flo Videomarketing
+  description: "Infomercial HZPC Sunita: met trots presenteert Phil & Flo
+    Videomarketing deze geslaagde videoproductie. Ontdek de totstandkoming van
+    dit interessante project!"
 ---
