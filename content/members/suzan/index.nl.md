@@ -4,7 +4,7 @@ slug: suzan
 draft: false
 id: Nc7XQAY2B
 image:
-  source: images/20_suzan.png
+  source: images/suzan-phil-en-flo.jpg
   alt: Suzan
 function: Co-founder
 cta: Als Co-founder van Phil & Flo ben ik verantwoordelijk voor de
