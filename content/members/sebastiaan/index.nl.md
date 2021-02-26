@@ -4,7 +4,7 @@ slug: sebastiaan
 draft: false
 id: 7VtuzLwVv
 image:
-  source: images/20_sebastiaan.png
+  source: images/sebastiaan-phil-en-flo.jpg
   alt: Sebastiaan
 function: Projectmanager video
 description: ""
