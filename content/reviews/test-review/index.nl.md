@@ -1,20 +1,19 @@
 ---
-title: test review
+title: OIO systems
 draft: false
 id: -VoVn5xcW
 quote:
   image:
-    source: images/favicon-round-icon-smaller.png
-    alt: test
-  stars: 4
-  auteur: Frank
+    source: ""
+    alt: ""
+  stars: 5
+  auteur: John Hilberding
   functie: Eigenaar
-  company: Mijn Bedrijf
-  content: Etiam lobortis fermentum lacus. Ut ex nisl, fringilla et purus a,
-    mattis rutrum nunc. Donec vel tincidunt velit. Aenean justo felis, pulvinar
-    sit amet eros ac, pretium dapibus urna. Nam vestibulum est et porta
-    placerat. Duis porta purus lacinia finibus finibus. Quisque sit amet
-    lobortis lacus.
+  company: OIO Systems
+  content: >-
+    Goed eindresultaat waar meegedacht is met beeld en stem vorming.\
+
+    OIOSYSTEMS heeft voor haar productanimatie gekozen voor Phil & Flo. Ze denken mee en zorgen voor een perfecte productanimatie!
 seo:
   noindex: true
 ---
