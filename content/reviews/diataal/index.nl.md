@@ -14,7 +14,8 @@ quote:
     heel tevreden met het eindresultaat: een heel duidelijke en mooie
     uitleganimatie over hoe de adaptiviteit in onze Diatoetsen werkt."
   company: Diataal
-  auteur: Iris
+  auteur: Iris Pijpker
+  functie: Toetsontwikkelaar Taal
 seo:
   noindex: true
 ---
