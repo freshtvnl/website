@@ -4,7 +4,7 @@ slug: sophie
 draft: false
 id: HZCh75c-T
 image:
-  source: images/20_sophie.png
+  source: images/sophie-phil-en-flo.jpg
   alt: Sophie medewerker Phil & Flo
 function: 2D animator
 cta: Branding is het vertellen van een eerlijk verhaal. Daarbij zijn details
