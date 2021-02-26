@@ -69,5 +69,5 @@ blocks:
       - QBToQiJHS
 menu:
   footer:
-    weight: ""
+    weight: 5
 ---
