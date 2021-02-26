@@ -4,7 +4,7 @@ slug: david
 draft: false
 id: JvDU2US5E
 image:
-  source: images/20_david.png
+  source: images/david-phil-en-flo.jpg
   alt: David
 function: Video-editor
 cta: >-
