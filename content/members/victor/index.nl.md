@@ -4,7 +4,7 @@ slug: victor
 draft: false
 id: kJ07QyNzs
 image:
-  source: images/20_victor.png
+  source: images/victor-phil-en-flo.jpg
   alt: Victor
 function: Consultant
 cta: >-
