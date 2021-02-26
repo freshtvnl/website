@@ -25,5 +25,5 @@ blocks:
     image:
       source: ""
 seo:
-  noindex: true
+  noindex: false
 ---
