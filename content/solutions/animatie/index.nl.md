@@ -67,7 +67,7 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
+      text: Lees hier meer
       type: button
   - type: content_block
     align: right
@@ -80,6 +80,10 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /30-minuten
+      text: Boek een vrijblijvende 30 min sessie
+      type: button
   - type: content_block
     align: left
     content: >-
