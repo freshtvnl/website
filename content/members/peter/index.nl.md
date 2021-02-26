@@ -4,7 +4,7 @@ slug: Peter de Graaf
 draft: false
 id: PZcCTyF1B
 image:
-  source: images/20_peter.png
+  source: images/peter-phil-en-flo.jpg
   alt: Peter
 function: Co-founder
 cta: Ik ben als echte creatieveling betrokken bij veel projecten op strategische
