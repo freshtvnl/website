@@ -3,6 +3,8 @@ title: Adresults video review
 slug: Adresults video review
 draft: false
 id: MaNQWLXGQ
+image:
+  source: images/adresults-phil-en-flo.jpg
 quote:
   stars: 5
   content: "Phil & Flo (voormalig FreshTV) is één hele dag bij ons op kantoor
@@ -19,7 +21,7 @@ quote:
   company: Adresults
   auteur: Robert
   image:
-    source: images/adresults-phil-en-flo.jpg
+    source: ""
 seo:
   noindex: true
 ---
