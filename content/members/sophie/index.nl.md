@@ -11,6 +11,7 @@ cta: Branding is het vertellen van een eerlijk verhaal. Daarbij zijn details
   belangrijk. De woorden die je gebruikt, de kleding die je draagt en wat er op
   je bord ligt. Als animator ben ik daar als geen ander op gefocust. Elk beeld
   in een animatie moet raak zijn.
+color: red
 blocks:
   - type: hero_block
     content: >-
@@ -30,6 +31,9 @@ blocks:
 
 
       Beeldtaal kent geen grenzen maar ademt ook de tijdgeest. Ik vertaal het verhaal van anderen in beelden. Daarom luister ik tijdens een creatieve sessie altijd heel goed. Naar wat er gezegd wordt maar vooral naar wat er niet gezegd wordt. Daarna ga ik er samen met mijn collega's voor zorgen dat wij een unieke productie afleveren.
+    displaymedia: image
+    image:
+      source: images/sophie-schommel.png
 seo:
   title: Medewerkerster Sophie van Phil & Flo | Animaties die spreken tot de
     verbeelding
