@@ -18,6 +18,8 @@ quote:
   functie: Founder
   company: Adresults
   auteur: Robert
+  image:
+    source: images/adresults-phil-en-flo.jpg
 seo:
   noindex: true
 ---
