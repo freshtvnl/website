@@ -209,11 +209,8 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - HZCh75c-T
   - type: selectedwork_block
-    title: Selected work
+    title: Animatie laten maken
     items:
       - DG0aSzvMj
       - sCR0-5I1N
