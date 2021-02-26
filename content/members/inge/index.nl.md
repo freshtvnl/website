@@ -4,7 +4,7 @@ slug: inge
 draft: false
 id: 2BVK9YvSq
 image:
-  source: images/20_inge.png
+  source: images/inge-phil-en-flo.jpg
   alt: Inge
 function: Projectmanager Animatie
 description: ""
