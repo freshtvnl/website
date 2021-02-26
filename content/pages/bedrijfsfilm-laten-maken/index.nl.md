@@ -113,9 +113,10 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
-  - type: contact_block
-    contacts:
-      - Nc7XQAY2B
+  - type: selectedfaqs_block
+    items:
+      - vQQrwQorm
+    title: Faq
 seo:
   title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol - Phil & Flo
   description: Bedrijfsfilm laten maken? Dat laat je doen door échte specialisten.
