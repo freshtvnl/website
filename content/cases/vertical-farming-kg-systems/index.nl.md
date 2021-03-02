@@ -46,7 +46,7 @@ blocks:
       - qRKCKxn9O
       - 4w-qBXhgd
       - zayLL6YOo
-    more_items: true
+    more_items: false
     title: Google Reviews
   - type: content_block
     align: left
