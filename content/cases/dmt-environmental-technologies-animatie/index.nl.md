@@ -85,6 +85,10 @@ blocks:
   - type: contact_block
     contacts:
       - PZcCTyF1B
+  - type: selectedreviews_block
+    items:
+      - zayLL6YOo
+    title: Google Review
 seo:
   title: Animatiefilm over Biogas productie | Phil & Flo | Case
   description: DMT & Phil & Flo werkten samen voor een unieke 3D animatie. Ontdek
