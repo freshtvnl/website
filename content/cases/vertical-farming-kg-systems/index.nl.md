@@ -41,6 +41,13 @@ blocks:
     displaymedia: image
     image:
       source: images/kg-systems-bts.jpg
+  - type: selectedreviews_block
+    items:
+      - qRKCKxn9O
+      - 4w-qBXhgd
+      - zayLL6YOo
+    more_items: true
+    title: Google Reviews
   - type: content_block
     align: left
     content: >-
@@ -64,4 +71,5 @@ blocks:
       - TVPuqcwvQ
       - DG0aSzvMj
       - sCR0-5I1N
+    more_items: false
 ---
