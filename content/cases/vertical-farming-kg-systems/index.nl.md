@@ -58,4 +58,10 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+  - type: selectedwork_block
+    title: 3D voorbeelden
+    items:
+      - TVPuqcwvQ
+      - DG0aSzvMj
+      - sCR0-5I1N
 ---
