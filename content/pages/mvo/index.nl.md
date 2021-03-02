@@ -70,6 +70,10 @@ blocks:
     image:
       source: images/phil-en-flo-keuze.jpg
     align: right
+  - type: contact_block
+    contacts:
+      - PZcCTyF1B
+    content: Meer informatie?
 seo:
   title: Klimaatneutraal - Phil & Flo Creative studio
   description: Wij werken niet voor klimaatverwoestende organisaties zoals olie
