@@ -66,6 +66,10 @@
   {
     "id": "birthday",
     "translation": "Verjaardag"
+  },
+  {
+    "id": "newsletter",
+    "translation": "Nieuwsbrief ontvangen"
   }
   
 ]

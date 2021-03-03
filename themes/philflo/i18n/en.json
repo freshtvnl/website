@@ -35,5 +35,9 @@
   {
     "id": "toggle_item",
     "translation": "Toggle item"
+  },
+  {
+    "id": "newsletter",
+    "translation": "Receive newsletter"
   }
 ]
