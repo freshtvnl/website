@@ -85,7 +85,7 @@ blocks:
       - yV7XuAtMH
       - WnlJtd9dP
 seo:
-  title: Sitemap - Phil & Flo Video marketing
+  title: Sitemap - Phil & Flo Video Creative Studio
   description: null
 menu:
   footer:
