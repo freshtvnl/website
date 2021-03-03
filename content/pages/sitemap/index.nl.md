@@ -79,11 +79,11 @@ blocks:
     title: Oplossingen
     solutions_items:
       - wvUKuLAzh
-      - yV7XuAtMH
       - HklGfir85
-      - WnlJtd9dP
       - YwJ5gT_tJ
       - Yu_OxyeJZ
+      - yV7XuAtMH
+      - WnlJtd9dP
 seo:
   title: Sitemap - Phil & Flo Video marketing
   description: null
