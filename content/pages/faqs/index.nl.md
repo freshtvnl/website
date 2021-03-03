@@ -21,11 +21,23 @@ blocks:
   - type: selectedfaqs_block
     title: Bedrijfsfilm
     items:
-      - QBToQiJHS
+      - vQQrwQorm
+      - FAjVSbB1J
+      - aGGfM_U3R
+      - fUUHxd57y
+      - OTcRmsl89
   - type: selectedfaqs_block
     title: 360 graden video
     items:
-      - QBToQiJHS
+      - SiXkw-M_m
+      - wbbixMIkK
+      - RIv_ivCse
+      - BU040VTuX
+      - gT_p-PHX4
+      - UehXOzsCW
+      - HKs7HayQR
+      - ogrS9dS-a
+      - t2uSQ8I6d
   - type: selectedfaqs_block
     title: "Bedrijfsvideo "
     items:
