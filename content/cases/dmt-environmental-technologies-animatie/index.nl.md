@@ -8,6 +8,7 @@ image:
   alt: ""
 color: green
 branch: 0uhmsFFxS
+content_type: case
 blocks:
   - type: hero_block
     content: DMT Environmental Technologies haalt grondstoffen terug uit

@@ -7,6 +7,7 @@ image:
   source: images/pra-animatie.jpg
 color: pink
 branch: o0NtTZixr
+content_type: case
 blocks:
   - type: hero_block
     displaymedia: custom_video

@@ -7,6 +7,7 @@ image:
   source: images/hzpc.jpg
 color: orange
 branch: CA0ObKsX0
+content_type: case
 blocks:
   - type: hero_block
     title: Infomercial HZPC Sunita

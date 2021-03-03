@@ -7,6 +7,7 @@ image:
   source: images/employer-branding-chipsoft.jpg
 color: blue
 branch: YBLABQPne
+content_type: case
 blocks:
   - type: hero_block
     title: Employer Branding ChipSoft

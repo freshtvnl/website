@@ -7,6 +7,7 @@ image:
   source: images/lcb-retourmedicatie-phil-en-flo2.png
 color: pink
 branch: o0NtTZixr
+content_type: case
 blocks:
   - type: hero_block
     title: 3D Animatiefilm over het terugbrengen van medicatie

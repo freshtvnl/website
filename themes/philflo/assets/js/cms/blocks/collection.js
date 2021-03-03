@@ -74,6 +74,25 @@ export const collection = {
       ],
       required: false,
       i18n: true,
-    }
+    },
+    {
+      label: 'Content type (only for cases/portfolio)',
+      name: 'content_type',
+      widget: 'select',
+      required: false,
+      i18n: true,
+      options: [
+        {
+          label: "Case",
+          value: "case"
+        },
+        {
+          label: "Portfolio",
+          value: "portfolio"
+        }
+      ]
+    },
+  
+
   ]
 }

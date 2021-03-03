@@ -8,6 +8,7 @@ image:
   alt: Alfen, Tesla model 3, charging infrastructure
 color: green
 branch: 0uhmsFFxS
+content_type: case
 blocks:
   - type: hero_block
     title: "***Techniek verbeelden***"

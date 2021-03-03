@@ -7,6 +7,7 @@ image:
   alt: zorg
 color: pink
 branch: o0NtTZixr
+content_type: case
 blocks:
   - type: hero_block
     content: De afdeling Chirurgie van het UMCG is altijd op zoek naar nieuwe

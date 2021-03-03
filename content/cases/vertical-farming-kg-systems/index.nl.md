@@ -7,6 +7,7 @@ image:
   source: images/vertical-farming.jpg
 color: blue
 branch: YBLABQPne
+content_type: case
 blocks:
   - type: hero_block
     title: "***Vertical Farming 3D animatie***"

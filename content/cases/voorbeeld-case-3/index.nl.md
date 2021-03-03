@@ -8,6 +8,7 @@ image:
   alt: ""
 color: red
 branch: 7P41lTMjs
+content_type: case
 blocks:
   - type: hero_block
     title: "***Beroeps Organisatie Kunstenaars*** – 3D Animatie"

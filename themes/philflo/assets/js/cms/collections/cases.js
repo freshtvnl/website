@@ -8,6 +8,25 @@ import { blocks } from "../blocks/index"
 const fields = [
   ...base,
   image,
+
+  {
+    label: 'Content type',
+    name: 'content_type',
+    widget: 'select',
+    required: false,
+    i18n: true,
+    options: [
+      {
+        label: "Case",
+        value: "case"
+      },
+      {
+        label: "Portfolio",
+        value: "portfolio"
+      }
+    ]
+  },
+
   brandcolors,
   selectedbranch,
   

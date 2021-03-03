@@ -8,6 +8,7 @@ image:
   alt: "Payconiq - Phil en Flo "
 color: blue
 branch: YBLABQPne
+content_type: case
 blocks:
   - type: hero_block
     content: "Het gemak van online betalen: waar en wanneer je maar wilt. Geen
