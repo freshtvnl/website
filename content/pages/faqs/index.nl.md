@@ -41,11 +41,24 @@ blocks:
   - type: selectedfaqs_block
     title: "Bedrijfsvideo "
     items:
-      - QBToQiJHS
+      - dbdFXmJZ5
+      - RKdjRI3nb
+      - ecluCf7VC
+      - 5Y0nKlodD
+      - OG62JfGe6
+      - w2hs18SgM
   - type: selectedfaqs_block
     title: Employer branding video
     items:
-      - QBToQiJHS
+      - hcLczguex
+      - yA9PJEJpl
+      - 24BPy5NNc
+      - YvpGRlysR
+      - wT4-8kn8z
+      - LeXEh5XwN
+      - tP0k2iiyu
+      - o17nvltp2
+      - q3s-XTal4
   - type: selectedfaqs_block
     title: Infograpic
     items:
