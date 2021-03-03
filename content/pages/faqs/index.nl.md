@@ -62,7 +62,14 @@ blocks:
   - type: selectedfaqs_block
     title: Infograpic
     items:
-      - QBToQiJHS
+      - RfXqJInx1
+      - -sRp1ZF5c
+      - aP7Lusll1
+      - Tck0GKLIx
+      - eWjOCHuNG
+      - zrMcTBnAM
+      - Hy8LynTkp
+      - ZU3BSdiak
   - type: selectedfaqs_block
     title: Instructie video
     items:
