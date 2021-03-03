@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeeld van een animatie? "
-draft: true
+draft: false
 id: oKyfeghfA
 faq:
   question: "Hebben jullie voorbeeld van een animatie? "
