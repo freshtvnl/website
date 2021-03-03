@@ -26,6 +26,7 @@ export const video = {
       name: 'autoplay',
       widget: 'boolean',
       required: false,
+      default: true,
       i18n: true
     },
   ]

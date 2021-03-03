@@ -1,6 +1,6 @@
 ---
 title: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
-draft: true
+draft: false
 id: roOkjrjt7
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "

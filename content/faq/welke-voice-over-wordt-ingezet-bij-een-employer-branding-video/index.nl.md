@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een employer branding video? "
-draft: true
+draft: false
 id: Ox_Jkjx3t
 faq:
   question: "Welke voice over wordt ingezet bij een employer branding video? "

@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk bij een 360 graden video? "
-draft: true
+draft: false
 id: SiXkw-M_m
 faq:
   question: "Hoe gaan jullie te werk bij een 360 graden video? "

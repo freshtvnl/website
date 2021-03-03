@@ -1,6 +1,6 @@
 ---
 title: "Wat is de beste lengte voor een infographic? "
-draft: true
+draft: false
 id: Hy8LynTkp
 faq:
   question: "Wat is de beste lengte voor een infographic? "

@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een instructie video? "
-draft: true
+draft: false
 id: 8cYNpLeQG
 faq:
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,

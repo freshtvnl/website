@@ -1,6 +1,6 @@
 ---
 title: Wat moet ik aanleveren voor een offerte? (360 graden)
-draft: true
+draft: false
 id: t2uSQ8I6d
 faq:
   question: "Wat moet ik aanleveren voor een offerte? "

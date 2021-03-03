@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een 360 graden video? "
-draft: true
+draft: false
 id: HKs7HayQR
 faq:
   question: "Wat is de productietijd van een 360 graden video? "

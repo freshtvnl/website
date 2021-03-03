@@ -1,7 +1,7 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (instructie
   video)
-draft: true
+draft: false
 id: yWM-CZcol
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "

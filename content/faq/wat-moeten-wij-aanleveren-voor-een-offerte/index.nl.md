@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een offerte? "
-draft: true
+draft: false
 id: PlVvNZ0Sw
 faq:
   question: "Wat moeten wij aanleveren voor een offerte? "

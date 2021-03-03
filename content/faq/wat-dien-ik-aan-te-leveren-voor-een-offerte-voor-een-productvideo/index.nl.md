@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een productvideo? "
-draft: true
+draft: false
 id: ctmwwUSWa
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een productvideo? "

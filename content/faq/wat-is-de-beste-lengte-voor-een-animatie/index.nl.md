@@ -1,6 +1,6 @@
 ---
 title: Wat is de beste lengte voor een animatie?
-draft: true
+draft: false
 id: W-L3X72e7
 faq:
   answer: Wij hebben op basis van jarenlange metingen en analyses de lengte op

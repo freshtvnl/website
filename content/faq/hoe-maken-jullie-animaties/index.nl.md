@@ -1,6 +1,6 @@
 ---
 title: Hoe maken jullie animaties?
-draft: true
+draft: false
 id: WZeAIcQkh
 faq:
   question: Hoe maken jullie animaties?

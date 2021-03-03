@@ -1,6 +1,6 @@
 ---
 title: Welke muziek gebruiken jullie? (instructie video)
-draft: true
+draft: false
 id: o1MNOt1Fx
 faq:
   question: "Welke muziek gebruiken jullie? "

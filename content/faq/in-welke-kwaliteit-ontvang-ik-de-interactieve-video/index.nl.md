@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de interactieve video? "
-draft: true
+draft: false
 id: 57IUGCoqL
 faq:
   question: "In welke kwaliteit ontvang ik de interactieve video? "

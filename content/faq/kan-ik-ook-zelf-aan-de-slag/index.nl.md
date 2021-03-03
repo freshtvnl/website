@@ -1,6 +1,6 @@
 ---
 title: "Kan ik ook zelf aan de slag? "
-draft: true
+draft: false
 id: jHHBFbUVl
 faq:
   question: "Kan ik ook zelf aan de slag? "

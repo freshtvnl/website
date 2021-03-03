@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een VR video? "
-draft: true
+draft: false
 id: BSIhcQQ5N
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een VR video? "

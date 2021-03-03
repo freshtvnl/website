@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een productvideo? "
-draft: true
+draft: false
 id: dojE4GPcJ
 faq:
   question: "Welke voice over wordt ingezet bij een productvideo? "

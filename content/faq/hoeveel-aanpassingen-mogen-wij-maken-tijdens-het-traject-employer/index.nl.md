@@ -1,6 +1,6 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (employer)
-draft: true
+draft: false
 id: wT4-8kn8z
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "

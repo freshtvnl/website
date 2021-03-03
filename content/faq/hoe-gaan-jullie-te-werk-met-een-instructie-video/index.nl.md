@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een instructie video? "
-draft: true
+draft: false
 id: V20xgwUfI
 faq:
   question: "Hoe gaan jullie te werk met een instructie video? "

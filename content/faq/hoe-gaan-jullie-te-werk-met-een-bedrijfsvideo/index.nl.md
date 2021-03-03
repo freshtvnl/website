@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een bedrijfsvideo? "
-draft: true
+draft: false
 id: dbdFXmJZ5
 faq:
   question: "Hoe gaan jullie te werk met een bedrijfsvideo? "

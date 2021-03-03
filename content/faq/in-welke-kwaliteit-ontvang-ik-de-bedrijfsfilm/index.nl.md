@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de bedrijfsfilm? "
-draft: true
+draft: false
 id: aGGfM_U3R
 faq:
   question: "In welke kwaliteit ontvang ik de bedrijfsfilm? "

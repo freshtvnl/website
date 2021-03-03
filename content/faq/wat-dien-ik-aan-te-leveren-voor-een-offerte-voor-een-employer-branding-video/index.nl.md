@@ -1,7 +1,7 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een employer branding
   video? "
-draft: true
+draft: false
 id: YvpGRlysR
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een employer

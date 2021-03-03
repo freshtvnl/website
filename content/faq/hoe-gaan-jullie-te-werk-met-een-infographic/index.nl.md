@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een infographic? "
-draft: true
+draft: false
 id: aP7Lusll1
 faq:
   question: "Hoe gaan jullie te werk met een infographic? "

@@ -1,6 +1,6 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (bedrijfslim)
-draft: true
+draft: false
 id: OTcRmsl89
 faq:
   answer: Het ene project is de andere niet. De meeste films die wij maken zijn

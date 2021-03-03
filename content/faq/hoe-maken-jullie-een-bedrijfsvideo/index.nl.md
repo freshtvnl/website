@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een bedrijfsvideo? "
-draft: true
+draft: false
 id: RKdjRI3nb
 faq:
   question: "Hoe maken jullie een bedrijfsvideo? "

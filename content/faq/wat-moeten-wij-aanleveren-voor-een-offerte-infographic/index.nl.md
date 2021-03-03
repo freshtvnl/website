@@ -1,6 +1,6 @@
 ---
 title: Wat moeten wij aanleveren voor een offerte? (infographic)
-draft: true
+draft: false
 id: p0co9FULr
 faq:
   question: "Wat moeten wij aanleveren voor een offerte? "

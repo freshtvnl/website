@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de instructie video? "
-draft: true
+draft: false
 id: GY4v_wAcS
 faq:
   question: "In welke kwaliteit ontvang ik de instructie video? "

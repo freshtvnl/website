@@ -1,6 +1,6 @@
 ---
 title: Is het ook mogelijk om te filmen met een drone? (bedrijfsvideo)
-draft: true
+draft: false
 id: ecluCf7VC
 faq:
   question: "Is het ook mogelijk om te filmen met een drone? "

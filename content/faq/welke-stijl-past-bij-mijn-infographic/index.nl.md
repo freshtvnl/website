@@ -1,6 +1,6 @@
 ---
 title: "Welke stijl past bij mijn infographic? "
-draft: true
+draft: false
 id: ZU3BSdiak
 faq:
   question: "Welke stijl past bij mijn infographic? "

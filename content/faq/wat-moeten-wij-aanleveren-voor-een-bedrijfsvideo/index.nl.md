@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een bedrijfsvideo? "
-draft: true
+draft: false
 id: gRNsivaeD
 faq:
   question: "Wat moeten wij aanleveren voor een bedrijfsvideo? "

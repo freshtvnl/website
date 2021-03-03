@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een animatie? "
-draft: true
+draft: false
 id: wajJLcNpD
 faq:
   answer: We beginnen met een creatieve sessie waarin we heel duidelijk

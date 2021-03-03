@@ -1,6 +1,6 @@
 ---
 title: "Kunnen jullie meerdere bedrijfsvideo's in één dag filmen? "
-draft: true
+draft: false
 id: 5Y0nKlodD
 faq:
   question: "Kunnen jullie meerdere bedrijfsvideo's in één dag filmen? "

@@ -1,6 +1,6 @@
 ---
 title: "Hoe lang duurt het gemiddeld voordat een animatie klaar is? "
-draft: true
+draft: false
 id: tsrhIESq5
 faq:
   question: "Hoe lang duurt het gemiddeld voordat een animatie klaar is? "

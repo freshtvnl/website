@@ -1,6 +1,6 @@
 ---
 title: "Wat moet ik aanleveren voor een 360 graden video? "
-draft: true
+draft: false
 id: ogrS9dS-a
 faq:
   question: "Wat moet ik aanleveren voor een 360 graden video? "

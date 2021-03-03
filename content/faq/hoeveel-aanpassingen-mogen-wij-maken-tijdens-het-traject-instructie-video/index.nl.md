@@ -1,6 +1,6 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (instructie video)
-draft: true
+draft: false
 id: 2XOqgZhSc
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "

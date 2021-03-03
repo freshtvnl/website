@@ -1,6 +1,6 @@
 ---
 title: Met welke camera's wordt gefilmd? (vr)
-draft: true
+draft: false
 id: fvAdFq3DR
 faq:
   question: "Met welke camera's wordt gefilmd? "

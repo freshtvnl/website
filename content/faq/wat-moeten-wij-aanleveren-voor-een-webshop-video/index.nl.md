@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een webshop video? "
-draft: true
+draft: false
 id: oem0TFs-O
 image:
   alt: ""

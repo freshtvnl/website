@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de VR video? "
-draft: true
+draft: false
 id: hBJ-OhYf5
 faq:
   question: "In welke kwaliteit ontvang ik de VR video? "

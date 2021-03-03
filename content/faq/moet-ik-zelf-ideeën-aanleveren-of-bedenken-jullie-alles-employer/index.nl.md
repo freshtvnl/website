@@ -1,6 +1,6 @@
 ---
 title: Moet ik zelf ideeën aanleveren of bedenken jullie alles? (employer)
-draft: true
+draft: false
 id: 24BPy5NNc
 faq:
   question: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "

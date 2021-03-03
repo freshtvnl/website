@@ -1,6 +1,6 @@
 ---
 title: Met hoeveel mensen komen jullie filmen? (productvideo)
-draft: true
+draft: false
 id: gKOj5P-w9
 faq:
   question: "Met hoeveel mensen komen jullie filmen? "

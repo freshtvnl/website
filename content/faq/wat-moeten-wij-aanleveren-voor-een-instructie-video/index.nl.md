@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een instructie video? "
-draft: true
+draft: false
 id: RxklXp2Hj
 faq:
   question: "Wat moeten wij aanleveren voor een instructie video? "

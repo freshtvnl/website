@@ -1,6 +1,6 @@
 ---
 title: Met hoeveel mensen komen jullie filmen? (360 graden video)
-draft: true
+draft: false
 id: gT_p-PHX4
 faq:
   question: "Met hoeveel mensen komen jullie filmen? "

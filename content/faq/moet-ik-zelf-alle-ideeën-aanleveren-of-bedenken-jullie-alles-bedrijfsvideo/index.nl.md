@@ -1,6 +1,6 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (bedrijfsvideo)
-draft: true
+draft: false
 id: 4BhMKJ05c
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "

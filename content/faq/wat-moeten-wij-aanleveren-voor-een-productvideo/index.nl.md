@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een productvideo? "
-draft: true
+draft: false
 id: uNtWvK8TU
 faq:
   question: "Wat moeten wij aanleveren voor een productvideo? "

@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een reclame? "
-draft: true
+draft: false
 id: o1yc8dZU9
 faq:
   answer: Net als muziek, is voice over een essentiële tool waarmee je jouw doelen

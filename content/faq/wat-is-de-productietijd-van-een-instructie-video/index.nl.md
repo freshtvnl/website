@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een instructie video? "
-draft: true
+draft: false
 id: R8mcgxseZ
 faq:
   question: "Wat is de productietijd van een instructie video? "

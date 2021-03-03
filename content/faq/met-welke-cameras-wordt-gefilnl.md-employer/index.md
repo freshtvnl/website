@@ -1,6 +1,6 @@
 ---
 title: Met welke camera's wordt gefilmd? (employer)
-draft: true
+draft: false
 id: 3B2sz4le6
 faq:
   question: "Met welke camera's wordt gefilmd? "

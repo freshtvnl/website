@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeeld van een infographic? "
-draft: true
+draft: false
 id: -sRp1ZF5c
 faq:
   question: "Hebben jullie voorbeeld van een infographic? "

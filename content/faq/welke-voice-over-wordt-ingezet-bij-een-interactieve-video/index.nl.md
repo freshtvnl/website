@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een interactieve video? "
-draft: true
+draft: false
 id: jqu7GeM2V
 faq:
   question: "Welke voice over wordt ingezet bij een interactieve video? "

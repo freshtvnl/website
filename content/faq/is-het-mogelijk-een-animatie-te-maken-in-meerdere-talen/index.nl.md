@@ -1,6 +1,6 @@
 ---
 title: "Is het mogelijk een animatie te maken in meerdere talen? "
-draft: true
+draft: false
 id: XUGyETL3d
 faq:
   question: "Is het mogelijk een animatie te maken in meerdere talen? "

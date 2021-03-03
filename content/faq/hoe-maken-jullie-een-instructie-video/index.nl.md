@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een instructie video? "
-draft: true
+draft: false
 id: Sxa8VbA1M
 faq:
   question: "Hoe maken jullie een instructie video? "

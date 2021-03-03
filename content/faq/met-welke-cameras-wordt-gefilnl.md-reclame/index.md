@@ -1,6 +1,6 @@
 ---
 title: Met welke camera's wordt gefilmd? (reclame)
-draft: true
+draft: false
 id: CkfLmC4Y7
 faq:
   question: "Met welke camera's wordt gefilmd? "

@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een 360 graden video? "
-draft: true
+draft: false
 id: wbbixMIkK
 faq:
   question: "Hoe maken jullie een 360 graden video? "

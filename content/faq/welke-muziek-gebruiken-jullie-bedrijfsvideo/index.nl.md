@@ -1,6 +1,6 @@
 ---
 title: Welke muziek gebruiken jullie? (bedrijfsvideo)
-draft: true
+draft: false
 id: w2hs18SgM
 faq:
   question: "Welke muziek gebruiken jullie? "

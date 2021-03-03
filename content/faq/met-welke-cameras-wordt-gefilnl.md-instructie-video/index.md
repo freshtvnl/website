@@ -1,6 +1,6 @@
 ---
 title: Met welke camera's wordt gefilmd? (instructie video)
-draft: true
+draft: false
 id: mv-OBENXv
 faq:
   question: "Met welke camera's wordt gefilmd? "

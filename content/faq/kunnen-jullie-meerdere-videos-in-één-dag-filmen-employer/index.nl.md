@@ -1,6 +1,6 @@
 ---
 title: Kunnen jullie meerdere video's in één dag filmen? (employer)
-draft: true
+draft: false
 id: LeXEh5XwN
 faq:
   question: "Kunnen jullie meerdere video's in één dag filmen? "

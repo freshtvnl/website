@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik een 360 graden video? "
-draft: true
+draft: false
 id: BU040VTuX
 faq:
   question: "In welke kwaliteit ontvang ik een 360 graden video? "

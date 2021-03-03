@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een bedrijfsvideo? "
-draft: true
+draft: false
 id: kvfvpTUdK
 faq:
   question: "Wat is de productietijd van een bedrijfsvideo? "

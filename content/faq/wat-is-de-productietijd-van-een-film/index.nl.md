@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een film? "
-draft: true
+draft: false
 id: 2QLqcOfrU
 faq:
   answer: Afhankelijk van een goede voorbereiding en planning kan een film al in

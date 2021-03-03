@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een VR video? "
-draft: true
+draft: false
 id: lnjZaJeHF
 faq:
   question: "Hoe maken jullie een VR video? "

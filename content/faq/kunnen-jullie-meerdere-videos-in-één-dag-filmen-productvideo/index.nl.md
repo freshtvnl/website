@@ -1,6 +1,6 @@
 ---
 title: Kunnen jullie meerdere video's in één dag filmen? (productvideo)
-draft: true
+draft: false
 id: H1tigNT24
 faq:
   question: "Kunnen jullie meerdere video's in één dag filmen? "

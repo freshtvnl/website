@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een productvideo? "
-draft: true
+draft: false
 id: fqNQXKrRc
 faq:
   question: "Hebben jullie voorbeelden van een productvideo? "

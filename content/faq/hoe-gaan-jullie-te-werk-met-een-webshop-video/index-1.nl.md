@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een webshop video? "
-draft: true
+draft: false
 id: uNpfZrUVw
 faq:
   question: "Hoe gaan jullie te werk met een webshop video? "

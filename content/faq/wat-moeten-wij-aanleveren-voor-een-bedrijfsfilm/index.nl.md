@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een bedrijfsfilm? "
-draft: true
+draft: false
 id: ZWH1fU_iR
 faq:
   question: "Wat moeten wij aanleveren voor een bedrijfsfilm? "

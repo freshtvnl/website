@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "
-draft: true
+draft: false
 id: fUUHxd57y
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "

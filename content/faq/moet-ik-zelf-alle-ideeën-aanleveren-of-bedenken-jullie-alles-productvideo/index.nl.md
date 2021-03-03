@@ -1,6 +1,6 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (productvideo)
-draft: true
+draft: false
 id: hyRRfbzQo
 faq:
   answer: Wij kunnen alles bedenken, maar samen komen we tot de mooiste creaties!

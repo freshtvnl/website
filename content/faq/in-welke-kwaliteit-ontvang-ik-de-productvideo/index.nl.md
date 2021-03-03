@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de productvideo? "
-draft: true
+draft: false
 id: 2ucsBl_4G
 faq:
   question: "In welke kwaliteit ontvang ik de productvideo? "

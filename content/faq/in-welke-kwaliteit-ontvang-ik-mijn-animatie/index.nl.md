@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik mijn animatie? "
-draft: true
+draft: false
 id: 1AfirpOhg
 faq:
   question: "In welke kwaliteit ontvang ik mijn animatie? "

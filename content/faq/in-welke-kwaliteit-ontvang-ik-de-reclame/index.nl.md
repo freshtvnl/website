@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de reclame? "
-draft: true
+draft: false
 id: S7c1gyOiy
 faq:
   question: "In welke kwaliteit ontvang ik de reclame? "

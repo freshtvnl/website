@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik mijn infographic? "
-draft: true
+draft: false
 id: RfXqJInx1
 faq:
   question: "In welke kwaliteit ontvang ik mijn infographic? "

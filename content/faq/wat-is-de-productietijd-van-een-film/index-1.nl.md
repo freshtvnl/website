@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een film? "
-draft: true
+draft: false
 id: 0KM7-b5PP
 faq:
   question: "Wat is de productietijd van een film? "

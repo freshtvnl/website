@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een instructie video? "
-draft: true
+draft: false
 id: zWTd3vg0U
 faq:
   question: "Welke voice over wordt ingezet bij een instructie video? "

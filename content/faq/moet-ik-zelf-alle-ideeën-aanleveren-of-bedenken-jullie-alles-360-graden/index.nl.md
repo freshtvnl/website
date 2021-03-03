@@ -1,6 +1,6 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (360 graden)
-draft: true
+draft: false
 id: UehXOzsCW
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "

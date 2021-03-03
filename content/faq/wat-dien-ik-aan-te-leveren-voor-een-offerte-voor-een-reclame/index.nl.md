@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een reclame? "
-draft: true
+draft: false
 id: 0gxc0yKmy
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een reclame? "

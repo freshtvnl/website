@@ -1,6 +1,6 @@
 ---
 title: Met welke camera's wordt gefilmd? (productvideo)
-draft: true
+draft: false
 id: rUo26BvT0
 faq:
   question: "Met welke camera's wordt gefilmd? "

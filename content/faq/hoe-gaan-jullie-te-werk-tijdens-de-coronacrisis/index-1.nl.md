@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk tijdens de coronacrisis? "
-draft: true
+draft: false
 id: 799ZNPHq-
 faq:
   question: "Hoe gaan jullie te werk tijdens de coronacrisis? "

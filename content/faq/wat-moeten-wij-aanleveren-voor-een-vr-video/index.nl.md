@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een VR video? "
-draft: true
+draft: false
 id: 7obNOQ9pc
 faq:
   question: "Wat moeten wij aanleveren voor een VR video? "

@@ -1,6 +1,6 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (vr)
-draft: true
+draft: false
 id: xxRYGyG6K
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "

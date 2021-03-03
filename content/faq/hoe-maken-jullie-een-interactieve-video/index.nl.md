@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een interactieve video? "
-draft: true
+draft: false
 id: uGfp3muJd
 faq:
   answer: We beginnen altijd bij de kern van jouw boodschap. Wanneer we dit 100%

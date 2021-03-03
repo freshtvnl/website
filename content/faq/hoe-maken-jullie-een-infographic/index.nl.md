@@ -1,6 +1,6 @@
 ---
 title: Hoe maken jullie een infographic?
-draft: true
+draft: false
 id: eWjOCHuNG
 faq:
   question: Hoe maken jullie een infographic?

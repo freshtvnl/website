@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een VR video? "
-draft: true
+draft: false
 id: ARwx2YIU1
 faq:
   question: "Wat is de productietijd van een VR video? "

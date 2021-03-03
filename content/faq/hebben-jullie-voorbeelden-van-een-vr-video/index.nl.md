@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een VR video? "
-draft: true
+draft: false
 id: xnlSUoa_k
 faq:
   question: "Hebben jullie voorbeelden van een VR video? "
