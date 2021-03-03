@@ -38,7 +38,7 @@ blocks:
       ## ***Waarom een 3D animatie laten maken?***
 
 
-      Een 3D animatie leent zich bij uitstek als middel om complexe, innovatieve technieken uit te leggen. Maar een systeem uitleggen kan natuurlijk ook prima middels een film. Waarom dan toch 3D? Met een 3D animatie kunnen we niet alleen tot in detail een product of systeem laten zien, maar ook haar context. We bouwen een complete digitale filmset op vanuit het niets. Dus zodra we het product, in dit geval de vertical farm, gebouwd hebben, dan kunnen we nog alle kanten op. Vertical farming in China? Geen probleem! Volgende scène in Amsterdam? Is goed! De wereld van 3D animaties is visueel onbeperkt en enkel gelimiteerd door je eigen creatieve inzichten.
+      Een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) leent zich bij uitstek als middel om complexe, innovatieve technieken uit te leggen. Maar een systeem uitleggen kan natuurlijk ook prima middels een film. Waarom dan toch 3D? Met een 3D animatie kunnen we niet alleen tot in detail een product of systeem laten zien, maar ook haar context. We bouwen een complete digitale filmset op vanuit het niets. Dus zodra we het product, in dit geval de vertical farm, gebouwd hebben, dan kunnen we nog alle kanten op. Vertical farming in China? Geen probleem! Volgende scène in Amsterdam? Is goed! De wereld van 3D animaties is visueel onbeperkt en enkel gelimiteerd door je eigen creatieve inzichten.
     displaymedia: image
     image:
       source: images/kg-systems-bts.jpg
@@ -73,4 +73,8 @@ blocks:
       - DG0aSzvMj
       - sCR0-5I1N
     more_items: false
+seo:
+  title: 3D animatie voor KG Systems | Phil & Flo | Verbeelden de wereld van morgen
+  description: Phil & Flo heeft in een 3D animatie het verhaal van KG systems
+    vertaald. Laat je inspireren door de voedselproductie van morgen.
 ---
