@@ -23,9 +23,9 @@ blocks:
   - type: selectedreviews_block
     title: reviews
     items:
-      - MaNQWLXGQ
-      - _fqI8a0st
-      - 4vF9wbJjI
+      - qRKCKxn9O
+      - sd8fPaxy9
+      - Wbe7UH8gH
     more_items: false
   - type: content_block
     align: center
