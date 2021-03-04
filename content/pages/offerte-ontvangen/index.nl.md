@@ -19,5 +19,7 @@ seo:
     werkdag een prijs op maat. Voor professionele organisaties.
 menu:
   main:
+    weight: ""
+  footer:
     weight: 6
 ---
