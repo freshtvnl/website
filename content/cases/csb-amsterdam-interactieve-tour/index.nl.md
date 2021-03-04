@@ -82,4 +82,16 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Draaidag***
+
+
+      4 hoofdrolspelers, meer dan 40 leerlingen als figurant, een tiental docenten, en een drietallige filmcrew. Het moment suprême was een zeer productieve en gezellige draaidag vol ervaringen, verhalen en passie die de school op een anders zo rustige zaterdag, tot leven bracht.
+    displaymedia: image
+    image:
+      source: images/csb-muziekles.jpg
 ---
