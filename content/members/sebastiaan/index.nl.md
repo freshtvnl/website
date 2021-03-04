@@ -6,7 +6,7 @@ id: 7VtuzLwVv
 image:
   source: images/sebastiaan-phil-en-flo.jpg
   alt: Sebastiaan
-function: Projectmanager video
+function: Creative producer
 description: ""
 cta: "Als creative producer vertaal ik jouw ideeën naar een doel krachtige
   animatie of film en help ik je om jouw organisatiedoelen te bereiken! Bel me
