@@ -70,4 +70,16 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-interactieve-keuze.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## ***Interactieve tour***
+
+
+      Ons advies was daarom een interactieve tour door de school. In een een dergelijke tour kan de kijker zelf keuzes maken, maar houdt je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
 ---
