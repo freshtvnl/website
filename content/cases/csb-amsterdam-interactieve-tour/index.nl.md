@@ -43,4 +43,31 @@ blocks:
 
 
       Met dit idee in ons achterhoofd zijn we samen om tafel gegaan. Vanuit onze ervaring weten we dat het slim is om eerst samen naar de kern van het probleem te zoeken en deze samen te analyseren. Door stapsgewijs te werken, garanderen we dat onze films hun doel dienen.
+    displaymedia: image
+    image:
+      source: images/csb-in-de-klas.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Een open dag, ***maar dan anders***
+
+
+      De open dag van het CSB Amsterdam kon helaas niet plaatsvinden in verband met de Covid-19 gerelateerde wetgeving. De open dagen spelen een essentiële rol voor de werving van nieuwe leerlingen voor de school. Het doel van een open dag is dan ook om een leerling te binden aan je school. Met dit inzicht werd het doel van de film duidelijk. Tijd om een videovorm te kiezen.
+    displaymedia: image
+    image:
+      source: images/csb-poster.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Videovorm***
+
+
+      Zoals genoemd was het initiële idee, een 360 graden film. Deze films kenmerken zich door de grote vrijheid die een kijker heeft. Je kan hele organisaties ‘doorlopen’ en bekijken en zelf je focus of invulling kiezen als kijker. Toch hebben wij het CSB sterk afgeraden voor deze oplossing te kiezen. Elk voordeel heeft zijn nadeel. Voor een 360 graden film is dat voordeel de ultieme vrijheid, en het bijbehorende nadeel de grip die je als regisseur verliest op wat een kijker ziet.
+    displaymedia: image
+    image:
+      source: images/csb-interactieve-keuze.jpg
 ---
