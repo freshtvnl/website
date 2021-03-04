@@ -94,6 +94,10 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-muziekles.jpg
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
   - type: contact_block
     contacts:
       - 7VtuzLwVv
