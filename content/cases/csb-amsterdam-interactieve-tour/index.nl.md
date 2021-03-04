@@ -22,4 +22,25 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-interactieve-keuze.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## ***Samen tot de kern komen***
+
+
+      In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een 360 graden film van hun school te laten maken. Een creatieve oplossing!
+    displaymedia: image
+    image:
+      source: images/csb-kinderen-in-de-klas.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Stapsgewijs werken***
+
+
+      Met dit idee in ons achterhoofd zijn we samen om tafel gegaan. Vanuit onze ervaring weten we dat het slim is om eerst samen naar de kern van het probleem te zoeken en deze samen te analyseren. Door stapsgewijs te werken, garanderen we dat onze films hun doel dienen.
 ---
