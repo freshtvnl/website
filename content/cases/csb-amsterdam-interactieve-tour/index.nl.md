@@ -94,4 +94,7 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-muziekles.jpg
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
