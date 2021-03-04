@@ -116,9 +116,10 @@ blocks:
   - type: selectedfaqs_block
     items:
       - vQQrwQorm
-      - OG62JfGe6
       - aGGfM_U3R
       - ZWH1fU_iR
+      - FAjVSbB1J
+      - fUUHxd57y
     title: Faq
 seo:
   title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol - Phil & Flo
