@@ -4,9 +4,6 @@ slug: animatie maken rotterdam
 weight: 1
 draft: false
 id: wvUKuLAzh63
-seo:
-  title: Animatie maken Rotterdam | Door Phil & Flo Videomarketing
-  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -26,7 +23,7 @@ blocks:
       ## Animatie maken ***Rotterdam***
 
 
-      Ben je gevestigd in Rotterdam en op zoek naar een professionele animatie? Bij ons kun je rekenen op een professionele aanpak waar we je betrekken in concepten en scripts en al het technische werk van animeren uit laten voeren door onze ervaren vakmensen.
+      Ben je gevestigd in Rotterdam en op zoek naar een professionele [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)? Bij ons kun je rekenen op een professionele aanpak waar we je betrekken in concepten en scripts en al het technische werk van animeren uit laten voeren door onze ervaren vakmensen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -52,7 +49,7 @@ blocks:
       ## ***Waarom*** een animatie?
 
 
-      Je kunt een animatiefilm voor allerlei doeleinden inzetten. Interne communicatie, een promotiefilmpje, uitleg verzorgen — de dynamische en visuele stijl van een animatie kun je niet evenaren met tekst of een statische afbeelding. Wil je ook zorgen dat niemand je boodschap mist? Ontdek dan wat animatie allemaal voor jou te bieden heeft: van reclame tot interne communicatie, van social media campaign tot explanimation van je jaarverslag. Wij maken het voor je.
+      Je kunt een animatiefilm voor allerlei doeleinden inzetten. Interne communicatie, een [promotiefilmpje](https://www.philenflo.nl/promotiefilm-laten-maken/), [uitleg](https://www.philenflo.nl/uitleganimatie-laten-maken/) verzorgen — de dynamische en visuele stijl van een animatie kun je niet evenaren met tekst of een statische afbeelding. Wil je ook zorgen dat niemand je boodschap mist? Ontdek dan wat animatie allemaal voor jou te bieden heeft: van reclame tot interne communicatie, van social media campaign tot [explanimatio](https://www.philenflo.nl/explanimation-laten-maken/)n van je jaarverslag. Wij maken het voor je.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
@@ -63,7 +60,7 @@ blocks:
       ## De meest ***frisse animatie*** van Rotterdam
 
 
-      Op het kantoor van Phil & Flo in Rotterdam heten we je graag welkom om onder het genot van een bakkie pleur te komen praten. Geheel vrijblijvend natuurlijk. Of we komen bij jou langs. Je kunt ook alvast een kijkje nemen op onze website. Daar vindt je een groot aanbod aan cases die we al gedaan hebben en waar we erg trots op zijn.
+      Op het kantoor van Phil & Flo in Rotterdam heten we je graag welkom om onder het genot van een bakkie pleur te komen praten. Geheel vrijblijvend natuurlijk. Of we komen bij jou langs. Je kunt ook alvast een kijkje nemen op onze website. Daar vindt je een groot aanbod aan [cases](https://www.philenflo.nl/portfolio/) die we al gedaan hebben en waar we erg trots op zijn.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
@@ -86,4 +83,9 @@ blocks:
       - DG0aSzvMj
       - sCR0-5I1N
       - fm2wFFmdb
+seo:
+  title: Animatie maken Rotterdam | Door Phil & Flo Videomarketing
+  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo
+    |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief
+    & innovatief
 ---
