@@ -42,7 +42,7 @@ blocks:
       ## Zet je animatie ***gericht*** in
 
 
-      Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, Eindhoven of Amsterdam, en we vertellen je graag meer over [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en videomarketing voor jouw bedrijf.
+      Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, [Eindhoven](https://www.philenflo.nl/animatie-film-eindhoven/) of [Amsterdam](https://www.philenflo.nl/animatie-amsterdam/), en we vertellen je graag meer over [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
@@ -53,7 +53,7 @@ blocks:
       ## Vandaag nog ***alles weten*** over een animatie?
 
 
-      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
+      Je kunt deze animaties allemaal bekijken in ons online [portfolio](https://www.philenflo.nl/portfolio/). Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen [vrijblijvend contact](https://www.philenflo.nl/contact/) met ons opnemen om over de mogelijkheden te praten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
