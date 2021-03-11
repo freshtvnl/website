@@ -27,6 +27,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 7lgeGNnzvsQ
+    cta:
+      url: /vr-animatie-laten-maken/
+      text: Meer Virtual Reality animatie
+      type: button
   - type: content_block
     align: left
     content: >-
