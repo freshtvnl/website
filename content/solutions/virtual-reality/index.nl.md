@@ -4,11 +4,8 @@ slug: virtual-reality
 weight: 4
 draft: false
 id: Yu_OxyeJZ
-seo:
-  title: Virtual reality videomarketing - Phil & Flo Videomarketing
-  description: Virtual reality videomarketing met VR animaties bij Phil & Flo | Onderscheidende content ✔ Duidelijke, heldere boodschap ✔ Creatief, interactief & innovatief ✔
 image:
-  source: images/vr-phil-en-flo.jpg
+  source: images/vr-video-laten-maken.jpg
 blocks:
   - type: hero_block
     title: "***Virtual Reality films***"
@@ -19,7 +16,7 @@ blocks:
       groot, evenals de reacties van de kijker ;)
     displaymedia: youtube_video
     youtube:
-      id: EnIbX-67iuc
+      id: 0ljMPjPQjRI
   - type: content_block
     align: left
     content: >-
@@ -40,4 +37,9 @@ blocks:
     youtube:
       id: whTY-lLc2Tc
     displaymedia: youtube_video
+seo:
+  title: Virtual reality videomarketing - Phil & Flo Videomarketing
+  description: Virtual reality videomarketing met VR animaties bij Phil & Flo |
+    Onderscheidende content ✔ Duidelijke, heldere boodschap ✔ Creatief,
+    interactief & innovatief ✔
 ---
