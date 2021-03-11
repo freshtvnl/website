@@ -30,13 +30,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Virtual Reality ***Video***
+      ## ***Virtual Reality*** Video
 
 
       Heb je weleens aan de rand van een afgrond gestaan in een 360 graden film? Of heb je weleens in een VR achtbaan gezeten? Het gevoel alsof je naar beneden valt of gaat vallen? Je maakt het dan ook echt mee, dat is de kracht van Virtual reality video. Lees hier meer over de mogelijkheden voor jouw organisatie.
     youtube:
       id: whTY-lLc2Tc
     displaymedia: youtube_video
+    cta:
+      url: /contact/
+      text: Meer informatie opvragen
+      type: button
 seo:
   title: Virtual reality videomarketing - Phil & Flo Videomarketing
   description: Virtual reality videomarketing met VR animaties bij Phil & Flo |
