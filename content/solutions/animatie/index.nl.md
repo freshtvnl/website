@@ -102,9 +102,9 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     content: >-
