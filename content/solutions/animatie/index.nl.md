@@ -226,6 +226,17 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - XUGyETL3d
+      - W-L3X72e7
+      - tsrhIESq5
+      - 13aAGeaHf
+      - 2AacKoAXX
+      - wajJLcNpD
+      - WZeAIcQkh
+      - oKyfeghfA
 parent: wvUKuLAzh
 title: Animatie laten maken
 slug: Animatie laten maken
