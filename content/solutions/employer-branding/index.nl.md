@@ -144,6 +144,21 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - q3s-XTal4
+      - l1v4_Jf-D
+      - LeXEh5XwN
+      - wT4-8kn8z
+      - tP0k2iiyu
+      - yA9PJEJpl
+      - xzn0OBnmP
+      - YvpGRlysR
+      - hcLczguex
+      - o17nvltp2
+      - edFC9xzuZ
+      - Ox_Jkjx3t
 seo:
   title: Employer Branding video laten maken | Specialist Phil & Flo Videomarketing
   description: Employer branding video nodig? Phil & Flo Videomarketing > Sneller
