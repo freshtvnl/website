@@ -9,14 +9,14 @@ blocks:
   - type: hero_block
     title: "***Maatschappelijk verantwoord ondernemen***"
     content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
-      gestoeld. Vanuit FreshTV (hoe we eerder heetten) begon dit te spelen.
-      Teamleden die ongemakkelijk werden om hun tijd te investeren in
-      organisaties waar ze totaal niet achter stonden. Sowieso waren we het snel
-      eens dat klimaatverandering geen hoax is en dat klimaatverwoestende
-      organisaties de eerste zijn die we moesten blocken. Daarnaast kwamen er
+      gestoeld. Dit begon al toen we nog FreshTV heetten. Onze teamleden worden
+      ongemakkelijk om hun tijd te investeren in organisaties waar ze totaal
+      niet achter staan. Sowieso waren we het snel eens dat klimaatverandering
+      geen hoax is. Klimaatverwoestende organisaties waren daarom de eerste
+      organisaties die we hebben uitgesloten van onze inzet. Daarnaast kwamen er
       vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
-      hier zeer bewust mee bezig en zullen ons uiteraard meebewegen met de
-      gedachtes van ons team en de buitenwereld.
+      hier zeer bewust mee bezig en zullen uiteraard meebewegen met de
+      voortschrijdende inzichten van ons team en de buitenwereld.
     displaymedia: custom_video
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
