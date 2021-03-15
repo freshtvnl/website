@@ -7,6 +7,8 @@ id: Qbs9BZurj
 blocks:
   - type: hero_block
     title: "***FAQS***"
+    content: Veel gestelde vragen vind je hier, staat jou vraag er niet tussen, of
+      heb je geen zin om te lezen? Bel ons dan vrijblijvend op 085 - 273 8331
   - type: selectedfaqs_block
     title: "Animatie "
     items:
