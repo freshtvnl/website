@@ -73,7 +73,19 @@ blocks:
   - type: selectedfaqs_block
     title: Instructie video
     items:
-      - QBToQiJHS
+      - BkhRsz8K3
+      - GY4v_wAcS
+      - V20xgwUfI
+      - Sxa8VbA1M
+      - 8cYNpLeQG
+      - BUTjZ-N8B
+      - hcLczguex
+      - 2XOqgZhSc
+      - RxklXp2Hj
+      - R8mcgxseZ
+      - o1MNOt1Fx
+      - zWTd3vg0U
+      - yWM-CZcol
   - type: selectedfaqs_block
     title: Infomericals
     items:
