@@ -225,7 +225,7 @@ blocks:
     items:
       - DG0aSzvMj
       - sCR0-5I1N
-      - fm2wFFmdb
+      - JBTh_8cBB
     more_items: true
   - type: selectedfaqs_block
     title: Veelgestelde vragen
