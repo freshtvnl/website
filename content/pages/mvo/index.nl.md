@@ -7,7 +7,7 @@ image:
 color: orange
 blocks:
   - type: hero_block
-    title: Maatschappelijk ***verantwoord*** ondernemen
+    title: "***Maatschappelijk verantwoord ondernemen***"
     content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
       gestoeld. Vanuit FreshTV (hoe we eerder heetten) begon dit te spelen.
       Teamleden die ongemakkelijk werden om hun tijd te investeren in
@@ -25,10 +25,10 @@ blocks:
       autoplay: true
   - type: content_block
     content: >-
-      ## ***Met wie we graag samenwerken***
+      ## Met wie we graag ***samenwerken***
 
 
-      Wij vinden dat iedereen met wie we samen werken een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
+      Wij vinden dat iedereen met wie we samen werken, een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
