@@ -97,17 +97,21 @@ blocks:
       - 57IUGCoqL
       - dvf7GC4q7
   - type: selectedfaqs_block
-    title: Persoonlijke video
-    items:
-      - QBToQiJHS
-  - type: selectedfaqs_block
-    title: Promotievideo
-    items:
-      - QBToQiJHS
-  - type: selectedfaqs_block
     title: Reclame
     items:
-      - QBToQiJHS
+      - -iFl9-Y2W
+      - nv6T8dU14
+      - S7c1gyOiy
+      - 0gxc0yKmy
+      - ysW98qJre
+      - oZyG-eagP
+      - aP7upDTdr
+      - F_E7Q5ADH
+      - hFIKOBGq2
+      - _e1fYEShh
+      - DlpL1MF-B
+      - o1yc8dZU9
+      - oqrguAU0g
   - type: selectedfaqs_block
     title: Social video
     items:
@@ -118,6 +122,14 @@ blocks:
       - QBToQiJHS
   - type: selectedfaqs_block
     title: Voorlichtingsvideo
+    items:
+      - QBToQiJHS
+  - type: selectedfaqs_block
+    title: Promotievideo
+    items:
+      - QBToQiJHS
+  - type: selectedfaqs_block
+    title: Persoonlijke video
     items:
       - QBToQiJHS
 menu:
