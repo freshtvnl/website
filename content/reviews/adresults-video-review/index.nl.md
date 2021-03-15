@@ -21,7 +21,7 @@ quote:
   company: Adresults
   auteur: Robert
   image:
-    source: images/adresults-phil-en-flo.jpg
+    source: ""
 seo:
   noindex: true
 ---
