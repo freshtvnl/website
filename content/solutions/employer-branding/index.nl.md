@@ -138,8 +138,8 @@ blocks:
     youtube:
       id: zfG1OTMelcw
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Contact opnemen
       type: button
   - type: contact_block
     contacts:
