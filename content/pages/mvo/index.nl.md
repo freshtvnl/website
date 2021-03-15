@@ -22,6 +22,7 @@ blocks:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
     video:
       source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     content: >-
       ## ***Met wie we graag samenwerken***
