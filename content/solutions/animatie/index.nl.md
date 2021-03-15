@@ -220,6 +220,12 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
+  - type: selectedreviews_block
+    title: Google reviews
+    items:
+      - qRKCKxn9O
+      - 4w-qBXhgd
+      - Wbe7UH8gH
 parent: wvUKuLAzh
 title: Animatie laten maken
 slug: Animatie laten maken
