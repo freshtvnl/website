@@ -84,6 +84,12 @@ blocks:
       url: /30-minuten/
       text: Boek een vrijblijvende 30 min sessie
       type: button
+  - type: selectedreviews_block
+    title: Google reviews
+    items:
+      - qRKCKxn9O
+      - 4w-qBXhgd
+      - Wbe7UH8gH
   - type: content_block
     align: left
     content: >-
@@ -190,7 +196,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## De unieke designfilosofie van Phil & Flo
+      ## ***De unieke designfilosofie*** van Phil & Flo
 
 
       Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
@@ -210,7 +216,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
+      url: /contact/
       text: Contact opnemen
       type: button
   - type: selectedwork_block
@@ -220,12 +226,6 @@ blocks:
       - sCR0-5I1N
       - fm2wFFmdb
     more_items: true
-  - type: selectedreviews_block
-    title: Google reviews
-    items:
-      - qRKCKxn9O
-      - 4w-qBXhgd
-      - Wbe7UH8gH
 parent: wvUKuLAzh
 title: Animatie laten maken
 slug: Animatie laten maken
