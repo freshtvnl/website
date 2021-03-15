@@ -43,6 +43,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: Y4PzsL92oww
+    cta:
+      url: /30-minuten/
+      text: Boek nu een vrijblijvende 30 minuten sessie
+      type: button
   - type: selectedreviews_block
     title: Google Reviews
     items:
