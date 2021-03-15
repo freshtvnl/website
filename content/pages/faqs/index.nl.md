@@ -87,13 +87,15 @@ blocks:
       - zWTd3vg0U
       - yWM-CZcol
   - type: selectedfaqs_block
-    title: Infomericals
-    items:
-      - QBToQiJHS
-  - type: selectedfaqs_block
     title: Interactieve video
     items:
-      - QBToQiJHS
+      - Noa5BXo37
+      - F-4GWv9vh
+      - uGfp3muJd
+      - 3XzXqsdyL
+      - jqu7GeM2V
+      - 57IUGCoqL
+      - dvf7GC4q7
   - type: selectedfaqs_block
     title: Persoonlijke video
     items:
