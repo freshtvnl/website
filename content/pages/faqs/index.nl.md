@@ -113,15 +113,17 @@ blocks:
       - o1yc8dZU9
       - oqrguAU0g
   - type: selectedfaqs_block
-    title: Social video
-    items:
-      - QBToQiJHS
-  - type: selectedfaqs_block
     title: VR video
     items:
-      - QBToQiJHS
+      - 10KofX07N
+      - lnjZaJeHF
+      - xnlSUoa_k
   - type: selectedfaqs_block
     title: Voorlichtingsvideo
+    items:
+      - QBToQiJHS
+  - type: selectedfaqs_block
+    title: Social video
     items:
       - QBToQiJHS
   - type: selectedfaqs_block
