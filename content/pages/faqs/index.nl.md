@@ -60,7 +60,7 @@ blocks:
       - o17nvltp2
       - q3s-XTal4
   - type: selectedfaqs_block
-    title: Infograpic
+    title: Infographic
     items:
       - RfXqJInx1
       - -sRp1ZF5c
