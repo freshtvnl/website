@@ -43,6 +43,11 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: Y4PzsL92oww
+  - type: selectedreviews_block
+    title: Google Reviews
+    items:
+      - MaNQWLXGQ
+      - zayLL6YOo
   - type: content_block
     align: left
     displaymedia: youtube_video
