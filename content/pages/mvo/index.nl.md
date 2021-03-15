@@ -17,9 +17,11 @@ blocks:
       vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
       hier zeer bewust mee bezig en zullen ons uiteraard meebewegen met de
       gedachtes van ons team en de buitenwereld.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
   - type: content_block
     content: >-
       ## ***Met wie we graag samenwerken***
