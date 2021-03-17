@@ -244,7 +244,7 @@ blocks:
 seo:
   title: Spelregels - Algemene voorwaarden - Videomarketing Phil & Flo
   description: Phil & Flo videomarketing werkt met bepaalde spelregels; ofwel de
-    algemene voorwaarden. Bekijk de video voor meer informatie!
+    algemene voorwaarden.
 menu:
   footer:
     weight: 2
