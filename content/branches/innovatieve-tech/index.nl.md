@@ -60,9 +60,9 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw-Phil-en-Flo-website-source.mp4
     cta:
-      url: https://www.philenflo.nl/contact/
-      text: Contact opnemen
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     iframe:
@@ -73,6 +73,10 @@ blocks:
 
 
       Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een interactieve brochure een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de [interactieve](https://philenflo.nl/oplossingen/interactieve-video/) brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter!
+    cta:
+      url: https://www.philenflo.nl/contact/
+      text: Neem contact op
+      type: button
   - type: contact_block
     contacts:
       - kJ07QyNzs
