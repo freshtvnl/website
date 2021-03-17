@@ -6,7 +6,7 @@ id: 2BVK9YvSq
 image:
   source: images/inge-phil-en-flo.jpg
   alt: Inge
-function: Projectmanager Animatie
+function: Creative Producer
 description: ""
 cta: Joejoe Inge hier. Plannen, organiseren en regelen, het zit in mijn DNA. Als
   25-jarige projectmanager vind ik het enorm leuk om een project van A tot Z te

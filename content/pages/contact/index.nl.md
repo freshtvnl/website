@@ -8,7 +8,7 @@ image:
 blocks:
   - type: content_block
     align: center
-    content: "# Contact formulier"
+    content: "# ***Contact formulier***"
     form: 2nOvI3M4P
   - type: content_block
     align: left
@@ -23,9 +23,9 @@ blocks:
   - type: selectedreviews_block
     title: reviews
     items:
-      - MaNQWLXGQ
-      - _fqI8a0st
-      - 4vF9wbJjI
+      - qRKCKxn9O
+      - sd8fPaxy9
+      - Wbe7UH8gH
     more_items: false
   - type: content_block
     align: center

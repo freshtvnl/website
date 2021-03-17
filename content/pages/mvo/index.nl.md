@@ -7,25 +7,28 @@ image:
 color: orange
 blocks:
   - type: hero_block
-    title: Maatschappelijk ***verantwoord*** ondernemen
+    title: "***Maatschappelijk verantwoord ondernemen***"
     content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
-      gestoeld. Vanuit FreshTV (hoe we eerder heetten) begon dit te spelen.
-      Teamleden die ongemakkelijk werden om hun tijd te investeren in
-      organisaties waar ze totaal niet achter stonden. Sowieso waren we het snel
-      eens dat klimaatverandering geen hoax is en dat klimaatverwoestende
-      organisaties de eerste zijn die we moesten blocken. Daarnaast kwamen er
+      gestoeld. Dit begon al toen we nog FreshTV heetten. Onze teamleden worden
+      ongemakkelijk om hun tijd te investeren in organisaties waar ze totaal
+      niet achter staan. Sowieso waren we het snel eens dat klimaatverandering
+      geen hoax is. Klimaatverwoestende organisaties waren daarom de eerste
+      organisaties die we hebben uitgesloten van onze inzet. Daarnaast kwamen er
       vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
-      hier zeer bewust mee bezig en zullen ons uiteraard meebewegen met de
-      gedachtes van ons team en de buitenwereld.
-    displaymedia: image
+      hier zeer bewust mee bezig en zullen uiteraard meebewegen met de
+      voortschrijdende inzichten van ons team en de buitenwereld.
+    displaymedia: custom_video
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
+      autoplay: true
   - type: content_block
     content: >-
-      ## ***Met wie we graag samenwerken***
+      ## Met wie we graag ***samenwerken***
 
 
-      Wij vinden dat iedereen met wie we samen werken een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
+      Wij vinden dat iedereen met wie we samen werken, een bijdrage zou kunnen leveren aan het verbeteren van de wereld. Dit betekent dat wij de keuze maken om te werken voor klimaatvriendelijke organisaties, integere organisaties en organisaties die de gezondheid van mensen zeer serieus nemen.
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
@@ -45,15 +48,15 @@ blocks:
       Elke dag kijken wij kritisch wat we kunnen verbeteren. Maar dit is wat we nu al doen:
 
 
-      Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via [Treesforall](<https://treesforall.nl/compenseer-co2](https://treesforall.nl/compenseer-co2/>).\
+      \- Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via [Treesforall](<https://treesforall.nl/compenseer-co2](https://treesforall.nl/compenseer-co2/>).\
 
-      Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via [Loyaltree](https://loyaltree.nl/).\
+      - Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via [Loyaltree](https://loyaltree.nl/).\
 
-      Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.\
+      - Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.\
 
-      Onze relatiegeschenken zijn duurzaam, ECO en Maatschappelijk verantwoord <https://join-the-pipe.org/>\
+      - Onze relatiegeschenken zijn duurzaam, ECO en Maatschappelijk verantwoord <https://join-the-pipe.org/>\
 
-      Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
+      - Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
 
 
       [](https://meewind.nl/fonds/energie-transitiefonds/)[](https://meewind.nl/fonds/zeewind-bestaande-parken/)Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)

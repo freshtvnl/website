@@ -75,7 +75,7 @@ blocks:
       ## Juist voor ***online doelgroep***
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Bel onze specialisten nu vrijblijvend. 085 -273 8331
+      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Even vrijblijvend sparren? Boek vrijblijvend een sessie!
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -84,6 +84,13 @@ blocks:
       url: /30-minuten/
       text: Boek een vrijblijvende 30 min sessie
       type: button
+  - type: selectedreviews_block
+    title: Google reviews
+    items:
+      - qRKCKxn9O
+      - 4w-qBXhgd
+      - Wbe7UH8gH
+    more_items: true
   - type: content_block
     align: left
     content: >-
@@ -96,9 +103,9 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: offerte ontvangen
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     align: right
     content: >-
@@ -190,7 +197,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## De unieke designfilosofie van Phil & Flo
+      ## ***De unieke designfilosofie*** van Phil & Flo
 
 
       Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
@@ -210,7 +217,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
+      url: /contact/
       text: Contact opnemen
       type: button
   - type: selectedwork_block
@@ -218,8 +225,19 @@ blocks:
     items:
       - DG0aSzvMj
       - sCR0-5I1N
-      - fm2wFFmdb
+      - JBTh_8cBB
     more_items: true
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - XUGyETL3d
+      - W-L3X72e7
+      - tsrhIESq5
+      - 13aAGeaHf
+      - 2AacKoAXX
+      - wajJLcNpD
+      - WZeAIcQkh
+      - oKyfeghfA
 parent: wvUKuLAzh
 title: Animatie laten maken
 slug: Animatie laten maken

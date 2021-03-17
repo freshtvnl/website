@@ -1,9 +1,6 @@
 ---
 title: Promotiefilm laten maken
 slug: Promotiefilm laten maken
-seo:
-  title: Promotiefilm laten maken | Phil & Flo Videomarketing
-  description: Promotiefilm laten maken? Phil & Flo kan je helpen! Samen zorgen we voor een film die laat zien wat jij in huis hebt. Kom vrijblijvend een smoothie drinken!
 draft: false
 id: 9x8EDNyU8
 blocks:
@@ -35,7 +32,7 @@ blocks:
       ## Waarom zal ik een ***promotiefilm*** maken?
 
 
-      Het is een uitstekende manier om de identiteit van je merk te visualiseren. Ook is de film uitermate geschikt om te delen op social media. Als je de film op de juiste kanalen plaatst, kan de interactie met je klant tot behoorlijk toenemen. Je online vindbaarheid wordt ook aanzienlijk verbeterd; plaats je jouw promotiefilm via YouTube op je website, dan verschijn je hoger in de zoekresultaten van Google.
+      Het is een uitstekende manier om de identiteit van je merk te visualiseren. Ook is de film uitermate geschikt om te delen op social media. Als je de film op de juiste kanalen plaatst, kan de interactie met je klant tot behoorlijk toenemen. Je online vindbaarheid wordt ook aanzienlijk verbeterd; plaats je jouw promotiefilm via [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) op je website, dan verschijn je hoger in de zoekresultaten van Google.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
@@ -62,4 +59,9 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+seo:
+  title: Promotiefilm laten maken | Phil & Flo Videomarketing
+  description: Promotiefilm laten maken? Phil & Flo kan je helpen! Samen zorgen we
+    voor een film die laat zien wat jij in huis hebt. Kom vrijblijvend een
+    smoothie drinken!
 ---

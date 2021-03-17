@@ -8,7 +8,7 @@ image:
 blocks:
   - type: hero_block
     title: "***Employer Branding films***"
-    content: Hoe overtuig je kandidaten dat ze bij jou moeten komen werken, en niet
+    content: Hoe overtuig je kandidaten dat ze bij jou moeten komen werken en niet
       ergens anders? In een vacaturetekst is het, puur door het tekstuele
       formaat, lastig om generalisaties en clichés te vermijden. Daardoor loop
       je de kans dat potentiële werknemers een matige of verkeerde indruk
@@ -23,7 +23,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Employer Branding, wat is dat?
+      ## ***Employer Branding***, wat is dat?
 
 
       In een employer branding film zie je vooral je **werknemers aan het woord**. Ze vertellen de positieve kanten over hun werk en je bedrijf. Daarbij blijven we zo **authentiek** mogelijk. Daarom benoemen we ook  een wat mindere kant van het werk, dit werkt in je voordeel.
@@ -35,7 +35,7 @@ blocks:
       id: G_dlOtmAnas
   - type: content_block
     content: >-
-      ### Hoe maken we jouw film?
+      ## Hoe maken we jouw ***Employer Branding film***?
 
 
       Wie kan er beter vertellen over hoe het is om bij jouw bedrijf te werken, dan de werknemers zelf? In een employer branding film laten we daarom echte mensen — werknemers en collega’s — aan het woord. Ze hoeven geen geboren acteur te zijn, want wij zorgen voor een **professionele begeleiding bij het filmen.** Daarna verpakken we hun enthousiaste verhalen in een kort en bondige film. We kiezen er de juiste achtergrondmuziek bij en brengen zo de unieke sfeer in jouw bedrijf binnen 1 minuut in beeld.
@@ -43,13 +43,22 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: Y4PzsL92oww
+    cta:
+      url: /30-minuten/
+      text: Boek nu een vrijblijvende 30 minuten sessie
+      type: button
+  - type: selectedreviews_block
+    title: Google Reviews
+    items:
+      - MaNQWLXGQ
+      - zayLL6YOo
   - type: content_block
     align: left
     displaymedia: youtube_video
     youtube:
       id: DcsHQff1z8k
     content: >-
-      ## Opvallen met ***employer*** branding
+      ## Opvallen met ***employer branding***
 
 
       De beste werknemers zijn steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? Met een employer branding film val je alvast goed op. Zeker als de concurrentie alleen maar een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
@@ -71,15 +80,15 @@ blocks:
       We hebben al vele employer branding films gemaakt voor verschillende branches:
 
 
-      * IT branche
+      * [Innovatieve Tech](https://www.philenflo.nl/branches/innovatieve-tech/)
 
-      * Zorg en Pharma branche
+      * [Zorg en Pharmacie](https://www.philenflo.nl/branches/zorg-pharma/)
 
-      * Financiële branche
+      * [Duurzame Energie](https://www.philenflo.nl/branches/duurzame-energie/)
 
-      * Architectuur branche
+      * [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/)
 
-      * Duurzame Industrie branche
+      * [Fair food](https://www.philenflo.nl/branches/fair-food/)
 
 
       **Wij hebben een frisse en unieke blik op de presentatie in videovorm om talent aan te trekken**. Door de verhalen van je collega’s op een aantrekkelijke manier te presenteren, maken we potentiële werknemers enthousiast en geïnteresseerd in jouw bedrijf.
@@ -100,7 +109,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Het bereik van employer branding films
+      ## ***Het bereik*** van employer branding films
 
 
       Een film om je als bedrijf te profileren kun je heel gericht voor een specifieke vacature maken, maar ook juist breed inzetbaar houden. Als je diep ingaat op een specifieke functie, laat je bijvoorbeeld een collega uitgebreid over het werk vertellen. Je geeft dan een heel goed beeld van de specifieke functie, maar de film is moeilijker te hergebruiken. Als je kiest voor een meer algemene film over je bedrijf, kun je deze in verschillende vacatures gebruiken. Bovendien heb je een grotere kans dat meer mensen je employer branding video gaan delen op sociale media.
@@ -110,7 +119,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Employer branding film op ***Indeed*** en sociale media
+      ## Employer branding film op ***Indeed*** en ***sociale media***
 
 
       Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op Instagram en LinkedIn is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aansprekend maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op Indeed beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je vacature en/of employer branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
@@ -130,7 +139,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Vandaag nog meer weten over employer branding?
+      ## Vandaag nog meer weten over ***employer branding***?
 
 
       Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige Employer branding video’s om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
@@ -138,12 +147,27 @@ blocks:
     youtube:
       id: zfG1OTMelcw
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Contact opnemen
       type: button
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - q3s-XTal4
+      - l1v4_Jf-D
+      - LeXEh5XwN
+      - wT4-8kn8z
+      - tP0k2iiyu
+      - yA9PJEJpl
+      - xzn0OBnmP
+      - YvpGRlysR
+      - hcLczguex
+      - o17nvltp2
+      - edFC9xzuZ
+      - Ox_Jkjx3t
 seo:
   title: Employer Branding video laten maken | Specialist Phil & Flo Videomarketing
   description: Employer branding video nodig? Phil & Flo Videomarketing > Sneller

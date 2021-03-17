@@ -5,7 +5,7 @@ draft: false
 id: JBTh_8cBB
 image:
   source: images/algemeen-dagblad-amerikaanse-verkiezingen-2d-animatie-phil-en-flo.jpg
-content_type: case
+content_type: portfolio
 color: red
 branch: q6TD9LMXU
 blocks:

@@ -3,9 +3,6 @@ title: Vacature video
 slug: Vacature video
 draft: false
 id: 4awsasdfNMvv3
-seo:
-  title: Vacature Video Laten Maken - Snel Resultaat - Phil & Flo Videomarketing
-  description: Direct resultaat met een goede vacature video. Jouw openstaande vacatures beter onder de aandacht met een succesvolle vacature video voor iedere branche!
 blocks:
   - type: hero_block
     title: "***Vacature*** video"
@@ -22,7 +19,7 @@ blocks:
       ## Waarom een ***vacature*** video?
 
 
-      Hoe pak je dit probleem aan en zorg je dat juist het perfecte talent kiest voor jouw organisatie? Dit doe je met een **vacature video**. Een vacaturefilm brengt de juiste boodschap over met emotie. Daarnaast worden Google en YouTube steeds vaker gebruikt voor het vinden van de juiste vacature. Sterker nog YouTube is bijna de populairste zoekmachine ter wereld en geeft Google nog meer voorrang op hoogwaardige videocontent in de zoekresultaten!
+      Hoe pak je dit probleem aan en zorg je dat juist het perfecte talent kiest voor jouw organisatie? Dit doe je met een **vacature video**. Een vacaturefilm brengt de juiste boodschap over met emotie. Daarnaast worden Google en YouTube steeds vaker gebruikt voor het vinden van de juiste vacature. Sterker nog [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) is bijna de populairste zoekmachine ter wereld en geeft Google nog meer voorrang op hoogwaardige videocontent in de zoekresultaten!
     displaymedia: youtube_video
     image:
       source: ""
@@ -67,4 +64,9 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+seo:
+  title: Vacature Video Laten Maken - Snel Resultaat - Phil & Flo Videomarketing
+  description: Direct resultaat met een goede vacature video. Jouw openstaande
+    vacatures beter onder de aandacht met een succesvolle vacature video voor
+    iedere branche!
 ---
