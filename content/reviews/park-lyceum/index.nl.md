@@ -11,4 +11,5 @@ quote:
     professioneel.
   auteur: Carla Holwerda
   functie: ""
+  company: Park Lyceum
 ---
