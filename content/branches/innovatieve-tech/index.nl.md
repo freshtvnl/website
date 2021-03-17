@@ -32,7 +32,7 @@ blocks:
       source_webm: https://video.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.webm
       autoplay: true
     cta:
-      url: /30-minutes/
+      url: /30-minuten/
       text: Boek nu vrijblijvend een 30 minuten sessie
       type: button
   - type: content_block
