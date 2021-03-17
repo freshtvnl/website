@@ -92,14 +92,22 @@ if(urlParams.has('utm_campaign')) sessionStorage.setItem('utm_campaign', urlPara
 
 function init30MinDateTimeElement() {
 
-  const picker = document.getElementById('30mindatetimepicker');
+  const pickerDate = document.getElementById('30mindatepicker');
+  const pickerTime = document.getElementById('30mintimepicker');
 
-  if(!picker) return
+  if(!pickerDate && pickerTime) return
 
-  flatpickr(picker, {
+  flatpickr(pickerDate, {
+    "locale": Dutch,
+    enableTime: false,
+    dateFormat: "d-m-Y",
+  });
+
+  flatpickr(pickerTime, {
     "locale": Dutch,
     enableTime: true,
-    dateFormat: "d-m-Y H:i",
+    time_24hr: true,
+    noCalendar: true
   });
 
 }
