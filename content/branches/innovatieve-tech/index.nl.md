@@ -76,8 +76,14 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+  - type: selectedreviews_block
+    title: Google Reviews
+    items:
+      - BpdbRCOAr
+      - qRKCKxn9O
+      - 4w-qBXhgd
 seo:
-  title: Innovatieve tech | Phil & Flo videomarketing voor elke branche
-  description: "Videomarketing voor de innovatieve tech branche. Phil & Flo
-    verbeelden de wereld van morgen met video en animatie. "
+  title: Innovatieve tech | Phil & Flo creative studio voor elke branche
+  description: Videomarketing voor de innovatieve technologie branche. Phil & Flo
+    verbeelden de wereld van morgen met video en animatie.
 ---
