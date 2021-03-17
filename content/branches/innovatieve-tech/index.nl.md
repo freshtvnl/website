@@ -81,15 +81,15 @@ blocks:
       url: https://www.philenflo.nl/contact/
       text: Neem contact op
       type: button
-  - type: contact_block
-    contacts:
-      - kJ07QyNzs
   - type: selectedreviews_block
     title: Google Reviews
     items:
       - BpdbRCOAr
       - qRKCKxn9O
       - 4w-qBXhgd
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 seo:
   title: Innovatieve tech | Phil & Flo creative studio voor elke branche
   description: Videomarketing voor de innovatieve technologie branche. Phil & Flo
