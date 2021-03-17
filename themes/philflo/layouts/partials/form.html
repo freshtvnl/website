@@ -105,6 +105,30 @@
       </div>
       {{ end }}
   
+      {{ if eq $type "newsletter"}}
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "name" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-4'>
+          <label class="block">
+            <span >{{ T "email" }} <span class="text-red-500">*</span></span>
+            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+          </label>
+        </div>
+        <div class="col-span-4">
+          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "subscribe" }}</button>
+        </div>
+      </div>
+      {{ end }}
       {{ if eq $type "contact"}}
         <div class='col-span-4'>
           <label class="block">

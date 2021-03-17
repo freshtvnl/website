@@ -39,5 +39,9 @@
   {
     "id": "newsletter",
     "translation": "Receive newsletter"
+  },
+  {
+    "id": "subscribe",
+    "translation": "Subscribe"
   }
 ]

@@ -70,6 +70,10 @@
   {
     "id": "newsletter",
     "translation": "Nieuwsbrief ontvangen"
+  },
+  {
+    "id": "subscribe",
+    "translation": "Aanmelden"
   }
   
 ]
