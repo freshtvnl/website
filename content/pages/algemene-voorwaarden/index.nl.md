@@ -1,6 +1,6 @@
 ---
 title: Algemene voorwaarden
-slug: agemene-voorwaarden
+slug: algemene-voorwaarden
 draft: false
 id: j18wstXaE
 blocks:
