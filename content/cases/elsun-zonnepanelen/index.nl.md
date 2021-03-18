@@ -20,4 +20,16 @@ blocks:
     displaymedia: custom_video
     image:
       source: https://video.philenflo.nl/video/Huis-zonnepanelen-drone-shot.mp4
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Elsun
+
+
+      Elsun, een dochteronderneming van Elton, maakt hoogwaardige zonnepanelen. Het unieke aan Elsun is dat de productie niet wordt uitbesteed, maar binnenshuis, in Nederland plaats vindt. Dit betekent een perfecte kwaliteitscontrole op een écht Nederlands topproduct.
+    displaymedia: custom_video
+    image:
+      source: https://video.philenflo.nl/video/Elton-drone.mp4
 ---
