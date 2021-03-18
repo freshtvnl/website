@@ -80,4 +80,7 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: pu3hceo-s2s
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
