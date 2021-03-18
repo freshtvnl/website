@@ -38,7 +38,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Bedrijfsdak-zonnepanelen-drone.mp4
-    align: center
+    align: right
     content: >-
       ## ***Waarom een film?***
 
@@ -49,7 +49,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Zonnedak-drone-Phil-en-Flo.mp4
-    align: right
+    align: left
     content: >-
       ## Van ***productie*** tot ***oplevering***
 
