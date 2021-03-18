@@ -45,4 +45,15 @@ blocks:
 
       Zonnepanelen kunnen we tot op detail namaken in een 3D animatie. We kunnen zelfs een hele stad met zonnepanelen animeren. Maar als een product zich zo goed leent voor een film, dan is het zonde om niet de reflectie van een Drentse lentezon op een zonnepaneel te komen filmen. De hoeveelheid details, niet zo zeer in de techniek van een zonnepaneel, maar in de achtergrond van een filmshot, dat is waardoor mensen aangegrepen worden. Iedereen houdt van de warme zon. Deze herkenbare warmte staat centraal in de film.
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Zonnedak-drone-Phil-en-Flo.mp4
+    align: right
+    content: >-
+      ## Van ***productie*** tot ***oplevering***
+
+
+      Om de productcyclus van een Elsun zonnepaneel te filmen, hoefden we geen lange reizen te maken. Alles was te vinden in het prachtige Drentse Roden. Hier vindt de productie plaats van de Elsun zonnepanelen. Vervolgens hoef je maar één trap op, naar het dak, om te zien hoe Elsun 100% CO2 neutraal kan produceren. Een zee aan zonnepanelen bedekken het dak. Maar ook op het dak van museum Kinderwereld in het centrum van Roden, straalt de zon op de panelen van Elsun. Overal in het dorp zie je het succes van Elsun terug.
+    displaymedia: custom_video
 ---
