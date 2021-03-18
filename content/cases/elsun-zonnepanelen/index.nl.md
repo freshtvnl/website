@@ -4,7 +4,7 @@ slug: Elsun Zonnepanelen
 draft: false
 id: 6eq_B_Phs
 image:
-  source: images/210318-elsun-zonnepanelen-thumbnail-phil-en-flo.png
+  source: images/210318-elsun-zonnepanelen-thumbnail-phil-en-flo-2.jpg
 content_type: case
 color: green
 branch: 0uhmsFFxS
