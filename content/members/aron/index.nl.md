@@ -6,7 +6,7 @@ id: mayhQD07h
 image:
   source: images/aron-phil-en-flo.jpg
   alt: Aron
-function: 3D en VR animator
+function: 3D- en VR-animator
 cta: >-
   Ontwerpen, animeren en het tot leven brengen van jouw idee is mijn
   specialiteit! 
