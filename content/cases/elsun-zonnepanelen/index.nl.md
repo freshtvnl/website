@@ -56,4 +56,15 @@ blocks:
 
       Om de productcyclus van een Elsun zonnepaneel te filmen, hoefden we geen lange reizen te maken. Alles was te vinden in het prachtige Drentse Roden. Hier vindt de productie plaats van de Elsun zonnepanelen. Vervolgens hoef je maar één trap op, naar het dak, om te zien hoe Elsun 100% CO2 neutraal kan produceren. Een zee aan zonnepanelen bedekken het dak. Maar ook op het dak van museum Kinderwereld in het centrum van Roden, straalt de zon op de panelen van Elsun. Overal in het dorp zie je het succes van Elsun terug.
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Zonnepanelem-huis-droneshot.mp4
+    align: right
+    content: >-
+      ## ***Dronebeelden***
+
+
+      In een film waarin het samenspel tussen zon, paneel & mens belangrijk is, maken we slim gebruik van 4k dronebeelden afgewisseld met beelden op de grond. Zo kunnen we niet alleen elk detail in de productie weergeven, maar ook prachtige totaalshots maken van daken vol glinsterende zonnepanelen.
+    displaymedia: custom_video
 ---
