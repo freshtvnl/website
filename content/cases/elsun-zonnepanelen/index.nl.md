@@ -70,12 +70,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Zonnepanelem-huis-droneshot.mp4
+      source_mp4: ""
     align: left
     content: >-
       ***Resultaat & oplevering***
 
 
       Niet alleen wij van Phil & Flo maar ook Elsun is trots op onze coproductie. Een nauwe samenwerking geeft het mooiste resultaat en dat blijkt ook weer in dit project. De promotiefilm voor Elsun is opgeleverd inclusief ondertiteling, en een vijftal social media teasers. Deze teasers helpen onder andere om gefaseerd de content uit te rollen op social media en hiermee de impact van de film te vergroten. Op naar de wereld van morgen!
-    displaymedia: custom_video
+    displaymedia: youtube_video
+    youtube:
+      id: pu3hceo-s2s
 ---
