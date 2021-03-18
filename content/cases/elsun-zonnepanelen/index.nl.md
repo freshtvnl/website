@@ -80,6 +80,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: pu3hceo-s2s
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: contact_block
     contacts:
       - 7VtuzLwVv
