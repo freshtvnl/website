@@ -8,10 +8,10 @@ image:
   alt: Aron
 function: 3D en VR animator
 cta: >-
-  Ontwerpen, Animeren en het tot leven brengen van een jouw idee is mijn
+  Ontwerpen, animeren en het tot leven brengen van jouw idee is mijn
   specialiteit! 
 
-  Zowel in 3D als 2D maak ik animaties die jouw helpen je verhaal te vertellen.
+  Zowel in 3D als 2D maak ik animaties die jou helpen je verhaal te vertellen.
 blocks:
   - type: content_block
     align: left
