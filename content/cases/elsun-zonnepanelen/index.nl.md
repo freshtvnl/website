@@ -12,6 +12,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Huis-zonnepanelen-drone-shot.mp4
     title: "***Duurzame energie***"
     content: Hoe wekken we onze energie op in de wereld van morgen? Geen
       kolencentrales, geen greenwashing zoals met biomassacentrales, maar échte
@@ -19,10 +20,11 @@ blocks:
       hun hoogstaande, Hollandse panelen, in het zonnetje te zetten.
     displaymedia: custom_video
     image:
-      source: https://video.philenflo.nl/video/Huis-zonnepanelen-drone-shot.mp4
+      source: ""
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Elton-drone.mp4
     align: left
     content: >-
       ## Elsun
@@ -31,5 +33,5 @@ blocks:
       Elsun, een dochteronderneming van Elton, maakt hoogwaardige zonnepanelen. Het unieke aan Elsun is dat de productie niet wordt uitbesteed, maar binnenshuis, in Nederland plaats vindt. Dit betekent een perfecte kwaliteitscontrole op een écht Nederlands topproduct.
     displaymedia: custom_video
     image:
-      source: https://video.philenflo.nl/video/Elton-drone.mp4
+      source: ""
 ---
