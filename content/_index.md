@@ -2,11 +2,12 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: "***Animatie - Video - Marketing***"
+    title: Wij verbeelden ***de wereld van morgen.***         ***Animatie - Video -
+      Marketing***
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
-    content: Wij verbeelden ***de wereld van morgen.***
+    content: ""
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
