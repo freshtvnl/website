@@ -20,42 +20,38 @@ blocks:
       ## Dit is de wereld van ***Phil & Flo***
 
 
-      Stel je eens de wereld van morgen voor...
+      Stel je eens een wereld voor, vol schone lucht en helder water. \
 
-      Vol schone lucht en schoon water.
+      Waar alle kinderen veilig naar [school](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) kunnen en waar elk mens toegang heeft tot de beste [zorg](https://www.philenflo.nl/branches/zorg-pharma/). \
 
-      Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg.
-
-
-      Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken;
+      De wereld van morgen.
 
 
-      Innovatieve Technologie, 
+      [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), \
 
-      zorg, 
+      [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), \
 
-      duurzame energie, 
+      [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),\
 
-      onderwijs,
+      [zorg](https://www.philenflo.nl/branches/zorg-pharma/),\
 
-      goede doelen en
+      [goede doelen](https://www.philenflo.nl/branches/goede-doelen/) \
 
-      fair food.
+      en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
 
-
-      Wat denk jij? [Vertel het ons](/contact/).
-
-      Zodat we samen de stappen kunnen zetten die nu nodig zijn.
-
-      Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie.
+      Samen met jou zetten we nu de stappen die nodig zijn.
 
 
-      In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s.
-
-      Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst.
+      Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s.
 
 
-      Wij zijn Phil & Flo, ***Wij verbeelden de wereld van morgen.***
+      Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
+
+
+      Wij zijn Phil & Flo
+
+
+      Wij verbeelden ***de wereld van morgen.***
   - type: collection_block
     collection: solutions
     number_of_items: 6
