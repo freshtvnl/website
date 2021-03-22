@@ -6,7 +6,7 @@ blocks:
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
-    content: ""
+    content: "***animatie | video | marketing***"
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
