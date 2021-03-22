@@ -2,7 +2,7 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: "***animatie | video | marketing***"
+    title: "***Animatie - Video - Marketing***"
     image:
       source: chris-abney-qlw70aoo8be-unsplash.jpg
       alt: Green
