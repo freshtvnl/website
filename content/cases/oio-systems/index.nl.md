@@ -81,4 +81,16 @@ blocks:
 
 
       Maar natuurlijk is een film breder inzetbaar dan alleen tijdens een klantoverleg. Zo maakten we een teaserfilm speciaal voor Linkedin. Zo kunnen ook nieuwe leads verzameld worden, en is adverteren via Linkedin maar ook Youtube binnen handbereik.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## ***Het resultaat*** spreekt voor zich
+
+
+      Een dag na oplevering bel ik met Gilbert & John, en hoor ik prachtig nieuws. De animatie heeft op de dag van oplevering direct geholpen een nieuwe klant binnen te halen. Een succes voor OIO Systems en voor ons een prachtige beloning voor onze samenwerking!
+    displaymedia: youtube_video
+    youtube:
+      id: cFqxwjucQn8
 ---
