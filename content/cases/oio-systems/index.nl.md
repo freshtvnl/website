@@ -58,4 +58,14 @@ blocks:
       De kunst zit hem in het samenspel tussen woord & beeld. Je hoeft bijvoorbeeld niet alles te benoemen, omdat je ook veel kan zien. OIO Systems gaf ons een mooie uitdaging!
     align: right
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Meedenken over ***het grotere geheel***
+
+
+      Om echt impact te maken moet je animatie onderdeel zijn van een bredere en goed uitgedachte marketingmix. We denken graag mee hoe onze films onderdeel kunnen zijn van jouw marketingplan. Zo vragen wij onze partners aan het begin van een samenwerking altijd het volgende: ‘’Wat is het doel van deze film?’’ En iets als “meer klanten binnenhalen” is dan niet voldoende voor ons. Wie gaat deze film kijken, en in welke fase gaat iemand deze film kijken? Dit zijn enkele belangrijke, basale vragen waar vanuit wij vertrekken. Voor OIO Systems dient de film allereerst als een ondersteunende tool voor het salesteam. Dit betekent dat tijdens een klantoverleg de film ingezet kan worden om de OIO put eenvoudig in één minuut uit te leggen. Dat scheelt een hoop onsmakelijke foto’s en geïmproviseerde abstracte tekeningen.
+    displaymedia: custom_video
 ---
