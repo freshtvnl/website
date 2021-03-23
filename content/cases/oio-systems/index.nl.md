@@ -15,7 +15,7 @@ blocks:
       source_mp4: ""
       source_webm: https://video.philenflo.nl/video/oio-1.webm
     title: OIO Systems 2D animatie
-    displaymedia: custom_video
+    displaymedia: youtube_video
     youtube:
       id: OQseyXGWWG4
 ---
