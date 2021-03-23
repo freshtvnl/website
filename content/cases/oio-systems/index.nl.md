@@ -100,4 +100,7 @@ blocks:
   - type: selectedreviews_block
     items:
       - -VoVn5xcW
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
