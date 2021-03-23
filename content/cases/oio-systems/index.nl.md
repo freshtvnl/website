@@ -45,4 +45,17 @@ blocks:
 
       Tijdens een uitgebreide videocall met Gilbert en John van OIO Systems, leerden we hoe de put werkt en waar deze toe dient. Gelukkig konden we op voorhand een fysiek exemplaar ontvangen, zodat Sophie, onze 2D-animator een goed beeld kon krijgen van de put. Hierdoor konden we de put precies nabouwen.
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/oio-2.webm
+    content: >-
+      ## Kort, maar krachtig!
+
+
+      De aandachtspanne van een gemiddelde kijker is kort. Daarom adviseren we om animaties en films zo kort en krachtig mogelijk te houden. Ons streven is dan ook om binnen één minuut te blijven. Hoe schets je nu de context, het probleem én de oplossing in één minuut?
+
+      De kunst zit hem in het samenspel tussen woord & beeld. Je hoeft bijvoorbeeld niet alles te benoemen, omdat je ook veel kan zien. OIO Systems gaf ons een mooie uitdaging!
+    align: right
+    displaymedia: custom_video
 ---
