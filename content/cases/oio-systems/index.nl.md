@@ -50,7 +50,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-1.mp4
     content: >-
-      ## Kort, maar krachtig!
+      ## ***Kort***, maar ***krachtig!***
 
 
       De aandachtspanne van een gemiddelde kijker is kort. Daarom adviseren we om animaties en films zo kort en krachtig mogelijk te houden. Ons streven is dan ook om binnen één minuut te blijven. Hoe schets je nu de context, het probleem én de oplossing in één minuut?
@@ -61,7 +61,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-5-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-5.mp4
     align: left
     content: >-
       ## Meedenken over ***het grotere geheel***
