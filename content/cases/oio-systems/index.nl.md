@@ -14,7 +14,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-5-Phil-en-Flo-website-source-h265.mp4
     title: OIO Systems 2D animatie
-    displaymedia: custom_video
+    displaymedia: youtube_video
     youtube:
       id: OQseyXGWWG4
 ---
