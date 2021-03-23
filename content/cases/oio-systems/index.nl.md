@@ -61,6 +61,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-5-Phil-en-Flo-website-source.mp4
     align: left
     content: >-
       ## Meedenken over ***het grotere geheel***
