@@ -93,4 +93,11 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: cFqxwjucQn8
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+  - type: selectedreviews_block
+    items:
+      - -VoVn5xcW
 ---
