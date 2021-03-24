@@ -12,7 +12,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
     title: "***Alles moet anders***"
     content: 2020 stond in het teken van corona. Ik en mijn collega’s hebben van
       dichtbij gezien hoe ondernemers, managers en hele organisaties worstelden
@@ -26,13 +26,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
       ## ***Samen tot de kern komen***
 
 
       In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een 360 graden film van hun school te laten maken. Een creatieve oplossing!
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
   - type: content_block
