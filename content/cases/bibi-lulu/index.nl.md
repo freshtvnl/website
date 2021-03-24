@@ -16,4 +16,15 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: mxDUAkq5ncI
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
