@@ -24,6 +24,13 @@ blocks:
     youtube:
       id: UNy6xjN1zsQ
     cta:
+      url: ""
+      text: ""
+      type: null
+  - type: content_block
+    video:
+      autoplay: true
+    cta:
       url: /contact/
       text: Contact opnemen
       type: button
