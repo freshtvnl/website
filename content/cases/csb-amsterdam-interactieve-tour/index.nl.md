@@ -136,6 +136,9 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-in-de-klas.jpg
+  - type: selectedreviews_block
+    items:
+      - h1st2mTUr
   - type: content_block
     video:
       autoplay: true
@@ -179,5 +182,6 @@ blocks:
       - 7VtuzLwVv
   - type: selectedreviews_block
     items:
-      - h1st2mTUr
+      - ChhgGJ8e3
+      - UauZEAq95
 ---
