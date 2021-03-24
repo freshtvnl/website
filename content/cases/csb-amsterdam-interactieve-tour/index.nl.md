@@ -141,6 +141,32 @@ blocks:
       Onze interactieve tours zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve tour kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, ***zonder dure investeringen.*** Ook kan je statistieken inzien, en zo effectieve elementen verder uitvergroten of minder presterende onderdelen aanpassen of wijzigen. Op deze manier garanderen wij dat onze interactieve films langdurig inzetbaar zijn, en een investering voor de toekomst.
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Wat vinden de ouders eigenlijk?***
+
+
+      *“Wat een fantastische rondleiding hebben jullie gemaakt, complimenten aan de leerlingen en team!”*
+
+
+      *“Super enthousiast geworden …
+
+      Chapeau voor de makers en medewerkers! Ziet er prachtig uit allemaal.”*
+
+
+      *“Mijn zoon vond het geweldig! En wij ook trouwens, super leuk gedaan, leuke kids, fijne docenten, kortom een hele prettige en sympathieke indruk! Zoon riep bij het zien van de sterrenkoepel al dat ie naar jullie school wil dus dat was alvast een goede binnenkomer ;-)”*
+
+
+      *“We hebben net met veel plezier naar de webinar gekeken en ook de virtuele tour gedaan. Vooral dat laatste heeft mijn zoon echt enthousiast gemaakt om meer van het CBS te willen zien. Hij komt graag naar één van de  lesjesmiddagen.”*
+
+
+      *“Er is een enorm verschil tussen de online informatie van de scholen, maar jullie hadden met vlag en wimpel het beste filmpje gemaakt. Vooral dat doorklikken werkte heel goed, maar ook de inhoud was goed en iedereen sprak spontaan/ natuurlijk en duidelijk (geluid was ook goed). Wat een werk zal daarin hebben gezeten. In zo'n rare tijd scholen zoeken is voor ouders en kinderen wel veel makkelijker met zo'n fijn filmpje.”*
+    displaymedia: image
+    image:
+      source: images/csb-interactieve-keuze.jpg
   - type: contact_block
     contacts:
       - 7VtuzLwVv
