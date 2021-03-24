@@ -63,25 +63,27 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-digitale-open-dag-film-Phil-en-Flo-Phil-en-Flo.mp4
     align: right
     content: >-
       ## ***Videovorm***
 
 
       Zoals genoemd was het initiële idee, een 360 graden film. Deze films kenmerken zich door de grote vrijheid die een kijker heeft. Je kan hele organisaties ‘doorlopen’ en bekijken en zelf je focus of invulling kiezen als kijker. Toch hebben wij het CSB sterk afgeraden voor deze oplossing te kiezen. Elk voordeel heeft zijn nadeel. Voor een 360 graden film is dat voordeel de ultieme vrijheid, en het bijbehorende nadeel de grip die je als regisseur verliest op wat een kijker ziet.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-interactieve-keuze.jpg
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-Film-met-keuzes-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
       ## ***Interactieve tour***
 
 
       Ons advies was daarom een interactieve tour door de school. In een een dergelijke tour kan de kijker zelf keuzes maken, maar houdt je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
-    displaymedia: iframe
+    displaymedia: custom_video
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
