@@ -36,6 +36,13 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
+  - type: selectedreviews_block
+    title: ""
+    items:
+      - vw-3pOoNC
+      - NgVGtMogs
+      - UzyOKwcrZ
+    more_items: false
   - type: content_block
     video:
       autoplay: true
@@ -167,12 +174,10 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-interactieve-keuze.jpg
-  - type: selectedreviews_block
-    title: ""
-    items:
-      - h1st2mTUr
-    more_items: false
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+  - type: selectedreviews_block
+    items:
+      - h1st2mTUr
 ---
