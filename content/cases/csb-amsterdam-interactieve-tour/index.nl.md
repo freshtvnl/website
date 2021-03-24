@@ -129,6 +129,18 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-in-de-klas.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    displaymedia: iframe
+    content: >-
+      ## ***Meetbaar***, ***aanpasbaar*** en ***duurzaam***
+
+
+      Onze interactieve tours zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve tour kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, ***zonder dure investeringen.*** Ook kan je statistieken inzien, en zo effectieve elementen verder uitvergroten of minder presterende onderdelen aanpassen of wijzigen. Op deze manier garanderen wij dat onze interactieve films langdurig inzetbaar zijn, en een investering voor de toekomst.
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: contact_block
     contacts:
       - 7VtuzLwVv
