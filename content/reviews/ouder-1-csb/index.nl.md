@@ -1,0 +1,11 @@
+---
+title: Ouder 1 CSB
+draft: false
+id: vw-3pOoNC
+quote:
+  content: Wat een fantastische rondleiding hebben jullie gemaakt, complimenten
+    aan de leerlingen en team!
+  auteur: Ouder van groep 8 leerling
+  company: CSB Amsterdam
+  stars: 5
+---
