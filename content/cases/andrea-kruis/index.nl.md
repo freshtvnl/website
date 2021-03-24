@@ -27,14 +27,4 @@ blocks:
       url: ""
       text: ""
       type: null
-  - type: content_block
-    video:
-      autoplay: true
-    cta:
-      url: /contact/
-      text: Contact opnemen
-      type: button
-  - type: contact_block
-    contacts:
-      - 2BVK9YvSq
 ---
