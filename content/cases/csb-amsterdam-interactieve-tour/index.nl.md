@@ -34,7 +34,7 @@ blocks:
       In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een 360 graden film van hun school te laten maken. Een creatieve oplossing!
     displaymedia: image
     image:
-      source: images/csb-kinderen-in-de-klas.jpg
+      source: images/csb-muziekles.jpg
   - type: content_block
     video:
       autoplay: true
@@ -46,17 +46,18 @@ blocks:
       Met dit idee in ons achterhoofd zijn we samen om tafel gegaan. Vanuit onze ervaring weten we dat het slim is om eerst samen naar de kern van het probleem te zoeken en deze samen te analyseren. Door stapsgewijs te werken, garanderen we dat onze films hun doel dienen.
     displaymedia: image
     image:
-      source: images/csb-in-de-klas.jpg
+      source: images/csb-kinderen-in-de-klas.jpg
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-interactieve-rondleiding-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
       ## Een open dag, ***maar dan anders***
 
 
       De open dag van het CSB Amsterdam kon helaas niet plaatsvinden in verband met de Covid-19 gerelateerde wetgeving. De open dagen spelen een essentiële rol voor de werving van nieuwe leerlingen voor de school. Het doel van een open dag is dan ook om een leerling te binden aan je school. Met dit inzicht werd het doel van de film duidelijk. Tijd om een videovorm te kiezen.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-poster.jpg
   - type: content_block
