@@ -18,7 +18,7 @@ blocks:
       dichtbij gezien hoe ondernemers, managers en hele organisaties worstelden
       met dezelfde uitdagingen op het gebied van communicatie. ‘’Hoe kom ik in
       contact met mijn doelgroep als fysieke ontmoetingen bijna niet mogelijk
-      zijn’’. Zo nam ook het CSB, een middelbare school in Amsterdam, contact
+      zijn.’’ Zo nam ook het CSB, een middelbare school in Amsterdam, contact
       met ons op.
     displaymedia: custom_video
     image:
