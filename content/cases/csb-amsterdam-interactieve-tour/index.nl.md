@@ -138,7 +138,8 @@ blocks:
       source: images/csb-in-de-klas.jpg
   - type: selectedreviews_block
     items:
-      - h1st2mTUr
+      - ChhgGJ8e3
+      - UauZEAq95
   - type: content_block
     video:
       autoplay: true
@@ -177,11 +178,10 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-interactieve-keuze.jpg
+  - type: selectedreviews_block
+    items:
+      - h1st2mTUr
   - type: contact_block
     contacts:
       - 7VtuzLwVv
-  - type: selectedreviews_block
-    items:
-      - ChhgGJ8e3
-      - UauZEAq95
 ---
