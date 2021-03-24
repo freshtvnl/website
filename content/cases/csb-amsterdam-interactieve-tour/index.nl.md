@@ -115,6 +115,20 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-poster.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Resultaten boeken*** met videocontent
+
+
+      De film spreekt voor zich zelf. Maar het resultaat houdt niet op bij een mooie film. Twee weken na oplevering neem ik contact op met Volkert, met de vraag: “Hoe gaat het?”
+
+      Volkert verteld dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig!
+    displaymedia: image
+    image:
+      source: images/csb-in-de-klas.jpg
   - type: contact_block
     contacts:
       - 7VtuzLwVv
