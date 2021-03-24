@@ -173,7 +173,7 @@ blocks:
       - sd8fPaxy9
       - -VoVn5xcW
       - dTTITHJ3N
-      - uBaLZSF6h
+    more_items: false
   - type: contact_block
     contacts:
       - 7VtuzLwVv
