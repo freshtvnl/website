@@ -100,9 +100,21 @@ blocks:
     image:
       source: images/csb-muziekles.jpg
     cta:
-      url: /contact/
-      text: Neem contact op
-      type: button
+      url: ""
+      text: ""
+      type: null
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## ***Effectieve videomarketing***
+
+
+      De inzet van de interactieve digitale tour, ging gepaard met een pakkende teaser voor de social mediakanalen en een nauw aansluitende poster met QR-code. Niet alleen een film dus, maar een compleet contentpakket om de impact te maken die nodig is. alle onderdelen zijn nauw op elkaar afgestemd, wat uniformiteit uitstraalt en daarmee merkbinding vergroot.
+    displaymedia: image
+    image:
+      source: images/csb-poster.jpg
   - type: contact_block
     contacts:
       - 7VtuzLwVv
