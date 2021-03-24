@@ -74,8 +74,9 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-1.mp4
     align: right
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: bkwOcU6i3go
     content: >-
@@ -86,14 +87,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-1.mp4
+      source_mp4: ""
     align: left
     content: >-
       ## ***Het resultaat*** spreekt voor zich
 
 
       Een dag na oplevering bel ik met Gilbert & John, en hoor ik prachtig nieuws. De animatie heeft op de dag van oplevering direct geholpen een nieuwe klant binnen te halen. Een succes voor OIO Systems en voor ons een prachtige beloning voor onze samenwerking!
-    displaymedia: custom_video
+    displaymedia: youtube_video
     youtube:
       id: cFqxwjucQn8
     cta:
