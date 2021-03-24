@@ -36,13 +36,6 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
-  - type: selectedreviews_block
-    title: ""
-    items:
-      - vw-3pOoNC
-      - NgVGtMogs
-      - UzyOKwcrZ
-    more_items: false
   - type: content_block
     video:
       autoplay: true
@@ -55,6 +48,13 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-kinderen-in-de-klas.jpg
+  - type: selectedreviews_block
+    title: ""
+    items:
+      - vw-3pOoNC
+      - NgVGtMogs
+      - UzyOKwcrZ
+    more_items: false
   - type: content_block
     video:
       autoplay: true
