@@ -37,18 +37,20 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-6.mp4
+      source_mp4: ""
     align: left
     content: >-
       ## ***Aan de slag***
 
 
       Tijdens een uitgebreide videocall met Gilbert en John van OIO Systems, leerden we hoe de put werkt en waar deze toe dient. Gelukkig konden we op voorhand een fysiek exemplaar ontvangen, zodat Sophie, onze 2D-animator een goed beeld kon krijgen van de put. Hierdoor konden we de put precies nabouwen.
-    displaymedia: custom_video
+    displaymedia: image
+    image:
+      source: images/210324-sophie-2d-animator-phil-en-flo.jpeg
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-1.mp4
+      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-6.mp4
     content: >-
       ## ***Kort***, maar ***krachtig!***
 
@@ -84,13 +86,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210322-OIO-Systems-2D-animatie-Phil-en-Flo-1.mp4
     align: left
     content: >-
       ## ***Het resultaat*** spreekt voor zich
 
 
       Een dag na oplevering bel ik met Gilbert & John, en hoor ik prachtig nieuws. De animatie heeft op de dag van oplevering direct geholpen een nieuwe klant binnen te halen. Een succes voor OIO Systems en voor ons een prachtige beloning voor onze samenwerking!
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: cFqxwjucQn8
     cta:
