@@ -168,11 +168,9 @@ blocks:
     image:
       source: images/csb-interactieve-keuze.jpg
   - type: selectedreviews_block
-    title: Wat vinden ouders?
+    title: ""
     items:
-      - sd8fPaxy9
-      - -VoVn5xcW
-      - dTTITHJ3N
+      - h1st2mTUr
     more_items: false
   - type: contact_block
     contacts:
