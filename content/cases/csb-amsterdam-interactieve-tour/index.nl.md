@@ -12,6 +12,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
     title: "***Alles moet anders***"
     content: 2020 stond in het teken van corona. Ik en mijn collega’s hebben van
       dichtbij gezien hoe ondernemers, managers en hele organisaties worstelden
@@ -19,7 +20,7 @@ blocks:
       contact met mijn doelgroep als fysieke ontmoetingen bijna niet mogelijk
       zijn’’. Zo nam ook het CSB, een middelbare school in Amsterdam, contact
       met ons op.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-interactieve-keuze.jpg
   - type: content_block
