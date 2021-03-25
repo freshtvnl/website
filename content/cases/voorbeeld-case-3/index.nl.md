@@ -25,17 +25,19 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Aan de slag***
+      ## Diamonds are made ***under pressure***
 
 
-      Ons team heeft zich direct verzameld en met onze drie animatoren, twee projectmanagers en een art director heeft het team van Phil & Flo deze commercial gerealiseerd. Met een 3D kamer, 2D muurschilderingen en sounddesign van onze externe soundengineer hebben we het verhaal van de kunstenaars weten te schetsen. De reacties op deze commercial waren lovend, en we zijn erg trots dat we dit binnen één week hebben geproduceerd en opgeleverd aan de publieke zenders.
-    displaymedia: youtube_video
+      Maandagochtend krijgen we een telefoontje voor een animatie die vijf dagen later op de NPO gedraaid mag worden. We gaan de uitdaging aan en besluiten ons gehele productieteam in te zetten om de deadline te halen. We hebben als animatieteam ook een eigen subdoel. We willen laten zien hoe 2D- en 3D animatie elkaar kunnen versterken. Aan de slag!
+    displaymedia: custom_video
     youtube:
       id: 8tKtbeTsmfQ
     cta:
       url: /contact/
       text: Neem contact op
       type: button
+    video:
+      source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
   - type: contact_block
     contacts:
       - 2BVK9YvSq
