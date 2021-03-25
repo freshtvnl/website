@@ -49,6 +49,17 @@ blocks:
       Om op korte termijn een 3D animatie op te leveren, is een goede workflow van belang. We beginnen met een analogie als thema: een witte, kale ruimte die we vullen met kleurrijke kunst. Vervolgens gaan verschillende animatoren aan de slag met specifieke onderdelen zoals de kamer zelf, maar ook 2D- kunst en schilderijen. Tegelijkertijd wordt het script geschreven in lijn met het gekozen thema. Naarmate de week vordert en de deadline nadert, wordt de eerst zo kale ruimte steeds kleurrijker.
     align: right
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
+    align: left
+    content: >-
+      ## ***Samenspel tussen zintuigen***
+
+
+      Zorgvuldig kiezen we muziek die aansluit bij de opbouw van het verhaal dat we vertellen. Met soundeffects zoals bijvoorbeeld de voetstappen, brengen we de kamer en de kunst tot leven. We bouwen het beeld op van een kale ruimte naar een ruimte vol kunst, en een explosie aan kleuren.
+    displaymedia: custom_video
   - type: contact_block
     contacts:
       - mayhQD07h
