@@ -78,7 +78,7 @@ blocks:
       ## ***Videovorm***
 
 
-      Zoals genoemd was het initiële idee, een 360 graden film. Deze films kenmerken zich door de grote vrijheid die een kijker heeft. Je kan hele organisaties ‘doorlopen’ en bekijken en zelf je focus of invulling kiezen als kijker. Toch hebben wij het CSB sterk afgeraden voor deze oplossing te kiezen. Elk voordeel heeft zijn nadeel. Voor een 360 graden film is dat voordeel de ultieme vrijheid, en het bijbehorende nadeel de grip die je als regisseur verliest op wat een kijker ziet.
+      Zoals genoemd was het initiële idee, een 360 graden film. Deze films kenmerken zich door de grote vrijheid die een kijker heeft. Je kan hele organisaties ‘doorlopen’ en bekijken en zelf je focus of invulling kiezen als kijker. Toch hebben wij het CSB sterk afgeraden voor deze oplossing te kiezen. Elk voordeel heeft zijn nadeel. Voor een 360 graden film is het voordeel de ultieme vrijheid voor de kijker. Het nadeel is de grip die je als regisseur verliest. Je kan een kijker minder goed sturen.
     displaymedia: custom_video
     image:
       source: images/csb-interactieve-keuze.jpg
@@ -91,7 +91,7 @@ blocks:
       ## ***Interactieve tour***
 
 
-      Ons advies was daarom een interactieve tour door de school. In een een dergelijke tour kan de kijker zelf keuzes maken, maar houdt je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
+      Ons advies was daarom een interactieve tour door de school. In een een dergelijke tour kan de kijker zelf keuzes maken, maar houd je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
     displaymedia: custom_video
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
@@ -119,7 +119,7 @@ blocks:
       ## ***Effectieve videomarketing***
 
 
-      De inzet van de interactieve digitale tour, ging gepaard met een pakkende teaser voor de social mediakanalen en een nauw aansluitende poster met QR-code. Niet alleen een film dus, maar een compleet contentpakket om de impact te maken die nodig is. alle onderdelen zijn nauw op elkaar afgestemd, wat uniformiteit uitstraalt en daarmee merkbinding vergroot.
+      De inzet van de interactieve digitale tour, ging gepaard met een pakkende teaser voor de social mediakanalen en een nauw aansluitende poster met QR-code. Niet alleen een film dus, maar een compleet contentpakket om de impact te maken die nodig is. Alle onderdelen zijn nauw op elkaar afgestemd, wat uniformiteit uitstraalt en daarmee merkbinding vergroot.
     displaymedia: image
     image:
       source: images/csb-poster.jpg
@@ -134,7 +134,7 @@ blocks:
 
       De film spreekt voor zich zelf. Maar het resultaat houdt niet op bij een mooie film. Twee weken na oplevering neem ik contact op met Volkert, met de vraag: “Hoe gaat het?”
 
-      Volkert verteld dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig!
+      Volkert vertelt dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig!
     displaymedia: custom_video
     image:
       source: images/csb-in-de-klas.jpg
