@@ -33,11 +33,12 @@ blocks:
     youtube:
       id: 8tKtbeTsmfQ
     cta:
-      url: /contact/
-      text: Neem contact op
-      type: button
+      url: ""
+      text: ""
+      type: null
     video:
       source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
+      autoplay: true
   - type: content_block
     video:
       autoplay: true
