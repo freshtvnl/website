@@ -126,6 +126,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB%20Video%20tour%20school%20-%20Phil%20en%20Flo.mp4
     align: right
     content: >-
       ## ***Resultaten boeken*** met videocontent
@@ -134,7 +135,7 @@ blocks:
       De film spreekt voor zich zelf. Maar het resultaat houdt niet op bij een mooie film. Twee weken na oplevering neem ik contact op met Volkert, met de vraag: “Hoe gaat het?”
 
       Volkert verteld dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig!
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-in-de-klas.jpg
   - type: content_block
