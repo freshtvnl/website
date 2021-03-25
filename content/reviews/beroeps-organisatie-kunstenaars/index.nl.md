@@ -10,5 +10,5 @@ quote:
     uitstekend vertaald in creativiteit. Er waren weinig woorden voor nodig om
     te enthousiasmeren. BOKNET.nl
   functie: Voorzitter
-  company: Stichting Beroepsorganisatie Kunstenaars (BOK)
+  company: Beroepsorganisatie Kunstenaars (BOK)
 ---
