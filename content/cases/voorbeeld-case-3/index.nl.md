@@ -6,21 +6,22 @@ id: DG0aSzvMj
 image:
   source: images/goede-doelen-boknet-phil-en-flo-3d-commercial.jpg
   alt: ""
+content_type: case
 color: red
 branch: 7P41lTMjs
-content_type: case
 blocks:
   - type: hero_block
-    title: "***Beroeps Organisatie Kunstenaars*** – 3D Animatie"
+    title: "***Beroeps Organisatie Kunstenaars – 3D Animatie***"
     displaymedia: custom_video
-    content: Maak binnen één week een opvallende gave [commercial
-      ](https://www.philenflo.nl/commercial-laten-maken/)voor een organisatie
-      die het tijdens de Covid pandemie erg zwaar had. Gratis zendtijd op de
-      publieke zenders werd beschikbaar gesteld en nu de commercial zelf nog.
+    content: Begin 2020 belt Henk Hofstra ons op met het verzoek voor een animatie.
+      Beroeps Organisatie Kunstenaars (BOK) heeft gratis zendtijd gekregen om op
+      de publieke omroep aandacht te vragen voor kunstenaars in coronatijd. Met
+      ons team vol kunstenaars en liefhebbers gaan we de uitdaging aan, en
+      besluiten we alles uit de kast te trekken in de vorm van een 3D animatie.
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
-      source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
+      source_mp4: https://video.philenflo.nl/video/210325%20Boknet%203D%20kunst%20-%20Phil%20en%20Flo%20animaties.mp4
+      source_webm: ""
   - type: content_block
     align: left
     content: >-
