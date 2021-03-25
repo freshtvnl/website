@@ -60,6 +60,18 @@ blocks:
 
       Zorgvuldig kiezen we muziek die aansluit bij de opbouw van het verhaal dat we vertellen. Met soundeffects zoals bijvoorbeeld de voetstappen, brengen we de kamer en de kunst tot leven. We bouwen het beeld op van een kale ruimte naar een ruimte vol kunst, en een explosie aan kleuren.
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***NPO & Boknet.nl***
+
+
+      Na vier dagen zwoegen is de animatie af en wordt deze gemasterd door onze audio-expert. Dit zorgt voor een perfecte balans tussen muziek, stem en soundeffects. Na deze finishing touch is de animatie klaar om gedeeld te worden op de Publiek Omroep. Een dag na de première op TV belt Henk ons enthousiast op om de eerste positieve reacties met ons te delen. Wat blijkt? De kunstenaars vinden elkaar!
+    displaymedia: youtube_video
+    youtube:
+      id: 8tKtbeTsmfQ
   - type: contact_block
     contacts:
       - mayhQD07h
