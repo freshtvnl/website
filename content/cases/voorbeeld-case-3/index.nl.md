@@ -38,9 +38,21 @@ blocks:
       type: button
     video:
       source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210324%20Boknet%20-%20Phil%20en%20Flo%20creative%20studio.mp4
+    content: >-
+      ## ***Workflow***
+
+
+      Om op korte termijn een 3D animatie op te leveren, is een goede workflow van belang. We beginnen met een analogie als thema: een witte, kale ruimte die we vullen met kleurrijke kunst. Vervolgens gaan verschillende animatoren aan de slag met specifieke onderdelen zoals de kamer zelf, maar ook 2D- kunst en schilderijen. Tegelijkertijd wordt het script geschreven in lijn met het gekozen thema. Naarmate de week vordert en de deadline nadert, wordt de eerst zo kale ruimte steeds kleurrijker.
+    align: right
+    displaymedia: custom_video
   - type: contact_block
     contacts:
-      - 2BVK9YvSq
+      - mayhQD07h
+    content: ""
 seo:
   title: Beroeps Organisatie Kunstenaars - 3D Animatie - Phil & Flo Videomarketing
   description: Speciaal voor Boknet hebben we deze 3D animatie gemaakt. Als
