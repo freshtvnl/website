@@ -39,13 +39,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-%20School%20video%20Phil%20en%20Flo.mp4
     align: right
     content: >-
       ## ***Stapsgewijs werken***
 
 
       Met dit idee in ons achterhoofd zijn we samen om tafel gegaan. Vanuit onze ervaring weten we dat het slim is om eerst samen naar de kern van het probleem te zoeken en deze samen te analyseren. Door stapsgewijs te werken, garanderen we dat onze films hun doel dienen.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/csb-kinderen-in-de-klas.jpg
   - type: selectedreviews_block
