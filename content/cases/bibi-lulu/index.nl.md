@@ -26,12 +26,17 @@ blocks:
       text: Contact opnemen
       type: button
     content: >-
-      ## ***Breng een verhaal tot leven***
+      ## ***Breng een verhaal tot leven met 2D***
 
 
-      Patty Brard en haar team namen contact met ons op voor een promotievideo. Niet voor een TV programma, maar voor Patty's nieuwe kinderboek. Bibi & Lulu, de avonturen van twee doldwaze honden. Na een leuke creatieve sessie waarin we alles leerden over het boek en natuurlijk de hondjes zelf, gingen we aan de slag. Aan de hand van het boek en de daarin beschreven karakteristieken van de honden brachten we Bibi & Lulu tot leven in een 2D animatie. Een kort, leuk en zeer creatief project!
+      Patty Brard en haar team namen contact met ons op voor een promotievideo. Niet voor een TV programma, maar voor Patty's nieuwe kinderboek. Bibi & Lulu, de avonturen van twee doldwaze honden. Na een leuke creatieve sessie waarin we alles leerden over het boek en natuurlijk de hondjes zelf, gingen we aan de slag. Aan de hand van het boek en de daarin beschreven karakteristieken van de honden brachten we Bibi & Lulu tot leven in een [2D animatie](https://www.philenflo.nl/2d-animatie/). Een kort, leuk en zeer creatief project!
     form: ""
   - type: contact_block
     contacts:
       - HZCh75c-T
+seo:
+  title: 2D animatie voor Bibi & Lulu | Case | Phil & Flo
+  description: De wereld van Bibi & Lulu verbeeld door Phil & Flo | Ontdek hier
+    een leuke 2D animatie voor het boek van Patty Brad. De mogelijkheden van
+    animatie.
 ---
