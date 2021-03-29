@@ -21,7 +21,8 @@ blocks:
     content: Klimaatverandering raakt onze samenleving op allerlei vlakken. Ook in
       Nederland worden droge en natte periodes steeds langduriger en heftiger.
       Dit leidt onder andere tot overbelaste riolen, maar bijvoorbeeld ook
-      stankproblemen. Misschien niet het meest sexy onderwerp voor een animatie,
+      stankproblemen. Misschien niet het meest sexy onderwerp voor een
+      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/),
       maar wel leerzaam en zeker belangrijk!
   - type: content_block
     video:
@@ -43,7 +44,7 @@ blocks:
       ## ***Aan de slag***
 
 
-      Tijdens een uitgebreide videocall met Gilbert en John van OIO Systems, leerden we hoe de put werkt en waar deze toe dient. Gelukkig konden we op voorhand een fysiek exemplaar ontvangen, zodat Sophie, onze 2D-animator een goed beeld kon krijgen van de put. Hierdoor konden we de put precies nabouwen.
+      Tijdens een uitgebreide videocall met Gilbert en John van OIO Systems, leerden we hoe de put werkt en waar deze toe dient. Gelukkig konden we op voorhand een fysiek exemplaar ontvangen, zodat Sophie, onze [2D-animator](https://www.philenflo.nl/2d-animatie/) een goed beeld kon krijgen van de put. Hierdoor konden we de put precies nabouwen.
     displaymedia: image
     image:
       source: images/210324-sophie-2d-animator-phil-en-flo.jpeg
@@ -83,7 +84,7 @@ blocks:
       ## ***Breed inzetbaar***
 
 
-      Maar natuurlijk is een film breder inzetbaar dan alleen tijdens een klantoverleg. Zo maakten we een teaserfilm speciaal voor Linkedin. Zo kunnen ook nieuwe leads verzameld worden, en is adverteren via Linkedin maar ook Youtube binnen handbereik.
+      Maar natuurlijk is een film breder inzetbaar dan alleen tijdens een klantoverleg. Zo maakten we een teaserfilm speciaal voor Linkedin. Zo kunnen ook nieuwe leads verzameld worden, en is adverteren via Linkedin maar ook [Youtube](https://www.philenflo.nl/youtube-marketing/) binnen handbereik.
   - type: content_block
     video:
       autoplay: true
@@ -107,4 +108,8 @@ blocks:
   - type: contact_block
     contacts:
       - HZCh75c-T
+seo:
+  title: "2D animatie voor OIO systems | Case | Phil & Flo "
+  description: Een systeem voor morgen verbeeld in een 2D animatie | Phil & Flo
+    maakte een unieke animatie voor OIO systems. Ontdek het hier.
 ---
