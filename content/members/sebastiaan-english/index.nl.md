@@ -1,6 +1,7 @@
 ---
 title: Sebastian
 slug: Sebastian
+weight: 0
 draft: false
 id: SuvmI3S6V
 image:
