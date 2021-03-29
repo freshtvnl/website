@@ -39,11 +39,11 @@ blocks:
 
       * Banner videos to welcome visitors to your website
 
-        A one minute explanimation in which your mascot explains your product or service
+      * A one minute explanimation in which your mascot explains your product or service
 
-        Five second pre-roll animations for online advertising
+      * Five second pre-roll animations for online advertising
 
-        Cartoon animation story starring your mascot
+      * Cartoon animation story starring your mascot
     displaymedia: custom_video
     align: right
   - type: content_block
@@ -73,7 +73,7 @@ blocks:
       ## ***More than just an animation***
 
 
-      Besides being experts in animation, we also offer interactive leaflets and tours. Wondering what that is? Check one of our portfolio examples on the right. Interactive leaflets let you combine text, audio, video and animation to tell your brand's story. The sky's the limit!
+      Besides being experts in animation, we also offer interactive leaflets and tours. Wondering what that is? Check one of our portfolio examples on the left. Interactive leaflets let you combine text, audio, video and animation to tell your brand's story. The sky's the limit!
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
