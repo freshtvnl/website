@@ -27,4 +27,9 @@ blocks:
       url: ""
       text: ""
       type: null
+seo:
+  description: "Een 2D animatie voor Andrea Kruis | Ontdek hier het eindresultaat
+    van een unieke animatie op maat | Phil & Flo verbeelden de wereld van
+    morgen. "
+  title: 2D animatie Andrea Kruis | Case | Phil & Flo
 ---
