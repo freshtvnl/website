@@ -91,7 +91,7 @@ blocks:
       If you share our vision, and believe in the power of animation, then we would love to get in touch and discuss what we could do for you.
 
 
-      [Check out more of our portfolio work on Youtube!](https://youtube.com/playlist?list=PLatE6PHsiOY_IkzqgM3lfYtWusrgUq9FH)
+      [Check out more of our portfolio work on Youtube!](https://www.youtube.com/playlist?list=PLatE6PHsiOY_IkzqgM3lfYtWusrgUq9FH_blank)
     displaymedia: youtube_video
     form: ""
     youtube:
