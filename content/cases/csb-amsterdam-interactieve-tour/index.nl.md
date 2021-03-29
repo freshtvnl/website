@@ -32,7 +32,7 @@ blocks:
       ## ***Samen tot de kern komen***
 
 
-      In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een 360 graden film van hun school te laten maken. Een creatieve oplossing!
+      In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een [360 graden film](https://www.philenflo.nl/360-graden-video-laten-maken/) van hun school te laten maken. Een creatieve oplossing!
     displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
@@ -91,7 +91,7 @@ blocks:
       ## ***Interactieve tour***
 
 
-      Ons advies was daarom een interactieve tour door de school. In een een dergelijke tour kan de kijker zelf keuzes maken, maar houd je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
+      Ons advies was daarom een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) tour door de school. In een dergelijke tour kan de kijker zelf keuzes maken, maar houd je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
     displaymedia: custom_video
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
@@ -158,4 +158,8 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+seo:
+  description: "De wereld van school van morgen verbeelden met een interactieve
+    video voor CBS Amsterdam. Ontdek hier onze video. | Case | Phil & Flo "
+  title: Interactieve video voor CBS Amsterdam | Phil & Flo
 ---
