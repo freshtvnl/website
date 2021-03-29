@@ -1,6 +1,7 @@
 ---
 title: Peter
 slug: Peter de Graaf
+weight: 2
 draft: false
 id: PZcCTyF1B
 image:
