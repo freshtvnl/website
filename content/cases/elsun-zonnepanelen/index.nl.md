@@ -88,7 +88,7 @@ blocks:
     contacts:
       - 7VtuzLwVv
 seo:
-  title: 3D animatie voor Elsun Zonnepanelen | Phil & Flo | Case
-  description: Unieke 3D animatie voor Elsun zonnepanelen | Case | Wij verbeelden
+  title: Promotiefilm voor Elsun Zonnepanelen | Phil & Flo | Case
+  description: Unieke promotiefilm voor Elsun zonnepanelen | Case | Wij verbeelden
     de wereld van morgen | Phil & Flo
 ---
