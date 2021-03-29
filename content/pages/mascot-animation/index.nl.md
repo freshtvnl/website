@@ -92,7 +92,7 @@ blocks:
     displaymedia: youtube_video
     form: ""
     youtube:
-      id: sBEuMH-Fjo4
+      id: yA8xUdc4Obg
   - type: contact_block
     contacts:
       - SuvmI3S6V
