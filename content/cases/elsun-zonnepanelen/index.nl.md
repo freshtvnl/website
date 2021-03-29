@@ -43,7 +43,7 @@ blocks:
       ## ***Waarom een film?***
 
 
-      Zonnepanelen kunnen we tot op detail namaken in een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/). We kunnen zelfs een hele stad met zonnepanelen animeren. Maar als een product zich zo goed leent voor een film, dan is het zonde om niet de reflectie van een Drentse lentezon op een zonnepaneel te komen filmen. De hoeveelheid details, niet zo zeer in de techniek van een zonnepaneel, maar in de achtergrond van een filmshot dat is waardoor mensen aangegrepen worden. Iedereen houdt van de warme zon. Deze herkenbare warmte staat centraal in de film.
+      Zonnepanelen kunnen we tot op detail namaken in een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/). We kunnen zelfs een hele stad met zonnepanelen [animeren](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar als een product zich zo goed leent voor een film, dan is het zonde om niet de reflectie van een Drentse lentezon op een zonnepaneel te komen filmen. De hoeveelheid details, niet zo zeer in de techniek van een zonnepaneel, maar in de achtergrond van een filmshot dat is waardoor mensen aangegrepen worden. Iedereen houdt van de warme zon. Deze herkenbare warmte staat centraal in de film.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -76,7 +76,7 @@ blocks:
       ## ***Resultaat & oplevering***
 
 
-      Niet alleen wij van Phil & Flo maar ook Elsun is trots op onze coproductie. Een nauwe samenwerking geeft het mooiste resultaat en dat blijkt ook weer in dit project. De promotiefilm voor Elsun is opgeleverd inclusief ondertiteling, en een vijftal social media teasers. Deze teasers helpen onder andere om gefaseerd de content uit te rollen op social media en hiermee de impact van de film te vergroten. Op naar de wereld van morgen!
+      Niet alleen wij van Phil & Flo maar ook Elsun is trots op onze coproductie. Een nauwe samenwerking geeft het mooiste resultaat en dat blijkt ook weer in dit project. De [promotiefilm](https://www.philenflo.nl/productfilm/) voor Elsun is opgeleverd inclusief ondertiteling, en een vijftal social media teasers. Deze teasers helpen onder andere om gefaseerd de content uit te rollen op social media en hiermee de impact van de film te vergroten. Op naar de wereld van morgen!
     displaymedia: youtube_video
     youtube:
       id: pu3hceo-s2s
