@@ -1,6 +1,7 @@
 ---
 title: Victor
 slug: victor
+weight: 2
 draft: false
 id: kJ07QyNzs
 image:
