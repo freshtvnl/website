@@ -7,7 +7,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210329-Mascot-Animation-2D-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/2D%20Mascot%20Animation%20%20Accounting%20Seed.mp4
     title: "***Bring your mascot alive***"
     content: Bringing your mascot alive starts with a quality mascot suit. Perfect
       for your in- and outdoor events. But did you know you could also use your
@@ -29,7 +29,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/2D%20Mascot%20Animation%20%20Accounting%20Seed.mp4
+      source_mp4: https://video.philenflo.nl/video/210329-Mascot-Animation-2D-Phil-en-Flo.mp4
     content: >-
       ## ***What are the possibilities?***
 
@@ -46,6 +46,8 @@ blocks:
       * Cartoon animation story starring your mascot
     displaymedia: custom_video
     align: right
+    youtube:
+      id: ""
   - type: content_block
     video:
       autoplay: true
