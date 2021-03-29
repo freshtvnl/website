@@ -51,7 +51,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/2D%20Mascot%20Animated%20Strata%20Union.mp4
+      source_mp4: https://video.philenflo.nl/video/2D%20Animation%20mascot%20Strata%20Union.mp4
     content: >-
       ## Why ***Phil & Flo?***
 
