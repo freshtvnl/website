@@ -1,7 +1,7 @@
 ---
 title: Mascot Animation
 slug: Mascot Animation
-draft: true
+draft: false
 id: 5gbGxbaZ6
 blocks:
   - type: hero_block
