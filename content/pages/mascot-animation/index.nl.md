@@ -7,6 +7,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210329-Mascot-Animation-2D-Phil-en-Flo.mp4
     title: "***Bring your mascot alive***"
     content: Bringing your mascot alive starts with a quality mascot suit. Perfect
       for your in- and outdoor events. But did you know you could also use your
@@ -86,6 +87,11 @@ blocks:
 
 
       If you share our vision, and believe in the power of animation, then we would love to get in touch and discuss what we could do for you.
-    displaymedia: custom_video
-    form: 2nOvI3M4P
+    displaymedia: youtube_video
+    form: ""
+    youtube:
+      id: sBEuMH-Fjo4
+  - type: contact_block
+    contacts:
+      - SuvmI3S6V
 ---
