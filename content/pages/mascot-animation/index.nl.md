@@ -23,7 +23,7 @@ blocks:
 
 
       People tend to focus on what’s moving. That’s why you don’t use a cardboard cutout during live events but a custom made mascot. So why would you limit your website to images, if you could use video and animation content to draw attention to what’s important?
-    displaymedia: custom_video
+    displaymedia: image
     image:
       source: images/ben_helpingclients_onthephone_characterpose_promobearsusa1.jpg
   - type: content_block
