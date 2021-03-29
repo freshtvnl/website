@@ -1,6 +1,7 @@
 ---
 title: Suzan
 slug: suzan
+weight: 2
 draft: false
 id: Nc7XQAY2B
 image:
