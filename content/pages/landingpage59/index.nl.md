@@ -20,7 +20,7 @@ blocks:
       ## Animatie studio gezocht Den Haag
 
 
-      Wil je jezelf echt op de kaart zetten? Animaties zijn een sterke toevoeging aan je marketing, online content en sales tools. Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen. Wij werken graag met bedrijven, overheid en semi-overheid en zijn goed in zowel commerciële, zakelijke als educatieve animaties.
+      Wil je jezelf echt op de kaart zetten? [Animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zijn een sterke toevoeging aan je marketing, online content en sales tools. Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen. Wij werken graag met bedrijven, overheid, [scholen](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) en semi-overheid en zijn goed in zowel commerciële, zakelijke als educatieve animaties.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
