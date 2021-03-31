@@ -10,4 +10,6 @@ faq:
     het script naar een zo hoog mogelijk niveau te tillen. Indien we werken met
     schermopnames, dan mogen jullie deze zelf aanleveren, of wij maken deze voor
     jullie.
+seo:
+  noindex: true
 ---
