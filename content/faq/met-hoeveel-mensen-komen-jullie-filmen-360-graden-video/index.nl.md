@@ -10,4 +10,6 @@ faq:
     materiaal, waarbij de assistent hem ondersteund en helpt om de filmsets op
     en af te bouwen. Een lichtman is optioneel, afhankelijk van wat nodig is om
     jouw film te schieten.
+seo:
+  noindex: true
 ---
