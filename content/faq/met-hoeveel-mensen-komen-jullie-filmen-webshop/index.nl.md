@@ -4,4 +4,6 @@ draft: false
 id: vzY1sMc7Z
 faq:
   question: "Met hoeveel mensen komen jullie filmen? "
+seo:
+  noindex: true
 ---
