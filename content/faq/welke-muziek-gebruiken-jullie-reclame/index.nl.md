@@ -8,4 +8,6 @@ faq:
     Afhankelijk van jouw doelgroep, doelstellingen en wensen gaat onze
     projectmanager op pad om juist die soundtrack te kiezen die hier het beste
     op aansluit!
+seo:
+  noindex: true
 ---
