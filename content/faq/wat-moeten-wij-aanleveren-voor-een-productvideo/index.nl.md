@@ -7,4 +7,6 @@ faq:
   answer: Om jullie product op de juiste manier te presenteren is het handig als
     wij zoveel mogelijk over jullie product te weten krijgen. Verder kunnen we
     een film ook gewoon helemaal zelf maken!
+seo:
+  noindex: true
 ---
