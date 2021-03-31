@@ -8,4 +8,6 @@ faq:
     voor de commercial versies en maximaal 90 seconden voor animaties voor
     bestaande klanten van je.
   question: Wat is de beste lengte voor een animatie?
+seo:
+  noindex: true
 ---
