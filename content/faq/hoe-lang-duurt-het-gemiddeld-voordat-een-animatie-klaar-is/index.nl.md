@@ -7,4 +7,6 @@ faq:
   answer: De gemiddelde doorlooptijd van een animatie is één maand.
     Spoedopdrachten kunnen natuurlijk sneller worden opgeleverd en andere
     projecten vragen juist weer meer afstemming en dus meer tijd.
+seo:
+  noindex: true
 ---
