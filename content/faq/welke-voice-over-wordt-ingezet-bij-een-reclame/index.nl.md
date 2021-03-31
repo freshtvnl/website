@@ -8,4 +8,6 @@ faq:
     wat je met deze doelgroep wil en wie jullie zelf zijn gaat onze
     projectmanager de juiste stem hierbij vinden!
   question: "Welke voice over wordt ingezet bij een reclame? "
+seo:
+  noindex: true
 ---
