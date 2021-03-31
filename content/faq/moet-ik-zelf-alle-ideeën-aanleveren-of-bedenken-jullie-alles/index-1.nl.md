@@ -4,7 +4,9 @@ draft: false
 id: CiGF7tCTF
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
-  answer: Jullie eigen ideeën en inspiraties zijn welkom, maar niks moet. Wij
+  answer: Jullie eigen ideeën en inspiraties zijn welkom, maar niets moet. Wij
     kunnen alles zelf doen, maar het is jullie reclame dus zelf met ideeën komen
     mag!
+seo:
+  noindex: true
 ---
