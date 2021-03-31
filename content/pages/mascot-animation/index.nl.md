@@ -56,7 +56,7 @@ blocks:
       ## Why ***Phil & Flo?***
 
 
-      Phil & Flo specializes in 2D & 3D animation, and interactive video content. For over 15 years we have specialized in our field of work. We believe in a brighter future, with clean air, good health and education. To build towards this world we work together with a selection of organizations that share our vision. We focus on the following sectors:
+      Phil & Flo specializes in 2D & 3D animation, and interactive video content. For over 15 years we have specialized in our field of work. We believe in a brighter future, with clean air, good health and education. To build towards this future we work together with a selection of organizations that share our vision. We focus on the following sectors:
 
 
       * Innovative tech
