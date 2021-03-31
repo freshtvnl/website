@@ -11,4 +11,6 @@ faq:
     doorspreken. Heb je geen ideeën? Dan denkt ons team met creatievelingen
     graag met je mee!
   question: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles?
+seo:
+  noindex: true
 ---
