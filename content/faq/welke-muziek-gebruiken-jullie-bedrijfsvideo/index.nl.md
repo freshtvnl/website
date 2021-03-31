@@ -8,4 +8,6 @@ faq:
     muziek om voor jullie film in te zetten. Wil je een unieke, gecomponeerde
     sound track hebben om aan jouw bedrijf toe te voegen? Neem gerust contact op
     met ons en dan bespreken we de mogelijkheden!
+seo:
+  noindex: true
 ---
