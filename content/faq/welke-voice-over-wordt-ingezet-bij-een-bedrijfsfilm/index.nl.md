@@ -8,4 +8,6 @@ faq:
     het filmtraject bespreken we met jullie de mogelijkheden en aandachtspunten
     voor een goede voice-overstem. Vervolgens gaan we met jullie input op zoek
     naar de perfecte stem!
+seo:
+  noindex: true
 ---
