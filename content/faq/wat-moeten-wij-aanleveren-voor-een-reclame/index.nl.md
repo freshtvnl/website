@@ -4,4 +4,6 @@ draft: false
 id: ysW98qJre
 faq:
   question: "Wat moeten wij aanleveren voor een reclame? "
+seo:
+  noindex: true
 ---
