@@ -7,4 +7,6 @@ faq:
   answer: Per film kiezen we muziek uit onze digitale bibliotheek met duizenden
     tracks. Zo vinden we altijd een nummer, welke jouw film en boodschap
     versterkt!
+seo:
+  noindex: true
 ---
