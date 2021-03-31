@@ -9,4 +9,6 @@ faq:
     we tussentijds verwachtingen en mogelijkheden kortsluiten. Op deze manier
     zorgen wij dat onze conceptversie zo dicht mogelijk tegen een definitieve
     versie aanzit. "
+seo:
+  noindex: true
 ---
