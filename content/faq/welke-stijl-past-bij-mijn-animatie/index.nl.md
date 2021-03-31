@@ -7,4 +7,6 @@ faq:
   answer: "Zoveel mensen, zoveel wensen. Vanuit onze ervaring weten we vaak welke
     stijl goed kan werken voor jouw animatie. We kiezen samen met jou een stijl
     die zowel bij het merk of bedrijf als bij de beoogde doelgroep past. "
+seo:
+  noindex: true
 ---
