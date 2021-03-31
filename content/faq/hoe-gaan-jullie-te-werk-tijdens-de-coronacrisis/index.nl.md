@@ -12,4 +12,6 @@ faq:
     deze manier van werken is ons al eigen van voor de coronacrisis. Mocht je
     specifieke coronagerelateerde vragen hebben, dan kan je ons altijd bellen of
     het contactformulier invullen.
+seo:
+  noindex: true
 ---
