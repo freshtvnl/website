@@ -11,4 +11,6 @@ faq:
     ambassadeurs van het bedrijf en de persoonlijkheid van het bedrijf. Dit
     zorgt ervoor dat je niet alleen de juiste competenties in huis haalt, maar
     ook een goede DNA-match hebt met je nieuwe werknemers.'
+seo:
+  noindex: true
 ---
