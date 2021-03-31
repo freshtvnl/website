@@ -8,4 +8,6 @@ faq:
     over de locatie, eventuele routes, en het gewenste eindresultaat. Hierna
     nemen we contact met je op om ervoor te zorgen dat alle neuzen dezelfde kant
     op staan.
+seo:
+  noindex: true
 ---
