@@ -10,4 +10,6 @@ faq:
     voice-over stem. We maken dan één animatie in twee versies. In principe zien
     de klanten dezelfde animatie, maar de voice-over stem en eventuele tekst
     zijn vertaald.
+seo:
+  noindex: true
 ---
