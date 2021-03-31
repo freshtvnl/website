@@ -7,4 +7,6 @@ faq:
   answer: "De productietijd is afhankelijk van de complexiteit van de VR-omgeving.
     De gemiddelde is vier weken. Als je een strakke deadline hebt, gaan we
     uiteraard kijken of deze kunnen halen. "
+seo:
+  noindex: true
 ---
