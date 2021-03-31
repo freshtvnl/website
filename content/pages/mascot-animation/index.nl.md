@@ -25,7 +25,7 @@ blocks:
       People tend to focus on what’s moving. That’s why you don’t use a cardboard cutout during live events but a custom made mascot from Promo Bears. So why would you limit your website to images, if you could use video and animation content to draw attention to what’s important?
     displaymedia: image
     image:
-      source: images/2d-animation-partner-promo-bears.jpg
+      source: images/2d-animation-partner-promo-bears-1.jpg
   - type: content_block
     video:
       autoplay: true
