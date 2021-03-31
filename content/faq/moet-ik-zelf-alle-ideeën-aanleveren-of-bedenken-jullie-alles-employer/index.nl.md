@@ -7,4 +7,6 @@ faq:
   answer: Wat wij aanbieden is een volledige ontzorging van het realiseren van de
     film, maar inbreng, ideeën of een gewenste stijl vanuit jullie is altijd
     welkom!
+seo:
+  noindex: true
 ---
