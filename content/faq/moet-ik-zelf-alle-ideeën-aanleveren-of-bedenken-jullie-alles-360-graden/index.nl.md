@@ -11,4 +11,6 @@ faq:
     met ons te delen, zodat we deze tijdens de creatieve sessie kunnen
     doorspreken. Heb je geen ideeën? Dan denkt ons team met creatievelingen
     graag met je mee!
+seo:
+  noindex: true
 ---
