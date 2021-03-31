@@ -11,4 +11,6 @@ faq:
     liever met meerdere feedbackrondes werken, omwille van wat voor reden dan
     ook? Dan kan dit zeker! Je kunt dit aangeven bij onze consultant in het
     voortraject, en wordt dit in de offerte opgenomen.
+seo:
+  noindex: true
 ---
