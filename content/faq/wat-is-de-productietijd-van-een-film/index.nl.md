@@ -10,4 +10,6 @@ faq:
     betrokkenen. Denk hierbij aan het vinden van hoofdrolspelers, figuranten,
     locatie(s) en het samenkomen van deze drie op één draaidag.
   question: "Wat is de productietijd van een film? "
+seo:
+  noindex: true
 ---
