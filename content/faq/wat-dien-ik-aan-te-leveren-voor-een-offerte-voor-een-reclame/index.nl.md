@@ -7,4 +7,6 @@ faq:
   answer: Gelukkig niet veel! Het is ons werk om jou te ontzorgen van het
     realiseren van de reclame. Als jullie ideeën, voorbeelden, wensen of wat dan
     ook hebben, zijn deze altijd welkom.
+seo:
+  noindex: true
 ---
