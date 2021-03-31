@@ -8,4 +8,6 @@ faq:
     branding video? "
   answer: Naast je idee, ontvangen we graag zo uitgebreid mogelijke informatie
     over de locatie, eventuele routes, en het gewenste eindresultaat.
+seo:
+  noindex: true
 ---
