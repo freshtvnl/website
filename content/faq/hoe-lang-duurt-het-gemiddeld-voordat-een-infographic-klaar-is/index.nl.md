@@ -8,4 +8,6 @@ faq:
     altijd met je mee als het gaat om planningen, zodat we zo goed als mogelijk
     daar op kunnen aansluiten.
   question: "Hoe lang duurt het gemiddeld voordat een infographic klaar is? "
+seo:
+  noindex: true
 ---
