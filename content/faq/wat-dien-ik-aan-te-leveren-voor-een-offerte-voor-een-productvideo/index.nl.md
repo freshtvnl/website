@@ -7,4 +7,6 @@ faq:
   answer: Gelukkig niet veel! Natuurlijk is het handig om te weten over wat voor
     een product we het hebben en door wie dit wordt aangeboden. Aan de hand van
     deze informatie nemen we contact op en kunnen we een voorstel schrijven.
+seo:
+  noindex: true
 ---
