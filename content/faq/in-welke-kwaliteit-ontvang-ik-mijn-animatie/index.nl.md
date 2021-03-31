@@ -8,4 +8,6 @@ faq:
     hoogste kwaliteit volgens huidige normen. Uiteraard kunnen we de
     exportkwaliteit afstemmen met wat voor jouw doelgroep of afspeelapparaat het
     beste werkt.
+seo:
+  noindex: true
 ---
