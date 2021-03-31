@@ -55,4 +55,6 @@ faq:
     \r
 
     \r\n"
+seo:
+  noindex: true
 ---
