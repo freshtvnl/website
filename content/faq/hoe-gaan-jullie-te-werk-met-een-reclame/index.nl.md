@@ -4,4 +4,6 @@ draft: false
 id: oZyG-eagP
 faq:
   question: "Hoe gaan jullie te werk met een reclame? "
+seo:
+  noindex: true
 ---
