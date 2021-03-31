@@ -8,4 +8,6 @@ faq:
     De mate van complexiteit van een opdracht bepaald de daadwerkelijke
     doorlooptijd. We denken altijd mee in oplossingen om jouw doelstellingen te
     behalen!
+seo:
+  noindex: true
 ---
