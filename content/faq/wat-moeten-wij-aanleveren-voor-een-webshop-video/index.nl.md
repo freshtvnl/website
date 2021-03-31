@@ -6,4 +6,6 @@ image:
   alt: ""
 faq:
   question: "Wat moeten wij aanleveren voor een webshop video? "
+seo:
+  noindex: true
 ---
