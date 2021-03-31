@@ -6,4 +6,6 @@ faq:
   question: "In welke kwaliteit ontvang ik de reclame? "
   answer: "Al onze producties zijn standaard voorzien van de hoogst haalbare
     kwaliteit, dit is: 4K UHD."
+seo:
+  noindex: true
 ---
