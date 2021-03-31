@@ -7,4 +7,6 @@ faq:
   answer: Ons portfolio zit vol met succesvolle bedrijfsfilms voor allerlei
     branches. Op onze portfoliopagina kan je eenvoudig kiezen waar je
     voorbeelden voor zoekt.
+seo:
+  noindex: true
 ---
