@@ -7,4 +7,6 @@ faq:
   answer: Wij hanteren ten alle tijden de maatregelen die door onze overheid
     worden getroffen. We filmen met een aangepaste crew, op gepaste afstand, met
     eventuele aanvullende maatregelen.
+seo:
+  noindex: true
 ---
