@@ -9,4 +9,6 @@ faq:
     onze processen zo ingericht dat verwachtingen en mogelijkheden tussentijds
     kort worden gesloten. Zo komt de conceptversie zo dicht mogelijk tegen de
     definitieve versie aanzitten.
+seo:
+  noindex: true
 ---
