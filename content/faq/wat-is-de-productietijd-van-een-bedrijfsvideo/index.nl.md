@@ -8,4 +8,6 @@ faq:
     Afhankelijk van de opdracht, kan dit sneller of langer duren. We denken
     altijd mee in oplossingen, zodat onze producties zo goed als mogelijk
     aansluiten op jouw planning.
+seo:
+  noindex: true
 ---
