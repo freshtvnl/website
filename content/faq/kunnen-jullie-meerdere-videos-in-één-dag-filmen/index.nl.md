@@ -10,4 +10,6 @@ faq:
     bedrijfsfilm dan heb je al snel een volle draaidag nodig om een nette,
     duurzaam inzetbare film te schieten. Zo is jouw film meerdere jaren
     inzetbaar!
+seo:
+  noindex: true
 ---
