@@ -7,4 +7,6 @@ faq:
   answer: Absoluut, geef het aan en dan bespreken we hoe het inzetten van een film
     drone jouw reclame naar het volgende niveau gaat tillen! Bekijk hier een
     voorbeeld.
+seo:
+  noindex: true
 ---
