@@ -8,4 +8,6 @@ faq:
     consultants je graag een handje. Zij bespreken graag met jou, hoe we jouw
     doelen het best kunnen behalen.
   question: "Wat dien ik aan te leveren voor een offerte voor een instructie video? "
+seo:
+  noindex: true
 ---
