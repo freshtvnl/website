@@ -5,18 +5,19 @@ id: dD7nogK0Q
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
   alt: coornehr Lyceum film
+content_type: case
 color: yellow
 branch: q6TD9LMXU
-content_type: case
 blocks:
   - type: hero_block
     content: Het Coornhert Gymnasium moet net als elke middelbare school elk jaar de
       strijd aan gaan om leerlingen binnen te halen. Iets waarbij een staaltje
-      videomarketing goed kan helpen! Met deze uitdaging ging Phil & Flo aan de
-      slag. Doormiddel van een schoolbezoek en het stellen van de juiste vragen,
-      werd al snel het onderscheidend vermogen van het Coornhert duidelijk. Een
-      uniek roostersysteem en kleinschalig, veilig onderwijs. Dit was het
-      vertrekpunt voor onze samenwerking.
+      [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/)
+      goed kan helpen! Met deze uitdaging ging Phil & Flo aan de slag.
+      Doormiddel van een schoolbezoek en het stellen van de juiste vragen, werd
+      al snel het onderscheidend vermogen van het Coornhert duidelijk. Een uniek
+      roostersysteem en kleinschalig, veilig onderwijs. Dit was het vertrekpunt
+      voor onze samenwerking.
     title: "***Op zoek naar brugklassers***"
     displaymedia: custom_video
     video:
