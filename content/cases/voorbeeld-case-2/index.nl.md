@@ -6,9 +6,9 @@ id: fm2wFFmdb
 image:
   source: images/payconic-commercial.jpg
   alt: "Payconiq - Phil en Flo "
+content_type: case
 color: blue
 branch: YBLABQPne
-content_type: case
 blocks:
   - type: hero_block
     content: "Het gemak van online betalen: waar en wanneer je maar wilt. Geen
@@ -65,7 +65,7 @@ blocks:
 
       In het kader van duurzaamheid en schaalbaarheid is gebruik gemaakt van een voice-over. Dit zorgt ervoor dat de films van nieuwe voice-overs in andere talen kunnen worden voorzien, zonder dat er opnieuw gefilmd moet worden, omdat acteurs in beeld praten. Handig, want Payqonic heeft grote plannen. Ook buiten de Nederlandse grenzen!
 
-      Vanwege de internationale ambities, hebben we tijdens de filmopnames niet de applicatie maar een groen scherm gefilmd. Onze animatie-specialisten hebben hierdoor de mogelijkheid om de schermen naar wens in te vullen en op een later moment aan te passen. Bijvoorbeeld om de teksten in het scherm te vertalen van het Nederlands naar het Engels.
+      Vanwege de internationale ambities, hebben we tijdens de filmopnames niet de applicatie maar een groen scherm gefilmd. Onze [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)-specialisten hebben hierdoor de mogelijkheid om de schermen naar wens in te vullen en op een later moment aan te passen. Bijvoorbeeld om de teksten in het scherm te vertalen van het Nederlands naar het Engels.
     align: right
     displaymedia: image
     youtube:
