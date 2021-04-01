@@ -6,9 +6,9 @@ id: fm2wFFmdb
 image:
   source: images/duurzame-energie-dmt-biogas.jpg
   alt: ""
+content_type: case
 color: green
 branch: 0uhmsFFxS
-content_type: case
 blocks:
   - type: hero_block
     content: DMT Environmental Technologies haalt grondstoffen terug uit
@@ -78,7 +78,7 @@ blocks:
       ## ***Duurzaamheid***
 
 
-      DMT’s verzorgingsgebied is over heel de wereld. Voor DMT Environmental Technology is het dus van belang, dat ze de animaties op globaal niveau kunnen inzetten. De films zijn in zes talen vertaald (zie de Franse versie als voorbeeld) De films zijn duurzaam ingestoken, dat wil zeggen dat we alle tijdsgebonden elementen strategisch uit de film elimineren. Op deze manier zijn onze producties minimaal vijf jaar inzetbaar.
+      DMT’s verzorgingsgebied is over heel de wereld. Voor DMT Environmental Technology is het dus van belang, dat ze de [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) op globaal niveau kunnen inzetten. De films zijn in zes talen vertaald (zie de Franse versie als voorbeeld) De films zijn duurzaam ingestoken, dat wil zeggen dat we alle tijdsgebonden elementen strategisch uit de film elimineren. Op deze manier zijn onze producties minimaal vijf jaar inzetbaar.
     align: right
     displaymedia: youtube_video
     youtube:
