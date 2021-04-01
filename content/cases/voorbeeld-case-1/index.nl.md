@@ -6,17 +6,18 @@ id: sCR0-5I1N
 image:
   source: images/alfen-smart-charging-network-beauty.jpg
   alt: Alfen, Tesla model 3, charging infrastructure
+content_type: case
 color: green
 branch: 0uhmsFFxS
-content_type: case
 blocks:
   - type: hero_block
     title: "***Techniek verbeelden***"
-    content: Alfen heeft ons gevraagd om een animatie te produceren die inzichtelijk
-      maakt hoe de verschillende laadpalen voor elektrische auto's kunnen
-      communiceren en slim kunnen samen werken. Wij hebben een script uitgewerkt
-      de stijl en samen met Alfen bepaald wie de doelgroep is en wat hun mate
-      van kennis op dit gebied is.
+    content: Alfen heeft ons gevraagd om een
+      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) te
+      produceren die inzichtelijk maakt hoe de verschillende laadpalen voor
+      elektrische auto's kunnen communiceren en slim kunnen samen werken. Wij
+      hebben een script uitgewerkt de stijl en samen met Alfen bepaald wie de
+      doelgroep is en wat hun mate van kennis op dit gebied is.
     displaymedia: custom_video
     image:
       source: images/alfen-smart-charging-network-ao.jpg
@@ -30,7 +31,7 @@ blocks:
       ## ***Alfen kiest voor 3D animatie***
 
 
-      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een 3D animatie, dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
+      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/), dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
     displaymedia: image
     image:
       source: images/alfen-smart-charging-network-ao.jpg
