@@ -5,9 +5,9 @@ draft: false
 id: PjrENtcTF
 image:
   source: images/pra-animatie.jpg
+content_type: case
 color: pink
 branch: o0NtTZixr
-content_type: case
 blocks:
   - type: hero_block
     displaymedia: custom_video
@@ -57,7 +57,7 @@ blocks:
       ### Ervaring in ***video-testimonials***
 
 
-      Een animatie is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend [video-testimonials](https://www.philenflo.nl/video-testimonial/) gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
+      Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend [video-testimonials](https://www.philenflo.nl/video-testimonial/) gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
     displaymedia: youtube_video
     youtube:
       id: i1ljV8twDig
