@@ -5,9 +5,9 @@ draft: false
 id: n4r8BMAU_
 image:
   source: images/vertical-farming.jpg
+content_type: case
 color: blue
 branch: YBLABQPne
-content_type: case
 blocks:
   - type: hero_block
     title: "***Vertical Farming 3D animatie***"
@@ -55,7 +55,7 @@ blocks:
       ## ***Samen sterker in de marketingmix***
 
 
-      Het samen brengen en afstemmen van alle marketingvormen werkt versterkend en is daarom iets waar we altijd op inzetten! De 3D animatie is ingezet als onderdeel van een grotere rebranding. Om de inzet en herkenbaarheid van de KG Systems vertical farm nog verder te verbeteren, maakten we naast de animatie ook een strakke teaser om te delen op social media. Tot slot maakten we een prachtige still waarin de vertical farm en haar belangrijkste onderdelen worden uitgelicht. Ideaal voor op de nieuwe KG Systems website.
+      Het samen brengen en afstemmen van alle marketingvormen werkt versterkend en is daarom iets waar we altijd op inzetten! De [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) is ingezet als onderdeel van een grotere rebranding. Om de inzet en herkenbaarheid van de KG Systems vertical farm nog verder te verbeteren, maakten we naast de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) ook een strakke teaser om te delen op social media. Tot slot maakten we een prachtige still waarin de vertical farm en haar belangrijkste onderdelen worden uitgelicht. Ideaal voor op de nieuwe KG Systems website.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/201216-Blended-group-Teaser.mp4
