@@ -66,8 +66,19 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: ""
+      source_mp4: anZ7RA0fO1c
     align: left
+    content: >-
+      ## ***Het resultaat!***
+
+
+      Een goede samenwerking maakt of breekt een film. Door een goede samenwerking tussen ons als producent en de NOM als opdrachtgever konden we de innovatiefilm snel monteren en perfectioneren. Benieuwd naar het resultaat? Check de volledige inspiratiefilm hier →
+    displaymedia: youtube_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: ""
+    align: right
     content: >-
       ## ***Groeien begint hier!***
 
@@ -75,7 +86,7 @@ blocks:
       In feite is de NOM de spin in het web die ondernemers en bedrijven met elkaar in contact brengen. Dit vraagt om veelzijdige collega’s die zowel vakkennis als netwerkskills hebben. Om ook op dit vlak een nieuwe impuls te geven, maakten we voor de NOM vier korte employer branding films.
     displaymedia: youtube_video
     youtube:
-      id: anZ7RA0fO1c
+      id: ""
     cta:
       url: /contact/
       text: Contact opnemen
