@@ -1,7 +1,7 @@
 ---
 title: NOM Innovatiefilm
 slug: NOM Innovatiefilm
-draft: true
+draft: false
 id: jKb3xygge
 image:
   source: images/nom-innovatiefilm-phil-en-flo.jpg
