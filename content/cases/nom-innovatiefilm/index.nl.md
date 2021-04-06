@@ -88,7 +88,7 @@ blocks:
       In feite is de NOM de spin in het web die ondernemers en bedrijven met elkaar in contact brengen. Dit vraagt om veelzijdige collega’s die zowel vakkennis als netwerkskills hebben. Om ook op dit vlak een nieuwe impuls te geven, maakten we voor de NOM vier korte employer branding films.
     displaymedia: youtube_video
     youtube:
-      id: ""
+      id: AFDEYnTpMxU
     cta:
       url: /contact/
       text: Contact opnemen
