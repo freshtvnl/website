@@ -74,6 +74,8 @@ blocks:
 
       Een goede samenwerking maakt of breekt een film. Door een goede samenwerking tussen ons als producent en de NOM als opdrachtgever konden we de innovatiefilm snel monteren en perfectioneren. Benieuwd naar het resultaat? Check de volledige inspiratiefilm hier →
     displaymedia: youtube_video
+    youtube:
+      id: anZ7RA0fO1c
   - type: content_block
     video:
       autoplay: true
