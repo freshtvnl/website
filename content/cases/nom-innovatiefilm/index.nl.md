@@ -66,12 +66,21 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Innovatiefilm%20laten%20maken%20NOM%20-%20Phil%20en%20Flo.mp4
+      source_mp4: ""
     align: left
     content: >-
       ## ***Groeien begint hier!***
 
 
       In feite is de NOM de spin in het web die ondernemers en bedrijven met elkaar in contact brengen. Dit vraagt om veelzijdige collega’s die zowel vakkennis als netwerkskills hebben. Om ook op dit vlak een nieuwe impuls te geven, maakten we voor de NOM vier korte employer branding films.
-    displaymedia: custom_video
+    displaymedia: youtube_video
+    youtube:
+      id: anZ7RA0fO1c
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+  - type: contact_block
+    contacts:
+      - kJ07QyNzs
 ---
