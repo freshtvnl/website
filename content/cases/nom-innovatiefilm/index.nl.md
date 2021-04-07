@@ -6,8 +6,8 @@ id: jKb3xygge
 image:
   source: images/111111.jpg
 content_type: case
-color: blue
-branch: YBLABQPne
+color: green
+branch: 0uhmsFFxS
 blocks:
   - type: hero_block
     video:
