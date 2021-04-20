@@ -51,7 +51,7 @@ blocks:
       ## ***Inspireren*** om te ***innoveren***
 
 
-      Het doel van de inspiratiefilm is om ondernemers aan te zetten om te innoveren op het vlak van slimmer, duurzamer en gezonder ondernemen. Om de kijker te prikkelen interviewen we consultants van de NOM. Er is bewust gekozen om niet met een voice-over te werken, maar interviews te houden. Het herkenbaar in beeld brengen van de collega’s van de NOM, geeft een gezicht aan de organisatie en maakt het verhaal persoonlijker. Verder is de film aangekleed met allerlei sfeerbeelden die aansluiten op de vier trends.
+      Het doel van de inspiratiefilm is om ondernemers aan te zetten om te innoveren op het vlak van slimmer, duurzamer en gezonder ondernemen. Om de kijker te prikkelen interviewen we medewerkers van de NOM. Er is bewust gekozen om niet met een voice-over te werken, maar interviews te houden. Het herkenbaar in beeld brengen van de collega’s van de NOM, geeft een gezicht aan de organisatie en maakt het verhaal persoonlijker. Verder is de film aangekleed met allerlei sfeerbeelden die aansluiten op de vier trends.
     displaymedia: custom_video
   - type: content_block
     video:
