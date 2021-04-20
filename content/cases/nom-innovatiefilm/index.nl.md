@@ -97,4 +97,8 @@ blocks:
   - type: contact_block
     contacts:
       - kJ07QyNzs
+seo:
+  title: Innovatiefilm NOM | Phil & Flo | Portfolio
+  description: "Met de innovatiefilm voor NOM verbeeld Phil & Flo de wereld van
+    morgen. Bekijk hier een unieke film gemaakt door ons. "
 ---
