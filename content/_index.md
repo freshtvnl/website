@@ -12,8 +12,8 @@ blocks:
       *Animatie - Video - Marketing*
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/Gelukkig-en-Gezond-2021-gewenst-.mp4
-      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
+      autoplay: false
   - type: content_block
     align: center
     content: >-
