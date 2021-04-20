@@ -45,18 +45,21 @@ blocks:
 
       Wij werken elke dag aan een betere wereld. Waaronder het klimaat.
 
-      Elke dag kijken wij kritisch wat we kunnen verbeteren. Maar dit is wat we nu al doen:
+      Elke dag kijken wij kritisch wat we kunnen verbeteren. Dit is wat we nu al doen:
 
 
       \- Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via [Treesforall](<https://treesforall.nl/compenseer-co2](https://treesforall.nl/compenseer-co2/>).\
 
-      - Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via [Loyaltree](https://loyaltree.nl/).\
 
-      - Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.\
+      * Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via [Loyaltree](https://loyaltree.nl/).
 
-      - Onze relatiegeschenken zijn duurzaam, ECO en Maatschappelijk verantwoord <https://join-the-pipe.org/>\
+      * Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.
 
-      - Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
+      * Onze relatiegeschenken zijn duurzaam, ECO en Maatschappelijk verantwoord <https://join-the-pipe.org/>
+
+      * Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
+
+      * Wij doneren **1% van de omzet** per maand naar een goed doel die we met ons team uitkiezen. Donaties tot op heden: Het vergeten Kind, Stichting Vluchteling, Straatwijs...
 
 
       [](https://meewind.nl/fonds/energie-transitiefonds/)[](https://meewind.nl/fonds/zeewind-bestaande-parken/)Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
