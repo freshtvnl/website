@@ -3,9 +3,6 @@ title: Bedrijfsfilm Eindhoven
 slug: Bedrijfsfilm Eindhoven
 draft: false
 id: 4awsNMvv3d
-seo:
-  title: Bedrijfsfilm Eindhoven - Snel en Professioneel - Phil & Flo
-  description: Bedrijfsfilm laten maken in Eindhoven? De nummer 1 in succesvolle bedrijfsfilms in Eindhoven en omgeving. Bel ons direct voor afspraak ;)
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken in Eindhoven***"
@@ -13,9 +10,10 @@ blocks:
       genoemd. Het is dé hotspot voor technische bedrijven. Bedrijven die
       producten en diensten aanbieden die veelal lastig uit te leggen zijn in
       tekst en afbeeldingen. Wil jij toch graag overbrengen wat je te bieden
-      hebt? Een bedrijfsfilm is het perfecte middel. Hiermee vertel je pakkend
-      jouw verhaal in bewegend beeld. Bekijk hieronder een voorbeeld film ter
-      inspiratie."
+      hebt? Een
+      [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) is het
+      perfecte middel. Hiermee vertel je pakkend jouw verhaal in bewegend beeld.
+      Bekijk hieronder een voorbeeld film ter inspiratie."
     displaymedia: youtube_video
     youtube:
       id: 7m_gVdRs3oM
@@ -55,7 +53,7 @@ blocks:
       ## Zet je bedrijfsfilm ***effectief*** in
 
 
-      Een professionele film voor jouw bedrijf in Eindhoven is een mooi begin, maar hoe zorg je ervoor dat de juiste mensen hem nu ook daadwerkelijk onder ogen krijgen? Bij Phil & Flo hebben we veel ervaring met video marketingcampagnes. Van traditionele Ad campagnes op je website tot “organische” video’s op social media. Haal ons in huis en je film wordt zeker gezien. [](https://www.freshtv.nl/contact/)
+      Een professionele film voor jouw bedrijf in Eindhoven is een mooi begin, maar hoe zorg je ervoor dat de juiste mensen hem nu ook daadwerkelijk onder ogen krijgen? Bij Phil & Flo hebben we veel ervaring met [videomarketingcampagne](https://www.philenflo.nl/oplossingen/videomarketing/)campagnes. Van traditionele Ad campagnes op je website tot “organische” video’s op social media. Haal ons in huis en je film wordt zeker gezien. [](https://www.freshtv.nl/contact/)
     displaymedia: image
     image:
       source: images/inge-sophie-kopie.jpg
@@ -82,4 +80,8 @@ blocks:
       - 7VtuzLwVv
   - contacts:
       - Nc7XQAY2B
+seo:
+  title: Bedrijfsfilm Eindhoven - Snel en Professioneel - Phil & Flo
+  description: Bedrijfsfilm laten maken in Eindhoven? De nummer 1 in succesvolle
+    bedrijfsfilms in Eindhoven en omgeving. Bel ons direct voor afspraak.
 ---
