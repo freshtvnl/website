@@ -48,12 +48,11 @@ blocks:
       Elke dag kijken wij kritisch wat we kunnen verbeteren. Dit is wat we nu al doen:
 
 
-      \- Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via [Treesforall](<https://treesforall.nl/compenseer-co2](https://treesforall.nl/compenseer-co2/>).\
-
+      * Wij rijden elektrisch (groene stroom), huurauto’s compenseren we via [Treesforall](<https://treesforall.nl/compenseer-co2](https://treesforall.nl/compenseer-co2/>).
 
       * Wij verbruiken op onze kantoren groene stroom en gas. Wij compenseren dit (extra) via [Loyaltree](https://loyaltree.nl/).
 
-      * Wij zijn (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.
+      * Wij werken (bijna) paperless, het papier met ons drukwerk is ECO papier/ CO2 neutraal.
 
       * Onze relatiegeschenken zijn duurzaam, ECO en Maatschappelijk verantwoord <https://join-the-pipe.org/>
 
