@@ -5,7 +5,7 @@ blocks:
     title: Wij verbeelden ***de wereld van morgen.***
     image:
       source: phil-flo-animatie.jpg
-      alt: Green
+      alt: Phil en Flo
     content: |-
       
 
