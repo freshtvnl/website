@@ -4,7 +4,7 @@ blocks:
   - type: hero_block
     title: Wij verbeelden ***de wereld van morgen.***
     image:
-      source: chris-abney-qlw70aoo8be-unsplash.jpg
+      source: phil-flo-animatie.jpg
       alt: Green
     content: |-
       
@@ -73,4 +73,5 @@ seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
     van morgen. Bel ons nu voor advies 0852738331
+  image: phil-flo-animatie.jpg
 ---
