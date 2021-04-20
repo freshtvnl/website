@@ -43,15 +43,12 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
       autoplay: true
   - type: selectedreviews_block
-    title: reviews
+    title: Selectie van Google reviews
     items:
       - qRKCKxn9O
       - sd8fPaxy9
       - Wbe7UH8gH
     more_items: false
-  - type: content_block
-    align: center
-    content: ""
 seo:
   title: Contact gegevens Phil & Flo Videomarketing
   description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
