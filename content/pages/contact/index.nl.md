@@ -14,8 +14,6 @@ blocks:
   - type: content_block
     align: left
     content: |-
-      ## Neem ***contact*** op met onze studio.
-
       ***Groningen*** (Hoofdkantoor)\
       Oude-Boteringestraat 71\
       9712 GG Groningen
