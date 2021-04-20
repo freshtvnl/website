@@ -3,6 +3,8 @@ title: Phil & Flo animatie
 slug: phil en flo animatie
 draft: false
 id: JmvEw2a3D
+image:
+  source: images/phil-flo-animatie.jpg
 content_type: portfolio
 color: yellow
 branch: YBLABQPne
