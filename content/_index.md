@@ -73,7 +73,7 @@ blocks:
       autoplay: true
     form: p4IWp1tCH
     align: center
-    content: "***Nieuwsbrief ontvangen!***"
+    content: "## ***Nieuwsbrief ontvangen!***"
 id: xXIrpfv7c
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
