@@ -10,26 +10,12 @@ blocks:
     align: center
     content: "# ***Contact formulier***"
     form: 2nOvI3M4P
+    displaymedia: null
   - type: content_block
     align: left
-    content: "## Neem ***contact*** op met onze studio."
-    displaymedia: image
-    youtube:
-      image:
-        source: images/aron-sophie.jpg
-    form: ""
-    image:
-      source: images/aron-sophie.jpg
-  - type: selectedreviews_block
-    title: reviews
-    items:
-      - qRKCKxn9O
-      - sd8fPaxy9
-      - Wbe7UH8gH
-    more_items: false
-  - type: content_block
-    align: center
     content: |-
+      ## Neem ***contact*** op met onze studio.
+
       ***Groningen*** (Hoofdkantoor)\
       Oude-Boteringestraat 71\
       9712 GG Groningen
@@ -48,6 +34,26 @@ blocks:
 
       *Für unsere Deutsche Gäste:*\
       Impressum Deutschland: Direktor P. de Graaf / S. Abbas
+    displaymedia: custom_video
+    youtube:
+      image:
+        source: images/aron-sophie.jpg
+    form: ""
+    image:
+      source: images/aron-sophie.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
+      autoplay: true
+  - type: selectedreviews_block
+    title: reviews
+    items:
+      - qRKCKxn9O
+      - sd8fPaxy9
+      - Wbe7UH8gH
+    more_items: false
+  - type: content_block
+    align: center
+    content: ""
 seo:
   title: Contact gegevens Phil & Flo Videomarketing
   description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
