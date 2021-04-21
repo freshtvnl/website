@@ -52,7 +52,7 @@ blocks:
       Veel organisaties hebben in het verleden al video’s laten maken en willen niet opnieuw investeren in nieuwe video of animatie. Met de interactieve video oplossingen van Phil & Flo hoeft dat ook niet, wij kunnen bestaande video’s interactief maken zodat ze een nieuw jasje krijgen en weer jaren meekunnen.
 
 
-      Geef dus je animatiefilm of bedrijfsfilm een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
+      Geef dus je [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/c86BN00W3mbz78Be
