@@ -41,7 +41,7 @@ blocks:
       ## ***Uitvoering***
 
 
-      Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte video zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
+      Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte [productvideo](https://www.philenflo.nl/3d-productvideo/) zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
     displaymedia: youtube_video
     youtube:
       id: -8n5l374t2Q
@@ -77,7 +77,7 @@ blocks:
       ## ***Resultaat***
 
 
-      De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, YouTube en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
+      De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
     align: left
     image:
       source: ""
