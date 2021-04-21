@@ -61,9 +61,9 @@ blocks:
       We hebben al vele Wervingsvideo’s geproduceerd voor verschillende branches:
 
 
-      * IT
+      * [IT](https://www.philenflo.nl/branches/innovatieve-tech/)
 
-      * Zorg
+      * [Zorg](https://www.philenflo.nl/branches/zorg-pharma/)
 
       * Retail
 
@@ -73,7 +73,7 @@ blocks:
 
       * Architectuur
 
-      * Duurzame Industrie
+      * [Duurzame Industrie](https://www.philenflo.nl/branches/duurzame-energie/)
     displaymedia: youtube_video
     image:
       source: images/peter-suzan-kopie.jpg
@@ -85,7 +85,7 @@ blocks:
       ## ***Verspreiding***
 
 
-      Jouw Wervingsvideo kan bij een goede videodistributie een grote hit worden onder jouw doelgroep op sociale media. Een aansprekende film wordt graag gedeeld en bereikt zo die talenten die je graag binnen wilt halen. Ook zoekmachines houden van video’s. Wij kunnen je adviseren over zoekmachineoptimalisatie in combinatie met wervingsvideo’s, zodat jullie bedrijfsvideo de hoge score krijgt die hij verdient.
+      Jouw Wervingsvideo kan bij een goede videodistributie een grote hit worden onder jouw doelgroep op sociale media. Een aansprekende film wordt graag gedeeld en bereikt zo die talenten die je graag binnen wilt halen. Ook zoekmachines houden van video’s. Wij kunnen je adviseren over zoekmachineoptimalisatie in combinatie met wervingsvideo’s, zodat jullie bedrijfsvideo of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) de hoge score krijgt die hij verdient.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
@@ -96,7 +96,7 @@ blocks:
       ## Vandaag nog meer weten over ***employer branding***?
 
 
-      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige [Employer branding video’s](https://www.philenflo.nl/oplossingen/employer-branding/) om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
+      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige [Employer branding video’s](https://www.philenflo.nl/oplossingen/employer-branding/) om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf!
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
@@ -110,7 +110,7 @@ blocks:
       - Nc7XQAY2B
 seo:
   title: Wervingsvideo video laten maken | Specialist Phil & Flo Videomarketing
-  description: vacatures open? Laat een Wervingsvideo maken door Phil & Flo
+  description: Vacatures open? Laat een Wervingsvideo maken door Phil & Flo
     Videomarketing > Nieuwe medewerkers werven met een authentieke film > Alle
     branches > Bel ons nu.
 ---
