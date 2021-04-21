@@ -27,7 +27,7 @@ blocks:
       ## ***Bedrijfsfilm***
 
 
-      Een bedrijfsfilm of corporate movie laten maken is een prachtige manier om je bedrijf met haar unieke visie te presenteren. We kijken samen met jou wat de doelen zijn van je organisatie en wat jullie voor de wereld van morgen betekenen. Lees hier meer over bedrijfsfilms.
+      Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of corporate movie laten maken is een prachtige manier om je bedrijf met haar unieke visie te presenteren. We kijken samen met jou wat de doelen zijn van je organisatie en wat jullie voor de wereld van morgen betekenen. Lees hier meer over bedrijfsfilms.
     displaymedia: custom_video
     image:
       source: ""
