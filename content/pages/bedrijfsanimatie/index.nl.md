@@ -23,7 +23,7 @@ blocks:
       ## ***Aantrekkelijke*** animaties
 
 
-      Productvideo’s, voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in 2D of 3D. Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
+      [Productvideo’s](https://www.philenflo.nl/productfilm/), voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in [2D](https://www.philenflo.nl/2d-animatie/) of [3D](https://www.philenflo.nl/3d-animatie-laten-maken/). Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
@@ -70,7 +70,7 @@ blocks:
       ## ***Perspectief***
 
 
-      Een [geanimeerde bedrijfsvideo](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
+      Een geanimeerde bedrijfsvideo maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
     displaymedia: custom_video
     video:
       autoplay: true
@@ -81,7 +81,7 @@ blocks:
       ## Vraag ons het hemd van het lijf
 
 
-      Aarzel niet om in contact met ons te komen en ons het hemd van het lijf te vragen over een bedrijfsanimatie. We hebben de oplossing voor jou communicatievraagstuk!
+      Aarzel niet om in contact met ons te komen en ons het hemd van het lijf te vragen over een bedrijfsanimatie. We hebben de oplossing voor jouw communicatievraagstuk!
     displaymedia: custom_video
     video:
       autoplay: true
