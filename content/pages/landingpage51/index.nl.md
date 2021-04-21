@@ -48,7 +48,7 @@ blocks:
       ## Een professioneel resultaat
 
 
-      Misschien zie je een beetje op tegen de kosten. Maar als je kiest voor een animatiefilm van mindere kwaliteit, loop je het risico dat je onprofessioneel overkomt, en daar knappen mensen vaak op af. Zo loop je dus het risico dat je, in plaats van je doelgroep te vergroten, deze juist verkleint en mensen afschrikt. Dat kost je uiteindelijk nog meer. Daarom kun je beter kiezen voor een professioneel bedrijf, zoals Phil & Flo. Wij hebben de ervaring en expertise om jouw wensen en eisen te begrijpen, maar we kunnen ons ook in de klant inleven. En we maken natuurlijk prachtige animaties 😉
+      Misschien zie je een beetje op tegen de kosten. Maar als je kiest voor een animatiefilm van mindere kwaliteit, loop je het risico dat je onprofessioneel overkomt en daar knappen mensen vaak op af. Zo loop je dus het risico dat je, in plaats van je doelgroep te vergroten, deze juist verkleint en mensen afschrikt. Dat kost je uiteindelijk nog meer. Daarom kun je beter kiezen voor een professioneel bedrijf, zoals Phil & Flo. Wij hebben de ervaring en expertise om jouw wensen en eisen te begrijpen, maar we kunnen ons ook in de klant inleven. En we maken natuurlijk prachtige animaties 😉
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -134,7 +134,7 @@ blocks:
       ## Ook een doeltreffende animatiefilm laten maken?
 
 
-      Wil je graag meer weten over wat voor animaties we allemaal maken, en welke daarvan jij zou kunnen gebruiken? Wij vertellen je er graag alles over. Of je nu op zoek bent naar een uitleganimatie, een bedrijfsfilm of je wilt graag meer weten over jouw kansen met videomarketing. Kom gerust langs of neem contact op om te ontdekken wat er allemaal mogelijk is voor jou met een animatiefilm.
+      Wil je graag meer weten over wat voor animaties we allemaal maken, en welke daarvan jij zou kunnen gebruiken? Wij vertellen je er graag alles over. Of je nu op zoek bent naar een [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/), een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of je wilt graag meer weten over jouw kansen met [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Kom gerust langs of neem contact op om te ontdekken wat er allemaal mogelijk is voor jou met een [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
@@ -147,7 +147,7 @@ blocks:
     contacts:
       - HZCh75c-T
 seo:
-  title: Animatiefilm Laten Maken - Say Yes to Team Fresh ;)
+  title: Animatiefilm Laten Maken - Say Yes to Team Phil en Flo
   description: Ook een succesvolle animatiefilm laten maken? Ons specialistische
     team produceert de animatiefilm die past bij je organisatie! Bel ons nu, of
     straks...
