@@ -75,7 +75,7 @@ blocks:
       ## Animatie en video inzetten
 
 
-      Met een professionele video of animatie voor je bedrijf kun je jezelf niet alleen online presenteren: Je kunt ze ook meegeven met je accountmanagers op tablet, voor een klantbezoek. Of je gebruikt ze bij presentaties en op beurzen. Wij weten goed wat daarvoor werkt, en wat niet. Kom dus gerust langs op ons kantoor aan de Herengracht in Amsterdam, of nodig ons uit bij jou op locatie om vrijblijvend de mogelijkheden te ontdekken.
+      Met een professionele video, [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of animatie voor je bedrijf kun je jezelf niet alleen online presenteren: Je kunt ze ook meegeven met je accountmanagers op tablet, voor een klantbezoek. Of je gebruikt ze bij presentaties en op beurzen. Wij weten goed wat daarvoor werkt, en wat niet. Kom dus gerust langs op ons kantoor aan de Herengracht in Amsterdam, of nodig ons uit bij jou op locatie om vrijblijvend de mogelijkheden te ontdekken.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
