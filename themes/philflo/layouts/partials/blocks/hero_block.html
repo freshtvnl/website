@@ -17,6 +17,9 @@
   
   {{ if and ($params.video) (eq $display "custom_video") }}
   <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
+
+
+
     <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
       {{ with  $params.video.source_webm }}
         <source src="{{.}}" type="video/webm">
@@ -25,6 +28,18 @@
       <source src="{{.}}" type="video/mp4">
       {{ end }}
     </video>
+
+    {{ if $params.video.image }}
+    <button class="playbutton absolute inset-0 focus:outline-none flex items-center justify-center pr-6 md:pr-12 xl:pr-48 z-30 w-full">
+      <span class="branch-element-bg w-16 h-16 flex items-center justify-center text-white relative z-30  animate-pulse  duration-800 rounded">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+        </svg>
+      </span>
+      {{ partial "image.html" (dict "page" $page "source" $params.video.image.source "alt" $params.video.image.alt "width" "1600" "height" "900" "class" "w-full pr-6 md:pr-12 xl:pr-48 z-20 absolute inset-0 z-10") }}
+    </button>
+  {{ end }}
+
   </div>
   {{ end }}
 

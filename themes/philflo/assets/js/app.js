@@ -47,10 +47,10 @@ youTubeVideos();
 function customVideos() {
   
     var videos = document.getElementsByTagName("video"),
-      fraction = 0.4;
+    fraction = 0.4;
+
     function checkScroll() {
-  
-      for (var i = 0; i < videos.length; i++) {
+        for (var i = 0; i < videos.length; i++) {
   
         var video = videos[i];
   
@@ -72,10 +72,35 @@ function customVideos() {
           }
         }
       }
-  
     }
+
+  
+    function thumbnailButton() {
+      for (var i = 0; i < videos.length; i++) {
+
+      var video = videos[i];
+      
+      var button = video.nextElementSibling;
+
+      if (!button.classList.contains('playbutton'));
+
+      button.onclick = function() {
+        console.log('click')
+        video.play();
+        this.classList.add('hidden')
+      }
+      }
+    }
+
+
+
     window.addEventListener('scroll', checkScroll, false);
     window.addEventListener('resize', checkScroll, false);
+
+
+
+    thumbnailButton();
+
 
 }
 
@@ -95,20 +120,25 @@ function init30MinDateTimeElement() {
   const pickerDate = document.getElementById('30mindatepicker');
   const pickerTime = document.getElementById('30mintimepicker');
 
-  if(!pickerDate && pickerTime) return
 
-  flatpickr(pickerDate, {
-    "locale": Dutch,
-    enableTime: false,
-    dateFormat: "d-m-Y",
-  });
+  if(pickerDate) {
+    
+      flatpickr(pickerDate, {
+        "locale": Dutch,
+        enableTime: false,
+        dateFormat: "d-m-Y",
+      });
 
-  flatpickr(pickerTime, {
-    "locale": Dutch,
-    enableTime: true,
-    time_24hr: true,
-    noCalendar: true
-  });
+  }
+  if(pickerTime) {
+    flatpickr(pickerTime, {
+      "locale": Dutch,
+      enableTime: true,
+      time_24hr: true,
+      noCalendar: true
+    });
+
+  }
 
 }
 
