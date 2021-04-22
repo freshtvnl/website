@@ -15,6 +15,7 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
       autoplay: true
+    align: left
   - type: content_block
     align: left
     content: >-

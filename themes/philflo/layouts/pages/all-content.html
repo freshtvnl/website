@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+
+  <meta charset="utf-8">
+
+  <xbase href="file:///mnt/websites/xxxxxxxx/public">
+
+  <title>All the Posts!</title>
+
+  <style>
+    
+  </style>
+
+</head>
+
+<body>
+
+  <h1>All the Content!</h1>
+
+  <p>This is a copy of all posts on the website. To download the latest version, visit...</p>
+
+  <p>TOC:</p>
+
+  <ul>
+    {{ range .Site.RegularPages }}
+      <li><a href="#{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ range .Site.RegularPages }}
+    <div style="border-bottom:  2px solid black; padding-bottom: 20px; margin-bottom: 20px;;">
+
+    
+    <h2 id="{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</h2>
+    <p style=""><a href="{{ .Permalink }}">{{ .Permalink }}</a> - {{ .Params.sdate }}</p>
+    {{ with .Params.blocks }}
+      {{ range . }}
+        
+      {{ if eq .type "hero_block" }}
+        {{ with .title }}
+          <h1>{{ . | markdownify }}</h1>
+        {{ end }}
+        {{ with .content }}
+        <div class="prose lg:prose-lg xl:prose-xl max-w-full">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
+      {{ end }}
+      
+
+
+
+        {{ if eq .type "selectedreviews_block" }}
+          {{ with .title }}
+          <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+          {{ end }}
+        {{ end }}
+        {{ with .items }}
+        {{ range . }}
+        {{ range where $.Site.Pages "Params.id" . }}
+        {{ $item := . }}
+          {{ with .Params.quote }}
+            
+            <div class="text-center mt-6">
+              {{ .content }}
+            </div>
+            <div class="mt-6 flex">
+              - {{ .auteur}}, {{ .functie }} @ {{.company}}
+            </div>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+      {{ end }}
+
+      {{ if eq .type "selectedwork_block" }}
+        {{ with .title }}
+        <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+        {{ end }}
+        {{ with .items }}
+        {{ range . }}
+        {{ range where $.Site.Pages "Params.id" . }}
+          <h3>{{ .Title }}</h3>
+          {{ range where $.Site.Pages "Params.id" .Params.branch }}
+          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+          {{ end }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+      {{ end }}
+      
+      {{ if eq .type "content_block" }}
+      {{ .content | markdownify }}
+
+      {{ with .cta }}
+        <div class="mt-6">
+          {{ if eq .type "button" }}
+          <a href="{{.url}}" class="branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;">{{.text}}</a>
+          {{ else }}
+          <a href="{{.url}}" class="branch-element-text">{{.text}}</a>
+          {{ end }}
+        </div>
+        {{ end}}
+
+      {{ end }}
+
+
+
+
+      {{ if eq .type "selectedfaqs_block" }}
+        {{ with .title }}
+          <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+        {{ end }}
+        {{ with .items }}
+          <ul class="max-w-3xl mx-auto space-y-4"  x-data="{selected:null}" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            {{ range $index, $element :=  . }}
+              {{ $id := . }}
+              {{ with $.Site.GetPage "faq" }}
+                
+              {{ range .Resources }}
+                {{ if eq $id .Params.id}}
+                {{ with .Params.faq}}
+                <li class="flex align-center flex-col">
+                    {{ .question | markdownify}}
+                    {{ .answer | markdownify}}
+                </li>
+                {{ end }}
+
+                  {{ end }}
+              {{ end }}
+
+              {{ end }} 
+
+            {{ end }} 
+            </ul>
+          {{ end }} 
+      {{ end }}
+       
+      {{ end }}
+    {{ end }}
+    </div>
+  {{ end }}
+
+
+</body>
+</html>

@@ -21,6 +21,15 @@ export const hero = {
       required: false,
       i18n: true,
     },
+    {
+      label: "Align content",
+      name: "align",
+      widget: "select",
+      options: ["left", "center", "right"],
+      required: false,
+      i18n: true,
+      default: "left"
+    },
     ...media
   ]
 }
