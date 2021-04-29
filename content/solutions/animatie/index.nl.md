@@ -90,7 +90,7 @@ blocks:
       - qRKCKxn9O
       - 4w-qBXhgd
       - Wbe7UH8gH
-    more_items: true
+    more_items: false
   - type: content_block
     align: left
     content: >-
