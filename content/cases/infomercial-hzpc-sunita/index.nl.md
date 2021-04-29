@@ -14,7 +14,7 @@ blocks:
     content: Hoe introduceer je een nieuw aardappelras? Dat is een interessante
       vraag van [opdrachtgever HZPC](https://www.hzpc.com/). Phil & Flo Creative
       Studio kwam op het idee om een krachtige infomercial (informatieve
-      [commercial](https://www.philenflo.nl/commercial-laten-maken)) te
+      [commercial](https://www.philenflo.nl/commercial-laten-maken/)) te
       ontwikkelen. Dat heeft tot de volgende inzichten, aanpak en resultaten
       geleid.
     displaymedia: custom_video
