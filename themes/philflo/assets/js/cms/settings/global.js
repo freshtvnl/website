@@ -27,6 +27,33 @@ const fields = [
         ]
       },
       {
+        label: 'Address',
+        name: 'address',
+        widget: 'object',
+        fields: [
+          {
+            label: 'Address 1',
+            name: 'address1',
+            widget: 'text'
+          },
+          {
+            label: 'Address 2',
+            name: 'address2',
+            widget: 'text'
+          },
+          {
+            label: 'Address 3',
+            name: 'address3',
+            widget: 'text'
+          },
+          {
+            label: 'Kvk',
+            name: 'kvk',
+            widget: 'text'
+          },
+        ]
+      },
+      {
         label: 'Email',
         name: 'email',
         widget: 'object',

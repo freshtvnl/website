@@ -12,3 +12,17 @@ footer:
   email:
     formatted: hallo@philenflo.nl
     raw: hallo@philenflo.nl
+  address:
+    address1: |-
+      Groningen<br>
+      Oude-Boteringestraat 71<br>
+      9712 GG Groningen
+    address2: |-
+      Amsterdam<br>
+      Herengracht 420<br>
+      1017 BZ Amsterdam
+    address3: |-
+      Eindhoven<br>
+      Hurksestraat 64<br>
+      5652 AL Eindhoven
+    kvk: "kvk nr: 80801331 btwnr: NL861804983B01"
