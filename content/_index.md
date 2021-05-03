@@ -29,17 +29,10 @@ blocks:
       De wereld van morgen.
 
 
-      [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), \
+      [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). 
 
-      [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), \
 
-      [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),\
-
-      [zorg](https://www.philenflo.nl/branches/zorg-pharma/),\
-
-      [goede doelen](https://www.philenflo.nl/branches/goede-doelen/) \
-
-      en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
+      Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
 
       Samen met jou zetten we nu de stappen die nodig zijn.
 
