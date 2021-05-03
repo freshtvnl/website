@@ -67,6 +67,21 @@ blocks:
   - type: contact_block
     contacts:
       - PZcCTyF1B
+  - type: selectedfaqs_block
+    items:
+      - nv6T8dU14
+      - S7c1gyOiy
+      - aP7upDTdr
+      - 0gxc0yKmy
+      - ysW98qJre
+      - -iFl9-Y2W
+      - F_E7Q5ADH
+      - _e1fYEShh
+      - hFIKOBGq2
+      - oqrguAU0g
+      - o1yc8dZU9
+      - oZyG-eagP
+      - DlpL1MF-B
 seo:
   title: Commercial laten maken voor TV en online | Phil & Flo
   description: TV of online Commercial laten maken. Wij produceren de commercial
