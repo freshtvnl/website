@@ -45,6 +45,18 @@ blocks:
       url: /contact/
       text: Meer informatie opvragen
       type: button
+  - type: selectedfaqs_block
+    items:
+      - lnjZaJeHF
+      - ARwx2YIU1
+      - 7obNOQ9pc
+      - roOkjrjt7
+      - 10KofX07N
+      - xnlSUoa_k
+      - 8RI9l7A5M
+      - hBJ-OhYf5
+      - xxRYGyG6K
+      - BSIhcQQ5N
 seo:
   title: Virtual reality videomarketing - Phil & Flo Videomarketing
   description: Virtual reality videomarketing met VR animaties bij Phil & Flo |
