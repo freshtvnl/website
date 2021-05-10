@@ -6,11 +6,9 @@ id: E9m0t0ALL
 image:
   source: images/schermafbeelding-2020-12-01-om-16.24.30.png
   alt: ""
+content_type: case
 color: orange
 branch: CA0ObKsX0
-content_type: case
-seo:
-  title: Commercial Douwe Egberts - Phil & Flo Videomarketing
 blocks:
   - type: hero_block
     title: "***Douwe Egberts Commercial***"
@@ -29,7 +27,7 @@ blocks:
       ## ***Vraagstuk***
 
 
-      De klant heeft ons gevraagd een promotiefilm of commercial te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijtig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
+      De klant heeft ons gevraagd een [promotiefilm](https://www.philenflo.nl/promotiefilm-laten-maken/) of [commercial](https://www.philenflo.nl/commercial-laten-maken/) te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijtig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
     displaymedia: youtube_video
     youtube:
       id: DE5OAQNrQJY
@@ -71,4 +69,6 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: Commercial Douwe Egberts - Phil & Flo Videomarketing
 ---
