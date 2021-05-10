@@ -49,7 +49,7 @@ blocks:
       ## ***Waarom*** een animatie?
 
 
-      Je kunt een animatiefilm voor allerlei doeleinden inzetten. Interne communicatie, een [promotiefilmpje](https://www.philenflo.nl/promotiefilm-laten-maken/), [uitleg](https://www.philenflo.nl/uitleganimatie-laten-maken/) verzorgen — de dynamische en visuele stijl van een animatie kun je niet evenaren met tekst of een statische afbeelding. Wil je ook zorgen dat niemand je boodschap mist? Ontdek dan wat animatie allemaal voor jou te bieden heeft: van reclame tot interne communicatie, van social media campaign tot [explanimatio](https://www.philenflo.nl/explanimation-laten-maken/)n van je jaarverslag. Wij maken het voor je.
+      Je kunt een animatiefilm voor allerlei doeleinden inzetten. Interne communicatie, een [promotiefilmpje](https://www.philenflo.nl/promotiefilm-laten-maken/), [uitleg](https://www.philenflo.nl/uitleganimatie-laten-maken/) verzorgen — de dynamische en visuele stijl van een animatie kun je niet evenaren met tekst of een statische afbeelding. Wil je ook zorgen dat niemand je boodschap mist? Ontdek dan wat animatie allemaal voor jou te bieden heeft: van [reclame](https://www.philenflo.nl/commercial-laten-maken/) tot interne communicatie, van social media campaign tot [explanimatio](https://www.philenflo.nl/explanimation-laten-maken/)n van je jaarverslag. Wij maken het voor je.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
