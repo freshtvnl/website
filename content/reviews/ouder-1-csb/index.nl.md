@@ -8,4 +8,6 @@ quote:
   auteur: Ouder van leerling groep 8
   company: CSB Amsterdam
   stars: 5
+seo:
+  noindex: true
 ---
