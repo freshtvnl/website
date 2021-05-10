@@ -12,8 +12,9 @@ blocks:
       onverstandige stap om met je doelgroep mee te verhuizen. Op Instagram kun
       je heel gemakkelijk een video (laten) maken en plaatsen als
       marketingcampagne, zoals je misschien al van Facebook gewend bent. Wil je
-      hier echt alles uithalen, neem dan contact op met Phil & Flo. Wij maken
-      een aansprekende video voor je, en helpen je bij het optimaal inzetten.
+      hier echt alles uithalen, [neem dan contact
+      op](https://www.philenflo.nl/contact/) met Phil & Flo. Wij maken een
+      aansprekende video voor je, en helpen je bij het optimaal inzetten.
   - type: content_block
     align: left
     content: >-
@@ -40,7 +41,7 @@ blocks:
       ## ***Adverteer*** op Instagram met video
 
 
-      Instagram is onderdeel van Facebook, en heeft dus ook veel tools voor adverteerders. Heb je een zakelijk account? Dan is het mogelijk om advertentievideo’s te uploaden en in te zetten in marketingcampagnes. Vanzelfsprekend kan Phil & Flo een professionele reclamevideo maken voor je marketing op social media, die precies de juiste doelgroep aanspreekt. Daarnaast kunnen we je ook adviseren over hoe je dit filmpje optimaal inzet en de tools van Instagram zo goed mogelijk gebruikt.
+      Instagram is onderdeel van Facebook, en heeft dus ook veel tools voor adverteerders. Heb je een zakelijk account? Dan is het mogelijk om advertentievideo’s te uploaden en in te zetten in marketingcampagnes. Vanzelfsprekend kan Phil & Flo een [professionele reclamevideo maken](https://www.philenflo.nl/commercial-laten-maken/) voor je marketing op social media, die precies de juiste doelgroep aanspreekt. Daarnaast kunnen we je ook adviseren over hoe je dit filmpje optimaal inzet en de tools van Instagram zo goed mogelijk gebruikt.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
@@ -50,7 +51,7 @@ blocks:
       ## ***IGTV video*** laten maken
 
 
-      Instagram zelf lijkt ook de meerwaarde van bewegend beeld te zien, en heeft de app IGTV (Instagram TV) gelanceerd. Hierop zijn langere filmpjes te uploaden, die jouw volgers dan kunnen bekijken. Het voordeel van IGTV is dat je er langere content op kwijt kunt, zoals een bedrijfsvideo of een explanimation. Ook blijft het filmpje zo lang staan als je wilt. Met een professionele animatie of een strak filmpje op IGTV maak je nog meer indruk op je potentiële klanten.
+      Instagram zelf lijkt ook de meerwaarde van bewegend beeld te zien, en heeft de app IGTV (Instagram TV) gelanceerd. Hierop zijn langere filmpjes te uploaden, die jouw volgers dan kunnen bekijken. Het voordeel van IGTV is dat je er langere content op kwijt kunt, zoals een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) of een [explanimation](https://www.philenflo.nl/explanimation-laten-maken/). Ook blijft het filmpje zo lang staan als je wilt. Met een professionele animatie of een strak filmpje op IGTV maak je nog meer indruk op je potentiële klanten.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
