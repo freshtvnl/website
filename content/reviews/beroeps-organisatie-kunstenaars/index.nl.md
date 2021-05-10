@@ -11,4 +11,6 @@ quote:
     te enthousiasmeren. BOKNET.nl
   functie: Voorzitter
   company: Beroepsorganisatie Kunstenaars (BOK)
+seo:
+  noindex: true
 ---
