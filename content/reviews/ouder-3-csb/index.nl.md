@@ -10,4 +10,6 @@ quote:
     Zoon riep bij het zien van de sterrenkoepel al dat ie naar jullie school wil
     dus dat was alvast een goede binnenkomer ;-)
   company: CSB Amsterdam
+seo:
+  noindex: true
 ---
