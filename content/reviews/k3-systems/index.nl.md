@@ -10,4 +10,6 @@ quote:
     and professional people that delivered fast a very good animation video.
     Very happy to work with them.
   company: K3
+seo:
+  noindex: true
 ---
