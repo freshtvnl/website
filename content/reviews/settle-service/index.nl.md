@@ -12,4 +12,6 @@ quote:
     en een leuk team om mee samen te werken. Wij van Settle Service raden Phil &
     Flo van harte aan!
   company: Settle Service
+seo:
+  noindex: true
 ---
