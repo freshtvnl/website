@@ -56,7 +56,7 @@ blocks:
       ## Ook Indisplay, Instream of preroll ads inzetten?
 
 
-      Wil je ook aan de slag met YouTube-marketing? Onze specialisten weten hoe je met jouw video ads opvalt tussen de concurrentie en de juiste doelgroep bereikt. Stap voor stap adviseert Phil & Flo over hoe je video zo effectief mogelijk inzet in het reclamenetwerk van YouTube. Termen als indisplay, instream en preroll zijn ons niet vreemd. We weten jouw [YouTube-marketing](https://philenflo.nl/youtube-marketing/) gericht in te zetten door vooraf de karakteristieken van jouw doelgroep in kaart te brengen.
+      Wil je ook aan de slag met YouTube-marketing? Onze specialisten weten hoe je met jouw video ads opvalt tussen de concurrentie en de juiste doelgroep bereikt. Stap voor stap adviseert Phil & Flo over hoe je video zo effectief mogelijk inzet in het reclamenetwerk van YouTube. Termen als indisplay, instream en preroll zijn ons niet vreemd. We weten jouw [YouTube-marketing](https://www.philenflo.nl/youtube-marketing/) gericht in te zetten door vooraf de karakteristieken van jouw doelgroep in kaart te brengen.
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
