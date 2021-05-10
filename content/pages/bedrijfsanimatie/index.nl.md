@@ -70,7 +70,7 @@ blocks:
       ## ***Perspectief***
 
 
-      Een geanimeerde bedrijfsvideo maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
+      Een geanimeerde [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) maakt het eenvoudig om alles in perspectief te plaatsen. Phil & Flo laat niet los. Voorafgaand aan het produceren van je bedrijfsanimatie denken we mee met hoe we jouw video goed vindbaar kunnen maken. Je wilt natuurlijk dat zoveel mogelijk mensen jouw bedrijfsanimatie zien.
     displaymedia: custom_video
     video:
       autoplay: true
