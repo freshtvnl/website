@@ -11,4 +11,6 @@ quote:
     samenwerking als zeer prettig ervaren. Alle afspraken werden nagekomen en
     feedback werd goed en flexibel verwerkt!
   company: TNO
+seo:
+  noindex: true
 ---
