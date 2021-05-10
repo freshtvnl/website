@@ -85,7 +85,7 @@ blocks:
       ## ***Verspreiding***
 
 
-      Jouw Wervingsvideo kan bij een goede videodistributie een grote hit worden onder jouw doelgroep op sociale media. Een aansprekende film wordt graag gedeeld en bereikt zo die talenten die je graag binnen wilt halen. Ook zoekmachines houden van video’s. Wij kunnen je adviseren over zoekmachineoptimalisatie in combinatie met wervingsvideo’s, zodat jullie bedrijfsvideo of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) de hoge score krijgt die hij verdient.
+      Jouw Wervingsvideo kan bij een goede videodistributie een grote hit worden onder jouw doelgroep op sociale media. Een aansprekende film wordt graag gedeeld en bereikt zo die talenten die je graag binnen wilt halen. Ook zoekmachines houden van video’s. Wij kunnen je adviseren over zoekmachineoptimalisatie in combinatie met wervingsvideo’s, zodat jullie [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) de hoge score krijgt die hij verdient.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
