@@ -7,7 +7,7 @@ blocks:
   - type: hero_block
     title: 404 - Pagina niet gevonden
     content: Helaas, blijkbaar is de link niet goed. [Ga snel terug naar
-      start!](https://philenflo.nl)
+      start](https://www.philenflo.nl/)!
     displaymedia: image
     image:
       source: images/404-phil-en-flo.jpg
