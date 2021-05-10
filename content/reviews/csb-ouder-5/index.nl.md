@@ -12,4 +12,6 @@ quote:
     daarin hebben gezeten. In zo'n rare tijd scholen zoeken is voor ouders en
     kinderen wel veel makkelijker met zo'n fijn filmpje.
   company: CSB Amsterdam
+seo:
+  noindex: true
 ---
