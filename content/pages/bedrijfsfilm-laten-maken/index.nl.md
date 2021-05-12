@@ -35,7 +35,7 @@ blocks:
       ### ***Wat zijn de voordelen van een bedrijfsfilm?***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals YouTube, Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals [YouTube](https://www.philenflo.nl/youtube-marketing/), Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/youtube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
     displaymedia: custom_video
     image:
       source: images/aron-sophie.jpg
@@ -84,7 +84,7 @@ blocks:
       ### ***Je verhaal vertellen met een bedrijfsfilm***
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een bedrijfsvideo een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
     displaymedia: custom_video
     image:
       source: images/feestje-phil-en-flo.jpg

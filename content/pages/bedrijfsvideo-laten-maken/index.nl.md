@@ -37,7 +37,7 @@ blocks:
       ## ***Corporate*** identiteit?
 
 
-      Bij Phil & Flo vinden we dat in de steeds verder digitaliserende klantrelatie de wensen en belangen van je klant altijd voorop moeten staan. Met de komst van verschillende social media, gecombineerd met YouTube, is het nog nooit zo eenvoudig geweest om jouw corporate identiteit te delen met je doelgroep.
+      Bij Phil & Flo vinden we dat in de steeds verder digitaliserende klantrelatie de wensen en belangen van je klant altijd voorop moeten staan. Met de komst van verschillende social media, gecombineerd met [YouTube](https://www.philenflo.nl/youtube-marketing/), is het nog nooit zo eenvoudig geweest om jouw corporate identiteit te delen met je doelgroep.
 
 
       Phil & Flo maakt jouw verhaal persoonlijk, met **eigen mensen en eigen wensen**. Daarmee toont een bedrijfsvideo hoe trots je bent op je medewerkers en klanten merken dat verschil. In de producties van Phil & Flo spelen echte mensen de hoofdrol.
