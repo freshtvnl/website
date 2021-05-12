@@ -1,8 +1,6 @@
 import { image } from "../partials/image"
 import { base } from "../partials/base"
-import { seo } from "../partials/seo"
-import { brandcolors } from "../partials/brandcolors"
-import { selectedbranch } from "../partials/selectedbranch"
+import { seoNoIndex } from "../partials/seo"
 import { blocks } from "../blocks/index"
 
 const fields = [
@@ -81,7 +79,7 @@ const reviews = {
   fields: [
     ...fields,
     ...blocks,
-    seo
+    seoNoIndex
   ],
 }
 

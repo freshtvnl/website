@@ -11,4 +11,6 @@ quote:
     gedurende het traject. Ze weten waar ze het over hebben en leveren snel,
     vakkundig werk af!
   company: Ticketmaster
+seo:
+  noindex: true
 ---

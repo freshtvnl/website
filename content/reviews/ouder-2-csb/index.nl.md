@@ -8,4 +8,6 @@ quote:
   content: Super enthousiast geworden! Chapeau voor de makers en medewerkers! Ziet
     er prachtig uit allemaal.
   company: CSB Amsterdam
+seo:
+  noindex: true
 ---

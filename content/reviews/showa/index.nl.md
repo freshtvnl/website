@@ -10,4 +10,6 @@ quote:
   content: Goede samenwerking! Het eind resultaat is strak in elkaar gezet en
     educatief zonder saai te zijn. Aanrader!
   company: Showa
+seo:
+  noindex: true
 ---

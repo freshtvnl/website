@@ -12,4 +12,6 @@ quote:
   auteur: Carla Holwerda
   functie: ""
   company: Park Lyceum
+seo:
+  noindex: true
 ---

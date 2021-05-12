@@ -19,4 +19,6 @@ quote:
   auteur: Robert
   functie: Co-Founder
   company: Bigshopper
+seo:
+  noindex: true
 ---

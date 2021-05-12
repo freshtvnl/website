@@ -1,6 +1,6 @@
 import { image } from "../partials/image"
 import { base } from "../partials/base"
-import { seo } from "../partials/seo"
+import { seoNoIndex } from "../partials/seo"
 import { blocks } from "../blocks/index"
 
 const fields = [
@@ -47,7 +47,7 @@ const faq = {
   fields: [
     ...fields,
     ...blocks,
-    seo
+    seoNoIndex
   ],
 }
 

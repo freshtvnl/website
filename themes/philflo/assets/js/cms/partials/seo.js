@@ -34,3 +34,20 @@ export const seo = {
     },
   ]
 }
+
+export const seoNoIndex = {
+  label: 'SEO',
+  name: 'seo',
+  widget: 'object',
+  i18n: true,
+  fields: [
+    {
+      label: 'No index',
+      name: 'noindex',
+      widget: 'boolean',
+      required: false,
+      default: true,
+      i18n: true
+    },
+  ]
+}

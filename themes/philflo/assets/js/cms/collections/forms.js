@@ -1,3 +1,5 @@
+import { seoNoIndex } from "../partials/seo"
+
 const fields = [
   {
     label: 'Title',
@@ -53,7 +55,7 @@ const forms = {
   folder: 'content/forms',
   fields: [
     ...fields,
-
+    seoNoIndex
   ],
 }
 

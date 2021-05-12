@@ -12,4 +12,6 @@ quote:
 
     Hierin hebben wij de samenwerking en de uitwisseling van ideeën als zeer prettig en praktisch ervaren.
   company: CSB Amsterdam
+seo:
+  noindex: true
 ---

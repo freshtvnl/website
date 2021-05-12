@@ -17,4 +17,6 @@ quote:
   company: PRA Health Sciences
   auteur: Martine Bouwman
   functie: Hoofd marketing
+seo:
+  noindex: true
 ---
