@@ -43,5 +43,14 @@
   {
     "id": "subscribe",
     "translation": "Subscribe"
+  },
+  {
+    "id": "reading_time",
+    "translation": "Reading time"
+  },
+  {
+    "id": "minutes",
+    "translation": "minutes"
   }
+  
 ]

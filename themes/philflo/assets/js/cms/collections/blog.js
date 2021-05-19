@@ -9,6 +9,25 @@ const fields = [
   ...base,
   image,
   {
+    label: "Author",
+    name: "author",
+    widget: "relation",
+    collection: "members",
+    search_fields: ["title"],
+    display_fields: ["title"],
+    value_field: "id",
+    multiple: false,
+    i18n: true,
+    required: false,
+  },
+  {
+    label: 'Date',
+    name: 'date',
+    widget: 'datetime',
+    required: true,
+    i18n: true
+  },
+  {
     label: 'Content',
     name: 'body',
     widget: 'markdown',

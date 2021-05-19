@@ -74,6 +74,14 @@
   {
     "id": "subscribe",
     "translation": "Aanmelden"
+  },
+  {
+    "id": "reading_time",
+    "translation": "Leestijd"
+  },
+  {
+    "id": "minutes",
+    "translation": "minuten"
   }
   
 ]
