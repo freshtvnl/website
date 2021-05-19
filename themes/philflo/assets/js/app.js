@@ -49,6 +49,10 @@ function customVideos() {
     var videos = document.getElementsByTagName("video"),
     fraction = 0.4;
 
+    console.log('videos', videos)
+
+    if(!videos.length) return 
+
     function checkScroll() {
         for (var i = 0; i < videos.length; i++) {
   
@@ -81,6 +85,8 @@ function customVideos() {
       var video = videos[i];
       
       var button = video.nextElementSibling;
+
+      if (!button) return
 
       if (!button.classList.contains('playbutton'));
 
