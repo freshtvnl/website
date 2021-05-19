@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="max-w-screen-2xl w-full mx-auto px-6 lg:px-8 xl:px-24 py-8 md:pb-20 xl:pt-24">
+  <div class="mb-12 lg:mb-20 xl:mb-32 mx-auto">
+    <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold md:mb-4 max-w-2xl lg:max-w-3xl xl:max-w-4xl mx-auto lg:px-2 xl:px-8">{{ .Title }}</h1>
+    <div class="prose lg:prose-lg xl:prose-xl py-6 md:py-2 w-full mx-auto">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+
+{{ end }}
