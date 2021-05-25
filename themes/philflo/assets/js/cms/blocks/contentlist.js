@@ -67,5 +67,17 @@ export const contentList = {
       i18n: true,
       required: false,
     },
+    {
+      label: "Knowledgebase",
+      name: "knowledgebase_items",
+      widget: "relation",
+      collection: "knowledgebase",
+      search_fields: ["title"],
+      display_fields: ["title"],
+      value_field: "id",
+      multiple: true,
+      i18n: true,
+      required: false,
+    },
   ]
 }

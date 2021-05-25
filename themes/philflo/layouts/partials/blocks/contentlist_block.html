@@ -58,6 +58,16 @@
     </ul>
     {{ end }}
 
+    {{ with $params.knowledgebase_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
 
   </div>
 </div>

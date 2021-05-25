@@ -7,6 +7,7 @@ nl:
     pages: :slug/
     cases: portfolio/:slug/
     solutions: oplossingen/:slug/
+    knowledgebase: kennisbank/:slug/
 en:
   languageName: International (English)
   languageCode: en

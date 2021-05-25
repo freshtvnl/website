@@ -1,10 +1,19 @@
 import { image } from "../partials/image"
 import { base } from "../partials/base"
 import { seo } from "../partials/seo"
+import { brandcolors } from "../partials/brandcolors"
 
 const fields = [
   ...base,
   image,
+  {
+    label: 'Content',
+    name: 'body',
+    widget: 'markdown',
+    required: false,
+    i18n: true
+  },
+  brandcolors
 ]
 
 const knowledgebase = {
