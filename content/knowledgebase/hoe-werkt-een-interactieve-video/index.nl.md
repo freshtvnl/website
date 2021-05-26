@@ -1,6 +1,6 @@
 ---
 title: Hoe werkt een interactieve video?
-draft: true
+draft: false
 id: QFk0-u-j0
 seo:
   title: "Hoe werkt een interactieve video? | Kennisbank | Phil & Flo "
