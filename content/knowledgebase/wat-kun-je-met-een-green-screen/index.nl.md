@@ -1,6 +1,6 @@
 ---
 title: " Wat kun je met een green screen?"
-draft: true
+draft: false
 id: CigYEk_bj
 seo:
   title: " Wat kun je met een green screen? | Kennisbank | Phil & Flo"
