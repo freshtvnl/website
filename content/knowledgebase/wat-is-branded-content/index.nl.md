@@ -1,6 +1,6 @@
 ---
 title: Wat is branded content?
-draft: true
+draft: false
 id: IqOClMJvP
 seo:
   title: "Wat is branded content? | Kennisbank | Phil & Flo "
