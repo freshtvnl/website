@@ -1,6 +1,6 @@
 ---
 title: Waarom zet je videomarketing in?
-draft: true
+draft: false
 id: 8YdE5QkiZ
 seo:
   title: "Waarom zet je videomarketing in? | Kennisbank | Phil & Flo "
