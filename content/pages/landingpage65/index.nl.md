@@ -26,7 +26,7 @@ blocks:
       ## Animatie is ***duidelijk en aansprekend***
 
 
-      Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een commercial, maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
+      Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een [commercial](https://www.philenflo.nl/reclamevideo/), maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -52,7 +52,7 @@ blocks:
       ## De mogelijkheden van een ***animatiestudio***
 
 
-      Met een animatie kun je nog alle kanten op. Je kunt het bij een [stijlvolle 2D-animatie](/2d-animatie/) houden, of de diepte ingaan met een [3D-animatie](/3d-animatie-laten-maken/). Daarnaast kies je voor de juiste muziek onder je animatiefilm, en een prettige vertelstem. Zeker bij uitleganimaties is het belangrijk dat je de juiste elementen kiest, zodat de kijkers niet afhaken. Gelukkig weten de vakmensen van Phil & Flo’s animatiestudio in Groningen goed wat werkt en wat niet. Samen met hen ontwikkel je je animatiefilm van concept tot videofilm.
+      Met een animatie kun je nog alle kanten op. Je kunt het bij een [stijlvolle 2D-animatie](/2d-animatie/) houden, of de diepte ingaan met een [3D-animatie](/3d-animatie-laten-maken/). Daarnaast kies je voor de juiste muziek onder je animatiefilm, en een prettige vertelstem. Zeker bij uitleganimaties is het belangrijk dat je de juiste elementen kiest, zodat de kijkers niet afhaken. Gelukkig weten de vakmensen van Phil & Flo’s animatiestudio in [Groningen](https://www.philenflo.nl/animatie-groningen/) goed wat werkt en wat niet. Samen met hen ontwikkel je je animatiefilm van concept tot videofilm.
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
@@ -102,7 +102,7 @@ blocks:
     more_items: true
 seo:
   title: AnimatieStudio Groningen - Phil & Flo Videomarketing
-  description: Een animatie laat je maken in Groningen! Proeffesionele
+  description: Een animatie laat je maken in Groningen! Professionele
     animatiefilms door onze animatiestudio in Groningen. Kom langs voor een
     afspraak. Bel ons nu.
 ---
