@@ -1,6 +1,6 @@
 ---
 title: Wat is een 2d animatie?
-draft: true
+draft: false
 id: b3fEs5TRG
 seo:
   title: "Wat is een 2d animatie? | Kennisbank | Phil & Flo "
