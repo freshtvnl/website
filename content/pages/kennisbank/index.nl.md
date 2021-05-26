@@ -17,6 +17,12 @@ blocks:
     knowledgebase_items:
       - vxECChSTF
   - type: content_list
-    title: Bedrijfsfilm
-    content: Vragen over bedrijfsfilms
+    title: Video
+    content: Vragen over video
+  - type: content_list
+    title: "Muziek "
+    content: Vragen over muziek
+    knowledgebase_items:
+      - aducBJ9c2
+      - T4amK8QHE
 ---
