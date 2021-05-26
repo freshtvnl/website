@@ -16,4 +16,7 @@ blocks:
     content: Vragen over Animatie
     knowledgebase_items:
       - vxECChSTF
+  - type: content_list
+    title: Bedrijfsfilm
+    content: Vragen over bedrijfsfilms
 ---
