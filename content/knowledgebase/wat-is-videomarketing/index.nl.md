@@ -1,6 +1,6 @@
 ---
 title: Wat is videomarketing?
-draft: true
+draft: false
 id: aJokfKM3l
 seo:
   description: Videomarketing is marketing middels video, uiteraard met de juiste
