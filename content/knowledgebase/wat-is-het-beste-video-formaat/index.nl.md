@@ -1,6 +1,6 @@
 ---
 title: Wat is het beste video formaat?
-draft: true
+draft: false
 id: KfSfEHxEE
 seo:
   title: "Wat is het beste video formaat?  | Kennisbank | Phil & Flo "
