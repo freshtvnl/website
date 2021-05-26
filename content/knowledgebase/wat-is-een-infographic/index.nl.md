@@ -1,6 +1,6 @@
 ---
 title: Wat is een infographic
-draft: true
+draft: false
 id: t0yJRZ0fW
 seo:
   title: "Wat is een infographic? | Kennisbank | Phil & Flo "
