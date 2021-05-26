@@ -1,6 +1,6 @@
 ---
 title: Hoe werkt een green screen?
-draft: true
+draft: false
 id: w6e33cU2r
 seo:
   title: "Hoe werkt een green screen? | Kennisbank | Phil & Flo "
