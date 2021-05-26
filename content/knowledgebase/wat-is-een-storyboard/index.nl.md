@@ -1,6 +1,6 @@
 ---
 title: Wat is een storyboard?
-draft: true
+draft: false
 id: BDmCo7ZRE
 seo:
   title: "Wat is een storyboard? |  Kennisbank | Phil en Flo "
