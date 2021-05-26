@@ -1,6 +1,6 @@
 ---
 title: Wat is rechtenvrije muziek?
-draft: true
+draft: false
 id: aducBJ9c2
 seo:
   title: "Wat is rechtenvrije muziek? | Kennisbank | Phil en Flo "
