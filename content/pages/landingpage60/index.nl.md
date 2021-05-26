@@ -13,14 +13,14 @@ blocks:
       # ***Educatieve*** animatiefilm maken
 
 
-      Een pakkende intro, passende voice-over en iets duidelijk maken dat zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie animatiefilm maken is dat het prettig is om naar te kijken. Wie is er inmiddels niet met animatie op gegroeid? Wij in ieder geval wel!
+      Een pakkende intro, passende voice-over en iets duidelijk maken dat zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie [animatiefilm maken](https://www.philenflo.nl/animatiefilm-laten-maken/) is dat het prettig is om naar te kijken. Wie is er inmiddels niet met animatie op gegroeid? Wij in ieder geval wel!
   - type: content_block
     align: left
     content: >-
       ## Voordelen van een educatie animatiefilm maken
 
 
-      Het is niet altijd eenvoudig om een gecompliceerd onderwerp even in een paar zinnen aan je doelgroep uit te leggen. Laat staan dat die boodschap blijft hangen bij jouw publiek. Door een educatie animatiefilm te maken kun je je doelgroep overtuigen met een ultrakorte, glasheldere en visuele uitleg.Animatie heeft namelijk de eigenschap niets tot de verbeelding toe te laten. Met andere woorden: animatie kan inzicht geven in zaken wat het menselijk oog niet kan waarnemen.
+      Het is niet altijd eenvoudig om een gecompliceerd onderwerp even in een paar zinnen aan je doelgroep uit te leggen. Laat staan dat die boodschap blijft hangen bij jouw publiek. Door een educatie animatiefilm te maken kun je je doelgroep overtuigen met een ultrakorte, glasheldere en visuele uitleg. Animatie heeft namelijk de eigenschap niets tot de verbeelding toe te laten. Met andere woorden: animatie kan inzicht geven in zaken wat het menselijk oog niet kan waarnemen.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -59,7 +59,7 @@ blocks:
       ## ***Educatie*** is nooit meer saai
 
 
-      In ieder geval niet met Phil & Flo, dat mag je van ons aannemen. Wil je eens een verhelderend gesprek over het visualiseren van jouw droge educatieve materie? Kom in contact en laat weten welke uitdaging jij voor ons in petto hebt.
+      In ieder geval niet met Phil & Flo, dat mag je van ons aannemen. Wil je eens een verhelderend gesprek over het visualiseren van jouw droge educatieve materie? Kom in contact en laat weten welke uitdaging jij voor ons in petto hebt. Of ontdek hier meer hoe wij ons inzetten voor de [onderwijssector](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/).
     displaymedia: custom_video
     video:
       autoplay: true
