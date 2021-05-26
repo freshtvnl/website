@@ -1,6 +1,6 @@
 ---
 title: Hoe download je rechtenvrije muziek voor een filmpje of animatie?
-draft: true
+draft: false
 id: T4amK8QHE
 seo:
   title: "Hoe download je rechtenvrije muziek voor een filmpje of animatie? |
