@@ -1,6 +1,6 @@
 ---
 title: Wat is een 2D film?
-draft: true
+draft: false
 id: bSodUVigJ
 seo:
   title: "Wat is een 2D film? | Kennisbank | Phil & Flo "
