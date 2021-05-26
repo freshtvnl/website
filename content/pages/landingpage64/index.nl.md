@@ -4,9 +4,6 @@ slug: Animatie Amsterdam
 weight: 1
 draft: false
 id: wvUKuLAzh64
-seo:
-  title: Animatie laten maken in Amsterdam | Door Phil & Flo Videomarketing
-  description: Animatie laten maken in Amsterdam doe je bij Phil & Flo |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -25,7 +22,7 @@ blocks:
       ## ***Frisse animatie*** in Amsterdam
 
 
-      Ons team van animators en marketeers in Amsterdam is klaar om samen te werken met bedrijven, instanties en ondernemers die op zoek zijn naar een frisse manier van storytelling en videomarketing. We produceren voor jou de juiste online marketing content; unieke, op maat gemaakte animatiefilms.
+      Ons team van animators en marketeers in Amsterdam is klaar om samen te werken met bedrijven, instanties en ondernemers die op zoek zijn naar een frisse manier van storytelling en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). We produceren voor jou de juiste online marketing content; unieke, op maat gemaakte [animatiefilms](https://www.philenflo.nl/animatiefilm-laten-maken/).
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
@@ -36,7 +33,7 @@ blocks:
       ## ***Virtual Reality Animatie***
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze VR animatiefilms eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      Heb je een Virtual reality headset? Bekijk dan onze [VR animatiefilms](https://www.philenflo.nl/oplossingen/virtual-reality/) eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -52,7 +49,7 @@ blocks:
       ## Zeg het met ***bewegend*** beeld
 
 
-      Een animatie doet twee dingen veel beter dan tekst en statische afbeeldingen: opvallen en een verhaal vertellen. Je pakt de aandacht met graphics en een stijl die je doelgroep aanspreken, en goed bij je bedrijf passen. In een duidelijke, luchtige en sfeervolle animatie vertel je een verhaal op een speelse of juist serieuze manier. Daar zetten we natuurlijk ook passende achtergrondmuziek, geluidseffecten en een prettige voice-over voor in. Hoe dan ook, de boodschap komt altijd helder over.
+      Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) doet twee dingen veel beter dan tekst en statische afbeeldingen: opvallen en een verhaal vertellen. Je pakt de aandacht met graphics en een stijl die je doelgroep aanspreken, en goed bij je bedrijf passen. In een duidelijke, luchtige en sfeervolle animatie vertel je een verhaal op een speelse of juist serieuze manier. Daar zetten we natuurlijk ook passende achtergrondmuziek, geluidseffecten en een prettige voice-over voor in. Hoe dan ook, de boodschap komt altijd helder over.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
@@ -63,7 +60,7 @@ blocks:
       ## ***Visie*** op animatie
 
 
-      Met alle mogelijkheden die moderne techniek biedt is 2D animatie, 3D Animatie, interactieve animatie en Virtual Reality animatie voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
+      Met alle mogelijkheden die moderne techniek biedt is [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D Animatie](https://www.philenflo.nl/2d-animatie/), interactieve animatie en Virtual Reality animatie voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
@@ -110,4 +107,9 @@ blocks:
       - DG0aSzvMj
       - sCR0-5I1N
       - fm2wFFmdb
+seo:
+  title: Animatie laten maken in Amsterdam | Door Phil & Flo Videomarketing
+  description: Animatie laten maken in Amsterdam doe je bij Phil & Flo |
+    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
+    innovatief
 ---
