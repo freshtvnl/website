@@ -30,4 +30,9 @@ blocks:
     knowledgebase_items:
       - aducBJ9c2
       - T4amK8QHE
+seo:
+  title: "Kennisbank | Wij verbeelden de wereld van morgen met animatie en video.
+    | Phil & Flo "
+  description: Meer weten over video en animatie? Lees en leer hier meer over
+    video en animatie.
 ---
