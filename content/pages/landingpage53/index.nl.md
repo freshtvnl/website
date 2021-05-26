@@ -42,7 +42,7 @@ blocks:
       ## Zet je animatie ***gericht*** in
 
 
-      Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, [Eindhoven](https://www.philenflo.nl/animatie-film-eindhoven/) of [Amsterdam](https://www.philenflo.nl/animatie-amsterdam/), en we vertellen je graag meer over [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf.
+      Naast dat we een team van getalenteerde animators hebben, weten we ook hoe je videomarketing strategisch kunt uitvoeren. Vooral online is video eigenlijk al niet meer weg te denken. Tussen de dagelijkse stroom van informatie is het extra belangrijk om op te vallen met een unieke animatiefilm. Kom langs op ons kantoor in Groningen, [Utrecht](https://www.philenflo.nl/animatie-studio-utrecht/), [Eindhoven](https://www.philenflo.nl/animatie-film-eindhoven/) of [Amsterdam](https://www.philenflo.nl/animatie-amsterdam/), en we vertellen je graag meer over [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
