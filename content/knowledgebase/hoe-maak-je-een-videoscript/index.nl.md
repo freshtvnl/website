@@ -1,6 +1,6 @@
 ---
 title: Hoe maak je een videoscript?
-draft: true
+draft: false
 id: rpWVEDLaX
 seo:
   title: "Hoe maak je een videoscript? | Kennisbank | Phil & Flo "
