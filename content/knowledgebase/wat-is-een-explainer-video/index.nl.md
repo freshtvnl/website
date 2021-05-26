@@ -1,6 +1,6 @@
 ---
 title: Wat is een explainer video?
-draft: true
+draft: false
 id: kai2lqv3_
 seo:
   title: "Wat is een explainer video? | Kennisbank | Phil en Flo "
