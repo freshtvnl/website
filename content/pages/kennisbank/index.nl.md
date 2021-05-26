@@ -19,6 +19,10 @@ blocks:
   - type: content_list
     title: Video
     content: Vragen over video
+    knowledgebase_items:
+      - w6e33cU2r
+      - KfSfEHxEE
+      - aJokfKM3l
   - type: content_list
     title: "Muziek "
     content: Vragen over muziek
