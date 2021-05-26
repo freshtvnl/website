@@ -16,6 +16,7 @@ blocks:
     content: Vragen over Animatie
     knowledgebase_items:
       - vxECChSTF
+      - b3fEs5TRG
   - type: content_list
     title: Video
     content: Vragen over video
