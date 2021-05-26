@@ -1,6 +1,6 @@
 ---
 title: Wat is een 4K video?
-draft: true
+draft: false
 id: jK3PgKA6H
 seo:
   title: "Wat is een 4K video? | Kennisbank | Phil & Flo "
