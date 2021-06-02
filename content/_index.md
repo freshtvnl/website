@@ -6,16 +6,14 @@ blocks:
     image:
       source: phil-flo-animatie.jpg
       alt: Phil en Flo
-    content: |-
-      
-
-      *Animatie - Video - Marketing*
+    content: "*Animatie - Video - Marketing*"
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
       autoplay: false
       image:
         source: phil-flo-animatie.jpg
+    align: center
   - type: content_block
     align: center
     content: >-
