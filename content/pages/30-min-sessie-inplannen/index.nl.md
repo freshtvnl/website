@@ -1,5 +1,5 @@
 ---
-title: 30 min sessie inplannen
+title: 30 minuten sessie
 slug: 30 minuten
 draft: false
 id: ySmd-ar5x
