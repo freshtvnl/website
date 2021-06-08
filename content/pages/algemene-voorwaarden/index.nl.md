@@ -212,19 +212,33 @@ blocks:
       3. Partijen zullen eerst een beroep op de rechter doen nadat zij zich tot het uiterste hebben ingespannen een geschil in onderling overleg te beslechten.
 
 
-      LOG:
+      **LOG:**
 
-      18 december 2020 Wijzigingen:
+
+      *08 juni 2021*
+
+
+      Wijzigingen:\
+
+      Artikel 6.1 - zin verwijderd: "...waarna de tweede termijn wordt gefactureerd, tenzij anders overeengekomen."
+
+
+      *18 december 2020* 
+
+
+      Wijzigingen:
 
       FreshTV Videomarketing gewijzigd naar Phil & Flo Creative Studio VOF
 
 
-      31 juli 2019 wijzigingen:
+      *31 juli 2019* 
 
+
+      Wijzigingen:\
 
       Artikel 1. Opdrachtnemer naam gewijzigd van FreshTV naar FreshTV Videomarketing
 
-      Artikel 2. geldigheidsduur offertes verkort van 60 dagen naar 30 dagen
+      Artikel 2. Geldigheidsduur offertes verkort van 60 dagen naar 30 dagen
 
       Artikel 6.1 Betalingstermijn gewijzigd in: 5 werkdagen na offerte goedkeuring
 
@@ -235,8 +249,10 @@ blocks:
       Artikel 6.6 Berekeningsmethode incasso Rapport voorwerk 2 verwijderd.
 
 
-      15 mei 2018 wijzigingen:
+      *15 mei 2018* 
 
+
+      Wijzigingen:\
 
       Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
 seo:
