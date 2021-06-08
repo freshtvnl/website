@@ -10,10 +10,11 @@ blocks:
       autoplay: true
     content: >-
       Phil & Flo Creative Studio komt voort uit FreshTV Videomarketing. Het
-      bedrijf bestaat al sinds 2009 onder de naam FreshTV. 
-
-
-      In 2021 hebben we afscheid genomen van deze naam en zijn we verder gegaan onder de huidige naam: Phil & Flo Creative Studio. Wij zijn een hecht team van professionals die energie haalt uit het werk dat we doen. We werken daarom voor organisaties die bij ons passen, volgens ons ***BLIEP-model***.
+      bedrijf bestaat al sinds 2009 onder de naam FreshTV. In 2021 hebben we
+      afscheid genomen van deze naam en zijn we verder gegaan onder de huidige
+      naam: Phil & Flo Creative Studio. Wij zijn een hecht team van
+      professionals die energie haalt uit het werk dat we doen. We werken daarom
+      voor organisaties die bij ons passen, volgens ons ***BLIEP-model***.
 
 
       Waarom? Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken. Wij willen organisaties, die zich actief inzetten voor een betere wereld, helpen hun boodschap te verkondigen, te verbeelden. Ook wij zetten ons actief in voor een betere wereld, bekijk ook onze [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/) voor meer informatie rondom onze maatschappelijke betrokkenheid.
