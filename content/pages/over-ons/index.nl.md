@@ -13,7 +13,7 @@ blocks:
 
 
       In 2021 hebben we afscheid genomen van deze naam en zijn we verder gegaan onder de huidige naam: Phil & Flo Creative Studio. Wij zijn een hecht team van professionals die energie haalt uit het werk dat we doen. We werken daarom voor organisaties die bij ons passen, volgens ons ***BLIEP-model***.
-    align: center
+    align: left
   - type: content_block
     content: >-
       ## ***Wij verbeelden de wereld van morgen.***
