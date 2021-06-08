@@ -8,7 +8,10 @@ image:
 blocks:
   - type: content_block
     align: center
-    content: "# ***Contact formulier***"
+    content: |-
+      # ***Neem contact met ons op***
+
+      Of bel ons op [085 -273 8331](call:+31852738331)
     form: 2nOvI3M4P
     displaymedia: null
   - type: content_block
