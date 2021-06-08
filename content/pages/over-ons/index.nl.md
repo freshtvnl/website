@@ -13,6 +13,7 @@ blocks:
       naam: Phil & Flo Creative Studio. Wij zijn een hecht team van
       professionals die energie haalt uit het werk dat we doen. We werken daarom
       voor organisaties die bij ons passen, volgens ons ***BLIEP-model***."
+    align: center
   - type: content_block
     content: >-
       ## ***Wij verbeelden de wereld van morgen.***
