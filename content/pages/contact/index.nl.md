@@ -17,6 +17,8 @@ blocks:
   - type: content_block
     align: left
     content: |-
+      ***[085 - 273 8331](call:+31852738331)***
+
       ***Groningen*** (Hoofdkantoor)\
       Oude-Boteringestraat 71\
       9712 GG Groningen
@@ -53,7 +55,7 @@ blocks:
       - Wbe7UH8gH
     more_items: false
 seo:
-  title: Contact gegevens Phil & Flo Videomarketing
+  title: Contact gegevens Phil & Flo Creative Studio
   description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
     of andere vragen? Neem contact met ons op. Phil & Flo Videomarketing
     contactpagina.
