@@ -27,7 +27,7 @@ blocks:
       ## ***Hoe***
 
 
-      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van een aantal kernwaarden die we hebben samengevat als ***BLIEP: Beste, Leukste, Innovatief, Efficiënt & Principieel.***
+      Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van ons BLIEP-model. BLIEP staat voor: ***Beste, Leukste, Innovatief, Efficiënt & Principieel.***
     align: right
     displaymedia: image
     image:
