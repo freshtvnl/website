@@ -7,12 +7,10 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      # Algemene voorwaarden 
+      # Algemene voorwaarden
 
 
-
-
-      ### Aanpassing op 18 december 2020
+      ### Aanpassing op 08 juni 2021
 
 
       Log onderaan pagina
@@ -123,7 +121,7 @@ blocks:
       ### Artikel 6. Betaling en incassokosten
 
 
-      1. Betaling dient steeds te geschieden binnen 14 dagen na factuurdatum, op een door Opdrachtnemer aan te geven wijze in de valuta waarin is gefactureerd, tenzij schriftelijk anders door Opdrachtnemer aangegeven. De betaling geschiedt in twee termijnen, de eerste zeventig procent van de totale offertesom vóór aanvang eerste werkzaamheden door Opdrachtnemer, maar uiterlijk binnen veertien werkdagen na goedkeuring offerte. De tweede termijn (dertig procent) na oplevering van gemaakte producten/ geleverde diensten, met een maximum van één kalenderjaar na facturering eerste termijn waarna de tweede termijn wordt gefactureerd, tenzij anders overeengekomen.
+      1. Betaling dient steeds te geschieden binnen 14 dagen na factuurdatum, op een door Opdrachtnemer aan te geven wijze in de valuta waarin is gefactureerd, tenzij schriftelijk anders door Opdrachtnemer aangegeven. De betaling geschiedt in twee termijnen, de eerste zeventig procent van de totale offertesom vóór aanvang eerste werkzaamheden door Opdrachtnemer, maar uiterlijk binnen veertien werkdagen na goedkeuring offerte. De tweede termijn (dertig procent) na oplevering van gemaakte producten/ geleverde diensten, met een maximum van één kalenderjaar na de facturering van de eerste termijn.
 
       2. Betaling per creditcard of Paypal is mogelijk tegen een opslag van 4% over het totale factuurbedrag inclusief btw.
 
