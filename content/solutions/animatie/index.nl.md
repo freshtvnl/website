@@ -239,7 +239,7 @@ blocks:
       - WZeAIcQkh
       - oKyfeghfA
 parent: wvUKuLAzh
-title: Animatie laten maken
+title: Animatie
 slug: Animatie laten maken
 weight: 1
 id: wvUKuLAzh
