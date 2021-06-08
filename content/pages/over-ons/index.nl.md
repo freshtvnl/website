@@ -7,10 +7,12 @@ blocks:
   - type: hero_block
     title: Over ***Phil en Flo***
     displaymedia: image
-    content: Phil & Flo Creative Studio komt voort uit FreshTV Videomarketing. Wij
-      bestaan al sinds 2009, maar zijn in 2021 veranderd van naam en van visie.
-      Lees ons verhaal hieronder voor meer informatie over ons team en onze
-      visie.
+    content: "Phil & Flo Creative Studio komt voort uit FreshTV Videomarketing. Het
+      bedrijf bestaat al sinds 2009 onder de naam FreshTV. In 2021 hebben we
+      afscheid genomen van deze naam en zijn we verder gegaan onder de huidige
+      naam: Phil & Flo Creative Studio. Wij zijn een hecht team van
+      professionals die energie haalt uit het werk dat we doen. We werken daarom
+      voor organisaties die bij ons passen, volgens ons ***BLIEP-model***."
   - type: content_block
     content: >-
       ## ***Wij verbeelden de wereld van morgen.***
