@@ -12,6 +12,9 @@ blocks:
 
       Boek nu geheel vrijblijvend een sessie met onze specialisten over de inzet van video, animatie of videomarketing.
     align: center
+  - type: contact_block
+    contacts:
+      - PZcCTyF1B
 seo:
   title: "30 minuten sessie | Phil & Flo | Wij verbeelden de wereld van morgen "
   description: Boek nu een vrijblijvende sessie over de inzet van video, animatie
