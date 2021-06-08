@@ -9,7 +9,7 @@ blocks:
   - type: content_block
     align: center
     content: |-
-      # ***Neem contact met ons op***
+      # Neem ***contact*** met ons op
 
       Of bel ons op [085 -273 8331](call:+31852738331)
     form: 2nOvI3M4P
