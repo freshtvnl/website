@@ -19,4 +19,10 @@ Disallow: *?*s=*
 Disallow: *?*cat=* 
 Disallow: *?*wordfence_logHuman=* 
 
+
+#DISALLOW SMARTRANKING 28052021
+Disallow: /review
+Disallow: /faq
+Disallow: /form
+
 Sitemap: https://www.philenflo.nl/sitemap.xml
