@@ -1,6 +1,7 @@
 ---
 title: Kennisbank
 slug: kennisbank
+weight: 9
 draft: false
 id: AHzSImg6g
 blocks:
