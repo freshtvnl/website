@@ -1,7 +1,7 @@
 ---
 title: Kennisbank
 slug: kennisbank
-weight: 9
+weight: ""
 draft: false
 id: AHzSImg6g
 blocks:
@@ -64,4 +64,7 @@ seo:
     | Phil & Flo "
   description: Meer weten over video en animatie? Lees en leer hier meer over
     video en animatie.
+menu:
+  footer:
+    weight: 6
 ---
