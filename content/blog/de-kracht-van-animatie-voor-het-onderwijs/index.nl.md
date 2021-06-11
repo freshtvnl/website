@@ -1,10 +1,10 @@
 ---
 title: De kracht van animatie voor het onderwijs
 slug: ""
-draft: true
+draft: false
 id: PytsW8UPX
 author: PZcCTyF1B
-date: 2021-06-11T08:07:36.887Z
+date: 2021-05-21T08:07:36.887Z
 color: yellow
 seo:
   title: "De kracht van animatie in het onderwijs | Phil & Flo | Blog "
