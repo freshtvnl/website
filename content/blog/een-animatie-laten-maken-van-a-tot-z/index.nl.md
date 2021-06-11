@@ -3,7 +3,7 @@ title: Een animatie laten maken van A tot Z
 slug: animatie-a-tot-z
 draft: false
 id: 1_tviX1LO
-date: 2021-06-11T08:20:56.490Z
+date: 2021-05-28T08:20:56.490Z
 seo:
   title: Een animatie laten maken van A tot Z | Phil & Flo | Blog
   description: "Hoe wordt een animatie gemaakt en waar moet je op letten? In dit
