@@ -27,6 +27,8 @@ De combinatie van beeld en geluid zorgt ervoor dat de boodschap beter blijft han
 
 Afgelopen jaar heeft ons team van Phil & Flo onder andere een uitleganimatie gemaakt om een nieuwe keuzerooster voor een middelbare school uit te leggen. Vaak als je je animatie goed inricht kan deze meerdere doelgroepen dienen, bijvoorbeeld kinderen, ouders maar ook docenten.
 
+![Iconen in het onderwijs](images/iconen-in-het-onderwijs.jpg)
+
 ## Hoe pas ik explanimations toe in mijn lespakket?
 
 Een explanimation is eigenlijk hetzelfde als een uitleganimatie. Wanneer je animatie toevoegt aan je lespakket, dan is het belangrijk dat deze goed aansluiten op het bestaande lesmateriaal. Het is aan te raden om lesmateriaal niet per se te vervangen door animatie maar vooral om deze aan te vullen met lesanimaties. Bijvoorbeeld voor een wiskundig hoofdstuk dat over de pythagorasstelling gaat. Op een speelse manier kan je interactieve opgaven in animatievorm maken. 
