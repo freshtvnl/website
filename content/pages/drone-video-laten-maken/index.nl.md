@@ -53,8 +53,12 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: center
-    content: "## Een greep uit ons portfolio"
+    align: left
+    content: >-
+      ## Een greep uit ons portfolio
+
+
+      Bekijk rechts één van onze dronefilms. Benieuwd naar meer voorbeelden? Bekijk dan hier [ons portfolio](https://www.philenflo.nl/portfolio/) of neem direct hieronder contact met ons op!
     displaymedia: youtube_video
     youtube:
       id: pu3hceo-s2s
