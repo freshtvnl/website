@@ -1,9 +1,13 @@
 ---
-title: Is Jouw Video marketing strategie SMART?
+title: Is jouw videomarketingstrategie SMART?
 draft: true
 id: LvVBQQ9_8
 date: 2021-06-04T10:09:59.156Z
 color: red
+seo:
+  title: Is jouw videomarketingstrategie SMART? | Blog | Phil & Flo
+  description: Is Jouw videomarketingstrategie SMART? De beste tips voor een
+    slimme videomarketingstrategie vind je hier.
 ---
 Je merk, startup of organisatie gooit als een gek video in de digitale marketingmix, maar zet je genoeg slimheid achter je [videomarketingstrategie](https://www.philenflo.nl/oplossingen/videomarketing/)? Heb je ook een strategie? Besteed je dezelfde tijd en aandacht aan video als aan uitzendingen? Er is veel discussie over het rendement van video en sociale media in het algemeen. Wat doet al deze activiteit om meer spullen te verkopen? Het vooraf ontwikkelen van een videomarketingstrategie, intern of met een creatief bureau dat gespecialiseerd is in video, zal een enorm verschil maken in hoe uw video's en bredere digitale campagnes presteren.
 
