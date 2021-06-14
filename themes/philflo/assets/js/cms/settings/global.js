@@ -1,3 +1,5 @@
+import { cta } from "../partials/cta"
+
 const fields = [
   {
     label: 'Footer ',
@@ -53,6 +55,7 @@ const fields = [
           },
         ]
       },
+
       {
         label: 'Email',
         name: 'email',
@@ -100,6 +103,81 @@ const fields = [
             name: 'youtube',
             widget: 'string'
           },
+        ]
+      },
+      {
+        label: 'CTA bar',
+        name: 'ctabar',
+        widget: 'object',
+        fields: [
+          {
+            label: 'Contact',
+            name: 'contact',
+            widget: 'object',
+            fields: [
+              {
+                label: 'Title',
+                name: 'title',
+                widget: 'string',
+                required: false
+              },
+              {
+                label: 'Text',
+                name: 'text',
+                widget: 'text',
+                required: false
+              },
+              cta
+            ]
+          },
+          {
+            label: 'Session',
+            name: 'session',
+            widget: 'object',
+            fields: [
+              {
+                label: 'Title',
+                name: 'title',
+                widget: 'string',
+                required: false
+              },
+              {
+                label: 'Text',
+                name: 'text',
+                widget: 'text',
+                required: false
+              },
+              cta
+            ]
+          },
+          {
+            label: 'Contact block',
+            name: 'contactblock',
+            widget: 'object',
+            fields: [
+              {
+                label: 'Title',
+                name: 'title',
+                widget: 'string',
+                required: false
+              },
+              {
+                label: 'Text',
+                name: 'text',
+                widget: 'text',
+                required: false
+              },
+              cta
+            ]
+          },
+          {
+      
+          label: 'Bottom Text',
+          name: 'bottomtext',
+          widget: 'text',
+          required: false
+    
+          }
         ]
       },
     ]
