@@ -1,7 +1,7 @@
 ---
 title: Drone video laten maken
 slug: Drone video laten maken
-draft: true
+draft: false
 id: F4p7QAhub
 blocks:
   - type: hero_block
