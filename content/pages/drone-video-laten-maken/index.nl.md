@@ -3,6 +3,8 @@ title: Drone video laten maken
 slug: Drone video laten maken
 draft: false
 id: F4p7QAhub
+image:
+  source: images/dronevideo-laten-maken.jpg
 blocks:
   - type: hero_block
     align: left
