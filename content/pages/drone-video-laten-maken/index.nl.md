@@ -32,10 +32,10 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ## Filmdrone experts en regelgeving 
+      ## Filmdrone experts en regelgeving
 
 
-      Uiteraard volgen wij alle actuele drone wetgeving door de Nederlandse overheid en Europese Unie op de voet. Zo houden wij rekening met gecontroleerde luchtruimen en geldende ontheffingen. Onze drone specialisten hebben de nodige diploma’s en brevetten om veilig hun werk te kunnen doen. Dit zorgt voor een veilige en legale filmset. Om een goede dronefilm te schieten heb je naast de nodige papieren ook creatief talent en de technische know how nodig, zoals onze cameraman David op de foto rechts. Onze filmcrew heeft jarenlange ervaring en is op de hoogte van de nieuwste ontwikkelingen op filmgebied. Zo bieden wij meerwaarde voor jouw film.
+      Uiteraard volgen wij alle actuele drone wetgeving door de Nederlandse overheid en Europese Unie op de voet. Zo houden wij rekening met gecontroleerde luchtruimen en geldende ontheffingen. Onze drone specialisten hebben de nodige diploma’s en brevetten om veilig hun werk te kunnen doen. Dit zorgt voor een veilige en legale filmset. Om een goede dronefilm te schieten heb je naast de nodige papieren ook creatief talent en de technische know how nodig, zoals onze cameraman David op de foto. Onze filmcrew heeft jarenlange ervaring en is op de hoogte van de nieuwste ontwikkelingen op filmgebied. Zo bieden wij meerwaarde voor jouw film.
     displaymedia: image
     image:
       source: images/filmdrone-expert-david-phil-flo.jpg
@@ -58,7 +58,7 @@ blocks:
       ## Een greep uit ons portfolio
 
 
-      Bekijk rechts één van onze dronefilms. Benieuwd naar meer voorbeelden? Bekijk dan hier [ons portfolio](https://www.philenflo.nl/portfolio/) of neem direct hieronder contact met ons op!
+      Bekijk één van onze dronefilms. Benieuwd naar meer voorbeelden? Bekijk dan hier [ons portfolio](https://www.philenflo.nl/portfolio/) of neem direct hieronder contact met ons op!
     displaymedia: youtube_video
     youtube:
       id: pu3hceo-s2s
