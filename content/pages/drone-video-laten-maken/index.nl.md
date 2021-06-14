@@ -1,5 +1,6 @@
 ---
 title: Drone video laten maken
+slug: Drone video laten maken
 draft: true
 id: F4p7QAhub
 blocks:
