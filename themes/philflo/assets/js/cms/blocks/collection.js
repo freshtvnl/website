@@ -39,7 +39,7 @@ export const collection = {
           "value": "h5"
         },
       ],
-      required: true,
+      required: false,
       i18n: true,
     },
     {
@@ -70,6 +70,10 @@ export const collection = {
         {
           "label": "Cases",
           "value": "cases"
+        },
+        {
+          "label": "Blogs",
+          "value": "blog"
         }
       ],
       required: false,

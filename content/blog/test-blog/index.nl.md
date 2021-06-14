@@ -1,7 +1,7 @@
 ---
 title: Test blog
 slug: test
-draft: false
+draft: true
 id: 0gYzEo2HI
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
