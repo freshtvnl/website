@@ -1,7 +1,7 @@
 ---
 title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 slug: animatie-passend-bedrijf
-draft: true
+draft: false
 id: cN6DnY_vq
 author: PZcCTyF1B
 date: 2021-05-14T10:06:25.050Z
