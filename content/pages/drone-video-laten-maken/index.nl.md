@@ -53,7 +53,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: center
     content: "## Een greep uit ons portfolio"
     displaymedia: youtube_video
     youtube:
