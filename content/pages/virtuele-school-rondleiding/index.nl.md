@@ -125,4 +125,17 @@ blocks:
     image:
       source: images/interactieve-school-rondleiding-poster-qr-code.jpg
     align: right
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Succes boeken met jouw interactieve schooltour
+
+
+      Van begin tot eind helpt Phil & Flo jou om een interactieve schooltour te maken die je jarenlang ikan inzetten. Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
+    displaymedia: youtube_video
+    youtube:
+      id: IEH4pIwepc4
+    form: ""
 ---
