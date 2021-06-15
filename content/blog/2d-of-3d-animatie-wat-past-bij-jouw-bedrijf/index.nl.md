@@ -242,6 +242,8 @@ blocks:
       - oKyfeghfA
 slug: animatie-passend-bedrijf
 id: cN6DnY_vq
+image:
+  source: images/3d-animatie.jpg
 author: PZcCTyF1B
 date: 2021-05-14T10:06:25.050Z
 seo:
