@@ -68,4 +68,8 @@ blocks:
     align: center
     form: 2nOvI3M4P
     content: "## Meer weten over dronefilms?"
+  - type: selectedfaqs_block
+    title: Veel gestelde vragen
+    items:
+      - h2KbPth8a
 ---
