@@ -42,6 +42,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
       ## 360 video tour
