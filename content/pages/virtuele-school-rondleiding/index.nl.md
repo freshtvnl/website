@@ -138,4 +138,10 @@ blocks:
     youtube:
       id: IEH4pIwepc4
     form: ""
+  - type: content_block
+    video:
+      autoplay: true
+    align: center
+    content: "## Wil je meer weten? Stuur ons een bericht, of bel ons!"
+    form: ""
 ---
