@@ -77,8 +77,11 @@ blocks:
 
 
       De volgende stap is het verder inkleuren van de kaders die getekend zijn. Wat en wie gaan we precies filmen? Gaan we mensen interviewen of werken we met een voice-over? Onze creative producers leiden een creatieve sessie waarin we samen alle ideeën en wensen doorspreken. Wij geven gedegen advies over wat wel en wat minder goed werkt. Al deze ideeën verzamelen we en verwerken we in een wireframe.
-
-
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
       ### Wireframe
 
 
@@ -89,18 +92,34 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/CSB-Film-met-keuzes-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
       ### Draaiboek voor jouw virtuele rondleiding
 
 
       Nu de basis staat in de vorm van een wireframe kan er een filmdag gepland worden. Op basis van de wireframe maakt de creative producer afspraken met jullie om de benodigde mensen en filmlocaties voor te bereiden. Alle informatie wordt verzameld in één overzichtelijk draaiboek.
-
-
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
+    align: right
+    content: >-
       ### Draaidag
 
 
       Het moment suprême is aangebroken, de filmdag. Alles is perfect voorbereid en we schieten een prachtige, effectieve film aan de hand van het draaiboek. Onze ervaring is dat het een unieke ervaring is waaraan veel plezier wordt beleefd door de leerlingen en docenten. Onze ervaren filmcrew werkt hard door en zet waar nodig de puntjes op de ï op alle filmlocaties. De perfecte draaidag is een samenspel tussen school en filmcrew. Na een lange dag filmen, is iedereen overgeleverd aan onze ervaren 360 film editor. Spannend!
-    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ### Opleveren
+
+
+      Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback, verwerken wij dit, en maken we samen de interactieve schooltour een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden. Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met qr-code.
+    displaymedia: image
+    image:
+      source: images/interactieve-digitale-school-rondleiding-wireframe.jpg
+    align: right
 ---
