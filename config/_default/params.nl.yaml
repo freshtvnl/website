@@ -31,16 +31,15 @@ footer:
       title: "Neem contact op "
       text: "Of stuur ons een email op:"
     session:
-      title: Gratis 30 minuten sessie
-      text: Boek nu geheel vrijblijvend een sessie met onze specialisten over de inzet
-        van video, animatie of videomarketing.
+      title: 30 minuten sessie
+      text: Boek nu een vrijblijvende sessie met onze specialisten!
       cta:
         url: /30-minuten/
         type: button
         text: Aanvragen
     contactblock:
       title: Stay in the loop
-      text: Schrijf je ook in voor onze nieuwsbrief
+      text: Schrijf je in voor onze nieuwsbrief
       cta:
         url: /nieuwsbrief/
         text: Nieuwsbrief aanmelden
