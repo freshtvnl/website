@@ -121,10 +121,12 @@ blocks:
 
 
       Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback, verwerken wij dit, en maken we samen de interactieve schooltour een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden. Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met qr-code.
-    displaymedia: image
+    displaymedia: youtube_video
     image:
       source: images/interactieve-school-rondleiding-poster-qr-code.jpg
     align: right
+    youtube:
+      id: IEH4pIwepc4
   - type: content_block
     video:
       autoplay: true
@@ -134,10 +136,12 @@ blocks:
 
 
       Van begin tot eind helpt Phil & Flo jou om een interactieve schooltour te maken die je jarenlang ikan inzetten. Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
-    displaymedia: youtube_video
+    displaymedia: iframe
     youtube:
-      id: IEH4pIwepc4
+      id: ""
     form: ""
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     video:
       autoplay: true
