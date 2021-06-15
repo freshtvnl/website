@@ -146,6 +146,10 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## Wil je meer weten? Stuur ons een bericht, of bel ons!"
+    content: >-
+      ## Wil je meer weten?
+
+
+      Benieuwd hoe wij andere scholen hebben geholpen met hun digitale rondleiding? Lees dan hier onze [case over CSB Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Heb je vragen of wil je graag een vrijblijvend adviesgesprek? Neem dan contact met ons!
     form: ""
 ---
