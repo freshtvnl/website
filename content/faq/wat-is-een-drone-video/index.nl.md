@@ -1,6 +1,6 @@
 ---
 title: Wat is een drone video?
-draft: true
+draft: false
 id: BzulDq9E2
 faq:
   question: Wat is een drone video?
