@@ -109,7 +109,7 @@ blocks:
       ### Draaidag
 
 
-      Het moment suprême is aangebroken, de filmdag. Alles is perfect voorbereid en we schieten een prachtige, effectieve film aan de hand van het draaiboek. Onze ervaring is dat het een unieke ervaring is waaraan veel plezier wordt beleefd door de leerlingen en docenten. Onze ervaren filmcrew werkt hard door en zet waar nodig de puntjes op de ï op alle filmlocaties. De perfecte draaidag is een samenspel tussen school en filmcrew. Na een lange dag filmen, is iedereen overgeleverd aan onze ervaren 360 film editor. Spannend!
+      Het moment suprême is aangebroken, de filmdag. Alles is perfect voorbereid en we schieten een prachtige, effectieve film aan de hand van het draaiboek. Onze ervaring is dat het een gezellige dag is waaraan veel plezier wordt beleefd door de leerlingen en docenten. Onze ervaren filmcrew werkt hard door en zet waar nodig de puntjes op de ï op alle filmlocaties. De perfecte draaidag is een samenspel tussen school en filmcrew. Na een lange dag filmen, is iedereen overgeleverd aan onze ervaren 360 film editor. Spannend!
     displaymedia: custom_video
   - type: content_block
     video:
