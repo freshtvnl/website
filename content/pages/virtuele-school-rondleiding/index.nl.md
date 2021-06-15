@@ -60,10 +60,12 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-%20School%20video%20Phil%20en%20Flo.mp4
     align: left
     content: >-
       ### Van idee naar opdracht
 
 
       Al onze samenwerkingen beginnen met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en vragen we jullie communicatiedoelstellingen uit. Vervolgens schetst onze consultant samen met jullie de technische kaders om zo tot een opdracht te komen. Onze consultants denken gelijk met je mee over wat het doel is van de film en wat er nodig is om deze effectief in te zetten na oplevering. Tijdens dit proces maak je ook kennis met je aangewezen creative producer. Deze persoon is jouw projectmanager, begeleidt je doorheen het proces en neemt zoveel mogelijk zorgen uit handen begeleidt je stap voor stap doorheen het proces. Heb je vragen, dan staat je creative producer voor je klaar!
+    displaymedia: custom_video
 ---
