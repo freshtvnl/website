@@ -20,7 +20,7 @@ blocks:
       voldoende instroom van leerlingen te hebben. Met een pakkende interactieve
       school tour van Phil & Flo spreek je zowel leerlingen als ouders aan met
       één pakkende film.
-    displaymedia: custom_video
+    displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
