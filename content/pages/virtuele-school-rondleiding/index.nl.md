@@ -68,4 +68,22 @@ blocks:
 
       Al onze samenwerkingen beginnen met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en vragen we jullie communicatiedoelstellingen uit. Vervolgens schetst onze consultant samen met jullie de technische kaders om zo tot een opdracht te komen. Onze consultants denken gelijk met je mee over wat het doel is van de film en wat er nodig is om deze effectief in te zetten na oplevering. Tijdens dit proces maak je ook kennis met je aangewezen creative producer. Deze persoon is jouw projectmanager, begeleidt je doorheen het proces en neemt zoveel mogelijk zorgen uit handen begeleidt je stap voor stap doorheen het proces. Heb je vragen, dan staat je creative producer voor je klaar!
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ### Creatieve sessie
+
+
+      De volgende stap is het verder inkleuren van de kaders die getekend zijn. Wat en wie gaan we precies filmen? Gaan we mensen interviewen of werken we met een voice-over? Onze creative producers leiden een creatieve sessie waarin we samen alle ideeën en wensen doorspreken. Wij geven gedegen advies over wat wel en wat minder goed werkt. Al deze ideeën verzamelen we en verwerken we in een wireframe.
+
+
+      ### Wireframe
+
+
+      De creative producer maakt een zogeheten wireframe waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn. In overleg werken we toe naar een definitieve wireframe.
+    displaymedia: image
+    image:
+      source: images/interactieve-digitale-school-rondleiding-wireframe.jpg
 ---
