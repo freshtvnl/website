@@ -31,4 +31,6 @@ blocks:
 
       Phil & Flo verbeeld de wereld van morgen, en richt zich op een vijftal branches. Onderwijs, is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
     displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
 ---
