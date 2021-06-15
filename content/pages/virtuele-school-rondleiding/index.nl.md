@@ -9,7 +9,7 @@ blocks:
     align: left
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB-digitale-open-dag-film-Phil-en-Flo-Phil-en-Flo.mp4
+      source_mp4: ""
     title: "***Virtuele school tour***"
     content: Hoe presenteer je jouw school aan ouders en kinderen anno 2021?
       Natuurlijk met een pakkende video waarin je jouw school presenteert. Maar
@@ -21,6 +21,12 @@ blocks:
       school tour van Phil & Flo spreek je zowel leerlingen als ouders aan met
       één pakkende film.
     displaymedia: custom_video
+    iframe:
+      source: <div style="width:100%;position:relative;padding-top:56.25%;"><iframe
+        id="iv_iframe"
+        src="https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257"
+        style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;"
+        allow="autoplay; fullscreen" allowfullscreen></iframe></div>
   - type: content_block
     video:
       autoplay: true
@@ -33,4 +39,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## 360 video tour
+
+
+      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met 360 graden school video’s en foto’s, maar ook met virtual reality, 3D rondleidingen en allerlei subvormen hiertussen in.
+    displaymedia: custom_video
 ---
