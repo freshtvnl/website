@@ -22,11 +22,7 @@ blocks:
       één pakkende film.
     displaymedia: custom_video
     iframe:
-      source: <div style="width:100%;position:relative;padding-top:56.25%;"><iframe
-        id="iv_iframe"
-        src="https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257"
-        style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;"
-        allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
     video:
       autoplay: true
