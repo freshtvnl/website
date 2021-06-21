@@ -8,7 +8,7 @@ image:
 color: blue
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
     title: "***We are going to the moon***"
@@ -20,4 +20,13 @@ blocks:
       exploration in the 21st century. Read the following page to learn more
       about who we are, what we stand for and why we are participating in this
       inspiring competition.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Who are Phil & Flo?
+
+
+      Phil & Flo is a creative studio in Groningen, the Netherlands, which specializes in film and animated content. Our customers come from all over the world. We believe in a better, saferand greener future, hence our slogan ''for the world of tomorrow'' or as we say here: ''voor de wereld van morgen''. We hate greenwashing and do not work for climate
 ---
