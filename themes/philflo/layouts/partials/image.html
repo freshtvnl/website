@@ -10,15 +10,22 @@
 {{ $size := (printf "%s%s%s" $width "x" $height ) }}
 {{ $size2x := (printf "%s%s%s" (print $width2x) "x" (print $height2x )) }}
 
-
 {{ $class := .class }}
+
 {{ if $source }}
+
 {{ with $page.Resources.GetMatch $source  }}
+
 {{ with .  }}
+
 {{ $src1x := (.Fill (printf "%s %s" $size "Center" )) }}
 {{ $src2x := (.Fill (printf "%s %s" $size2x "Center" )) }}
-<img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" alt="{{ $alt }}"
-  class=" {{ $class }}" width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy">
+{{ $src1xWebp := (.Fill (printf "%s %s %s" $size "Center" "webp" )) }}
+{{ $src2xWebp := (.Fill (printf "%s %s %s" $size2x "Center" "webp" )) }}
+<picture>
+  <source type="image/webp" srcset="{{ $src1xWebp.RelPermalink }} 1x, {{ $src2xWebp.RelPermalink }} 2x">
+  <img src="{{ $src1x.RelPermalink }}" alt="{{ $alt }}" title="{{ $alt }}" class="lazy {{ $class }}" width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy"   >
+</picture>
 {{ end }}
 {{ end }}
 {{ end }}
