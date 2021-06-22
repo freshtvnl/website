@@ -3,26 +3,26 @@
 {{ $params := .params }}
 {{ $heading := .params.heading }}
 
-<div class="bg-gray-100 text-gray-800 mb-12 lg:mb-20 xl:mb-32">
-  <div class="mx-auto  px-6 lg:px-8 xl:px-24 py-8 lg:py-12 xl:py-24">
+<div class="text-gray-800 bg-gray-100 ">
+  <div class="px-6 py-8 mx-auto lg:px-8 xl:px-24 lg:py-12 xl:py-24">
     {{ with $params.title }}
-      <h2 class="text-2xl font-bold mb-4 xl:mb-12">{{ . | markdownify }}</h2>
+      <h2 class="mb-4 text-2xl font-bold xl:mb-12">{{ . | markdownify }}</h2>
     {{ end }}
     {{ with $params.items }}
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6 lg:gap-6 xl:gap-12">
+    <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3 md:gap-6 lg:gap-6 xl:gap-12">
     {{ range . }}
       {{ range where $site.Pages "Params.id" . }}
       {{ $item := . }}
-      <a href="{{$item.RelPermalink}}" class="block relative overflow-hidden group">
+      <a href="{{$item.RelPermalink}}" class="relative block overflow-hidden group">
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "750" "height" "800" "class" "relative") }}
         {{ end }}
         <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-8 2xl:p-12 text-gray-100">
-          <h3 class="text-xl lg:text-3xl font-bold">
+          <h3 class="text-xl font-bold lg:text-3xl">
             {{ .Title }}
           </h3>
           {{ range where $site.Pages "Params.id" .Params.branch }}
-          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+          <span class="inline-block mt-1 text-lg">{{.Title}}</span>
           {{ end }}
         </div>
       </a>
@@ -30,8 +30,8 @@
     {{ end }}
     </div>
       {{ if $params.more_items}}
-      <div class="flex justify-center items-center pt-8 lg:pt-16">
-        <a href="/portfolio/" class="w-12 h-12 branch-element-bg flex items-center justify-center transform rotate-0 hover:rotate-45 duration-300  ">
+      <div class="flex items-center justify-center pt-8 lg:pt-16">
+        <a href="/portfolio/" class="flex items-center justify-center w-12 h-12 duration-300 transform rotate-0 branch-element-bg hover:rotate-45 ">
           <span class="sr-only">{{ T "view_more_items" }}</span>
           <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
         </a>

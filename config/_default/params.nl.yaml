@@ -39,9 +39,6 @@ footer:
         text: Aanvragen
     contactblock:
       title: Stay in the loop
-      text: Schrijf je in voor onze nieuwsbrief
-      cta:
-        url: /nieuwsbrief/
-        text: Nieuwsbrief aanmelden
-        type: link
+      text: ""
+      form: p4IWp1tCH
     bottomtext: Wij verbeelden de wereld van morgen. Animatie - Video - Branding

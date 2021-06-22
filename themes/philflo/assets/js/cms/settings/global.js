@@ -167,7 +167,19 @@ const fields = [
                 widget: 'text',
                 required: false
               },
-              cta
+              cta,
+              {
+                label: "Select Form",
+                name: "form",
+                widget: "relation",
+                collection: "forms",
+                search_fields: ["title"],
+                display_fields: ["title"],
+                value_field: "id",
+                multiple: false,
+                i18n: true,
+                required: false
+              },
             ]
           },
           {

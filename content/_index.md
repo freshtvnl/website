@@ -59,12 +59,7 @@ blocks:
       - dD7nogK0Q
       - cc-ik-qqS
     more_items: true
-  - type: content_block
-    video:
-      autoplay: true
-    form: p4IWp1tCH
-    align: center
-    content: "## ***Nieuwsbrief ontvangen!***"
+
 id: xXIrpfv7c
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen

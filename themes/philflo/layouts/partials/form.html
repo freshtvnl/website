@@ -1,4 +1,3 @@
-{{ $page := .page }}
 {{ $data := .data }}
 
 {{ $thankyou := $data.Params.thankyou_page}}
@@ -15,55 +14,55 @@
         <div class='col-span-4'>
           <label class="block">
             <span >Wat wil je bespreken?<span class="text-red-500">*</span></span>
-            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
+            <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="notes" name="notes"  required></textarea>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span>Wanneer? Kies datum<span class="text-red-500">*</span></span>
-            <input  class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="30mindatepicker" name="date" type="datetime" required>
+            <input  class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="30mindatepicker" name="date" type="datetime" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span>En tijdstip<span class="text-red-500">*</span></span>
-            <input  class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="30mintimepicker" name="time" type="datetime" required>
+            <input  class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="30mintimepicker" name="time" type="datetime" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input  class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
+            <input  class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="name" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="phonenumber" name="phonenumber" type="text"  required>
           </label>
         </div>
 
         <div class="col-span-4">
-          <label class="flex items-center cursor-pointer space-x-3">
+          <label class="flex items-center space-x-3 cursor-pointer">
             <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
             <span >{{ T "newsletter" }}</span>
           </label>
         </div>
 
         <div class="col-span-4">
-          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Aanvragen</button>
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Aanvragen</button>
         </div>
       </div>
       {{ end }}
@@ -72,66 +71,60 @@
         <div class='col-span-4'>
           <label class="block">
             <span >{{ T "notes" }} <span class="text-red-500">*</span></span>
-            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
+            <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="notes" name="notes"  required></textarea>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="name" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="phonenumber" name="phonenumber" type="text"  required>
           </label>
         </div>
         <div class="col-span-4">
-          <label class="flex items-center cursor-pointer space-x-3">
+          <label class="flex items-center space-x-3 cursor-pointer">
             <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
             <span >{{ T "newsletter" }}</span>
           </label>
         </div>
         <div class="col-span-4">
-          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
         </div>
       </div>
       {{ end }}
   
       {{ if eq $type "newsletter"}}
-        <div class='col-span-2'>
-          <label class="block">
-            <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+        <div class='col-span-4 md:col-span-2'>
+          <label class="block text-left">
+            <span class="text-lef" >{{ T "name" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="text" required>
           </label>
         </div>
-        <div class='col-span-2'>
-          <label class="block">
-            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
-          </label>
-        </div>
-        <div class='col-span-4'>
-          <label class="block">
+        <div class='col-span-4 md:col-span-2'>
+          <label class="block text-left">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
           </label>
         </div>
         <div class="col-span-4">
-          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "subscribe" }}</button>
+          <button type="submit" class="inline-block px-4 py-4 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "subscribe" }}</button>
         </div>
       </div>
       {{ end }}
@@ -139,43 +132,43 @@
         <div class='col-span-4'>
           <label class="block">
             <span >{{ T "notes" }} <span class="text-red-500">*</span></span>
-            <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="notes" name="notes"  required></textarea>
+            <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="notes" name="notes"  required></textarea>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="phonenumber" name="phonenumber" type="text"  required>
           </label>
         </div>
 
         <div class="col-span-4">
-          <label class="flex items-center cursor-pointer space-x-3">
+          <label class="flex items-center space-x-3 cursor-pointer">
             <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
             <span >{{ T "newsletter" }}</span>
           </label>
         </div>
 
         <div class="col-span-4">
-          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
         </div>
       </div>
       {{ end }}
@@ -184,35 +177,35 @@
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "birthday" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="birthday" name="birthday" type="text" placeholder="dd-mm-yyyy"  required >
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="birthday" name="birthday" type="text" placeholder="dd-mm-yyyy"  required >
           </label>
         </div>
         <div class='col-span-2'>
           <label class="block">
             <span >{{ T "phonenumber" }} <span class="text-red-500">*</span></span>
-            <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="phonenumber" name="phonenumber" type="text"  required>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="phonenumber" name="phonenumber" type="text"  required>
           </label>
         </div>
         <div class="col-span-4">
-          <label class="flex items-center cursor-pointer space-x-3">
+          <label class="flex items-center space-x-3 cursor-pointer">
             <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
             <span >{{ T "newsletter" }}</span>
           </label>
         </div>
         <div class="col-span-4">
-          <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
         </div>
       </div>
     {{ end }}
@@ -223,7 +216,7 @@
     <div class='col-span-4'>
       <label class="block">
         <span>Als bedankje wil ik een...<span class="text-red-500">*</span></span>
-        <select name="gift" id="gift" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <select name="gift" id="gift" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="zalando15">Zalando Giftcard t.w.v. €15,-</option>
           <option value="bol15">Bol.com cadeaubon t.w.v. €15,-</option>
         </select>
@@ -238,8 +231,8 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Contactpersoon salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het verkooptraject?</span>
-        <select name="salesmanager" id="salesmanager" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <span class="block mb-4 text-base text-gray-500">Wie is jouw primaire contactpersoon geweest tijdens het verkooptraject?</span>
+        <select name="salesmanager" id="salesmanager" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="suzan">Suzan</option>
           <option value="victor">Victor</option>
           <option value="frank">Frank</option>
@@ -252,48 +245,48 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Persoonlijke klik salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikSalesmanager" name="klikSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="klikSalesmanager" name="klikSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Bereikbaarheid salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidSalesmanager" name="bereikbaarheidSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="bereikbaarheidSalesmanager" name="bereikbaarheidSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Expertise salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseSalesmanager" name="expertiseSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseSalesmanager" name="expertiseSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Afspraken salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenSalesmanager" name="afsprakenSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="afsprakenSalesmanager" name="afsprakenSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Compliment(en) voor salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig tijdens het verkooptraject van onze salesmanager?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentSalesmanager" name="complimentSalesmanager"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat vond je prettig tijdens het verkooptraject van onze salesmanager?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="complimentSalesmanager" name="complimentSalesmanager"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Tip(s) voor salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze salesmanager?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsSalesmanager" name="tipsSalesmanager"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat kan beter aan de aansturing van onze salesmanager?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsSalesmanager" name="tipsSalesmanager"  required></textarea>
       </label>
     </div>
 
@@ -306,8 +299,8 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Contactpersoon projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
-        <select name="projectbegeleiding" id="projectbegeleiding" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <span class="block mb-4 text-base text-gray-500">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
+        <select name="projectbegeleiding" id="projectbegeleiding" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="inge">Inge</option>
           <option value="sebastiaan">Sebastiaan</option>
         </select>
@@ -317,48 +310,48 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Persoonlijke klik projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Bereikbaarheid projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Expertise projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Afspraken projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Compliment(en) voor projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Tip(s) voor projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
       </label>
     </div>
 
@@ -370,24 +363,24 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (volledig ontevreden) en 10 (razend enthousiast). Het cijfer wordt online gebruikt als referentie.</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (volledig ontevreden) en 10 (razend enthousiast). Het cijfer wordt online gebruikt als referentie.</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Toelichting algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Vertel hoe jij de samenwerking hebt ervaren</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Vertel hoe jij de samenwerking hebt ervaren</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Wat ga je met de video- of animatiefilm doen?<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
       </label>
     </div>
 
@@ -395,7 +388,7 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Welke videovormen zijn interessant voor de toekomst?<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Meerdere opties aanvinken is mogelijk.</span>
+        <span class="block mb-4 text-base text-gray-500">Meerdere opties aanvinken is mogelijk.</span>
         <fieldset>
           <div>
             <input type="checkbox" id="uitleganimatie" name="videoToekomst" value="uitleganimatie">
@@ -442,25 +435,25 @@
     <div class='col-span-2'>
       <label class="block">
         <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="name" required>
       </label>
     </div>
     <div class='col-span-2'>
       <label class="block">
         <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
       </label>
     </div>
     <div class='col-span-4'>
       <label class="block">
         <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">E-mailadres waar bon heen gaat</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+        <span class="block mb-4 text-base text-gray-500">E-mailadres waar bon heen gaat</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
       </label>
     </div>
 
     <div class="col-span-4">
-      <label class="flex items-center cursor-pointer space-x-3">
+      <label class="flex items-center space-x-3 cursor-pointer">
         <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
         <span >{{ T "newsletter" }}</span>
       </label>
@@ -468,7 +461,7 @@
 
  
     <div class="col-span-4">
-      <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
     </div>
 
     {{ end }}
@@ -478,7 +471,7 @@
     <div class='col-span-4'>
       <label class="block">
         <span>Als bedankje wil ik een...<span class="text-red-500">*</span></span>
-        <select name="gift" id="gift" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <select name="gift" id="gift" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="zalando25">Zalando Giftcard t.w.v. €25,-</option>
           <option value="bol25">Bol.com cadeaubon t.w.v. €25,-</option>
         </select>
@@ -493,8 +486,8 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Contactpersoon salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het verkooptraject?</span>
-        <select name="salesmanager" id="salesmanager" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <span class="block mb-4 text-base text-gray-500">Wie is jouw primaire contactpersoon geweest tijdens het verkooptraject?</span>
+        <select name="salesmanager" id="salesmanager" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="suzan">Suzan</option>
           <option value="victor">Victor</option>
           <option value="frank">Frank</option>
@@ -507,48 +500,48 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Persoonlijke klik salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikSalesmanager" name="klikSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="klikSalesmanager" name="klikSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Bereikbaarheid salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidSalesmanager" name="bereikbaarheidSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="bereikbaarheidSalesmanager" name="bereikbaarheidSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Expertise salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseSalesmanager" name="expertiseSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseSalesmanager" name="expertiseSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Afspraken salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenSalesmanager" name="afsprakenSalesmanager" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="afsprakenSalesmanager" name="afsprakenSalesmanager" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Compliment(en) voor salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig tijdens het verkooptraject van onze salesmanager?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentSalesmanager" name="complimentSalesmanager"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat vond je prettig tijdens het verkooptraject van onze salesmanager?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="complimentSalesmanager" name="complimentSalesmanager"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Tip(s) voor salesmanager<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze salesmanager?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsSalesmanager" name="tipsSalesmanager"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat kan beter aan de aansturing van onze salesmanager?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsSalesmanager" name="tipsSalesmanager"  required></textarea>
       </label>
     </div>
 
@@ -560,8 +553,8 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Contactpersoon projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
-        <select name="projectbegeleiding" id="projectbegeleiding" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1 h-12">
+        <span class="block mb-4 text-base text-gray-500">Wie is jouw primaire contactpersoon geweest tijdens het productietraject?</span>
+        <select name="projectbegeleiding" id="projectbegeleiding" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
           <option value="inge">Inge</option>
           <option value="sebastiaan">Sebastiaan</option>
         </select>
@@ -571,48 +564,48 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Persoonlijke klik projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (geen klik) en 10 (goede klik).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="klikProjectbegeleiding" name="klikProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Bereikbaarheid projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (niet bereikbaar) en 10 (uitstekend bereikbaar).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="bereikbaarheidProjectbegeleiding" name="bereikbaarheidProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Expertise projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (weinig expertise) en 10 (brede expertise).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseProjectbegeleiding" name="expertiseProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Afspraken projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (onduidelijke afspraken) en 10 (heldere afspraken).</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="afsprakenProjectbegeleiding" name="afsprakenProjectbegeleiding" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Compliment(en) voor projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat vond je prettig aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="complimentProjectbegeleiding" name="complimentProjectbegeleiding"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Tip(s) voor projectbegeleiding<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat kan beter aan de aansturing van onze projectbegeleider?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsProjectbegeleiding" name="tipsProjectbegeleiding"  required></textarea>
       </label>
     </div>
 
@@ -624,31 +617,31 @@
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Geef een cijfer tussen de 0 (volledig ontevreden) en 10 (razend enthousiast). Het cijfer wordt online gebruikt als referentie.</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
+        <span class="block mb-4 text-base text-gray-500">Geef een cijfer tussen de 0 (volledig ontevreden) en 10 (razend enthousiast). Het cijfer wordt online gebruikt als referentie.</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Toelichting algemeen eindcijfer samenwerking<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Vertel hoe jij de samenwerking hebt ervaren</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Vertel hoe jij de samenwerking hebt ervaren</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Wat ga je met de video- of animatiefilm doen?<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
-        <textarea rows="6" class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
+        <span class="block mb-4 text-base text-gray-500">Wat zijn de plannen om de betreffende film(s) te laten scoren? Welke strategie is bedacht om doelstelling(en) te halen?</span>
+        <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="watgajedoenmetproduct" name="watgajedoenmetproduct"  required></textarea>
       </label>
     </div>
 
     <div class='col-span-4'>
       <label class="block">
         <span class="block">Welke videovormen zijn interessant voor de toekomst?<span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">Meerdere opties aanvinken is mogelijk.</span>
+        <span class="block mb-4 text-base text-gray-500">Meerdere opties aanvinken is mogelijk.</span>
         <fieldset>
           <div>
             <input type="checkbox" id="uitleganimatie" name="videoToekomst" value="uitleganimatie">
@@ -695,20 +688,20 @@
     <div class='col-span-2'>
       <label class="block">
         <span >{{ T "name" }} <span class="text-red-500">*</span></span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="name" name="name" type="name" required>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="name" required>
       </label>
     </div>
     <div class='col-span-2'>
       <label class="block">
         <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="organization" name="organization" type="text" required>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
       </label>
     </div>
     <div class='col-span-4'>
       <label class="block">
         <span >{{ T "email" }} <span class="text-red-500">*</span></span>
-        <span class="text-gray-500 text-base block mb-4">E-mailadres waar bon heen gaat</span>
-        <input class="mt-1 block w-full text-gray-800 border border-gray-400 px-2 py-1" id="email" name="email" type="email" required>
+        <span class="block mb-4 text-base text-gray-500">E-mailadres waar bon heen gaat</span>
+        <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
       </label>
     </div>
 
@@ -719,14 +712,14 @@
     </div>
 
     <div class="col-span-4">
-      <label class="flex items-center cursor-pointer space-x-3">
+      <label class="flex items-center space-x-3 cursor-pointer">
         <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
         <span >{{ T "newsletter" }}</span>
       </label>
     </div>
 
     <div class="col-span-4">
-      <button type="submit" class="mt-6 branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
     </div>
 
     {{ end }}
