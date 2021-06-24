@@ -72,7 +72,6 @@ blocks:
     form: ""
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
       - kJ07QyNzs
     content: ""
 ---
