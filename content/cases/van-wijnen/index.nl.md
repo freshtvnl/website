@@ -69,9 +69,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: HpiJkfo88pQ
-    form: mVPMJ90XQ
+    form: ""
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+      - kJ07QyNzs
     content: ""
 ---
