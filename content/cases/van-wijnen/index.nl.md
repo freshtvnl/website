@@ -15,9 +15,12 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronevideo-nieuwbouwwijk-Phil-en-Flo.mp4
     title: "***Diepstroeten, niet zomaar een wijk***"
-    content: >-
-      
-      In het alsmaar drukker wordende Nederland zijn er gelukkig nog steeds bouwprojecten waarin ruimte is voor landelijk wonen en een groene leefomgeving. In het kleine stadje Assen in de provincie Drenthe vinden we het mooie Diepstroeten. Een wijk en gebied gerealiseerd door Van Wijnen en haar partners. Een mooie showcase voor Van Wijnen om te laten zien hoe zij samen met lokale partners prachtige leefgebieden kunnen realiseren.
+    content: Nederland wordt steeds voller, maar er zijn gelukkig nog steeds
+      bouwprojecten waarin ruimte is voor landelijk wonen en een groene
+      leefomgeving. In het kleine stadje Assen in de provincie Drenthe vinden we
+      het mooie Diepstroeten. Een wijk en gebied gerealiseerd door Van Wijnen en
+      haar partners. Een mooie showcase voor Van Wijnen om te laten zien hoe zij
+      samen met lokale partners prachtige leefgebieden kunnen realiseren.
     displaymedia: custom_video
   - type: content_block
     video:
