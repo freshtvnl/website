@@ -69,4 +69,7 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: HpiJkfo88pQ
+  - type: contact_block
+    contacts:
+      - 7VtuzLwVv
 ---
