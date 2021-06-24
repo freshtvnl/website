@@ -53,9 +53,9 @@ blocks:
       ## Interviewen van de betrokkenen
 
 
-      Één van de mooiste dingen om te doen is het interviewen. Helemaal als de gesprekspartners zoals Luc en Jan-Theo zo enthousiast zijn over hun samenwerking.
+      Één van de mooiste dingen om te doen is het interviewen. Helemaal als de gesprekspartners zoals Luc en Jan-Theo enthousiast zijn over hun samenwerking.
 
-      Jan-Theo, adjunct-directeur van Van Wijnen, en Luc Bos, de betrokken stedenbouwkundige weten veel details over de wijk te benoemen en vertellen hoe hun samenwerking deuren opent en doelen realiseert. Om ook het woonaspect in de film terug te laten komen, interviewen we twee nieuwe bewoners, Jannie & Peter. Want de bewoners zelf kunnen natuurlijk het beste aangeven in hoeverre project Diepstroeten geslaagd is.
+      Jan-Theo, adjunct-directeur van Van Wijnen, en Luc Bos, de betrokken stedenbouwkundige weten veel details over de wijk te benoemen en vertellen hoe hun samenwerking deuren opent en doelen realiseert. Om ook het woonaspect in de film terug te laten komen, interviewen we twee nieuwe bewoners, Jannie & Peter. Want de bewoners zelf kunnen natuurlijk het beste aangeven in hoeverre woonpark Diepstroeten geslaagd is.
     displaymedia: custom_video
   - type: content_block
     video:
