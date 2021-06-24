@@ -1,5 +1,5 @@
 ---
-title: Phil & Flo animatie
+title: Phil & Flo Animatie
 slug: phil en flo animatie
 draft: false
 id: JmvEw2a3D
