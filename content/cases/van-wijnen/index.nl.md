@@ -36,4 +36,24 @@ blocks:
 
 
       In Diepstroeten aan de rand van Assen zijn 400 woningen gerealiseerd. Genoeg ruimte en keuze uit plekken om te filmen dus. Met een prachtig groene omgeving rondom, maar ook binnen de wijk, is er een mooie balans in de film tussen groen en bakstenen. Door slim gebruik te maken van drone shots die we zowel in het najaar als voorjaar gefilmd hebben, zie je een deel van de wijkontwikkeling terug. Door het samenspel tussen close-up beelden op de grond en dronebeelden vanuit de lucht kunnen we de wijk en haar unieke aspecten heel uiteenlopend weergeven. Dit helpt een totaalbeeld te creëren.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Interviewen van de betrokkenen
+
+
+      Één van de mooiste dingen om te doen is het interviewen. Helemaal als de gesprekspartners zoals Luc en Jan-Theo zo enthousiast zijn over hun samenwerking.
+
+      Jan-Theo, adjunct-directeur van Van Wijnen, en Luc Bos, de betrokken stedenbouwkundige weten veel details over de wijk te benoemen en vertellen hoe hun samenwerking deuren opent en doelen realiseert. Om ook het woonaspect in de film terug te laten komen, interviewen we twee nieuwe bewoners, Jannie & Peter. Want de bewoners zelf kunnen natuurlijk het beste aangeven in hoeverre project Diepstroeten geslaagd is.
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## Terug naar kern met een doelkrachtige film
+
+
+      Als je zoveel mooie beelden hebt geschoten, dan is het maken van keuzes het moeilijkst. Welke stukken in de interviews en de beelden geven jouw boodschap het beste weer. Onze ervaren editors gaan al het materiaal bij langs en maken een nauwkeurige selectie. We raden altijd aan om films kort en krachtig te houden, met als streven één minuut. Afhankelijk van je doelgroep kan dit natuurlijk ook langer zijn, zoals bijvoorbeeld bij deze presentatiefilm. Indien je je film op social media wilt inzetten, dan is ondertiteling een must. Dus ook voor deze film maakten we Nederlandse ondertiteling op maat. Benieuwd naar het resultaat? Bekijk de film & laat ons weten wat je er van vindt! Zelf op zoek naar een betrouwbare partij om jouw verhaal tot leven te brengen? Neem dan vrijblijvend contact met ons op!
 ---
