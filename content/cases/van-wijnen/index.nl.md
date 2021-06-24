@@ -65,7 +65,7 @@ blocks:
       ## Terug naar kern met een doelkrachtige film
 
 
-      Als je zoveel mooie beelden hebt geschoten, dan is het maken van keuzes het moeilijkst. Welke stukken in de interviews en de beelden geven jouw boodschap het beste weer. Onze ervaren editors gaan al het materiaal bij langs en maken een nauwkeurige selectie. We raden altijd aan om films kort en krachtig te houden, met als streven één minuut. Afhankelijk van je doelgroep kan dit natuurlijk ook langer zijn, zoals bijvoorbeeld bij deze presentatiefilm. Indien je je film op social media wilt inzetten, dan is ondertiteling een must. Dus ook voor deze film maakten we Nederlandse ondertiteling op maat. Benieuwd naar het resultaat? Bekijk de film & laat ons weten wat je er van vindt!
+      Als je zoveel mooie beelden hebt geschoten, dan is het maken van keuzes het moeilijkst. Welke stukken in de interviews en de beelden geven jouw boodschap het beste weer? Onze ervaren editors gaan al het materiaal bij langs en maken een nauwkeurige selectie. We raden altijd aan om films kort en krachtig te houden, met als streven één minuut. Afhankelijk van je doelgroep kan dit natuurlijk ook langer zijn, zoals bijvoorbeeld in deze presentatiefilm. Indien je je film op social media wilt inzetten, dan is ondertiteling echt een must. Dus ook voor deze film maakten we Nederlandse ondertiteling op maat. Benieuwd naar het resultaat? Bekijk de film & laat ons weten wat je er van vindt!
     displaymedia: youtube_video
     youtube:
       id: HpiJkfo88pQ
