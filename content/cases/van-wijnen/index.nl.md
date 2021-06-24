@@ -14,7 +14,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronevideo-nieuwbouwwijk-Phil-en-Flo.mp4
-    title: "***Gebiedsontwikkeling door Van Wijnen***"
+    title: "***Diepstroeten, niet zomaar een wijk***"
     content: >-
       
       In het alsmaar drukker wordende Nederland zijn er gelukkig nog steeds bouwprojecten waarin ruimte is voor landelijk wonen en een groene leefomgeving. In het kleine stadje Assen in de provincie Drenthe vinden we het mooie Diepstroeten. Een wijk en gebied gerealiseerd door Van Wijnen en haar partners. Een mooie showcase voor Van Wijnen om te laten zien hoe zij samen met lokale partners prachtige leefgebieden kunnen realiseren.
@@ -25,7 +25,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronebeelden-woonwijk-Phil-en-Flo.mp4
     align: left
     content: >-
-      ## Diepstroeten, niet zomaar een wijk
+      ## Gebiedsontwikkeling door Van Wijnen
 
 
       ‘’Van Wijnen doet meer dan bouwen’’ lees ik op de website, als ik mij inlees voor een nieuwe filmopdracht. Maar wat is dat dan? Tijdens een creatieve sessie waarin we alle ideeën voor de film doorspreken vertellen Kiki en Mark mij vol trots over hoe Van Wijnen naast het bouwen van woningen ook op andere manieren een maatschappelijke bijdrage levert. Denk aan het materiaalgebruik bij de bouw, het realiseren van groene leefomgevingen, het ondersteunen van lokale initiatieven en het spelen van een prominente rol in het terugbrengen van de CO2 uitstoot. Het sleutelwoord in deze is ‘’samenwerking’’. Met een inspirerende presentatiefilm mogen we de nieuwbouwwijk Diepstroeten in beeld brengen.
