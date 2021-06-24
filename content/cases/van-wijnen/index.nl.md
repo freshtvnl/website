@@ -42,7 +42,7 @@ blocks:
       ## Woonpark Diepstroeten
 
 
-      In Diepstroeten aan de rand van Assen zijn 400 woningen gerealiseerd. Genoeg ruimte en keuze uit plekken om te filmen dus. Met een prachtig groene omgeving rondom, maar ook binnen de wijk, is er een mooie balans in de film tussen groen en bakstenen. Door slim gebruik te maken van drone shots die we zowel in het najaar als voorjaar gefilmd hebben, zie je een deel van de wijkontwikkeling terug. Door het samenspel tussen close-up beelden op de grond en dronebeelden vanuit de lucht kunnen we de wijk en haar unieke aspecten heel uiteenlopend weergeven. Dit helpt een totaalbeeld te creëren.
+      In Diepstroeten aan de rand van Assen zijn 400 woningen gerealiseerd. Genoeg ruimte en keuze uit plekken om te filmen dus. Met een prachtig groene omgeving rondom, maar ook binnen de wijk, is er een mooie balans in de film tussen groen en bakstenen. Door slim gebruik te maken van drone shots die we zowel in het najaar als voorjaar gefilmd hebben, zie je een deel van de wijkontwikkeling terug. Door het samenspel tussen close-up beelden op de grond en dronebeelden vanuit de lucht kunnen we de wijk en haar unieke aspecten op verschillende manieren weergeven. Dit helpt een totaalbeeld te creëren.
     displaymedia: custom_video
   - type: content_block
     video:
