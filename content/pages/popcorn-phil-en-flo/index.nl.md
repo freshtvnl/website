@@ -11,5 +11,5 @@ blocks:
     title: Eet smakelijk
     displaymedia: youtube_video
     youtube:
-      id: B7UmUX68KtE
+      id: B7UmUX68KtE?t=55
 ---
