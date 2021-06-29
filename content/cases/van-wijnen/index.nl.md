@@ -31,7 +31,7 @@ blocks:
       ## Gebiedsontwikkeling door Van Wijnen
 
 
-      ‘’Van Wijnen doet meer dan bouwen’’ lees ik op de website, als ik mij inlees voor een nieuwe filmopdracht. Maar wat is dat dan? Tijdens een creatieve sessie waarin we alle ideeën voor de film doorspreken vertellen Kiki en Mark mij vol trots over hoe Van Wijnen naast het bouwen van woningen ook op andere manieren een maatschappelijke bijdrage levert. Denk aan het materiaalgebruik bij de bouw, het realiseren van groene leefomgevingen, het ondersteunen van lokale initiatieven en het spelen van een prominente rol in het terugbrengen van de CO2 uitstoot. Het sleutelwoord in deze is ‘’samenwerking’’. Met een inspirerende presentatiefilm mogen we de nieuwbouwwijk Diepstroeten in beeld brengen.
+      ‘’Van Wijnen doet meer dan bouwen’’ lees ik op de website, als ik mij inlees voor een nieuwe filmopdracht. Maar wat is dat dan? Tijdens een creatieve sessie waarin we alle ideeën voor de film doorspreken vertellen Kiki en Mark mij vol trots over hoe Van Wijnen naast het bouwen van woningen ook op andere manieren een maatschappelijke bijdrage levert. Denk aan het materiaalgebruik bij de bouw, het realiseren van groene leefomgevingen, het ondersteunen van lokale initiatieven en het spelen van een prominente rol in het terugbrengen van de CO2 uitstoot. Het sleutelwoord in deze is ‘’samenwerking’’. Met een inspirerende [presentatiefilm](https://www.philenflo.nl/oplossingen/video-laten-maken/) mogen we de nieuwbouwwijk Diepstroeten in beeld brengen.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -42,7 +42,7 @@ blocks:
       ## Woonpark Diepstroeten
 
 
-      In Diepstroeten aan de rand van Assen zijn 400 woningen gerealiseerd. Genoeg ruimte en keuze uit plekken om te filmen dus. Met een prachtig groene omgeving rondom, maar ook binnen de wijk, is er een mooie balans in de film tussen groen en bakstenen. Door slim gebruik te maken van drone shots die we zowel in het najaar als voorjaar gefilmd hebben, zie je een deel van de wijkontwikkeling terug. Door het samenspel tussen close-up beelden op de grond en dronebeelden vanuit de lucht kunnen we de wijk en haar unieke aspecten op verschillende manieren weergeven. Dit helpt een totaalbeeld te creëren.
+      In Diepstroeten aan de rand van Assen zijn 400 woningen gerealiseerd. Genoeg ruimte en keuze uit plekken om te filmen dus. Met een prachtig groene omgeving rondom, maar ook binnen de wijk, is er een mooie balans in de film tussen groen en bakstenen. Door slim gebruik te maken van drone shots die we zowel in het najaar als voorjaar gefilmd hebben, zie je een deel van de wijkontwikkeling terug. Door het samenspel tussen close-up beelden op de grond en [dronebeelden](https://www.philenflo.nl/drone-video-laten-maken/) vanuit de lucht kunnen we de wijk en haar unieke aspecten op verschillende manieren weergeven. Dit helpt een totaalbeeld te creëren.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -74,4 +74,8 @@ blocks:
     contacts:
       - kJ07QyNzs
     content: ""
+seo:
+  title: Presentatiefilm voor Van Wijnen | Case | Phil & Flo
+  description: "Een unieke presentatiefilm voor Van Wijnen. Ontdek hier deze
+    unieke samenwerking en wat Phil & Flo voor jou kan betekenen. "
 ---
