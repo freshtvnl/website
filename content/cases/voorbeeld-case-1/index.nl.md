@@ -56,7 +56,19 @@ blocks:
       text: ""
       type: link
   - type: content_block
+    video:
+      autoplay: true
     align: right
+    content: >-
+      ## Het groene alternatief
+
+
+      Ook de mobiele batterij van Alfen is een prachtig groen alternatief voor onder andere de diesel generator. Benieuwd hoe de batterij werkt en welke voordelen deze heeft? Bekijk dan onze 3D animatie en leer meer!
+    displaymedia: youtube_video
+    youtube:
+      id: bnPFCbUfEf0
+  - type: content_block
+    align: left
     content: >-
       ## ***Visie van onze grafische vormgever***
 
