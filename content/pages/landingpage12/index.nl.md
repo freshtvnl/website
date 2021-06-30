@@ -3,9 +3,6 @@ title: bedrijfsfilm laten maken groningen
 slug: bedrijfsfilm laten maken groningen
 draft: false
 id: 4awsNMvv3ef
-seo:
-  title: Bedrijfsfilm laten maken Groningen - Productie en Marketing - Phil & Flo
-  description: Bedrijfsfilm laten maken in Groningen? Wij zijn dé specialist in succesvolle bedrijfsfilms in Groningen en omgeving. Bel ons direct voor afspraak ;)
 blocks:
   - type: hero_block
     title: Bedrijfsfilm laten maken in ***Groningen***
@@ -52,7 +49,7 @@ blocks:
       ## Bedrijfsfilm laten maken?
 
 
-      Ben je benieuwd geworden naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van animaties, bedrijfsfilms, video’s voor employer branding en explanimations, om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
+      Ben je benieuwd geworden naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het [maken van animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
@@ -63,4 +60,9 @@ blocks:
   - type: contact_block
     contacts:
       - Nc7XQAY2B
+seo:
+  title: Bedrijfsfilm laten maken Groningen - Productie en Marketing - Phil & Flo
+  description: Bedrijfsfilm laten maken in Groningen? Wij zijn dé specialist in
+    succesvolle bedrijfsfilms in Groningen en omgeving. Bel ons direct voor
+    afspraak ;)
 ---
