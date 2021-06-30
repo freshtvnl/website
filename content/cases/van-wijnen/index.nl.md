@@ -25,7 +25,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-Showcase-Peter_en_Jannie-lopen-Philenflo.mp4
+      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronefilm%20fietsen-Philenflo.mp4
     align: left
     content: >-
       ## Gebiedsontwikkeling door Van Wijnen
@@ -47,7 +47,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronefilm%20fietsen-Philenflo.mp4
+      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-Showcase-Peter_en_Jannie-lopen-Philenflo.mp4
     align: left
     content: >-
       ## Interviewen van de betrokkenen
