@@ -80,4 +80,8 @@ blocks:
       - 1L20ZiVSB
       - l2iDUK9xz
       - EJ-G-vnwx
+seo:
+  title: Drone video laten maken | Phil & Flo verbeelden de wereld van morgen
+  description: "Drone video laten maken voor passende content voor jouw doelgroep.
+    Spreek aan met goede content. | Phil & Flo "
 ---
