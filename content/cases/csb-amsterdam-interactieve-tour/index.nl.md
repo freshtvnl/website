@@ -134,7 +134,7 @@ blocks:
 
       De film spreekt voor zich zelf. Maar het resultaat houdt niet op bij een mooie film. Twee weken na oplevering neem ik contact op met Volkert, met de vraag: “Hoe gaat het?”
 
-      Volkert vertelt dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig!
+      Volkert vertelt dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig! Lees hier meer over onze [360 graden virtuele school rondleidingen](https://www.philenflo.nl/virtuele-school-rondleiding/).
     displaymedia: custom_video
     image:
       source: images/csb-in-de-klas.jpg
