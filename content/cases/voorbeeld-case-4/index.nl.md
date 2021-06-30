@@ -81,6 +81,9 @@ blocks:
       ‘’Het is inspirerend om te zien hoe het Coornhert succesvol het ''kleinschalige'' weet vast te houden, in een tijd waar schaalvergroting nog steeds de norm is. Onderwijs op maat dankzij een kern- en keuzerooster met daarbij veel persoonlijke aandacht voor de leerling. Dit was overduidelijk terug te zien tijdens onze draaidag. Er is niks mooiers dan werken voor organisaties met ideeën waar je in gelooft!’’ Sebastiaan – Creative Producer Video
 
 
+      Wil je zelf een promotievideo of een [virtuele school rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/)?
+
+
       Bel Sebastiaan op 085 - 273 8331 voor meer informatie.
     displaymedia: image
     image:
