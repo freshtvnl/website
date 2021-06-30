@@ -14,7 +14,9 @@ blocks:
     content: Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
       staan aan de basis van een nieuwe generatie die de wereld van morgen
       vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
-      fantastische branche. Bekijk hieronder een interactief voorbeeld.
+      fantastische branche met bijvoorbeeld een [virtuele school
+      rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
+      Bekijk hieronder een interactief voorbeeld.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
