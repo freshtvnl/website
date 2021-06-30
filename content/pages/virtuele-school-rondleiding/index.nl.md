@@ -14,12 +14,13 @@ blocks:
     content: Hoe presenteer je jouw school aan ouders en kinderen anno 2021?
       Natuurlijk met een pakkende video waarin je jouw school presenteert. Maar
       waarom zou je stoppen bij het kiezen voor een standaard video als je een
-      virtual tour of interactieve rondleiding kan maken? Phil & Flo werkt nauw
-      samen met verschillende scholen en helpt hen om communicatievraagstukken
-      op te lossen. Bijvoorbeeld de jaarlijks terugkerende uitdaging om
-      voldoende instroom van leerlingen te hebben. Met een pakkende interactieve
-      school tour van Phil & Flo spreek je zowel leerlingen als ouders aan met
-      één pakkende film.
+      virtual tour of [interactieve
+      video](https://www.philenflo.nl/oplossingen/interactieve-video/)
+      rondleiding kan maken? Phil & Flo werkt nauw samen met verschillende
+      scholen en helpt hen om communicatievraagstukken op te lossen.
+      Bijvoorbeeld de jaarlijks terugkerende uitdaging om voldoende instroom van
+      leerlingen te hebben. Met een pakkende interactieve school tour van Phil &
+      Flo spreek je zowel leerlingen als ouders aan met één pakkende film.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
@@ -31,7 +32,7 @@ blocks:
       ## Wie zijn Phil & Flo?
 
 
-      Phil & Flo verbeeld de wereld van morgen, en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
+      Phil & Flo verbeeld de wereld van morgen en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -44,7 +45,7 @@ blocks:
       ## 360 video tour
 
 
-      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met 360 graden school video’s en foto’s, maar ook met virtual reality, 3D rondleidingen en allerlei subvormen hiertussen in.
+      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen in.
     displaymedia: custom_video
   - type: content_block
     video:
