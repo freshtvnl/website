@@ -13,7 +13,7 @@ blocks:
     align: center
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronevideo-nieuwbouwwijk-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronebeelden-woonwijk-Phil-en-Flo.mp4
     title: "***Diepstroeten, niet zomaar een wijk***"
     content: Nederland wordt steeds voller, maar er zijn gelukkig nog steeds
       bouwprojecten waarin ruimte is voor landelijk wonen en een groene
@@ -25,7 +25,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-dronebeelden-woonwijk-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Van-Wijnen-Showcase-Peter_en_Jannie-lopen-Philenflo.mp4
     align: left
     content: >-
       ## Gebiedsontwikkeling door Van Wijnen
