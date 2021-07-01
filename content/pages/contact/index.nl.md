@@ -16,28 +16,43 @@ blocks:
     displaymedia: null
   - type: content_block
     align: left
-    content: |-
+    content: >-
       ***[085 - 273 8331](tel:+31852738331)***
 
-      [hallo@philenflo.nl](<mailto:hallo@philenflo.nl?subject=Hallo Phil & Flo>)
+
+      [hallo@philenflo.nl](<mailto:hallo@philenflo.nl?subject=Hallo Phil en Flo>)
+
 
       ***Groningen*** (Hoofdkantoor)\
+
       Oude-Boteringestraat 71\
+
       9712 GG Groningen
 
+
       ***Amsterdam***\
+
       Herengracht 420\
+
       1017 BZ Amsterdam
 
+
       ***Eindhoven***\
+
       Hurksestraat 64\
+
       5652 AL Eindhoven
 
+
       ***Algemene bedrijfsinformatie***\
+
       KVK Nummer: 80801331\
+
       BTW Nummer: NL861804983B01
 
+
       *Für unsere Deutsche Gäste:*\
+
       Impressum Deutschland: Direktor P. de Graaf / S. Abbas
     displaymedia: custom_video
     youtube:
