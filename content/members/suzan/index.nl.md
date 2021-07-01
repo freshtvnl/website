@@ -7,7 +7,7 @@ id: Nc7XQAY2B
 image:
   source: images/suzan-phil-en-flo.jpg
   alt: Suzan
-function: Co-founder
+function: Account Director (Co-founder)
 description: "Ik ben Suzan Abbas, Co-Founder van Phil & Flo. Ik vind het erg
   leuk om nieuwe organisaties te leren kennen en voor hun oplossingen aan te
   dragen die ze ondersteunen in hun marketing inzet of instructies. Met mijn
