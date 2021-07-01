@@ -7,7 +7,7 @@ id: kJ07QyNzs
 image:
   source: images/victor-phil-en-flo.jpg
   alt: Victor
-function: Consultant
+function: Account Director
 cta: >-
   Samen met jou bekijk ik hoe we video’s en animaties op de meest waanzinnige
   wijze kunnen vormgeven en inzetten. Ik luister graag naar jouw verhaal en geef
