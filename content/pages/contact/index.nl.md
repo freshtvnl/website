@@ -17,7 +17,9 @@ blocks:
   - type: content_block
     align: left
     content: |-
-      ***[085 - 273 8331](call:+31852738331)***
+      ***[085 - 273 8331](tel:+31852738331)***
+
+      [hallo@philenflo.nl](<mailto:hallo@philenflo.nl?subject=Hallo Phil & Flo>)
 
       ***Groningen*** (Hoofdkantoor)\
       Oude-Boteringestraat 71\
