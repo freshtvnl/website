@@ -7,7 +7,7 @@ id: PZcCTyF1B
 image:
   source: images/peter-phil-en-flo.jpg
   alt: Peter
-function: Co-founder
+function: Creative Director (Co-founder)
 cta: Ik ben als echte creatieveling betrokken bij veel projecten op strategische
   en creatieve basis. Bel me op 085 - 273 8331 voor een vrijblijvend gesprek.
 color: orange
