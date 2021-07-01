@@ -3,9 +3,6 @@ title: Communicatie in de zorg
 slug: Communicatie in de zorg
 draft: false
 id: 4awsNMvv3121212
-seo:
-  title: Communicatie in de zorg - Phil & Flo Videomarketing
-  description: Onderscheid je van andere zorgaanbieders met communicatie in de zorg. Jouw boodschap over goede zorg visualiseren door Phil & Flo videomarketing.
 blocks:
   - type: hero_block
     title: "***Communicatie in de zorg***"
@@ -29,7 +26,7 @@ blocks:
       Phil & Flo zet zich al jarenlang in voor verschillende zorginstanties. We helpen je met het uitleggen van producten en diensten of helpen je om geschikte kandidaten te vinden voor jouw vacatures.
 
 
-      Wij zetten succesvolle videocampagnes op, die jouw specifieke doelgroep(en) bereiken. We helpen je van a tot z en tackelen jouw uitdaging middels creatieve videomarketing. Zorgaanbieders zoals het UMCG, PRA Health Science, Chipsoft, Erasmus MC, AMC, Maasstad en Medilime hebben het succes van Phil & Flo al ervaren!
+      Wij zetten succesvolle videocampagnes op, die jouw specifieke doelgroep(en) bereiken. We helpen je van a tot z en tackelen jouw uitdaging middels creatieve [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Zorgaanbieders zoals het UMCG, PRA Health Science, Chipsoft, Erasmus MC, AMC, Maasstad en Medilime hebben het succes van Phil & Flo al ervaren!
     displaymedia: youtube_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
@@ -41,7 +38,10 @@ blocks:
       ## Je zoektocht naar personeel start hier!
 
 
-      De druk op de zorg wordt steeds groter, onder andere door de toenemende vergrijzing. Als werkgever in de zorg is het vinden van geschikt personeel daarom moeilijker maar belangrijker dan ooit! Phil & Flo helpt zorginstanties met het vinden van geschikte kandidaten. Wij doen dit door prikkelende en interessante werken-bij films te maken, die gericht zijn op specifieke zorgvacatures. In deze video’s benadrukken we de unieke aspecten van de zorginstelling, gaan we in op de bedrijfscultuur, collegialiteit en spreken we geschikte kandidaten rechtstreeks aan. Op deze manier solliciteren alleen de mensen die aansluiten bij het opgestelde vacatureprofiel. Onze employer branding film voor het UMCG is hier een perfect voorbeeld van.
+      De druk op de zorg wordt steeds groter, onder andere door de toenemende vergrijzing. Als werkgever in de zorg is het vinden van geschikt personeel daarom moeilijker maar belangrijker dan ooit! Phil & Flo helpt zorginstanties met het vinden van geschikte kandidaten. Wij doen dit door prikkelende en interessante werken-bij films te maken, die gericht zijn op specifieke zorgvacatures. In deze video’s benadrukken we de unieke aspecten van de zorginstelling, gaan we in op de bedrijfscultuur, collegialiteit en spreken we geschikte kandidaten rechtstreeks aan. Op deze manier solliciteren alleen de mensen die aansluiten bij het opgestelde vacatureprofiel. Onze [employer branding film voor het UMCG](https://www.philenflo.nl/portfolio/umcg-chirurgie-employer-branding-film/) is hier een perfect voorbeeld van.
+
+
+      Lees hier meer over [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/).
     displaymedia: youtube_video
     image:
       source: ""
@@ -53,7 +53,7 @@ blocks:
       ## ***Zorgproduct*** of dienstverlening
 
 
-      Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een 2D animatie, 3D animatie of Virtual Reality-animatie. We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
+      Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) of [Virtual Reality-animatie](https://www.philenflo.nl/vr-animatie-laten-maken/). We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
     displaymedia: youtube_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
@@ -65,7 +65,7 @@ blocks:
       ### Waarom Phil & Flo als partner in de zorg communicatie?
 
 
-      In deze digitale eeuw worden we dagelijks overspoeld met berichten en video’s op sociale media. Je moet dus echt iets unieks te bieden hebben, wil je opgemerkt worden. Wij van Phil & Flo zetten daarom in op creatieve, persoonlijke en innovatieve animaties en films. We blijven op de hoogte van de nieuwste technieken en mogelijkheden zodat jouw boodschap ook echt aankomt bij de beoogde doelgroep. We leveren niet alleen een animatie of video op, maar helpen je ook om deze effectief in te zetten in online marketingcampagnes. We kunnen je geheel ontzorgen als het gaat om videomarketing, en bieden passende oplossingen voor elk budget. Misschien nog wel het belangrijkste, we zijn de leukste videomarketeers van Nederland! Neem contact met ons op, en we helpen je met jouw uitdagingen en wensen.
+      In deze digitale eeuw worden we dagelijks overspoeld met berichten en video’s op sociale media. Je moet dus echt iets unieks te bieden hebben, wil je opgemerkt worden. Wij van Phil & Flo zetten daarom in op creatieve, persoonlijke en innovatieve animaties en films. We blijven op de hoogte van de nieuwste technieken en mogelijkheden zodat jouw boodschap ook echt aankomt bij de beoogde doelgroep. We leveren niet alleen een animatie of video op, maar helpen je ook om deze effectief in te zetten in online marketingcampagnes. We kunnen je geheel ontzorgen als het gaat om videomarketing, en bieden passende oplossingen voor elk budget. Misschien nog wel het belangrijkste, we zijn de leukste videomarketeers van Nederland! [Neem contact met ons op](https://www.philenflo.nl/contact/), en we helpen je met jouw uitdagingen en wensen.
     displaymedia: youtube_video
     image:
       source: images/peter-suzan-kopie.jpg
@@ -88,4 +88,9 @@ blocks:
   - type: contact_block
     contacts:
       - 7VtuzLwVv
+seo:
+  title: Communicatie in de zorg - Phil & Flo Videomarketing
+  description: Onderscheid je van andere zorgaanbieders met communicatie in de
+    zorg. Jouw boodschap over goede zorg visualiseren door Phil & Flo
+    videomarketing.
 ---
