@@ -29,7 +29,7 @@ blocks:
       ## ***Ingewikkeld*** onderwerp uitleggen?
 
 
-      Dankzij video onthouden mensen je boodschap beter. Als je als bedrijf bijvoorbeeld werkt met gevaarlijke grondstoffen of met zwaar materiaal, wil je alle veiligheidsinstructies bij iedereen binnen je organisatie duidelijk hebben. Een instructiefilm in de vorm van een (3D) animatie of een explanimation is dan bij uitstek geschikt voor het laten zien van gevaarlijke stoffen of de reacties van chemische stoffen, zonder dit in het echt te hoeven nabootsen voor video-opnames.
+      Dankzij video onthouden mensen je boodschap beter. Als je als bedrijf bijvoorbeeld werkt met gevaarlijke grondstoffen of met zwaar materiaal, wil je alle veiligheidsinstructies bij iedereen binnen je organisatie duidelijk hebben. Een instructiefilm in de vorm van een (3D) [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of een [explanimation](https://www.philenflo.nl/explanimation-laten-maken/) is dan bij uitstek geschikt voor het laten zien van gevaarlijke stoffen of de reacties van chemische stoffen, zonder dit in het echt te hoeven nabootsen voor video-opnames.
     displaymedia: custom_video
     image:
       source: images/aron-sophie.jpg
