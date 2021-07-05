@@ -51,13 +51,13 @@
   <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}" />
 
 
-  {{ $css := resources.Get "css/main.css" }}
+  {{ $css := resources.Get "css/main.bundle.css" }}
   {{ if .Site.IsServer }}
-  {{ $style := $css | resources.PostCSS }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  {{ $style := $css }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ else }}
-  {{ $style := $css | resources.PostCSS | minify  | fingerprint | resources.PostProcess }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ $style := $css | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" >
   {{ end }}
 
   <!-- Google Tag Manager -->
@@ -68,4 +68,4 @@
   })(window,document,'script','dataLayer','GTM-THMVXK3');</script>
   <!-- End Google Tag Manager -->
 
-  </head>
+</head>

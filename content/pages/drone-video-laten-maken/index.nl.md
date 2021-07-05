@@ -65,7 +65,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    form: formulieren-test
+    form: contact-formulier
     content: "## Meer weten over dronefilms?"
   - type: selectedfaqs_block
     title: Veel gestelde vragen

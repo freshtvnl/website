@@ -14,7 +14,7 @@ blocks:
     displaymedia: image
     image:
       source: ""
-    form: verjaardag
+    form: verjaardag-form
 seo:
   noindex: true
 ---

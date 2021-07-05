@@ -1,7 +1,6 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* purgecss start ignore */
 
@@ -73,98 +72,118 @@ em strong {
   @apply text-green-500;
 }
 
-.page-green {
-  .branch-element-bg {
+.page-green .branch-element-bg {
     @apply bg-green-500;
-  }
-
-  .branch-element-text {
-    @apply text-green-500;
-  }
-
-  .text-border, em strong, .menu-border {
-    @apply border-green-500;
-  }
-
-  .prose a {
-    @apply text-green-500 !important;
-  }
+}
+.page-green .branch-element-text {
+  @apply text-green-500;
 }
 
-.page-blue {
-  .branch-element-bg {
-    @apply bg-blue-500;
-  }
-  .text-border, em strong, .menu-border {
-    @apply border-blue-500;
-  }
-  .prose a {
-    @apply text-blue-500 !important;
-  }
-  .branch-element-text {
-    @apply text-blue-500;
-  }
+.page-green .text-border {
+  @apply border-green-500;
 }
 
-.page-red {
-  .branch-element-bg {
-    @apply bg-red-500;
-  }
-  .text-border, em strong, .menu-border {
-    @apply border-red-500;
-  }
-  .prose a {
-    @apply text-red-500 !important;
-  }
-  .branch-element-text {
-    @apply text-red-500;
-  }
+.page-green  em strong {
+  @apply border-green-500;
 }
 
-.page-orange {
-  .branch-element-bg {
-    @apply bg-orange-500;
-  }
-  .text-border, em strong, .menu-border {
-    @apply border-orange-500;
-  }
-  .prose a {
-    @apply text-orange-500 !important;
-  }
-  .branch-element-text {
-    @apply text-orange-500;
-  }
+.page-green  .menu-border {
+  @apply border-green-500;
 }
 
-.page-yellow {
-  .branch-element-bg {
-    @apply bg-yellow-500;
-  }
-  .text-border, em strong, .menu-border {
-    @apply border-yellow-500;
-  }
-  .prose a {
-    @apply text-yellow-500 !important;
-  }
-  .branch-element-text {
-    @apply text-yellow-500;
-  }
+.page-green .prose a {
+  @apply text-green-500 !important;
 }
 
-.page-pink {
-  .branch-element-bg {
-    @apply bg-pink-500;
-  }
-  .text-border, em strong, .menu-border {
-    @apply border-pink-500;
-  }
-  .prose a {
-    @apply text-pink-500 !important;
-  }
-  .branch-element-text {
-    @apply text-pink-500;
-  }
+
+.page-blue .branch-element-bg {
+  @apply bg-blue-500;
 }
+
+.page-blue .text-border {
+  @apply border-blue-500;
+}
+
+.page-blue em strong {
+  @apply border-blue-500;
+}
+
+.page-blue .menu-border {
+  @apply border-blue-500;
+}
+
+.page-blue .prose a {
+  @apply text-blue-500 !important;
+}
+
+.page-blue .branch-element-text {
+  @apply text-blue-500;
+}
+
+
+.page-red .branch-element-bg {
+  @apply bg-red-500;
+}
+
+.page-red  .text-border {
+  @apply border-red-500;
+}
+.page-red em strong {
+  @apply border-red-500;
+}
+.page-red .menu-border {
+  @apply border-red-500;
+}
+
+.page-red .prose a {
+  @apply text-red-500 !important;
+}
+
+.page-red  .branch-element-text {
+  @apply text-red-500;
+}
+
+.page-orange .branch-element-bg {
+  @apply bg-orange-500;
+}
+
+.page-orange .text-border, .page-orange em strong, .page-orange .menu-border {
+@apply border-orange-500;
+}
+.page-orange .prose a {
+@apply text-orange-500 !important;
+}
+
+.page-orange .branch-element-text {
+@apply text-orange-500;
+}
+
+.page-yellow  .branch-element-bg {
+  @apply bg-yellow-500;
+}
+.page-yellow  .text-border, .page-yellow  em strong, .page-yellow  .menu-border {
+  @apply border-yellow-500;
+}
+.page-yellow  .prose a {
+  @apply text-yellow-500 !important;
+}
+.page-yellow  .branch-element-text {
+  @apply text-yellow-500;
+}
+
+.page-pink .branch-element-bg {
+  @apply bg-pink-500;
+}
+.page-pink .text-border, .page-pink em strong, .page-pink .menu-border {
+  @apply border-pink-500;
+}
+.page-pink .prose a {
+  @apply text-pink-500 !important;
+}
+.page-pink .branch-element-text {
+  @apply text-pink-500;
+}
+
 
 .video-wrapper {
 	position:relative;

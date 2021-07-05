@@ -6,14 +6,14 @@ blocks:
   - type: content_block
     align: center
     content: "## Verjaardag formulier"
-    form: verjaardag
+    form: verjaardag-form
   - type: content_block
     align: center
-    form: review-extern
+    form: review-extern-form
     content: "## Extern review formulier"
   - type: content_block
     align: center
-    form: review-intern
+    form: review-intern-form
     content: "## Intern review formulier"
   - type: content_block
     align: center
@@ -21,7 +21,7 @@ blocks:
     content: "## Offerte formulier"
   - type: content_block
     align: center
-    form: formulieren-test
+    form: contact-formulier
     content: "## Contact formulier"
   - type: content_block
     align: center

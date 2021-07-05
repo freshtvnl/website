@@ -11,7 +11,7 @@ blocks:
       # Neem ***contact*** met ons op
 
       Bel: [085 273 8331](tel:+31852738331)
-    form: formulieren-test
+    form: contact-formulier
     displaymedia: null
   - type: content_block
     align: left

@@ -1,0 +1,73 @@
+{{ $site := .site }}
+{{ $page := .page }}
+{{ $params := .params }}
+{{ $align := .params.align }}
+{{ $display := .params.displaymedia }}
+{{ $site := .site }}
+{{ $page := .page }}
+{{ $params := .params }}
+{{ $align := .params.align }}
+{{ $display := .params.displaymedia }}
+
+
+
+<div class="max-w-screen-2xl mx-auto px-6 lg:px-8 xl:px-24 mb-12 ">
+  <div class="max-w-3xl mx-auto space-y-4 border-b border-gray-200 pb-4">
+    <div class="prose lg:prose-lg xl:prose-xl">
+      <h2>{{ $params.title | markdownify }}</h2>
+      {{ $params.content | markdownify }}
+    </div>
+
+    {{ with $params.pages_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+    
+    {{ with $params.branches_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.members_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.solutions_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.knowledgebase_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
+        <li class="flex align-center flex-col">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+
+  </div>
+</div>

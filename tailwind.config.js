@@ -2,6 +2,7 @@ const { colors, fontFamily, maxWidth, screens, lineHeight } = require('tailwindc
 const path = require("path");
 
 module.exports = {
+  mode: "jit",
   variants: {
     extend: {
       inset: ['hover', 'focus', 'group-hover'],
@@ -12,16 +13,14 @@ module.exports = {
     }
   },
   purge: {
-    enabled: process.env.HUGO_ENVIRONMENT === "production",
     content: [
-      path.resolve(__dirname) + "/layouts/**/*.html", 
-      path.resolve(__dirname) + "/content/**/*.md", 
+    "./themes/philflo/layouts/**/*.html", 
+    "./content/**/*.md", 
+    "./content/**/*.html",
     ],
-    options: {
-      safelist: [
-        'bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-pink-500', 'bg-yellow-500', 'bg-orange-500'
-      ],
-    },
+    safelist: [
+      'bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-pink-500', 'bg-yellow-500', 'bg-orange-500'
+    ],
   },
   theme: {
     extend: {

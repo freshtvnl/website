@@ -21,13 +21,12 @@
         {{ end}}
         
         {{ with $params.form }}
-        {{ range where $.Site.Pages "params.slug" . }}
-        {{ $item := . }}
-          {{ partial "form.html" (dict "page" $page "data" . ) }}
+          {{ range where $site.Pages "Params.slug" . }}
+          {{ $item := . }}
+            {{ partial "form.html" (dict "page" $page "data" . ) }}
+          {{ end }}
         {{ end }}
-        {{ end }}
-
-
+     
       </div>
       <div class="col-span-5 md:col-span-3">
         {{ if and ($params.video) (eq $display "custom_video") }}

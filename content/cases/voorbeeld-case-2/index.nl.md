@@ -1,6 +1,6 @@
 ---
 title: Payconiq - QR-code scan en betaal app
-slug: Uitlegfilm over betaalapp
+slug: uitlegfilm-over-betaalapp
 draft: false
 image:
   source: images/payconic-commercial.jpg

@@ -68,10 +68,9 @@
           {{ end}}
 
           {{ with .Site.Params.footer.ctabar.contactblock.form }}
-          
-          {{ range where $.Site.Pages "params.slug" . }}
-          {{ partial "form.html" (dict "data" . ) }}
-          {{ end }}
+            {{ range where $.Site.Pages "Params.slug" . }}
+              {{ partial "form.html" (dict "data" . ) }}
+            {{ end }}
           {{ end }}
 
 
@@ -171,9 +170,8 @@
 </footer>
 
 
-{{ $app := resources.Get "js/app.bundle.js" }}
-{{ $app := $app | resources.Minify }}
-{{ with $app }}
-{{ $secureJS := . | resources.Fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ with resources.Get "js/app.js" }}
+{{ $options := dict "defines" (dict "process.env.NODE_ENV" "\"development\"" "process.env.BaseURL" (printf `"%s"` $.Site.BaseURL)) }}
+{{ $script := . | js.Build $options | resources.Fingerprint }}
+<script src="{{ $script.RelPermalink }}"  defer></script>
 {{ end }}

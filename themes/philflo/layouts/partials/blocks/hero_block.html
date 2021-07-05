@@ -5,20 +5,18 @@
 
 <div class="max-w-screen-2xl w-full mx-auto  px-6 lg:px-8 xl:px-24 py-8 md:pb-20 xl:pt-24  {{if $params.image }} {{end}}  xl:-translate-y-6 transform">
   <div class="pr-6 md:pr-12 xl:pr-48 {{ if eq $params.align "center"}}text-center{{end}} {{ if eq $params.align "right"}}text-right{{end}} ">
-  {{ with $params.title }}
-  <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">{{ . | markdownify }}</h1>
-  {{ end }}
-  {{ with $params.content }}
-  <div class="prose lg:prose-lg xl:prose-xl max-w-full">
-    {{ . | markdownify }}
+    {{ with $params.title }}
+      <h1 class="mb-4 text-2xl font-bold md:text-3xl lg:text-4xl">{{ . | markdownify }}</h1>
+    {{ end }}
+    {{ with $params.content }}
+    <div class="max-w-full prose lg:prose-lg xl:prose-xl">
+      {{ . | markdownify }}
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
-  </div>
-  
+    
   {{ if and ($params.video) (eq $display "custom_video") }}
-  <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
-
-
+  <div class="relative z-20 pr-6 mt-6 lg:mt-12 md:pr-12 xl:pr-48">
 
     <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
       {{ with  $params.video.source_webm }}
@@ -30,9 +28,9 @@
     </video>
 
     {{ if $params.video.image }}
-    <button class="playbutton absolute inset-0 focus:outline-none flex items-center justify-center pr-6 md:pr-12 xl:pr-48 z-30 w-full">
-      <span class="branch-element-bg w-16 h-16 flex items-center justify-center text-white relative z-30  animate-pulse  duration-800 rounded">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
+    <button class="absolute inset-0 z-30 flex items-center justify-center w-full pr-6 playbutton focus:outline-none md:pr-12 xl:pr-48">
+      <span class="relative z-30 flex items-center justify-center w-16 h-16 text-white rounded branch-element-bg animate-pulse duration-800">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
         </svg>
       </span>
@@ -44,7 +42,7 @@
   {{ end }}
 
   {{ if and ($params.iframe) (eq $display "iframe") }}
-  <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
+  <div class="relative z-20 pr-6 mt-6 lg:mt-12 md:pr-12 xl:pr-48">
     <div class="video-wrapper">
       <iframe src="{{$params.iframe.source}}" frameborder="0"></iframe>
     </div>
@@ -55,25 +53,25 @@
     {{ partial "image.html" (dict "page" $page "source" $params.image.source "alt" $params.image.alt "width" "1600" "height" "900" "class" "mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative") }}
   {{ end }}
 
-  {{ if and ($params.youtube) (eq $display "youtube_video") }}
+{{ if and ($params.youtube) (eq $display "youtube_video") }}
   {{ with $params.youtube.id}}
-  <div class="mt-6 lg:mt-12 pr-6 md:pr-12 xl:pr-48 z-20 relative">
-    <div class="video-wrapper relative z-20 mt-8">
+  <div class="relative z-20 pr-6 mt-6 lg:mt-12 md:pr-12 xl:pr-48">
+    <div class="relative z-20 mt-8 video-wrapper">
       <div id="player-{{. | urlize}}" data-video="{{.}}" class="videoplayer"></div>
     </div>
   </div>
   {{ end }}
 {{ end }}
 
-  {{ if or $params.video $params.iframe $params.image $params.youtube }}
-  <div class="branch-element-bg w-2/3 pb-4 pt-12 md:pt-24 lg:pb-10 xl:py-16 transform float-right -translate-y-16 -mb-16 flex justify-end px-12">
+{{ if or $params.video $params.iframe $params.image $params.youtube }}
+  <div class="flex justify-end float-right w-2/3 px-12 pt-12 pb-4 -mb-16 transform -translate-y-16 branch-element-bg md:pt-24 lg:pb-10 xl:py-16">
     &nbsp;
     <a href="#main" class="hidden md:block">
-      <div class="w-12 h-12 bg-black bg-opacity-10 flex items-center justify-center animate-bounce duration-700 ">
+      <div class="flex items-center justify-center w-12 h-12 duration-700 bg-black bg-opacity-10 animate-bounce ">
         <span class="sr-only">{{ T "scroll_down" }}</span>
         <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
       </div>
     </a>
   </div>
-  {{ end }}
+{{ end }}
 </div>

@@ -55,6 +55,7 @@ blocks:
     items:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+      - uitlegfilm-over-betaalapp
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - coornhert-gymnasium-promotiefilm-school
       - umcg-chirurgie-employer-branding-film

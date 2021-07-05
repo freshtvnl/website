@@ -7,11 +7,11 @@
     <div class="col-span-7 sm:col-span-2"> 
       {{ with $params.contacts }}
         {{ range . }}
-          {{ range where $.Site.Pages "Params.slug" . }}
+          {{ range where $site.Pages "Params.slug" . }}
           {{ $item := . }}
           <a href="{{$item.RelPermalink}}" class="relative block lg:text-center">
             {{ with .Params.image}}
-            {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "transform scale-100 hover:scale-110 transition duration-300 lg:mx-auto  w-64 ") }}
+              {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "400" "height" "400" "class" "transform scale-100 hover:scale-110 transition duration-300 lg:mx-auto  w-64 ") }}
             {{ end }}
           </a>
         </div>
@@ -22,7 +22,7 @@
               {{ .Title }}  {{ with .Params.function }}- <span class="italic">{{.}}</span> {{ end }}
             </h3>
             {{ with .Params.cta }}
-            {{ . }}
+              {{ . }}
             {{ end }}
           </div>
         </div>
