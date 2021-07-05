@@ -1,8 +1,7 @@
 ---
 title: Mascot Animation
-slug: Mascot Animation
+slug: mascot-animation
 draft: false
-id: 5gbGxbaZ6
 blocks:
   - type: hero_block
     video:

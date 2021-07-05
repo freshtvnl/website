@@ -1,7 +1,7 @@
 ---
 title: Offerte formulier
 thankyou_page: /bedankt-offerte-aanvraag/
-id: F2bycGgYY
+slug: offerte-formulier
 type: quotation
 seo:
   noindex: true

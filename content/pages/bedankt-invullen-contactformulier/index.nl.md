@@ -2,7 +2,6 @@
 title: bedankt-invullen-contactformulier
 slug: bedankt-invullen-contactformulier
 draft: false
-id: mZIdByQL3
 blocks:
   - type: content_block
     align: center

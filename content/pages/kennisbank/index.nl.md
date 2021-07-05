@@ -3,7 +3,6 @@ title: Kennisbank
 slug: kennisbank
 weight: ""
 draft: false
-id: AHzSImg6g
 blocks:
   - type: hero_block
     align: left

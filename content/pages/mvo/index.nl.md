@@ -1,7 +1,6 @@
 ---
 title: MVO
-slug: Maatschappelijk verantwoord ondernemen
-id: zVQIJsr9a
+slug: maatschappelijk-verantwoord-ondernemen
 image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
 color: orange
@@ -77,7 +76,7 @@ blocks:
     align: right
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
     content: Meer informatie?
 seo:
   title: Klimaatneutraal - Phil & Flo Creative studio

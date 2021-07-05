@@ -2,12 +2,11 @@
 title: Bibi & Lulu
 slug: Bibi & Lulu
 draft: false
-id: H9Z9_XWBt
 image:
   source: images/bibi-en-lulu-phil-en-flo-2d-animatie.jpg
 content_type: portfolio
 color: yellow
-branch: q6TD9LMXU
+branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
     video:
@@ -33,7 +32,7 @@ blocks:
     form: ""
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - sophie
 seo:
   title: 2D animatie voor Bibi & Lulu | Case | Phil & Flo
   description: De wereld van Bibi & Lulu verbeeld door Phil & Flo | Ontdek hier

@@ -3,7 +3,7 @@ window.CMS_MANUAL_INIT = true
 
 
 import CMS from 'netlify-cms-app'
-import { Widget as IdWidget } from '@ncwidgets/id'
+
 
 import { branches } from './collections/branches'
 import { members } from './collections/members'
@@ -19,7 +19,7 @@ import { blog } from './collections/blog'
 import { forms } from './collections/forms'
 import { global } from './settings/global'
 
-CMS.registerWidget(IdWidget)
+
 
 CMS.init({
   config: {

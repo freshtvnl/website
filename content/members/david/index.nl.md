@@ -3,7 +3,6 @@ title: David
 slug: david
 weight: 2
 draft: false
-id: JvDU2US5E
 image:
   source: images/david-phil-en-flo.jpg
   alt: David

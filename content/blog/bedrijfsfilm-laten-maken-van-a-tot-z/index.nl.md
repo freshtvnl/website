@@ -1,7 +1,6 @@
 ---
 title: Bedrijfsfilm laten maken van a tot z
 draft: false
-id: HvfsjYLr1
 date: 2021-06-18T10:47:25.471Z
 color: blue
 seo:

@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een bedrijfsfilm? "
+slug: "hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm"
 draft: false
-id: vQQrwQorm
 faq:
   answer: >-
     Een goede bedrijfsfilm is een samenspel tussen ons en jullie. Zodra de

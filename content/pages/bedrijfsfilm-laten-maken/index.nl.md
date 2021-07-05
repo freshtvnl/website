@@ -1,8 +1,7 @@
 ---
 title: Bedrijfsfilm laten maken
-slug: Bedrijfsfilm laten maken
+slug: bedrijfsfilm-laten-maken
 draft: false
-id: 4awsNMvv3
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken***"
@@ -122,7 +121,7 @@ blocks:
       - FAjVSbB1J
       - fUUHxd57y
       - kvfvpTUdK
-      - 1DSh7K1W7
+      - hebben-jullie-voorbeelden-van-bedrijfsfilms
       - A9lJGw5Gs
       - BdLIoOBHo
       - h2KbPth8a

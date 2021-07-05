@@ -3,7 +3,6 @@ title: Goede Doelen
 slug: goede-doelen
 weight: 6
 draft: false
-id: 7P41lTMjs
 image:
   source: images/phil-en-flo-mvo.jpg
 color: red
@@ -36,12 +35,12 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
   - type: selectedwork_block
     items:
-      - DG0aSzvMj
-      - dD7nogK0Q
-      - sCR0-5I1N
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - coornhert-gymnasium-promotiefilm-school
+      - alfen-Smart-Charging-Network-3D-animatie
     more_items: true
 seo:
   title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo

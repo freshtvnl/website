@@ -1,8 +1,7 @@
 ---
 title: Communicatie in de zorg
-slug: Communicatie in de zorg
+slug: communicatie-in-de-zorg
 draft: false
-id: 4awsNMvv3121212
 blocks:
   - type: hero_block
     title: "***Communicatie in de zorg***"
@@ -87,7 +86,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
 seo:
   title: Communicatie in de zorg - Phil & Flo Videomarketing
   description: Onderscheid je van andere zorgaanbieders met communicatie in de

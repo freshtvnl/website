@@ -20,7 +20,7 @@ export const contact = {
       collection: "members",
       search_fields: ["title"],
       display_fields: ["title"],
-      value_field: "id",
+      value_field: "slug",
       multiple: true,
       i18n: true,
     },

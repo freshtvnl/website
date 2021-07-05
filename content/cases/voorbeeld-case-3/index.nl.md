@@ -2,13 +2,12 @@
 title: 3D commercial - Kunstenaars organisatie
 slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
 draft: false
-id: DG0aSzvMj
 image:
   source: images/goede-doelen-boknet-phil-en-flo-3d-commercial.jpg
   alt: ""
 content_type: case
 color: red
-branch: 7P41lTMjs
+branch: goede-doelen
 blocks:
   - type: hero_block
     title: "***Beroeps Organisatie Kunstenaars – 3D Animatie***"
@@ -80,7 +79,7 @@ blocks:
       - pnk6EF_0s
   - type: contact_block
     contacts:
-      - mayhQD07h
+      - aron
     content: ""
 seo:
   title: Beroeps Organisatie Kunstenaars - 3D Animatie - Phil & Flo Videomarketing

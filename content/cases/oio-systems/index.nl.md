@@ -2,12 +2,11 @@
 title: OIO Systems
 slug: OIO systems
 draft: false
-id: 6q_mVGswr
 image:
   source: images/2d-animatie-laten-maken.jpg
 content_type: case
 color: blue
-branch: YBLABQPne
+branch: Innovatieve-tech
 blocks:
   - type: hero_block
     video:
@@ -104,10 +103,10 @@ blocks:
       type: button
   - type: selectedreviews_block
     items:
-      - -VoVn5xcW
+      - oio-systems
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - sophie
 seo:
   title: "2D animatie voor OIO systems | Case | Phil & Flo "
   description: Een systeem voor morgen verbeeld in een 2D animatie | Phil & Flo

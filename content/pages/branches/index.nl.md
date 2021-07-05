@@ -1,7 +1,6 @@
 ---
 title: Branches
 slug: branches
-id: IuHzEZvwC
 blocks:
   - type: collection_block
     collection: branches

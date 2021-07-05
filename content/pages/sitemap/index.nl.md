@@ -3,7 +3,6 @@ title: Sitemap
 slug: sitemap
 weight: 1
 draft: false
-id: K7N5t7lJE
 blocks:
   - type: hero_block
     title: Sitemap
@@ -66,15 +65,15 @@ blocks:
   - type: content_list
     title: Members
     members_items:
-      - mayhQD07h
-      - JvDU2US5E
-      - 2BVK9YvSq
-      - lPRFZm9Wl
-      - PZcCTyF1B
-      - 7VtuzLwVv
-      - HZCh75c-T
-      - Nc7XQAY2B
-      - kJ07QyNzs
+      - aron
+      - david
+      - inge
+      - jurren
+      - peter-de-graaf
+      - sebastiaan
+      - sophie
+      - suzan-abbas
+      - victor
   - type: content_list
     title: Oplossingen
     solutions_items:

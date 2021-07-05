@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk tijdens de coronacrisis? "
+slug: "hoe-gaan-jullie-te-werk-tijdens-de-coronacrisis"
 draft: false
-id: EnRX9_Gv2
 faq:
   question: "Hoe gaan jullie te werk tijdens de coronacrisis? "
   answer: Onze animatoren werken net als normaal onder begeleiding van de

@@ -2,7 +2,6 @@
 title: Adresults video review
 slug: Adresults video review
 draft: false
-id: MaNQWLXGQ
 image:
   source: ""
 quote:

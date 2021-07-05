@@ -1,8 +1,7 @@
 ---
 title: Promotiefilm laten maken
-slug: Promotiefilm laten maken
+slug: promotiefilm-laten-maken
 draft: false
-id: 9x8EDNyU8
 blocks:
   - type: hero_block
     title: "***Een promotiefilm maken***"
@@ -58,7 +57,7 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 seo:
   title: Promotiefilm laten maken | Phil & Flo Videomarketing
   description: Promotiefilm laten maken? Phil & Flo kan je helpen! Samen zorgen we

@@ -1,8 +1,7 @@
 ---
 title: Instagram video laten maken
-slug: Instagram video laten maken
+slug: instagram-video-laten-maken
 draft: false
-id: 4awsNMasdfavv3
 blocks:
   - type: hero_block
     title: "***Instagram*** video laten maken"
@@ -81,5 +80,5 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 ---

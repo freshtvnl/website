@@ -2,7 +2,6 @@
 title: Bigshopper
 slug: Bigshopper
 draft: false
-id: qRKCKxn9O
 quote:
   stars: 5
   content: Voor Bigshopper.nl hebben we een animatievideo laten maken. We zijn

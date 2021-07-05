@@ -1,8 +1,7 @@
 ---
 title: Personalized video
-slug: Personalized video
+slug: personalized-video
 draft: false
-id: 4awsNM1212vv3
 blocks:
   - type: hero_block
     title: "***Personalized video***"
@@ -75,7 +74,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 seo:
   title: Personalized video - Phil & Flo Videomarketing
   description: Een personalized video staat voor je klant kennen en met concrete,

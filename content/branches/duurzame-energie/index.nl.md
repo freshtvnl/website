@@ -3,7 +3,6 @@ title: Duurzame Energie
 slug: duurzame-energie
 weight: 1
 draft: false
-id: 0uhmsFFxS
 image:
   source: images/duurzame-energie-phil-en-flo.jpg
   alt: text
@@ -83,13 +82,13 @@ blocks:
   - type: selectedwork_block
     title: Duurzame cases
     items:
-      - fm2wFFmdb
-      - sCR0-5I1N
+      - animatiefilm-over-biogas
+      - alfen-Smart-Charging-Network-3D-animatie
     more_items: true
   - type: contact_block
     content: ""
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
     more_items: true
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo

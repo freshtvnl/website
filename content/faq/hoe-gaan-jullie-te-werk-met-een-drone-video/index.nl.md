@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een drone video? "
+slug: "hoe-gaan-jullie-te-werk-met-een-drone-video"
 draft: false
-id: qe3xbszTa
 faq:
   question: "Hoe gaan jullie te werk met een drone video? "
   answer: Alles begint met een idee. Wij helpen je om jouw idee of wens te

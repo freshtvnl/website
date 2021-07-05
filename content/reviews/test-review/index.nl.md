@@ -1,7 +1,7 @@
 ---
 title: OIO systems
 draft: false
-id: -VoVn5xcW
+slug: oio-systems
 quote:
   image:
     source: ""

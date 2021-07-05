@@ -3,7 +3,6 @@ title: FAQS
 slug: faqs
 weight: 2
 draft: false
-id: Qbs9BZurj
 blocks:
   - type: hero_block
     title: "***FAQS***"
@@ -12,7 +11,7 @@ blocks:
   - type: selectedfaqs_block
     title: "Animatie "
     items:
-      - oKyfeghfA
+      - hebben-jullie-voorbeeld-van-een-animatie
       - W-L3X72e7
       - wajJLcNpD
       - XUGyETL3d
@@ -47,12 +46,12 @@ blocks:
       - RKdjRI3nb
       - ecluCf7VC
       - 5Y0nKlodD
-      - OG62JfGe6
+      - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - w2hs18SgM
   - type: selectedfaqs_block
     title: Employer branding video
     items:
-      - hcLczguex
+      - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - yA9PJEJpl
       - 24BPy5NNc
       - YvpGRlysR
@@ -65,7 +64,7 @@ blocks:
     title: Infographic
     items:
       - RfXqJInx1
-      - -sRp1ZF5c
+      - hebben-jullie-voorbeeld-van-een-infographic
       - aP7Lusll1
       - Tck0GKLIx
       - eWjOCHuNG
@@ -75,13 +74,13 @@ blocks:
   - type: selectedfaqs_block
     title: Instructie video
     items:
-      - BkhRsz8K3
+      - hebben-jullie-voorbeelden-van-een-instructie-video
       - GY4v_wAcS
       - V20xgwUfI
       - Sxa8VbA1M
       - 8cYNpLeQG
       - BUTjZ-N8B
-      - hcLczguex
+      - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - 2XOqgZhSc
       - RxklXp2Hj
       - R8mcgxseZ
@@ -91,7 +90,7 @@ blocks:
   - type: selectedfaqs_block
     title: Interactieve video
     items:
-      - Noa5BXo37
+      - hebben-jullie-voorbeelden-van-een-interactieve-video
       - F-4GWv9vh
       - uGfp3muJd
       - 3XzXqsdyL
@@ -101,7 +100,7 @@ blocks:
   - type: selectedfaqs_block
     title: Reclame
     items:
-      - -iFl9-Y2W
+      - hebben-jullie-voorbeelden-van-een-reclame
       - nv6T8dU14
       - S7c1gyOiy
       - 0gxc0yKmy
@@ -119,7 +118,7 @@ blocks:
     items:
       - 10KofX07N
       - lnjZaJeHF
-      - xnlSUoa_k
+      - hebben-jullie-voorbeelden-van-een-vr-video
   - type: selectedfaqs_block
     title: Voorlichtingsvideo
     items:

@@ -1,9 +1,8 @@
 ---
 title: vr animatie laten maken
-slug: vr animatie laten maken
+slug: vr-animatie-laten-maken
 weight: 1
 draft: false
-id: wvUKuLAzh61
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -126,13 +125,13 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
 seo:
   title: VR animatie laten maken - Phil & Flo Videomarketing

@@ -3,7 +3,6 @@ title: Suzan
 slug: suzan-abbas
 weight: 2
 draft: false
-id: Nc7XQAY2B
 image:
   source: images/suzan-phil-en-flo.jpg
   alt: Suzan

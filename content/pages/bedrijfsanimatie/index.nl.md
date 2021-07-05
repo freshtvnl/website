@@ -2,7 +2,6 @@
 title: bedrijfsanimatie
 slug: bedrijfsanimatie
 draft: false
-id: 0wFfBvVZd
 blocks:
   - type: hero_block
     content: Bedrijven kunnen steeds moeilijker uitleggen wie ze zijn en wat ze

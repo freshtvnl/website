@@ -2,7 +2,6 @@
 title: Ticketmaster
 slug: ticketmaster
 draft: false
-id: fewljR8Av
 quote:
   stars: 4
   auteur: Kelly

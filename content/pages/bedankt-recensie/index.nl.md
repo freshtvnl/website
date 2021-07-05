@@ -1,8 +1,7 @@
 ---
 title: Bedankt recensie
-slug: Bedankt recensie
+slug: bedankt-recensie
 draft: false
-id: qAjOlZfJu
 blocks:
   - type: content_block
     content: >-

@@ -1,9 +1,8 @@
 ---
 title: Fair Food
-slug: Fair Food
+slug: fair-food
 weight: 5
 draft: false
-id: CA0ObKsX0
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
   alt: Reclame Douwe Egberts
@@ -80,7 +79,7 @@ blocks:
     title: Cases
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "

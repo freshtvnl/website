@@ -12,7 +12,7 @@ blocks:
       * Vrijblijvend een maatwerk offerte ontvangen
       * Binnen 1 werkdag reactie
       * Leukste Creatieve bureau van Nederland
-    form: F2bycGgYY
+    form: offerte-formulier
 seo:
   title: Wat kost een succesvolle videofilm - Wat kost een goede animatiefilm - € ...
   description: Wat kost een animatiefilm? Wat kost een bedrijfsfilm? Binnen 1

@@ -1,8 +1,7 @@
 ---
 title: Gepersonaliseerde video
-slug: Gepersonaliseerde video
+slug: gepersonaliseerde-video
 draft: false
-id: 4awsNadf1Mvv3
 blocks:
   - type: hero_block
     title: "***Gepersonaliseerde video***"

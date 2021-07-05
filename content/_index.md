@@ -53,14 +53,13 @@ blocks:
   - type: selectedwork_block
     title: Cases
     items:
-      - sCR0-5I1N
-      - fm2wFFmdb
-      - DG0aSzvMj
-      - dD7nogK0Q
-      - cc-ik-qqS
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - coornhert-gymnasium-promotiefilm-school
+      - umcg-chirurgie-employer-branding-film
     more_items: true
 
-id: xXIrpfv7c
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld

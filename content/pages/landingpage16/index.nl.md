@@ -1,8 +1,7 @@
 ---
 title: Wervingsvideo laten maken
-slug: Wervingsvideo laten maken
+slug: wervingsvideo-laten-maken
 draft: false
-id: 4awsNMvv3gw
 blocks:
   - type: hero_block
     title: "***Wervingsvideo*** laten maken"
@@ -107,7 +106,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 seo:
   title: Wervingsvideo video laten maken | Specialist Phil & Flo Videomarketing
   description: Vacatures open? Laat een Wervingsvideo maken door Phil & Flo

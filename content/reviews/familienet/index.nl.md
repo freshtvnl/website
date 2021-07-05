@@ -2,7 +2,6 @@
 title: familienet
 slug: familienet
 draft: false
-id: sd8fPaxy9
 quote:
   stars: 5
   auteur: Stephanie Bloemink

@@ -3,7 +3,6 @@ title: Video
 slug: video laten maken
 weight: 2
 draft: false
-id: YwJ5gT_tJ
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
 color: blue

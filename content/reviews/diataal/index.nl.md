@@ -2,7 +2,6 @@
 title: Diataal animatie
 slug: diataal
 draft: false
-id: _fqI8a0st
 quote:
   stars: 4
   content: "Wij hebben de samenwerking met Phil & Flo (voormalig FreshTV) als heel

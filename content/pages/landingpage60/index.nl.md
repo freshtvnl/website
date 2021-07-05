@@ -1,9 +1,8 @@
 ---
 title: Educatieve animatiefilm maken
-slug: Educatieve animatiefilm maken
+slug: educatieve-animatiefilm-maken
 weight: 1
 draft: false
-id: wvUKuLAzh60
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -72,13 +71,13 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
 seo:
   title: Educatieve animatievideo maken - Phil & Flo Videomarketing

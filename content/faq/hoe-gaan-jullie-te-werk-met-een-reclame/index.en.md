@@ -1,4 +1,9 @@
 ---
+title: "Hoe gaan jullie te werk met een reclame? "
+slug: "hoe-gaan-jullie-te-werk-met-een-reclame "
 draft: false
-id: vzQYhtOwV
+faq:
+  question: "Hoe gaan jullie te werk met een reclame? "
+seo:
+  noindex: true
 ---

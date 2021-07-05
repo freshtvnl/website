@@ -89,9 +89,9 @@ blocks:
   - type: selectedreviews_block
     title: Google reviews
     items:
-      - qRKCKxn9O
-      - 4w-qBXhgd
-      - Wbe7UH8gH
+      - Bigshopper
+      - showa
+      - pra-health-sciences-review
     more_items: false
   - type: content_block
     align: left
@@ -225,9 +225,9 @@ blocks:
   - type: selectedwork_block
     title: Animatie laten maken
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - JBTh_8cBB
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - algemeen-dagblad-animatie
     more_items: true
   - type: selectedfaqs_block
     title: Veelgestelde vragen
@@ -239,12 +239,11 @@ blocks:
       - 2AacKoAXX
       - wajJLcNpD
       - WZeAIcQkh
-      - oKyfeghfA
+      - hebben-jullie-voorbeeld-van-een-animatie
 slug: animatie-passend-bedrijf
-id: cN6DnY_vq
 image:
   source: images/3d-animatie.jpg
-author: PZcCTyF1B
+author: peter-de-graaf
 date: 2021-05-14T10:06:25.050Z
 seo:
   title: "2D of 3D animatie? Wat past bij jouw bedrijf? | Phil & Flo | Blog "

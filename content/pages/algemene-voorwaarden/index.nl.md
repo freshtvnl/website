@@ -2,7 +2,6 @@
 title: Algemene voorwaarden
 slug: algemene-voorwaarden
 draft: false
-id: j18wstXaE
 blocks:
   - type: content_block
     align: center

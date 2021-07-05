@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een bedrijfsvideo? "
+slug: "hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo"
 draft: false
-id: dbdFXmJZ5
 faq:
   question: "Hoe gaan jullie te werk met een bedrijfsvideo? "
   answer: >-

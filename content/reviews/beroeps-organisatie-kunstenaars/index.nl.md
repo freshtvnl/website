@@ -1,7 +1,6 @@
 ---
 title: Beroeps Organisatie Kunstenaars
 draft: false
-id: pnk6EF_0s
 quote:
   stars: 5
   auteur: Henk Hofstra

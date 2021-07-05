@@ -1,8 +1,7 @@
 ---
 title: Drone video laten maken
-slug: Drone video laten maken
+slug: drone-video-laten-maken
 draft: false
-id: F4p7QAhub
 image:
   source: ""
 blocks:
@@ -66,7 +65,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    form: 2nOvI3M4P
+    form: formulieren-test
     content: "## Meer weten over dronefilms?"
   - type: selectedfaqs_block
     title: Veel gestelde vragen
@@ -75,7 +74,7 @@ blocks:
       - qe3xbszTa
       - arbAN6QLa
       - BzulDq9E2
-      - OG62JfGe6
+      - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - OEGv7ImOL
       - 1L20ZiVSB
       - l2iDUK9xz

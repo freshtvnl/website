@@ -3,7 +3,6 @@ title: Sebastiaan
 slug: sebastiaan
 weight: 2
 draft: false
-id: 7VtuzLwVv
 image:
   source: images/sebastiaan-phil-en-flo.jpg
   alt: Sebastiaan

@@ -1,8 +1,7 @@
 ---
 title: Bedankt 30 min sessie
-slug: Bedankt 30 min sessie
+slug: bedankt-30-min-sessie
 draft: false
-id: VD3mZNYsE
 blocks:
   - type: content_block
     align: center

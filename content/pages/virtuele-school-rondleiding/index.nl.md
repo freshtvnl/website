@@ -1,8 +1,7 @@
 ---
 title: Virtuele school rondleiding
-slug: Virtuele school rondleiding
+slug: virtuele-school-rondleiding
 draft: false
-id: GPl9TIH_S
 color: yellow
 blocks:
   - type: hero_block

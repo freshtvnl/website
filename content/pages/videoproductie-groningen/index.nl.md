@@ -1,8 +1,7 @@
 ---
 title: videoproductie groningen
-slug: videoproductie groningen
+slug: videoproductie-groningen
 draft: false
-id: DFhjXX4LC
 blocks:
   - type: hero_block
     title: "***Videoproductie Groningen***"
@@ -59,7 +58,7 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
 seo:
   title: Videoproductie Groningen - Succesvol en Snel - Phil & Flo Videomarketing
   description: Videoproductie laten maken? Phil & Flo is dé specialist op het

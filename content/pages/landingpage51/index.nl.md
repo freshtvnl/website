@@ -1,9 +1,8 @@
 ---
 title: Animatiefilm laten maken
-slug: Animatiefilm laten maken
+slug: animatiefilm-laten-maken
 weight: 1
 draft: false
-id: wvUKuLAzh51
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -145,7 +144,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - HZCh75c-T
+      - sophie
 seo:
   title: Animatiefilm Laten Maken - Say Yes to Team Phil en Flo
   description: Ook een succesvolle animatiefilm laten maken? Ons specialistische

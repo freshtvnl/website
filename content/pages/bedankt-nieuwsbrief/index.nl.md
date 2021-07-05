@@ -2,7 +2,6 @@
 title: bedankt nieuwsbrief
 slug: bedankt-nieuwsbrief
 draft: false
-id: GjnlxnefJ
 blocks:
   - type: content_block
     video:

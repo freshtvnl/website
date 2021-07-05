@@ -2,7 +2,6 @@
 title: feedback formulier
 slug: feedback
 draft: false
-id: 0KLJdiyaw
 blocks:
   - type: content_block
     align: center

@@ -1,8 +1,7 @@
 ---
 title: ESA Space Exploration
-slug: ESA Space Exploration
+slug: esa-space-exploration
 draft: true
-id: XNxr18xHn
 image:
   source: images/phil-flo-esa-award.jpg
 color: blue

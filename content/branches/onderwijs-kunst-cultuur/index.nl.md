@@ -3,7 +3,6 @@ title: Onderwijs, kunst & Cultuur
 slug: onderwijs-kunst-Cultuur
 weight: 4
 draft: false
-id: q6TD9LMXU
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
   alt: "Videomarketing onderwijs "
@@ -71,12 +70,12 @@ blocks:
   - type: selectedreviews_block
     more_items: false
     items:
-      - 4vF9wbJjI
-      - _fqI8a0st
+      - review-noorderpoort-college
+      - diataal
   - type: selectedwork_block
     title: Video voorbeelden
     items:
-      - DG0aSzvMj
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
 seo:
   title: "De wereld van morgen verbeelden voor de onderwijs, cultuur of kunst sector "
   description: Verbeeld met animatie, interactieve film, virtual reality jouw

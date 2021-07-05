@@ -3,7 +3,6 @@ title: Sophie
 slug: sophie
 weight: 2
 draft: false
-id: HZCh75c-T
 image:
   source: images/sophie-phil-en-flo.jpg
   alt: Sophie medewerker Phil & Flo

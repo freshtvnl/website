@@ -2,12 +2,11 @@
 title: Employer branding chipsoft
 slug: Employer branding chipsoft
 draft: false
-id: 6ODogkb7_
 image:
   source: images/employer-branding-chipsoft.jpg
 content_type: case
 color: blue
-branch: YBLABQPne
+branch: Innovatieve-tech
 blocks:
   - type: hero_block
     title: Employer Branding ChipSoft

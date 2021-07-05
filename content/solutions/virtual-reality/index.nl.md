@@ -3,7 +3,6 @@ title: Virtual Reality
 slug: virtual-reality
 weight: 4
 draft: false
-id: Yu_OxyeJZ
 image:
   source: images/vr-video-laten-maken.jpg
 blocks:
@@ -52,7 +51,7 @@ blocks:
       - 7obNOQ9pc
       - roOkjrjt7
       - 10KofX07N
-      - xnlSUoa_k
+      - hebben-jullie-voorbeelden-van-een-vr-video
       - 8RI9l7A5M
       - hBJ-OhYf5
       - xxRYGyG6K

@@ -1,8 +1,7 @@
 ---
 title: Employer Branding
-slug: Employer Branding
+slug: employer-branding
 draft: false
-id: yV7XuAtMH
 image:
   source: images/employer-branding-phil-en-flo.jpg
 blocks:
@@ -51,7 +50,7 @@ blocks:
     title: Google Reviews
     items:
       - MaNQWLXGQ
-      - zayLL6YOo
+      - DMT
   - type: content_block
     align: left
     displaymedia: youtube_video
@@ -152,7 +151,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
@@ -164,7 +163,7 @@ blocks:
       - yA9PJEJpl
       - xzn0OBnmP
       - YvpGRlysR
-      - hcLczguex
+      - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - o17nvltp2
       - edFC9xzuZ
       - Ox_Jkjx3t

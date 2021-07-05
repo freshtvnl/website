@@ -1,8 +1,7 @@
 ---
 title: Videoproductie
-slug: Videoproductie
+slug: videoproductie
 draft: false
-id: 4awadfsNMvv3
 seo:
   title: Videoproductie - Phil & Flo Videomarketing
   description: Een videoproductie laten maken? Wij weten dat video het meest effectieve middel is om verhalen te vertellen. Laat geen kans onbenut, start nu met video!
@@ -75,5 +74,5 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 ---

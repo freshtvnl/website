@@ -2,12 +2,11 @@
 title: Vertical Farming KG Systems
 slug: Vertical farming 3d animatie
 draft: false
-id: n4r8BMAU_
 image:
   source: images/vertical-farming.jpg
 content_type: case
 color: blue
-branch: YBLABQPne
+branch: Innovatieve-tech
 blocks:
   - type: hero_block
     title: "***Vertical Farming 3D animatie***"
@@ -44,9 +43,9 @@ blocks:
       source: images/kg-systems-bts.jpg
   - type: selectedreviews_block
     items:
-      - qRKCKxn9O
-      - 4w-qBXhgd
-      - zayLL6YOo
+      - Bigshopper
+      - showa
+      - DMT
     more_items: false
     title: Google Reviews
   - type: content_block
@@ -65,13 +64,13 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
   - type: selectedwork_block
     title: 3D voorbeelden
     items:
       - TVPuqcwvQ
-      - DG0aSzvMj
-      - sCR0-5I1N
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
     more_items: false
 seo:
   title: 3D animatie voor KG Systems | Phil & Flo | Verbeelden de wereld van morgen

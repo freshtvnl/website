@@ -1,8 +1,8 @@
 ---
 title: Branding video laten maken
-slug: Branding video laten maken
+slug: branding-video-laten-maken
 draft: false
-id: 4awsNMvv3aq
+
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld
@@ -69,7 +69,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 2BVK9YvSq
+      - inge
 seo:
   title: Branding video laten maken - Phil & Flo Videomarketing
   description: Waar sta jij voor als bedrijf? Vertaal het in een Branding Video. |

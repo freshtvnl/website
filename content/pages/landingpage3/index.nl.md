@@ -1,8 +1,7 @@
 ---
 title: Corporate Video
-slug: Corporate Video
+slug: corporate-video
 draft: false
-id: 4awsNMvv334
 seo:
   title: Corporate video | Let's do it the right way | Phil & Flo Videomarketing
   description: All of the greats have even greater origin stories. And here at Phil & Flo Videomarketing, we believe that every story is worth telling. Call us 085 - 273 8331
@@ -79,5 +78,5 @@ blocks:
     form: ""
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 ---

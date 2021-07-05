@@ -3,7 +3,6 @@ title: Innovatieve Tech
 slug: Innovatieve-tech
 weight: 3
 draft: false
-id: YBLABQPne
 image:
   source: images/vertical-farming.jpg
 color: blue
@@ -84,12 +83,12 @@ blocks:
   - type: selectedreviews_block
     title: Google Reviews
     items:
-      - BpdbRCOAr
-      - qRKCKxn9O
-      - 4w-qBXhgd
+      - TNO-Review
+      - Bigshopper
+      - showa
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 seo:
   title: Innovatieve tech | Phil & Flo creative studio voor elke branche
   description: Videomarketing voor de innovatieve technologie branche. Phil & Flo

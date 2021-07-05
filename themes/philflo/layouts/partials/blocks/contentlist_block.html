@@ -20,7 +20,7 @@
 
     {{ with $params.pages_items }}
     <ul class="max-w-3xl mx-auto space-y-3 text-lg">
-      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
         <li class="flex align-center flex-col">
           <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
         </li>
@@ -30,7 +30,7 @@
     
     {{ with $params.branches_items }}
     <ul class="max-w-3xl mx-auto space-y-3 text-lg">
-      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
         <li class="flex align-center flex-col">
           <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
         </li>
@@ -40,7 +40,7 @@
 
     {{ with $params.members_items }}
     <ul class="max-w-3xl mx-auto space-y-3 text-lg">
-      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
         <li class="flex align-center flex-col">
           <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
         </li>
@@ -50,7 +50,7 @@
 
     {{ with $params.solutions_items }}
     <ul class="max-w-3xl mx-auto space-y-3 text-lg">
-      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
         <li class="flex align-center flex-col">
           <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
         </li>
@@ -60,7 +60,7 @@
 
     {{ with $params.knowledgebase_items }}
     <ul class="max-w-3xl mx-auto space-y-3 text-lg">
-      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.id" . }}{{ $item := . }}
+      {{ range $index, $element :=  . }} {{ range where $.Site.Pages "params.slug" . }}{{ $item := . }}
         <li class="flex align-center flex-col">
           <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
         </li>

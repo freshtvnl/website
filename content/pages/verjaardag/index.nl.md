@@ -2,7 +2,6 @@
 title: "Verjaardag "
 slug: verjaardag
 draft: false
-id: BZSS3p1Tm
 blocks:
   - type: hero_block
     title: "***Verjaardag invullen = lekker smullen!***"
@@ -15,7 +14,7 @@ blocks:
     displaymedia: image
     image:
       source: ""
-    form: xxoKKZjUJ
+    form: verjaardag
 seo:
   noindex: true
 ---

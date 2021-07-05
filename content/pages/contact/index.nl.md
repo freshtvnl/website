@@ -1,7 +1,6 @@
 ---
 title: Contact
 slug: contact
-id: 8zohO6MTO
 image:
   source: ""
   alt: ""
@@ -12,7 +11,7 @@ blocks:
       # Neem ***contact*** met ons op
 
       Bel: [085 273 8331](tel:+31852738331)
-    form: 2nOvI3M4P
+    form: formulieren-test
     displaymedia: null
   - type: content_block
     align: left
@@ -67,9 +66,9 @@ blocks:
   - type: selectedreviews_block
     title: Selectie van Google reviews
     items:
-      - qRKCKxn9O
-      - sd8fPaxy9
-      - Wbe7UH8gH
+      - Bigshopper
+      - familienet
+      - pra-health-sciences-review
     more_items: false
 seo:
   title: Contact gegevens Phil & Flo Creative Studio

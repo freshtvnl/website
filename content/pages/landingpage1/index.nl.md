@@ -1,8 +1,7 @@
 ---
 title: 3D Animatie laten maken
-slug: 3D Animatie laten maken
+slug: 3-d-animatie-laten-maken
 draft: false
-id: 4awsNMvv31
 blocks:
   - type: hero_block
     title: "***3D animatie laten maken***"
@@ -116,7 +115,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 seo:
   title: 3D Animatie laten maken - Phil & Flo Videomarketing
   description: 3D animatie laten maken voor je organisatie of product? Bekijk onze

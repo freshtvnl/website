@@ -2,6 +2,7 @@ minify:
   disableJSON: true
   disableSVG: true
   DisableXML: true
+disableLanguages: ["en", "de"]
 build:
   writeStats: true
 outputs:

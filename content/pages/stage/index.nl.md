@@ -2,7 +2,6 @@
 title: Stage
 slug: stage
 draft: false
-id: hH6C22vEw
 blocks:
   - type: content_block
     align: left

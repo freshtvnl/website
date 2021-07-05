@@ -1,12 +1,12 @@
 ---
 title: UMCG - Chirurgie Employer Branding film
+slug: umcg-chirurgie-employer-branding-film
 draft: false
-id: cc-ik-qqS
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
   alt: zorg
 color: pink
-branch: o0NtTZixr
+branch: zorg-pharma
 content_type: case
 blocks:
   - type: hero_block
@@ -87,7 +87,7 @@ blocks:
       id: G_dlOtmAnas
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
 seo:
   title: UMCG Employer Branding Chirurgie - Phil & Flo Videomarketing
   description: Employer Branding video voor UMCG | Phil & Flo video marketing |

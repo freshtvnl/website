@@ -1,8 +1,7 @@
 ---
 title: Is jouw videomarketingstrategie SMART?
 draft: true
-id: LvVBQQ9_8
-author: PZcCTyF1B
+author: peter-de-graaf
 date: 2021-06-04T10:09:59.156Z
 color: red
 seo:

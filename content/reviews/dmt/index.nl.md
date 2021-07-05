@@ -2,7 +2,6 @@
 title: DMT
 slug: DMT
 draft: false
-id: zayLL6YOo
 quote:
   stars: 5
   auteur: Marjolein Overbosch

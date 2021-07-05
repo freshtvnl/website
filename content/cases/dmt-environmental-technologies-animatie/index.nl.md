@@ -1,14 +1,13 @@
 ---
 title: DMT Environmental Technologies Animatie
-slug: Animatiefilm over biogas
+slug: animatiefilm-over-biogas
 draft: false
-id: fm2wFFmdb
 image:
   source: images/duurzame-energie-dmt-biogas.jpg
   alt: ""
 content_type: case
 color: green
-branch: 0uhmsFFxS
+branch: duurzame-energie
 blocks:
   - type: hero_block
     content: DMT Environmental Technologies haalt grondstoffen terug uit
@@ -85,10 +84,10 @@ blocks:
       id: ryEtNcgv-Oo
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
   - type: selectedreviews_block
     items:
-      - zayLL6YOo
+      - DMT
     title: Google Review
 seo:
   title: Animatiefilm over Biogas productie | Phil & Flo | Case

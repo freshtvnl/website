@@ -3,7 +3,6 @@ title: Aron
 slug: aron
 weight: 2
 draft: false
-id: mayhQD07h
 image:
   source: images/aron-phil-en-flo.jpg
   alt: Aron

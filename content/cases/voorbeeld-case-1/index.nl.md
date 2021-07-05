@@ -1,14 +1,13 @@
 ---
 title: Alfen - Smart Charging Network
-slug: Alfen - Smart Charging Network 3D animatie
+slug: alfen-Smart-Charging-Network-3D-animatie
 draft: false
-id: sCR0-5I1N
 image:
   source: images/alfen-smart-charging-network-beauty.jpg
   alt: Alfen, Tesla model 3, charging infrastructure
 content_type: case
 color: green
-branch: 0uhmsFFxS
+branch: duurzame-energie
 blocks:
   - type: hero_block
     title: "***Techniek verbeelden***"
@@ -83,5 +82,5 @@ blocks:
       type: link
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
 ---

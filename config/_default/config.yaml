@@ -4,7 +4,6 @@ title: Phil & Flo
 theme: philflo
 paginate: 100
 defaultContentLanguage: nl
-disableLanguages: ["en", "de"]
 markup:
     goldmark:
         renderer:

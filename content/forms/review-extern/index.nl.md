@@ -1,6 +1,6 @@
 ---
 title: Review extern
 thankyou_page: /bedankt-recensie/
-id: yb3Br4nYh
+slug: review-extern
 type: review_extern
 ---

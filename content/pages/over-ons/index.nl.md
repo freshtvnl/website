@@ -1,7 +1,6 @@
 ---
 title: "Over ons "
 slug: over-ons
-id: jCP4fqjKI
 color: pink
 blocks:
   - type: hero_block

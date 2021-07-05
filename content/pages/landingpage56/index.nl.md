@@ -1,9 +1,8 @@
 ---
 title: Animatie bedrijf Amsterdam
-slug: Animatie bedrijf Amsterdam
+slug: animatie-bedrijf-amsterdam
 weight: 1
 draft: false
-id: wvUKuLAzh56
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -108,16 +107,16 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
     contacts:
-      - HZCh75c-T
+      - sophie
 seo:
   title: Animatie bedrijf Amsterdam | Phil & Flo Videomarketing
   description: Animatie bedrijf in Amsterdam Phil & Flo Videomarketing

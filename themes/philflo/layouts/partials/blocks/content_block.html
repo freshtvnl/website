@@ -21,7 +21,7 @@
         {{ end}}
         
         {{ with $params.form }}
-        {{ range where $site.Pages "Params.id" . }}
+        {{ range where $.Site.Pages "params.slug" . }}
         {{ $item := . }}
           {{ partial "form.html" (dict "page" $page "data" . ) }}
         {{ end }}

@@ -1,13 +1,12 @@
 ---
 title: Algemeen Dagblad animatie
-slug: Algemeen Dagblad Animatie
+slug: algemeen-dagblad-animatie
 draft: false
-id: JBTh_8cBB
 image:
   source: images/algemeen-dagblad-amerikaanse-verkiezingen-2d-animatie-phil-en-flo.jpg
 content_type: portfolio
 color: red
-branch: q6TD9LMXU
+branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
     displaymedia: youtube_video

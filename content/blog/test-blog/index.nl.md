@@ -2,10 +2,9 @@
 title: Test blog
 slug: test
 draft: true
-id: 0gYzEo2HI
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
-author: PZcCTyF1B
+author: peter-de-graaf
 date: 2021-05-19T08:37:19.540Z
 color: red
 ---

@@ -1,9 +1,8 @@
 ---
 title: Animatie Amsterdam
-slug: Animatie Amsterdam
+slug: animatie-amsterdam
 weight: 1
 draft: false
-id: wvUKuLAzh64
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -93,20 +92,20 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
     contacts:
-      - HZCh75c-T
+      - sophie
   - items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
 seo:
   title: Animatie laten maken in Amsterdam | Door Phil & Flo Videomarketing
   description: Animatie laten maken in Amsterdam doe je bij Phil & Flo |

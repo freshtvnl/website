@@ -1,7 +1,7 @@
 ---
 title: CSB Amsterdam
 draft: false
-id: h1st2mTUr
+slug: review-csb-amsterdam
 quote:
   stars: 5
   auteur: Volkert Renooy

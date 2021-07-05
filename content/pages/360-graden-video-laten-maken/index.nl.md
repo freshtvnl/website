@@ -1,8 +1,7 @@
 ---
 title: 360 graden video laten maken
-slug: 360 graden video laten maken
+slug: 360-graden-video-laten-maken
 draft: false
-id: v1RwkPjTk
 color: blue
 seo:
   title: 360 graden video laten maken | Door Phil & Flo Videomarketing
@@ -79,5 +78,5 @@ blocks:
       source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
 ---

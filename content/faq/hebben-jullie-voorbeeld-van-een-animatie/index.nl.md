@@ -1,7 +1,7 @@
 ---
 title: "Hebben jullie voorbeeld van een animatie? "
 draft: false
-id: oKyfeghfA
+slug: "hebben-jullie-voorbeeld-van-een-animatie"
 faq:
   question: "Hebben jullie voorbeeld van een animatie? "
   answer: Op onze [portfoliopagina](https://www.philenflo.nl/portfolio/) kan je

@@ -2,10 +2,9 @@
 title: 30 minuten sessie
 slug: 30 minuten
 draft: false
-id: ySmd-ar5x
 blocks:
   - type: content_block
-    form: mVPMJ90XQ
+    form: 30-minutes
     content: >-
       # Vrijblijvende ***30 minuten*** sessie boeken
 
@@ -14,7 +13,7 @@ blocks:
     align: center
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
 seo:
   title: "30 minuten sessie | Phil & Flo | Wij verbeelden de wereld van morgen "
   description: Boek nu een vrijblijvende sessie over de inzet van video, animatie

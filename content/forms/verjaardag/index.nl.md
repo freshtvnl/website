@@ -1,7 +1,7 @@
 ---
 title: Verjaardag
-id: xxoKKZjUJ
 type: birthday
+slug: verjaardag
 seo:
   title: Verjaardag - Phil & Flo videomarketing
   noindex: true

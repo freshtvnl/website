@@ -2,7 +2,6 @@
 title: Blog
 slug: blog
 draft: false
-id: c9WsUNXpt
 blocks:
   - type: collection_block
     collection: blog

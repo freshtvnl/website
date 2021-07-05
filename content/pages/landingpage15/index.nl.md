@@ -1,8 +1,7 @@
 ---
 title: Reclamevideo
-slug: Reclamevideo
+slug: reclamevideo
 draft: false
-id: 4awsNMvv3121
 blocks:
   - type: hero_block
     title: "***Reclamevideo*** om de aandacht te pakken"
@@ -67,7 +66,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - Nc7XQAY2B
+      - suzan-abbas
 seo:
   title: "Reclamevideo laten maken | Phil & Flo "
   description: Een reclamevideo die spreekt tot de verbeelding van jouw doelgroep.

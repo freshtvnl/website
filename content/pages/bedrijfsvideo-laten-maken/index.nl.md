@@ -1,8 +1,7 @@
 ---
 title: Bedrijfsvideo
-slug: Bedrijfsvideo
+slug: bedrijfsvideo
 draft: false
-id: WcYkSOTTF
 blocks:
   - type: hero_block
     title: "***Een bedrijfsvideo maken***"

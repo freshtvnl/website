@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een animatie? "
+slug: "hoe-gaan-jullie-te-werk-met-een-animatie"
 draft: false
-id: wajJLcNpD
 faq:
   answer: We beginnen met een creatieve sessie waarin we heel duidelijk
     achterhalen wat de boodschap is die je wilt zenden en natuurlijk het

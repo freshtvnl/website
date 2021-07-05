@@ -2,7 +2,6 @@
 title: Interactief
 weight: 3
 draft: false
-id: HklGfir85
 image:
   source: images/interactieve-video-philenflo.jpg
 color: green
@@ -78,7 +77,7 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: selectedfaqs_block
     items:
-      - Noa5BXo37
+      - hebben-jullie-voorbeelden-van-een-interactieve-video
       - F-4GWv9vh
       - 57IUGCoqL
       - CiGF7tCTF
@@ -89,7 +88,7 @@ blocks:
       - S2oamDE7J
     title: Veelgestelde vragen
 parent: wvUKuLAzh
-slug: interactieve video
+slug: interactieve-video
 seo:
   title: Interactieve video - Phil & Flo Videomarketing
   description: Interactieve video is een revolutionaire marketing tool, waarbij je

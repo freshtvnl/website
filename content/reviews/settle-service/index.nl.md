@@ -2,7 +2,6 @@
 title: Settle service
 slug: settle service
 draft: false
-id: AN3YUwkE5
 quote:
   stars: 5
   auteur: Muriel Klaver

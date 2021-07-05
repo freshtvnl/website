@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een infographic? "
+slug: "hoe-gaan-jullie-te-werk-met-een-infographic"
 draft: false
-id: aP7Lusll1
 faq:
   question: "Hoe gaan jullie te werk met een infographic? "
   answer: We beginnen met een creatieve sessie waarin we heel duidelijk

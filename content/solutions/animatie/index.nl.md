@@ -87,9 +87,9 @@ blocks:
   - type: selectedreviews_block
     title: Google reviews
     items:
-      - qRKCKxn9O
-      - 4w-qBXhgd
-      - Wbe7UH8gH
+      - Bigshopper
+      - showa
+      - pra-health-sciences-review
     more_items: false
   - type: content_block
     align: left
@@ -223,9 +223,9 @@ blocks:
   - type: selectedwork_block
     title: Animatie laten maken
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - JBTh_8cBB
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - algemeen-dagblad-animatie
     more_items: true
   - type: selectedfaqs_block
     title: Veelgestelde vragen
@@ -237,12 +237,11 @@ blocks:
       - 2AacKoAXX
       - wajJLcNpD
       - WZeAIcQkh
-      - oKyfeghfA
+      - hebben-jullie-voorbeeld-van-een-animatie
 parent: wvUKuLAzh
 title: Animatie
-slug: Animatie laten maken
+slug: animatie-laten-maken
 weight: 1
-id: wvUKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
 seo:

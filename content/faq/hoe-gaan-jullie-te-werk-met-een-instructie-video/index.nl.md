@@ -1,7 +1,7 @@
 ---
 title: "Hoe gaan jullie te werk met een instructie video? "
+slug: "hoe-gaan-jullie-te-werk-met-een-instructie-video"
 draft: false
-id: V20xgwUfI
 faq:
   question: "Hoe gaan jullie te werk met een instructie video? "
   answer: We stemmen met jou af, wat de beste vorm is om jouw instructie over te

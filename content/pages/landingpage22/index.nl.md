@@ -1,8 +1,7 @@
 ---
 title: Adverteren op YouTube
-slug: Adverteren op YouTube
+slug: adverteren-op-you-tube
 draft: false
-id: 4awsNMvv3dfadf
 blocks:
   - type: hero_block
     title: "***Adverteren op YouTube***"
@@ -66,7 +65,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 seo:
   title: Adverteren op YouTube - Phil & Flo Videomarketing
   description: Adverteer op YouTube en vergroot je naamsbekendheid. Phil & Flo

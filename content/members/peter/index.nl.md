@@ -1,9 +1,8 @@
 ---
 title: Peter
-slug: Peter de Graaf
+slug: peter-de-graaf
 weight: 2
 draft: false
-id: PZcCTyF1B
 image:
   source: images/peter-phil-en-flo.jpg
   alt: Peter
@@ -42,9 +41,9 @@ blocks:
   - type: selectedwork_block
     title: Werk waar ik trots op ben
     items:
-      - DG0aSzvMj
-      - cc-ik-qqS
-      - dD7nogK0Q
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - umcg-chirurgie-employer-branding-film
+      - coornhert-gymnasium-promotiefilm-school
 seo:
   title: Peter de Graaf | Phil & Flo | Wij verbeelden de wereld van morgen
   description: Peter de Graaf | Eigenaar Phil & Flo | De wereld van Peter, is de

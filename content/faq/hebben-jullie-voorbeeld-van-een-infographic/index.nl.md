@@ -1,7 +1,7 @@
 ---
 title: "Hebben jullie voorbeeld van een infographic? "
+slug: "hebben-jullie-voorbeeld-van-een-infographic"
 draft: false
-id: -sRp1ZF5c
 faq:
   question: "Hebben jullie voorbeeld van een infographic? "
   answer: In ons portfolio vind je tal van voorbeelden van succesvolle

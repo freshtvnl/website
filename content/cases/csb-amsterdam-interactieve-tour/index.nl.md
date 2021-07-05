@@ -2,12 +2,11 @@
 title: CSB Amsterdam interactieve tour
 slug: CSB Amsterdam interactieve tour
 draft: false
-id: UjbBwJ72R
 image:
   source: images/csb-muziekles.jpg
 content_type: case
 color: yellow
-branch: q6TD9LMXU
+branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
     video:
@@ -52,9 +51,9 @@ blocks:
   - type: selectedreviews_block
     title: ""
     items:
-      - vw-3pOoNC
-      - NgVGtMogs
-      - UzyOKwcrZ
+      - ouder-1-csb
+      - ouder-2-csb
+      - ouder-3-csb
     more_items: false
   - type: content_block
     video:
@@ -152,12 +151,12 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: selectedreviews_block
     items:
-      - h1st2mTUr
-      - ChhgGJ8e3
-      - UauZEAq95
+      - review-csb-amsterdam
+      - csb-ouder-4
+      - csb-ouder-5
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
 seo:
   description: "De wereld van school van morgen verbeelden met een interactieve
     video voor CBS Amsterdam. Ontdek hier onze video. | Case | Phil & Flo "

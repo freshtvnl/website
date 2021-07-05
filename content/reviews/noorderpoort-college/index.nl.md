@@ -1,7 +1,7 @@
 ---
 title: Noorderpoort college
 draft: false
-id: 4vF9wbJjI
+slug: review-noorderpoort-college
 quote:
   stars: 4
   auteur: Cor verbree

@@ -1,9 +1,8 @@
 ---
 title: Animatie video
-slug: Animatie video
+slug: animatie-video
 weight: 1
 draft: false
-id: wvUKuLAzh54
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -108,13 +107,13 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - mayhQD07h
+      - aron
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
 seo:
   title: "Animatie video | Phil & Flo verbeeldt de wereld van morgen "

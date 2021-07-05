@@ -1,8 +1,7 @@
 ---
 title: Vacature video
-slug: Vacature video
+slug: vacature-video
 draft: false
-id: 4awsasdfNMvv3
 blocks:
   - type: hero_block
     title: "***Vacature*** video"
@@ -63,7 +62,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 seo:
   title: Vacature Video Laten Maken - Snel Resultaat - Phil & Flo Videomarketing
   description: Direct resultaat met een goede vacature video. Jouw openstaande

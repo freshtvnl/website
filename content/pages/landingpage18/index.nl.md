@@ -1,8 +1,7 @@
 ---
 title: Instructiefilm
-slug: Instructiefilm
+slug: instructiefilm
 draft: false
-id: aa4awsNMvv3
 blocks:
   - type: hero_block
     title: "***Instructiefilm laten maken***"
@@ -75,11 +74,11 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - mayhQD07h
+      - aron
   - type: selectedfaqs_block
     items:
       - GY4v_wAcS
-      - BkhRsz8K3
+      - hebben-jullie-voorbeelden-van-een-instructie-video
       - 8cYNpLeQG
       - V20xgwUfI
       - Sxa8VbA1M

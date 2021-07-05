@@ -1,13 +1,12 @@
 ---
 title: Andrea Kruis
-slug: Andrea Kruis
+slug: andrea-kruis
 draft: false
-id: iZwporypf
 image:
   source: images/210324-andrea-kruis-den-hartogh-2d-animatie-phil-en-flo.jpg
 content_type: portfolio
 color: yellow
-branch: q6TD9LMXU
+branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
     video:

@@ -1,9 +1,8 @@
 ---
 title: Bedrijfsanimatie laten maken
-slug: Bedrijfsanimatie laten maken
+slug: bedrijfsanimatie-laten-maken
 weight: 1
 draft: false
-id: wv1212UKuLAzh
 image:
   source: images/2d-animatie-laten-maken.jpg
 color: yellow
@@ -102,18 +101,18 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 2BVK9YvSq
+      - inge
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
     contacts:
-      - HZCh75c-T
+      - sophie
   - items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
 ---

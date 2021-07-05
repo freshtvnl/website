@@ -1,8 +1,7 @@
 ---
 title: video testimonial
-slug: video testimonial
+slug: video-testimonial
 draft: false
-id: bb4awsNMvv3
 seo:
   title: Video testimonial - Phil & Flo Videomarketing
   description: Zelf schreeuwen dat je de allerbeste of goedkoopste bent (in je vakgebied) is een manier van marketing die we steeds minder vaak zien.
@@ -37,5 +36,5 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
 ---

@@ -2,7 +2,6 @@
 title: Showa
 slug: showa
 draft: false
-id: 4w-qBXhgd
 quote:
   stars: 5
   auteur: "Jennifer "

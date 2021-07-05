@@ -1,8 +1,7 @@
 ---
 title: PRA health sciences
-slug: PRA health sciences review
+slug: pra-health-sciences-review
 draft: false
-id: Wbe7UH8gH
 quote:
   stars: 5
   content: "Bij PRA hebben we recentelijk diverse videocontent laten maken door

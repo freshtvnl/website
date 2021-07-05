@@ -1,8 +1,7 @@
 ---
 title: Productfilm
-slug: Productfilm
+slug: productfilm
 draft: false
-id: 4awsNMvv3g
 blocks:
   - type: hero_block
     title: "***Productfilm*** laten maken"
@@ -78,7 +77,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
 seo:
   title: Productfilm - Succes dankzij Phil & Flo Videomarketing
   description: Met een productfilm van Phil & Flo vinden jouw klanten met slechts

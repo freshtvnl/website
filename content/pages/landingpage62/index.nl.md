@@ -1,9 +1,7 @@
 ---
 title: animatie film eindhoven
-slug: animatie film eindhoven
-weight: 1
+slug: animatie-film-eindhoven
 draft: false
-id: wvUKuLAzh62
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -84,20 +82,20 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
     more_items: true
     contacts:
-      - HZCh75c-T
+      - sophie
   - items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - fm2wFFmdb
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
 seo:
   title: Animatie film laten maken in Eindhoven | Phil & Flo Videomarketing
   description: Animatie film laten maken in Eindhoven door Phil & Flo |

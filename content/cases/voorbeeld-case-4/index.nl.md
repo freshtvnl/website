@@ -1,13 +1,13 @@
 ---
 title: Coornhert Gymnasium - Promotiefilm school
 draft: false
-id: dD7nogK0Q
+slug: coornhert-gymnasium-promotiefilm-school
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
   alt: coornehr Lyceum film
 content_type: case
 color: yellow
-branch: q6TD9LMXU
+branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
     content: Het Coornhert Gymnasium moet net als elke middelbare school elk jaar de
@@ -94,7 +94,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - 7VtuzLwVv
+      - sebastiaan
 seo:
   title: Coornhert Gymnasium 2D Animatie - Phil & Flo Videomarketing
   description: Speciaal voor het Coornhert Gymnasium hebben wij een unieke video

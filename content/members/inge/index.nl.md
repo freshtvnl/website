@@ -3,7 +3,6 @@ title: Inge
 slug: inge
 weight: 2
 draft: false
-id: 2BVK9YvSq
 image:
   source: images/inge-phil-en-flo.jpg
   alt: Inge

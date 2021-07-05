@@ -1,7 +1,7 @@
 ---
 title: Ouder 2 CSB
 draft: false
-id: NgVGtMogs
+slug: ouder-2-csb
 quote:
   auteur: Ouder van leerling groep 8
   stars: 5

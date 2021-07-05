@@ -1,8 +1,7 @@
 ---
 title: commercial laten maken
-slug: commercial laten maken
+slug: commercial-laten-maken
 draft: false
-id: 4awsNMadfvv3
 blocks:
   - type: hero_block
     title: "***Commercial*** laten maken"
@@ -66,7 +65,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
   - type: selectedfaqs_block
     items:
       - nv6T8dU14
@@ -74,7 +73,7 @@ blocks:
       - aP7upDTdr
       - 0gxc0yKmy
       - ysW98qJre
-      - -iFl9-Y2W
+      - hebben-jullie-voorbeelden-van-een-reclame
       - F_E7Q5ADH
       - _e1fYEShh
       - hFIKOBGq2

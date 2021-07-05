@@ -2,30 +2,29 @@
 title: formulieren test
 slug: formulieren-test
 draft: false
-id: 4X4xBG2Qd
 blocks:
   - type: content_block
     align: center
     content: "## Verjaardag formulier"
-    form: xxoKKZjUJ
+    form: verjaardag
   - type: content_block
     align: center
-    form: yb3Br4nYh
+    form: review-extern
     content: "## Extern review formulier"
   - type: content_block
     align: center
-    form: msPP9lOYV
+    form: review-intern
     content: "## Intern review formulier"
   - type: content_block
     align: center
-    form: F2bycGgYY
+    form: offerte-formulier
     content: "## Offerte formulier"
   - type: content_block
     align: center
-    form: 2nOvI3M4P
+    form: formulieren-test
     content: "## Contact formulier"
   - type: content_block
     align: center
     content: "## 30 minutes"
-    form: mVPMJ90XQ
+    form: 30-minutes
 ---

@@ -32,7 +32,7 @@ export const content = {
       collection: "forms",
       search_fields: ["title"],
       display_fields: ["title"],
-      value_field: "id",
+      value_field: "slug",
       multiple: false,
       i18n: true,
       required: false

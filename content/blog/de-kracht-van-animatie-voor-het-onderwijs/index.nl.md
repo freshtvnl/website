@@ -2,10 +2,9 @@
 title: De kracht van animatie voor het onderwijs
 slug: ""
 draft: false
-id: PytsW8UPX
 image:
   source: images/iconen-in-het-onderwijs.jpg
-author: PZcCTyF1B
+author: peter-de-graaf
 date: 2021-05-21T08:07:36.887Z
 color: yellow
 seo:

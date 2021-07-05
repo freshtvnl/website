@@ -1,4 +1,9 @@
 ---
+title: "Hoe gaan jullie te werk met een productvideo? "
+slug: "hoe-gaan-jullie-te-werk-met-een-productvideo"
 draft: false
-id: U2cgy15DC
+faq:
+  question: "Hoe gaan jullie te werk met een productvideo? "
+seo:
+  noindex: true
 ---

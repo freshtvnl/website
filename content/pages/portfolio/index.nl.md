@@ -1,7 +1,6 @@
 ---
 title: Portfolio
 slug: portfolio
-id: O0UIFeS1b
 blocks:
   - type: collection_block
     collection: cases

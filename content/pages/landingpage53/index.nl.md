@@ -1,9 +1,8 @@
 ---
 title: Animatie Groningen
-slug: Animatie Groningen
+slug: animatie-groningen
 weight: 1
 draft: false
-id: wvUKuLAzh53
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
@@ -64,16 +63,16 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - PZcCTyF1B
+      - peter-de-graaf
   - type: selectedwork_block
     title: Selected work
     items:
-      - DG0aSzvMj
-      - sCR0-5I1N
-      - cc-ik-qqS
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - umcg-chirurgie-employer-branding-film
     more_items: true
     contacts:
-      - HZCh75c-T
+      - sophie
 seo:
   title: Animatie laten maken in Groningen | Door Phil & Flo Videomarketing
   description: Animatie laten maken in Groningen doe je bij Phil & Flo |

@@ -1,8 +1,7 @@
 ---
 title: K3 systems
-slug: k3 systems
+slug: k3-systems
 draft: false
-id: dTTITHJ3N
 quote:
   stars: 5
   auteur: Madalina Tarabulea

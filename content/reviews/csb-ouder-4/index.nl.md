@@ -1,7 +1,7 @@
 ---
 title: CSB Ouder 4
 draft: false
-id: ChhgGJ8e3
+slug: csb-ouder-4
 quote:
   content: We hebben net met veel plezier naar de webinar gekeken en ook de
     virtuele tour gedaan. Vooral dat laatste heeft mijn zoon echt enthousiast

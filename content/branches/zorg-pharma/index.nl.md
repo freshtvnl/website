@@ -3,7 +3,6 @@ title: Zorg & Pharma
 slug: zorg-pharma
 weight: 3
 draft: false
-id: o0NtTZixr
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
   alt: "Employer branding UMCG "
@@ -108,7 +107,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - kJ07QyNzs
+      - victor
     content: >-
       ### ***Samenwerken?***
 

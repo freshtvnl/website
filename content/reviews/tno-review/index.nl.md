@@ -1,8 +1,7 @@
 ---
 title: TNO review
-slug: TNO Review
+slug: TNO-Review
 draft: false
-id: BpdbRCOAr
 quote:
   stars: 4
   auteur: Roos van den Bergh
