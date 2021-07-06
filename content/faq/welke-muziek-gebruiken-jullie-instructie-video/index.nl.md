@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (instructie video)
+slug: welke-muziek-gebruiken-jullie-instructie-video
 draft: false
-id: o1MNOt1Fx
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Onze databank is gevuld met duizenden muzieknummers. Veelal kiezen we

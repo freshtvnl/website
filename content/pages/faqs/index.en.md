@@ -12,10 +12,10 @@ blocks:
     title: "Animatie "
     items:
       - hebben-jullie-voorbeeld-van-een-animatie
-      - W-L3X72e7
+      - wat-is-de-beste-lengte-voor-een-animatie
       - wajJLcNpD
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
-      - 2AacKoAXX
+      - welke-stijl-past-bij-mijn-animatie
       - tsrhIESq5
       - kan-ik-vrijblijvend-sparren-voor-een-animatie
       - hoe-maken-jullie-animaties
@@ -36,9 +36,9 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
       - met-hoeveel-mensen-komen-jullie-filmen-360-graden-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-360-graden
-      - HKs7HayQR
-      - ogrS9dS-a
-      - t2uSQ8I6d
+      - wat-is-de-productietijd-van-een-360-graden-video
+      - wat-moet-ik-aanleveren-voor-een-360-graden-video
+      - wat-moet-ik-aanleveren-voor-een-offerte-360-graden
   - type: selectedfaqs_block
     title: "Bedrijfsvideo "
     items:
@@ -47,19 +47,19 @@ blocks:
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-bedrijfsvideo
       - kunnen-jullie-meerdere-bedrijfsvideo-s-in-een-dag-filmen
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
-      - w2hs18SgM
+      - welke-muziek-gebruiken-jullie-bedrijfsvideo
   - type: selectedfaqs_block
     title: Employer branding video
     items:
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - in-welke-kwaliteit-ontvang-ik-de-employer-branding-video
       - moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles-employer
-      - YvpGRlysR
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-employer-branding-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen-employer
       - met-hoeveel-mensen-komen-jullie-filmen-employer
-      - o17nvltp2
-      - q3s-XTal4
+      - welke-muziek-gebruiken-jullie-employer
+      - wat-is-de-productietijd-van-een-employer-branding-video
   - type: selectedfaqs_block
     title: Infographic
     items:
@@ -69,8 +69,8 @@ blocks:
       - hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is
       - hoe-maken-jullie-een-infographic
       - kan-ik-vrijblijvend-sparren-voor-een-infographic
-      - Hy8LynTkp
-      - ZU3BSdiak
+      - wat-is-de-beste-lengte-voor-een-infographic
+      - welke-stijl-past-bij-mijn-infographic
   - type: selectedfaqs_block
     title: Instructie video
     items:
@@ -78,14 +78,14 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-instructie-video
       - V20xgwUfI
       - hoe-maken-jullie-een-instructie-video
-      - 8cYNpLeQG
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-bedrijfsvideo
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
-      - RxklXp2Hj
-      - R8mcgxseZ
-      - o1MNOt1Fx
-      - zWTd3vg0U
+      - wat-moeten-wij-aanleveren-voor-een-instructie-video
+      - wat-is-de-productietijd-van-een-instructie-video
+      - welke-muziek-gebruiken-jullie-instructie-video
+      - welke-voice-over-wordt-ingezet-bij-een-instructie-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
   - type: selectedfaqs_block
     title: Interactieve video
@@ -94,24 +94,24 @@ blocks:
       - F-4GWv9vh
       - hoe-maken-jullie-een-interactieve-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
-      - jqu7GeM2V
+      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
-      - dvf7GC4q7
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
   - type: selectedfaqs_block
     title: Reclame
     items:
       - hebben-jullie-voorbeelden-van-een-reclame
       - hoe-maken-jullie-een-reclame
       - in-welke-kwaliteit-ontvang-ik-de-reclame
-      - 0gxc0yKmy
-      - ysW98qJre
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
+      - wat-moeten-wij-aanleveren-voor-een-reclame
       - oZyG-eagP
       - met-hoeveel-mensen-komen-jullie-filmen-reclame
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
       - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
-      - _e1fYEShh
-      - DlpL1MF-B
-      - o1yc8dZU9
+      - wat-is-de-productietijd-van-een-reclame
+      - welke-muziek-gebruiken-jullie-reclame
+      - welke-voice-over-wordt-ingezet-bij-een-reclame
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
   - type: selectedfaqs_block
     title: VR video

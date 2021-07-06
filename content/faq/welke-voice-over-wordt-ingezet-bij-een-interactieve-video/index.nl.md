@@ -1,7 +1,7 @@
 ---
 title: "Welke voice over wordt ingezet bij een interactieve video? "
+slug: "welke-voice-over-wordt-ingezet-bij-een-interactieve-video"
 draft: false
-id: jqu7GeM2V
 faq:
   question: "Welke voice over wordt ingezet bij een interactieve video? "
   answer: Voice overs zijn meer dan een ingesproken stem. Afhankelijk van wie

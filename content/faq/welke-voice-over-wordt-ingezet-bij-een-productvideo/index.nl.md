@@ -1,7 +1,7 @@
 ---
 title: "Welke voice over wordt ingezet bij een productvideo? "
+slug: "welke-voice-over-wordt-ingezet-bij-een-productvideo"
 draft: false
-id: dojE4GPcJ
 faq:
   question: "Welke voice over wordt ingezet bij een productvideo? "
   answer: "Dit is afhankelijk van verschillende dingen, denk aan: jullie wens, het

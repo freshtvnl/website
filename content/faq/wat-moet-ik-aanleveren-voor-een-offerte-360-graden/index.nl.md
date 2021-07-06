@@ -1,7 +1,7 @@
 ---
 title: Wat moet ik aanleveren voor een offerte? (360 graden)
+slug: wat-moet-ik-aanleveren-voor-een-offerte-360-graden
 draft: false
-id: t2uSQ8I6d
 faq:
   question: "Wat moet ik aanleveren voor een offerte? "
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,

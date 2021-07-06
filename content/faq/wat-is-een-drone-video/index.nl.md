@@ -1,7 +1,7 @@
 ---
 title: Wat is een drone video?
+slug: wat-is-een-drone-video
 draft: false
-id: BzulDq9E2
 faq:
   question: Wat is een drone video?
   answer: Een drone video is een film geschoten met een drone. Deze vliegende

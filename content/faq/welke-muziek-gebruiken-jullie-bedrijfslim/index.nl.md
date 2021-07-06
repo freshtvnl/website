@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (bedrijfslim)
+slug: welke-muziek-gebruiken-jullie-bedrijfslim
 draft: false
-id: sUEBM1Ctu
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Per film kiezen we muziek uit onze digitale bibliotheek met duizenden

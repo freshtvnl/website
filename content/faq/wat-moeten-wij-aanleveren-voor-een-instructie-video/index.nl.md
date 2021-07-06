@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten wij aanleveren voor een instructie video? "
+slug: "wat-moeten-wij-aanleveren-voor-een-instructie-video"
 draft: false
-id: RxklXp2Hj
 faq:
   question: "Wat moeten wij aanleveren voor een instructie video? "
   answer: Uiteraard begint elk project met een goed afgestemd plan. Hoe meer

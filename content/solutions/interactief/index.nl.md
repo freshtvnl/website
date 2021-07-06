@@ -82,10 +82,10 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
       - CiGF7tCTF
       - hoe-maken-jullie-een-interactieve-video
-      - dvf7GC4q7
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
-      - jqu7GeM2V
-      - S2oamDE7J
+      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
+      - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
 parent: wvUKuLAzh
 slug: interactieve-video

@@ -1,7 +1,7 @@
 ---
 title: "Welke stijl past bij mijn infographic? "
+slug: "welke-stijl-past-bij-mijn-infographic"
 draft: false
-id: ZU3BSdiak
 faq:
   question: "Welke stijl past bij mijn infographic? "
   answer: Over smaak valt niet te twisten! Animatiestijl is vaak gebonden aan een

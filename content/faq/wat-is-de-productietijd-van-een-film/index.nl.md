@@ -1,7 +1,7 @@
 ---
 title: "Wat is de productietijd van een film? "
+slug: "wat-is-de-productietijd-van-een-film"
 draft: false
-id: 2QLqcOfrU
 faq:
   answer: Afhankelijk van een goede voorbereiding en planning kan een film al in
     twee of drie weken opgeleverd worden. Echter ligt de productietijd van een

@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten wij aanleveren voor een bedrijfsvideo? "
+slug: "wat-moeten-wij-aanleveren-voor-een-bedrijfsvideo"
 draft: false
-id: gRNsivaeD
 faq:
   question: "Wat moeten wij aanleveren voor een bedrijfsvideo? "
   answer: Voor een goede bedrijfsvideo hebben we ideeën, tijd en toewijding nodig.

@@ -1,7 +1,7 @@
 ---
 title: "Wat is de beste lengte voor een drone video? "
+slug: "wat-is-de-beste-lengte-voor-een-drone-video"
 draft: false
-id: OEGv7ImOL
 faq:
   question: "Wat is de beste lengte voor een drone video? "
   answer: De lengte van een video is afhankelijk van het publiek dat je wilt

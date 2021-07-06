@@ -73,9 +73,9 @@ blocks:
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone
       - qe3xbszTa
       - in-welke-kwaliteit-ontvang-ik-mijn-drone-video
-      - BzulDq9E2
+      - wat-is-een-drone-video
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
-      - OEGv7ImOL
+      - wat-is-de-beste-lengte-voor-een-drone-video
       - moet-ik-zelf-de-ideeen-aanleveren-voor-de-drone-video
       - hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is
       - kan-ik-vrijblijvend-sparren-voor-een-drone-video

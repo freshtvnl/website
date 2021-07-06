@@ -1,7 +1,7 @@
 ---
 title: "Welke voice over wordt ingezet bij een employer branding video? "
+slug: "welke-voice-over-wordt-ingezet-bij-een-employer-branding-video"
 draft: false
-id: Ox_Jkjx3t
 faq:
   question: "Welke voice over wordt ingezet bij een employer branding video? "
   answer: Het inzetten van een voice over acteur/actrice is meer dan een script

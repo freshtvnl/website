@@ -1,7 +1,7 @@
 ---
 title: Wat moeten wij aanleveren voor een offerte? (infographic)
+slug: wat-moeten-wij-aanleveren-voor-een-offerte-infographic
 draft: false
-id: p0co9FULr
 faq:
   question: "Wat moeten wij aanleveren voor een offerte? "
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,

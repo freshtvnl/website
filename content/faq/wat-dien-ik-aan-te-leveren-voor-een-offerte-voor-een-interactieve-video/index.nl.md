@@ -1,7 +1,7 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een interactieve video? "
+slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video"
 draft: false
-id: dvf7GC4q7
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een interactieve video? "
   answer: Naast je idee, ontvangen we graag zo uitgebreid mogelijke informatie

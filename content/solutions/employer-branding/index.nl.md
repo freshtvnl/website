@@ -155,18 +155,18 @@ blocks:
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
-      - q3s-XTal4
+      - wat-is-de-productietijd-van-een-employer-branding-video
       - hoe-maken-jullie-een-employer-branding-video
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen-employer
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
       - met-hoeveel-mensen-komen-jullie-filmen-employer
       - in-welke-kwaliteit-ontvang-ik-de-employer-branding-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-employer
-      - YvpGRlysR
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-employer-branding-video
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
-      - o17nvltp2
-      - edFC9xzuZ
-      - Ox_Jkjx3t
+      - welke-muziek-gebruiken-jullie-employer
+      - wat-moeten-wij-aanleveren-voor-een-employer-branding-video
+      - welke-voice-over-wordt-ingezet-bij-een-employer-branding-video
 seo:
   title: Employer Branding video laten maken | Specialist Phil & Flo Videomarketing
   description: Employer branding video nodig? Phil & Flo Videomarketing > Sneller

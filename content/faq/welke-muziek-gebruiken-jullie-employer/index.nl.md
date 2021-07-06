@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (employer)
+slug: welke-muziek-gebruiken-jullie-employer
 draft: false
-id: o17nvltp2
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Onze camera-expert schat per productie in welke camera, lens en

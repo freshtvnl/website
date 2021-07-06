@@ -1,5 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een productvideo? "
+slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-productvideo"
 draft: false
 id: ctmwwUSWa
 faq:

@@ -71,16 +71,16 @@ blocks:
       - hoe-maken-jullie-een-reclame
       - in-welke-kwaliteit-ontvang-ik-de-reclame
       - met-hoeveel-mensen-komen-jullie-filmen-reclame
-      - 0gxc0yKmy
-      - ysW98qJre
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
+      - wat-moeten-wij-aanleveren-voor-een-reclame
       - hebben-jullie-voorbeelden-van-een-reclame
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
-      - _e1fYEShh
+      - wat-is-de-productietijd-van-een-reclame
       - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
-      - o1yc8dZU9
+      - welke-voice-over-wordt-ingezet-bij-een-reclame
       - oZyG-eagP
-      - DlpL1MF-B
+      - welke-muziek-gebruiken-jullie-reclame
 seo:
   title: Commercial laten maken voor TV en online | Phil & Flo
   description: TV of online Commercial laten maken. Wij produceren de commercial

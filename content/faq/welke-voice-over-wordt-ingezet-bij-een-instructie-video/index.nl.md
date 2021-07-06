@@ -1,7 +1,7 @@
 ---
 title: "Welke voice over wordt ingezet bij een instructie video? "
+slug: "welke-voice-over-wordt-ingezet-bij-een-instructie-video"
 draft: false
-id: zWTd3vg0U
 faq:
   question: "Welke voice over wordt ingezet bij een instructie video? "
   answer: In de loop van de jaren hebben wij veel contacten opgebouwd met

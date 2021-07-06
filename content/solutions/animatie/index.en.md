@@ -231,10 +231,10 @@ blocks:
     title: Veelgestelde vragen
     items:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
-      - W-L3X72e7
+      - wat-is-de-beste-lengte-voor-een-animatie
       - tsrhIESq5
       - kan-ik-vrijblijvend-sparren-voor-een-animatie
-      - 2AacKoAXX
+      - welke-stijl-past-bij-mijn-animatie
       - wajJLcNpD
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie

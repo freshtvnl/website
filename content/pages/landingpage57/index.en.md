@@ -134,10 +134,10 @@ blocks:
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen-productvideo
       - met-hoeveel-mensen-komen-jullie-filmen-productvideo
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-productvideo
-      - ctmwwUSWa
-      - uNtWvK8TU
-      - jC8pzppZI
-      - dojE4GPcJ
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-productvideo
+      - wat-moeten-wij-aanleveren-voor-een-productvideo
+      - welke-muziek-gebruiken-jullie-productvideo
+      - welke-voice-over-wordt-ingezet-bij-een-productvideo
 seo:
   title: 3D productvideo laten maken door Phil & Flo Videomarketing | klik hier
   description: 3D productvideo laten maken door het leukste bureau van Nederland!

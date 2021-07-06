@@ -79,13 +79,13 @@ blocks:
     items:
       - in-welke-kwaliteit-ontvang-ik-de-instructie-video
       - hebben-jullie-voorbeelden-van-een-instructie-video
-      - 8cYNpLeQG
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video
       - V20xgwUfI
       - hoe-maken-jullie-een-instructie-video
-      - R8mcgxseZ
-      - RxklXp2Hj
-      - zWTd3vg0U
-      - o1MNOt1Fx
+      - wat-is-de-productietijd-van-een-instructie-video
+      - wat-moeten-wij-aanleveren-voor-een-instructie-video
+      - welke-voice-over-wordt-ingezet-bij-een-instructie-video
+      - welke-muziek-gebruiken-jullie-instructie-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
 seo:

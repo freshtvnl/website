@@ -1,7 +1,6 @@
 ---
 title: "Welke muziek gebruiken jullie? "
-draft: false
-id: S2oamDE7J
+slug: "welke-muziek-gebruiken-jullie"
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Wij ontnemen de zorg van het vinden van de juiste muziek die precies die

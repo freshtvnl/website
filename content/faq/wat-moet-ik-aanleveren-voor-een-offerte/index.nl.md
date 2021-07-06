@@ -1,7 +1,7 @@
 ---
 title: "Wat moet ik aanleveren voor een offerte? "
+slug: "wat-moet-ik-aanleveren-voor-een-offerte"
 draft: false
-id: p6JFh9OnD
 faq:
   question: "Wat moet ik aanleveren voor een offerte? "
   answer: Om een goede op maatgemaakte offerte te ontvangen is een intakegesprek

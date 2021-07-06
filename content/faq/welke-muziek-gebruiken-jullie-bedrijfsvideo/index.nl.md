@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (bedrijfsvideo)
+slug: welke-muziek-gebruiken-jullie-bedrijfsvideo
 draft: false
-id: w2hs18SgM
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Voor elke nieuwe samenwerking gaat ons team op zoek naar de juiste

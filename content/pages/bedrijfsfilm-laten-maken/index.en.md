@@ -117,15 +117,15 @@ blocks:
     items:
       - vQQrwQorm
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
-      - ZWH1fU_iR
+      - wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm
       - hoe-maken-jullie-bedrijfsfilms
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
-      - kvfvpTUdK
+      - wat-is-de-productietijd-van-een-bedrijfsvideo
       - hebben-jullie-voorbeelden-van-bedrijfsfilms
       - met-hoeveel-mensen-komen-jullie-filmen
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone
-      - vbA7QwYfc
+      - welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
     title: Faq
 seo:

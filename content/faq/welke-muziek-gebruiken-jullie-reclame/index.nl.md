@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (reclame)
+slug: welke-muziek-gebruiken-jullie-reclame
 draft: false
-id: DlpL1MF-B
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Muziek is een krachtige tool om jouw boodschap over te brengen.

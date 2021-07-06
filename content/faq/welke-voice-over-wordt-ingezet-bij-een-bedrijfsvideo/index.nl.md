@@ -1,7 +1,7 @@
 ---
 title: "Welke voice over wordt ingezet bij een bedrijfsvideo? "
+slug: "welke-voice-over-wordt-ingezet-bij-een-bedrijfsvideo"
 draft: false
-id: sS-1HV3mo
 faq:
   question: "Welke voice over wordt ingezet bij een bedrijfsvideo? "
   answer: Het inzetten van een voice over acteur/actrice is meer dan een script

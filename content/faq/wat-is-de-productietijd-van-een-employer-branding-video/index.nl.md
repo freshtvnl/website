@@ -1,7 +1,7 @@
 ---
 title: "Wat is de productietijd van een employer branding video? "
+slug: "wat-is-de-productietijd-van-een-employer-branding-video"
 draft: false
-id: q3s-XTal4
 faq:
   question: "Wat is de productietijd van een employer branding video? "
   answer: De gemiddelde doorlooptijd van onze producties is drie à vier weken. Heb

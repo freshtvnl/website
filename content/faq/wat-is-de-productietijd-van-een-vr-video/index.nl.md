@@ -1,7 +1,7 @@
 ---
 title: "Wat is de productietijd van een VR video? "
+slug: "wat-is-de-productietijd-van-een-vr-video"
 draft: false
-id: ARwx2YIU1
 faq:
   question: "Wat is de productietijd van een VR video? "
   answer: "De productietijd is afhankelijk van de complexiteit van de VR-omgeving.

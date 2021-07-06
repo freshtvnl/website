@@ -1,7 +1,7 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een instructie video? "
+slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video"
 draft: false
-id: 8cYNpLeQG
 faq:
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,
     hoe beter. Vind je het lastig om te benoemen wat je zoekt, dan helpen onze

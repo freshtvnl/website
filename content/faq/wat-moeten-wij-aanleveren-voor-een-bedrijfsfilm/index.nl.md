@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten wij aanleveren voor een bedrijfsfilm? "
+slug: "wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm"
 draft: false
-id: ZWH1fU_iR
 faq:
   question: "Wat moeten wij aanleveren voor een bedrijfsfilm? "
   answer: Voor een goede bedrijfsfilm hebben we ideeën, tijd en toewijding nodig.

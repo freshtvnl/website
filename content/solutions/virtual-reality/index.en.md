@@ -47,15 +47,15 @@ blocks:
   - type: selectedfaqs_block
     items:
       - hoe-maken-jullie-een-vr-video
-      - ARwx2YIU1
-      - 7obNOQ9pc
+      - wat-is-de-productietijd-van-een-vr-video
+      - wat-moeten-wij-aanleveren-voor-een-vr-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles
       - 10KofX07N
       - hebben-jullie-voorbeelden-van-een-vr-video
       - met-hoeveel-mensen-komen-jullie-filmen-vr
       - in-welke-kwaliteit-ontvang-ik-de-vr-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
-      - BSIhcQQ5N
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-vr-video
 seo:
   title: Virtual reality videomarketing - Phil & Flo Videomarketing
   description: Virtual reality videomarketing met VR animaties bij Phil & Flo |

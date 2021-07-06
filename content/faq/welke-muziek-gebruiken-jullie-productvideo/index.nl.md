@@ -1,7 +1,7 @@
 ---
 title: Welke muziek gebruiken jullie? (productvideo)
+slug: welke-muziek-gebruiken-jullie-productvideo
 draft: false
-id: jC8pzppZI
 faq:
   question: "Welke muziek gebruiken jullie? "
   answer: Onze projectmanagers zorgen ervoor dat de uitgekozen muziek precies die

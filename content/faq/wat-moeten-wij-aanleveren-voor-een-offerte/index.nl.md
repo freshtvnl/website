@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten wij aanleveren voor een offerte? "
+slug: "wat-moeten-wij-aanleveren-voor-een-offerte"
 draft: false
-id: PlVvNZ0Sw
 faq:
   question: "Wat moeten wij aanleveren voor een offerte? "
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,

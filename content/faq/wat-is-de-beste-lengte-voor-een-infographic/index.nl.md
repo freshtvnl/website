@@ -1,7 +1,7 @@
 ---
 title: "Wat is de beste lengte voor een infographic? "
+slug: wat-is-de-beste-lengte-voor-een-infographic"
 draft: false
-id: Hy8LynTkp
 faq:
   question: "Wat is de beste lengte voor een infographic? "
   answer: In een infographic wil je de essentie van je product of dienst
