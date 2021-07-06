@@ -1,7 +1,7 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "
+slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
 draft: false
-id: fUUHxd57y
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,

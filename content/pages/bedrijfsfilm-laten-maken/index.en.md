@@ -119,11 +119,11 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - ZWH1fU_iR
       - hoe-maken-jullie-bedrijfsfilms
-      - fUUHxd57y
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
       - kvfvpTUdK
       - hebben-jullie-voorbeelden-van-bedrijfsfilms
-      - A9lJGw5Gs
-      - BdLIoOBHo
+      - met-hoeveel-mensen-komen-jullie-filmen
+      - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone
       - vbA7QwYfc
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject

@@ -1,7 +1,7 @@
 ---
 title: "Kan ik ook zelf aan de slag? "
+slug: "kan-ik-ook-zelf-aan-de-slag"
 draft: false
-id: jHHBFbUVl
 faq:
   question: "Kan ik ook zelf aan de slag? "
   answer: "Animeren is een vak. Onze animatoren zijn dan ook afgestudeerde

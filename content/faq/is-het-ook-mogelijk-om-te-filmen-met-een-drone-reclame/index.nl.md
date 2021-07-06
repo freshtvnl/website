@@ -1,7 +1,7 @@
 ---
 title: Is het ook mogelijk om te filmen met een drone? (reclame)
+slug: is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
 draft: false
-id: F_E7Q5ADH
 faq:
   question: "Is het ook mogelijk om te filmen met een drone? "
   answer: Absoluut, geef het aan en dan bespreken we hoe het inzetten van een film

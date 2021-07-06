@@ -1,4 +1,9 @@
 ---
+title: Met hoeveel mensen komen jullie filmen? (webshop)
+slug: met-hoeveel-mensen-komen-jullie-filmen-webshop
 draft: false
-id: bucNaFVqh
+faq:
+  question: "Met hoeveel mensen komen jullie filmen? "
+seo:
+  noindex: true
 ---

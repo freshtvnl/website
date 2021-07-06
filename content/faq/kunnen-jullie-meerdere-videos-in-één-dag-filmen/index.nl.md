@@ -1,7 +1,7 @@
 ---
 title: "Kunnen jullie meerdere video's in één dag filmen? "
+slug: "kunnen-jullie-meerdere-video-s-in-een-dag-filmen"
 draft: false
-id: BdLIoOBHo
 faq:
   question: "Kunnen jullie meerdere video's in één dag filmen? "
   answer: Over het algemeen kunnen we in één draaidag één film schieten.

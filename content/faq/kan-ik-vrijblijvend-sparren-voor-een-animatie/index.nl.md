@@ -1,7 +1,7 @@
 ---
-title: "Kan ik vrijblijvend sparren voor een animatie? "
+title: "Kan ik vrijblijvend sparren voor een animatie?"
+slug: "kan-ik-vrijblijvend-sparren-voor-een-animatie"
 draft: false
-id: 13aAGeaHf
 faq:
   question: "Kan ik vrijblijvend sparren voor een animatie? "
   answer: Onze consultants denken graag vrijblijvend met je mee om te kijken wat

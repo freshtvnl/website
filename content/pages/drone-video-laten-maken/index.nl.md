@@ -76,9 +76,9 @@ blocks:
       - BzulDq9E2
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - OEGv7ImOL
-      - 1L20ZiVSB
+      - moet-ik-zelf-de-ideeen-aanleveren-voor-de-drone-video
       - hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is
-      - EJ-G-vnwx
+      - kan-ik-vrijblijvend-sparren-voor-een-drone-video
 seo:
   title: Drone video laten maken | Phil & Flo verbeelden de wereld van morgen
   description: "Drone video laten maken voor passende content voor jouw doelgroep.

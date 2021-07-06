@@ -1,8 +1,8 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (instructie
   video)
+slug: moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
 draft: false
-id: yWM-CZcol
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
   answer: Juist bij een instructievideo zijn wij sterk afhankelijk van jouw input.

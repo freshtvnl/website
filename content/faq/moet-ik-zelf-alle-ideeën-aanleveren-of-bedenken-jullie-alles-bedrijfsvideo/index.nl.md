@@ -1,7 +1,7 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (bedrijfsvideo)
+slug: moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-bedrijfsvideo
 draft: false
-id: 4BhMKJ05c
 faq:
   question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
   answer: Wij bieden een volledige ontzorging van de productie, maar input is

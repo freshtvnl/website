@@ -70,13 +70,13 @@ blocks:
     items:
       - hoe-maken-jullie-een-reclame
       - in-welke-kwaliteit-ontvang-ik-de-reclame
-      - aP7upDTdr
+      - met-hoeveel-mensen-komen-jullie-filmen-reclame
       - 0gxc0yKmy
       - ysW98qJre
       - hebben-jullie-voorbeelden-van-een-reclame
-      - F_E7Q5ADH
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
       - _e1fYEShh
-      - hFIKOBGq2
+      - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
       - o1yc8dZU9
       - oZyG-eagP

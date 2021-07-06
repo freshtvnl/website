@@ -87,7 +87,7 @@ blocks:
       - zWTd3vg0U
       - o1MNOt1Fx
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
-      - yWM-CZcol
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
 seo:
   title: Instructiefilm - Phil & Flo Videomarketing
   description: "Weg met saaie handleidingen: kies voor een instructiefilm! Wij

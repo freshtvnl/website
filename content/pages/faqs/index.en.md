@@ -17,7 +17,7 @@ blocks:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - 2AacKoAXX
       - tsrhIESq5
-      - 13aAGeaHf
+      - kan-ik-vrijblijvend-sparren-voor-een-animatie
       - hoe-maken-jullie-animaties
   - type: selectedfaqs_block
     title: Bedrijfsfilm
@@ -25,8 +25,8 @@ blocks:
       - vQQrwQorm
       - hoe-maken-jullie-bedrijfsfilms
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
-      - fUUHxd57y
-      - OTcRmsl89
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-bedrijfslim
   - type: selectedfaqs_block
     title: 360 graden video
     items:
@@ -34,8 +34,8 @@ blocks:
       - hoe-maken-jullie-een-360-graden-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-van-een-360-graden-video
       - in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
-      - gT_p-PHX4
-      - UehXOzsCW
+      - met-hoeveel-mensen-komen-jullie-filmen-360-graden-video
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-360-graden
       - HKs7HayQR
       - ogrS9dS-a
       - t2uSQ8I6d
@@ -45,7 +45,7 @@ blocks:
       - dbdFXmJZ5
       - hoe-maken-jullie-een-bedrijfsvideo
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-bedrijfsvideo
-      - 5Y0nKlodD
+      - kunnen-jullie-meerdere-bedrijfsvideo-s-in-een-dag-filmen
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - w2hs18SgM
   - type: selectedfaqs_block
@@ -53,11 +53,11 @@ blocks:
     items:
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
       - in-welke-kwaliteit-ontvang-ik-de-employer-branding-video
-      - 24BPy5NNc
+      - moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles-employer
       - YvpGRlysR
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
-      - LeXEh5XwN
-      - tP0k2iiyu
+      - kunnen-jullie-meerdere-video-s-in-een-dag-filmen-employer
+      - met-hoeveel-mensen-komen-jullie-filmen-employer
       - o17nvltp2
       - q3s-XTal4
   - type: selectedfaqs_block
@@ -68,7 +68,7 @@ blocks:
       - aP7Lusll1
       - hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is
       - hoe-maken-jullie-een-infographic
-      - zrMcTBnAM
+      - kan-ik-vrijblijvend-sparren-voor-een-infographic
       - Hy8LynTkp
       - ZU3BSdiak
   - type: selectedfaqs_block
@@ -86,7 +86,7 @@ blocks:
       - R8mcgxseZ
       - o1MNOt1Fx
       - zWTd3vg0U
-      - yWM-CZcol
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
   - type: selectedfaqs_block
     title: Interactieve video
     items:
@@ -106,9 +106,9 @@ blocks:
       - 0gxc0yKmy
       - ysW98qJre
       - oZyG-eagP
-      - aP7upDTdr
-      - F_E7Q5ADH
-      - hFIKOBGq2
+      - met-hoeveel-mensen-komen-jullie-filmen-reclame
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
+      - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
       - _e1fYEShh
       - DlpL1MF-B
       - o1yc8dZU9

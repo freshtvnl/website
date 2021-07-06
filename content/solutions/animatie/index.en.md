@@ -233,7 +233,7 @@ blocks:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - W-L3X72e7
       - tsrhIESq5
-      - 13aAGeaHf
+      - kan-ik-vrijblijvend-sparren-voor-een-animatie
       - 2AacKoAXX
       - wajJLcNpD
       - hoe-maken-jullie-animaties

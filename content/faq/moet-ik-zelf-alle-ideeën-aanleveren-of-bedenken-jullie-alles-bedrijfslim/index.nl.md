@@ -1,7 +1,7 @@
 ---
 title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (bedrijfslim)
+slug: moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-bedrijfslim
 draft: false
-id: OTcRmsl89
 faq:
   answer: Het ene project is de andere niet. De meeste films die wij maken zijn
     een bundeling van creatieve ideeën van beide partijen. Natuurlijk kunnen wij

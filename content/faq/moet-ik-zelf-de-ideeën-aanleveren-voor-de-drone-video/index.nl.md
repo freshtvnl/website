@@ -1,7 +1,7 @@
 ---
 title: "Moet ik zelf de ideeën aanleveren voor de drone video? "
+slug: "moet-ik-zelf-de-ideeen-aanleveren-voor-de-drone-video"
 draft: false
-id: 1L20ZiVSB
 faq:
   question: "Moet ik zelf de ideeën aanleveren voor de drone video? "
   answer: Je moet helemaal niks! Als jij bij ons aangeeft wat het doel van je

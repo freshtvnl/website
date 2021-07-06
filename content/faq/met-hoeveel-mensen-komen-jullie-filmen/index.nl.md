@@ -1,7 +1,7 @@
 ---
 title: "Met hoeveel mensen komen jullie filmen? "
+slug: "met-hoeveel-mensen-komen-jullie-filmen"
 draft: false
-id: A9lJGw5Gs
 faq:
   question: "Met hoeveel mensen komen jullie filmen? "
   answer: Onze filmcrew is standaard drie man sterk. Bestaande uit een regisseur,

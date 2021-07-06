@@ -1,7 +1,7 @@
 ---
 title: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
+slug: "moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles"
 draft: false
-id: ty4C0LXvZ
 faq:
   question: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
   answer: Het beste is als je ons uitgebreid vertelt over je organisatie, op basis

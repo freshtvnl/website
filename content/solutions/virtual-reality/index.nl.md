@@ -49,10 +49,10 @@ blocks:
       - hoe-maken-jullie-een-vr-video
       - ARwx2YIU1
       - 7obNOQ9pc
-      - roOkjrjt7
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles
       - 10KofX07N
       - hebben-jullie-voorbeelden-van-een-vr-video
-      - 8RI9l7A5M
+      - met-hoeveel-mensen-komen-jullie-filmen-vr
       - in-welke-kwaliteit-ontvang-ik-de-vr-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
       - BSIhcQQ5N

@@ -1,5 +1,6 @@
 ---
 title: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
+slug: "moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles"
 draft: false
 id: roOkjrjt7
 faq:
