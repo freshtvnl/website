@@ -115,7 +115,7 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: selectedfaqs_block
     items:
-      - vQQrwQorm
+      - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm
       - hoe-maken-jullie-bedrijfsfilms

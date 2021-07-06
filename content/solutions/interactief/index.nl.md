@@ -78,7 +78,7 @@ blocks:
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
-      - F-4GWv9vh
+      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
       - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
       - CiGF7tCTF
       - hoe-maken-jullie-een-interactieve-video

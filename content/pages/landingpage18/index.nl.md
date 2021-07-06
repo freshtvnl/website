@@ -80,7 +80,7 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-instructie-video
       - hebben-jullie-voorbeelden-van-een-instructie-video
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video
-      - V20xgwUfI
+      - hoe-gaan-jullie-te-werk-met-een-instructie-video
       - hoe-maken-jullie-een-instructie-video
       - wat-is-de-productietijd-van-een-instructie-video
       - wat-moeten-wij-aanleveren-voor-een-instructie-video

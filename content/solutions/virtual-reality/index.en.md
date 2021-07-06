@@ -50,7 +50,7 @@ blocks:
       - wat-is-de-productietijd-van-een-vr-video
       - wat-moeten-wij-aanleveren-voor-een-vr-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles
-      - 10KofX07N
+      - hoe-gaan-jullie-te-werk-met-een-vr-video
       - hebben-jullie-voorbeelden-van-een-vr-video
       - met-hoeveel-mensen-komen-jullie-filmen-vr
       - in-welke-kwaliteit-ontvang-ik-de-vr-video

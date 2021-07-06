@@ -79,7 +79,7 @@ blocks:
       - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
       - welke-voice-over-wordt-ingezet-bij-een-reclame
-      - oZyG-eagP
+      - hoe-gaan-jullie-te-werk-met-een-reclame
       - welke-muziek-gebruiken-jullie-reclame
 seo:
   title: Commercial laten maken voor TV en online | Phil & Flo

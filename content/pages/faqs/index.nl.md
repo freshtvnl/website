@@ -13,16 +13,16 @@ blocks:
     items:
       - hebben-jullie-voorbeeld-van-een-animatie
       - wat-is-de-beste-lengte-voor-een-animatie
-      - wajJLcNpD
+      - hoe-gaan-jullie-te-werk-met-een-animatie
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - welke-stijl-past-bij-mijn-animatie
-      - tsrhIESq5
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
       - kan-ik-vrijblijvend-sparren-voor-een-animatie
       - hoe-maken-jullie-animaties
   - type: selectedfaqs_block
     title: Bedrijfsfilm
     items:
-      - vQQrwQorm
+      - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
       - hoe-maken-jullie-bedrijfsfilms
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
@@ -30,7 +30,7 @@ blocks:
   - type: selectedfaqs_block
     title: 360 graden video
     items:
-      - SiXkw-M_m
+      - hoe-gaan-jullie-te-werk-bij-een-360-graden-video
       - hoe-maken-jullie-een-360-graden-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-van-een-360-graden-video
       - in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
@@ -42,7 +42,7 @@ blocks:
   - type: selectedfaqs_block
     title: "Bedrijfsvideo "
     items:
-      - dbdFXmJZ5
+      - hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo
       - hoe-maken-jullie-een-bedrijfsvideo
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-bedrijfsvideo
       - kunnen-jullie-meerdere-bedrijfsvideo-s-in-een-dag-filmen
@@ -65,7 +65,7 @@ blocks:
     items:
       - in-welke-kwaliteit-ontvang-ik-mijn-infographic
       - hebben-jullie-voorbeeld-van-een-infographic
-      - aP7Lusll1
+      - hoe-gaan-jullie-te-werk-met-een-infographic
       - hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is
       - hoe-maken-jullie-een-infographic
       - kan-ik-vrijblijvend-sparren-voor-een-infographic
@@ -76,7 +76,7 @@ blocks:
     items:
       - hebben-jullie-voorbeelden-van-een-instructie-video
       - in-welke-kwaliteit-ontvang-ik-de-instructie-video
-      - V20xgwUfI
+      - hoe-gaan-jullie-te-werk-met-een-instructie-video
       - hoe-maken-jullie-een-instructie-video
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-bedrijfsvideo
@@ -91,7 +91,7 @@ blocks:
     title: Interactieve video
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
-      - F-4GWv9vh
+      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
       - hoe-maken-jullie-een-interactieve-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
@@ -105,7 +105,7 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-reclame
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
       - wat-moeten-wij-aanleveren-voor-een-reclame
-      - oZyG-eagP
+      - hoe-gaan-jullie-te-werk-met-een-reclame
       - met-hoeveel-mensen-komen-jullie-filmen-reclame
       - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
       - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
@@ -116,7 +116,7 @@ blocks:
   - type: selectedfaqs_block
     title: VR video
     items:
-      - 10KofX07N
+      - hoe-gaan-jullie-te-werk-met-een-vr-video
       - hoe-maken-jullie-een-vr-video
       - hebben-jullie-voorbeelden-van-een-vr-video
   - type: selectedfaqs_block

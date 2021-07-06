@@ -232,10 +232,10 @@ blocks:
     items:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - wat-is-de-beste-lengte-voor-een-animatie
-      - tsrhIESq5
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
       - kan-ik-vrijblijvend-sparren-voor-een-animatie
       - welke-stijl-past-bij-mijn-animatie
-      - wajJLcNpD
+      - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
 parent: wvUKuLAzh
