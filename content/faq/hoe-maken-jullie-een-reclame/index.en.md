@@ -1,4 +1,9 @@
 ---
+title: "Hoe maken jullie een reclame? "
+slug: "hoe-maken-jullie-een-reclame"
 draft: false
-id: 9lF6eoeLd
+faq:
+  question: "Hoe maken jullie een reclame? "
+seo:
+  noindex: true
 ---

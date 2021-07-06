@@ -1,7 +1,7 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (bedrijfsvideo)
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-bedrijfsvideo
 draft: false
-id: BUTjZ-N8B
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: Er is standaard één feedback ronde opgenomen, hierin kan de

@@ -79,11 +79,11 @@ blocks:
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
       - F-4GWv9vh
-      - 57IUGCoqL
+      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
       - CiGF7tCTF
-      - uGfp3muJd
+      - hoe-maken-jullie-een-interactieve-video
       - dvf7GC4q7
-      - 3XzXqsdyL
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
       - jqu7GeM2V
       - S2oamDE7J
     title: Veelgestelde vragen

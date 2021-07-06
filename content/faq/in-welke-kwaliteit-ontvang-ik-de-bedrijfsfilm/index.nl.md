@@ -1,7 +1,7 @@
 ---
 title: "In welke kwaliteit ontvang ik de bedrijfsfilm? "
+slug: "in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm"
 draft: false
-id: aGGfM_U3R
 faq:
   question: "In welke kwaliteit ontvang ik de bedrijfsfilm? "
   answer: Standaard leveren wij onze films op in 4K-beeldkwaliteit met 30 frames

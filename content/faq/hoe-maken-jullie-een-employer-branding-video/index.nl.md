@@ -1,7 +1,7 @@
 ---
 title: "Hoe maken jullie een employer branding video? "
+slug: "hoe-maken-jullie-een-employer-branding-video"
 draft: false
-id: l1v4_Jf-D
 faq:
   question: "Hoe maken jullie een employer branding video? "
   answer: 'Employer Branding gaat verder dan: "Hey wij hebben een vacature!" Het

@@ -1,7 +1,7 @@
 ---
 title: "Hoe maken jullie een 360 graden video? "
+slug: hoe-maken-jullie-een-360-graden-video
 draft: false
-id: wbbixMIkK
 faq:
   question: "Hoe maken jullie een 360 graden video? "
   answer: Onze 360 graden films worden geschoten met speciaal daarvoor ontwikkelde

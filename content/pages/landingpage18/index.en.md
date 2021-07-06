@@ -77,16 +77,16 @@ blocks:
       - aron
   - type: selectedfaqs_block
     items:
-      - GY4v_wAcS
+      - in-welke-kwaliteit-ontvang-ik-de-instructie-video
       - hebben-jullie-voorbeelden-van-een-instructie-video
       - 8cYNpLeQG
       - V20xgwUfI
-      - Sxa8VbA1M
+      - hoe-maken-jullie-een-instructie-video
       - R8mcgxseZ
       - RxklXp2Hj
       - zWTd3vg0U
       - o1MNOt1Fx
-      - 2XOqgZhSc
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
       - yWM-CZcol
 seo:
   title: Instructiefilm - Phil & Flo Videomarketing

@@ -1,7 +1,7 @@
 ---
 title: Hoe maken jullie animaties?
+slug: hoe-maken-jullie-animaties
 draft: false
-id: WZeAIcQkh
 faq:
   question: Hoe maken jullie animaties?
   answer: Onze animaties worden gemaakt door onze afgestudeerde animatoren op

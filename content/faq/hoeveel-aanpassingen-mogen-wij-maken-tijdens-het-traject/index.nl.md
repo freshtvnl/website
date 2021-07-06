@@ -1,7 +1,7 @@
 ---
 title: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
+slug: "hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject"
 draft: false
-id: x9m7eQhRh
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: Voor het script en het draaiboek maken we gebruik van twee

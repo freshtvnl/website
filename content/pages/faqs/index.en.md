@@ -14,26 +14,26 @@ blocks:
       - hebben-jullie-voorbeeld-van-een-animatie
       - W-L3X72e7
       - wajJLcNpD
-      - XUGyETL3d
+      - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - 2AacKoAXX
       - tsrhIESq5
       - 13aAGeaHf
-      - WZeAIcQkh
+      - hoe-maken-jullie-animaties
   - type: selectedfaqs_block
     title: Bedrijfsfilm
     items:
       - vQQrwQorm
-      - FAjVSbB1J
-      - aGGfM_U3R
+      - hoe-maken-jullie-bedrijfsfilms
+      - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - fUUHxd57y
       - OTcRmsl89
   - type: selectedfaqs_block
     title: 360 graden video
     items:
       - SiXkw-M_m
-      - wbbixMIkK
-      - RIv_ivCse
-      - BU040VTuX
+      - hoe-maken-jullie-een-360-graden-video
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-van-een-360-graden-video
+      - in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
       - gT_p-PHX4
       - UehXOzsCW
       - HKs7HayQR
@@ -43,8 +43,8 @@ blocks:
     title: "Bedrijfsvideo "
     items:
       - dbdFXmJZ5
-      - RKdjRI3nb
-      - ecluCf7VC
+      - hoe-maken-jullie-een-bedrijfsvideo
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-bedrijfsvideo
       - 5Y0nKlodD
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - w2hs18SgM
@@ -52,10 +52,10 @@ blocks:
     title: Employer branding video
     items:
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
-      - yA9PJEJpl
+      - in-welke-kwaliteit-ontvang-ik-de-employer-branding-video
       - 24BPy5NNc
       - YvpGRlysR
-      - wT4-8kn8z
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
       - LeXEh5XwN
       - tP0k2iiyu
       - o17nvltp2
@@ -63,11 +63,11 @@ blocks:
   - type: selectedfaqs_block
     title: Infographic
     items:
-      - RfXqJInx1
+      - in-welke-kwaliteit-ontvang-ik-mijn-infographic
       - hebben-jullie-voorbeeld-van-een-infographic
       - aP7Lusll1
-      - Tck0GKLIx
-      - eWjOCHuNG
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is
+      - hoe-maken-jullie-een-infographic
       - zrMcTBnAM
       - Hy8LynTkp
       - ZU3BSdiak
@@ -75,13 +75,13 @@ blocks:
     title: Instructie video
     items:
       - hebben-jullie-voorbeelden-van-een-instructie-video
-      - GY4v_wAcS
+      - in-welke-kwaliteit-ontvang-ik-de-instructie-video
       - V20xgwUfI
-      - Sxa8VbA1M
+      - hoe-maken-jullie-een-instructie-video
       - 8cYNpLeQG
-      - BUTjZ-N8B
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-bedrijfsvideo
       - hebben-jullie-voorbeelden-van-een-employer-branding-video
-      - 2XOqgZhSc
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
       - RxklXp2Hj
       - R8mcgxseZ
       - o1MNOt1Fx
@@ -92,17 +92,17 @@ blocks:
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
       - F-4GWv9vh
-      - uGfp3muJd
-      - 3XzXqsdyL
+      - hoe-maken-jullie-een-interactieve-video
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
       - jqu7GeM2V
-      - 57IUGCoqL
+      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
       - dvf7GC4q7
   - type: selectedfaqs_block
     title: Reclame
     items:
       - hebben-jullie-voorbeelden-van-een-reclame
-      - nv6T8dU14
-      - S7c1gyOiy
+      - hoe-maken-jullie-een-reclame
+      - in-welke-kwaliteit-ontvang-ik-de-reclame
       - 0gxc0yKmy
       - ysW98qJre
       - oZyG-eagP
@@ -112,12 +112,12 @@ blocks:
       - _e1fYEShh
       - DlpL1MF-B
       - o1yc8dZU9
-      - oqrguAU0g
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
   - type: selectedfaqs_block
     title: VR video
     items:
       - 10KofX07N
-      - lnjZaJeHF
+      - hoe-maken-jullie-een-vr-video
       - hebben-jullie-voorbeelden-van-een-vr-video
   - type: selectedfaqs_block
     title: Voorlichtingsvideo

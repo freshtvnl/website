@@ -1,8 +1,8 @@
 ---
 title: "Hoeveel aanpassingen mogen wij maken tijdens het traject van een 360
   graden video? "
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-van-een-360-graden-video
 draft: false
-id: RIv_ivCse
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject van een 360
     graden video? "

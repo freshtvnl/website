@@ -1,7 +1,7 @@
 ---
 title: "Hoe maken jullie een bedrijfsvideo? "
+slug: "hoe-maken-jullie-een-bedrijfsvideo"
 draft: false
-id: RKdjRI3nb
 faq:
   question: "Hoe maken jullie een bedrijfsvideo? "
   answer: "Een goede (bedrijfs)video bestaat uit vier belangrijke stappen. Elke

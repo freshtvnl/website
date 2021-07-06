@@ -70,14 +70,14 @@ blocks:
   - type: selectedfaqs_block
     title: Veel gestelde vragen
     items:
-      - h2KbPth8a
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone
       - qe3xbszTa
-      - arbAN6QLa
+      - in-welke-kwaliteit-ontvang-ik-mijn-drone-video
       - BzulDq9E2
       - hebben-jullie-voorbeelden-van-bedrijfsvideos
       - OEGv7ImOL
       - 1L20ZiVSB
-      - l2iDUK9xz
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is
       - EJ-G-vnwx
 seo:
   title: Drone video laten maken | Phil & Flo verbeelden de wereld van morgen

@@ -1,7 +1,7 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (instructie video)
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
 draft: false
-id: 2XOqgZhSc
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: Voor het voice-overscript en het draaiboek maken we gebruik van twee

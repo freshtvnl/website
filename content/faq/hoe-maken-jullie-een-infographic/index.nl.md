@@ -1,7 +1,7 @@
 ---
 title: Hoe maken jullie een infographic?
+slug: hoe-maken-jullie-een-infographic
 draft: false
-id: eWjOCHuNG
 faq:
   question: Hoe maken jullie een infographic?
   answer: Onze infographics worden gemaakt door onze afgestudeerde animatoren op

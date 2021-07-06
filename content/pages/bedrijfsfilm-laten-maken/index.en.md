@@ -116,17 +116,17 @@ blocks:
   - type: selectedfaqs_block
     items:
       - vQQrwQorm
-      - aGGfM_U3R
+      - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - ZWH1fU_iR
-      - FAjVSbB1J
+      - hoe-maken-jullie-bedrijfsfilms
       - fUUHxd57y
       - kvfvpTUdK
       - hebben-jullie-voorbeelden-van-bedrijfsfilms
       - A9lJGw5Gs
       - BdLIoOBHo
-      - h2KbPth8a
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone
       - vbA7QwYfc
-      - x9m7eQhRh
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
     title: Faq
 seo:
   title: Bedrijfsfilm laten maken - Hoogwaardig, Duurzaam en Succesvol - Phil & Flo

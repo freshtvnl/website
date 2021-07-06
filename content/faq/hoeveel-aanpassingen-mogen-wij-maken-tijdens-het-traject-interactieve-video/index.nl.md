@@ -1,7 +1,7 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (interactieve video)
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
 draft: false
-id: 3XzXqsdyL
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: "Binnen is één feedbackronde opgenomen, waarin de opdrachtgever feedback

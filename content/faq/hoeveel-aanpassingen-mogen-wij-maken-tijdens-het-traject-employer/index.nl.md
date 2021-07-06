@@ -1,7 +1,7 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (employer)
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
 draft: false
-id: wT4-8kn8z
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: "Binnen is één feedbackronde opgenomen, waarin de opdrachtgever feedback

@@ -230,13 +230,13 @@ blocks:
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
-      - XUGyETL3d
+      - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
       - W-L3X72e7
       - tsrhIESq5
       - 13aAGeaHf
       - 2AacKoAXX
       - wajJLcNpD
-      - WZeAIcQkh
+      - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
 parent: wvUKuLAzh
 title: Animatie

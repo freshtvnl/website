@@ -1,7 +1,7 @@
 ---
 title: "Is het mogelijk een animatie te maken in meerdere talen? "
+slug: "is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen"
 draft: false
-id: XUGyETL3d
 faq:
   question: "Is het mogelijk een animatie te maken in meerdere talen? "
   answer: We raden zelfs aan om een animatie in meerder talen te verspreiden! Stel

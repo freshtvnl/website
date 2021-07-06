@@ -68,8 +68,8 @@ blocks:
       - peter-de-graaf
   - type: selectedfaqs_block
     items:
-      - nv6T8dU14
-      - S7c1gyOiy
+      - hoe-maken-jullie-een-reclame
+      - in-welke-kwaliteit-ontvang-ik-de-reclame
       - aP7upDTdr
       - 0gxc0yKmy
       - ysW98qJre
@@ -77,7 +77,7 @@ blocks:
       - F_E7Q5ADH
       - _e1fYEShh
       - hFIKOBGq2
-      - oqrguAU0g
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
       - o1yc8dZU9
       - oZyG-eagP
       - DlpL1MF-B

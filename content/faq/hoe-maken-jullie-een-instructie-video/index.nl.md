@@ -1,7 +1,7 @@
 ---
 title: "Hoe maken jullie een instructie video? "
+slug: "hoe-maken-jullie-een-instructie-video"
 draft: false
-id: Sxa8VbA1M
 faq:
   question: "Hoe maken jullie een instructie video? "
   answer: Instructiefilms zijn op te delen in drie typen. Animaties, video's en de

@@ -1,5 +1,6 @@
 ---
 title: "Hoe maken jullie bedrijfsfilms? "
+slug: "hoe-maken-jullie-bedrijfsfilms"
 draft: false
 id: FAjVSbB1J
 faq:

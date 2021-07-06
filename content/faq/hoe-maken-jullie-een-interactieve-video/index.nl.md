@@ -1,7 +1,7 @@
 ---
 title: "Hoe maken jullie een interactieve video? "
+slug: "hoe-maken-jullie-een-interactieve-video"
 draft: false
-id: uGfp3muJd
 faq:
   answer: We beginnen altijd bij de kern van jouw boodschap. Wanneer we dit 100%
     duidelijk hebben, gaan we samen kijken hoe we dit op een logische manier

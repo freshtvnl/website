@@ -1,5 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de reclame? "
+slug: "in-welke-kwaliteit-ontvang-ik-de-reclame"
 draft: false
 id: S7c1gyOiy
 faq:

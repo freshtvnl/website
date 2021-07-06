@@ -46,15 +46,15 @@ blocks:
       type: button
   - type: selectedfaqs_block
     items:
-      - lnjZaJeHF
+      - hoe-maken-jullie-een-vr-video
       - ARwx2YIU1
       - 7obNOQ9pc
       - roOkjrjt7
       - 10KofX07N
       - hebben-jullie-voorbeelden-van-een-vr-video
       - 8RI9l7A5M
-      - hBJ-OhYf5
-      - xxRYGyG6K
+      - in-welke-kwaliteit-ontvang-ik-de-vr-video
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
       - BSIhcQQ5N
 seo:
   title: Virtual reality videomarketing - Phil & Flo Videomarketing

@@ -1,7 +1,7 @@
 ---
 title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (vr)
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
 draft: false
-id: xxRYGyG6K
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
   answer: Binnen is één feedbackronde opgenomen, waarin de opdrachtgever feedback

@@ -1,7 +1,7 @@
 ---
 title: "Hoe lang duurt het gemiddeld voordat een drone video klaar is? "
+slug: "hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is"
 draft: false
-id: l2iDUK9xz
 faq:
   question: "Hoe lang duurt het gemiddeld voordat een drone video klaar is? "
   answer: Gemiddeld is de doorlooptijd van een film 1 maand. Maar het is ook zeker
