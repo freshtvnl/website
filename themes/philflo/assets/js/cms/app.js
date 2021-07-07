@@ -39,7 +39,7 @@ CMS.init({
     },
     i18n: {
       structure: 'multiple_files',
-      locales: ['nl', 'en'],
+      locales: ['nl', 'en', 'de'],
       default_locale: 'nl'
     },
     collections: [pages, blog, members, branches, solutions, cases, knowledgebase, homepages, reviews, faq, forms, global]

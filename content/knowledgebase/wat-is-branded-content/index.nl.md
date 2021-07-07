@@ -1,7 +1,7 @@
 ---
 title: Wat is branded content?
+slug: wat-is-branded-content
 draft: false
-id: IqOClMJvP
 seo:
   title: "Wat is branded content? | Kennisbank | Phil & Flo "
   description: "Branded content is content waarin niet de boodschap van een merk

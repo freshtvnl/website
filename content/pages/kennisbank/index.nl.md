@@ -16,48 +16,48 @@ blocks:
     content: Vragen over Animatie
     knowledgebase_items:
       - b3fEs5TRG
-      - TlAFiRicP
-      - SgEXSuFcs
-      - kJvyOeJNt
-      - dgaJjMrEp
-      - bSodUVigJ
+      - welke-soorten-animatie-heb-je
+      - wat-is-een-animatie
+      - verschil-2d-3d-animatie
+      - wat-is-een-animatievideo
+      - wat-is-een-2d-film
   - type: content_list
     title: Video
     content: Vragen over video
     knowledgebase_items:
-      - w6e33cU2r
-      - KfSfEHxEE
-      - rpWVEDLaX
-      - jK3PgKA6H
-      - kai2lqv3_
-      - an926o3z9
-      - CigYEk_bj
-      - Wr4UyikC_
-      - 7mu7kvWmU
-      - BDmCo7ZRE
+      - hoe-werkt-een-green-screen
+      - wat-is-het-beste-video-formaat
+      - hoe-maak-je-een-videoscript
+      - wat-is-een-4k-video
+      - wat-is-een-explainer-video
+      - wat-is-een-green-screen
+      - wat-kun-je-met-een-green-screen
+      - hoe-gebruik-je-een-green-screen
+      - hoe-maak-je-een-green-screen
+      - wat-is-een-storyboard
   - type: content_list
     title: "Muziek "
     content: Vragen over muziek
     knowledgebase_items:
-      - aducBJ9c2
-      - T4amK8QHE
-      - sb-nMrgo4
+      - wat-is-rechtenvrije-muziek
+      - hoe-download-je-rechtenvrije-muziek-voor-een-filmpje-of-animatie
+      - wat-is-een-voice-over
   - type: content_list
     title: Videomarketing
     content: Vragen over videomarketing
     knowledgebase_items:
-      - aJokfKM3l
-      - 8YdE5QkiZ
-      - LYMCYmsZ_
-      - l4xH-rQRJ
-      - kai2lqv3_
-      - QFk0-u-j0
-      - u8sdtPUbU
-      - moE-NHh_O
-      - V4b9EY6eL
-      - NHIOVomm3
-      - VP-K_yXnr
-      - WH7l8Hf3C
+      - wat-is-videomarketing
+      - waarom-zet-je-videomarketing-in
+      - wat-is-een-customer-journey-video
+      - wat-is-een-employer-branding-video
+      - wat-is-een-explainer-video
+      - hoe-werkt-een-interactieve-video
+      - wat-is-een-productvideo
+      - waarom-doe-je-aan-storytelling
+      - waarom-zet-je-een-bedrijfsfilm-in
+      - hoe-lang-moet-een-bedrijfsfilm-zijn
+      - wat-is-een-promotiefilm
+      - wat-is-een-instructiefilm
 seo:
   title: "Kennisbank | Wij verbeelden de wereld van morgen met animatie en video.
     | Phil & Flo "

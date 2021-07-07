@@ -1,7 +1,7 @@
 ---
 title: Wat is een productvideo?
+slug: wat-is-een-productvideo
 draft: false
-id: u8sdtPUbU
 seo:
   title: "Wat is een productvideo? | Kennisbank | Phil en Flo "
   description: "In een productvideo leg jij alles uit over één product. Leer meer

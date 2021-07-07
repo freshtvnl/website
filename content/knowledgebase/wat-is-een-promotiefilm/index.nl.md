@@ -1,7 +1,7 @@
 ---
 title: Wat is een promotiefilm?
+slug: wat-is-een-promotiefilm
 draft: false
-id: VP-K_yXnr
 seo:
   title: "Wat is een promotiefilm? | Kennisbank | Phil en Flo "
   description: "Een promotievideo promoot jouw diensten of producten. Ontdek en

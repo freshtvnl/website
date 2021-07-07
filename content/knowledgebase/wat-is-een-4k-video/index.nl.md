@@ -1,7 +1,7 @@
 ---
 title: Wat is een 4K video?
+slug: wat-is-een-4k-video
 draft: false
-id: jK3PgKA6H
 seo:
   title: "Wat is een 4K video? | Kennisbank | Phil & Flo "
   description: "Een 4K video onderscheidt zich door een scherper beeld. De ‘K’ in

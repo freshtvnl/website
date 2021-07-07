@@ -1,7 +1,7 @@
 ---
 title: Waarom zet je videomarketing in?
+slug: waarom-zet-je-videomarketing-in
 draft: false
-id: 8YdE5QkiZ
 seo:
   title: "Waarom zet je videomarketing in? | Kennisbank | Phil & Flo "
   description: Met videomarketing, combineer je tekst, geluid, en beeld om een

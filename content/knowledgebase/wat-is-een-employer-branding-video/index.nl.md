@@ -1,7 +1,7 @@
 ---
 title: Wat is een employer branding video?
+slug: wat-is-een-employer-branding-video
 draft: false
-id: l4xH-rQRJ
 seo:
   title: "Wat is een employer branding video? | Kennisbank | Phil en Flo "
   description: "Een employer branding video geeft een beeld van jouw als bedrijf

@@ -1,7 +1,7 @@
 ---
 title: Wat is een 2D film?
+slug: wat-is-een-2d-film
 draft: false
-id: bSodUVigJ
 seo:
   title: "Wat is een 2D film? | Kennisbank | Phil & Flo "
   description: Een 2D film is hetzelfde als een 2D animatie, namelijk een

@@ -1,7 +1,7 @@
 ---
 title: Hoe maak je een green screen?
+slug: hoe-maak-je-een-green-screen
 draft: false
-id: 7mu7kvWmU
 seo:
   title: "Hoe maak je een green screen? | Kennisbank | Phil & Flo "
   description: "Een green screen maak je van een scherm of doek een strakke groene

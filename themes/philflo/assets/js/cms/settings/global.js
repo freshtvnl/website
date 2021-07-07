@@ -208,6 +208,20 @@ export const global = {
       widgets: 'object',
       fields: [...fields]
     },
+    {
+      label: "[EN] General settings",
+      name: 'general_en',
+      file: 'config/_default/params.en.yaml',
+      widgets: 'object',
+      fields: [...fields]
+    },
+    {
+      label: "[DE] General settings",
+      name: 'general_de',
+      file: 'config/_default/params.de.yaml',
+      widgets: 'object',
+      fields: [...fields]
+    },
   ]
 }
 

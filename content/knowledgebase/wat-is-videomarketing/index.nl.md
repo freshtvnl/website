@@ -1,7 +1,7 @@
 ---
 title: Wat is videomarketing?
+slug: wat-is-videomarketing
 draft: false
-id: aJokfKM3l
 seo:
   description: Videomarketing is marketing middels video, uiteraard met de juiste
     soort. Lees hier meer. | Phil & Flo verbeelden de wereld van morgen

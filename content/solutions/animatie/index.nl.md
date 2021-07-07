@@ -238,7 +238,7 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
-parent: wvUKuLAzh
+parent: animatie-studio-amsterdam
 title: Animatie
 slug: animatie-laten-maken
 weight: 1

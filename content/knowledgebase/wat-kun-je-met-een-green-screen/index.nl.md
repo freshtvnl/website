@@ -1,7 +1,7 @@
 ---
 title: " Wat kun je met een green screen?"
+slug: "wat-kun-je-met-een-green-screen"
 draft: false
-id: CigYEk_bj
 seo:
   title: " Wat kun je met een green screen? | Kennisbank | Phil & Flo"
   description: " Wat kun je met een green screen? Verander de achtergrond van een

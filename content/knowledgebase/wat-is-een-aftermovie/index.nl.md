@@ -1,7 +1,7 @@
 ---
 title: Wat is een aftermovie?
+slug: wat-is-een-aftermovie
 draft: false
-id: DEYEUV-vo
 seo:
   title: "Wat is een aftermovie? | kennisbank | Phil en Flo "
   description: "Alle hoogtepunten in één film met een aftermovie, maar wat is het

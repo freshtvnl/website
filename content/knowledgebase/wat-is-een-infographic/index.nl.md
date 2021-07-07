@@ -1,7 +1,7 @@
 ---
 title: Wat is een infographic
+slug: wat-is-een-infographic
 draft: false
-id: t0yJRZ0fW
 seo:
   title: "Wat is een infographic? | Kennisbank | Phil & Flo "
   description: Wat is een infographic? Dit is een afbeelding of poster die veel

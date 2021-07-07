@@ -12,3 +12,19 @@ en:
   languageName: International (English)
   languageCode: en
   weight: 2
+  permalinks:
+    members: over-ons/:slug/ 
+    pages: :slug/
+    cases: portfolio/:slug/
+    solutions: oplossingen/:slug/
+    knowledgebase: kennisbank/:slug/
+de:
+  languageName: German (German)
+  languageCode: de
+  weight: 2
+  permalinks:
+    members: over-ons/:slug/ 
+    pages: :slug/
+    cases: portfolio/:slug/
+    solutions: oplossingen/:slug/
+    knowledgebase: kennisbank/:slug/

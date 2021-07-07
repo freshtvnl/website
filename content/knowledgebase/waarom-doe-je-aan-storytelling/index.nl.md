@@ -1,7 +1,7 @@
 ---
 title: Waarom doe je aan storytelling?
+slug: waarom-doe-je-aan-storytelling
 draft: false
-id: moE-NHh_O
 seo:
   title: "Waarom doe je aan storytelling? | Kennisbank | Phil en Flo "
   description: Storytelling is de kunst van het vertellen van een verhaal. Leer

@@ -1,7 +1,7 @@
 ---
 title: Hoe maak je een videoscript?
+slug: hoe-maak-je-een-videoscript
 draft: false
-id: rpWVEDLaX
 seo:
   title: "Hoe maak je een videoscript? | Kennisbank | Phil & Flo "
   description: "Je maakt een videoscript aan de hand van twee vragen. Ontdek en

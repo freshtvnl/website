@@ -1,7 +1,7 @@
 ---
 title: Wat is een instructiefilm?
+slug: wat-is-een-instructiefilm
 draft: false
-id: WH7l8Hf3C
 seo:
   title: "Wat is een instructiefilm? | Kennisbank | Phil & Flo "
   description: "Een instructiefilm geeft letterlijk instructies aan de kijker van

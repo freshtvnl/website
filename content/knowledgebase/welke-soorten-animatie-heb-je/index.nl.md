@@ -1,7 +1,7 @@
 ---
 title: "Welke soorten animatie heb je? "
+slug: "welke-soorten-animatie-heb-je"
 draft: false
-id: TlAFiRicP
 seo:
   title: "Welke soorten animatie heb je? | Kennisbank | Phil & Flo "
   description: Van uitleg tot aan 3D animatie. Alle soorten animaties op een

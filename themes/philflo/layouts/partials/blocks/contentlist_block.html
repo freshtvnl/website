@@ -9,4 +9,65 @@
 {{ $align := .params.align }}
 {{ $display := .params.displaymedia }}
 
-list
+
+
+<div class="px-6 mx-auto mb-12 max-w-screen-2xl lg:px-8 xl:px-24 ">
+  <div class="max-w-3xl pb-4 mx-auto space-y-4 border-b border-gray-200">
+    <div class="prose lg:prose-lg xl:prose-xl">
+      <h2>{{ $params.title | markdownify }}</h2>
+      {{ $params.content | markdownify }}
+    </div>
+
+    {{ with $params.pages_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.slug" . }}{{ $item := . }}
+        <li class="flex flex-col align-center">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+    
+    {{ with $params.branches_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.slug" . }}{{ $item := . }}
+        <li class="flex flex-col align-center">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.members_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.slug" . }}{{ $item := . }}
+        <li class="flex flex-col align-center">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.solutions_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.slug" . }}{{ $item := . }}
+        <li class="flex flex-col align-center">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    {{ with $params.knowledgebase_items }}
+    <ul class="max-w-3xl mx-auto space-y-3 text-lg">
+      {{ range $index, $element :=  . }} {{ range where $site.Pages "Params.slug" . }}{{ $item := . }}
+        <li class="flex flex-col align-center">
+          <a href="{{.RelPermalink}}" class="text-green-500 hover:underline">{{.Title}}</a>
+        </li>
+    {{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+
+  </div>
+</div>

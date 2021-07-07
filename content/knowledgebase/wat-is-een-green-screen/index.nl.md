@@ -1,7 +1,7 @@
 ---
 title: Wat is een Green Screen?
+slug: wat-is-een-green-screen
 draft: false
-id: an926o3z9
 seo:
   title: "Wat is een Green Screen? | Kennisbank | Phil en Flo "
   description: "Met een green screen kan je de achtergrond naar wens aanpassen in

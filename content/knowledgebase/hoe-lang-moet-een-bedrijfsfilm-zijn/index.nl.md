@@ -1,7 +1,7 @@
 ---
 title: Hoe lang moet een bedrijfsfilm zijn?
+slug: hoe-lang-moet-een-bedrijfsfilm-zijn
 draft: false
-id: NHIOVomm3
 seo:
   title: Hoe lang moet een bedrijfsfilm zijn? | Kennisbank | Phil & Flo
   description: Een bedrijfsfilm moet de perfecte lengte hebben voor het doel van

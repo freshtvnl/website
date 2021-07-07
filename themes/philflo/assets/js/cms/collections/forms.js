@@ -23,13 +23,7 @@ const fields = [
     i18n: true,
     value: true
   },
-  {
-    label: "ID",
-    name: "id",
-    widget: "ncw-id",
-    required: true,
-    i18n: true
-  },
+
   {
     label: "Form Type",
     name: "type",

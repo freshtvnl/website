@@ -65,6 +65,16 @@ const homepages = {
         ...blocks,
         seo
       ],
+    },
+    {
+      label: "[DE] homepage",
+      name: "dehomepage",
+      file: "content/_index.de.md",
+      fields: [
+        ...fields,
+        ...blocks,
+        seo
+      ],
     }
   ],
   fields: [

@@ -87,7 +87,7 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
-parent: wvUKuLAzh
+parent: animatie-studio-amsterdam
 slug: interactieve-video
 seo:
   title: Interactieve video - Phil & Flo Videomarketing

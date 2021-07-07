@@ -10,58 +10,60 @@ blocks:
     title: Pages
     content: Overzicht van onze pagina's
     pages_items:
-      - v1RwkPjTk
-      - j18wstXaE
-      - 0wFfBvVZd
-      - 4awsNMvv31
-      - 4awsNMvv3
-      - WcYkSOTTF
-      - 4awsNMvv3bc
-      - 4awsNMvv3d
-      - wv1212UKuLAzh
-      - 4awsNMvv3ef
-      - wvUKuLAzh56
-      - wvUKuLAzh51
-      - wvUKuLAzh52
-      - wvUKuLAzh53
-      - wvUKuLAzh54
-      - wvUKuLAzh55
-      - wvUKuLAzh58
-      - wvUKuLAzh59
-      - wvUKuLAzh61
-      - wvUKasdfasdfuLAzh
-      - wvUKuLAzh62
-      - wvUKuLAzh63
-      - wvUKuLAzh64
-      - wvUKuas1aLAzh
-      - wvUK1212auLAzh
-      - wvUKuLAzh
-      - wvUKuLAzh60
-      - 4awsNMvv32
-      - GEYjS0IEo
-      - 4awsNMvv3aq
-      - 4awsNMvv3121
-      - 124awsNMvv3
-      - bb4awsNMvv3
-      - 4awadfsNMvv3
-      - 4awsNMasdfavv3
-      - 4awsNadf1Mvv3
-      - 4awsNM1212vv3
-      - 4awsNMvv334
-      - wvUKuLAzh57
-      - DFhjXX4LC
-      - 4awsNMvv3gw
-      - 4awsasdfNMvv3
+      - 360-graden-video-laten-maken
+      - algemene-voorwaarden
+      - bedrijfsanimatie
+      - 3-d-animatie-laten-maken
+      - bedrijfsfilm-laten-maken
+      - bedrijfsvideo
+      - you-tube-video-laten-maken
+      - bedrijfsfilm-eindhoven
+      - 30 minuten
+      - animatie-groningen
+      - drone-video-laten-maken
+      - esa-space-exploration
+      - vacature-video
+      - 3d-productvideo
+      - wervingsvideo-laten-maken
+      - corporate-video
+      - personalized-video
+      - gepersonaliseerde-video
+      - instagram-video-laten-maken
+      - videoproductie
+      - video-testimonial
+      - videoproductie-amsterdam
+      - reclamevideo
+      - branding-video-laten-maken
+      - stemacteur-of-actrice-aanmelden-voice-over
+      - you-tube-marketing
+      - educatieve-animatiefilm-maken
+      - animatie-studio-utrecht
+      - animatiestudio-groningen
+      - animatie-amsterdam
+      - animatie-maken-rotterdam
+      - animatie-film-eindhoven
+      - explainer-animatie
+      - vr-animatie-laten-maken
+      - animatie-studio-den-haag
+      - 2d-animatie
+      - uitleganimatie-laten-maken
+      - animatie-video
+      - animatie-groningen
+      - explanimation-laten-maken
+      - animatiefilm-laten-maken
+      - animatie-bedrijf-amsterdam
+      - bedrijfsfilm-laten-maken-groningen
+      - bedrijfsanimatie-laten-maken
   - type: content_list
     title: Branches
     content: De branches waar wij voor werken
     branches_items:
-      - 0uhmsFFxS
-      - CA0ObKsX0
-      - 7P41lTMjs
-      - YBLABQPne
-      - q6TD9LMXU
-      - o0NtTZixr
+      - duurzame-energie
+      - fair-food
+      - goede-doelen
+      - onderwijs-kunst-cultuur
+      - Innovatieve-tech
+      - zorg-pharma
   - type: content_list
     title: Members
     members_items:
@@ -74,15 +76,16 @@ blocks:
       - sophie
       - suzan-abbas
       - victor
+      - Sebastian
   - type: content_list
     title: Oplossingen
     solutions_items:
-      - wvUKuLAzh
-      - HklGfir85
-      - YwJ5gT_tJ
-      - Yu_OxyeJZ
-      - yV7XuAtMH
-      - WnlJtd9dP
+      - animatie-laten-maken
+      - employer-branding
+      - interactieve-video
+      - videomarketing
+      - video laten maken
+      - virtual-reality
 seo:
   title: Sitemap - Phil & Flo Video Creative Studio
   description: null

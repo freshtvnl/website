@@ -1,7 +1,7 @@
 ---
 title: Hoe werkt een green screen?
+slug: hoe-werkt-een-green-screen
 draft: false
-id: w6e33cU2r
 seo:
   title: "Hoe werkt een green screen? | Kennisbank | Phil & Flo "
   description: Een green screen maakt het mogelijk om op één locatie al je scènes

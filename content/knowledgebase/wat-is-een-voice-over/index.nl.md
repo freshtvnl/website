@@ -1,7 +1,7 @@
 ---
 title: "Wat is een voice over? "
+slug: "wat-is-een-voice-over"
 draft: false
-id: sb-nMrgo4
 seo:
   title: "Wat is een voice over?  | Kennisbank | Phil & Flo "
   description: "Wat is een voice-over precies? Leer hier meer over wat een

@@ -1,7 +1,7 @@
 ---
 title: Wat is een animatievideo?
+slug: wat-is-een-animatievideo
 draft: false
-id: dgaJjMrEp
 seo:
   title: "Wat is een animatievideo? | kennisbank | Phil en Flo "
   description: Wat is een animatievideo precies? Leer hier meer over video en

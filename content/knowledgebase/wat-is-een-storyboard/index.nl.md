@@ -1,7 +1,7 @@
 ---
 title: Wat is een storyboard?
+slug: wat-is-een-storyboard
 draft: false
-id: BDmCo7ZRE
 seo:
   title: "Wat is een storyboard? |  Kennisbank | Phil en Flo "
   description: Wat is een storyboard? Dit visualiseert een verhaallijn door middel

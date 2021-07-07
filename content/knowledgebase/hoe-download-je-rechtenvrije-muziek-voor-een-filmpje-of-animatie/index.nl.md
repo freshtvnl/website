@@ -1,7 +1,6 @@
 ---
 title: Hoe download je rechtenvrije muziek voor een filmpje of animatie?
-draft: false
-id: T4amK8QHE
+slug: hoe-download-je-rechtenvrije-muziek-voor-een-filmpje-of-animatie
 seo:
   title: "Hoe download je rechtenvrije muziek voor een filmpje of animatie? |
     Kennisbank | Phil en Flo "

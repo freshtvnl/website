@@ -10,7 +10,7 @@ export const base = [
     label: 'Slug',
     name: 'slug',
     widget: 'string',
-    required: false,
+    required: true,
     i18n: true
   },
   {
@@ -26,13 +26,6 @@ export const base = [
     widget: "boolean",
     required: false,
     default: true,
-    i18n: true
-  },
-  {
-    label: "ID",
-    name: "id",
-    widget: "ncw-id",
-    required: true,
     i18n: true
   },
 ]

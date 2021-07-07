@@ -1,7 +1,7 @@
 ---
 title: "Waarom zet je een bedrijfsfilm in? "
+slug: "waarom-zet-je-een-bedrijfsfilm-in"
 draft: false
-id: V4b9EY6eL
 seo:
   title: "Waarom zet je een bedrijfsfilm in? | kennisbank | Phil en Flo "
   description: "Een bedrijfsfilm zet je in om jouw klanten te informeren,

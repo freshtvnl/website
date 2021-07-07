@@ -1,7 +1,7 @@
 ---
 title: Wat is een customer journey video?
+slug: wat-is-een-customer-journey-video
 draft: false
-id: LYMCYmsZ_
 seo:
   title: Wat is een customer journey video? | Kennisbank | Phil & Flo
   description: "In een customer journey video maak je zichtbaar welke reis jouw

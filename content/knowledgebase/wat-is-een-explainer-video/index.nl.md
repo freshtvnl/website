@@ -1,7 +1,7 @@
 ---
 title: Wat is een explainer video?
+slug: wat-is-een-explainer-video
 draft: false
-id: kai2lqv3_
 seo:
   title: "Wat is een explainer video? | Kennisbank | Phil en Flo "
   description: "Een explainer video legt een complex concept makkelijk uit. Leer

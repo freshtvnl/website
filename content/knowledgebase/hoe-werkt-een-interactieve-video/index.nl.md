@@ -1,7 +1,7 @@
 ---
 title: Hoe werkt een interactieve video?
+slug: hoe-werkt-een-interactieve-video
 draft: false
-id: QFk0-u-j0
 seo:
   title: "Hoe werkt een interactieve video? | Kennisbank | Phil & Flo "
   description: Een interactieve video geeft de mogelijkheid aan de kijker om zelf

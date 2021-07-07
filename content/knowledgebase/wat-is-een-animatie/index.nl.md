@@ -1,7 +1,7 @@
 ---
 title: Wat is een animatie?
+slug: wat-is-een-animatie
 draft: false
-id: SgEXSuFcs
 seo:
   title: "Wat is een animatie? | Kennisbank | Phil & Flo "
   description: "Een animatie bestaat uit stilstaande beelden die achter elkaar

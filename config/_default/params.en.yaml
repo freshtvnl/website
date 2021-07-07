@@ -1,0 +1,44 @@
+footer:
+  title: Say Hello!
+  phonenumber:
+    formatted: 085 273 8331
+    raw: "+31852738331"
+  social:
+    title: Stay in the loop
+    linkedin: https://www.linkedin.com/company/707245
+    facebook: https://www.facebook.com/philenflo
+    instagram: https://www.instagram.com/philenflo
+    youtube: https://www.youtube.com/channel/UCBAxfqxWWbMz48-8JmJ2EQw
+  email:
+    formatted: hallo@philenflo.nl
+    raw: hallo@philenflo.nl?subject= Hallo Phil en Flo
+  address:
+    address1: |-
+      Groningen<br>
+      Oude-Boteringestraat 71<br>
+      9712 GG Groningen
+    address2: |-
+      Amsterdam<br>
+      Herengracht 420<br>
+      1017 BZ Amsterdam
+    address3: |-
+      Eindhoven<br>
+      Hurksestraat 64<br>
+      5652 AL Eindhoven
+    kvk: "kvk nr: 80801331 btwnr: NL861804983B01"
+  ctabar:
+    contact:
+      title: Een beller is sneller ;)
+      text: "Of mail ons:"
+    session:
+      title: 30 minuten sessie
+      text: Boek nu een vrijblijvende sessie met onze specialisten!
+      cta:
+        url: /30-minuten/
+        type: button
+        text: Aanvragen
+    contactblock:
+      title: Nieuwsbrief
+      text: ""
+      form: newsletter-form
+    bottomtext: Wij verbeelden de wereld van morgen. Animatie - Video - Branding

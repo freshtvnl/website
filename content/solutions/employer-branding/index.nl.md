@@ -49,7 +49,7 @@ blocks:
   - type: selectedreviews_block
     title: Google Reviews
     items:
-      - MaNQWLXGQ
+      - adresults-video-review
       - DMT
   - type: content_block
     align: left

@@ -1,7 +1,7 @@
 ---
 title: Hoe gebruik je een green screen?
+slug: hoe-gebruik-je-een-green-screen
 draft: true
-id: Wr4UyikC_
 seo:
   title: "Hoe gebruik je een green screen? | Kennisbank | Phil & Flo "
   description: "Hoe gebruik je een green screen? Volg de drie stappen voor het
