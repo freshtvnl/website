@@ -21,7 +21,6 @@ blocks:
       - 30 minuten
       - animatie-groningen
       - drone-video-laten-maken
-      - esa-space-exploration
       - vacature-video
       - 3d-productvideo
       - wervingsvideo-laten-maken
