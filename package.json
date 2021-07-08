@@ -9,7 +9,7 @@
     "cms:build": "SET NODE_ENV=production & webpack --mode=production",
     "cms:local": "npx netlify-cms-proxy-server",
     "watch": "SET NODE_ENV=development & npx tailwindcss -i ./themes/philflo/assets/css/main.css -o ./themes/philflo/assets/css/main.bundle.css --watch",
-    "build": "SET NODE_ENV=production & npx tailwindcss -i ./themes/philflo/assets/css/main.css -o ./themes/philflo/assets/css/main.bundle.css --minify && hugo --gc --minify"
+    "build": "SET NODE_ENV=production & npx tailwindcss -i ./themes/philflo/assets/css/main.css -o ./themes/philflo/assets/css/main.bundle.css --minify && hugo --gc "
   },
   "author": "",
   "license": "ISC",
