@@ -1,14 +1,14 @@
 {{ $data := .data }}
+{{ $site := .site }}
 
 {{ $thankyou := $data.Params.thankyou_page}}
 {{ $type := $data.Params.type }}
 {{ $name := $data.Title }}
 
-
 <div class="mt-1">
 
   
-    <form method="post" name="{{$name | urlize}}" id="{{$name | urlize}}" data-netlify="true" action="{{$thankyou}}">
+    <form method="post" name="{{$name | urlize}}-{{$site.Language.Lang}}" id="{{$name | urlize}}-{{$site.Language.Lang}}" data-netlify="true" action="{{$thankyou}}">
       <div class="grid grid-cols-4 gap-6">
         
         {{ if eq $type "30minutes"}}

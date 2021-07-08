@@ -2,7 +2,7 @@
 title: Nieuwsbrief
 thankyou_page: /bedankt-nieuwsbrief/
 type: newsletter
-slug: newsletter-form-de
+slug: newsletter-form
 seo:
   noindex: true
 ---

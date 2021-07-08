@@ -23,7 +23,7 @@
         {{ with $params.form }}
           {{ range where $site.Pages "Params.slug" . }}
           {{ $item := . }}
-            {{ partial "form.html" (dict "page" $page "data" . ) }}
+            {{ partial "form.html" (dict "page" $page "data" . "site" $site ) }}
           {{ end }}
         {{ end }}
      

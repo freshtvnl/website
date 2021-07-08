@@ -69,7 +69,8 @@
 
           {{ with .Site.Params.footer.ctabar.contactblock.form }}
             {{ range where $.Site.Pages "Params.slug" . }}
-              {{ partial "form.html" (dict "data" . ) }}
+              
+              {{ partial "form.html" (dict "data" . "site" $.Site ) }}
             {{ end }}
           {{ end }}
 

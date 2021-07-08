@@ -1,7 +1,7 @@
 ---
 title: Review intern
 type: review_intern
-slug: review-intern-form-de
+slug: review-intern-form
 seo:
   noindex: true
 ---
