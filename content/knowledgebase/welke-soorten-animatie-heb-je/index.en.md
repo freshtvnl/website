@@ -1,6 +1,6 @@
 ---
 title: "Welke soorten animatie heb je? "
-slug: "welke-soorten-animatie-heb-je"
+slug: welke-soorten-animatie-heb-je
 draft: false
 seo:
   title: "Welke soorten animatie heb je? | Kennisbank | Phil & Flo "

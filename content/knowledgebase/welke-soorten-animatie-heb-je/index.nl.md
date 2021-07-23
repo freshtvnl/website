@@ -1,6 +1,6 @@
 ---
 title: "Welke soorten animatie heb je? "
-slug: "welke-soorten-animatie-heb-je"
+slug: welke-soorten-animatie-heb-je
 draft: false
 seo:
   title: "Welke soorten animatie heb je? | Kennisbank | Phil & Flo "
@@ -11,7 +11,7 @@ Animatie is een breed begrip en overkoepeld een groot deel van soorten animaties
 
 * [Uitleg animatie](https://www.philenflo.nl/uitleganimatie-laten-maken/). 
 * [2D animatie](https://www.philenflo.nl/2d-animatie/).
-* [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/). 
+* [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/). 
 * Infographic. 
 * [360 graden animatie](https://www.philenflo.nl/360-graden-video-laten-maken/).
 * [Explainer animatie](https://www.philenflo.nl/explainer-animatie/). 
