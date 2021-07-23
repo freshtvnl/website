@@ -83,7 +83,7 @@ blocks:
       ## ***Breed inzetbaar***
 
 
-      Maar natuurlijk is een film breder inzetbaar dan alleen tijdens een klantoverleg. Zo maakten we een teaserfilm speciaal voor Linkedin. Zo kunnen ook nieuwe leads verzameld worden, en is adverteren via Linkedin maar ook [Youtube](https://www.philenflo.nl/youtube-marketing/) binnen handbereik.
+      Maar natuurlijk is een film breder inzetbaar dan alleen tijdens een klantoverleg. Zo maakten we een teaserfilm speciaal voor Linkedin. Zo kunnen ook nieuwe leads verzameld worden, en is adverteren via Linkedin maar ook [YouTube](https://www.philenflo.nl/you-tube-marketing/) binnen handbereik.
   - type: content_block
     video:
       autoplay: true
