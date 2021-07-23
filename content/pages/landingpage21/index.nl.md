@@ -45,7 +45,7 @@ blocks:
       ## Commercial als onderdeel van ***communicatiemix***
 
 
-      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) als Pre-roll, Instream of postroll. Daarnaast is ook [Instagram](https://www.philenflo.nl/instagram-video-laten-maken/) stories een geweldige manier om je product of dienst aan je publiek te tonen.
+      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op [YouTube](https://www.philenflo.nl/you-tube-marketing/) als Pre-roll, Instream of postroll. Daarnaast is ook [Instagram](https://www.philenflo.nl/instagram-video-laten-maken/) stories een geweldige manier om je product of dienst aan je publiek te tonen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
