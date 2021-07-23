@@ -22,7 +22,7 @@ blocks:
       ## ***Aantrekkelijke*** animaties
 
 
-      [Productvideo’s](https://www.philenflo.nl/productfilm/), voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in [2D](https://www.philenflo.nl/2d-animatie/) of [3D](https://www.philenflo.nl/3d-animatie-laten-maken/). Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
+      [Productvideo’s](https://www.philenflo.nl/productfilm/), voorlichtingsfilms en uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in [2D](https://www.philenflo.nl/2d-animatie/) of [3D](https://www.philenflo.nl/3-d-animatie-laten-maken/). Een bedrijfsanimatie biedt veel creatieve mogelijkheden om in minder tijd meer informatie te presenteren. Waar een video met acteurs vaak een commercieel randje heeft en moeilijker te ensceneren is, maken wij bedrijfsanimaties juist om te informeren en meer ingewikkelde dingen uit te leggen. Met een bedrijfsanimatie van Phil & Flo kun je écht indruk maken.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
