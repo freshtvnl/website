@@ -76,7 +76,7 @@ blocks:
       ## ***Resultaat***
 
 
-      De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
+      De opdrachtgever is enthousiast, maar de kijkers ook! De video’s vormen samen een uitstekende basis om in te zetten voor promotiedoeleinden via kanalen als de website, [YouTube](https://www.philenflo.nl/you-tube-marketing/) en andere social media. Inmiddels staat de teller op meer dan 500.000 app-downloads. Heb jij Payconiq al op je telefoon geïnstalleerd?
     align: left
     image:
       source: ""
