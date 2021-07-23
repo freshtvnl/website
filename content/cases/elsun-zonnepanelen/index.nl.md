@@ -42,7 +42,7 @@ blocks:
       ## ***Waarom een film?***
 
 
-      Zonnepanelen kunnen we tot op detail namaken in een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/). We kunnen zelfs een hele stad met zonnepanelen [animeren](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar als een product zich zo goed leent voor een film, dan is het zonde om niet de reflectie van een Drentse lentezon op een zonnepaneel te komen filmen. De hoeveelheid details, niet zo zeer in de techniek van een zonnepaneel, maar in de achtergrond van een filmshot dat is waardoor mensen aangegrepen worden. Iedereen houdt van de warme zon. Deze herkenbare warmte staat centraal in de film.
+      Zonnepanelen kunnen we tot op detail namaken in een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/). We kunnen zelfs een hele stad met zonnepanelen [animeren](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar als een product zich zo goed leent voor een film, dan is het zonde om niet de reflectie van een Drentse lentezon op een zonnepaneel te komen filmen. De hoeveelheid details, niet zo zeer in de techniek van een zonnepaneel, maar in de achtergrond van een filmshot dat is waardoor mensen aangegrepen worden. Iedereen houdt van de warme zon. Deze herkenbare warmte staat centraal in de film.
     displaymedia: custom_video
   - type: content_block
     video:
