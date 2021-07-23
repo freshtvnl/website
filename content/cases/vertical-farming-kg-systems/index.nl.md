@@ -37,7 +37,7 @@ blocks:
       ## ***Waarom een 3D animatie laten maken?***
 
 
-      Een [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) leent zich bij uitstek als middel om complexe, innovatieve technieken uit te leggen. Maar een systeem uitleggen kan natuurlijk ook prima middels een film. Waarom dan toch 3D? Met een 3D animatie kunnen we niet alleen tot in detail een product of systeem laten zien, maar ook haar context. We bouwen een complete digitale filmset op vanuit het niets. Dus zodra we het product, in dit geval de vertical farm, gebouwd hebben, dan kunnen we nog alle kanten op. Vertical farming in China? Geen probleem! Volgende scène in Amsterdam? Is goed! De wereld van 3D animaties is visueel onbeperkt en enkel gelimiteerd door je eigen creatieve inzichten.
+      Een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) leent zich bij uitstek als middel om complexe, innovatieve technieken uit te leggen. Maar een systeem uitleggen kan natuurlijk ook prima middels een film. Waarom dan toch 3D? Met een 3D animatie kunnen we niet alleen tot in detail een product of systeem laten zien, maar ook haar context. We bouwen een complete digitale filmset op vanuit het niets. Dus zodra we het product, in dit geval de vertical farm, gebouwd hebben, dan kunnen we nog alle kanten op. Vertical farming in China? Geen probleem! Volgende scène in Amsterdam? Is goed! De wereld van 3D animaties is visueel onbeperkt en enkel gelimiteerd door je eigen creatieve inzichten.
     displaymedia: image
     image:
       source: images/kg-systems-bts.jpg
@@ -54,7 +54,7 @@ blocks:
       ## ***Samen sterker in de marketingmix***
 
 
-      Het samen brengen en afstemmen van alle marketingvormen werkt versterkend en is daarom iets waar we altijd op inzetten! De [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) is ingezet als onderdeel van een grotere rebranding. Om de inzet en herkenbaarheid van de KG Systems vertical farm nog verder te verbeteren, maakten we naast de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) ook een strakke teaser om te delen op social media. Tot slot maakten we een prachtige still waarin de vertical farm en haar belangrijkste onderdelen worden uitgelicht. Ideaal voor op de nieuwe KG Systems website.
+      Het samen brengen en afstemmen van alle marketingvormen werkt versterkend en is daarom iets waar we altijd op inzetten! De [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) is ingezet als onderdeel van een grotere rebranding. Om de inzet en herkenbaarheid van de KG Systems vertical farm nog verder te verbeteren, maakten we naast de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) ook een strakke teaser om te delen op social media. Tot slot maakten we een prachtige still waarin de vertical farm en haar belangrijkste onderdelen worden uitgelicht. Ideaal voor op de nieuwe KG Systems website.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/201216-Blended-group-Teaser.mp4
