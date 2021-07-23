@@ -30,8 +30,8 @@ Met het definitieve script en storyboard gaat de animator aan de slag. Elke scen
 
 ## Succes boeken met animatie
 
-Een animatie effectief inzetten vraagt om een goed contentplan waarin je je animaties, en andere content gefaseerd deelt met je publiek. Vaak heeft jouw contactpersoon hier gedegen advies over. Denk aan het inrichten van je socialmediakanalen, het ontwerpen van flyers met een qr-code of een teaserversie van je animatie. Met laatstgenoemde kan je effectief adverteren op bijvoorbeeld Linkedin en [Youtube](https://www.philenflo.nl/youtube-marketing/). Afhankelijk van wat jouw doelen zijn vind je samen met de experts de juiste tools om succes te boeken!
+Een animatie effectief inzetten vraagt om een goed contentplan waarin je je animaties, en andere content gefaseerd deelt met je publiek. Vaak heeft jouw contactpersoon hier gedegen advies over. Denk aan het inrichten van je socialmediakanalen, het ontwerpen van flyers met een qr-code of een teaserversie van je animatie. Met laatstgenoemde kan je effectief adverteren op bijvoorbeeld Linkedin en [Youtube](https://www.philenflo.nl/you-tube-marketing/). Afhankelijk van wat jouw doelen zijn vind je samen met de experts de juiste tools om succes te boeken!
 
 ![Succes boeken met animatie](images/succes-boeken-met-animatie.jpg)
 
-Dus wat betekent het om een animatie van A tot Z te laten maken? Eigenlijk wordt je geheel ontzorgd en hoef je alleen feedback of goedkeuring te geven op de gemaakte opzetten en producten die ervaren specialisten jou voorschotelen. Wil je meer weten over Animatie? Check hier alles over [2d animatie](https://www.philenflo.nl/2d-animatie/) en [3d animatie](https://www.philenflo.nl/3d-animatie-laten-maken/).
+Dus wat betekent het om een animatie van A tot Z te laten maken? Eigenlijk wordt je geheel ontzorgd en hoef je alleen feedback of goedkeuring te geven op de gemaakte opzetten en producten die ervaren specialisten jou voorschotelen. Wil je meer weten over Animatie? Check hier alles over [2d animatie](https://www.philenflo.nl/2d-animatie/) en [3d animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/).
