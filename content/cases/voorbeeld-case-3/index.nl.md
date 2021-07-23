@@ -18,7 +18,7 @@ blocks:
       de publieke omroep aandacht te vragen voor kunstenaars in coronatijd. Met
       ons team vol kunstenaars en liefhebbers gaan we de uitdaging aan, en
       besluiten we alles uit de kast te trekken in de vorm van een [3D
-      animatie](https://www.philenflo.nl/3d-animatie-laten-maken/).
+      animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/).
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210325%20Boknet%203D%20kunst%20-%20Phil%20en%20Flo%20animaties.mp4
@@ -29,7 +29,7 @@ blocks:
       ## Diamonds are made ***under pressure***
 
 
-      Maandagochtend krijgen we een telefoontje voor een animatie die vijf dagen later op de NPO gedraaid mag worden. We gaan de uitdaging aan en besluiten ons gehele productieteam in te zetten om de deadline te halen. We hebben als animatieteam ook een eigen subdoel. We willen laten zien hoe [2D](https://www.philenflo.nl/2d-animatie/)- en [3D](https://www.philenflo.nl/3d-animatie-laten-maken/) animatie elkaar kunnen versterken. Aan de slag!
+      Maandagochtend krijgen we een telefoontje voor een animatie die vijf dagen later op de NPO gedraaid mag worden. We gaan de uitdaging aan en besluiten ons gehele productieteam in te zetten om de deadline te halen. We hebben als animatieteam ook een eigen subdoel. We willen laten zien hoe [2D](https://www.philenflo.nl/2d-animatie/)- en [3D](https://www.philenflo.nl/3-d-animatie-laten-maken/) animatie elkaar kunnen versterken. Aan de slag!
     displaymedia: custom_video
     youtube:
       id: 8tKtbeTsmfQ
