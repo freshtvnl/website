@@ -52,7 +52,7 @@ blocks:
       ## ***Zorgproduct*** of dienstverlening
 
 
-      Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D animatie](https://www.philenflo.nl/3d-animatie-laten-maken/) of [Virtual Reality-animatie](https://www.philenflo.nl/vr-animatie-laten-maken/). We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
+      Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) of [Virtual Reality-animatie](https://www.philenflo.nl/vr-animatie-laten-maken/). We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
     displaymedia: youtube_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
