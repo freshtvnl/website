@@ -262,7 +262,7 @@ Houdt hierbij wel rekening met de limitaties van platte tekeningen. Binnen 2D an
 
 ## 3D animatie
 
-Het grootste voordeel van [3-dimensionale animaties](https://www.philenflo.nl/3d-animatie-laten-maken/) is de mogelijkheid om fotorealistisch beeld te creëren. Je kunt het kleinste detail laten terugkomen in je animatie, maar bent niet gebonden aan natuurwetten. Dit is een groot verschil met bijvoorbeeld een echte film. Je kan je creativiteit dus de vrije loop laten. 
+Het grootste voordeel van [3-dimensionale animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/) is de mogelijkheid om fotorealistisch beeld te creëren. Je kunt het kleinste detail laten terugkomen in je animatie, maar bent niet gebonden aan natuurwetten. Dit is een groot verschil met bijvoorbeeld een echte film. Je kan je creativiteit dus de vrije loop laten. 
 
 Als je net die extra stap wilt zetten om je te onderscheiden van je concurrentie, dan is 3D animatie zeker het overwegen waard. Hieronder lees je interessante feitjes die je wellicht inspireren om te kiezen voor een 3D animatie.
 
