@@ -31,7 +31,7 @@ blocks:
       ## Waarom zal ik een ***promotiefilm*** maken?
 
 
-      Het is een uitstekende manier om de identiteit van je merk te visualiseren. Ook is de film uitermate geschikt om te delen op social media. Als je de film op de juiste kanalen plaatst, kan de interactie met je klant tot behoorlijk toenemen. Je online vindbaarheid wordt ook aanzienlijk verbeterd; plaats je jouw promotiefilm via [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) op je website, dan verschijn je hoger in de zoekresultaten van Google.
+      Het is een uitstekende manier om de identiteit van je merk te visualiseren. Ook is de film uitermate geschikt om te delen op social media. Als je de film op de juiste kanalen plaatst, kan de interactie met je klant tot behoorlijk toenemen. Je online vindbaarheid wordt ook aanzienlijk verbeterd; plaats je jouw promotiefilm via [YouTube](https://www.philenflo.nl/you-tube-marketing/) op je website, dan verschijn je hoger in de zoekresultaten van Google.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
