@@ -1,6 +1,6 @@
 ---
 title: De kracht van animatie voor het onderwijs
-slug: ""
+slug: de-kracht-van-animatie-voor-het-onderwijs
 draft: false
 image:
   source: images/iconen-in-het-onderwijs.jpg
@@ -20,7 +20,7 @@ Als we kijken naar het [onderwijs ](https://www.philenflo.nl/branches/onderwijs-
 
 Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is een combinatie van getekend beeld en gesproken woord. Dit getekende beeld kan met zowel een computer als met de hand gemaakt zijn. Vaak zijn animaties voor commerciële doeleinden kort en krachtig en veelal rond de één minuut lang. Terwijl animaties al jarenlang populair zijn onder kinderen, in de vorm van tv-series (cartoons), is animatie tegenwoordig een breed in te zetten tool die door allerlei bedrijven en instellingen aangegrepen wordt om hun producten en diensten uit te leggen. 
 
-Ook in het onderwijs maakt de animatie en andere videocontent een opmars. [2D animatie](https://www.philenflo.nl/2d-animatie/) is de meest voorkomende vorm, maar ook [3D](https://www.philenflo.nl/3d-animatie-laten-maken/) wint aan terrein dankzij de prachtige, realistische weergaven die mogelijk zijn. Afhankelijk van wat jij wilt uitleggen of promoten kan het zijn dat 3D net iets meer realisme en detail biedt die jij nodig hebt om je doelstelling te bereiken.
+Ook in het onderwijs maakt de animatie en andere videocontent een opmars. [2D animatie](https://www.philenflo.nl/2d-animatie/) is de meest voorkomende vorm, maar ook [3D](https://www.philenflo.nl/3-d-animatie-laten-maken/) wint aan terrein dankzij de prachtige, realistische weergaven die mogelijk zijn. Afhankelijk van wat jij wilt uitleggen of promoten kan het zijn dat 3D net iets meer realisme en detail biedt die jij nodig hebt om je doelstelling te bereiken.
 
 ## Waarom animatie gebruiken in het onderwijs?
 
