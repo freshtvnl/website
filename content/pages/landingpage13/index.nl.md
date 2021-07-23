@@ -17,7 +17,7 @@ blocks:
       ## Presenteer krachtig jouw ***producten***
 
 
-      [Productvideo’s](https://www.philenflo.nl/3d-productvideo/) maar ook uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in [2D](https://www.philenflo.nl/2d-animatie/), [3D](https://www.philenflo.nl/3d-animatie-laten-maken/) of op een geweldige manier in beeld te brengen. Een productfilm biedt uitgebreide mogelijkheden om in minder tijd (soms slechts 15 seconden) meer informatie te presenteren dan in een producttekst. Met een productfilm van Phil & Flo vinden jouw klanten met slechts één klik alle informatie over het juiste product.
+      [Productvideo’s](https://www.philenflo.nl/3d-productvideo/) maar ook uitlegvideo’s: we kunnen ze allemaal een stuk simpeler en aantrekkelijker maken door ze te animeren in [2D](https://www.philenflo.nl/2d-animatie/), [3D](https://www.philenflo.nl/3-d-animatie-laten-maken/) of op een geweldige manier in beeld te brengen. Een productfilm biedt uitgebreide mogelijkheden om in minder tijd (soms slechts 15 seconden) meer informatie te presenteren dan in een producttekst. Met een productfilm van Phil & Flo vinden jouw klanten met slechts één klik alle informatie over het juiste product.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
