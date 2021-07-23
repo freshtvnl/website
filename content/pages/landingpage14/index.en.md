@@ -2,7 +2,6 @@
 title: Branding video laten maken
 slug: branding-video-laten-maken
 draft: false
-
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld

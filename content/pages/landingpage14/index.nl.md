@@ -2,7 +2,6 @@
 title: Branding video laten maken
 slug: branding-video-laten-maken
 draft: false
-
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld
@@ -27,7 +26,7 @@ blocks:
       ## ***Branding video*** voor Social Media
 
 
-      Met een branding video geef je potentiële klanten de nodige informatie en een inkijkje in je bedrijf. Maar belangrijker nog: je valt op. Een goede Branding video wordt snel opgepikt en via [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/), Instagram of LinkedIn talloze keren gedeeld. Een video zorgt voor gemiddeld 30 procent meer conversie op je site. Met een onprofessionele of zelfs helemaal geen bedrijfsfilm vis je achter het net: geen bereik, geen views, geen klanten.
+      Met een branding video geef je potentiële klanten de nodige informatie en een inkijkje in je bedrijf. Maar belangrijker nog: je valt op. Een goede Branding video wordt snel opgepikt en via [YouTube](https://www.philenflo.nl/you-tube-marketing/), Instagram of LinkedIn talloze keren gedeeld. Een video zorgt voor gemiddeld 30 procent meer conversie op je site. Met een onprofessionele of zelfs helemaal geen bedrijfsfilm vis je achter het net: geen bereik, geen views, geen klanten.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
