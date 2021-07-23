@@ -65,7 +65,7 @@ blocks:
       ## ***3D Animatie oplossingen***
 
 
-      Het is een uitdaging om DMT’s processen mondeling goed uit te leggen. Om deze doelgroep op een laagdrempelige manier te verbeelden hoe deze biogas-opwekkingsinstallaties werken, zet DMT nu [3D-animatie's](https://www.philenflo.nl/3d-animatie-laten-maken/) van Phil & Flo in. De perfecte synergie tussen de gesproken voice-over en de bijpassende visualisaties zorgen voor een effectieve kennisoverdracht.
+      Het is een uitdaging om DMT’s processen mondeling goed uit te leggen. Om deze doelgroep op een laagdrempelige manier te verbeelden hoe deze biogas-opwekkingsinstallaties werken, zet DMT nu [3D-animatie's](https://www.philenflo.nl/3-d-animatie-laten-maken/) van Phil & Flo in. De perfecte synergie tussen de gesproken voice-over en de bijpassende visualisaties zorgen voor een effectieve kennisoverdracht.
 
 
       Onze projectmanagers hebben veel affiniteit met duurzame oplossingen, de samenwerking is daarom erg gelijkwaardig en leuk. Wij begrijpen niet alleen hoe dit soort processen werken, maar ook de urgentie van dit soort oplossingen met het oog op de wereld van morgen.
