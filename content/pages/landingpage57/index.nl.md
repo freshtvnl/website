@@ -28,7 +28,7 @@ blocks:
       source: ""
     align: left
     cta:
-      url: /3d-animatie-laten-maken/
+      url: https://www.philenflo.nl/3-d-animatie-laten-maken/
       text: Lees hier meer
       type: button
     content: >-
