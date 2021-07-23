@@ -69,7 +69,7 @@ blocks:
       ### ***Promotie***
 
 
-      De infomercial is opgeleverd in vijf verschillende talen, zodat Sunita internationaal gepresenteerd kan worden. Dit gebeurt via online kanalen als [YouTube](/youtube-marketing/), [](https://www.freshtv.nl/facebook-video-marketing/)Instagram en de website. Ook nemen de salesmanagers de video mee ter ondersteuning tijdens hun gesprekken met retailers.
+      De infomercial is opgeleverd in vijf verschillende talen, zodat Sunita internationaal gepresenteerd kan worden. Dit gebeurt via online kanalen als [YouTube](https://www.philenflo.nl/you-tube-marketing/), [](https://www.freshtv.nl/facebook-video-marketing/)Instagram en de website. Ook nemen de salesmanagers de video mee ter ondersteuning tijdens hun gesprekken met retailers.
     displaymedia: custom_video
     video:
       autoplay: true
