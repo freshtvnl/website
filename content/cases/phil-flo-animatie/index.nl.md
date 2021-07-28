@@ -1,6 +1,7 @@
 ---
 title: Phil & Flo Animatie
 slug: phil en flo animatie
+weight: 2
 draft: false
 image:
   source: images/phil-flo-animatie.jpg
