@@ -16,4 +16,18 @@ blocks:
     youtube:
       id: ffvFXp830sY
     title: Sport Fiets Spray - 3D Animatie
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    displaymedia: youtube_video
+    youtube:
+      id: xaN7PTYXmnc
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    displaymedia: youtube_video
+    youtube:
+      id: BzSk-Hj1iCk
 ---
