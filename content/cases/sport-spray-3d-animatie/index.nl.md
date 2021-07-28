@@ -1,6 +1,7 @@
 ---
 title: Sport spray - 3D animatie
 slug: sport spray 3d animatie
+weight: 1
 draft: false
 image:
   source: images/sport-spray-3d-animatie.jpg
