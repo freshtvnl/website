@@ -1,6 +1,6 @@
 ---
 title: "Waarom zet je een bedrijfsfilm in? "
-slug: "waarom-zet-je-een-bedrijfsfilm-in"
+slug: waarom-zet-je-een-bedrijfsfilm-in
 draft: false
 seo:
   title: "Waarom zet je een bedrijfsfilm in? | kennisbank | Phil en Flo "
