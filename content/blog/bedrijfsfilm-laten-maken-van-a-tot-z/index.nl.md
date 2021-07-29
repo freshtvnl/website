@@ -15,7 +15,7 @@ Elke creatieve productie start met een idee of wens. Vervolgens kan je op zoek g
 
 ## Creatieve sessie voor een bedrijfsfilm
 
-Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en wensen voor jouw bedrijfsfilm. Een belangrijke keuze is of je werknemers aan het woord wilt laten middels interviews, of liever een professionele stemacteur inzet om je verhaal over te brengen. Vaak bekijk je op voorhand of tijdens de sessie inspirerende voorbeelden die je met het team bespreekt, maar ook bespreek je wat voor stem het beste jouw verhaal kan vertellen, ideeën voor specifieke scènes, en kernwoorden die je belangrijk vindt om in het script of interview terug te zien. Als je samenwerkt met een professionele partij, dan zullen zij jou de juiste vragen stellen om te komen tot de kern van jouw bedrijfsfilm.
+Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en wensen voor jouw bedrijfsfilm. Een belangrijke keuze is of je werknemers aan het woord wilt laten middels interviews, of liever een professionele stemacteur inzet om je verhaal over te brengen. Vaak bekijk je op voorhand of tijdens de sessie inspirerende voorbeelden die je met het team bespreekt, maar ook bespreek je wat voor stem het beste jouw verhaal kan vertellen, ideeën voor specifieke scènes, en kernwoorden die je belangrijk vindt om in het script of interview terug te zien. Als je samenwerkt met een professionele partij, dan zullen zij jou de juiste vragen stellen om te komen tot de kern van jouw [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/).
 
 ![Creatieve sessie bedrijfsvideo](images/creatieve-sessie-video.jpg)
 
