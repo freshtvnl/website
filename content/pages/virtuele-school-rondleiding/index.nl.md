@@ -152,6 +152,9 @@ blocks:
 
       Benieuwd hoe wij andere scholen hebben geholpen met hun digitale rondleiding? Lees dan hier onze [case over CSB Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Heb je vragen of wil je graag een vrijblijvend adviesgesprek? Neem dan hieronder contact met ons op!
     form: ""
+  - type: selectedfaqs_block
+    items:
+      - wat-moet-ik-aanleveren-voor-een-offerte
 seo:
   title: Virtuele rondleiding school | Phil & Flo | Wij verbeelden de wereld van
     morgen
