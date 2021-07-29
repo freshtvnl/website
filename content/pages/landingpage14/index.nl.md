@@ -16,7 +16,7 @@ blocks:
       ## Waar sta je voor?
 
 
-      Wie zijn jullie? Waar staan jullie voor? Wat is de sfeer op de werkvloer? Hoe klinkt een tevreden klant? Dit vat je niet in tekst en afbeeldingen alleen. De kernwaarden van het bedrijf komen het beste over in een film gemaakt door Phil & Flo. Ideeën nodig?
+      Wie zijn jullie? Waar staan jullie voor? Wat is de sfeer op de werkvloer? Hoe klinkt een tevreden klant? Dit vat je niet in tekst en afbeeldingen alleen. De kernwaarden van het bedrijf komen het beste over in een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) gemaakt door Phil & Flo. Ideeën nodig?
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
