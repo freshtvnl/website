@@ -58,7 +58,7 @@ blocks:
       ## ***Educatie*** is nooit meer saai
 
 
-      In ieder geval niet met Phil & Flo, dat mag je van ons aannemen. Wil je eens een verhelderend gesprek over het visualiseren van jouw droge educatieve materie? Kom in contact en laat weten welke uitdaging jij voor ons in petto hebt. Of ontdek hier meer hoe wij ons inzetten voor de [onderwijssector](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/).
+      In ieder geval niet met Phil & Flo, dat mag je van ons aannemen. Wil je eens een verhelderend gesprek over het visualiseren van jouw droge educatieve materie? Kom in contact en laat weten welke uitdaging jij voor ons in petto hebt. Of ontdek hier meer hoe wij ons inzetten voor de [onderwijssector](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Of wat dacht van je een [virtuele school rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
     displaymedia: custom_video
     video:
       autoplay: true
