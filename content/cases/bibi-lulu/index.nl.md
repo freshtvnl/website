@@ -28,7 +28,7 @@ blocks:
       ## ***Breng een verhaal tot leven met 2D***
 
 
-      Patty Brard en haar team namen contact met ons op voor een promotievideo. Niet voor een TV programma, maar voor Patty's nieuwe kinderboek. Bibi & Lulu, de avonturen van twee doldwaze honden. Na een leuke creatieve sessie waarin we alles leerden over het boek en natuurlijk de hondjes zelf, gingen we aan de slag. Aan de hand van het boek en de daarin beschreven karakteristieken van de honden brachten we Bibi & Lulu tot leven in een [2D animatie](https://www.philenflo.nl/2d-animatie/). Een kort, leuk en zeer creatief project!
+      Patty Brard en haar team namen contact met ons op voor een [promotievideo](https://www.philenflo.nl/promotiefilm-laten-maken/). Niet voor een TV-programma, maar voor Patty's nieuwe kinderboek. Bibi & Lulu, de avonturen van twee doldwaze honden. Na een leuke creatieve sessie waarin we alles leerden over het boek en natuurlijk de hondjes zelf, gingen we aan de slag. Aan de hand van het boek en de daarin beschreven karakteristieken van de honden brachten we Bibi & Lulu tot leven in een [2D animatie](https://www.philenflo.nl/2d-animatie/). Een kort, leuk en zeer creatief project!
     form: ""
   - type: contact_block
     contacts:
