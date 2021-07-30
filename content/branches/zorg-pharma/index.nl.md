@@ -11,10 +11,11 @@ blocks:
   - type: hero_block
     content: Goede zorg vinden we vanzelfsprekend hier in Europa. We hebben het hier
       fantastisch voor elkaar. Dat betekent ook dat er tijd en geld is voor
-      onderzoek die weer kan worden gebruikt in de rest van de wereld. Om ook
-      wereldwijd ziektes uit te bannen is goede pharmaceutische industrie
-      belangrijk. Daarom werken wij graag samen met zorg & pharma bedrijven om
-      doorbraken en oplossingen te communiceren door middel van [interactieve
+      onderzoek die weer kan worden gebruikt in de rest van de wereld. Om
+      wereldwijd ziektes uit te bannen is een goede en eerlijke pharmaceutische
+      industrie belangrijk. Daarom werken wij graag samen met zorg & pharma
+      bedrijven om doorbraken en oplossingen te communiceren door middel van
+      [interactieve
       brochures](https://www.philenflo.nl/oplossingen/interactieve-video/),
       [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
       en [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
