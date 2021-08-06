@@ -39,4 +39,5 @@ seo:
     verbeelding
   description: "Sophie maakt de beste en tofste animaties voor jou. Leer de
     medewerkers van Phil & Flo kennen en kom in contact. "
+  noindex: true
 ---
