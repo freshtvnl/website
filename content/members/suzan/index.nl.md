@@ -30,7 +30,7 @@ blocks:
       betrokken bij projecten voor deze sectoren.
     displaymedia: null
 seo:
-  noindex: false
+  noindex: true
   title: "Suzan Abbas, co-founder Phil & Flo. "
   description: Marketing en video expert met specialisme in de branches zorg,
     pharma en onderwijs.
