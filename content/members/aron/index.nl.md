@@ -20,5 +20,5 @@ blocks:
     image:
       source: images/aron-inge.png
 seo:
-  noindex: false
+  noindex: true
 ---
