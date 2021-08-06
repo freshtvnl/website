@@ -17,4 +17,6 @@ blocks:
 
 
       Volg je ons al op insta? > [Phil en Flo Instagram.](https://www.instagram.com/philenflo/)
+seo:
+  noindex: true
 ---
