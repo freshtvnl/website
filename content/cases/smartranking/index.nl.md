@@ -49,10 +49,13 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Van beelden naar resultaat (film)
+      ## Van beelden naar resultaat
 
 
       De toffe beelden zijn geschoten en daarmee begint de edit! Het samenstellen van de leuke interviewstukken is een mooie uitdaging voor onze editor. Belangrijk bij een film met een rustig decor als deze, is om het geluid en de kleuren zo goed mogelijk naar voren te laten komen. Voor het mooiste resultaat, investeren we veel tijd in het corrigeren en optimaliseren van kleuren en beelden. Zowel wijzelf als SmartRanking zijn zeer tevreden over het eindproduct. Oordeel vooral zelf!
+    youtube:
+      id: 3p7-TKaYYHY
+    displaymedia: youtube_video
   - type: content_block
     video:
       autoplay: true
