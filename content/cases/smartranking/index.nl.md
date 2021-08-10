@@ -44,4 +44,22 @@ blocks:
 
 
       Met veel plezier finetunede we het concept en konden we al snel gaan filmen! Met gloeilampen, die representatief zijn voor het logo van SmartRanking, creëerden we een warm licht. Rode lampen op de achtergrond lieten de huisstijlkleur van SmartRanking de filmset inkleuren. Zo blijft de aandacht op de mensen in beeld, maar tonen we subtiel de kenmerken van het SmartRanking merk. De draaidag was een dag vol leuke interviews, en vooral heel veel SEO. Benieuwd? Kijk dan onze ‘making of’ film voor een impressie.
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## Van beelden naar resultaat (film)
+
+
+      De toffe beelden zijn geschoten en daarmee begint de edit! Het samenstellen van de leuke interviewstukken is een mooie uitdaging voor onze editor. Belangrijk bij een film met een rustig decor als deze, is om het geluid en de kleuren zo goed mogelijk naar voren te laten komen. Voor het mooiste resultaat, investeren we veel tijd in het corrigeren en optimaliseren van kleuren en beelden. Zowel wijzelf als SmartRanking zijn zeer tevreden over het eindproduct. Oordeel vooral zelf!
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Finishing touch & promotie
+
+
+      Video’s op social media worden standaard zonder geluid afgespeeld. Daarnaast zijn veel zakelijke kijkers vaak werkzaam in een drukke ruimte op kantoor of onderweg. We adviseren daarom altijd om ondertiteling toe te voegen aan je film. Naast ondertiteling is het voor social media ook aan te raden om een korte 15 seconden versie van je film te laten monteren. In de teaserfilm van SmartRaknking spreken we de kijker rechtstreeks aan. Perfect voor het binnenhalen van nieuwe leads via Youtube en LinkedIn. Ben jij benieuwd hoe een pakkende film jouw organisatie verder kan helpen? Maak gebruik van ons gratis, vrijblijvende adviesgesprek.
 ---
