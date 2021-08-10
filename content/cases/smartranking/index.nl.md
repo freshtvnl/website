@@ -65,4 +65,7 @@ blocks:
 
 
       Video’s op social media worden standaard zonder geluid afgespeeld. Daarnaast zijn veel zakelijke kijkers vaak werkzaam in een drukke ruimte op kantoor of onderweg. We adviseren daarom altijd om ondertiteling toe te voegen aan je film. Naast ondertiteling is het voor social media ook aan te raden om een korte 15 seconden versie van je film te laten monteren. In de teaserfilm van SmartRaknking spreken we de kijker rechtstreeks aan. Perfect voor het binnenhalen van nieuwe leads via Youtube en LinkedIn. Ben jij benieuwd hoe een pakkende film jouw organisatie verder kan helpen? Maak gebruik van ons gratis, vrijblijvende adviesgesprek.
+    displaymedia: youtube_video
+    youtube:
+      id: TI-1jXDFCNE
 ---
