@@ -1,7 +1,7 @@
 ---
 title: Pharmerit - Interactieve brochure
 slug: Pharmerit - Interactieve brochure
-draft: true
+draft: false
 content_type: case
 color: pink
 branch: zorg-pharma
