@@ -1,6 +1,6 @@
 ---
-title: SmartRanking
-slug: Smartranking
+title: SmartRanking Bedrijfsfilm
+slug: Smartranking Bedrijfsfilm
 draft: false
 image:
   source: images/smartranking-thumbnail-jarik-lamp-philenflo.jpg
