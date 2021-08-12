@@ -2,6 +2,8 @@
 title: Pharmerit - Interactieve brochure
 slug: Pharmerit - Interactieve brochure
 draft: false
+image:
+  source: images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg
 content_type: case
 color: pink
 branch: zorg-pharma
