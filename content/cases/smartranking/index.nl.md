@@ -1,7 +1,7 @@
 ---
 title: SmartRanking
 slug: Smartranking
-draft: true
+draft: false
 content_type: case
 color: blue
 branch: Innovatieve-tech
