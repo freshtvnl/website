@@ -10,20 +10,24 @@ blocks:
     align: center
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Smartranking%20call%20to%20action%20philenflo.mp4
     title: "***Zoekmachine optimalisatie***"
     content: Iedereen die online content maakt weet hoe belangrijk het is om
       zoekmachine vriendelijke webpagina’s, blogs of video’s te maken. Veel
       bedrijven bieden SEO (search engine optimalisation) als dienst aan.
       SmartRanking doet dit net even anders.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Smartranking%20lamp%20philenflo.mp4
     align: left
     content: >-
       ## SmartRanking - jouw SEO specialist!
 
 
       Jarik en Lotte benaderden ons met de vraag of wij SmartRanking willen presenteren in een pakkende bedrijfsfilm. Een kans die we met beide handen hebben aangegrepen. Tijdens een creatieve sessie kwamen we al snel tot de essentie van de film. SmartRanking is een bedrijf met een hecht team dat zich specialiseert in SEO. Door deze specialisatie hebben zij zich ontpopt tot een autoriteit op hun gebied. Dit moest duidelijk terugkomen in de film. De verdere creatieve invulling van de film stond ons vrij. Als filmcrew is er niks leukers dan een concept van de grond af aan opbouwen. Aan de slag!
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
