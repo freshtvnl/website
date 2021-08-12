@@ -31,6 +31,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Smartranking%20making%20of%20snippet%20philenflo.mp4
     align: right
     content: >-
       ## Creative concepting
@@ -39,6 +40,7 @@ blocks:
       Samen met het filmteam ben ik om tafel gegaan. Hoe breng je een relatief ontastbare dienst als SEO in beeld? Het antwoord? Niet..
 
       SmartRankings grootste kracht is haar specialisme. Dit specialisme is in feite een groep mensen waarbinnen elk individu veel kennis heeft over een specifiek onderdeel. Voor ons was het duidelijk: de mensen en kennis moesten centraal staan in de corporate film. Daarom kozen we voor een rustige filmlocatie, een fotostudio in Groningen. We namen maar liefst acht interviews af, om zoveel mogelijk gezichten achter SmartRanking in beeld te brengen. We kozen voor een rustige en strakke achtergrond zodat vooral de mensen achter SmartRanking in de spotlight zouden staan. Hiernaast gaven we op creatieve wijze een prominente rol aan het SmartRanking logo. Het totale concept hebben we gedeeld met Jarik en zijn team, en... we kregen een “GO!”
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
