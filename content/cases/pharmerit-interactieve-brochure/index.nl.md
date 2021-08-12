@@ -10,6 +10,7 @@ blocks:
     align: center
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20animation%20philenflo.mp4
     content: Pharmerit brengt specialisten op het gebied van medicatie en therapie
       samen. Als verbindende partij beweegt Pharmerit de pharmaceutische branche
       om de nodige veranderingen teweeg te brengen. Wij van Phil & Flo helpen
@@ -18,18 +19,22 @@ blocks:
       mag blijken uit onze finale plek voor de Digital Awards 2021 van The PM
       Society.
     title: "***Pharmerit draagt zorg***"
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20marketing%20philenflo.mp4
     align: left
     content: >-
       ## Patient Centricity
 
 
       Patient Centricity is het centraal stellen van de patiënt doorheen de ontwikkelingen, en implementatie van nieuwe medicatie. In elke fase moeten de patiënt en zijn beleving centraal staan. Om dit concept en de implementatie ervan goed uit te leggen, maakten wij een interactieve brochure voor Pharmerit. Het voordeel van een interactieve brochure? Een prachtige samensmelting van animatie, foto-, tekst- en filmelementen. Zo kan je allerlei losse vormen van content samenbrengen in één brochure waarin je de doelgroep stapsgewijs en op een speelse manier je verhaal kunt vertellen.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20film%20philenflo.mp4
     align: right
     content: >-
       ## Een goed begin is het halve werk
