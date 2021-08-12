@@ -41,6 +41,7 @@ blocks:
 
 
       Om een goede interactieve brochure te maken, starten we met een wireframe. Hierin schetsen we het skelet van de interactieve brochure. Zo kunnen we de gewenste klantbeleving en volgorde van content goed op elkaar laten aansluiten. Vervolgens kijken we naar waar welke vorm van content het beste aansluit bij de verschillende fasen in de brochure. In dit geval werkten we met animaties, teksten en afbeeldingen.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
