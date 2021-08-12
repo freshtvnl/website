@@ -10,7 +10,7 @@ blocks:
     align: center
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Smartranking%20call%20to%20action%20philenflo.mp4
+      source_mp4: https://video.philenflo.nl/video/Smartranking%20lamp%20philenflo.mp4
     title: "***Zoekmachine optimalisatie***"
     content: Iedereen die online content maakt weet hoe belangrijk het is om
       zoekmachine vriendelijke webpagina’s, blogs of video’s te maken. Veel
@@ -20,7 +20,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Smartranking%20lamp%20philenflo.mp4
+      source_mp4: https://video.philenflo.nl/video/Smartranking%20call%20to%20action%20philenflo.mp4
     align: left
     content: >-
       ## SmartRanking - jouw SEO specialist!
