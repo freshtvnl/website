@@ -3,7 +3,7 @@ title: SmartRanking
 slug: Smartranking
 draft: false
 image:
-  source: images/smartranking-thumbnail-philenflo.jpg
+  source: images/smartranking-thumbnail-jarik-lamp-philenflo.jpg
 content_type: case
 color: blue
 branch: Innovatieve-tech
