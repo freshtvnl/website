@@ -50,6 +50,9 @@ blocks:
 
 
       Met veel plezier finetunede we het concept en konden we al snel gaan filmen! Met gloeilampen, die representatief zijn voor het logo van SmartRanking, creëerden we een warm licht. Rode lampen op de achtergrond lieten de huisstijlkleur van SmartRanking de filmset inkleuren. Zo blijft de aandacht op de mensen in beeld, maar tonen we subtiel de kenmerken van het SmartRanking merk. De draaidag was een dag vol leuke interviews, en vooral heel veel SEO. Benieuwd? Kijk dan onze ‘making of’ film voor een impressie.
+    displaymedia: youtube_video
+    youtube:
+      id: 5rC6bhiecfM
   - type: content_block
     video:
       autoplay: true
