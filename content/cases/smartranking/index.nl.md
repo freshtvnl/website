@@ -2,6 +2,8 @@
 title: SmartRanking
 slug: Smartranking
 draft: false
+image:
+  source: images/smartranking-thumbnail-philenflo.jpg
 content_type: case
 color: blue
 branch: Innovatieve-tech
