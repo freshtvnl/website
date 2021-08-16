@@ -4,6 +4,7 @@ slug: Pharmerit - Interactieve brochure
 draft: false
 image:
   source: images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg
+  alt: Interactieve brochure voor Pharmerit
 content_type: case
 color: pink
 branch: zorg-pharma
@@ -42,7 +43,7 @@ blocks:
       ## Een goed begin is het halve werk
 
 
-      Om een goede interactieve brochure te maken, starten we met een wireframe. Hierin schetsen we het skelet van de interactieve brochure. Zo kunnen we de gewenste klantbeleving en volgorde van content goed op elkaar laten aansluiten. Vervolgens kijken we naar waar welke vorm van content het beste aansluit bij de verschillende fasen in de brochure. In dit geval werkten we met animaties, teksten en afbeeldingen.
+      Om een goede interactieve brochure te maken, starten we met een wireframe. Hierin schetsen we het skelet van de interactieve brochure. Zo kunnen we de gewenste klantbeleving en volgorde van content goed op elkaar laten aansluiten. Vervolgens kijken we naar waar welke vorm van content het beste aansluit bij de verschillende fasen in de brochure. In dit geval werkten we met [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), teksten en afbeeldingen.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -68,4 +69,8 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+seo:
+  title: Interactieve brochure voor Pharmerit | Phil & Flo | Case
+  description: "Phil & Flo verbeeld de wereld van morgen met een interactieve
+    brochure voor Pharmerit. Bekijk hier het resultaat. "
 ---
