@@ -4,6 +4,7 @@ slug: Smartranking Bedrijfsfilm
 draft: false
 image:
   source: images/smartranking-thumbnail-jarik-lamp-philenflo.jpg
+  alt: Jarik Oosting SmartRanking bedrijfsfilm
 content_type: case
 color: blue
 branch: Innovatieve-tech
@@ -28,7 +29,7 @@ blocks:
       ## SmartRanking - jouw SEO specialist!
 
 
-      Jarik en Lotte benaderden ons met de vraag of wij SmartRanking willen presenteren in een pakkende bedrijfsfilm. Een kans die we met beide handen hebben aangegrepen. Tijdens een creatieve sessie kwamen we al snel tot de essentie van de film. SmartRanking is een bedrijf met een hecht team dat zich specialiseert in SEO. Door deze specialisatie hebben zij zich ontpopt tot een autoriteit op hun gebied. Dit moest duidelijk terugkomen in de film. De verdere creatieve invulling van de film stond ons vrij. Als filmcrew is er niks leukers dan een concept van de grond af aan opbouwen. Aan de slag!
+      Jarik en Lotte benaderden ons met de vraag of wij SmartRanking willen presenteren in een pakkende [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/). Een kans die we met beide handen hebben aangegrepen. Tijdens een creatieve sessie kwamen we al snel tot de essentie van de film. SmartRanking is een bedrijf met een hecht team dat zich specialiseert in SEO. Door deze specialisatie hebben zij zich ontpopt tot een autoriteit op hun gebied. Dit moest duidelijk terugkomen in de film. De verdere creatieve invulling van de film stond ons vrij. Als filmcrew is er niks leukers dan een concept van de grond af aan opbouwen. Aan de slag!
     displaymedia: custom_video
   - type: content_block
     video:
@@ -75,8 +76,12 @@ blocks:
       ## Finishing touch & promotie
 
 
-      Video’s op social media worden standaard zonder geluid afgespeeld. Daarnaast zijn veel zakelijke kijkers vaak werkzaam in een drukke ruimte op kantoor of onderweg. We adviseren daarom altijd om ondertiteling toe te voegen aan je film. Naast ondertiteling is het voor social media ook aan te raden om een korte 15 seconden versie van je film te laten monteren. In de teaserfilm van SmartRaknking spreken we de kijker rechtstreeks aan. Perfect voor het binnenhalen van nieuwe leads via Youtube en LinkedIn. Ben jij benieuwd hoe een pakkende film jouw organisatie verder kan helpen? Maak gebruik van ons gratis, vrijblijvende adviesgesprek.
+      [Bedrijfsvideo’s](https://www.philenflo.nl/bedrijfsvideo/) op social media worden standaard zonder geluid afgespeeld. Daarnaast zijn veel zakelijke kijkers vaak werkzaam in een drukke ruimte op kantoor of onderweg. We adviseren daarom altijd om ondertiteling toe te voegen aan je film. Naast ondertiteling is het voor social media ook aan te raden om een korte 15 seconden versie van je film te laten monteren. In de teaserfilm van SmartRanking spreken we de kijker rechtstreeks aan. Perfect voor het binnenhalen van nieuwe leads via [Youtube](https://www.philenflo.nl/you-tube-marketing/) en LinkedIn. Ben jij benieuwd hoe een pakkende film jouw organisatie verder kan helpen? Maak gebruik van ons gratis, vrijblijvende adviesgesprek.
     displaymedia: youtube_video
     youtube:
       id: TI-1jXDFCNE
+seo:
+  title: "Bedrijfsvideo voor SmartRanking | Phil & Flo | Case "
+  description: Bedrijfsvideo voor SmartRanking. Phil & Flo verbeeld de wereld van
+    morgen voor dit SEO bureau. Bekijk hier het resultaat.
 ---
