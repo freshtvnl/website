@@ -4,15 +4,11 @@ slug: stage animator 2D 3D groningen
 draft: false
 color: yellow
 blocks:
-  - type: hero_block
-    align: center
+  - type: content_block
     video:
       autoplay: true
-    title: "***Stage MBO/HBO fulltime animator***"
-    content: ""
-    displaymedia: null
-    youtube:
-      id: ""
+    align: center
+    content: "## ***Stage MBO/HBO fulltime animator bij Phil & Flo***"
   - type: content_block
     video:
       autoplay: true
