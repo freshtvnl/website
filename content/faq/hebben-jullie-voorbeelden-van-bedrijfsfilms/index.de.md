@@ -1,12 +1,12 @@
 ---
-title: "Hebben jullie voorbeelden van bedrijfsfilms? "
-slug: "hebben-jullie-voorbeelden-van-bedrijfsfilms"
+title: Haben Sie Beispiele für Unternehmensfilme?
+slug: Haben Sie Beispiele für Unternehmensfilme
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van bedrijfsfilms? "
-  answer: Ons portfolio zit vol met succesvolle bedrijfsfilms voor allerlei
-    branches. Op onze portfoliopagina kan je eenvoudig kiezen waar je
-    voorbeelden voor zoekt.
+  question: Haben Sie Beispiele für Unternehmensfilme?
+  answer: Unser Portfolio ist voll von erfolgreichen Unternehmensfilmen für alle
+    möglichen Branchen. Auf unserer Portfolio-Seite können Sie einfach
+    auswählen, was Sie sehen möchten.
 seo:
   noindex: true
 ---

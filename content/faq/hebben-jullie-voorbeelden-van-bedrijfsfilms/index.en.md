@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van bedrijfsfilms? "
-slug: "hebben-jullie-voorbeelden-van-bedrijfsfilms"
+slug: hebben-jullie-voorbeelden-van-bedrijfsfilms
 draft: false
 faq:
   question: "Hebben jullie voorbeelden van bedrijfsfilms? "
