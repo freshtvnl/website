@@ -1,17 +1,13 @@
 ---
-title: "Wat moet ik aanleveren voor een offerte? "
-slug: "wat-moet-ik-aanleveren-voor-een-offerte"
+title: Was müssen wir für ein Angebot zur Verfügung stellen?
+slug: Was müssen wir für ein Angebot zur Verfügung stellen
 draft: false
 faq:
-  question: "Wat moet ik aanleveren voor een offerte? "
-  answer: Om een goede op maatgemaakte offerte te ontvangen is een intakegesprek
-    aan te raden. Tijdens dit gesprek krijgt jouw persoonlijke consultant
-    inzicht in wat je wensen en doelstellingen zijn. Zo kunnen we je behoeden
-    voor veel voorkomende valkuilen en adviseren over wat wel en niet goed
-    werkt. Vervolgens ontvang je kort na je gesprek een offerte op maat. Heb je
-    een simpele productie liggen en weet je wat je nodig hebt, dan kan je dit
-    ook helder in een e-mail of aanvraagformulier aanleveren. Onze consultant
-    neemt dan contact met je op mochten er vragen zijn.
+  question: Was müssen wir für ein Angebot zur Verfügung stellen?
+  answer: Je mehr Informationen wir haben, um ein Angebot für Sie zu schreiben,
+    desto besser. Wenn Sie Schwierigkeiten haben zu definieren, wonach Sie
+    suchen, helfen Ihnen unsere Berater gerne weiter. Sie werden gerne mit Ihnen
+    besprechen, wie wir Ihre Ziele am besten erreichen können.
 seo:
   noindex: true
 ---

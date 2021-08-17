@@ -1,6 +1,6 @@
 ---
 title: "Wat moet ik aanleveren voor een offerte? "
-slug: "wat-moet-ik-aanleveren-voor-een-offerte"
+slug: wat-moet-ik-aanleveren-voor-een-offerte
 draft: false
 faq:
   question: "Wat moet ik aanleveren voor een offerte? "
