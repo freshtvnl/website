@@ -22,7 +22,7 @@ blocks:
       verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D
       animaties, Virtual Reality en interactieve video’s. Samen met jou vormen
       wij het beste en leukste team, voor een snelle transitie naar een mooie
-      toekomst. Wij zijn Phil & Flo, Wij verbeelden de wereld van morgen."
+      toekomst. ***Wij zijn Phil & Flo, Wij verbeelden de wereld van morgen***."
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -31,7 +31,7 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Wie ben jij
+      ## ***Wie ben jij***
 
 
       * Je wordt enthousiast van het verhaal van Phil & Flo;
@@ -60,7 +60,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
     align: left
     content: >-
-      ## Wat ga je doen
+      ## ***Wat ga je doen***
 
 
       Als stagiair marketing & communicatie ga je voor ons een onderzoek uitvoeren in lijn met je opleiding en stage-eisen. Naast je onderzoeksopdracht help je ons bij onze dagelijkse bedrijfsvoering. Je draagt verantwoordelijkheid voor onze socials, schrijft pakkende teksten voor de website en ondersteund het team met je schrijfvaardigheid en verfrissende inzichten. Je wordt nauw betrokken bij onze marketing en communicatie overleggen en denkt tijdens deze meetings mee over kansen, en optimalisaties.
@@ -70,7 +70,7 @@ blocks:
       autoplay: true
     align: right
     content: |-
-      ## Wat wij bieden
+      ## ***Wat wij bieden***
 
       * Een jong en gezellig team vol professionals die jou helpen groeien;
       * Een mooi gelegen kantoor in de binnenstad van Groningen;
@@ -85,7 +85,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
     align: left
     content: |-
-      ## Wat wij vragen
+      ## ***Wat wij vragen***
 
       * Enthousiasme
       * Inzet en leergierigheid
@@ -96,7 +96,7 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Solliciteren
+      ## ***Solliciteren***
 
 
       Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
