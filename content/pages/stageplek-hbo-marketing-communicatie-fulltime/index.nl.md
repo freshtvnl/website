@@ -1,7 +1,7 @@
 ---
 title: Stageplek HBO Marketing & Communicatie (fulltime)
 slug: Stageplek HBO Marketing & Communicatie
-draft: true
+draft: false
 image:
   source: images/aron-inge-kopie.jpg
 color: yellow
