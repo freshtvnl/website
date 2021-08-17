@@ -57,13 +57,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
     align: left
     content: >-
       ## Wat ga je doen
 
 
       Als stagiair marketing & communicatie ga je voor ons een onderzoek uitvoeren in lijn met je opleiding en stage-eisen. Naast je onderzoeksopdracht help je ons bij onze dagelijkse bedrijfsvoering. Je draagt verantwoordelijkheid voor onze socials, schrijft pakkende teksten voor de website en ondersteund het team met je schrijfvaardigheid en verfrissende inzichten. Je wordt nauw betrokken bij onze marketing en communicatie overleggen en denkt tijdens deze meetings mee over kansen, en optimalisaties.
-    displaymedia: image
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
