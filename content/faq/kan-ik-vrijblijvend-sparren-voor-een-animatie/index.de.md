@@ -1,13 +1,13 @@
 ---
-title: "Kan ik vrijblijvend sparren voor een animatie?"
-slug: "kan-ik-vrijblijvend-sparren-voor-een-animatie"
+title: Kann ich eine kostenlose Beratung über eine Animation erhalten?
+slug: Kann ich eine kostenlose Beratung über eine Animation erhalten
 draft: false
 faq:
-  question: "Kan ik vrijblijvend sparren voor een animatie? "
-  answer: Onze consultants denken graag vrijblijvend met je mee om te kijken wat
-    de beste communicatieoplossing is voor jouw vraagstuk. Je kan ons
-    [contactformulier](https://www.philenflo.nl/contact/) invullen of een
-    belafspraak maken.
+  question: Kann ich eine kostenlose Beratung über eine Animation erhalten?
+  answer: Unsere Berater arbeiten gerne mit Ihnen zusammen, um die beste
+    Kommunikationslösung für Ihr Problem zu finden. Sie können unser
+    [Kontaktformular](https://www.philundflo.nl/kontakt/) ausfüllen oder einen
+    Termin per Telefon vereinbaren.
 seo:
   noindex: true
 ---
