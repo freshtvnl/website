@@ -1,13 +1,13 @@
 ---
-title: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "
-slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
+title: Was muss ich für ein Angebot für einen Unternehmensfilm liefern?
+slug: Was muss ich für ein Angebot für einen Unternehmensfilm liefern
 draft: false
 faq:
-  question: "Wat dien ik aan te leveren voor een offerte voor een bedrijfsfilm? "
-  answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,
-    hoe beter. Vind je het lastig om te benoemen wat je zoekt, dan helpen onze
-    consultants je graag een handje. Zij bespreken graag met jou, hoe we jouw
-    doelen het best kunnen behalen.
+  question: Was muss ich für ein Angebot für einen Unternehmensfilm liefern?
+  answer: Je mehr Informationen wir haben, um ein Angebot für Sie zu schreiben,
+    desto besser. Wenn Sie Schwierigkeiten haben, zu spezifizieren, was Sie
+    suchen, helfen Ihnen unsere Berater gerne weiter. Sie werden gerne mit Ihnen
+    besprechen, wie wir Ihre Ziele am besten erreichen können.
 seo:
   noindex: true
 ---
