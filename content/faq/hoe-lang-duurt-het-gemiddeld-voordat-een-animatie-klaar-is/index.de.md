@@ -1,12 +1,12 @@
 ---
-title: "Hoe lang duurt het gemiddeld voordat een animatie klaar is? "
-slug: "hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is"
+title: Wie lange dauert es im Durchschnitt, eine Animation fertigzustellen?
+slug: Wie lange dauert es im Durchschnitt, eine Animation fertigzustellen
 draft: false
 faq:
-  question: "Hoe lang duurt het gemiddeld voordat een animatie klaar is? "
-  answer: De gemiddelde doorlooptijd van een animatie is één maand.
-    Spoedopdrachten kunnen natuurlijk sneller worden opgeleverd en andere
-    projecten vragen juist weer meer afstemming en dus meer tijd.
+  question: Wie lange dauert es im Durchschnitt, eine Animation fertigzustellen?
+  answer: Die durchschnittliche Dauer einer Animation beträgt einen Monat.
+    Natürlich können Eilaufträge schneller erledigt werden, andere Projekte
+    erfordern mehr Koordination und damit mehr Zeit.
 seo:
   noindex: true
 ---
