@@ -81,6 +81,9 @@ blocks:
       * Een passende stagevergoeding;
       * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
       * Lekkere lunch van de zaak op maandagen.
+    displaymedia: image
+    image:
+      source: images/feestje-phil-en-flo.jpg
   - type: content_block
     video:
       autoplay: true
