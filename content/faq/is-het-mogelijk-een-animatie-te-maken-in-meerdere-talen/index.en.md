@@ -1,6 +1,6 @@
 ---
 title: "Is het mogelijk een animatie te maken in meerdere talen? "
-slug: "is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen"
+slug: is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
 draft: false
 faq:
   question: "Is het mogelijk een animatie te maken in meerdere talen? "

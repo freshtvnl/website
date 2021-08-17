@@ -1,15 +1,15 @@
 ---
-title: "Is het mogelijk een animatie te maken in meerdere talen? "
-slug: "is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen"
+title: Ist es möglich, eine Animation in mehreren Sprachen zu erstellen?
+slug: Ist es möglich, eine Animation in mehreren Sprachen zu erstellen
 draft: false
 faq:
-  question: "Is het mogelijk een animatie te maken in meerdere talen? "
-  answer: We raden zelfs aan om een animatie in meerder talen te verspreiden! Stel
-    dat jouw doelgroep zowel in Duitsland als in Nederland aanwezig is, dan
-    spreek je die het beste aan met zowel een Nederlandse als een Duitse
-    voice-over stem. We maken dan één animatie in twee versies. In principe zien
-    de klanten dezelfde animatie, maar de voice-over stem en eventuele tekst
-    zijn vertaald.
+  question: Ist es möglich, eine Animation in mehreren Sprachen zu erstellen?
+  answer: Wir empfehlen sogar, eine Animation in mehreren Sprachen zu verteilen!
+    Wenn sich Ihre Zielgruppe beispielsweise sowohl in Deutschland als auch in
+    den Niederlanden befindet, ist es am besten, sie sowohl mit einer
+    niederländischen als auch mit einer deutschen Stimme anzusprechen. Wir
+    erstellen dann eine Animation in zwei Versionen. Im Prinzip sehen die Kunden
+    die gleiche Animation, aber der Voice-Over und der Text werden übersetzt.
 seo:
   noindex: true
 ---
