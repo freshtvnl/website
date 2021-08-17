@@ -1,12 +1,11 @@
 ---
-title: "Welke muziek gebruiken jullie? "
-slug: "welke-muziek-gebruiken-jullie"
+title: Welche Musik verwenden Sie?
+slug: Welche Musik verwenden Sie
 faq:
-  question: "Welke muziek gebruiken jullie? "
-  answer: Wij ontnemen de zorg van het vinden van de juiste muziek die precies die
-    sfeer met zich meebrengt die juist is voor jouw interactieve video. Wil je
-    een eigen soundtrack laten maken? Neem contact op met een van onze
-    consultants voor al je vragen!
+  question: Welche Musik verwenden Sie?
+  answer: Für jeden Film wählen wir Musik aus unserer digitalen Bibliothek mit
+    Tausenden von Titeln aus. Auf diese Weise finden wir immer einen Song, der
+    Ihren Film und Ihre Botschaft unterstreicht!
 seo:
   noindex: true
 ---
