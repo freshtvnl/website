@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een animatie? "
-slug: "hoe-gaan-jullie-te-werk-met-een-animatie"
+slug: hoe-gaan-jullie-te-werk-met-een-animatie
 draft: false
 faq:
   answer: We beginnen met een creatieve sessie waarin we heel duidelijk

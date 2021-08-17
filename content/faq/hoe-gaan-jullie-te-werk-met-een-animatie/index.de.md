@@ -1,14 +1,14 @@
 ---
-title: "Hoe gaan jullie te werk met een animatie? "
-slug: "hoe-gaan-jullie-te-werk-met-een-animatie"
+title: Wie gehen Sie bei der Erstellung einer Animation vor?
+slug: Wie gehen Sie bei der Erstellung einer Animation vor
 draft: false
 faq:
-  answer: We beginnen met een creatieve sessie waarin we heel duidelijk
-    achterhalen wat de boodschap is die je wilt zenden en natuurlijk het
-    uiteindelijke doel dat je wilt behalen met de animatie, daarna maken we een
-    script en beginnen we met animeren. Je mag kiezen welke voice-over je
-    prettig vindt klinken en dan vieren we samen het eindresultaat!
-  question: "Hoe gaan jullie te werk met een animatie? "
+  answer: Wir beginnen mit einer kreativen Sitzung, in der wir die Botschaft, die
+    Sie senden möchten, und natürlich das ultimative Ziel, das Sie mit der
+    Animation erreichen wollen, klar verstehen, dann erstellen wir ein Skript
+    und beginnen mit der Animation. Sie können sich aussuchen, wie Ihre Stimme
+    klingen soll und dann werden wir gemeinsam das Endergebnis feiern!
+  question: Wie gehen Sie bei der Erstellung einer Animation vor?
 seo:
   noindex: true
 ---
