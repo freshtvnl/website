@@ -3,7 +3,7 @@ title: Stageplek HBO Marketing & Communicatie (fulltime)
 slug: Stageplek HBO Marketing & Communicatie
 draft: false
 image:
-  source: images/aron-inge-kopie.jpg
+  source: ""
 color: yellow
 blocks:
   - type: hero_block
@@ -51,9 +51,11 @@ blocks:
       * Naast Nederlands spreek en schrijf je ook in het Engels en/of Duits;
 
       * Je denkt graag mee op tactisch en strategisch niveau om het maximale resultaat te bereiken.
-    displaymedia: youtube_video
+    displaymedia: image
     youtube:
       id: 8tKtbeTsmfQ
+    image:
+      source: images/aron-inge-kopie.jpg
   - type: content_block
     video:
       autoplay: true
