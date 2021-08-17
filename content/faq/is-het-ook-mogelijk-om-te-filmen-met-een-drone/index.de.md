@@ -1,11 +1,11 @@
 ---
-title: "Is het ook mogelijk om te filmen met een drone? "
-slug: "is-het-ook-mogelijk-om-te-filmen-met-een-drone"
+title: Ist es auch möglich, mit einer Drohne zu filmen?
+slug: Ist es auch möglich, mit einer Drohne zu filmen
 draft: false
 faq:
-  question: "Is het ook mogelijk om te filmen met een drone? "
-  answer: Jazeker! In ons portfolio vind je verschillende films waarin we gebruik
-    hebben gemaakt van zogeheten droneshots.
+  question: Ist es auch möglich, mit einer Drohne zu filmen?
+  answer: Ja, das ist es! In unserem Portfolio finden Sie mehrere Filme, in denen
+    wir so genannte Drohnenaufnahmen verwendet haben.
 seo:
   noindex: true
 ---

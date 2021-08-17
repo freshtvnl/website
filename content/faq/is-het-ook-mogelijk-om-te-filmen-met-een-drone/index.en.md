@@ -1,6 +1,6 @@
 ---
 title: "Is het ook mogelijk om te filmen met een drone? "
-slug: "is-het-ook-mogelijk-om-te-filmen-met-een-drone"
+slug: is-het-ook-mogelijk-om-te-filmen-met-een-drone
 draft: false
 faq:
   question: "Is het ook mogelijk om te filmen met een drone? "
