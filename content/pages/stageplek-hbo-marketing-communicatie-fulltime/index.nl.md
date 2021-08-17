@@ -79,4 +79,16 @@ blocks:
       * Een passende stagevergoeding;
       * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
       * Lekkere lunch van de zaak op maandagen.
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
+    align: left
+    content: |-
+      ## Wat wij vragen
+
+      * Enthousiasme
+      * Inzet en leergierigheid
+      * Een eerlijke en open houding
+    displaymedia: custom_video
 ---
