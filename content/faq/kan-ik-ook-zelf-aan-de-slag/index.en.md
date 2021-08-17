@@ -1,6 +1,6 @@
 ---
 title: "Kan ik ook zelf aan de slag? "
-slug: "kan-ik-ook-zelf-aan-de-slag"
+slug: kan-ik-ook-zelf-aan-de-slag
 draft: false
 faq:
   question: "Kan ik ook zelf aan de slag? "

@@ -1,14 +1,14 @@
 ---
-title: "Kan ik ook zelf aan de slag? "
-slug: "kan-ik-ook-zelf-aan-de-slag"
+title: Kann ich es selbst tun
+slug: Kann ich es selbst tun
 draft: false
 faq:
-  question: "Kan ik ook zelf aan de slag? "
-  answer: "Animeren is een vak. Onze animatoren zijn dan ook afgestudeerde
-    professionals met veel ervaring. Dit betekent niet dat er geen ruimte is
-    voor creatieve inbreng. Tijdens het voortraject nodigen we je van harte uit
-    om mee te denken tijdens onze creatieve sessie. Tijdens deze sessie werken
-    we samen met jou uit hoe we de animatie willen invullen. "
+  question: Kann ich es selbst tun?
+  answer: Animateur ist ein Beruf. Unsere Animatoren sind diplomierte Profis mit
+    viel Erfahrung. Das bedeutet nicht, dass es keinen Raum für kreativen Input
+    gibt. Während des Vorprozesses laden wir Sie ein, an unserer kreativen
+    Sitzung teilzunehmen. In dieser Sitzung erarbeiten wir gemeinsam mit Ihnen,
+    wie wir die Animation interpretieren wollen.
 seo:
   noindex: true
 ---
