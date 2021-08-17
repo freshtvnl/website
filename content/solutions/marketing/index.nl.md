@@ -8,7 +8,7 @@ image:
 color: green
 blocks:
   - type: hero_block
-    title: Videomarketing tips en tricks
+    title: Videomarketing ***tips en tricks***
     content: Een open deur, maar het begint allemaal met een goede video. Een video
       die waarde toevoegt. En onze ervaring leert dat dit video’s zijn die
       verhalen vertellen waarin de kijker zich herkent. Hoe beter het verhaal is
