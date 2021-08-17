@@ -5,7 +5,7 @@ weight: 5
 draft: false
 image:
   source: images/inge-bank.jpg
-color: blue
+color: green
 blocks:
   - type: hero_block
     title: Videomarketing tips en tricks
@@ -24,6 +24,9 @@ blocks:
 
       Mensen hebben maar een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
     displaymedia: image
+    youtube:
+      image:
+        source: images/inge-bank.jpg
 seo:
   title: "Videomarketing uitbesteden bij Phil & Flo | Wij verbeelden de wereld van
     morgen "
