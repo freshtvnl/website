@@ -1,6 +1,6 @@
 ---
 title: "Met hoeveel mensen komen jullie filmen? "
-slug: "met-hoeveel-mensen-komen-jullie-filmen"
+slug: met-hoeveel-mensen-komen-jullie-filmen
 draft: false
 faq:
   question: "Met hoeveel mensen komen jullie filmen? "
