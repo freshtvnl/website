@@ -5,7 +5,7 @@ weight: 5
 draft: false
 image:
   source: images/inge-bank.jpg
-color: green
+color: blue
 blocks:
   - type: hero_block
     title: Videomarketing tips en tricks
