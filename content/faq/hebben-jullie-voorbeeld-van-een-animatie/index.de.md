@@ -1,12 +1,12 @@
 ---
-title: "Hebben jullie voorbeeld van een animatie? "
+title: Haben Sie ein Beispiel für eine Animation?
+slug: Haben Sie ein Beispiel für eine Animation
 draft: false
-slug: "hebben-jullie-voorbeeld-van-een-animatie"
 faq:
-  question: "Hebben jullie voorbeeld van een animatie? "
-  answer: Op onze [portfoliopagina](https://www.philenflo.nl/portfolio/) kan je
-    onze meest recente producties bekijken. Dit zijn 2D en 3D animaties, maar
-    ook films en combinaties van film en animatie.
+  question: Haben Sie ein Beispiel für eine Animation?
+  answer: Auf unserer [Portfolio-Seite](https://www.philundflo.de/portfolio/)
+    können Sie sich unsere neuesten Produktionen ansehen. Das sind 2D- und
+    3D-Animationen, aber auch Filme und Kombinationen aus Film und Animation.
 seo:
   noindex: true
 ---
