@@ -8,7 +8,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## ***Stage MBO/HBO fulltime animator***"
+    content: "## ***MBO/HBO Stage Fulltime Animator***"
   - type: content_block
     video:
       autoplay: true
