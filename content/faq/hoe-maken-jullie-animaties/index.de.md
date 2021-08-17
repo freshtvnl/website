@@ -1,11 +1,11 @@
 ---
-title: Hoe maken jullie animaties?
-slug: hoe-maken-jullie-animaties
+title: Wie machen Sie Animationen?
+slug: Wie machen Sie Animationen
 draft: false
 faq:
-  question: Hoe maken jullie animaties?
-  answer: Onze animaties worden gemaakt door onze afgestudeerde animatoren op
-    high-end computers. We gebruiken goede software van onder andere ADOBE.
+  question: Wie machen Sie Animationen?
+  answer: Unsere Animationen werden von unseren Diplom-Animatoren auf
+    High-End-Computern erstellt. Wir verwenden gute Software u.a. von ADOBE.
 seo:
   noindex: true
 ---
