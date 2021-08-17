@@ -22,7 +22,7 @@ blocks:
       verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D
       animaties, Virtual Reality en interactieve video’s. Samen met jou vormen
       wij het beste en leukste team, voor een snelle transitie naar een mooie
-      toekomst. ***Wij zijn Phil & Flo, Wij verbeelden de wereld van morgen***."
+      toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***."
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
