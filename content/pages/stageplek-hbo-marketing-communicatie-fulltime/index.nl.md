@@ -95,7 +95,9 @@ blocks:
       * Enthousiasme
       * Inzet en leergierigheid
       * Een eerlijke en open houding
-    displaymedia: custom_video
+    displaymedia: youtube_video
+    youtube:
+      id: 5rC6bhiecfM
   - type: content_block
     video:
       autoplay: true
