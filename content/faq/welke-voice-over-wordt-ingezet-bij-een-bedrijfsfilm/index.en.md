@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een bedrijfsfilm? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm"
+slug: welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
 draft: false
 faq:
   question: "Welke voice over wordt ingezet bij een bedrijfsfilm? "

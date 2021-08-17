@@ -1,13 +1,13 @@
 ---
-title: "Welke voice over wordt ingezet bij een bedrijfsfilm? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm"
+title: Welcher Sprecher soll für einen Imagefilm verwendet werden?
+slug: Welcher Sprecher soll für einen Imagefilm verwendet werden
 draft: false
 faq:
-  question: "Welke voice over wordt ingezet bij een bedrijfsfilm? "
-  answer: Welke voice-over wil jij dat er ingezet wordt? Dat is de vraag. Tijdens
-    het filmtraject bespreken we met jullie de mogelijkheden en aandachtspunten
-    voor een goede voice-overstem. Vervolgens gaan we met jullie input op zoek
-    naar de perfecte stem!
+  question: Welcher Sprecher soll für einen Imagefilm verwendet werden?
+  answer: Welchen Sprecher wollen Sie verwenden? Das ist die Frage. Während der
+    Verfilmung besprechen wir mit Ihnen die Möglichkeiten und Schwerpunkte für
+    ein gutes Voice-over. Dann suchen wir mit Ihrem Input nach der perfekten
+    Stimme!
 seo:
   noindex: true
 ---
