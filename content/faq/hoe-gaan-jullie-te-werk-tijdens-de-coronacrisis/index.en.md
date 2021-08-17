@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk tijdens de coronacrisis? "
-slug: "hoe-gaan-jullie-te-werk-tijdens-de-coronacrisis"
+slug: hoe-gaan-jullie-te-werk-tijdens-de-coronacrisis
 draft: false
 faq:
   question: "Hoe gaan jullie te werk tijdens de coronacrisis? "
