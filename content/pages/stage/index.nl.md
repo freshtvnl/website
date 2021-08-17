@@ -14,7 +14,7 @@ blocks:
 
       * [HBO **Marketing & Communicatie**](https://www.philenflo.nl/stageplek-hbo-marketing-communicatie/) (fulltime)
 
-      * MBO/HBO **Animator 2D/3D** (fulltime)
+      * [MBO/HBO **Animator 2D/3D**](https://www.philenflo.nl/stage-animator-2D-3D-groningen) (fulltime)
 
       * HBO/WO **International Business** (German/ fulltime)
 
