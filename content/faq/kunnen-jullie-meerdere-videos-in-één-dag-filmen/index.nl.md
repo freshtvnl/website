@@ -1,6 +1,6 @@
 ---
 title: "Kunnen jullie meerdere video's in één dag filmen? "
-slug: "kunnen-jullie-meerdere-video-s-in-een-dag-filmen"
+slug: kunnen-jullie-meerdere-video-s-in-een-dag-filmen
 draft: false
 faq:
   question: "Kunnen jullie meerdere video's in één dag filmen? "
