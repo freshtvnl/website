@@ -30,7 +30,7 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Wie ben jij
+      ## ***Wie ben jij***
 
 
       * Je bent een jonge tweede- of derdejaars, leergierige animator wat ook blijkt uit je portfolio;
@@ -53,7 +53,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
     align: left
     content: >-
-      ## Wat ga je doen
+      ## ***Wat ga je doen***
 
 
       Als stagiair animator helpen we je een passende leerzame stage-opdracht te vinden. Hiernaast help jij ons bij onze dagelijkse bedrijfsvoering. Aan het begin van je stageperiode zet je je animatie skills in ter ondersteuning voor onze animatie- en filmproducties. Je geeft vorm aan grafische elementen en animeert kleinere onderdelen. Dit doe je onder begeleiding van onze ervaren animatoren en creative producers. Naarmate je meer ervaring op doet en de fijnere kneepjes van het vak leert, werk je steeds meer zelfstandig en werk je nauw samen met onze projectmanagers om gave animaties te maken voor onze klanten. Naast onze producties ben je ook actief betrokken bij onze social media activiteiten. Zo brainstorm je mee over leuke social posts en maak je hiervoor gave animaties.
@@ -63,7 +63,7 @@ blocks:
       autoplay: true
     align: right
     content: |-
-      ## Wat wij vragen
+      ## ***Wat wij vragen***
 
       * Enthousiasme
       * Inzet en leergierigheid
@@ -76,7 +76,7 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ## Solliciteren
+      ## ***Solliciteren***
 
 
       Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
