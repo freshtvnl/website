@@ -1,15 +1,15 @@
 ---
-title: "Wat is de productietijd van een film? "
-slug: "wat-is-de-productietijd-van-een-film"
+title: Wie lang ist die Produktionszeit für einen Film?
+slug: Wie lang ist die Produktionszeit für einen Film
 draft: false
 faq:
-  answer: Afhankelijk van een goede voorbereiding en planning kan een film al in
-    twee of drie weken opgeleverd worden. Echter ligt de productietijd van een
-    film meestal tussen de één en twee maanden. Deze doorlooptijd bestaat
-    grotendeels uit het afstemmen van de benodigdheden met verschillende
-    betrokkenen. Denk hierbij aan het vinden van hoofdrolspelers, figuranten,
-    locatie(s) en het samenkomen van deze drie op één draaidag.
-  question: "Wat is de productietijd van een film? "
+  answer: Je nach guter Vorbereitung und Planung kann ein Film in zwei bis drei
+    Wochen fertiggestellt werden. Die Produktionszeit eines Films liegt jedoch
+    meist zwischen einem und zwei Monaten. Diese Vorlaufzeit besteht
+    größtenteils aus der Abstimmung der Anforderungen mit den verschiedenen
+    Beteiligten. Dazu gehört es, die Hauptdarsteller, Statisten und den/die
+    Drehort(e) zu finden und alle drei an einem Drehtag zusammenzubringen.
+  question: Wie lang ist die Produktionszeit für einen Film?
 seo:
   noindex: true
 ---

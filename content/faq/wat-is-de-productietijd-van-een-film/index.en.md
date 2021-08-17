@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een film? "
-slug: "wat-is-de-productietijd-van-een-film"
+slug: wat-is-de-productietijd-van-een-film
 draft: false
 faq:
   answer: Afhankelijk van een goede voorbereiding en planning kan een film al in
