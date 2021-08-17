@@ -5,7 +5,7 @@ weight: 2
 draft: false
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
-color: blue
+color: green
 blocks:
   - type: hero_block
     content: Als het gaat om doeltreffende marketing is het erg belangrijk om te
