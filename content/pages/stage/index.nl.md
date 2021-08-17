@@ -12,7 +12,7 @@ blocks:
       *Beschikbare stageplekken **vanaf 2021** in Groningen:*
 
 
-      * MBO/HBO **Marketing & Communicatie** (fulltime)
+      * [HBO **Marketing & Communicatie**](https://www.philenflo.nl/stageplek-hbo-marketing-communicatie/) (fulltime)
 
       * MBO/HBO **Animator 2D/3D** (fulltime)
 
