@@ -27,6 +27,8 @@ blocks:
     youtube:
       image:
         source: images/inge-bank.jpg
+    image:
+      source: images/inge-bank.jpg
 seo:
   title: "Videomarketing uitbesteden bij Phil & Flo | Wij verbeelden de wereld van
     morgen "
