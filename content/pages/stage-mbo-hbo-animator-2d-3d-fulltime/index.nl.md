@@ -78,7 +78,7 @@ blocks:
       ## Solliciteren
 
 
-      Ben jij enthousiast over bovenstaande stagefunctie? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+      Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
     displaymedia: youtube_video
     youtube:
       id: WrpEoC0Iox0
