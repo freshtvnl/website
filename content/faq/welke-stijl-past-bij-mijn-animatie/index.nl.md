@@ -1,6 +1,6 @@
 ---
 title: "Welke stijl past bij mijn animatie? "
-slug: "welke-stijl-past-bij-mijn-animatie"
+slug: welke-stijl-past-bij-mijn-animatie
 draft: false
 faq:
   question: "Welke stijl past bij mijn animatie? "

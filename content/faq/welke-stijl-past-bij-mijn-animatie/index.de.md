@@ -1,12 +1,13 @@
 ---
-title: "Welke stijl past bij mijn animatie? "
-slug: "welke-stijl-past-bij-mijn-animatie"
+title: Welcher Stil passt zu meiner Animation?
+slug: Welcher Stil passt zu meiner Animation
 draft: false
 faq:
-  question: "Welke stijl past bij mijn animatie? "
-  answer: "Zoveel mensen, zoveel wensen. Vanuit onze ervaring weten we vaak welke
-    stijl goed kan werken voor jouw animatie. We kiezen samen met jou een stijl
-    die zowel bij het merk of bedrijf als bij de beoogde doelgroep past. "
+  question: Welcher Stil passt zu meiner Animation?
+  answer: So viele Menschen, so viele Wünsche. Aus unserer Erfahrung wissen wir
+    oft, welcher Stil für Ihre Animation gut funktionieren kann. Gemeinsam mit
+    Ihnen wählen wir einen Stil aus, der sowohl zur Marke oder zum Unternehmen
+    als auch zum Zielpublikum passt.
 seo:
   noindex: true
 ---
