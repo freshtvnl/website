@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een bedrijfsfilm? "
-slug: "hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm"
+slug: hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
 draft: false
 faq:
   answer: >-
