@@ -1,6 +1,6 @@
 ---
 title: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
-slug: "hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject"
+slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
 draft: false
 faq:
   question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
