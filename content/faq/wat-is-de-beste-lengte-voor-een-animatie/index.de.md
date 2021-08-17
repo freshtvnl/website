@@ -1,13 +1,13 @@
 ---
-title: Wat is de beste lengte voor een animatie?
-slug: wat-is-de-beste-lengte-voor-een-animatie
+title: Was ist die beste Länge für eine Animation?
+slug: Was ist die beste Länge für eine Animation
 draft: false
 faq:
-  answer: Wij hebben op basis van jarenlange metingen en analyses de lengte op
-    maximaal 59 seconden gezet voor op de website nieuwe klanten, 15 seconden
-    voor de commercial versies en maximaal 90 seconden voor animaties voor
-    bestaande klanten van je.
-  question: Wat is de beste lengte voor een animatie?
+  answer: Basierend auf jahrelangen Messungen und Analysen haben wir die Länge auf
+    maximal 59 Sekunden für Neukunden, 15 Sekunden für kommerzielle Versionen
+    und bis zu 90 Sekunden für Animationen für bestehende Kunden von Ihnen
+    festgelegt.
+  question: Was ist die beste Länge für eine Animation?
 seo:
   noindex: true
 ---
