@@ -5,22 +5,23 @@ draft: false
 color: yellow
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
-    title: "***Wie zijn Phil & Flo***"
-    content: "Stel je eens de wereld van morgen voor… Vol schone lucht en schoon
-      water. Waar alle kinderen naar school kunnen en waar elk mens toegang
-      heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in
-      voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve
-      Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food.
-      Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die
-      nu nodig zijn. Met onze creativiteit en het meest krachtige
-      communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het
-      verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D
-      animaties, Virtual Reality en interactieve video’s. Samen met jou vormen
-      wij het beste en leukste team, voor een snelle transitie naar een mooie
-      toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***."
+    title: "***Stage MBO/HBO fulltime animator***"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: ""
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Wie zijn ***Phil & Flo***
+
+
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
