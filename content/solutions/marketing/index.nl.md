@@ -16,6 +16,8 @@ blocks:
       betekenen. Storytelling is de belangrijkste steunpilaar van goede
       videomarketing.
     displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
   - type: content_block
     align: left
     content: >-
