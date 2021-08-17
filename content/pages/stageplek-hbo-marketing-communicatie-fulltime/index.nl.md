@@ -64,4 +64,18 @@ blocks:
 
       Als stagiair marketing & communicatie ga je voor ons een onderzoek uitvoeren in lijn met je opleiding en stage-eisen. Naast je onderzoeksopdracht help je ons bij onze dagelijkse bedrijfsvoering. Je draagt verantwoordelijkheid voor onze socials, schrijft pakkende teksten voor de website en ondersteund het team met je schrijfvaardigheid en verfrissende inzichten. Je wordt nauw betrokken bij onze marketing en communicatie overleggen en denkt tijdens deze meetings mee over kansen, en optimalisaties.
     displaymedia: image
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: |-
+      ## Wat wij bieden
+
+      * Een jong en gezellig team vol professionals die jou helpen groeien;
+      * Een mooi gelegen kantoor in de binnenstad van Groningen;
+      * De mogelijkheid om onder begeleiding veel ervaring op te doen;
+      * Veel ruimte voor initiatieven;
+      * Een passende stagevergoeding;
+      * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
+      * Lekkere lunch van de zaak op maandagen.
 ---
