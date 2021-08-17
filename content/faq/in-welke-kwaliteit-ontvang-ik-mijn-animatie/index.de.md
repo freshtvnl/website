@@ -1,13 +1,13 @@
 ---
-title: "In welke kwaliteit ontvang ik mijn animatie? "
-slug: "in-welke-kwaliteit-ontvang-ik-mijn-animatie"
+title: In welcher Qualität werde ich meine Animation erhalten?
+slug: In welcher Qualität werde ich meine Animation erhalten
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik mijn animatie? "
-  answer: We leveren onze animaties standaard in 4K beeldkwaliteit. Dit is de
-    hoogste kwaliteit volgens huidige normen. Uiteraard kunnen we de
-    exportkwaliteit afstemmen met wat voor jouw doelgroep of afspeelapparaat het
-    beste werkt.
+  question: In welcher Qualität werde ich meine Animation erhalten?
+  answer: Wir liefern unsere Animationen standardmäßig in 4K-Bildqualität. Dies
+    ist die höchste Qualität nach den aktuellen Normen. Natürlich können wir die
+    Exportqualität so anpassen, wie es für Ihre Zielgruppe oder Ihr
+    Wiedergabegerät am besten ist.
 seo:
   noindex: true
 ---

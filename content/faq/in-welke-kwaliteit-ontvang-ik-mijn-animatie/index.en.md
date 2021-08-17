@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik mijn animatie? "
-slug: "in-welke-kwaliteit-ontvang-ik-mijn-animatie"
+slug: in-welke-kwaliteit-ontvang-ik-mijn-animatie
 draft: false
 faq:
   question: "In welke kwaliteit ontvang ik mijn animatie? "
