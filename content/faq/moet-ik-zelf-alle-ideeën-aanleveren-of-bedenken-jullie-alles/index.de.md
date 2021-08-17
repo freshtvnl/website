@@ -1,13 +1,14 @@
 ---
-title: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
-slug: "moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles"
+title: Muss ich meine eigenen Ideen einbringen oder denken Sie an alles?
+slug: Muss ich meine eigenen Ideen einbringen oder denken Sie an alles
 draft: false
 id: roOkjrjt7
 faq:
-  question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
-  answer: Wij kunnen alles, uiteraard op basis van de input van onze
-    opdrachtgever. Als opdrachtgever kan je ten alle tijden beroep doen op onze
-    creatieve inbreng.
+  question: Muss ich meine eigenen Ideen einbringen oder denken Sie an alles?
+  answer: Am besten ist es, wenn Sie uns viel über Ihre Organisation erzählen.
+    Anhand dieser Informationen können wir abschätzen, welche Zielgruppe Sie mit
+    dieser Animation ansprechen wollen. Auf dieser Grundlage werden wir dann das
+    Drehbuch und das Storyboard erstellen.
 seo:
   noindex: true
 ---
