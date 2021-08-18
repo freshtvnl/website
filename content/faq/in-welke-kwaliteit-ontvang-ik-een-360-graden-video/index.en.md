@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik een 360 graden video? "
-slug: "in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
+slug: in-welke-kwaliteit-ontvang-ik-een-360-graden-video
 draft: false
 faq:
   question: "In welke kwaliteit ontvang ik een 360 graden video? "

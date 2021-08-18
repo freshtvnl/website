@@ -1,11 +1,11 @@
 ---
-title: "In welke kwaliteit ontvang ik een 360 graden video? "
-slug: "in-welke-kwaliteit-ontvang-ik-een-360-graden-video"
+title: In welcher Qualität erhalte ich ein 360-Grad-Video?
+slug: In welcher Qualität erhalte ich ein 360-Grad-Video
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik een 360 graden video? "
-  answer: Onze 360 graden video's worden gefilmd in de hoogst mogelijke kwaliteit.
-    Veelal is dit in 4K
+  question: In welcher Qualität erhalte ich ein 360-Grad-Video?
+  answer: Unsere 360-Grad-Videos werden in der höchstmöglichen Qualität gefilmt.
+    Dies geschieht in der Regel in 4K.
 seo:
   noindex: true
 ---
