@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een employer branding video? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-employer-branding-video"
+slug: welke-voice-over-wordt-ingezet-bij-een-employer-branding-video
 draft: false
 faq:
   question: "Welke voice over wordt ingezet bij een employer branding video? "

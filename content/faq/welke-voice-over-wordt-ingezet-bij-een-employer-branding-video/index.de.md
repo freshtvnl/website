@@ -1,14 +1,14 @@
 ---
-title: "Welke voice over wordt ingezet bij een employer branding video? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-employer-branding-video"
+title: Welches Voice-Over soll für ein Employer-Branding-Video verwendet werden?
+slug: Welches Voice-Over soll für ein Employer-Branding-Video verwendet werden
 draft: false
 faq:
-  question: "Welke voice over wordt ingezet bij een employer branding video? "
-  answer: Het inzetten van een voice over acteur/actrice is meer dan een script
-    opsturen en de factuur betalen. Afhankelijk van jouw kijkers en branche is
-    bijvoorbeeld een rustige vrouw met een lage stem effectiever dan een man met
-    een hogere stem. Hierom geven wij een advies over welke voice over de juiste
-    is voor jouw film!
+  question: Welches Voice-Over soll für ein Employer-Branding-Video verwendet werden?
+  answer: Der Einsatz eines Synchronsprechers ist mehr als nur das Senden eines
+    Skripts und das Bezahlen der Rechnung. Abhängig von Ihren Zuschauern und
+    Ihrer Branche ist eine ruhige Frau mit tiefer Stimme effektiver als ein Mann
+    mit hoher Stimme. Deshalb beraten wir Sie, welcher Sprecher der richtige für
+    Ihren Film ist!
 seo:
   noindex: true
 ---
