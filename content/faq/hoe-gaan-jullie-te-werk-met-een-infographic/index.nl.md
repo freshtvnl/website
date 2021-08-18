@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een infographic? "
-slug: "hoe-gaan-jullie-te-werk-met-een-infographic"
+slug: hoe-gaan-jullie-te-werk-met-een-infographic
 draft: false
 faq:
   question: "Hoe gaan jullie te werk met een infographic? "
