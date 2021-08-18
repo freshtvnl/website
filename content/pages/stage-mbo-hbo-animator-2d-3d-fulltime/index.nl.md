@@ -57,26 +57,49 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+    youtube:
+      id: WrpEoC0Iox0
+    displaymedia: image
     align: right
     content: |-
-      ## ***Wat wij vragen***
+      ## ***Wat wij bieden***
 
-      * Enthousiasme
-      * Inzet en leergierigheid
-      * Een eerlijke en open houding
-    displaymedia: image
+      * Een jong en gezellig team vol professionals die jou helpen groeien;
+      * Een mooi gelegen kantoor in de binnenstad van Groningen;
+      * De mogelijkheid om onder begeleiding veel ervaring op te doen;
+      * Veel ruimte voor initiatieven;
+      * Een passende stagevergoeding;
+      * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
+      * Lekkere lunch van de zaak op maandagen.
     image:
       source: images/feestje-phil-en-flo.jpg
   - type: content_block
     video:
       autoplay: true
     align: left
+    content: |-
+      ## ***Wat wij vragen***
+
+      * Enthousiasme
+      * Inzet en leergierigheid
+      * Een eerlijke en open houding
+    displaymedia: youtube_video
+    image:
+      source: ""
+    youtube:
+      id: WrpEoC0Iox0
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
     content: >-
       ## ***Solliciteren***
 
 
       Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
-    displaymedia: youtube_video
+    displaymedia: image
     youtube:
-      id: WrpEoC0Iox0
+      id: ""
+    image:
+      source: images/210505-philenflo-schermachtergrond.jpg
 ---
