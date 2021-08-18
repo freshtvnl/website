@@ -1,7 +1,7 @@
 ---
 title: Stageplek MBO / HBO Vormgeving & Marketing (fulltime)
 slug: Stageplek mbo en hbo vormgeving en marketing Groningen
-draft: true
+draft: false
 color: yellow
 blocks:
   - type: content_block
@@ -72,6 +72,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
     content: |-
       ## ***Wat wij verder vragen***
 
@@ -79,4 +80,17 @@ blocks:
       * Inzet en leergierigheid
       * Een eerlijke en open houding
     align: left
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Solliciteren***
+
+
+      Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+    displaymedia: image
+    image:
+      source: images/210505-philenflo-schermachtergrond.jpg
 ---
