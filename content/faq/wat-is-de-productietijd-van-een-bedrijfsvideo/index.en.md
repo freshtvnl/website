@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een bedrijfsvideo? "
-slug: "wat-is-de-productietijd-van-een-bedrijfsvideo"
+slug: wat-is-de-productietijd-van-een-bedrijfsvideo
 draft: false
 faq:
   question: "Wat is de productietijd van een bedrijfsvideo? "

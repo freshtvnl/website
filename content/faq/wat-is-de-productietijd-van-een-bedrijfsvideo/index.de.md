@@ -1,13 +1,13 @@
 ---
-title: "Wat is de productietijd van een bedrijfsvideo? "
-slug: "wat-is-de-productietijd-van-een-bedrijfsvideo"
+title: Wie lang ist die Produktionszeit eines Unternehmensfilms?
+slug: Wie lang ist die Produktionszeit eines Unternehmensfilms
 draft: false
 faq:
-  question: "Wat is de productietijd van een bedrijfsvideo? "
-  answer: De gemiddelde productietijd van een bedrijfsvideo is een maand.
-    Afhankelijk van de opdracht, kan dit sneller of langer duren. We denken
-    altijd mee in oplossingen, zodat onze producties zo goed als mogelijk
-    aansluiten op jouw planning.
+  question: Wie lang ist die Produktionszeit eines Unternehmensfilms?
+  answer: Die durchschnittliche Produktionszeit für einen Imagefilm beträgt einen
+    Monat. Je nach Auftrag kann es früher oder länger dauern. Wir arbeiten immer
+    mit Ihnen zusammen, um Lösungen zu finden, damit unsere Produktionen so gut
+    wie möglich in Ihren Zeitplan passen.
 seo:
   noindex: true
 ---
