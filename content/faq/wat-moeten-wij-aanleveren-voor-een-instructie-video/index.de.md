@@ -1,13 +1,14 @@
 ---
-title: "Wat moeten wij aanleveren voor een instructie video? "
-slug: "wat-moeten-wij-aanleveren-voor-een-instructie-video"
+title: Was müssen wir für ein Anleitungsvideo zur Verfügung stellen?
+slug: Was müssen wir für ein Anleitungsvideo zur Verfügung stellen
 draft: false
 faq:
-  question: "Wat moeten wij aanleveren voor een instructie video? "
-  answer: Uiteraard begint elk project met een goed afgestemd plan. Hoe meer
-    ideeën en wensen wij ontvangen, hoe meer informatie wij hebben om gepast
-    advies te geven. We vragen jou om jullie instructie script te sturen. Wij
-    helpen vervolgens om het script te optimaliseren. In sommige gevallen werken
-    we met schermopnames, en kunnen jullie deze zelf aanleveren. Hierin kunnen
-    we uiteraard ondersteuning bieden, of dit geheel uit handen nemen.
+  question: Was müssen wir für ein Anleitungsvideo zur Verfügung stellen?
+  answer: Natürlich beginnt jedes Projekt mit einem gut abgestimmten Plan. Je mehr
+    Ideen und Wünsche bei uns eingehen, desto mehr Informationen haben wir, um
+    entsprechend beraten zu können. Wir bitten Sie, uns Ihr Anleitungsskript
+    zuzusenden. Wir helfen dann bei der Optimierung des Skripts. In einigen
+    Fällen arbeiten wir mit Bildschirmfotos, die Sie selbst zur Verfügung
+    stellen können. Natürlich können wir Sie dabei unterstützen oder Ihnen die
+    Arbeit komplett abnehmen.
 ---
