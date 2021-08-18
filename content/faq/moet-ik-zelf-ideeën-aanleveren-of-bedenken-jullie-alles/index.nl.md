@@ -1,6 +1,6 @@
 ---
-title: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
-slug: "moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles"
+title: Moet ik zelf ideeën aanleveren of bedenken jullie alles? (infographic)
+slug: moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles-infographic
 draft: false
 faq:
   question: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "

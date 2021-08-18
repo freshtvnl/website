@@ -1,12 +1,15 @@
 ---
-title: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
-slug: "moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles"
+title: Muss ich meine eigenen Ideen einbringen oder denken Sie sich alles aus?
+  (infografik)
+slug: Muss ich meine eigenen Ideen einbringen oder denken Sie sich alles aus
+  infografik
 draft: false
 faq:
-  question: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
-  answer: Het beste is als je ons uitgebreid vertelt over je organisatie, op basis
-    van deze informatie kunnen we inschatten welke doelgroep je wilt aanspreken
-    met deze animatie. En daarop baseren we het script en eventuele storyboard.
+  question: Muss ich meine eigenen Ideen einbringen oder denken Sie sich alles aus?
+  answer: Unser Team hat die nötige Erfahrung und kann Ihre Ideen und Anregungen
+    in eine aussagekräftige Infografik umsetzen. Je mehr Informationen und
+    Hinweise Sie uns geben, desto besser können wir auf Ihre Bedürfnisse
+    eingehen!
 seo:
   noindex: true
 ---

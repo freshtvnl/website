@@ -1,6 +1,6 @@
 ---
 title: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
-slug: "moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles"
+slug: moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles
 draft: false
 faq:
   question: "Moet ik zelf ideeën aanleveren of bedenken jullie alles? "
