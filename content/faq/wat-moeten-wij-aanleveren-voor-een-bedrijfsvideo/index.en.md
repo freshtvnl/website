@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een bedrijfsvideo? "
-slug: "wat-moeten-wij-aanleveren-voor-een-bedrijfsvideo"
+slug: wat-moeten-wij-aanleveren-voor-een-bedrijfsvideo
 draft: false
 faq:
   question: "Wat moeten wij aanleveren voor een bedrijfsvideo? "
