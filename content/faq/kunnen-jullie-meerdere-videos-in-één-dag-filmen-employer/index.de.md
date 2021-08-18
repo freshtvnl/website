@@ -1,12 +1,12 @@
 ---
-title: Kunnen jullie meerdere video's in één dag filmen? (employer)
-slug: kunnen-jullie-meerdere-video-s-in-een-dag-filmen-employer
+title: Können Sie mehrere Videos an einem Tag drehen? (employer)
+slug: Können Sie mehrere Videos an einem Tag drehen employer
 draft: false
 faq:
-  question: "Kunnen jullie meerdere video's in één dag filmen? "
-  answer: "Uit een draaidag komt voor gemiddeld twee unieke montages
-    beeldmateriaal. Uiteraard kunnen voor bijvoorbeeld meerdere vacatures op één
-    dag interviews afnemen! "
+  question: Können Sie mehrere Videos an einem Tag drehen?
+  answer: Aus einem Drehtag entstehen durchschnittlich zwei einzigartige
+    Filmmontagen. Natürlich können wir Vorstellungsgespräche für mehrere Jobs an
+    einem Tag führen!
 seo:
   noindex: true
 ---
