@@ -1,10 +1,11 @@
 ---
-title: "Wat is de productietijd van een instructie video? "
-slug: "wat-is-de-productietijd-van-een-instructie-video"
+title: Wie lange ist die Produktionszeit für ein Lehrvideo?
+slug: Wie lange ist die Produktionszeit für ein Lehrvideo
 draft: false
 faq:
-  question: "Wat is de productietijd van een instructie video? "
-  answer: De gemiddelde productietijd van een instructievideo is 1 maand.
+  question: Wie lange ist die Produktionszeit für ein Lehrvideo?
+  answer: Die durchschnittliche Produktionszeit für ein Anleitungsvideo beträgt 1
+    Monat.
 seo:
   noindex: true
 ---
