@@ -1,11 +1,11 @@
 ---
-title: "Kan ik vrijblijvend sparren voor een infographic?"
-slug: "kan-ik-vrijblijvend-sparren-voor-een-infographic"
+title: Darf ich mit Ihnen für eine Infografik streiten?
+slug: Darf ich mit Ihnen für eine Infografik streiten
 draft: false
 faq:
-  question: "Kan ik vrijblijvend sparren voor een infographic? "
-  answer: Jazeker! Onze consultants denken graag met je mee om te kijken hoe een
-    infographic jou kan helpen.
+  question: Darf ich mit Ihnen für eine Infografik streiten?
+  answer: Ja, Sie können! Unsere Berater denken gerne mit Ihnen mit, um zu sehen,
+    wie eine Infografik Ihnen helfen kann.
 seo:
   noindex: true
 ---

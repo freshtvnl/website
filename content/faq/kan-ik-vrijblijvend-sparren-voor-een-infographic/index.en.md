@@ -1,6 +1,6 @@
 ---
-title: "Kan ik vrijblijvend sparren voor een infographic?"
-slug: "kan-ik-vrijblijvend-sparren-voor-een-infographic"
+title: Kan ik vrijblijvend sparren voor een infographic?
+slug: kan-ik-vrijblijvend-sparren-voor-een-infographic
 draft: false
 faq:
   question: "Kan ik vrijblijvend sparren voor een infographic? "
