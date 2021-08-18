@@ -1,16 +1,16 @@
 ---
-title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (360 graden)
-slug: moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-360-graden
+title: Muss ich alle Ideen selbst beisteuern oder fällt Ihnen alles ein? (360 grad)
+slug: Muss ich alle Ideen selbst beisteuern oder fällt Ihnen alles ein 360 grad
 draft: false
 faq:
-  question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
-  answer: Het ene project is de andere niet. De meeste films die wij maken zijn
-    een bundeling van creatieve ideeën van beide partijen. Natuurlijk kunnen wij
-    vanuit onze marketing- en filmervaring ook de creatieve invulling geheel
-    zelf verzorgen. Aan het begin van het traject vragen we je om al je ideeën
-    met ons te delen, zodat we deze tijdens de creatieve sessie kunnen
-    doorspreken. Heb je geen ideeën? Dan denkt ons team met creatievelingen
-    graag met je mee!
+  question: Muss ich alle Ideen selbst beisteuern oder fällt Ihnen alles ein?
+  answer: Ein Projekt ist nicht wie das andere. Die meisten Filme, die wir machen,
+    sind ein Bündel kreativer Ideen von beiden Parteien. Natürlich können wir
+    aufgrund unserer Marketing- und Filmerfahrung auch selbst für den kreativen
+    Input sorgen. Zu Beginn des Projekts bitten wir Sie, uns alle Ihre Ideen
+    mitzuteilen, damit wir diese während der Kreativsitzung besprechen können.
+    Sie haben keine Ideen? Dann denkt unser Team von Kreativen gerne mit Ihnen
+    mit!
 seo:
   noindex: true
 ---
