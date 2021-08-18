@@ -1,6 +1,6 @@
 ---
 title: "Wat moet ik aanleveren voor een 360 graden video? "
-slug: "wat-moet-ik-aanleveren-voor-een-360-graden-video"
+slug: wat-moet-ik-aanleveren-voor-een-360-graden-video
 draft: false
 faq:
   question: "Wat moet ik aanleveren voor een 360 graden video? "

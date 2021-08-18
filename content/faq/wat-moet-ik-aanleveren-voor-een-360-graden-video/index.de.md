@@ -1,11 +1,11 @@
 ---
-title: "Wat moet ik aanleveren voor een 360 graden video? "
-slug: "wat-moet-ik-aanleveren-voor-een-360-graden-video"
+title: Was muss ich für ein 360-Grad-Video bereitstellen?
+slug: Was muss ich für ein 360-Grad-Video bereitstellen
 draft: false
 faq:
-  question: "Wat moet ik aanleveren voor een 360 graden video? "
-  answer: Alles begint met een goed idee of een wens! Wij begeleiden je dan om dit
-    om te zetten naar een concreet plan en doelkrachtige film.
+  question: Was muss ich für ein 360-Grad-Video bereitstellen?
+  answer: Alles beginnt mit einer guten Idee oder einem Wunsch! Wir leiten Sie
+    dann an, dies in einen konkreten Plan und einen effektiven Film umzusetzen.
 seo:
   noindex: true
 ---
