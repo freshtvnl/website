@@ -1,10 +1,10 @@
 ---
-title: Met hoeveel mensen komen jullie filmen? (employer)
-slug: met-hoeveel-mensen-komen-jullie-filmen-employer
+title: Mit wie vielen Personen filmen Sie? (employer)
+slug: Mit wie vielen Personen filmen Sie employer
 draft: false
 faq:
-  question: Met hoeveel mensen komen jullie filmen?
-  answer: Gemiddeld twee à drie crewleden komen langs om te filmen.
+  question: Mit wie vielen Personen filmen Sie?
+  answer: Im Durchschnitt kommen zwei bis drei Crew-Mitglieder zum Filmen.
 seo:
   noindex: true
 ---
