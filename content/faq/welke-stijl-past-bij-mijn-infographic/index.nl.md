@@ -1,6 +1,6 @@
 ---
 title: "Welke stijl past bij mijn infographic? "
-slug: "welke-stijl-past-bij-mijn-infographic"
+slug: welke-stijl-past-bij-mijn-infographic
 draft: false
 faq:
   question: "Welke stijl past bij mijn infographic? "
