@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik mijn infographic? "
-slug: "in-welke-kwaliteit-ontvang-ik-mijn-infographic"
+slug: in-welke-kwaliteit-ontvang-ik-mijn-infographic
 draft: false
 faq:
   question: "In welke kwaliteit ontvang ik mijn infographic? "
