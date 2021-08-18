@@ -94,11 +94,14 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Inspiratiefilm%20laten%20maken%20NOM%20-%20Phil%20en%20Flo.mp4
-    align: right
+    align: center
     content: >-
       ## ***Solliciteren***
 
 
       Ben jij enthousiast over bovenstaande stagefunctie? [Solliciteer dan snel](https://www.philenflo.nl/stage/) door je CV en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
-    displaymedia: custom_video
+
+
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+    displaymedia: null
 ---
