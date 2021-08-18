@@ -1,12 +1,13 @@
 ---
-title: Welke muziek gebruiken jullie? (employer)
-slug: welke-muziek-gebruiken-jullie-employer
+title: Welche Musik verwenden Sie? (employer)
+slug: Welche Musik verwenden Sie employer
 draft: false
 faq:
-  question: "Welke muziek gebruiken jullie? "
-  answer: Onze camera-expert schat per productie in welke camera, lens en
-    dergelijke het beste resultaat geven. Films worden altijd in 4K UHD
-    opgeleverd.
+  question: Welche Musik verwenden Sie?
+  answer: Für jede neue Zusammenarbeit sucht unser Team nach der richtigen Musik
+    für Ihren Film. Möchten Sie einen einzigartigen, komponierten Soundtrack für
+    Ihr Unternehmen haben? Sprechen Sie uns an und wir besprechen die
+    Möglichkeiten!
 seo:
   noindex: true
 ---
