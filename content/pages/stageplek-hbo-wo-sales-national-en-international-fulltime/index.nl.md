@@ -33,7 +33,7 @@ blocks:
 
       * Je wilt graag aan de slag in een jong team van professionals;
 
-      * Je volgt een bij de stage passende hbo-opleiding, en hebt al ervaring als verkoper;
+      * Je volgt een bij de stage passende hbo of wo opleiding, en hebt al ervaring als verkoper;
 
       * Je bent een jonge, leergierige verkoper met affiniteit voor film, animatie en design;
 
