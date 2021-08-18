@@ -12,13 +12,15 @@ blocks:
       *Beschikbare stageplekken **vanaf 2021** in Groningen:*
 
 
-      * [HBO **Marketing & Communicatie**](https://www.philenflo.nl/stageplek-hbo-marketing-communicatie/) (fulltime)
+      * MBO/HBO Vormgeving & Marketing (fulltime)
 
       * [MBO/HBO **Animator 2D/3D**](https://www.philenflo.nl/stage-animator-2D-3D-groningen) (fulltime)
 
-      * HBO/WO **International Business** (German/ fulltime)
+      * [HBO **Marketing & Communicatie**](https://www.philenflo.nl/stageplek-hbo-marketing-communicatie/) (fulltime)
 
-      * MBO/HBO/WO **Sales** (National en International) (fulltime)
+      * HBO/WO **International Business** (fulltime)
+
+      * [HBO/WO **Sales**](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (National en International) (fulltime)
 
 
       Wij zijn op zoek naar gemotiveerde stagiaires die veel willen leren op het gebied van video, animatie en marketing.
