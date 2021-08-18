@@ -1,7 +1,7 @@
 ---
 title: Stageplek HBO / WO International Business (fulltime)
 slug: Stageplek HBO en WO International Business Groningen
-draft: true
+draft: false
 blocks:
   - type: content_block
     video:
