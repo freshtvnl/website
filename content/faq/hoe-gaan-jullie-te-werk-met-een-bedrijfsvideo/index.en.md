@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een bedrijfsvideo? "
-slug: "hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo"
+slug: hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo
 draft: false
 faq:
   question: "Hoe gaan jullie te werk met een bedrijfsvideo? "

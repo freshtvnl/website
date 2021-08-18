@@ -1,29 +1,26 @@
 ---
-title: "Hoe gaan jullie te werk met een bedrijfsvideo? "
-slug: "hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo"
+title: Wie gehen Sie bei der Produktion eines Unternehmensvideos vor?
+slug: Wie gehen Sie bei der Produktion eines Unternehmensvideos vor
 draft: false
 faq:
-  question: "Hoe gaan jullie te werk met een bedrijfsvideo? "
+  question: Wie gehen Sie bei der Produktion eines Unternehmensvideos vor?
   answer: >-
-    Een goede bedrijfsfilm is een samenspel tussen ons en jullie. Zodra de
-    technische kaders van de film definitief gemaakt zijn in een definitieve
-    offerte, gaan we aan de slag. Onze consultants denken hierbij actief met je
-    mee om te zorgen dat deze aansluit bij jouw wensen en mogelijkheden.
+    Ein guter Imagefilm ist eine Zusammenarbeit zwischen uns und Ihnen. Sobald
+    der technische Rahmen des Films in einem endgültigen Angebot festgelegt ist,
+    machen wir uns an die Arbeit. Unsere Berater denken aktiv mit Ihnen mit, um
+    sicherzustellen, dass es zu Ihren Wünschen und Möglichkeiten passt.
 
 
-    Als we vervolgens voor jullie aan de slag mogen, wijzen we een projectmanager (en tevens regisseur) aan jullie project toe. De projectmanager is je aanspreekpunt en staat klaar om je te helpen met al je vragen en uitdagingen. De projectmanager plant samen met jou een creatieve sessie in, waarin alle creatieve ideeën besproken en concreet gemaakt worden. Vervolgens zal de projectmanager een opzet maken voor het script of de interviewvragen. Hierop kunnen jullie feedback geven, zodat deze in afstemming definitief gemaakt kunnen worden. Indien er gekozen is voor een voice-over, gaan wij op zoek naar een geschikte stem en laten we jullie uit een kleine voorselectie een keuze maken. Als we de juiste stem gevonden hebben, zorgen wij dat deze stemacteur of actrice, het script zal inspreken.
+    Wenn wir uns dann für Sie an die Arbeit machen können, weisen wir Ihrem Projekt einen Projektleiter (und auch Regisseur) zu. Der Projektleiter ist Ihr Ansprechpartner und steht Ihnen bei allen Fragen und Herausforderungen zur Seite. Der Projektleiter vereinbart mit Ihnen eine Kreativsitzung, in der alle kreativen Ideen besprochen und konkretisiert werden. Als Nächstes erstellt der Projektleiter eine Gliederung für das Skript oder die Interviewfragen. Sie können uns ein Feedback zu diesen geben, damit sie in Abstimmung mit Ihnen finalisiert werden können. Wenn Sie sich für ein Voice-Over entscheiden, suchen wir nach einer passenden Stimme und lassen Sie aus einer kleinen Vorauswahl wählen. Sobald wir die richtige Stimme gefunden haben, sorgen wir dafür, dass dieser Sprecher oder diese Sprecherin das Skript einspricht.
 
 
-    In afstemming met jullie, maakt de projectmanager een draaiboek waarin alle details staan voor de draaidag. Denk aan een planning, script en interviewvragen. Zodra het draaiboek definitief is, zijn we klaar voor de draaidag!
+    Während des Drehtages überwacht ein Regisseur den Drehprozess, um sicherzustellen, dass alles nach Plan verläuft. Am Filmset sind immer ein Regisseur, ein Kameramann und ein Assistent anwesend, aber bei größeren Aufträgen setzen wir auch Beleuchtungsspezialisten ein.
 
 
-    Tijdens de draaidag begeleidt een regisseur het filmproces, zodat alles volgens draaiboek verloopt. Een regisseur, cameraman en assistent zijn standaard aanwezig op de filmset, maar voor grotere klussen maken we ook gebruik van lichtspecialisten.
+    Am Ende des Drehtages beginnt unser Cutter nach einem ausführlichen Briefing mit der Arbeit am Filmschnitt. Oft ist der Redakteur bereits am Tag des Shootings anwesend, um einen nahtlosen Übergang zu gewährleisten. Dann liefern wir eine erste Version des Films, zu der Sie Feedback geben können. Wir besprechen dieses Feedback gemeinsam und verarbeiten es, um den Film fertigzustellen. Nach Ihrer Freigabe des Films erstellen wir die Teaser-Versionen, Untertitel, Filmplakate usw.
 
 
-    Na afloop van de draaidag gaat onze editor na een uitgebreide briefing aan de slag met de filmedit. Vaak is de editor al aanwezig op de draaidag om een naadloze aansluiting te garanderen. Vervolgens leveren we een eerste versie van de film op, waarop jullie feedback kunnen geven. Deze feedback bespreken we samen en verwerken we om de film definitief te maken. Na akkoord op de film worden eventuele teaserversies, ondertitelingen, filmposters, etc. gemaakt.
-
-
-    De film is nu klaar en kan ingezet worden! Hebben jullie vragen over de inzet, en hoe je dit het beste aanpakt? Dan denken we graag met je mee.
+    Die Folie ist nun fertig und kann verwendet werden! Haben Sie Fragen zur Verwendung des Films und wie Sie am besten vorgehen? Wir würden uns freuen, mit Ihnen mitzudenken.
 seo:
   noindex: true
 ---
