@@ -1,6 +1,6 @@
 ---
 title: "Wat is de beste lengte voor een infographic? "
-slug: wat-is-de-beste-lengte-voor-een-infographic"
+slug: wat-is-de-beste-lengte-voor-een-infographic
 draft: false
 faq:
   question: "Wat is de beste lengte voor een infographic? "
