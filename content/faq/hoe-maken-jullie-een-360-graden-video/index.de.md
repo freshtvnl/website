@@ -1,12 +1,12 @@
 ---
-title: "Hoe maken jullie een 360 graden video? "
-slug: hoe-maken-jullie-een-360-graden-video
+title: Wie macht man ein 360-Grad-Video?
+slug: Wie macht man ein 360-Grad-Video
 draft: false
 faq:
-  question: "Hoe maken jullie een 360 graden video? "
-  answer: Onze 360 graden films worden geschoten met speciaal daarvoor ontwikkelde
-    camera's. We hebben collega's met veel ervaring op 360 gebied, die je
-    begeleiden om de perfecte film te schieten!
+  question: Wie macht man ein 360-Grad-Video?
+  answer: Unsere 360-Grad-Videos werden mit speziell entwickelten Kameras
+    aufgenommen. Wir haben Kollegen mit umfangreicher Erfahrung im 360°-Bereich,
+    die Sie anleiten, den perfekten Film zu drehen!
 seo:
   noindex: true
 ---
