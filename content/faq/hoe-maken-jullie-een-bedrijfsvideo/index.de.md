@@ -1,41 +1,21 @@
 ---
-title: "Hoe maken jullie een bedrijfsvideo? "
-slug: "hoe-maken-jullie-een-bedrijfsvideo"
+title: Wie macht man einen Imagefilm?
+slug: Wie macht man einen Imagefilm
 draft: false
 faq:
-  question: "Hoe maken jullie een bedrijfsvideo? "
-  answer: "Een goede (bedrijfs)video bestaat uit vier belangrijke stappen. Elke
-    stap is essentieel om een goed en uniek product te maken dat zijn doel
-    dient.\r
+  question: Wie macht man einen Imagefilm?
+  answer: >-
+    Ein gutes (Unternehmens-)Video besteht aus vier wichtigen Schritten. Jeder
+    Schritt ist wichtig, um ein gutes und einzigartiges Produkt zu schaffen, das
+    seinen Zweck erfüllt.
 
-    1. Behoeften & technische invulling afkaderen\r
 
-    In deze eerste fase denken onze consultants met je mee om de juiste
-    beeldende vorm te bepalen en de technische kaders te definiëren.\r
-
-    \r
-
-    2. Samen creatief\r
-
-    Wij bedenken samen met jou een pakkend concept voor de video of
-    animatie. Dit doen we tijdens een creatieve sessie. Op basis van deze input
-    maken wij een opzet voor de interviewvragen of voice-over en de beelden die
-    we willen filmen. Jij en je collega's kunnen hier feedback op geven.\r
-
-    \r
-
-    3. Aan de slag\r
-
-    Op de draaidag, welke in afstemming met jullie plannen, komen we de
-    benodigde beelden schieten en interviews afnemen. Vervolgens maken wij
-    jullie bedrijfsvideo. Uiteraard kan je feedback geven! Wij werken met de
-    meest proffesionele aparatuur om de hoogste kwaliteit te kunnen
-    garanderen.\r
-
-    \r
-
-    4. Inzet\r
-
-    Doorheen het hele proces denken we mee over de inzet van de content. Zo
-    zorgen we ervoor dat jij alle tools hebt om je doelen te bereiken."
+    1. Bedarfsermittlung & technische Auslegung
+       In dieser ersten Phase legen unsere Berater gemeinsam mit Ihnen das richtige visuelle Format fest und definieren den technischen Rahmen.
+    2. Kreative Zusammenarbeit
+       Gemeinsam mit Ihnen erarbeiten wir ein eingängiges Konzept für das Video oder die Animation. Wir tun dies während einer kreativen Sitzung. Auf der Grundlage dieses Inputs erstellen wir einen Entwurf für die Interviewfragen oder das Voice-over und die Bilder, die wir filmen wollen. Sie und Ihre Kollegen können dazu ein Feedback geben.
+    3. Erste Schritte
+       Am Tag des Drehs, der in Absprache mit Ihnen geplant wird, drehen wir das notwendige Material und führen Interviews durch. Dann machen wir Ihren Imagefilm. Natürlich können Sie uns Feedback geben! Wir arbeiten mit den professionellsten Geräten, um die höchste Qualität zu gewährleisten.
+    4. Verwenden Sie .
+       Während des gesamten Prozesses denken wir über die Verwendung der Inhalte nach. Auf diese Weise stellen wir sicher, dass Sie alle Werkzeuge haben, die Sie brauchen, um Ihre Ziele zu erreichen.
 ---

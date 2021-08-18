@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een bedrijfsvideo? "
-slug: "hoe-maken-jullie-een-bedrijfsvideo"
+slug: hoe-maken-jullie-een-bedrijfsvideo
 draft: false
 faq:
   question: "Hoe maken jullie een bedrijfsvideo? "
