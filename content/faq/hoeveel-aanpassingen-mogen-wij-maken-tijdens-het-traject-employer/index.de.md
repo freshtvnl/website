@@ -1,14 +1,14 @@
 ---
-title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (employer)
-slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-employer
+title: Wie viele Anpassungen können wir während des Prozesses vornehmen? (employer)
+slug: Wie viele Anpassungen können wir während des Prozesses vornehmen employer
 draft: false
 faq:
-  question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
-  answer: "Binnen is één feedbackronde opgenomen, waarin de opdrachtgever feedback
-    geeft op de aangeleverde conceptversie. Onze processen zijn zo ingericht dat
-    we tussentijds verwachtingen en mogelijkheden kortsluiten. Op deze manier
-    zorgen wij dat onze conceptversie zo dicht mogelijk tegen een definitieve
-    versie aanzit. "
+  question: Wie viele Anpassungen können wir während des Prozesses vornehmen?
+  answer: Eine Feedback-Runde ist inbegriffen, in der der Kunde eine Rückmeldung
+    zur gelieferten Entwurfsversion gibt. Unsere Prozesse sind so angelegt, dass
+    wir die Erwartungen und Möglichkeiten kurzschließen. Auf diese Weise stellen
+    wir sicher, dass unsere Konzeptversion so nah wie möglich an einer
+    endgültigen Version ist.
 seo:
   noindex: true
 ---
