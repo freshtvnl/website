@@ -1,6 +1,6 @@
 ---
 title: "Hoe lang duurt het gemiddeld voordat een infographic klaar is? "
-slug: "hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is"
+slug: hoe-lang-duurt-het-gemiddeld-voordat-een-infographic-klaar-is
 draft: false
 faq:
   answer: De gemiddelde doorlooptijd voor een infographic animatie is 1 maand.
