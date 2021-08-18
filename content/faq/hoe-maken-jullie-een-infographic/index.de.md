@@ -1,11 +1,11 @@
 ---
-title: Hoe maken jullie een infographic?
-slug: hoe-maken-jullie-een-infographic
+title: Wie erstellt man eine Infografik?
+slug: Wie erstellt man eine Infografik
 draft: false
 faq:
-  question: Hoe maken jullie een infographic?
-  answer: Onze infographics worden gemaakt door onze afgestudeerde animatoren op
-    high-end computers. We gebruiken goede software van onder andere ADOBE.
+  question: Wie erstellt man eine Infografik?
+  answer: Unsere Infografiken werden von unseren Diplom-Animatoren auf
+    High-End-Rechnern erstellt. Wir verwenden u.a. gute Software von ADOBE.
 seo:
   noindex: true
 ---
