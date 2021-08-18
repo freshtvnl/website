@@ -1,13 +1,11 @@
 ---
-title: "Wat dien ik aan te leveren voor een offerte voor een employer branding
-  video? "
-slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-employer-branding-video
+title: Was muss ich für ein Angebot in einem Employer-Branding-Video liefern?
+slug: Was muss ich für ein Angebot in einem Employer-Branding-Video liefern
 draft: false
 faq:
-  question: "Wat dien ik aan te leveren voor een offerte voor een employer
-    branding video? "
-  answer: Naast je idee, ontvangen we graag zo uitgebreid mogelijke informatie
-    over de locatie, eventuele routes, en het gewenste eindresultaat.
+  question: Was muss ich für ein Angebot in einem Employer-Branding-Video liefern?
+  answer: Neben Ihrer Idee möchten wir so viele Informationen wie möglich über den
+    Standort, mögliche Routen und das gewünschte Endergebnis erhalten.
 seo:
   noindex: true
 ---
