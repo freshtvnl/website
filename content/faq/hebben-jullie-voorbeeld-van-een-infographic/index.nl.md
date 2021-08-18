@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeeld van een infographic? "
-slug: "hebben-jullie-voorbeeld-van-een-infographic"
+slug: hebben-jullie-voorbeeld-van-een-infographic
 draft: false
 faq:
   question: "Hebben jullie voorbeeld van een infographic? "

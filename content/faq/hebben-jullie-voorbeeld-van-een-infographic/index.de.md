@@ -1,11 +1,11 @@
 ---
-title: "Hebben jullie voorbeeld van een infographic? "
-slug: "hebben-jullie-voorbeeld-van-een-infographic"
+title: Haben Sie ein Beispiel für eine Infografik?
+slug: Haben Sie ein Beispiel für eine Infografik
 draft: false
 faq:
-  question: "Hebben jullie voorbeeld van een infographic? "
-  answer: In ons portfolio vind je tal van voorbeelden van succesvolle
-    infographics. We horen graag welke infographic jij het mooist vindt!
+  question: Haben Sie ein Beispiel für eine Infografik?
+  answer: In unserem Portfolio finden Sie viele Beispiele für gelungene
+    Infografiken. Wir hören gerne, welche Infografik Ihnen am besten gefällt.
 seo:
   noindex: true
 ---
