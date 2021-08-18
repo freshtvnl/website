@@ -29,7 +29,7 @@ blocks:
       Leer van onze ervaren medewerkers alles op het gebied van video -en animatiefilms en de marketingdoelen die we stellen aan onze films. Phil & Flo heeft per periode rond de 20-30 stage aanvragen, wij nodigen alleen de toppers uit op gesprek die écht kiezen voor dit prachtige vak. Zorg er dus voor dat je portfolio op orde is en dat je motivatie ons overtuigt om je voor een gesprek uit te nodigen.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/210204-timelapse-muur-phil-en-flo-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
       autoplay: true
     iframe:
       source: ""
