@@ -1,11 +1,11 @@
 ---
-title: "Hebben jullie voorbeelden van een employer branding video? "
-slug: "hebben-jullie-voorbeelden-van-een-employer-branding-video"
+title: "Haben Sie Beispiele für ein Employer Branding Video? "
+slug: Haben Sie Beispiele für ein Employer Branding Video
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van een employer branding video? "
-  answer: Jazeker! Op [deze pagina](https://www.philenflo.nl/portfolio/) kan je al
-    onze employer branding films bekijken!
+  question: Haben Sie Beispiele für ein Employer Branding Video?
+  answer: Ja, wir wollen! Auf dieser Seite können Sie sich alle unsere Employer
+    Branding Videos ansehen!
 seo:
   noindex: true
 ---
