@@ -4,7 +4,7 @@ slug: 30 minuten
 draft: false
 blocks:
   - type: content_block
-    form: 30-minutes
+    form: 30minutes-formulier
     content: >-
       # Vrijblijvende ***30 minuten*** sessie boeken
 
