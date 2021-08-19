@@ -64,10 +64,14 @@ blocks:
 
 
       Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/groningen-seaport-duurzame-energie-phil-en-flo.jpg
+      source: ""
       alt: Animatie duurzame energie
+    video:
+      source_mp4: https://video.philenflo.nl/video/Alfen-duurzame-energie.mp4
+      source_webm: https://video.philenflo.nl/video/Alfen-duurzame-energie.webm
+      autoplay: true
   - type: content_block
     content: >-
       ## ***Voordelen*** van video en animatie
@@ -76,25 +80,22 @@ blocks:
       Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen. Vraag ons naar de mogelijkheden.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/Alfen-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
       autoplay: true
-      source_webm: https://video.philenflo.nl/video/Alfen-duurzame-energie.webm
+      source_webm: ""
     cta:
-      url: /contact/
-      text: Neem nu contact op
-      type: button
+      url: ""
+      text: ""
+      type: null
     form: contact-formulier
-  - type: selectedwork_block
-    title: Duurzame cases
-    items:
-      - animatiefilm-over-biogas
-      - alfen-Smart-Charging-Network-3D-animatie
-    more_items: true
   - type: contact_block
     content: ""
     contacts:
       - peter-de-graaf
     more_items: true
+  - items:
+      - animatiefilm-over-biogas
+      - alfen-Smart-Charging-Network-3D-animatie
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van duurzame energie. Ontdek
