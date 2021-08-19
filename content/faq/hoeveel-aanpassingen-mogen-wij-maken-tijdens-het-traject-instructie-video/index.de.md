@@ -1,16 +1,19 @@
 ---
-title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (instructie video)
-slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
+title: Wie viele Anpassungen können wir während des Projekts vornehmen?
+  (Anleitungsvideo)
+slug: Wie viele Anpassungen können wir während des Projekts vornehmen Anleitungsvideo
 draft: false
 faq:
-  question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
-  answer: Voor het voice-overscript en het draaiboek maken we gebruik van twee
-    feedbackronden. Voor de film werken we standaard met één feedbackronde.
-    Mochten wij de feedback niet naar behoren verwerkt hebben, dan kan je dit
-    natuurlijk altijd aangeven, en zullen we dit na duiding alsnog goed
-    verwerken. Mocht je liever met meerdere feedbackrondes werken, omwille van
-    wat voor reden dan ook? Dan kan dit zeker! Je kunt dit aangeven bij onze
-    consultant in het voortraject, en wordt dit in de offerte opgenomen.
+  question: Wie viele Anpassungen können wir während des Projekts vornehmen?
+    (Anleitungsvideo)
+  answer: Für das Voice-over-Skript und das Skript verwenden wir zwei
+    Feedback-Runden. Für den Film arbeiten wir normalerweise mit einer
+    Feedback-Runde. Sollten wir die Rückmeldung nicht richtig verarbeitet haben,
+    so können Sie dies jederzeit angeben, und wir werden diese nach Klärung
+    richtig verarbeiten. Würden Sie es vorziehen, mit mehreren Feedback-Runden
+    zu arbeiten, aus welchem Grund auch immer? Dann ist das durchaus möglich!
+    Sie können dies unserem Berater während des Vorprozesses mitteilen, und es
+    wird in das Angebot aufgenommen.
 seo:
   noindex: true
 ---
