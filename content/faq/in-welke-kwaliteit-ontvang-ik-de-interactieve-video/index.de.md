@@ -1,11 +1,11 @@
 ---
-title: "In welke kwaliteit ontvang ik de interactieve video? "
-slug: "in-welke-kwaliteit-ontvang-ik-de-interactieve-video"
+title: In welcher Qualität werde ich das interaktive Video erhalten?
+slug: In welcher Qualität werde ich das interaktive Video erhalten
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik de interactieve video? "
-  answer: Ook interactieve video wordt in de hoogst haalbare kwaliteit opgeleverd,
-    dit is 4K UHD.
+  question: In welcher Qualität werde ich das interaktive Video erhalten?
+  answer: Interaktives Video wird in der höchstmöglichen Qualität geliefert, dies
+    ist 4K UHD.
 seo:
   noindex: true
 ---

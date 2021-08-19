@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik de interactieve video? "
-slug: "in-welke-kwaliteit-ontvang-ik-de-interactieve-video"
+slug: in-welke-kwaliteit-ontvang-ik-de-interactieve-video
 draft: false
 faq:
   question: "In welke kwaliteit ontvang ik de interactieve video? "
