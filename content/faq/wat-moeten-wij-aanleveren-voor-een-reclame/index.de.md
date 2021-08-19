@@ -1,9 +1,9 @@
 ---
-title: "Wat moeten wij aanleveren voor een reclame? "
-slug: "wat-moeten-wij-aanleveren-voor-een-reclame"
+title: "Was müssen wir für eine Anzeige liefern? "
+slug: Was müssen wir für eine Anzeige liefern
 draft: false
 faq:
-  question: "Wat moeten wij aanleveren voor een reclame? "
+  question: Was müssen wir für eine Anzeige liefern?
 seo:
   noindex: true
 ---
