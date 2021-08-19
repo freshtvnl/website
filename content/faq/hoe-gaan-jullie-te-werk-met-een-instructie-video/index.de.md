@@ -1,13 +1,14 @@
 ---
-title: "Hoe gaan jullie te werk met een instructie video? "
-slug: "hoe-gaan-jullie-te-werk-met-een-instructie-video"
+title: Wie arbeiten Sie mit einem Anleitungsvideo?
+slug: Wie arbeiten Sie mit einem Anleitungsvideo
 draft: false
 faq:
-  question: "Hoe gaan jullie te werk met een instructie video? "
-  answer: We stemmen met jou af, wat de beste vorm is om jouw instructie over te
-    brengen. Dit kan video, animatie of een combinatie van beiden zijn. Alles
-    gebeurt in afstemming en gaandeweg geven wij het nodige advies, zodat we de
-    hoogst mogelijke kwaliteit kunnen waarborgen.
+  question: Wie arbeiten Sie mit einem Anleitungsvideo?
+  answer: Wir stimmen mit Ihnen überein, wie Sie Ihre Anweisung am besten
+    vermitteln können. Dies kann ein Video, eine Animation oder eine Kombination
+    aus beidem sein. Alles geschieht in Abstimmung, und auf dem Weg dorthin
+    geben wir die notwendige Beratung, damit wir die höchstmögliche Qualität
+    garantieren können.
 seo:
   noindex: true
 ---

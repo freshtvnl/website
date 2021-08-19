@@ -1,6 +1,6 @@
 ---
 title: "Hoe gaan jullie te werk met een instructie video? "
-slug: "hoe-gaan-jullie-te-werk-met-een-instructie-video"
+slug: hoe-gaan-jullie-te-werk-met-een-instructie-video
 draft: false
 faq:
   question: "Hoe gaan jullie te werk met een instructie video? "
