@@ -1,12 +1,12 @@
 ---
-title: Welke muziek gebruiken jullie? (productvideo)
-slug: welke-muziek-gebruiken-jullie-productvideo
+title: Welche Art von Musik verwenden Sie? (Produktvideo)
+slug: Welche Art von Musik verwenden Sie Produktvideo
 draft: false
 faq:
-  question: "Welke muziek gebruiken jullie? "
-  answer: Onze projectmanagers zorgen ervoor dat de uitgekozen muziek precies die
-    sfeer weergeeft die jullie bij je product willen hebben. Afhankelijk van het
-    product en de doelgroep zal bijpassende muziek worden gekozen.
+  question: Welche Art von Musik verwenden Sie? (Produktvideo)
+  answer: Unsere Projektmanager sorgen dafür, dass die gewählte Musik genau die
+    Atmosphäre widerspiegelt, die Sie mit Ihrem Produkt erreichen wollen. Je
+    nach Produkt und Zielgruppe wird die passende Musik ausgewählt.
 seo:
   noindex: true
 ---
