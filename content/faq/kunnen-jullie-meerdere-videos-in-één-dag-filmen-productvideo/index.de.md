@@ -1,10 +1,10 @@
 ---
-title: Kunnen jullie meerdere video's in één dag filmen? (productvideo)
-slug: kunnen-jullie-meerdere-video-s-in-een-dag-filmen-productvideo
+title: Können Sie mehrere Videos an einem Tag drehen? (Produktvideo)
+slug: Können Sie mehrere Videos an einem Tag drehen Produktvideo
 draft: false
 faq:
-  question: "Kunnen jullie meerdere video's in één dag filmen? "
-  answer: Gemiddeld komt uit één draaidag voor twee producties aan beeldmateriaal.
+  question: Können Sie mehrere Videos an einem Tag drehen? (Produktvideo)
+  answer: Im Durchschnitt entstehen bei einem Drehtag zwei Produktionen.
 seo:
   noindex: true
 ---
