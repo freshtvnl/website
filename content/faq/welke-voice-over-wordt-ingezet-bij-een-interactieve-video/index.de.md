@@ -1,12 +1,12 @@
 ---
-title: "Welke voice over wordt ingezet bij een interactieve video? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-interactieve-video"
+title: "Welches Voice Over sollte ich für ein interaktives Video verwenden? "
+slug: Welches Voice Over sollte ich für ein interaktives Video verwenden
 draft: false
 faq:
-  question: "Welke voice over wordt ingezet bij een interactieve video? "
-  answer: Voice overs zijn meer dan een ingesproken stem. Afhankelijk van wie
-    jullie zijn en wie jullie willen bereiken zorgen wij ervoor dat een voice
-    over wordt gekozen die precies deze doelgroep raakt.
+  question: Welches Voice Over sollte ich für ein interaktives Video verwenden?
+  answer: Voice Overs sind mehr als nur eine aufgenommene Stimme. Abhängig davon,
+    wer Sie sind und wen Sie erreichen wollen, wählen wir ein Voice Over, das
+    Ihre Zielgruppe anspricht.
 seo:
   noindex: true
 ---
