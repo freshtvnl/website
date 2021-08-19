@@ -1,10 +1,12 @@
 ---
-title: Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? (productvideo)
-slug: moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-productvideo
+title: Muss ich alle Ideen selbst beisteuern oder denken Sie an alles? (Produktvideo)
+slug: Muss ich alle Ideen selbst beisteuern oder denken Sie an alles Produktvideo
 draft: false
 faq:
-  answer: Wij kunnen alles bedenken, maar samen komen we tot de mooiste creaties!
-    Had jij bijvoorbeeld als idee een exploded view van je product te laten
-    maken? Laat het ons vooral weten.
-  question: "Moet ik zelf alle ideeën aanleveren of bedenken jullie alles? "
+  answer: Wir können an alles denken, aber gemeinsam werden wir die besten
+    Kreationen finden! Hatten Sie zum Beispiel die Idee, eine
+    Explosionszeichnung Ihres Produkts zu erstellen? Bitte geben Sie uns
+    Bescheid.
+  question: Muss ich alle Ideen selbst beisteuern oder denken Sie an alles?
+    (Produktvideo)
 ---
