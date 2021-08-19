@@ -1,9 +1,9 @@
 ---
-title: "Hoe maken jullie een reclame? "
-slug: "hoe-maken-jullie-een-reclame"
+title: Wie macht man eine Anzeige?
+slug: Wie macht man eine Anzeige
 draft: false
 faq:
-  question: "Hoe maken jullie een reclame? "
+  question: Wie macht man eine Anzeige?
 seo:
   noindex: true
 ---
