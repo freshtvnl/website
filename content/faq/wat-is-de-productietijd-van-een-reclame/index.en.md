@@ -1,6 +1,6 @@
 ---
 title: "Wat is de productietijd van een reclame? "
-slug: "wat-is-de-productietijd-van-een-reclame"
+slug: wat-is-de-productietijd-van-een-reclame
 draft: false
 faq:
   question: "Wat is de productietijd van een reclame? "

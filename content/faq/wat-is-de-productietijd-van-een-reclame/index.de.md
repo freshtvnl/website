@@ -1,10 +1,10 @@
 ---
-title: "Wat is de productietijd van een reclame? "
-slug: "wat-is-de-productietijd-van-een-reclame"
+title: Wie lange ist die Produktionszeit für eine Anzeige?
+slug: Wie lange ist die Produktionszeit für eine Anzeige
 draft: false
 faq:
-  question: "Wat is de productietijd van een reclame? "
-  answer: Gemiddeld is onze productietijd drie tot vijf weken.
+  question: Wie lange ist die Produktionszeit für eine Anzeige?
+  answer: Im Durchschnitt beträgt unsere Produktionszeit drei bis fünf Wochen.
 seo:
   noindex: true
 ---
