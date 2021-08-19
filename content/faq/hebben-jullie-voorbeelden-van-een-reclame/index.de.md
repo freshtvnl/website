@@ -1,11 +1,11 @@
 ---
-title: "Hebben jullie voorbeelden van een reclame? "
-slug: "hebben-jullie-voorbeelden-van-een-reclame"
+title: Haben Sie Beispiele für eine Anzeige?
+slug: Haben Sie Beispiele für eine Anzeige
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van een reclame? "
-  answer: Jazeker! Neem gerust een kijk in ons atlijd groeiende
-    [reclameportfolio](https://www.philenflo.nl/portfolio/).
+  question: Haben Sie Beispiele für eine Anzeige?
+  answer: Ja, wir wollen! Werfen Sie einen Blick auf unser stetig wachsendes
+    [Werbeportfolio](philundflo.de/portfolio).
 seo:
   noindex: true
 ---

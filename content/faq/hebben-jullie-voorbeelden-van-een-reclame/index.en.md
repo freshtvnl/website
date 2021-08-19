@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een reclame? "
-slug: "hebben-jullie-voorbeelden-van-een-reclame"
+slug: hebben-jullie-voorbeelden-van-een-reclame
 draft: false
 faq:
   question: "Hebben jullie voorbeelden van een reclame? "
