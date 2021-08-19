@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een interactieve video? "
-slug: "hoe-maken-jullie-een-interactieve-video"
+slug: hoe-maken-jullie-een-interactieve-video
 draft: false
 faq:
   answer: We beginnen altijd bij de kern van jouw boodschap. Wanneer we dit 100%

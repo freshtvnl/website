@@ -1,14 +1,14 @@
 ---
-title: "Hoe maken jullie een interactieve video? "
-slug: "hoe-maken-jullie-een-interactieve-video"
+title: interaktives Video Wie macht man ein interaktives Video?
+slug: interaktives Video Wie macht man ein interaktives Video
 draft: false
 faq:
-  answer: We beginnen altijd bij de kern van jouw boodschap. Wanneer we dit 100%
-    duidelijk hebben, gaan we samen kijken hoe we dit op een logische manier
-    interactief kunnen presenteren aan jouw doelgroep. De interactiviteit moet
-    iets toevoegen aan het geheel. Het moet bijdragen aan het effect en het doel
-    (informeren, activeren, inspireren).
-  question: "Hoe maken jullie een interactieve video? "
+  answer: Wir beginnen immer mit dem Kern Ihrer Botschaft. Wenn das zu 100% klar
+    ist, schauen wir gemeinsam, wie wir es interaktiv und logisch für Ihre
+    Zielgruppe präsentieren können. Die Interaktivität sollte dem Ganzen etwas
+    hinzufügen. Sie muss zur Wirkung und zum Ziel beitragen (informieren,
+    aktivieren, inspirieren).
+  question: interaktives Video Wie macht man ein interaktives Video?
 seo:
   noindex: true
 ---
