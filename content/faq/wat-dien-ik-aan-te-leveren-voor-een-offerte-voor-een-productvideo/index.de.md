@@ -1,13 +1,13 @@
 ---
-title: "Wat dien ik aan te leveren voor een offerte voor een productvideo? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-productvideo"
+title: Was muss ich für ein Angebot für ein Produktvideo liefern?
+slug: Was muss ich für ein Angebot für ein Produktvideo liefern
 draft: false
 id: ctmwwUSWa
 faq:
-  question: "Wat dien ik aan te leveren voor een offerte voor een productvideo? "
-  answer: Gelukkig niet veel! Natuurlijk is het handig om te weten over wat voor
-    een product we het hebben en door wie dit wordt aangeboden. Aan de hand van
-    deze informatie nemen we contact op en kunnen we een voorstel schrijven.
+  question: Was muss ich für ein Angebot für ein Produktvideo liefern?
+  answer: Zum Glück nicht viel! Natürlich ist es nützlich zu wissen, um welche Art
+    von Produkt es sich handelt und von wem. Auf der Grundlage dieser
+    Informationen werden wir Sie kontaktieren und ein Angebot erstellen.
 seo:
   noindex: true
 ---
