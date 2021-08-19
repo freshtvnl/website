@@ -79,6 +79,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Alfen-duurzame-energie.mp4
       autoplay: true
       source_webm: https://video.philenflo.nl/video/Alfen-duurzame-energie.webm
+    cta:
+      url: /contact/
+      text: Neem nu contact op
+      type: button
   - type: selectedwork_block
     title: Duurzame cases
     items:
