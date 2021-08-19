@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een instructie video? "
-slug: "hebben-jullie-voorbeelden-van-een-instructie-video"
+slug: hebben-jullie-voorbeelden-van-een-instructie-video
 draft: false
 faq:
   question: "Hebben jullie voorbeelden van een instructie video? "
