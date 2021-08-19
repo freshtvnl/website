@@ -1,11 +1,11 @@
 ---
-title: "In welke kwaliteit ontvang ik de instructie video? "
-slug: "in-welke-kwaliteit-ontvang-ik-de-instructie-video"
+title: In welcher Qualität erhalte ich das Anleitungsvideo?
+slug: In welcher Qualität erhalte ich das Anleitungsvideo
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik de instructie video? "
-  answer: In de meeste gevallen worden onze instructie video's in 4K opgeleverd.
-    Zo heb jij een duurzaam inzetbare video, van de hoogst mogelijke kwaliteit.
+  question: In welcher Qualität erhalte ich das Anleitungsvideo?
+  answer: In den meisten Fällen werden unsere Anleitungsvideos in 4K geliefert.
+    Dadurch erhalten Sie ein dauerhaftes Video in höchstmöglicher Qualität.
 seo:
   noindex: true
 ---
