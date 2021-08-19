@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een productvideo? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-productvideo"
+slug: welke-voice-over-wordt-ingezet-bij-een-productvideo
 draft: false
 faq:
   question: "Welke voice over wordt ingezet bij een productvideo? "
