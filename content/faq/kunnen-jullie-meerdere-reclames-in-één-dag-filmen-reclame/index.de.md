@@ -1,11 +1,11 @@
 ---
-title: Kunnen jullie meerdere reclames in één dag filmen? (reclame)
-slug: kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
+title: Können Sie mehrere Werbespots an einem Tag drehen? (Anzeige)
+slug: Können Sie mehrere Werbespots an einem Tag drehen Anzeige
 draft: false
 faq:
-  question: "Kunnen jullie meerdere reclames in één dag filmen? "
-  answer: Door op een draaidag slim te werken komt er gemiddeld voor twee
-    producties aan beeldmateriaal uit!
+  question: Können Sie mehrere Werbespots an einem Tag drehen? (Anzeige)
+  answer: Durch intelligentes Arbeiten an einem Drehtag können wir im Durchschnitt
+    zwei Produktionen im Wert von Filmmaterial produzieren.
 seo:
   noindex: true
 ---
