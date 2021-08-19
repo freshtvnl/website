@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een instructie video? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video"
+slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-instructie-video
 draft: false
 faq:
   answer: Hoe meer informatie wij hebben om voor jou een voorstel te schrijven,
