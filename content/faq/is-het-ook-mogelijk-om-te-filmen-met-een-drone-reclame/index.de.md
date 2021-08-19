@@ -1,12 +1,12 @@
 ---
-title: Is het ook mogelijk om te filmen met een drone? (reclame)
-slug: is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
+title: Ist es auch möglich, mit einer Drohne zu filmen? (Anzeige)
+slug: Ist es auch möglich, mit einer Drohne zu filmen Anzeige
 draft: false
 faq:
-  question: "Is het ook mogelijk om te filmen met een drone? "
-  answer: Absoluut, geef het aan en dan bespreken we hoe het inzetten van een film
-    drone jouw reclame naar het volgende niveau gaat tillen! Bekijk hier een
-    voorbeeld.
+  question: Ist es auch möglich, mit einer Drohne zu filmen Anzeige?
+  answer: Auf jeden Fall, lassen Sie es uns wissen und wir besprechen, wie der
+    Einsatz einer Filmdrohne Ihre Werbung auf die nächste Stufe heben wird!
+    Sehen Sie sich hier ein Beispiel an.
 seo:
   noindex: true
 ---
