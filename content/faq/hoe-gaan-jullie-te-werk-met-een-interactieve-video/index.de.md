@@ -1,9 +1,9 @@
 ---
-title: "Hoe gaan jullie te werk met een interactieve video? "
-slug: "hoe-gaan-jullie-te-werk-met-een-interactieve-video"
+title: Wie gehen Sie bei der Erstellung eines interaktiven Videos vor?
+slug: Wie gehen Sie bei der Erstellung eines interaktiven Videos vor
 draft: false
 faq:
-  question: "Hoe gaan jullie te werk met een interactieve video? "
+  question: Wie gehen Sie bei der Erstellung eines interaktiven Videos vor?
 seo:
   noindex: true
 ---
