@@ -1,13 +1,13 @@
 ---
-title: "Wat dien ik aan te leveren voor een offerte voor een interactieve video? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video"
+title: Was sollte ich für ein Angebot für ein interaktives Video liefern?
+slug: Was sollte ich für ein Angebot für ein interaktives Video liefern
 draft: false
 faq:
-  question: "Wat dien ik aan te leveren voor een offerte voor een interactieve video? "
-  answer: Naast je idee, ontvangen we graag zo uitgebreid mogelijke informatie
-    over de locatie, eventuele routes, en het gewenste eindresultaat. Hierna
-    nemen we contact met je op om ervoor te zorgen dat alle neuzen dezelfde kant
-    op staan.
+  question: Was sollte ich für ein Angebot für ein interaktives Video liefern?
+  answer: Neben Ihrer Idee möchten wir so viele Informationen wie möglich über den
+    Standort, mögliche Routen und das gewünschte Endergebnis erhalten. Wir
+    werden uns dann mit Ihnen in Verbindung setzen, um sicherzustellen, dass wir
+    alle auf der gleichen Seite sind.
 seo:
   noindex: true
 ---
