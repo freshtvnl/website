@@ -1,13 +1,13 @@
 ---
-title: Welke muziek gebruiken jullie? (instructie video)
-slug: welke-muziek-gebruiken-jullie-instructie-video
+title: Welche Musik verwenden Sie? (Anleitungsvideo)
+slug: Welche Musik verwenden Sie Anleitungsvideo
 draft: false
 faq:
-  question: "Welke muziek gebruiken jullie? "
-  answer: Onze databank is gevuld met duizenden muzieknummers. Veelal kiezen we
-    hieruit een goed passend muziekje welke de stijl van de video
-    complimenteert. In sommige gevallen laten we zelfs muziek op maat maken, om
-    uniciteit en branding te vergroten.
+  question: Welche Musik verwenden Sie? (Anleitungsvideo)
+  answer: Unsere Datenbank ist mit Tausenden von Musiktiteln gefüllt. Wir wählen
+    oft eine gut passende Musik, die den Stil des Videos ergänzt. In einigen
+    Fällen lassen wir sogar Musik nach Maß anfertigen, um die Einzigartigkeit
+    und das Branding zu verbessern.
 seo:
   noindex: true
 ---
