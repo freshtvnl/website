@@ -1,9 +1,9 @@
 ---
-title: "Hoe gaan jullie te werk met een productvideo? "
-slug: "hoe-gaan-jullie-te-werk-met-een-productvideo"
+title: Wie arbeiten Sie mit einem Produktvideo?
+slug: Wie arbeiten Sie mit einem Produktvideo
 draft: false
 faq:
-  question: "Hoe gaan jullie te werk met een productvideo? "
+  question: Wie arbeiten Sie mit einem Produktvideo?
 seo:
   noindex: true
 ---
