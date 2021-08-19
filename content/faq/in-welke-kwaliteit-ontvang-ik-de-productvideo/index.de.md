@@ -1,8 +1,8 @@
 ---
-title: "In welke kwaliteit ontvang ik de productvideo? "
-slug: "in-welke-kwaliteit-ontvang-ik-de-productvideo"
+title: In welcher Qualität werde ich das Produktvideo erhalten?
+slug: In welcher Qualität werde ich das Produktvideo erhalten
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik de productvideo? "
-  answer: De hoogst haalbare kwaliteit, dit is 4K UHD!
+  question: In welcher Qualität werde ich das Produktvideo erhalten?
+  answer: Die höchstmögliche Qualität, das ist 4K UHD!
 ---
