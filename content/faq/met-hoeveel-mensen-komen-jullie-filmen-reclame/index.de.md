@@ -1,10 +1,10 @@
 ---
-title: Met hoeveel mensen komen jullie filmen? (reclame)
-slug: met-hoeveel-mensen-komen-jullie-filmen-reclame
+title: Mit wie vielen Personen werden Sie filmen? (Anzeige)
+slug: Mit wie vielen Personen werden Sie filmen Anzeige
 draft: false
 faq:
-  question: "Met hoeveel mensen komen jullie filmen? "
-  answer: Gemiddeld twee à drie crewleden komen langs om te filmen.
+  question: Mit wie vielen Personen werden Sie filmen? (Anzeige)
+  answer: Im Durchschnitt kommen zwei bis drei Crewmitglieder zum Filmen.
 seo:
   noindex: true
 ---
