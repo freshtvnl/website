@@ -59,7 +59,7 @@ blocks:
         source: images/aron-sophie.jpg
     form: ""
     image:
-      source: images/aron-sophie.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
       autoplay: true
