@@ -1,13 +1,13 @@
 ---
-title: "Welke voice over wordt ingezet bij een reclame? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-reclame"
+title: Welches Voice Over wird in der Werbung verwendet?
+slug: Welches Voice Over wird in der Werbung verwendet
 draft: false
 faq:
-  answer: Net als muziek, is voice over een essentiële tool waarmee je jouw doelen
-    gaat bereiken. Na precies in kaart te hebben gebracht wat de doelgroep is,
-    wat je met deze doelgroep wil en wie jullie zelf zijn gaat onze
-    projectmanager de juiste stem hierbij vinden!
-  question: "Welke voice over wordt ingezet bij een reclame? "
+  answer: Wie Musik ist auch Voice Over ein wichtiges Werkzeug, um Ihre Ziele zu
+    erreichen. Nachdem wir genau erfasst haben, was die Zielgruppe ist, was Sie
+    mit dieser Gruppe machen wollen und wer Sie sind, findet unser
+    Projektmanager die richtige Stimme!
+  question: Welches Voice Over wird in der Werbung verwendet?
 seo:
   noindex: true
 ---
