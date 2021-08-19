@@ -1,6 +1,6 @@
 ---
 title: "Welke voice over wordt ingezet bij een instructie video? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-instructie-video"
+slug: welke-voice-over-wordt-ingezet-bij-een-instructie-video
 draft: false
 faq:
   question: "Welke voice over wordt ingezet bij een instructie video? "

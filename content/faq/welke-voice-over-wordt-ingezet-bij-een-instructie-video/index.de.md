@@ -1,14 +1,14 @@
 ---
-title: "Welke voice over wordt ingezet bij een instructie video? "
-slug: "welke-voice-over-wordt-ingezet-bij-een-instructie-video"
+title: Welches Voice-Over soll für ein Lehrvideo verwendet werden?
+slug: Welches Voice-Over soll für ein Lehrvideo verwendet werden
 draft: false
 faq:
-  question: "Welke voice over wordt ingezet bij een instructie video? "
-  answer: In de loop van de jaren hebben wij veel contacten opgebouwd met
-    stem-acteurs en actrices. Wij adviseren je vaak over een passende stem, en
-    houden hierbij rekening met jouw wensen, het doel van de video, en haar
-    doelgroep. Wij adviseren, maar jij bepaalt uiteindelijk wie jouw verhaalt
-    verteld.
+  question: Welches Voice-Over soll für ein Lehrvideo verwendet werden?
+  answer: Im Laufe der Jahre haben wir viele Kontakte zu Synchronsprechern und
+    -schauspielerinnen aufgebaut. Oft beraten wir Sie bei der Auswahl einer
+    geeigneten Stimme, wobei wir Ihre Wünsche, den Zweck des Videos und die
+    Zielgruppe berücksichtigen. Wir beraten Sie, aber Sie entscheiden, wer Ihre
+    Geschichte erzählt.
 seo:
   noindex: true
 ---
