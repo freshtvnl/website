@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een interactieve video? "
-slug: "hebben-jullie-voorbeelden-van-een-interactieve-video"
+slug: hebben-jullie-voorbeelden-van-een-interactieve-video
 draft: false
 faq:
   question: "Hebben jullie voorbeelden van een interactieve video? "

@@ -1,11 +1,11 @@
 ---
-title: "Hebben jullie voorbeelden van een interactieve video? "
-slug: "hebben-jullie-voorbeelden-van-een-interactieve-video"
+title: Haben Sie Beispiele für ein interaktives Video?
+slug: Haben Sie Beispiele für ein interaktives Video
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van een interactieve video? "
-  answer: Zeker! Ons steeds groeiende interactieve
-    [portfolio](https://www.philenflo.nl/portfolio/) is hier te bekijken.
+  question: Haben Sie Beispiele für ein interaktives Video?
+  answer: Das tun wir auch! Unser ständig wachsendes interaktives [Portfolio
+    können Sie hier einsehen.](philundflo.de/portfolio)
 seo:
   noindex: true
 ---
