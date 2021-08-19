@@ -83,6 +83,7 @@ blocks:
       url: /contact/
       text: Neem nu contact op
       type: button
+    form: contact-formulier
   - type: selectedwork_block
     title: Duurzame cases
     items:
