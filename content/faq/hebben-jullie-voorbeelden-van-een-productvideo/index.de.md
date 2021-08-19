@@ -1,12 +1,11 @@
 ---
-title: "Hebben jullie voorbeelden van een productvideo? "
-slug: "hebben-jullie-voorbeelden-van-een-productvideo"
+title: Haben Sie Beispiele für ein Produktvideo?
+slug: Haben Sie Beispiele für ein Produktvideo
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van een productvideo? "
-  answer: Jazeker! Kijk bijvoorbeeld eens ons
-    [portfolio](https://www.philenflo.nl/portfolio/) voor voorbeelden van wat
-    mogelijk is.
+  question: Haben Sie Beispiele für ein Produktvideo?
+  answer: Ja, wir wollen! Werfen Sie einen Blick auf unsere
+    [Portfolio](philundflo.de/portfolio).
 seo:
   noindex: true
 ---
