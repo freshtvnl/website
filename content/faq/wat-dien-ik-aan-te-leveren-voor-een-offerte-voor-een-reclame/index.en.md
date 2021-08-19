@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een reclame? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame"
+slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
 draft: false
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een reclame? "

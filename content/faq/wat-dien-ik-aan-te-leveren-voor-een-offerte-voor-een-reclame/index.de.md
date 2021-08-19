@@ -1,12 +1,12 @@
 ---
-title: "Wat dien ik aan te leveren voor een offerte voor een reclame? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame"
+title: Was muss ich für ein Werbeangebot liefern? (Anzeige)
+slug: Was muss ich für ein Werbeangebot liefern Anzeige
 draft: false
 faq:
-  question: "Wat dien ik aan te leveren voor een offerte voor een reclame? "
-  answer: Gelukkig niet veel! Het is ons werk om jou te ontzorgen van het
-    realiseren van de reclame. Als jullie ideeën, voorbeelden, wensen of wat dan
-    ook hebben, zijn deze altijd welkom.
+  question: Was muss ich für ein Werbeangebot liefern? (Anzeige)
+  answer: Zum Glück nicht viel! Unsere Aufgabe ist es, Sie bei der Realisierung
+    der Werbung zu entlasten. Wenn Sie Ideen, Beispiele, Wünsche oder was auch
+    immer haben, sind diese immer willkommen.
 seo:
   noindex: true
 ---
