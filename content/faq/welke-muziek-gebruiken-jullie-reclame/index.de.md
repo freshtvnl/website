@@ -1,13 +1,12 @@
 ---
-title: Welke muziek gebruiken jullie? (reclame)
-slug: welke-muziek-gebruiken-jullie-reclame
+title: Welche Musik verwenden Sie? (Anzeige)
+slug: Welche Musik verwenden Sie Anzeige
 draft: false
 faq:
-  question: "Welke muziek gebruiken jullie? "
-  answer: Muziek is een krachtige tool om jouw boodschap over te brengen.
-    Afhankelijk van jouw doelgroep, doelstellingen en wensen gaat onze
-    projectmanager op pad om juist die soundtrack te kiezen die hier het beste
-    op aansluit!
+  question: Welche Musik verwenden Sie? (Anzeige)
+  answer: Musik ist ein mächtiges Werkzeug, um Ihre Botschaft zu vermitteln. Je
+    nach Zielgruppe, Zielsetzung und Wünschen sucht unser Projektleiter den
+    passenden Soundtrack aus!
 seo:
   noindex: true
 ---
