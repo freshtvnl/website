@@ -31,14 +31,16 @@ footer:
       title: ""
       text: "Of mail ons:"
     session:
-      title: 30 minuten sessie
-      text: Boek nu een vrijblijvende sessie met onze specialisten!
+      title: 30 minuten sparren
+      text: Vrijblijvend sparren met onze specialisten!
       cta:
         url: /30-minuten/
         type: button
-        text: Aanvragen
+        text: Boeken
     contactblock:
-      title: Nieuwsbrief
+      title: Blijf op de hoogte
       text: ""
       form: newsletter-form
-    bottomtext: Wij verbeelden de wereld van morgen. Animatie - Video - Branding
+    bottomtext: |-
+      Wij verbeelden de wereld van morgen. 
+      Branding - Animatie - Video
