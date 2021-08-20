@@ -59,7 +59,7 @@ blocks:
     displaymedia: custom_video
     youtube:
       image:
-        source: images/aron-sophie.jpg
+        source: ""
     form: ""
     image:
       source: ""
