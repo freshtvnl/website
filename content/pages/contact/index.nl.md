@@ -7,8 +7,11 @@ image:
 blocks:
   - type: content_block
     align: center
-    content: |-
-      # Neem ***contact*** met ons op
+    content: >-
+      # Wij komen graag in contact met ***jou.***
+
+
+      We werken graag samen met duurzame merken die werken voor een betere wereld.\
 
       Bel: [085 273 8331](tel:+31852738331)
     form: contact-formulier
