@@ -10,7 +10,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## ***HBO Stage Marketing & Communicatie***"
+    content: "# ***HBO Stage Marketing & Communicatie***"
   - type: content_block
     video:
       autoplay: true
@@ -18,7 +18,7 @@ blocks:
       ## ***Wie zijn Phil & Flo***
 
 
-      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     align: left
     displaymedia: youtube_video
     youtube:
@@ -62,7 +62,7 @@ blocks:
       ## ***Wat ga je doen***
 
 
-      Als stagiair marketing & communicatie ga je voor ons een onderzoek uitvoeren in lijn met je opleiding en stage-eisen. Naast je onderzoeksopdracht help je ons bij onze dagelijkse bedrijfsvoering. Je draagt verantwoordelijkheid voor onze socials, schrijft pakkende teksten voor de website en ondersteund het team met je schrijfvaardigheid en verfrissende inzichten. Je wordt nauw betrokken bij onze marketing en communicatie overleggen en denkt tijdens deze meetings mee over kansen, en optimalisaties.
+      Als stagiair marketing & communicatie ga je voor ons een onderzoek uitvoeren in lijn met je opleiding en stage-eisen. Naast je onderzoeksopdracht help je ons bij onze dagelijkse bedrijfsvoering. Je draagt verantwoordelijkheid voor onze socials, schrijft pakkende teksten voor de website en ondersteund het team met je schrijfvaardigheid en verfrissende inzichten. Je wordt nauw betrokken bij onze marketing en communicatie overleggen en denkt tijdens deze meetings mee over kansen en optimalisaties.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -81,6 +81,7 @@ blocks:
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
+      alt: Team Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -110,4 +111,8 @@ blocks:
     displaymedia: null
     image:
       source: images/210505-philenflo-schermachtergrond3.jpg
+seo:
+  title: HBO Stage Marketing & Communicatie | Phil & Flo Creative Studio
+  description: HBO Stage Marketing & Communicatie bij Phil & Flo Creative Studio.
+    Meld je nu aan en solliciteer op deze toffe functie.
 ---
