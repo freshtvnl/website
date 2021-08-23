@@ -110,4 +110,6 @@ blocks:
       alt: Animatie Phil & Flo
 seo:
   title: MBO/HBO Stage Fulltime Vormgeving & Marketing | Phil & Flo Creative Studio
+  description: MBO/HBO Stage Fulltime Vormgeving & Marketing bij Phil & Flo
+    Creative Studio. Meld je nu aan en solliciteer op deze toffe functie.
 ---
