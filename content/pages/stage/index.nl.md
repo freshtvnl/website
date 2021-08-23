@@ -23,7 +23,7 @@ blocks:
       * [HBO/WO Sales](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (fulltime)
 
 
-      Wij zijn op zoek naar gemotiveerde stagiaires die veel willen leren op het gebied van video, animatie en marketing.
+      Wij zijn op zoek naar gemotiveerde stagiaires die veel willen leren op het gebied van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en marketing.
 
 
       Leer van onze ervaren medewerkers alles op het gebied van video -en animatiefilms en de marketingdoelen die we stellen aan onze films. Phil & Flo heeft per periode rond de 20-30 stage aanvragen, wij nodigen alleen de toppers uit op gesprek die écht kiezen voor dit prachtige vak. Zorg er dus voor dat je portfolio op orde is en dat je motivatie ons overtuigt om je voor een gesprek uit te nodigen.
@@ -36,7 +36,7 @@ blocks:
 seo:
   title: Stagelopen bij video of animatie bedrijf - Phil & Flo Creative studio
   description: Stage lopen bij een videoproductie bedrijf of animatie studio in de
-    regio Groningen? Neem dan contact op met Phil & Flo  via ons stageformulier!
+    regio Groningen? Neem dan contact op met Phil & Flo via ons stageformulier!
 menu:
   footer:
     weight: 6
