@@ -1,14 +1,14 @@
 ---
 title: Stage MBO/HBO Animator 2D/3D (fulltime)
 slug: stage animator 2D 3D groningen
-draft: false
+draft: true
 color: yellow
 blocks:
   - type: content_block
     video:
       autoplay: true
     align: center
-    content: "## ***MBO/HBO Stage Fulltime Animator***"
+    content: "# ***MBO/HBO Stage Fulltime Animator***"
   - type: content_block
     video:
       autoplay: true
@@ -17,7 +17,7 @@ blocks:
       ## Wie zijn ***Phil & Flo***
 
 
-      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -43,6 +43,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-inge-kopie.jpg
+      alt: team phil & flo
   - type: content_block
     video:
       autoplay: true
@@ -52,7 +53,7 @@ blocks:
       ## ***Wat ga je doen***
 
 
-      Als stagiair animator helpen we je een passende leerzame stage-opdracht te vinden. Hiernaast help jij ons bij onze dagelijkse bedrijfsvoering. Aan het begin van je stageperiode zet je je animatie skills in ter ondersteuning voor onze animatie- en filmproducties. Je geeft vorm aan grafische elementen en animeert kleinere onderdelen. Dit doe je onder begeleiding van onze ervaren animatoren en creative producers. Naarmate je meer ervaring op doet en de fijnere kneepjes van het vak leert, werk je steeds meer zelfstandig en werk je nauw samen met onze projectmanagers om gave animaties te maken voor onze klanten. Naast onze producties ben je ook actief betrokken bij onze social media activiteiten. Zo brainstorm je mee over leuke social posts en maak je hiervoor gave animaties.
+      Als stagiair animator helpen we je een passende leerzame stage-opdracht te vinden. Hiernaast help jij ons bij onze dagelijkse bedrijfsvoering. Aan het begin van je stageperiode zet je je animatie skills in ter ondersteuning voor onze [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)- en filmproducties. Je geeft vorm aan grafische elementen en animeert kleinere onderdelen. Dit doe je onder begeleiding van onze ervaren animatoren en creative producers. Naarmate je meer ervaring op doet en de fijnere kneepjes van het vak leert, werk je steeds meer zelfstandig en werk je nauw samen met onze projectmanagers om gave animaties te maken voor onze klanten. Naast onze producties ben je ook actief betrokken bij onze social media activiteiten. Zo brainstorm je mee over leuke social posts en maak je hiervoor gave animaties.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -73,6 +74,7 @@ blocks:
       * Lekkere lunch van de zaak op maandagen.
     image:
       source: images/feestje-phil-en-flo.jpg
+      alt: Team Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -105,4 +107,7 @@ blocks:
       id: ""
     image:
       source: images/210505-philenflo-schermachtergrond.jpg
+      alt: Animatie Phil & Flo
+seo:
+  title: MBO/HBO Stage Fulltime Vormgeving & Marketing | Phil & Flo Creative Studio
 ---
