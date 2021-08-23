@@ -8,7 +8,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## ***HBO/WO Stage Sales (National en International)***"
+    content: "# ***HBO/WO Stage Sales (National en International)***"
   - type: content_block
     video:
       autoplay: true
@@ -17,7 +17,7 @@ blocks:
       ## ***Wie zijn Phil & Flo***
 
 
-      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -104,4 +104,8 @@ blocks:
 
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
     displaymedia: null
+seo:
+  title: HBO/WO Stage Sales (National en International) | Phil & Flow Creative Studio
+  description: "HBO/WO Stage Sales (National en International) bij Phil & Flo
+    Creative Studio. Meld je nu aan en solliciteer op deze stage. "
 ---
