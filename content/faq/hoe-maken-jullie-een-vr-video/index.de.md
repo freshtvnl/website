@@ -1,11 +1,11 @@
 ---
-title: "Hoe maken jullie een VR video? "
-slug: "hoe-maken-jullie-een-vr-video"
+title: Wie macht man ein VR-Video?
+slug: Wie-macht-man-ein-VR-Video
 draft: false
 faq:
-  question: "Hoe maken jullie een VR video? "
-  answer: Wij maken VR-Films Cinema en Unreal. Dit is software die ons in staat
-    stel om de meest waanzinnige VR-omgevingen te maken.
+  question: Wie macht man ein VR-Video?
+  answer: Wir machen VR-Filme mit Cinema und Unreal. Das ist eine Software, mit
+    der wir die erstaunlichsten VR-Umgebungen erstellen können.
 seo:
   noindex: true
 ---

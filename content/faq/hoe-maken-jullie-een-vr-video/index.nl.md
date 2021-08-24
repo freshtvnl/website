@@ -1,6 +1,6 @@
 ---
 title: "Hoe maken jullie een VR video? "
-slug: "hoe-maken-jullie-een-vr-video"
+slug: hoe-maken-jullie-een-vr-video
 draft: false
 faq:
   question: "Hoe maken jullie een VR video? "
