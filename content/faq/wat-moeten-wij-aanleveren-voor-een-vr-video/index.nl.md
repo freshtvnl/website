@@ -1,6 +1,6 @@
 ---
 title: "Wat moeten wij aanleveren voor een VR video? "
-slug: "wat-moeten-wij-aanleveren-voor-een-vr-video"
+slug: wat-moeten-wij-aanleveren-voor-een-vr-video
 draft: false
 faq:
   question: "Wat moeten wij aanleveren voor een VR video? "

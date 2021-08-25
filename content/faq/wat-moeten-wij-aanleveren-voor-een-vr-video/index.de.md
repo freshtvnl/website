@@ -1,12 +1,12 @@
 ---
-title: "Wat moeten wij aanleveren voor een VR video? "
-slug: "wat-moeten-wij-aanleveren-voor-een-vr-video"
+title: Was müssen wir für ein VR-Video liefern?
+slug: Was müssen wir für ein VR-Video liefern
 draft: false
 faq:
-  question: "Wat moeten wij aanleveren voor een VR video? "
-  answer: "Allereerst jullie meest gave ideeën, op basis hiervan gaan we kijken
-    wat mogelijk is. Hebben jullie een specifiek object wat jullie willen
-    uitlichten? Dan hebben een 3D-model nodig. "
+  question: Was müssen wir für ein VR-Video liefern?
+  answer: Zunächst einmal Ihre coolsten Ideen, auf dieser Basis werden wir sehen,
+    was möglich ist. Haben Sie ein bestimmtes Objekt, das Sie hervorheben
+    möchten? Dann brauchen wir ein 3D-Modell.
 seo:
   noindex: true
 ---
