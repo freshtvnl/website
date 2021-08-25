@@ -1,6 +1,6 @@
 ---
 title: "In welke kwaliteit ontvang ik mijn drone video? "
-slug: "in-welke-kwaliteit-ontvang-ik-mijn-drone-video"
+slug: in-welke-kwaliteit-ontvang-ik-mijn-drone-video
 draft: false
 image:
   alt: ""
