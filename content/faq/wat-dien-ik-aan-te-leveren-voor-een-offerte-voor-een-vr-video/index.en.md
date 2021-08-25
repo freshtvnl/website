@@ -1,6 +1,6 @@
 ---
 title: "Wat dien ik aan te leveren voor een offerte voor een VR video? "
-slug: "wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-vr-video"
+slug: wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-vr-video
 draft: false
 faq:
   question: "Wat dien ik aan te leveren voor een offerte voor een VR video? "
