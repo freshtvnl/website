@@ -1,14 +1,14 @@
 ---
-title: Hoeveel aanpassingen mogen wij maken tijdens het traject? (vr)
-slug: hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
+title: Wie viele Anpassungen können wir während des Projekts vornehmen? (VR)
+slug: Wie viele Anpassungen können wir während des Projekts vornehmen vr
 draft: false
 faq:
-  question: "Hoeveel aanpassingen mogen wij maken tijdens het traject? "
-  answer: Binnen is één feedbackronde opgenomen, waarin de opdrachtgever feedback
-    geeft op de aangeleverde conceptversie. Onze processen zijn zo ingericht dat
-    we tussentijds verwachtingen en mogelijke kortsluiten. Op deze manier zorgen
-    wij dat onze conceptversie zo dicht mogelijk tegen een definitieve versie
-    aanzit.
+  question: Wie viele Anpassungen können wir während des Projekts vornehmen? (VR)
+  answer: Eine Feedback-Runde ist inbegriffen, in der der Auftraggeber Feedback
+    zur gelieferten Konzeptversion gibt. Unsere Prozesse sind so angelegt, dass
+    wir die Erwartungen und Möglichkeiten kurzschließen. Auf diese Weise stellen
+    wir sicher, dass unsere Konzeptversion so nah wie möglich an einer
+    endgültigen Version ist.
 seo:
   noindex: true
 ---
