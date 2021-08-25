@@ -1,10 +1,10 @@
 ---
-title: Met hoeveel mensen komen jullie filmen? (vr)
-slug: met-hoeveel-mensen-komen-jullie-filmen-vr
+title: Mit wie vielen Personen werden Sie filmen?
+slug: Mit wie vielen Personen werden Sie filmen
 draft: false
 faq:
-  question: "Met hoeveel mensen komen jullie filmen? "
-  answer: Wij komen filmen met een crew van 2 of 3 man
+  question: Mit wie vielen Personen werden Sie filmen?
+  answer: Wir kommen zum Filmen mit einer Crew von 2 oder 3 Personen.
 seo:
   noindex: true
 ---
