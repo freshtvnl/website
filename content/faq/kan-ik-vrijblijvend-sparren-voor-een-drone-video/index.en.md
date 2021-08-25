@@ -1,6 +1,6 @@
 ---
 title: "Kan ik vrijblijvend sparren voor een drone video? "
-slug: "kan-ik-vrijblijvend-sparren-voor-een-drone-video"
+slug: kan-ik-vrijblijvend-sparren-voor-een-drone-video
 draft: false
 faq:
   question: "Kan ik vrijblijvend sparren voor een drone video? "

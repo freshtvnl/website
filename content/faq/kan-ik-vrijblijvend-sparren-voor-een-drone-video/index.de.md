@@ -1,11 +1,11 @@
 ---
-title: "Kan ik vrijblijvend sparren voor een drone video? "
-slug: "kan-ik-vrijblijvend-sparren-voor-een-drone-video"
+title: Kann ich mit Ihnen Sparring für ein Drohnenvideo machen?
+slug: Kann ich mit Ihnen Sparring für ein Drohnenvideo machen
 draft: false
 faq:
-  question: "Kan ik vrijblijvend sparren voor een drone video? "
-  answer: Ja. Wij gaan graag vrijblijvend met je in gesprek om samen met jou uit
-    te zoeken waar jij het best mee geholpen bent.
+  question: Kann ich mit Ihnen Sparring für ein Drohnenvideo machen?
+  answer: Ja, das können Sie. Wir sprechen gerne mit Ihnen, um herauszufinden, was
+    für Sie am besten geeignet ist.
 seo:
   noindex: true
 ---
