@@ -1,11 +1,11 @@
 ---
-title: "Hoe gaan jullie te werk met een VR video? "
-slug: "hoe-gaan-jullie-te-werk-met-een-vr-video"
+title: Wie arbeiten Sie mit einem VR-Video?
+slug: Wie arbeiten Sie mit einem VR-Video
 draft: false
 faq:
-  answer: Wij maken VR-Films Cinema en Unreal. Dit is software die ons in staat
-    stel om de meest waanzinnige VR-omgevingen te maken.
-  question: "Hoe gaan jullie te werk met een VR video? "
+  answer: Wir machen VR-Filme in Cinema und Unreal. Das ist eine Software, mit der
+    wir die erstaunlichsten VR-Umgebungen erstellen können.
+  question: Wie arbeiten Sie mit einem VR-Video?
 seo:
   noindex: true
 ---
