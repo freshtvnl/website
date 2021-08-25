@@ -1,6 +1,6 @@
 ---
 title: "Moet ik zelf de ideeën aanleveren voor de drone video? "
-slug: "moet-ik-zelf-de-ideeen-aanleveren-voor-de-drone-video"
+slug: moet-ik-zelf-de-ideeen-aanleveren-voor-de-drone-video
 draft: false
 faq:
   question: "Moet ik zelf de ideeën aanleveren voor de drone video? "
