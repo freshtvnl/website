@@ -1,6 +1,6 @@
 ---
 title: "Wat is de beste lengte voor een drone video? "
-slug: "wat-is-de-beste-lengte-voor-een-drone-video"
+slug: wat-is-de-beste-lengte-voor-een-drone-video
 draft: false
 faq:
   question: "Wat is de beste lengte voor een drone video? "

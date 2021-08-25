@@ -1,15 +1,15 @@
 ---
-title: "Wat is de beste lengte voor een drone video? "
-slug: "wat-is-de-beste-lengte-voor-een-drone-video"
+title: Was ist die beste Länge für ein Drohnenvideo?
+slug: Was ist die beste Länge für ein Drohnenvideo
 draft: false
 faq:
-  question: "Wat is de beste lengte voor een drone video? "
-  answer: De lengte van een video is afhankelijk van het publiek dat je wilt
-    aanspreken en de boodschap die je wilt overbrengen. Voor commerciële
-    boodschappen voor een grotendeels koud publiek raden we aan om een pakkende
-    video van rond de één minuut te maken. Afhankelijk van wat jouw
-    doelstelling, boodschap en publiek is adviseren wij je wat wel of niet
-    werkt.
+  question: Was ist die beste Länge für ein Drohnenvideo?
+  answer: Die Länge eines Videos hängt von der Zielgruppe ab, die Sie ansprechen
+    möchten, und von der Botschaft, die Sie vermitteln wollen. Für
+    Werbebotschaften für ein weitgehend kaltes Publikum empfehlen wir ein
+    einprägsames Video von etwa einer Minute Länge. Abhängig von Ihrem Ziel,
+    Ihrer Botschaft und Ihrer Zielgruppe beraten wir Sie, was funktionieren wird
+    und was nicht.
 seo:
   noindex: true
 ---
