@@ -1,10 +1,10 @@
 ---
-title: "In welke kwaliteit ontvang ik de VR video? "
-slug: "in-welke-kwaliteit-ontvang-ik-de-vr-video"
+title: In welcher Qualität werde ich das VR-Video erhalten?
+slug: In welcher Qualität werde ich das VR-Video erhalten
 draft: false
 faq:
-  question: "In welke kwaliteit ontvang ik de VR video? "
-  answer: "Onze VR-video's worden opgeleverd in een resolutie van 4K Ultra HD Raw. "
+  question: In welcher Qualität werde ich das VR-Video erhalten?
+  answer: Unsere VR-Videos werden in einer Auflösung von 4K Ultra HD Raw geliefert.
 seo:
   noindex: true
 ---
