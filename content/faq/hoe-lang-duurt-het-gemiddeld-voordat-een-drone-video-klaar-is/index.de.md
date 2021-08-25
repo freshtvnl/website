@@ -1,14 +1,14 @@
 ---
-title: "Hoe lang duurt het gemiddeld voordat een drone video klaar is? "
-slug: "hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is"
+title: Wie lange dauert es im Durchschnitt, ein Drohnenvideo fertigzustellen?
+slug: Wie lange dauert es im Durchschnitt, ein Drohnenvideo fertigzustellen
 draft: false
 faq:
-  question: "Hoe lang duurt het gemiddeld voordat een drone video klaar is? "
-  answer: Gemiddeld is de doorlooptijd van een film 1 maand. Maar het is ook zeker
-    mogelijk om producties in twee weken of zelfs één week te realiseren. Alles
-    valt en staat bij goede communicatie en heldere afspraken. Indien je een
-    spoedklus hebt, kan je altijd vrijblijvend bellen om te kijken of dit
-    haalbaar is.
+  question: Wie lange dauert es im Durchschnitt, ein Drohnenvideo fertigzustellen?
+  answer: Im Durchschnitt beträgt die Durchlaufzeit für einen Film einen Monat. Es
+    ist aber auch möglich, Produktionen in zwei Wochen oder sogar in einer Woche
+    zu realisieren. Alles hängt von guter Kommunikation und klaren
+    Vereinbarungen ab. Wenn Sie einen Eilauftrag haben, können Sie uns jederzeit
+    anrufen, um zu sehen, ob dies machbar ist.
 seo:
   noindex: true
 ---
