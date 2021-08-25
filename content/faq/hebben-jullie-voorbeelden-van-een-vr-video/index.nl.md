@@ -1,6 +1,6 @@
 ---
 title: "Hebben jullie voorbeelden van een VR video? "
-slug: "hebben-jullie-voorbeelden-van-een-vr-video"
+slug: hebben-jullie-voorbeelden-van-een-vr-video
 draft: false
 faq:
   question: "Hebben jullie voorbeelden van een VR video? "

@@ -1,11 +1,11 @@
 ---
-title: "Hebben jullie voorbeelden van een VR video? "
-slug: "hebben-jullie-voorbeelden-van-een-vr-video"
+title: Haben Sie Beispiele für ein VR-Video?
+slug: Haben Sie Beispiele für ein VR-Video
 draft: false
 faq:
-  question: "Hebben jullie voorbeelden van een VR video? "
-  answer: Zeker hebben wij voorbeelden! Bekijk ze via [deze
-    pagina](https://www.philenflo.nl/portfolio/).
+  question: Haben Sie Beispiele für ein VR-Video?
+  answer: Sicher haben wir Beispiele! Sehen Sie sich diese auf [dieser
+    Seite](philundflo.de/portfolio) an.
 seo:
   noindex: true
 ---
