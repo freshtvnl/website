@@ -1,12 +1,12 @@
 ---
-title: "Wat is de productietijd van een VR video? "
-slug: "wat-is-de-productietijd-van-een-vr-video"
+title: Wie lange ist die Produktionszeit für ein VR-Video?
+slug: Wie lange ist die Produktionszeit für ein VR-Video
 draft: false
 faq:
-  question: "Wat is de productietijd van een VR video? "
-  answer: "De productietijd is afhankelijk van de complexiteit van de VR-omgeving.
-    De gemiddelde is vier weken. Als je een strakke deadline hebt, gaan we
-    uiteraard kijken of deze kunnen halen. "
+  question: Wie lange ist die Produktionszeit für ein VR-Video?
+  answer: Die Produktionszeit hängt von der Komplexität der VR-Umgebung ab. Der
+    Durchschnitt liegt bei vier Wochen. Wenn Sie einen engen Termin haben,
+    werden wir natürlich sehen, ob wir ihn einhalten können.
 seo:
   noindex: true
 ---
