@@ -21,8 +21,8 @@ blocks:
       bent in deze stroom, val je bij voorbaat al af.
     displaymedia: image
     image:
-      source: images/schermafbeelding-2021-08-26-om-11.14.23.png
-      alt: Constructie Bouw Animatie 3D
+      source: images/schermafbeelding-2021-08-26-om-11.20.57.png
+      alt: Drone Shot Nieuwbouwwijk
   - type: content_block
     video:
       autoplay: true
@@ -47,10 +47,11 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Een film kan verdraaid handig zijn. Geen urenlange presentaties meer om
-      je doelgroep te overtuigen of om de juiste vergunningen te krijgen. Een
-      project gedraaid waar jij en je organisatie trots op zijn?. Gebruik die
-      projecten om je organisatie in een juist daglicht te zetten.
+    content: >-
+      ## Wees overtuigend
+
+
+      Een film kan verdraaid handig zijn. Geen urenlange presentaties meer om je doelgroep te overtuigen of om de juiste vergunningen te krijgen. Een project gedraaid waar jij en je organisatie trots op zijn? Gebruik die projecten om je organisatie in een juist daglicht te zetten.
     align: left
     displaymedia: youtube_video
     youtube:
