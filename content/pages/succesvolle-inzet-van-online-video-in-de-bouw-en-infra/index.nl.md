@@ -44,6 +44,8 @@ blocks:
 
 
       Als marketeer of ondernemer ben je soms lang bezig met het uitleggen van je idee aan het grote publiek. Op zoek naar kopers of investeerders? Een projectfilm helpt je hierbij. Wanneer je een project hebt dat meer aandacht nodig heeft, maak je een film. Hoe wij dit aanpakken? We achterhalen de unieke identiteit, en brengen dit in beeld op een manier die past bij je doelstellingen.
+    youtube:
+      id: hQcg4M4nmDk
   - type: content_block
     video:
       autoplay: true
@@ -82,13 +84,13 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+  - type: contact_block
+    contacts:
+      - victor
   - type: selectedwork_block
     more_items: false
     items:
       - Van Wijnen
       - OIO systems
       - Elsun Zonnepanelen
-  - type: contact_block
-    contacts:
-      - victor
 ---
