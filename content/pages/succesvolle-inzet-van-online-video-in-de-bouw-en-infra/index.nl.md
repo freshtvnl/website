@@ -38,7 +38,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Projectvisualisatie
 
@@ -67,4 +67,29 @@ blocks:
   - type: contact_block
     contacts:
       - victor
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      Aantrekken van nieuw personeel
+
+
+      De arbeidsmarkt is krap, daar weet de bouw- en infrasector alles van. Al jaren is het voor sommige functiegebieden lastig om de juiste invulling te vinden. Aan de andere kant, ben je goed zichtbaar? En communiceer je de onderscheidende aspecten die jij als werkgever te bieden hebt? Door de juiste inzet van video zorg je dat je zichtbaar bent voor jouw doelgroep. Phil & Flo biedt expertise, plan een sessie in om hierover te praten.
+
+
+
+
+      Oosterhof Holman
+
+
+
+
+      Film of animatie maken moeilijk?
+
+
+      Welnee, wij nemen je al het werk uit handen.
+  - type: content_block
+    video:
+      autoplay: true
 ---
