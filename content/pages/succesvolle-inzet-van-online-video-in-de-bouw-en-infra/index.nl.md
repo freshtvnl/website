@@ -1,6 +1,6 @@
 ---
 title: Succesvolle inzet van online video in de Bouw- en Infra
-slug: bouweninfra
+slug: bouw-infra
 draft: true
 image:
   source: images/schermafbeelding-2021-08-26-om-11.20.57.png
