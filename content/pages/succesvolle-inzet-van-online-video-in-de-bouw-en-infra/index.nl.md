@@ -87,6 +87,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: ""
+    cta:
+      url: https://www.philenflo.nl/30-minuten/
+      text: Vrijblijvende Sessie
+      type: button
   - type: content_block
     video:
       autoplay: true
