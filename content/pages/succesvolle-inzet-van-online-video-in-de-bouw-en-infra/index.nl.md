@@ -81,6 +81,9 @@ blocks:
       ***Film of animatie maken moeilijk?***\
 
       Welnee, wij nemen je al het werk uit handen.
+    displaymedia: youtube_video
+    youtube:
+      id: 9q3W_1qeImc
   - type: content_block
     video:
       autoplay: true
