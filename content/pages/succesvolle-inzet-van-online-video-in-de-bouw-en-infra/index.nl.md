@@ -3,7 +3,7 @@ title: Succesvolle inzet van online video in de Bouw- en Infra
 slug: bouw-infra
 draft: false
 image:
-  source: images/schermafbeelding-2021-08-26-om-11.20.57.png
+  source: images/schermafbeelding-2021-08-26-om-14.43.15.png
   alt: Drone shot Van Woonwijk
 color: blue
 blocks:
