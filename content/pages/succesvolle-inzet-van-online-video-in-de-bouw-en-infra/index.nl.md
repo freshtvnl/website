@@ -64,4 +64,7 @@ blocks:
 
 
       Wanneer je niet achter de troepen aanloopt wil je dit laten zien. Wil jij meer doen aan je externe communicatie? Laten we een keer sparren over hoe we dit voor jouw organisatie kunnen doen. Voor ieder doel is er een effectief concept. Wat zijn jouw plannen en ambities de komende jaren?
+  - type: contact_block
+    contacts:
+      - victor
 ---
