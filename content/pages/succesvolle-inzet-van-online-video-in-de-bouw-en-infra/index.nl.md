@@ -23,4 +23,36 @@ blocks:
     image:
       source: images/schermafbeelding-2021-08-26-om-11.14.23.png
       alt: Constructie Bouw Animatie 3D
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Productcommunicatie
+
+
+      Innovaties drijven de bouw. De boer op met nieuwe producten kan knap lastig zijn. Je speelt in op een nieuwe behoefte. Soms is de doelgroep zichzelf nog niet eens bewust van de voordelen die jouw product te bieden heeft, of de markt is er gewoon nog niet klaar voor. Wij helpen je nog meer mensen te inspireren en te stimuleren om zaken te doen. We maken je product laagdrempelig en toegankelijk voor het juiste publiek.
+    displaymedia: youtube_video
+    youtube:
+      id: https://youtu.be/vpbIQmnsn6s
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Projectvisualisatie
+
+
+      Als marketeer of ondernemer ben je soms lang bezig met het uitleggen van je idee aan het grote publiek. Op zoek naar kopers of investeerders? Een projectfilm helpt je hierbij. Wanneer je een project hebt dat meer aandacht nodig heeft, maak je een film. Hoe wij dit aanpakken? We achterhalen de unieke identiteit, en brengen dit in beeld op een manier die past bij je doelstellingen.
+  - type: content_block
+    video:
+      autoplay: true
+    content: Een film kan verdraaid handig zijn. Geen urenlange presentaties meer om
+      je doelgroep te overtuigen of om de juiste vergunningen te krijgen. Een
+      project gedraaid waar jij en je organisatie trots op zijn?. Gebruik die
+      projecten om je organisatie in een juist daglicht te zetten.
+    align: left
+    displaymedia: youtube_video
+    youtube:
+      id: https://youtu.be/9q3W_1qeImc
 ---
