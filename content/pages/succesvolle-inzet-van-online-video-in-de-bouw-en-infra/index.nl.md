@@ -84,4 +84,10 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+  - type: selectedwork_block
+    more_items: false
+    items:
+      - Van Wijnen
+      - OIO systems
+      - Elsun Zonnepanelen
 ---
