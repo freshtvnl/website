@@ -57,7 +57,7 @@ blocks:
     align: left
     displaymedia: youtube_video
     youtube:
-      id: 9q3W_1qeImc
+      id: gMuDETPCo50
   - type: content_block
     video:
       autoplay: true
