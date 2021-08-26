@@ -34,7 +34,7 @@ blocks:
       Innovaties drijven de bouw. De boer op met nieuwe producten kan knap lastig zijn. Je speelt in op een nieuwe behoefte. Soms is de doelgroep zichzelf nog niet eens bewust van de voordelen die jouw product te bieden heeft, of de markt is er gewoon nog niet klaar voor. Wij helpen je nog meer mensen te inspireren en te stimuleren om zaken te doen. We maken je product laagdrempelig en toegankelijk voor het juiste publiek.
     displaymedia: youtube_video
     youtube:
-      id: https://youtu.be/vpbIQmnsn6s
+      id: vpbIQmnsn6s
   - type: content_block
     video:
       autoplay: true
