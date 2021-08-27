@@ -2,6 +2,10 @@
 title: Bedrijfsfilm laten maken van a tot z
 slug: bedrijfsfilm-laten-maken-van-a-tot-z
 draft: false
+image:
+  source: images/draaidag-bedrijfsfilm-kopie.jpg
+  alt: Bedrijfsfilm laten maken op locatie
+author: sebastiaan
 date: 2021-06-18T10:47:25.471Z
 color: blue
 seo:
