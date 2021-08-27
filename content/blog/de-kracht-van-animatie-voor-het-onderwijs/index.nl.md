@@ -12,6 +12,7 @@ seo:
   title: "De kracht van animatie in het onderwijs | Phil & Flo | Blog "
   description: Waarom zou je als onderwijsinstelling kiezen voor animatie? Deze
     vraag kent een uitgebreid antwoord. Lees het hier.
+  image: images/onderwijs-animatie.jpg
 ---
 Waarom zou je als onderwijsinstelling kiezen voor animatie? Deze vraag kent een uitgebreid antwoord die je in deze blog kunt lezen. Dat animatie een steeds grotere rol speelt in de didactiek is in ieder geval iets wat als een paal boven water staat.
 
