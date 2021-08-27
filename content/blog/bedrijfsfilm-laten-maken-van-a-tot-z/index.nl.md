@@ -1,5 +1,5 @@
 ---
-title: Bedrijfsfilm laten maken van a tot z
+title: Een bedrijfsfilm laten maken van A tot Z
 slug: bedrijfsfilm-laten-maken-van-a-tot-z
 draft: false
 image:
@@ -27,7 +27,7 @@ Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en we
 
 Met alle input gaat een ervaren scriptschrijver aan de slag om jouw wensen te vertalen in een bondig, pakkend verhaal. Indien er interviews worden afgenomen dan worden de vragen aan de hand van de verzamelde input silm geformuleerd. Bij het maken van het script of de interviewvragen wordt al rekening gehouden met het beeld. Je vertelt je verhaal namelijk op twee manieren. Via beeld en via gesproken woord. Een goede samenhang tussen deze twee is van belang. Een draaiboek bevat daarom niet alleen het script of de interview vragen, maar ook een planning van welke beelden waar en met wie geschoten worden. Zodra de eerste versie van het draaiboek af is, kan jij feedback geven. Zo kom je samen tot een definitief draaiboek voor jouw corporate film.
 
-## Voorbereiding draaidag
+## Voorbereiding draaidag (filmdag)
 
 Een filmexpert, zoals bijvoorbeeld Phil & Flo, helpt je om de draaidag zo goed als mogelijk voor te bereiden. De filmlocaties zijn opgeruimd, en de betrokkenen weten wie waar en wanneer moet zijn. Een goede voorbereiding bespaart veel tijd. Zo haal je het maximale uit een draaidag.
 
