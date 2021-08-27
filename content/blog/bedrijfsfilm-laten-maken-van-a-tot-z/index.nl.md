@@ -17,7 +17,7 @@ Elke creatieve productie start met een idee of wens. Vervolgens kan je op zoek g
 
 Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en wensen voor jouw bedrijfsfilm. Een belangrijke keuze is of je werknemers aan het woord wilt laten middels interviews, of liever een professionele stemacteur inzet om je verhaal over te brengen. Vaak bekijk je op voorhand of tijdens de sessie inspirerende voorbeelden die je met het team bespreekt, maar ook bespreek je wat voor stem het beste jouw verhaal kan vertellen, ideeën voor specifieke scènes, en kernwoorden die je belangrijk vindt om in het script of interview terug te zien. Als je samenwerkt met een professionele partij, dan zullen zij jou de juiste vragen stellen om te komen tot de kern van jouw [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/).
 
-![Creatieve sessie bedrijfsvideo](images/creatieve-sessie-video.jpg)
+![Creatieve sessie bedrijfsvideo](images/creatieve-sessie-video-kopie.jpg)
 
 ## Draaiboek voor een corporate film
 
@@ -31,13 +31,13 @@ Een filmexpert, zoals bijvoorbeeld Phil & Flo, helpt je om de draaidag zo goed a
 
 De draaidag wordt door onze klanten vaak als een spannende maar leuke dag ervaren. Alles is gepland en voorbereid. De filmcrew schiet volgens planning de benodigde shots en neemt de interviews af. Om goed te interviewen, maken wij gebruik van allerlei slimme trucjes om jou op je gemak te laten voelen, en op die manier zulk spontaan en goed mogelijke antwoorden te krijgen. Als de draaidag erop zit, is het tijd voor de montage.
 
-![Draaidag bedrijfsfilm](images/draaidag-bedrijfsfilm.jpg)
+![Draaidag bedrijfsfilm](images/draaidag-bedrijfsfilm-kopie.jpg)
 
 ## Montage van de bedrijfsfilm
 
 Een ervaren editor monteert jouw film aan de hand van het goed gekeurde draaiboek. De beste shots en interviewantwoorden gekozen. Alles met het doel van de film in acht genomen. Een uitgebreide kleuren- en audio correctie zorgt ervoor dat jouw 4K bedrijfsfilm lang en duurzaam inzetbaar is. Uiteraard kan je feedback geven op de gemonteerde film. Zo kom je samen met de experts tot het beste resultaat.
 
-![Bedrijfsvideo monteren](images/video-editen.jpg)
+![Bedrijfsvideo monteren](images/video-editen-kopie.jpg)
 
 ## Succes boeken met een corporate film
 
