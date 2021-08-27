@@ -243,6 +243,7 @@ title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 slug: animatie-passend-bedrijf
 image:
   source: images/3d-animatie-laten-maken-blog.jpg
+  alt: 3D render van huis op electriciteitsnet Alfen
 author: peter-de-graaf
 date: 2021-05-14T10:06:25.050Z
 seo:
@@ -266,7 +267,7 @@ Het grootste voordeel van [3-dimensionale animaties](https://www.philenflo.nl/3-
 
 Als je net die extra stap wilt zetten om je te onderscheiden van je concurrentie, dan is 3D animatie zeker het overwegen waard. Hieronder lees je interessante feitjes die je wellicht inspireren om te kiezen voor een 3D animatie.
 
-![3D animatie ](images/sport-spray-3d-animatie.jpg)
+![3D animatie fiets](images/sport-spray-3d-animatie.jpg)
 
 ### Mogelijkheden van 3D animatie voor game industrie
 
