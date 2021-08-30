@@ -146,8 +146,7 @@ blocks:
     contacts:
       - sophie
 seo:
-  title: Animatiefilm Laten Maken - Say Yes to Team Phil en Flo
+  title: Animatiefilm Laten Maken - Phil & Flo Wij verbeelden de wereld van morgen
   description: Ook een succesvolle animatiefilm laten maken? Ons specialistische
-    team produceert de animatiefilm die past bij je organisatie! Bel ons nu, of
-    straks...
+    team produceert de animatiefilm die past bij je organisatie! Bel ons nu.
 ---
