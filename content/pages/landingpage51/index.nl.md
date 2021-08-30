@@ -12,7 +12,7 @@ blocks:
       # Een effectieve ***animatiefilm*** laten maken
 
 
-      Animaties zijn er in vele soorten en maten, maar hebben allemaal een gelijksoortig doel: het helder en effectief overbrengen van een boodschap. Een animatiefilm is een fantastische manier om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te leggen, of een proces te illustreren. Phil & Flo maakt professionele animaties voor al deze doeleinden. Onze animatiefilms zijn creatief, divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over dan je met alleen tekst bereikt.
+      Animaties zijn er in vele soorten en maten, zoals [2D](https://www.philenflo.nl/2d-animatie/) en [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), maar hebben allemaal een gelijksoortig doel: het helder en effectief overbrengen van een boodschap. Een animatiefilm is een fantastische manier om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te leggen, of een proces te illustreren. Phil & Flo maakt professionele animaties voor al deze doeleinden. Onze animatiefilms zijn creatief, divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over dan je met alleen tekst bereikt.
   - type: content_block
     align: left
     content: >-
