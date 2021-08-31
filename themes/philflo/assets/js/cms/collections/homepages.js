@@ -1,11 +1,31 @@
 import { image } from "../partials/image"
-import { base } from "../partials/base"
 import { seo } from "../partials/seo"
 import { blocks } from "../blocks/index"
 import { brandcolors } from "../partials/brandcolors"
 
 const fields = [
-  ...base,
+  {
+    label: 'Title',
+    name: 'title',
+    widget: 'string',
+    required: false,
+    i18n: true
+  },
+  {
+    label: 'Weight',
+    name: 'weight',
+    widget: 'number',
+    required: false,
+    i18n: true
+  },
+  {
+    label: "Draft",
+    name: "draft",
+    widget: "boolean",
+    required: false,
+    default: true,
+    i18n: true
+  },
   image,
   {
     label: 'Function',
