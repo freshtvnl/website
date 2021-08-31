@@ -15,7 +15,7 @@
 {{ with .Title }}
   {{ $caption = . | safeHTML }}
 {{ end }}
-<picture class="block lg:my-20 lg:scale-125 xl:scale-150 xl:my-40 ">
+<picture class="block ">
     <source type="image/webp" srcset="{{ $smallWebp.RelPermalink }} 480w, {{ $mediumWebp.RelPermalink }} 768w, {{ $bigWebp.RelPermalink }} 1024w">
     <img src="{{ $image.RelPermalink }}"
       width="{{ $image.Width }}"
