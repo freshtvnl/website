@@ -1,0 +1,31 @@
+{{ $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
+
+{{ if $image }}
+
+{{ $small := $image.Resize "480x" }}
+{{ $medium := $image.Resize "768x" }}
+{{ $big := $image.Resize "1024x" }}
+
+{{ $smallWebp := $image.Resize "480x q85 webp" }}
+{{ $mediumWebp := $image.Resize "768x q85 webp" }}
+{{ $bigWebp := $image.Resize "1200x q85 webp" }}
+
+{{ $alt := .PlainText | safeHTML }}
+{{ $caption := "" }}
+{{ with .Title }}
+  {{ $caption = . | safeHTML }}
+{{ end }}
+<picture class="block lg:my-20 lg:scale-125 xl:scale-150 xl:my-40 ">
+    <source type="image/webp" srcset="{{ $smallWebp.RelPermalink }} 480w, {{ $mediumWebp.RelPermalink }} 768w, {{ $bigWebp.RelPermalink }} 1024w">
+    <img src="{{ $image.RelPermalink }}"
+      width="{{ $image.Width }}"
+      height="{{ $image.Height }}"
+      alt="{{ if $alt }}{{ $alt }}{{ else if $caption }}{{ $caption | markdownify | plainify }}{{ else }}&nbsp;{{ end }}"
+      title="{{ if $alt }}{{ $alt }}{{ else if $caption }}{{ $caption | markdownify | plainify }}{{ else }}&nbsp;{{ end }}"
+      loading="lazy"
+      >
+  {{ with $caption }}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{ end }}
+</picture>
+{{ end }}

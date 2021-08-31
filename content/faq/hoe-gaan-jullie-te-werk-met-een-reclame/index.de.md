@@ -1,6 +1,9 @@
 ---
-title: Wie gehen Sie bei der Erstellung einer Anzeige vor?
-slug: Wie gehen Sie bei der Erstellung einer Anzeige vor
+title: "Hoe gaan jullie te werk met een reclame? "
+slug: "hoe-gaan-jullie-te-werk-met-een-reclame "
+draft: false
 faq:
-  question: Wie gehen Sie bei der Erstellung einer Anzeige vor?
+  question: "Hoe gaan jullie te werk met een reclame? "
+seo:
+  noindex: true
 ---
