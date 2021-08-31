@@ -64,7 +64,7 @@ blocks:
       ## 2D animatie laten maken bij Phil & Flo
 
 
-      De specialisten van Phil & Flo adviseren je graag over welke vorm van videomarketing geschikt is voor jou. Wij zijn thuis in allerlei videoproducties zoals bedrijfsfilms, employer branding, 3D- en 2D-animatie. We hebben getalenteerde animators die voor jou een aansprekend filmpje kunnen maken waarin je in stijlvolle 2D-animatie je boodschap kunt overbrengen.
+      De specialisten van Phil & Flo adviseren je graag over welke vorm van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) geschikt is voor jou. Wij zijn thuis in allerlei videoproducties zoals [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), 3D- en 2D-animatie. We hebben getalenteerde animators die voor jou een aansprekend filmpje kunnen maken waarin je in stijlvolle 2D-animatie je boodschap kunt overbrengen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
@@ -75,7 +75,7 @@ blocks:
       ## Vandaag nog alles weten over ***2D animaties***?
 
 
-      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
+      Je kunt deze animaties allemaal bekijken in ons [online portfolio](https://www.philenflo.nl/portfolio/). Zo krijg je een goed idee van wat we kunnen en vind je inspiratie voor je eigen [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
@@ -97,7 +97,7 @@ blocks:
     contacts:
       - sophie
 seo:
-  title: 2D animatie laten maken | Phil & Flo Videomarketing
+  title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | Onderscheidende content ✔
-    Uniek en datagedreven ✔ Op maat en prachtig design. Bel onze specialisten
+    Uniek en datagedreven ✔ Op maat en prachtig design. Bel de specialisten
 ---
