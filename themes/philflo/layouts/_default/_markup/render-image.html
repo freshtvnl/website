@@ -5,16 +5,34 @@
 {{ $small := $image.Resize "480x" }}
 {{ $medium := $image.Resize "768x" }}
 {{ $big := $image.Resize "1024x" }}
-
 {{ $smallWebp := $image.Resize "480x q85 webp" }}
 {{ $mediumWebp := $image.Resize "768x q85 webp" }}
 {{ $bigWebp := $image.Resize "1200x q85 webp" }}
+
+{{ with $image.Exif  }}
+
+  {{ with .Tags.Orientation  }}
+
+    {{ if eq . 6}}
+      
+      {{ $small = $image.Resize "480x r270 " }}
+      {{ $medium = $image.Resize "768x r270 " }}
+      {{ $big = $image.Resize "1024x r270 " }}
+      {{ $smallWebp = $image.Resize "480x r270 q85 webp " }}
+      {{ $mediumWebp = $image.Resize "768x r270 q85 webp " }}
+      {{ $bigWebp = $image.Resize "1200x r270 q85 webp " }}
+
+    {{ end }}
+    
+  {{ end }}
+{{ end }}
 
 {{ $alt := .PlainText | safeHTML }}
 {{ $caption := "" }}
 {{ with .Title }}
   {{ $caption = . | safeHTML }}
 {{ end }}
+
 <picture class="block ">
     <source type="image/webp" srcset="{{ $smallWebp.RelPermalink }} 480w, {{ $mediumWebp.RelPermalink }} 768w, {{ $bigWebp.RelPermalink }} 1024w">
     <img src="{{ $image.RelPermalink }}"
