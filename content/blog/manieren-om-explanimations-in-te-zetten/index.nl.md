@@ -1,10 +1,9 @@
 ---
-title: Manieren om Explainimations in te zetten
-slug: Manieren om Explainimations in te zetten
+title: Manieren om explainimations in te zetten
+slug: Manieren om explainimations in te zetten
 draft: false
 image:
   source: images/explainer-video-voorbeeld-phil-en-flo.jpg
-author: peter-de-graaf
 date: 2021-09-06T14:12:12.423Z
 color: yellow
 ---
