@@ -1,6 +1,6 @@
 ---
-title: Manieren om explainimations in te zetten
-slug: Manieren om explainimations in te zetten
+title: Manieren om explanimations in te zetten
+slug: Manieren om explanimations in te zetten
 draft: false
 image:
   source: images/explainer-video-voorbeeld-phil-en-flo.jpg
