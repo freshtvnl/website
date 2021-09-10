@@ -4,6 +4,7 @@ title: Phil & Flo
 theme: philflo
 paginate: 100
 defaultContentLanguage: nl
+timeout: 80000
 markup:
     goldmark:
         renderer:
