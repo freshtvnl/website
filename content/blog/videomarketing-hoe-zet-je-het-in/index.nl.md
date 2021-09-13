@@ -68,18 +68,31 @@ Nu de belangrijkste elementen van het plan in kaart hebt gebracht kun je gaan ki
 Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal hebben ze een eigen toepassing en komen ze het best tot hun recht op verschillende kanalen. Er kan natuurlijk enige overlap in zitten en je kunt ook meerdere vormen op verschillende momenten inzetten.
 
 •	Branding
+
 •	Explanimations
+
 •	Educatieve video
+
 •	Employer branding
+
 •	Entertainment en inspiratie
+
 •	Branded content
+
 •	Virtual reality
+
 •	360 graden video
+
 •	Live video
+
 •	Vlogs
+
 •	Product demo's
+
 •	Testimonials
+
 •	Storytelling
+
 •	2D of 3D Animaties
 
 ![soorten video's blog](images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg)
@@ -115,9 +128,13 @@ Om de kansen op succes te maximaliseren is het zinvol om zowel organische als be
 Als je video viral gaat is het natuurlijk duidelijk dat de video een succes is. Maar als desondanks de sales uitblijven en dat was wel de bedoeling, dan niet. Ook kan het zo zijn dat video's slecht bekeken worden maar de campagne als geheel succesvol was. KPI's helpen hierbij. Belangrijke KPI's zijn bijvoorbeeld:
 
 •	Weergaven
+
 •	Weergavepercentage
+
 •	Kliks
+
 •	Websitebezoeken
+
 •	CTR
 
 De KPI's formuleer je aan de hand van de doelen. Die verschillen per video, maar hebben ook te maken de bredere marketing doelen waarvan de video content onderdeel is. Ook heb je per fase in de buyers journey te maken met een ander soort KPI. Het succes van video's voor in de awareness fase meet je anders dan wanneer het gaat om video’s voor conversie.
