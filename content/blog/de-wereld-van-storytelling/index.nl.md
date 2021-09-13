@@ -1,7 +1,7 @@
 ---
 title: De wereld van storytelling
 slug: beste voorbeelden van storytelling
-draft: true
+draft: false
 image:
   source: images/storytelling-phil-en-flo.jpg
 date: 2021-09-08T12:52:33.907Z
