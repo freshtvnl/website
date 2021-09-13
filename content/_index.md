@@ -2,11 +2,11 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: Wij verbeelden ***de wereld van morgen.***
+    title: Animatie, Film en Branding voor duurzame organisaties.
     image:
       source: phil-flo-animatie.jpg
       alt: Phil en Flo
-    content: "*Animatie - Video - Branding*"
+    content: "***Wij verbeelden de wereld van morgen***"
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
@@ -60,7 +60,6 @@ blocks:
       - coornhert-gymnasium-promotiefilm-school
       - umcg-chirurgie-employer-branding-film
     more_items: true
-
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
