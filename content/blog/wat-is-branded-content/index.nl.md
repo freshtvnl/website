@@ -1,7 +1,7 @@
 ---
 title: Wat is branded content?
 slug: Wat is branded content
-draft: true
+draft: false
 image:
   source: images/fashion-blogger-recording-new-content-for-vlog-at-833g9wp.jpg
 date: 2021-09-08T12:36:06.374Z
