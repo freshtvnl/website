@@ -4,7 +4,7 @@ slug: Manieren om explanimations in te zetten
 draft: false
 image:
   source: images/explainer-video-voorbeeld-phil-en-flo.jpg
-date: 2021-09-06T14:12:12.423Z
+date: 2021-08-30T14:12:12.423Z
 color: yellow
 seo:
   title: Manieren om een explanimation in te zetten | Phil & Flo verbeelden de
