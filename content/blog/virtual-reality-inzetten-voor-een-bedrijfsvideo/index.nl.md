@@ -6,6 +6,11 @@ image:
   source: images/vr-headset-n9f6yfe.jpg
 date: 2021-09-08T10:53:02.144Z
 color: blue
+seo:
+  title: Virtual reality inzetten voor jouw bedrijf | Phil & Flo verbeelden de
+    wereld van morgen
+  description: "Virtual reality inzetten voor jouw bedrijf? De mogelijkheden zijn
+    breed. Leer hier alles hoe jij het kan inzetten voor jouw branche. "
 ---
 Door nieuwe ontwikkelingen ontstaan nieuwe kansen. Virtual reality is zo'n innovatie waar je veel over hoort en waar je als bedrijf in de toekomst misschien wel niet meer zonder kunt.
 
