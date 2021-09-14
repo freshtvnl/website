@@ -41,11 +41,11 @@ Nog een stap verder gaat mixed reality. Dit is een techniek die augmented realit
 
 ## Verschillende toepassingen van virtual reality
 
-Je kunt je voorstellen dat dit alles oneindige creatieve mogelijkheden met zich mee brengt. Voor entertainment, games, in het onderwijs of in de zorg, maar ook voor allerlei soorten bedrijven.
+Je kunt je voorstellen dat dit alles oneindige creatieve mogelijkheden met zich mee brengt. Voor entertainment, games, in het [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) of in de [zorg](https://www.philenflo.nl/branches/zorg-pharma/), maar ook voor allerlei soorten bedrijven.
 
 Hier zijn een paar voorbeelden van toepassingen van virtual reality die interessant kunnen zijn.
 
-### Virtuele tours
+### Virtuele tours 
 
 Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. 
 
