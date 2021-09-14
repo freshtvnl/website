@@ -20,8 +20,6 @@ Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtua
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
-https://www.youtube.com/embed/0ljMPjPQjRI
-
 ## Wat is virtual reality?
 
 Eind jaren tachtig maakte de wereld voor het eerst kennis met de term virtual reality. De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
