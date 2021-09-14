@@ -4,10 +4,15 @@ slug: Wat is branded content
 draft: false
 image:
   source: images/fashion-blogger-recording-new-content-for-vlog-at-833g9wp.jpg
-date: 2021-09-08T12:36:06.374Z
+date: 2021-08-23T12:36:06.374Z
 color: green
+seo:
+  title: "Wat is branded content? | Phil & Flo verbeelden de wereld van morgen "
+  description: "Wat is branded content? In dit artikel leggen wij je wat branded
+    content is en hoe dit kunt inzetten. Phil & Flo helpt jou met een slimme
+    strategie. "
 ---
-We leven in een tijd waarin merken vechten om onze aandacht. Content is overal en prikkels zijn zo alomtegenwoordig zijn dat de gemiddelde consument er haast immuun voor is geraakt. Tv commercials, prerolls, banners, social media ads. Allemaal voorbeelden van content waarmee je mensen eerder mee verveelt dan verleidt. Tel daar de komst van adblockers bij op en er onstaat een echte uitdaging: Hoe bereik je consumenten in 2021? 
+We leven in een tijd waarin merken vechten om onze aandacht. Content is overal en prikkels zijn zo alomtegenwoordig zijn dat de gemiddelde consument er haast immuun voor is geraakt. Tv [commercials](https://www.philenflo.nl/commercial-laten-maken/), prerolls, banners, social media ads. Allemaal voorbeelden van content waarmee je mensen eerder mee verveelt dan verleidt. Tel daar de komst van adblockers bij op en er ontstaat een echte uitdaging: Hoe bereik je consumenten in 2021? 
 
 Branded content kan een oplossing zijn. Het vereist een iets andere manier van denken, maar als het goed toegepast wordt is het een effectieve manier om doelgroepen te blijven bereiken. 
 Het zou zomaar kunnen dat het in de toekomst de norm wordt.
@@ -36,7 +41,7 @@ Waarbij in traditionele vormen van adverteren de focus ligt op producten en conv
 
 ### Storytelling en emoties
 
-Branded content wordt vaak gebracht op een verhalende manier, om zo emotie op te wekken in plaats van te overtuigen met feiten. Die emoties worden daarna automatisch geassocieerd met je merk wat ervoor zorgt dat je wordt onthouden. Zo bouw je een band op met je klanten.
+Branded content wordt vaak gebracht op een verhalende manier, om zo emotie op te wekken in plaats van te overtuigen met feiten. Die emoties worden daarna automatisch geassocieerd met je merk wat ervoor zorgt dat je wordt onthouden. Zo bouw je een band op met je klanten. Lees hier meer over [storytelling](https://www.philenflo.nl/blog/beste-voorbeelden-van-storytelling/). 
 
 ### Informeren, entertainen of een statement maken
 
@@ -56,7 +61,7 @@ Het wordt gewaardeerd als je een statement maakt, maar wees authentiek en eerlij
 
 ### Makkelijk te verspreiden
 
-Branded content video's kunnen makkelijk worden verspreid. Op je eigen website, maar ook op social media of het YouTube kanaal van je bedrijf. Zo kan een goede campagne ook makkelijk viraal gaan doordat mensen het willen delen.
+Branded content video's kunnen makkelijk worden verspreid. Op je eigen website, maar ook op social media of het [YouTube](https://www.philenflo.nl/you-tube-video-laten-maken/) kanaal van je bedrijf. Zo kan een goede campagne ook makkelijk viraal gaan doordat mensen het willen delen.
 
 ### Vaak geen CTA
 
