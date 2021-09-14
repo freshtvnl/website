@@ -6,8 +6,13 @@ image:
   source: images/explainer-video-voorbeeld-phil-en-flo.jpg
 date: 2021-09-06T14:12:12.423Z
 color: yellow
+seo:
+  title: Manieren om een explanimation in te zetten | Phil & Flo verbeelden de
+    wereld van morgen
+  description: "Manieren om een explanimation in te zetten. Ontdek hier hoe een
+    animation jou kan helpen binnen jouw organisatie of bedrijf. "
 ---
-Je hoort vaak dat je als modern bedrijf niet meer zonder explainer video’s kunt. Dat klopt ook. Want met een goede animatie verander je de wereld, vertel je verhalen, verkoop je producten en kun je in potentie iedere business vooruit helpen.
+Je hoort vaak dat je als modern bedrijf niet meer zonder explainer video’s kunt. Dat klopt ook. Want met een goede [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) verander je de wereld, vertel je verhalen, verkoop je producten en kun je in potentie iedere business vooruit helpen.
 
 Maar wat zijn nu precies de beste manieren om animaties in te zetten? In dit blog leggen we uit wat explainer video's zijn en hoe je ze het best kunt gebruiken.
 
@@ -15,7 +20,7 @@ Maar wat zijn nu precies de beste manieren om animaties in te zetten? In dit blo
 
 Een explainer video is - heel simpel - een korte video van ongeveer 1 à 2 minuten waarin je iets uitlegt.
 
-Door middel van een 2D of 3D animatie, of juist een combinatie hiervan, voorzien van een goede voice over wordt bijvoorbeeld een product, proces, probleem, je nieuwe app of de nieuwe naam voor je bedrijf uitgelegd. De toon is vaak lichtvoetig en informeel, maar dit hoeft natuurlijk niet. 
+Door middel van een [2D](https://www.philenflo.nl/2d-animatie/) of [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), of juist een combinatie hiervan, voorzien van een goede voice over wordt bijvoorbeeld een product, proces, probleem, je nieuwe app of de nieuwe naam voor je bedrijf uitgelegd. De toon is vaak lichtvoetig en informeel, maar dit hoeft natuurlijk niet. 
 
 Begin met een goed verhaal. Dat is de basis. Met een verhaal raak je mensen. Niet te veel feiten of cijfers - want die vergeet je zo weer - maar verhalen, want die blijven hangen. En zijn een goede - misschien wel de beste - manier om informatie over te brengen.
 
@@ -37,7 +42,7 @@ In marketingtermen: Goed voor de brand engagement, om een boost aan je traffic t
 
 Hieronder vind je een aantal manieren waarop je als bedrijf een explainer video in kunt zetten.
 Een product, dienst of service uitleggen
-De meest voorkomende explainer video's zijn die waarin een nieuw product (of bedrijf, dienst of service) wordt uitgelegd. Jouw klanten hebben een probleem, jij lost dat op met jouw product en met een explainer video maak je dat duidelijk aan de wereld. 
+De meest voorkomende explainer video's zijn die waarin een nieuw product, bedrijf, dienst of service wordt uitgelegd. Jouw klanten hebben een probleem, jij lost dat op met jouw product en met een explainer video maak je dat duidelijk aan de wereld. 
 
 Één van de bekendste voorbeelden is dat van Dropbox. Met een simpele video op de homepage hebben zij hun conversie met 10% zien stijgen en daarmee 10 miljoen klanten binnengehaald en $48 miljoen mogen bijschrijven.*
 
@@ -49,7 +54,7 @@ Doordat video content zo makkelijk verspreid kan worden is video bij uitstek een
 
 Via de mogelijkheden die je hebt voor doelgroepsegmentatie is het makkelijk om je animatie aan de juiste ogen te laten zien. En als die het leuk vinden, is de video zo gedeeld.
 
-Een andere manier waarop explanimations kunnen worden ingezet in campagnes, is via e-mail. Iets wat steeds vaker wordt gedaan. De gemiddelde werknemer op kantoor ontvangt ongeveer 100 e-mails per dag. De kans is groter dat een email beter wordt gelezen als die voorzien is van een explainer video.
+Een andere manier waarop [explanimations](https://www.philenflo.nl/explanimation-laten-maken/) kunnen worden ingezet in campagnes, is via e-mail. Iets wat steeds vaker wordt gedaan. De gemiddelde werknemer op kantoor ontvangt ongeveer 100 e-mails per dag. De kans is groter dat een email beter wordt gelezen als die voorzien is van een explainer video.
 
 ### E-learning
 
