@@ -1,5 +1,5 @@
 ---
-title: Virtual reality inzetten voor een bedrijfsvideo
+title: Virtual reality inzetten voor een bedrijf
 slug: Virtual reality inzetten voor een bedrijfsvideo
 draft: false
 image:
