@@ -20,7 +20,7 @@ Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtua
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/0ljMPjPQjRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+`https://www.youtube.com/embed/0ljMPjPQjRI`
 
 ## Wat is virtual reality?
 
