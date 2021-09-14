@@ -20,13 +20,13 @@ Maar wat zijn nu precies de beste manieren om animaties in te zetten? In dit blo
 
 Een explainer video is - heel simpel - een korte video van ongeveer 1 à 2 minuten waarin je iets uitlegt.
 
-Door middel van een [2D](https://www.philenflo.nl/2d-animatie/) of [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), of juist een combinatie hiervan, voorzien van een goede voice over wordt bijvoorbeeld een product, proces, probleem, je nieuwe app of de nieuwe naam voor je bedrijf uitgelegd. De toon is vaak lichtvoetig en informeel, maar dit hoeft natuurlijk niet. 
+Door middel van een [2D](https://www.philenflo.nl/2d-animatie/) of [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), of juist een combinatie hiervan, voorzien van een goede [voice over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) wordt bijvoorbeeld een product, proces, probleem, je nieuwe app of de nieuwe naam voor je bedrijf uitgelegd. De toon is vaak lichtvoetig en informeel, maar dit hoeft natuurlijk niet. 
 
 Begin met een goed verhaal. Dat is de basis. Met een verhaal raak je mensen. Niet te veel feiten of cijfers - want die vergeet je zo weer - maar verhalen, want die blijven hangen. En zijn een goede - misschien wel de beste - manier om informatie over te brengen.
 
 ### En wat is een explanimation?
 
-Dat is een samenvoeging van explanation en animation en betekent eigenlijk hetzelfde, maar dan hipper verwoord. Overigens kom je ook vaak de term uitleganimatie tegen.
+Dat is een samenvoeging van explanation en animation en betekent eigenlijk hetzelfde, maar dan hipper verwoord. Overigens kom je ook vaak de term [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) tegen.
 
 ### Waarom explainer video's?
 
@@ -58,7 +58,7 @@ Een andere manier waarop [explanimations](https://www.philenflo.nl/explanimation
 
 ### E-learning
 
-In het onderwijs worden explainer video's toegepast als onderdeel van e-learning content. Bijvoorbeeld om informatie over te brengen en om de aandacht beter vast te houden en interactie met de lesstof te stimuleren. Animaties zijn bovendien makkelijk aan te passen of te wijzigen als de inhoud van de lessen verandert.
+In het onderwijs worden explainer video's toegepast als onderdeel van e-learning content. Bijvoorbeeld om informatie over te brengen en om de aandacht beter vast te houden en interactie met de lesstof te stimuleren. Animaties zijn bovendien makkelijk aan te passen of te wijzigen als de inhoud van de lessen verandert. Lees hier meer over [animatie inzetten binnen het onderwijs](https://www.philenflo.nl/blog/de-kracht-van-animatie-voor-het-onderwijs/). 
 
 ### Communicatie binnen het bedrijf
 
