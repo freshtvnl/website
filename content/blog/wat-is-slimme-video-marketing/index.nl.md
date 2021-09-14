@@ -61,4 +61,4 @@ Hoe ga je het succes van je video(‘s) en campagne meten? Stel voor jezelf doel
 
 ## Meer leren over videomarketing?
 
-Neem contact met ons op en we denk graag met je mee over de inzet van video marketing voor jouw bedrijf, dienst of product!
+Neem contact met ons op en we denk graag met je mee over de inzet van video marketing voor jouw bedrijf, dienst of product! Of lees in dit artikel meer over [de inzet van videomarketing](https://www.philenflo.nl/blog/videomarketing-hoe-zet-je-het-in/).
