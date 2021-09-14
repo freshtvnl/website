@@ -11,7 +11,7 @@ Door nieuwe ontwikkelingen ontstaan nieuwe kansen. Virtual reality is zo'n innov
 
 Virtual reality is de overtreffende trap van video. In plaats van kijker word je hoofdrolspeler en zelf onderdeel van het verhaal. Niet meer consumeren maar vooral beleven.
 
-Als bedrijf kun je virtual reality op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
+Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
@@ -21,8 +21,9 @@ Eind jaren tachtig maakte de wereld voor het eerst kennis met de term virtual re
 
 Eerder al werd er geëxperimenteerd met virtual reality achtige technieken maar virtual reality zoals we dat nu kennen - met een headset - bestaat ongeveer 35 jaar. 
 
-360 graden foto/video
-De simpelste toepassing van virtual reality is de 360 graden foto/video. Het bekendste voorbeeld is de streetview functie in Google Maps.
+### 360 graden foto/video
+
+De simpelste toepassing van virtual reality is de [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/)/foto. Het bekendste voorbeeld is de streetview functie in Google Maps.
 
 ### Augmented reality
 
@@ -30,7 +31,7 @@ Augmented reality (AR) is een variant op virtual reality. Augmented reality is h
 
 ### Virtual reality
 
-De vorm waar we hier op focussen is de volledig virtuele ervaring. Met een VR-bril op waan jezelf in een kunstmatige 3d-werkelijkheid. Die kan er realistisch uitzien of opgebouwd zijn als een geanimeerde fantasie wereld. Doordat de bril alle bewegingen registreert kun je 360 graden om je heen kijken en ben je vrij om in alle richtingen te bewegen. Zo ervaar je de 3d-omgeving als echt en kun je er ook aan deelnemen.\
+De vorm waar we hier op focussen is de volledig virtuele ervaring. Met een VR-bril op waan jezelf in een kunstmatige 3d-werkelijkheid. Die kan er realistisch uitzien of opgebouwd zijn als een geanimeerde fantasie wereld. Doordat de bril alle bewegingen registreert kun je 360 graden om je heen kijken en ben je vrij om in alle richtingen te bewegen. Zo ervaar je de 3d-omgeving als echt en kun je er ook aan deelnemen.
 
 ![Wat is VR blog](images/gay-couple-playing-video-games-with-vr-glasses-eja59se.jpg)
 
@@ -59,8 +60,10 @@ De kracht van virtual reality is dat het mensen helemaal kan meenemen in een and
 ### Virtueel winkelen
 
 Meerdere bedrijven hebben slimme toepassingen bedacht om het voor mensen makkelijk te maken om producten thuis uit te proberen. Ikea place bijvoorbeeld, een app om virtueel meubels uit te proberen, of Warby parker die een app heeft waarmee mensen brillen kunnen passen.
-Educatieve video's
-Er zijn verschillende manieren te bedenken waarop VR kan ingezet worden in educatieve (bedrijfs) video's. Er zijn al veel bedrijven die het gebruiken om medewerkers te trainen.
+
+### Educatieve video's
+
+Er zijn verschillende manieren te bedenken waarop VR kan ingezet worden in educatieve (bedrijfs-) video's. Er zijn al veel bedrijven die het gebruiken om medewerkers te trainen.
 
 Voor het geven van veiligheidstrainingen, brandoefeningen of het toelichten van hygiëne protocollen. Voor het simuleren van klantgesprekken in een virtuele omgeving of het leren besturen van verschillende soorten voertuigen: van heftruck tot vliegtuig. In het onderwijs kun je denken aan toepassingen in de auto- en motortechniek maar ook voor medische opleidingen waarbij je in een virtuele video het menselijk lichaam uitlegt.
 
