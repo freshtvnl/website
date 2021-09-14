@@ -20,6 +20,8 @@ Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtua
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/0ljMPjPQjRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
 ## Wat is virtual reality?
 
 Eind jaren tachtig maakte de wereld voor het eerst kennis met de term virtual reality. De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
@@ -50,7 +52,7 @@ Je kunt je voorstellen dat dit alles oneindige creatieve mogelijkheden met zich 
 
 Hier zijn een paar voorbeelden van toepassingen van virtual reality die interessant kunnen zijn.
 
-### Virtuele tours 
+### Virtuele tours
 
 Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. 
 
