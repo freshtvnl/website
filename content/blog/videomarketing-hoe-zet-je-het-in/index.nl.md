@@ -27,13 +27,13 @@ Maar het kan uitdagend zijn om ermee te beginnen. Want ook al leven we in een ti
 
 Hoe je het wel aanpakt? In dit artikel leggen we de basics uit.
 
-## Beginnen met video marketing
+## Beginnen met videomarketing
 
 Het belangrijkste is goede video content. Alleen voordat je dit kunt maken is wat voorwerk nodig. Zoals bij elke vorm van marketing is een goed plan het halve werk. Ook is een video maken natuurlijk niet een doel op zich maar in de meeste gevallen onderdeel van een grotere bedrijfsstrategie.
 
 ![beginnen met video marketing blog](images/laura1.jpg)
 
-### Bepaal je doelen
+### Bepaal je doelen voor videomarketing
 
 Laten we beginnen met het bepalen van de doelen. Het begint heel simpel met de vraag. Wat wil je bereiken? 
 
@@ -73,41 +73,41 @@ Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal 
 
 •	Branding.
 
-•	Explanimations.
+•	[Explanimations](https://www.philenflo.nl/explanimation-laten-maken/).
 
 •	Educatieve video.
 
-•	Employer branding.
+•	[Employer branding](https://www.philenflo.nl/oplossingen/employer-branding/).
 
-•	Entertainment en inspiratie
+•	Entertainment en inspiratie.
 
-•	Branded content
+•	[Branded content](https://www.philenflo.nl/blog/wat-is-branded-content/).
 
-•	Virtual reality
+•	[Virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/).
 
-•	360 graden video
+•	[360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/).
 
 •	Live video
 
 •	Vlogs
 
-•	Product demo's
+•	[Product demo's](https://www.philenflo.nl/3d-productvideo/).
 
-•	Testimonials
+•	Testimonials.
 
-•	Storytelling
+•	[Storytelling](https://www.philenflo.nl/blog/beste-voorbeelden-van-storytelling/).
 
-•	2D of 3D Animaties
+•	[Animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
 
 ![soorten video's blog](images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg)
 
-### Maken
+### Maken van video content 
 
 Dan komt het leukste (vinden wij). Het maken van de content. Dit kun je prima zelf doen, maar ook uitbesteden aan experts. 
 
 ### En dan?
 
-Na het maken stopt het niet. De video moet ook nog gepubliceerd worden, je doelgroep moet weten dat de video bestaat, je content moet gevonden kunnen worden, en om het succes te bepalen wil je ook weten wat er goed ging of juist niet.
+Na het maken stopt het niet. De video moet ook nog gepubliceerd worden, je doelgroep moet weten dat de video bestaat, je content moet gevonden kunnen worden en om het succes te bepalen wil je ook weten wat er goed ging of juist niet.
 
 #### Video publiceren
 
@@ -119,27 +119,27 @@ Twee onderdelen om niet te vergeten: Promotie en SEO. Net als bij andere vormen 
 
 #### SEO bij video?
 
-Denk dan aan slim gekozen titels en goed geschreven descriptions. Dit is ook bij video content belangrijk. Google beslist op basis hiervan of je video wel of niet terechtkomt in de zoekresultaten voor bepaalde keywords.
+Denk dan aan slim gekozen titels en goed geschreven descriptions. Dit is ook bij video content belangrijk. Google beslist op basis hiervan of je video wel of niet terechtkomt in de zoekresultaten voor bepaalde keywords. Daarnaast helpt de juiste bestandsnaam en ondertiteling Google de film beter begrijpen. Zo help je zoekers makkelijker jouw video te vinden. 
 
-#### Promotie
+#### Promotie van de video content
 
 Om de kansen op succes te maximaliseren is het zinvol om zowel organische als betaald verkeer in te zetten.
 
 ![Promotievideo blog](images/210325-alex-thumbnail-v1.png)
 
-#### Succes meten
+#### Succes meten van de video 
 
 Als je video viral gaat is het natuurlijk duidelijk dat de video een succes is. Maar als desondanks de sales uitblijven en dat was wel de bedoeling, dan niet. Ook kan het zo zijn dat video's slecht bekeken worden maar de campagne als geheel succesvol was. KPI's helpen hierbij. Belangrijke KPI's zijn bijvoorbeeld:
 
-•	Weergaven
+•	Weergaven.
 
-•	Weergavepercentage
+•	Weergavepercentage.
 
-•	Kliks
+•	Kliks.
 
-•	Websitebezoeken
+•	Websitebezoeken.
 
-•	CTR
+•	CTR.
 
 De KPI's formuleer je aan de hand van de doelen. Die verschillen per video, maar hebben ook te maken de bredere marketing doelen waarvan de video content onderdeel is. Ook heb je per fase in de buyers journey te maken met een ander soort KPI. Het succes van video's voor in de awareness fase meet je anders dan wanneer het gaat om video’s voor conversie.
 
@@ -147,7 +147,7 @@ Belangrijk hierbij: Houd het realistisch.
 
 ## Meer weten over video marketing?
 
-We hopen je hiermee op weg te hebben geholpen met video marketing. Benieuwd naar hoe wij het aanpakken? Laat je gegevens achter en we nemen zo snel mogelijk contact met je op. Check ook voorbeelden van werk waar we trots op zijn.
+We hopen je hiermee op weg te hebben geholpen met [video marketing](https://www.philenflo.nl/oplossingen/videomarketing/). Benieuwd naar hoe wij het aanpakken? Laat je gegevens achter en we nemen zo snel mogelijk contact met je op. Check ook voorbeelden van werk waar we trots op zijn.
 
 *https://explain.ninja/blog/20-video-marketing-statistics-2020/
 https://thriveagency.com/news/video-marketing-statistics-you-should-know-in-2021/
