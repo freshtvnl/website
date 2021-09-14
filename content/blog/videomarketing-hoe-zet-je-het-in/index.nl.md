@@ -6,6 +6,10 @@ image:
   source: images/peter.jpg
 date: 2021-09-08T07:51:57.472Z
 color: pink
+seo:
+  title: "Hoe zet je videomarkting in? | Phil & Flo verbeelden de wereld van morgen "
+  description: Hoe zet je video marketing? In dit artikel leggen wij je uit hoe
+    videomarketing effectief inzet. Lees hier meer of neem contact op.
 ---
 Video content als onderdeel van een marketing strategie? Niets nieuws onder de zon. Wat wel nieuw is, is de centrale plek die video anno 2021 inneemt binnen de marketing aanpak van veel bedrijven.
 
@@ -43,7 +47,7 @@ Doelen kunnen je makkelijk bepalen aan de hand van de buyers journey.
 
 Dit zijn alle stappen die iemand doorloopt voordat die een klant doorloopt voordat hij of zij overgaat tot een aankoop. 
 
-De eerste fase is awareness. Iemand heeft een probleem. Probleem is een brede term, maar een probleem kan zijn dat iemand nieuwe hardloop schoenen nodig heeft. Of bekeken vanuit een b2b perspectief: iemand zoekt een video productiebedrijf.
+De eerste fase is awareness. Iemand heeft een probleem. Probleem is een brede term, maar een probleem kan zijn dat iemand nieuwe hardloopschoenen nodig heeft. Of bekeken vanuit een b2b perspectief: iemand zoekt een video productiebedrijf.
 
 Vervolgens is de kans groot dat diegene online op zoek gaat naar (video) content over verschillende soorten schoenen en wat de beste schoenen zijn om op te hardlopen.
 
@@ -67,13 +71,13 @@ Nu de belangrijkste elementen van het plan in kaart hebt gebracht kun je gaan ki
 
 Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal hebben ze een eigen toepassing en komen ze het best tot hun recht op verschillende kanalen. Er kan natuurlijk enige overlap in zitten en je kunt ook meerdere vormen op verschillende momenten inzetten.
 
-•	Branding
+•	Branding.
 
-•	Explanimations
+•	Explanimations.
 
-•	Educatieve video
+•	Educatieve video.
 
-•	Employer branding
+•	Employer branding.
 
 •	Entertainment en inspiratie
 
