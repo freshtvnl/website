@@ -11,6 +11,7 @@ const fields = [
     name: 'quote',
     widget: 'object',
     i18n: true,
+    required: false,
     fields: [
       image,
       {

@@ -3,6 +3,7 @@ export const image = {
   name: 'image',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'Source',

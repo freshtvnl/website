@@ -3,6 +3,7 @@ export const seo = {
   name: 'seo',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'Meta Title',
@@ -40,6 +41,7 @@ export const seoNoIndex = {
   name: 'seo',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'No index',

@@ -5,6 +5,7 @@ export const video = {
   name: 'video',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'MP4 Video url',

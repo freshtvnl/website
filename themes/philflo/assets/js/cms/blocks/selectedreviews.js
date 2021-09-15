@@ -23,6 +23,7 @@ export const selectedreviews = {
       value_field: "slug",
       multiple: true,
       i18n: true,
+      required: false,
     },
     {
       label: "Show more items link",

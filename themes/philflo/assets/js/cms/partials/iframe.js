@@ -3,6 +3,7 @@ export const iframe = {
   name: 'iframe',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'Url',

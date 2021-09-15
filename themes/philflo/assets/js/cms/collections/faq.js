@@ -11,6 +11,7 @@ const fields = [
     name: 'faq',
     widget: 'object',
     i18n: true,
+    required: false,
     fields: [
       {
         label: 'Question',

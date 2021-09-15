@@ -6,5 +6,6 @@ export const selectedbranch = {
   search_fields: ["title"],
   display_fields: ["title"],
   value_field: "slug",
-  multiple: false
+  multiple: false,
+  required: false,
 }

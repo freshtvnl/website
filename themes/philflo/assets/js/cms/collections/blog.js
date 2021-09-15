@@ -25,7 +25,8 @@ const fields = [
     name: 'date',
     widget: 'datetime',
     required: true,
-    i18n: true
+    i18n: true,
+    required: false,
   },
   {
     label: 'Content',

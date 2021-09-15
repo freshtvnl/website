@@ -23,6 +23,7 @@ export const contact = {
       value_field: "slug",
       multiple: true,
       i18n: true,
+      required: false,
     },
   ]
 }

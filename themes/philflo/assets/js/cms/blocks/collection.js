@@ -3,7 +3,6 @@ export const collection = {
   label: "Collection block",
   name: "collection_block",
   widget: "object",
-  required: false,
   i18n: true,
   fields: [
     {

@@ -12,6 +12,7 @@ export const blocks = [
     label: 'Blocks',
     name: 'blocks',
     widget: 'list',
+    required: false,
     i18n: true,
     types: [
       hero,

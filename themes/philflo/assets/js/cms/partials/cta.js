@@ -3,6 +3,7 @@ export const cta = {
   name: 'cta',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'Url',

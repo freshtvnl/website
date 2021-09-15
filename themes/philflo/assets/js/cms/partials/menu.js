@@ -3,6 +3,7 @@ export const menu = {
   name: 'menu',
   widget: 'object',
   i18n: true,
+  required: false,
   fields: [
     {
       label: 'Main navigation',

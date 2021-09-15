@@ -4,6 +4,7 @@ export const youtube = {
   label: 'Youtube',
   name: 'youtube',
   widget: 'object',
+  required: false,
   i18n: true,
   fields: [
     {

@@ -4,6 +4,7 @@ export const contentList = {
   label: "Content list",
   name: "content_list",
   widget: "list",
+  required: false,
   fields: [
     {
       label: "Title",
