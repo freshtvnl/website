@@ -61,4 +61,7 @@ blocks:
 
 
       Ik ben benieuwd wat jij ervan vindt!
+    displaymedia: youtube_video
+    youtube:
+      id: nWdObQDYkTg
 ---
