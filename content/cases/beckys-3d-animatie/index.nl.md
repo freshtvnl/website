@@ -2,6 +2,8 @@
 title: Becky's - 3D animatie
 slug: Beckys - 3D animatie
 draft: false
+image:
+  source: images/210916-thumbnail-phil-en-flo-beckys-3d-animatie.jpg
 content_type: case
 color: red
 branch: fair-food
