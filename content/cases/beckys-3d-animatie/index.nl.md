@@ -46,7 +46,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Beckys-3d-animatie.mp4
+      source_mp4: https://video.philenflo.nl/video/Beckys-hoe-maak-je-3d-animatie.mp4
     align: left
     content: >-
       ## Workflow: van ***snoep naar 3D***
