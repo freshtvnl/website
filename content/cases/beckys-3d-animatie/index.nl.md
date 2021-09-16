@@ -21,7 +21,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Beckys-hoe-maak-je-3d-animatie.mp4
+      source_mp4: https://video.philenflo.nl/video/Beckys-3d-animatie-case.mp4
     align: left
     content: >-
       ## ***It’s a fairytale***
