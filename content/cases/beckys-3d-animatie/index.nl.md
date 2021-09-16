@@ -5,7 +5,7 @@ draft: false
 image:
   source: images/210916-thumbnail-phil-en-flo-beckys-3d-animatie.jpg
 content_type: case
-color: pink
+color: orange
 branch: fair-food
 blocks:
   - type: hero_block
