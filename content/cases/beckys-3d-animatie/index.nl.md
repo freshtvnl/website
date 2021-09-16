@@ -76,4 +76,8 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: nWdObQDYkTg
+    form: ""
+  - type: contact_block
+    contacts:
+      - inge
 ---
