@@ -74,7 +74,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## Aantrekken van nieuw personeel
 
