@@ -44,15 +44,15 @@ RedBull is een voorbeeld van een bedrijf dat video marketing heel serieus neemt.
 
 Met regelmaat maken ze epische video's waaraan je duidelijk kunt zien dat ze zijn geïnspireerd door speelfilms. Zoals deze video die uitblinkt in zijn montage waarin het gebruik van achtergrondmuziek en soundeffects prominent zijn.
 
-\[https://www.youtube.com/watch?v=izbQZ0gvs-A]
+{{< youtube id="izbQZ0gvs-A" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ### Ajax
 
-In Nederland is het marketing team van AJAX de laatste jaren zeer succesvol bezig met storytelling. Niet alleen via  video's maar met verschillende vormen van content. Visuals, polls, analyses en interviews van wedstrijden en verschillende inspirerende video's zoals beelden uit de kleedkamer maar ook deze twee video's die in 2019 viral zijn gegaan. 
+In Nederland is het marketing team van AJAX de laatste jaren zeer succesvol bezig met storytelling. Niet alleen via  video's maar met verschillende vormen van content. Visuals, polls, analyses en interviews van wedstrijden en verschillende inspirerende video's zoals beelden uit de kleedkamer maar ook deze twee video's die in 2019 viral zijn gegaan.
 
-\[https://www.youtube.com/watch?v=TFoPIhJKbxI]
+{{< youtube id="TFoPIhJKbxI" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
-\[https://www.youtube.com/watch?v=ZhlsJo5YxkI&t=18s]
+{{< youtube id="ZhlsJo5YxkI" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ### Interpolis
 
@@ -60,19 +60,19 @@ Interpolis heeft een paar jaar geleden een aangrijpende video gelanceerd over de
 
 De herkenbaarheid is de kracht van dit filmpje. De eerlijke en authentieke manier waarmee het wordt gebracht maakt veel los: als kijker identificeer je je makkelijk met de personen en hun emoties. Er wordt zeer effectief gebruik gemaakt van spanningsopbouw en een constant dreigend gevoel door het verhaal en de achtergrondmuziek.
 
-\[https://www.youtube.com/watch?v=V-WCzgjXqkA]
+{{< youtube id="V-WCzgjXqkA" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ### Google, Reunion
 
 Alweer een wat oudere video, maar een sterk staaltje storytelling. Google heeft met deze hartverwarmende commercial over een oude man die dankzij zijn kleindochter - en met google search - na 60 jaar een jeugdvriend terugvindt een korte feelgood movie gemaakt.
 
-\[https://www.youtube.com/watch?v=gHGDN9-oFJE]
+{{< youtube id="gHGDN9-oFJE" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ### Squarespace, Make It
 
 Squarespace maakt van een technische activiteit een epische gebeurtenis. Acteur Keanu Reeves vertelt terwijl hij bij een kampvuur zit hoe je met Squarespace eenvoudig een website in elkaar zet. 
 
-\[https://www.youtube.com/watch?v=WqnhN2Rzaqc]
+{{< youtube id="WqnhN2Rzaqc" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ## Meer leren over storytelling?
 
