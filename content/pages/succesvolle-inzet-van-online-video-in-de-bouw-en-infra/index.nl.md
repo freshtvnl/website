@@ -70,7 +70,7 @@ blocks:
       Wanneer je niet achter de troepen aanloopt wil je dit laten zien. Wil jij meer doen aan je externe communicatie? Laten we een keer sparren over hoe we dit voor jouw organisatie kunnen doen. Voor ieder doel is er een effectief concept. Wat zijn jouw plannen en ambities de komende jaren?
     displaymedia: youtube_video
     youtube:
-      id: 9q3W_1qeImc
+      id: JsbG6GOhNJM
   - type: content_block
     video:
       autoplay: true
@@ -87,7 +87,7 @@ blocks:
       Welnee, wij nemen je al het werk uit handen.
     displaymedia: youtube_video
     youtube:
-      id: ""
+      id: 9q3W_1qeImc
     cta:
       url: https://www.philenflo.nl/30-minuten/
       text: Vrijblijvende Sessie
