@@ -75,27 +75,29 @@ Nog een beetje abstract? Tijd voor wat voorbeelden.
 
 ### For once, Don’t Do It | Nike
 
-\[https://www.youtube.com/watch?v=drcO2V2m7lw]
-
 Een goed voorbeeld van branded content waarbij een krachtig statement wordt gemaakt is dat van Nike. In de "For once don't do it" campagne, vier dagen na de dood van George Floyd gelanceerd, gebruiken ze hun eigen slogan om zich uit te spreken tegen racisme en voor de #blacklivesmatter beweging.
+
+{{< youtube id="drcO2V2m7lw" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 ### Dove
 
-\[https://www.youtube.com/watch?v=XpaOjMXyJGk]
-\[https://www.youtube.com/watch?v=csIerE0578w]
+{{< youtube id="XpaOjMXyJGk" class="aspect-w-16 aspect-h-9" title="undefined" >}}
+
+{{< youtube id="csIerE0578w" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 Een ander voorbeeld van een bedrijf wat niet bang is om een sociaal statement te maken is Dove. Een aantal jaar geleden al met de "You Are More Beautiful Than You Think" campagne. En tijdens de corona crisis opnieuw met een video met als thema "Courage is beautiful". In de video wordt dit mooi gevisualiseerd door beelden van hulpverleners te laten zien die striemen in het gezicht hebben van het dagenlang dragen van mondmaskers. 
 
 ### Klusfilmpjes en product reviews
 
-\[video https://www.youtube.com/watch?v=lySOqi7fZO8]
-\[ video https://www.youtube.com/watch?v=VWvBZCzvCy4] 
+{{< youtube id="lySOqi7fZO8" class="aspect-w-16 aspect-h-9" title="undefined" >}}
+
+{{< youtube id="VWvBZCzvCy4" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 Dichter bij huis zijn bedrijven zoals Gamma en Coolblue goed bezig. De eerste met klusfilmpjes met uitleg over hoe je bijvoorbeeld een muur streeploos verft of hoe zelf je huis kunt isoleren. Coolblue doet iets vergelijkbaars en gebruikt videos om producten te reviewen of uit te leggen.
 
 ### LEGO the movie
 
-\[https://www.youtube.com/watch?v=fZ_JOBCLF-I]
+{{< youtube id="fZ_JOBCLF-I" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
 LEGO, een bedrijf wat als geen ander last heeft van de digitalisering, doordat het veel concurrentie heeft van games, YouTube en Betflix, heeft zichzelf in 2014 opnieuw op de kaart gezet met de film "Lego The Movie". Misschien wel één van de succesvolste voorbeelden van branded content.
 
