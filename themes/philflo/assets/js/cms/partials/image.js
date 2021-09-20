@@ -4,6 +4,8 @@ export const image = {
   widget: 'object',
   i18n: true,
   required: false,
+  collapsed: true,
+  summary: '{{fields.source}}',
   fields: [
     {
       label: 'Source',

@@ -23,8 +23,6 @@ export const content = {
       required: false,
       i18n: true,
     },
-    ...media,
-    cta,
     {
       label: "Select Form",
       name: "form",
@@ -37,6 +35,8 @@ export const content = {
       i18n: true,
       required: false
     },
+    ...media,
+    cta,
     
   ]
 }

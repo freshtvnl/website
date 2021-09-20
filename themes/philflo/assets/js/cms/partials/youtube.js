@@ -6,6 +6,8 @@ export const youtube = {
   widget: 'object',
   required: false,
   i18n: true,
+  collapsed: true,
+  summary: '{{fields.id}}',
   fields: [
     {
       label: 'Youtube Video ID',

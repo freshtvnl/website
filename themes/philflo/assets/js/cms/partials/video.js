@@ -6,6 +6,8 @@ export const video = {
   widget: 'object',
   i18n: true,
   required: false,
+  collapsed: true,
+  summary: '{{fields.source_mp4}} {{fields.source_webm}}',
   fields: [
     {
       label: 'MP4 Video url',
