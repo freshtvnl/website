@@ -9,7 +9,7 @@ color: yellow
 branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
-    align: null
+    align: center
     video:
       autoplay: true
     title: "Case: CSB Amsterdam"
