@@ -9,6 +9,14 @@ color: yellow
 branch: onderwijs-kunst-Cultuur
 blocks:
   - type: hero_block
+    align: null
+    video:
+      autoplay: true
+    title: "Case: CSB Amsterdam"
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+  - type: hero_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
@@ -22,14 +30,6 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-interactieve-keuze.jpg
-  - type: hero_block
-    align: null
-    video:
-      autoplay: true
-    title: "Case: CSB Amsterdam"
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
     video:
       autoplay: true
