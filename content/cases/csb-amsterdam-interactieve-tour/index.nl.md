@@ -148,8 +148,9 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
-    displaymedia: iframe
+    displaymedia: custom_video
     content: >-
       ## ***Meetbaar***, ***aanpasbaar*** en ***duurzaam***
 
