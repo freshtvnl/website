@@ -15,7 +15,7 @@ blocks:
     title: "Case: CSB Amsterdam"
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: hero_block
     video:
       autoplay: true
