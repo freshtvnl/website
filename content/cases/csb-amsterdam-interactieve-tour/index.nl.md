@@ -12,24 +12,16 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: "Case: CSB Amsterdam"
+    title: "Case: ***CSB Amsterdam***"
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
-  - type: hero_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB-Interactieve-film-Phil-en-Flo-Phil-en-Flo.mp4
-    title: "***Alles moet anders***"
     content: 2020 stond in het teken van corona. Ik en mijn collega’s hebben van
       dichtbij gezien hoe ondernemers, managers en hele organisaties worstelden
       met dezelfde uitdagingen op het gebied van communicatie. ‘’Hoe kom ik in
       contact met mijn doelgroep als fysieke ontmoetingen bijna niet mogelijk
       zijn.’’ Zo nam ook het CSB, een middelbare school in Amsterdam, contact
       met ons op.
-    displaymedia: custom_video
-    image:
-      source: images/csb-interactieve-keuze.jpg
   - type: content_block
     video:
       autoplay: true
