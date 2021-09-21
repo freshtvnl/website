@@ -22,6 +22,14 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-interactieve-keuze.jpg
+  - type: hero_block
+    align: null
+    video:
+      autoplay: true
+    title: "Case: CSB Amsterdam"
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
     video:
       autoplay: true
