@@ -148,8 +148,12 @@ blocks:
 
 
       Onze interactieve tours zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve tour kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, ***zonder dure investeringen.*** Ook kan je statistieken inzien, en zo effectieve elementen verder uitvergroten of minder presterende onderdelen aanpassen of wijzigen. Op deze manier garanderen wij dat onze interactieve films langdurig inzetbaar zijn, en een investering voor de toekomst.
+
+
+      **Ook zo'n prachtige interactieve school tour? Vul je gegevens in.**
     iframe:
       source: ""
+    form: contact-formulier
   - type: selectedreviews_block
     items:
       - review-csb-amsterdam
