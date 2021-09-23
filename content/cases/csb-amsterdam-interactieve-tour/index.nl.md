@@ -12,16 +12,16 @@ blocks:
     align: left
     video:
       autoplay: true
-    title: "Case: ***CSB Amsterdam***"
+    title: "***Interactieve School Tour*** - Open dag 2.0 op CSB Amsterdam"
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
-    content: 2020 stond in het teken van corona. Ik en mijn collega’s hebben van
-      dichtbij gezien hoe ondernemers, managers en hele organisaties worstelden
-      met dezelfde uitdagingen op het gebied van communicatie. ‘’Hoe kom ik in
-      contact met mijn doelgroep als fysieke ontmoetingen bijna niet mogelijk
-      zijn.’’ Zo nam ook het CSB, een middelbare school in Amsterdam, contact
-      met ons op.
+    content: 2020 en 2021 staan in het teken van corona. Ik en mijn collega’s hebben
+      van dichtbij gezien hoe ondernemers, managers en hele organisaties
+      worstelden met dezelfde uitdagingen op het gebied van communicatie. ‘’Hoe
+      kom ik in contact met mijn doelgroep als fysieke ontmoetingen bijna niet
+      mogelijk zijn.’’ Zo nam ook het CSB, een middelbare school in Amsterdam,
+      contact met ons op.
   - type: content_block
     video:
       autoplay: true
