@@ -12,7 +12,7 @@ blocks:
     align: left
     video:
       autoplay: true
-    title: "***Interactieve School Tour*** - Open dag 2.0 op CSB Amsterdam"
+    title: "***Interactieve School Tour*** - Open dag 2.0"
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
@@ -148,9 +148,6 @@ blocks:
 
 
       Onze interactieve tours zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve tour kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, ***zonder dure investeringen.*** Ook kan je statistieken inzien, en zo effectieve elementen verder uitvergroten of minder presterende onderdelen aanpassen of wijzigen. Op deze manier garanderen wij dat onze interactieve films langdurig inzetbaar zijn, en een investering voor de toekomst.
-
-
-      **Ook zo'n prachtige interactieve school tour? Vul je gegevens in.**
     iframe:
       source: ""
     form: contact-formulier
@@ -162,8 +159,12 @@ blocks:
   - type: contact_block
     contacts:
       - sebastiaan
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
 seo:
-  description: "De wereld van school van morgen verbeelden met een interactieve
-    video voor CBS Amsterdam. Ontdek hier onze video. | Case | Phil & Flo "
+  description: Open dag voor school op een interactieve manier. - CSB Amsterdam
+    laat zien hoe het kan, samen met Phil en Flo
   title: Interactieve video voor CBS Amsterdam | Phil & Flo
 ---
