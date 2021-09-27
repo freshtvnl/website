@@ -19,6 +19,7 @@ blocks:
       maken van een gezondere en meer duurzame samenleving. Deze introductie
       klonk ons als muziek in de oren, dus na een leuke kennismaking kwam een
       samenwerking tussen Hanze en Phil & Flo tot stand!
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
@@ -54,6 +55,7 @@ blocks:
       De Andes Lupine is een superplant. De vele voordelen die deze plant met zich meebrengt was aanleiding om drie pakkende animaties te wijden aan de plant en haar voordelen. Hierbij was het belangrijk dat de animaties los van elkaar inzetbaar zijn, maar daarnaast elkaar ook complementeren. Het moment suprême was een grote wereldwijde bijeenkomst met als thema... je raadt het al: de Andes Lupine!
     youtube:
       id: a9t6eKl03YU
+    displaymedia: youtube_video
   - type: content_block
     video:
       autoplay: true
@@ -65,4 +67,5 @@ blocks:
       Belangrijk om ook nieuwe, jonge onderzoekers en geïnteresseerden aan te spreken is een hippe animatiestijl. Deze stijl hebben we aangevuld met een jonge, hippe voice-over stem. Oordeel zelf & laat ons weten heo we jou kunnen helpen!
     youtube:
       id: dU3J2Z5S5I0
+    displaymedia: youtube_video
 ---
