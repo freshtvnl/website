@@ -26,7 +26,10 @@ blocks:
 
 
       Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
-    form: contact-formulier
+    form: ""
+    displaymedia: image
+    image:
+      source: aron-inge-kopie.jpg
   - type: content_block
     align: center
     content: >-
