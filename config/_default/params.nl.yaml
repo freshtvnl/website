@@ -31,10 +31,10 @@ footer:
       title: ""
       text: "Of mail ons:"
     session:
-      title: 30 minuten sparren
-      text: Vrijblijvend sparren met onze specialisten!
+      title: Vrijblijvend offerte ontvangen
+      text: Binnen 1 werkdag reactie
       cta:
-        url: /30-minuten/
+        url: /contact/
         type: button
         text: Boeken
     contactblock:
