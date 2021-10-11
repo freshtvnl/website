@@ -6,8 +6,10 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: center
+    align: right
     form: factuurgegevens
+    content: Block content
+    displaymedia: form
   - type: content_block
     align: center
     content: "## Verjaardag formulier"

@@ -19,6 +19,8 @@
           {{ end }}
         </div>
         {{ end}}
+
+        {{ if not (eq $display "form") }}
         
         {{ with $params.form }}
           {{ range where $site.Pages "Params.slug" . }}
@@ -26,9 +28,23 @@
             {{ partial "form.html" (dict "page" $page "data" . "site" $site ) }}
           {{ end }}
         {{ end }}
+
+        {{ end }}
      
       </div>
       <div class="col-span-5 md:col-span-3">
+        {{ if  (eq $display "form") }}
+        
+        {{ with $params.form }}
+          {{ range where $site.Pages "Params.slug" . }}
+          {{ $item := . }}
+            {{ partial "form.html" (dict "page" $page "data" . "site" $site ) }}
+          {{ end }}
+        {{ end }}
+
+        {{ end }}
+     
+
         {{ if and ($params.video) (eq $display "custom_video") }}
         <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
           {{ with  $params.video.source_webm }}

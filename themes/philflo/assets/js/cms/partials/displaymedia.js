@@ -21,5 +21,9 @@ export const displaymedia = {
       label: "iframe",
       value: "iframe"
     },
+    {
+      label: "Form",
+      value: "form"
+    },
   ]
 }
