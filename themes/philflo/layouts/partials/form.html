@@ -68,6 +68,56 @@
       </div>
       {{ end }}
 
+      {{ if eq $type "factuurgegevens"}}
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "tav" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tav" name="tav" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-4'>
+          <label class="block">
+            <span >{{ T "streetorbox" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="streetorbox" name="streetorbox" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "postalcode" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="postalcode" name="postalcode" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "land" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="land" name="land" type="text" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "emaileinvoices" }} <span class="text-red-500">*</span></span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
+          </label>
+        </div>
+        <div class='col-span-2'>
+          <label class="block">
+            <span >{{ T "po" }}</span>
+            <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="po" name="po" type="text"  >
+          </label>
+        </div>
+        <div class="col-span-4">
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+        </div>
+      </div>
+      {{ end }}
+  
+
       {{ if eq $type "quotation"}}
         <div class='col-span-4'>
           <label class="block">

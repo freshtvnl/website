@@ -82,6 +82,30 @@
   {
     "id": "minutes",
     "translation": "minuten"
+  },
+  {
+    "id": "tav",
+    "translation": "Ter attentie van"
+  },
+  {
+    "id": "streetorbox",
+    "translation": "Straatnaam of postbus"
+  },
+  {
+    "id": "emaileinvoices",
+    "translation": "E-mailadres e-invoices"
+  },
+  {
+    "id": "postalcode",
+    "translation": "Postcode"
+  },
+  {
+    "id": "land",
+    "translation": "Land"
+  },
+  {
+    "id": "po",
+    "translation": " PO-nummer of kostenplaats"
   }
   
 ]

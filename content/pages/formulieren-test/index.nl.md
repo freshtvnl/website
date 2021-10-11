@@ -4,6 +4,11 @@ slug: formulieren-test
 draft: false
 blocks:
   - type: content_block
+    video:
+      autoplay: true
+    align: center
+    form: factuurgegevens
+  - type: content_block
     align: center
     content: "## Verjaardag formulier"
     form: verjaardag-form
@@ -15,6 +20,8 @@ blocks:
     align: center
     form: review-intern-form
     content: "## Intern review formulier"
+    video:
+      autoplay: false
   - type: content_block
     align: center
     form: offerte-formulier
@@ -27,4 +34,6 @@ blocks:
     align: center
     content: "## 30 minutes"
     form: 30-minutes
+    video:
+      autoplay: false
 ---
