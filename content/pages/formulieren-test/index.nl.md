@@ -9,7 +9,7 @@ blocks:
     align: right
     form: factuurgegevens
     content: Block content
-    displaymedia: form
+    displaymedia: image
   - type: content_block
     align: center
     content: "## Verjaardag formulier"
