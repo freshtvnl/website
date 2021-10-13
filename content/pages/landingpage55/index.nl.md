@@ -110,31 +110,21 @@ blocks:
       Hoe werkt het precies als je een animatie maakt? Het begint altijd met een creatieve sessie.
 
 
-
-
       1. **Creatieve Sessie**
 
          In deze gezamenlijke sessie bespreken we het fundament van de animatie. Hierin wordt alles doorgesproken en wordt de fundering voor de (voice-over)scripts gelegd.
-
-
       2. **Scripts en stijlen concretiseren**
 
          Om écht doeltreffend te zijn, stemmen we alles nauw met onze opdrachtgevers af. Van de stijl tot aan de gekozen stemacteur. In ons werkproces heb je als opdrachtgever altijd één vast contactpersoon die alles weet van jouw project. Wanneer alles definitief is, beginnen we met animeren.
-
-
       3. **Opleveren conceptversie**
 
          Door de nauwe samenwerking, zit het concept dicht tegen het eindresultaat aan. Dit stelt de opdrachtgever in staat om concrete, inhoudelijke feedback te geven.
-
-
       4. **Feedback verwerken en opleveren definitieve film**
 
          Nadat we de feedback hebben ontvangen gaan wij ermee bezig. We verwerken alle feedback en leveren de definitieve film op.
-
-
       5. **Optimalisatie en campagnes**
 
-         Onze specialisten helpen je met je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
+         Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
     align: center
   - type: contact_block
     contacts:
