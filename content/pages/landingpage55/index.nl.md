@@ -174,6 +174,7 @@ blocks:
       5. **Optimalisatie en campagnes**
 
          Onze specialisten helpen je met je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
+    align: center
 seo:
   title: Uitleganimatie laten maken - Uniek en opvallend -Phil & Flo Videomarketing
   description: Uitleganimatie laten maken? Phil & Flo produceert een unieke op
