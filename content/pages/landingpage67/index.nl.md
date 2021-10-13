@@ -12,12 +12,14 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
     title: "***Bedrijfsanimatie laten maken*** door Phil & Flo"
-    content: Een animatie laat je maken als je iets te vertellen hebt. Je
-      introduceert een nieuw product of nieuwe dienst, je bent aan het
-      uitbreiden en zoekt nieuwe werknemers, of hebt nieuwe procedures die je
-      naar je huidige werknemers wilt communiceren — er zijn genoeg verhalen die
-      duidelijker worden van een animatie.
-    displaymedia: custom_video
+    content: Een bedrijfsanimatie is een stuk content dat binnen korte tijd
+      waardevolle informatie over je bedrijf geeft. Deze krachtige
+      communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk
+      manier je missie en visie te communiceren, zowel intern als extern. Heb je
+      onze bedrijfsanimatie al gezien?
+    displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
   - type: content_block
     align: right
     content: >-
