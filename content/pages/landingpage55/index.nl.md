@@ -106,9 +106,10 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+      - Animatiefilm PRA health sciences
+      - OIO systems
     more_items: true
 seo:
   title: Uitleganimatie laten maken - Uniek en opvallend -Phil & Flo Videomarketing
