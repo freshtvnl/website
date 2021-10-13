@@ -32,6 +32,15 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ### **Waarom een bedrijfsanimatie laten maken?**
+
+
+      Iedere organisatie heeft een eigen unieke identiteit. Je hebt een identiteit die zich onderscheid van concurrenten. Jij weet precies waarom een potentiële klant voor jou moet kiezen en niet voor die concurrent. Helaas deze identiteit niet bij iedereen bekend. Dit doe je met een bedrijfsanimatie. Dit laagdrempelige communicatiemiddel zorgt dat iedere prospect binnen 1 minuut begrijpt wat jouw toegevoegde waarde is.
+  - type: content_block
     align: left
     content: >-
       ## ***Wanneer*** een bedrijfsanimatie laten maken?
