@@ -97,7 +97,7 @@ blocks:
       ## Waarvoor kun je een ***animatie laten maken***?
 
 
-      Je kunt animaties voor verschillende toepassingen inzetten, maar allemaal hebben ze hetzelfde doel: een boodschap kort en duidelijk uitleggen. De animatie specialisten van Phil & Flo Creative Studio  zijn experts in het verpakken van een ingewikkelde boodschap in een heldere animatiefilm. Met visuele elementen maak je processen, vraagstukken en techniek inzichtelijk en begrijpelijk voor je doelgroep. Hierdoor voorkom je dat potentiële opdrachtgevers of klanten afhaken: integendeel, met een aantrekkelijke animatie worden ze juist enthousiast.
+      De inzet van animatie is effectief voor allerlei doelen binnen marketing en communicatie. Een [explainer animatie](https://www.philenflo.nl/explainer-animatie/) legt je boodschap kort en duidelijk uit. De combinatie van beeld en geluid zorgt voor een sterke boodschap die blijft hangen. Met de juiste grafische elementen maak je processen, producten, en technieken inzichtelijk en begrijpelijk voor je doelgroep. Een [bedrijfsanimatie](https://www.philenflo.nl/bedrijfsanimatie-laten-maken/) is een verlengstuk van je merkidentiteit, met een bedrijfsanimatie straal je een gedegen, professionele organisatie uit. Daar komt nog eens bij dat de inzet van videocontent op je website je organische website een boost geeft, Google is namelijk dol op animatie en andere rijke content.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
