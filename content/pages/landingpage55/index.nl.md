@@ -126,6 +126,15 @@ blocks:
 
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
     align: center
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## **Kosten van een uitleganimatie**
+
+
+      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een uitleganimatie zijn afhankelijk van een aantal aspecten, zoals de stijl en lengte. De ene stijl kost meer tijd om te maken dan de andere. Hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
   - type: contact_block
     contacts:
       - victor
