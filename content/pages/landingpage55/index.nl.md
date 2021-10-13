@@ -53,6 +53,7 @@ blocks:
       * Communiceren van een concept of idee
 
       * Versterken van je merk
+    align: right
   - type: content_block
     align: right
     content: >-
