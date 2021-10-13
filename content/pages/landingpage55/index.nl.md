@@ -45,6 +45,15 @@ blocks:
 
 
       Een stijl die veel voorkomt bij uitleganimaties zijn motion graphics. In het kort zijn motion graphics geanimeerde grafische elementen, verwerkt in een aantrekkelijke film. Motion graphics zijn effectief voor je merkidentiteit door de sterke herkenbaarheid in kleur en vorm. Motion graphics zijn ook effectief om cijfers of data te communiceren. Motion graphics komen zowel met als zonder voice-over voor. Motion graphics zijn in 2D en 3D. Een combinatie van beiden wordt steeds populairder.
+
+
+      * Productvideo’s 
+
+      * Productuitleg
+
+      * Communiceren van een concept of idee
+
+      * Versterken van je merk
   - type: content_block
     align: right
     content: >-
