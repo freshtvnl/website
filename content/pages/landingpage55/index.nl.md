@@ -13,6 +13,8 @@ blocks:
 
 
       Wil je een uitleganimatie laten maken die een ingewikkeld proces uitlegt of een technische applicatie verduidelijkt? Dan is een uitleganimatie van Phil & Flo de enige succesvolle oplossing. Een uitleganimatie versimpelt ingewikkelde concepten in een paar seconden. Onze creatieve team vol specialisten creëren en produceren unieke uitleganimaties speciaal op maat. De mogelijkheden zijn eindeloos.
+    video:
+      autoplay: false
   - type: content_block
     align: right
     content: >-
@@ -35,6 +37,14 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## **Motion Graphics**
+
+
+      Een stijl die veel voorkomt bij uitleganimaties zijn motion graphics. In het kort zijn motion graphics geanimeerde grafische elementen, verwerkt in een aantrekkelijke film. Motion graphics zijn effectief voor je merkidentiteit door de sterke herkenbaarheid in kleur en vorm. Motion graphics zijn ook effectief om cijfers of data te communiceren. Motion graphics komen zowel met als zonder voice-over voor. Motion graphics zijn in 2D en 3D. Een combinatie van beiden wordt steeds populairder.
   - type: content_block
     align: right
     content: >-
