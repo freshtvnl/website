@@ -55,6 +55,15 @@ blocks:
       * Versterken van je merk
     align: right
   - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## **Stijlen uitleganimatie**
+
+
+      Een uitleganimatie kan in vele verschillende stijlen, zowel 2D als 3D. Belangrijk is dat de stijl past bij het doel van de video. Zo gebruik  je voor de uitleg van een [softwareproduct](https://www.philenflo.nl/portfolio/documizers/) een totaal andere stijl, dan een uitleganimatie voor een [laadpaal](https://www.philenflo.nl/portfolio/alfen-smart-charging-network-3d-animatie/). En voor het [aanmeldproces](https://www.philenflo.nl/portfolio/animatiefilm-pra-health-sciences/) voor een medisch onderzoek weer een andere stijl dan een [vertical farming](https://www.philenflo.nl/portfolio/vertical-farming-3d-animatie/) systeem. Om de juiste stijl te bepalen doe je onderzoek naar je doelgroep. Hoe ziet deze groep eruit? Waar ligt hun (informatie)behoefte en wat is het doel van de video (leads, autoriteit, uitleg, promotie). Ons team helpt je met het vinden van de juiste stijl voor jouw animaties.
+    align: left
+  - type: content_block
     align: right
     content: >-
       ## De unieke ***designfilosofie*** van Phil & Flo
