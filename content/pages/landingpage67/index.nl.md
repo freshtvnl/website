@@ -143,7 +143,16 @@ blocks:
 
       5. **Optimalisatie en campagnes**
 
-         Onze specialisten helpen je met je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
+         Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ### **Wat kost het laten maken van een bedrijfsanimatie?**
+
+
+      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een bedrijfsanimatie zijn voornamelijk afhankelijk van de gekozen stijl, en de lengte. De ene stijl kost meer tijd om te maken dan de andere. Voor de lengte geldt; hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
   - type: contact_block
     contacts:
       - inge
