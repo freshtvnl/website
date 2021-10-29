@@ -15,10 +15,9 @@ blocks:
     collection: cases
     content_type: portfolio
 seo:
-  title: Portfolio Phil & Flo Videomarketing - Bekijk hier onze videoproducties
-  description: Trots op ons portfolio! 300+ organisaties kiezen voor onze video-
-    en animatiefilms. Bekijk de frisse producties van Phil & Flo en kies echte
-    kwaliteit
+  title: "Portfolio | Phil & Flo | Bekijk hier onze animaties en films "
+  description: "Portfolio | Phil & Flo | Bekijk de frisse producties en kies echte
+    kwaliteit.  300+ organisaties kiezen voor onze video- en animatiefilms. "
 menu:
   main:
     weight: 5
