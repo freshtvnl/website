@@ -13,9 +13,9 @@ blocks:
       * 4,9/5 sterren op Google
     form: offerte-formulier
 seo:
-  title: Wat kost een succesvolle videofilm - Wat kost een goede animatiefilm - € ...
-  description: Wat kost een animatiefilm? Wat kost een bedrijfsfilm? Binnen 1
-    werkdag een prijs op maat. Voor professionele organisaties.
+  title: "Offerte | Phil & Flo | Vraag hier jouw offerte aan "
+  description: "Offerte aanvragen | Binnen 1 werkdag een prijs op maat voor
+    professionele organisaties. Altijd op en maat en voor de juiste prijs. "
 menu:
   main:
     weight: ""
