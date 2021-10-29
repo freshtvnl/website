@@ -79,9 +79,9 @@ blocks:
       - peter-de-graaf
     content: Meer informatie?
 seo:
-  title: Klimaatneutraal - Phil & Flo Creative studio
-  description: Wij werken niet voor klimaatverwoestende organisaties zoals olie
-    industrie, lees ons statement. Wij werken zelf 100% Co2 neutraal.
+  title: "Maatschappelijk verantwoord ondernemen | Phil & Flo "
+  description: MVO | Wij werken niet voor klimaatverwoestende organisaties zoals
+    olie-industrie, lees ons statement. Zelf werken wij ook 100% Co2 neutraal.
 menu:
   main:
     weight: 6
