@@ -3,9 +3,6 @@ title: 360 graden video laten maken
 slug: 360-graden-video-laten-maken
 draft: false
 color: blue
-seo:
-  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
-  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔ VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273 8331
 blocks:
   - type: hero_block
     content: Wil jij jouw bezoekers een levensechte ervaring bieden vanuit de luie
@@ -79,4 +76,9 @@ blocks:
   - type: contact_block
     contacts:
       - peter-de-graaf
+seo:
+  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
+  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔
+    VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273
+    8331
 ---
