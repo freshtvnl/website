@@ -139,8 +139,8 @@ blocks:
       - welke-muziek-gebruiken-jullie-productvideo
       - welke-voice-over-wordt-ingezet-bij-een-productvideo
 seo:
-  title: 3D productvideo laten maken door Phil & Flo Videomarketing | klik hier
-  description: 3D productvideo laten maken door het leukste bureau van Nederland!
-    Phil & Flo Videomarketing | Mooiste renders | Slimste marketing | Hoge
-    klanttevredenheid!
+  title: 3D productvideo laten maken | Phil & Flo Creative studio
+  description: "3D productvideo laten maken | Phil & Flo Creative studio ✔
+    Klantscore 8.9 ✔ Uniek ✔ Gericht ✔ Passend voor de doelgroep Neem contact
+    op. "
 ---
