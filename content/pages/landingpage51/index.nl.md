@@ -24,8 +24,8 @@ blocks:
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: /2d-animatie/
-      text: Lees meer
+      url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
+      text: Lees meer over animatie laten maken
       type: null
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
@@ -55,7 +55,7 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier meer
+      text: Lees hier meer over Virtual Reality Animaties
       type: null
   - type: content_block
     align: left
