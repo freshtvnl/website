@@ -31,10 +31,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***3D animaties*** 
+      ## ***3D animaties***
 
 
-      Computer animaties in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: 085 - 273 8331
+      Computer [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: 085 - 273 8331
     displaymedia: custom_video
     image:
       source: ""
@@ -47,10 +47,10 @@ blocks:
       ### Complexe ***product 3D animaties***
 
 
-      Wil je liever niet gebruikmaken van een karakter, dan kun je er ook voor kiezen om bijvoorbeeld een langdradige powerpoint in een aantrekkelijke 3D animatie te laten vormgeven. Er is waarschijnlijk geen ander medium dan 3D-animatiefilm die zo snel een visuele samenvatting kan geven of het idee van een complex product kan uitleggen. 3D-animaties zijn dynamisch en weten de aandacht vast te houden.
+      Wil je liever niet gebruikmaken van een karakter, dan kun je er ook voor kiezen om bijvoorbeeld een langdradige powerpoint in een aantrekkelijke 3D animatie te laten vormgeven. Er is waarschijnlijk geen ander medium dan 3D-[animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/) die zo snel een visuele samenvatting kan geven of het idee van een complex product kan uitleggen. 3D-animaties zijn dynamisch en weten de aandacht vast te houden.
 
 
-      Bij Phil & Flo laten we zien wat niet gefilmd kan worden; er zijn voor ons geen grenzen wat je kunt laten zien met 3D renders (computer animatie). Samen met de voice-over en begeleidende teksten zal een animatie duidelijk en verhelderend zijn.
+      Bij Phil & Flo laten we zien wat niet gefilmd kan worden; er zijn voor ons geen grenzen wat je kunt laten zien met 3D renders (computer animatie). Samen met de [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) en begeleidende teksten zal een animatie duidelijk en verhelderend zijn.
     displaymedia: custom_video
     image:
       source: ""
@@ -117,7 +117,7 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: 3D Animatie laten maken - Phil & Flo Videomarketing
-  description: 3D animatie laten maken voor je organisatie of product? Bekijk onze
-    gave 3D animaties en lees over onze design filosofie.
+  title: 3D Animatie laten maken | Phil & Flo Creative studio
+  description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
+    8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op voor meer informatie
 ---
