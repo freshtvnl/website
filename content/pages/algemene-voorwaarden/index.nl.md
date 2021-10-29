@@ -255,9 +255,9 @@ blocks:
 
       Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
 seo:
-  title: Spelregels - Algemene voorwaarden - Videomarketing Phil & Flo
-  description: Phil & Flo videomarketing werkt met bepaalde spelregels; ofwel de
-    algemene voorwaarden.
+  title: "Algemene voorwaarden | Phil & Flo | Animatie, Films & Branding "
+  description: "Algemene voorwaarden | Lees hier de spelregels van Phil & Flo.
+    Voor meer informatie neem contact op. "
 menu:
   footer:
     weight: 2
