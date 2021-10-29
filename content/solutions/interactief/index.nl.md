@@ -20,7 +20,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Concrete cases
+      ## Concrete cases voor een interactieve video
 
 
       Je hebt werkelijk fantastische mogelijkheden met interactieve video. Elke keer weer ben ik verbaasd over de creatieve mogelijkheden die de verschillende lagen van interactieve video met zich meebrengt. Relevantie voor de kijker is hierbij geen loos woord. De kijker bepaald en ervaart. Neem contact met me op om direct jouw case vrijblijvend voor te leggen, 085 - 273 8331. Peter de Graaf.
