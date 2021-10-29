@@ -20,10 +20,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Spread the word, eh.. video***
+      ## ***Spread the word, eh..  bedrijfsvideo***
 
 
-      Waar de focus van een **corporate- of bedrijfsvideo** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
+      Waar de focus van een **corporate- of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)** tot een paar jaar geleden nog op het promoten van je merk lag, richten we ons bij Phil & Flo nu op het oplossen van de problemen van je klant. Je doelgroep is kritischer dan ooit en niemand komt nog naar je website om “slechts” een filmpje te bekijken. Klanten komen naar je website omdat ze een situatie hebben die ze graag willen oplossen.
     displaymedia: custom_video
     image:
       source: ""
@@ -65,10 +65,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Over ons***
+      ## ***Over ons & bedrijfsvideo's***
 
 
-      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een reclamespot. Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
+      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een [reclamespot](https://www.philenflo.nl/reclamevideo/). Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
     displaymedia: custom_video
     image:
       source: ""
@@ -80,8 +80,8 @@ blocks:
       text: Ik wil graag een offerte ontvangen
       type: button
 seo:
-  title: Bedrijfsvideo door Phil & Flo Videomarketing
-  description: Onze bedrijfsvideo’s laten zien hoe trots je bent op je
-    medewerkers, en klanten merken dat verschil. Hoe mogen wij jouw corporate
-    story visualiseren?
+  title: "Bedrijfsvideo laten maken | Phil & Flo | Creative studio "
+  description: "Bedrijfsvideo’s laten zien hoe trots je bent op je medewerkers en
+    klanten. Hoe mogen wij jouw corporate story visualiseren? ✔ Klantscore 8.9
+    Neem contact op. "
 ---
