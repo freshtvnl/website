@@ -64,26 +64,20 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
-    video:
-      autoplay: false
   - type: contact_block
     contacts:
       - peter-de-graaf
   - type: selectedfaqs_block
     items:
-      - hoe-maken-jullie-een-reclame
-      - in-welke-kwaliteit-ontvang-ik-de-reclame
-      - met-hoeveel-mensen-komen-jullie-filmen-reclame
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
-      - wat-moeten-wij-aanleveren-voor-een-reclame
-      - hebben-jullie-voorbeelden-van-een-reclame
-      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
-      - wat-is-de-productietijd-van-een-reclame
-      - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
-      - welke-voice-over-wordt-ingezet-bij-een-reclame
-      - hoe-gaan-jullie-te-werk-met-een-reclame
-      - welke-muziek-gebruiken-jullie-reclame
+      - hebben-jullie-voorbeelden-van-een-interactieve-video
+      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
+      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
+      - CiGF7tCTF
+      - hoe-maken-jullie-een-interactieve-video
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
+      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
+      - welke-muziek-gebruiken-jullie
 seo:
   title: 360 graden video laten maken | Door Phil & Flo Videomarketing
   description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔
