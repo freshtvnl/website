@@ -72,10 +72,10 @@ blocks:
       - pra-health-sciences-review
     more_items: false
 seo:
-  title: Contact gegevens Phil & Flo Creative Studio
-  description: Heb je vragen over animatie laten maken, bedrijfsfilm laten maken
-    of andere vragen? Neem contact met ons op. Phil & Flo Videomarketing
-    contactpagina.
+  title: "Contact opnemen | Phil & Flo | Creative studio "
+  description: " Neem contact met ons op voor meer informatie of een offerte |
+    Phil & Flo verbeelden de wereld van morgen | Animatie, Video & Content
+    marketing"
 menu:
   main:
     weight: 7
