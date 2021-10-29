@@ -146,7 +146,8 @@ blocks:
     contacts:
       - sophie
 seo:
-  title: Animatiefilm Laten Maken - Phil & Flo Wij verbeelden de wereld van morgen
-  description: Ook een succesvolle animatiefilm laten maken? Ons specialistische
-    team produceert de animatiefilm die past bij je organisatie! Bel ons nu.
+  title: Animatiefilm Laten Maken | Phil & Flo | Wij verbeelden de wereld van morgen
+  description: Succesvolle animatiefilm laten maken? Neem contact op voor een
+    animatiefilm die past bij jouw organisatie. ✔ Klantscore 8.9 ✔ Uniek ✔
+    Gericht ✔ Imponerend
 ---
