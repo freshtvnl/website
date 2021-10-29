@@ -14,11 +14,11 @@ blocks:
 
       * [MBO/HBO Vormgeving & Marketing](https://www.philenflo.nl/stageplek-mbo-en-hbo-vormgeving-en-marketing-groningen/) (fulltime)
 
-      * [MBO/HBO Animator 2D/3D](https://www.philenflo.nl/stage-animator-2D-3D-groningen)(fulltime)
+      * [MBO/HBO Animator 2D/3D](https://www.philenflo.nl/stage-animator-2d-3d-groningen/)(fulltime)
 
       * [HBO Marketing & Communicatie](https://www.philenflo.nl/stageplek-hbo-marketing-communicatie/) (fulltime)
 
-      * [HBO/WO International Business](https://www.philenflo.nl/Stageplek-HBO-en-WO-International-Business-Groningen) (fulltime)
+      * [HBO/WO International Business](https://www.philenflo.nl/stageplek-hbo-en-wo-international-business-groningen/) (fulltime)
 
       * [HBO/WO Sales](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (fulltime)
 
