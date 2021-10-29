@@ -8,9 +8,10 @@ blocks:
     number_of_items: 6
     heading: h1
 seo:
-  title: "Oplossing - Phil & Flo - Animaties & Video's "
-  description: "Beeld zegt meer dan duizend woorden. Maak van jouw boodschap een
-    animatie of video. Ontdek hier de diensten van Phil & Flo. "
+  title: "Oplossingen | Phil & Flo | Animaties, Films & Branding "
+  description: "Animaties, Films & Branding van Phil & Flo. Beeld zegt meer dan
+    duizend woorden, ontdek de oplossingen voor jou. ✔ Creatief ✔ imponerend ✔
+    8,9 klantscore "
 menu:
   main:
     weight: 2
