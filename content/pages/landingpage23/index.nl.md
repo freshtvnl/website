@@ -4,78 +4,88 @@ slug: videoproductie
 draft: false
 blocks:
   - type: hero_block
-    title: "***Een videoproductie maken***"
-    content: Wil je een videoproductie laten maken? Bij Phil & Flo zijn we ervan
-      overtuigd dat video het ideale middel is om jouw verhaal te vertellen. Op
-      je website, in een commercial, als TikTok of op
-      [YouTube](https://www.philenflo.nl/you-tube-marketing/); de mogelijkheden
-      zijn oneindig. Niet voor niets is video uitgegroeid tot één van de
-      populairste marketingmiddelen. Phil & Flo maakt jouw organisatie visueel
-      aantrekkelijk!
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita.mp4
-      autoplay: true
+    title: "***Commercial*** laten maken"
+    content: '[](https://www.freshtv.nl/commercial-laten-maken/# "Volgende")Wil je
+      een commercial laten maken? Dan ben je bij Phil & Flo aan het juiste
+      adres. Een commercial zegt zoveel meer dan een gesproken of geschreven
+      advertentie! Het voegt beleving en kracht toe aan het imago van een
+      product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
+      creatief en helder overbrengen aan de juiste doelgroep!'
+    displaymedia: youtube_video
+    youtube:
+      id: uU_QxytkDYY
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## Effectief, doelgericht en ***creatief***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) maakt het verschil tussen opvallen en genegeerd worden.
-    displaymedia: image
+      Een creatieve insteek is essentieel om een commercial te produceren die raak is. Waarom? Omdat jouw boodschap in 15 tot 30 seconden overgebracht moet worden, met als belangrijkste doel: de kijker tot actie over laten gaan! Maar waar bevindt jouw potentiële doelgroep zich? Ga je de commercial op televisie uitzenden of via YouTube verspreiden? Welke boodschap is het belangrijkst? Welke call-to-action trekt jouw doelgroep over de streep? Vragen die in het beginstadium van groot belang zijn. Wij helpen je het concept glashelder te krijgen, zodat je commercial effectief en doelgericht is.
+    displaymedia: custom_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
-      ## ***Online video***
+      ## Een ***commercial*** laten maken van A tot Z
 
 
-      Op zoek naar een bureau dat jou helpt met het meest effectieve communicatiemiddel, de online video? Phil & Flo doet het! We ontwikkelen, produceren en plaatsen je videoproductie van begin tot eind. Welke boodschap wil je overbrengen en naar welke doelgroep? Belangrijke vragen waar je snel een antwoord op wilt hebben. Wij helpen je hierbij, maar ondersteunt je ook bij iedere vervolgstap. Samen bedenken we een concept en maken we een video die niet alleen goed en interessant is, maar ook conversieverhogend werkt.
-    displaymedia: image
+      Ben je op zoek naar een creatief videoproductie bureau dat jou in het gehele traject begeleidt en een uniek en overtuigend eindproduct aflevert? Welkom bij Phil & Flo! In samenwerking met jou bedenken we het gehele concept en produceren we een commercial die opvalt en resultaat boekt. Onze frisse blik en jarenlange ervaring staan garant voor een commercial die jouw klanten overtuigt.
+    displaymedia: youtube_video
     image:
       source: images/aron-sophie.jpg
+    youtube:
+      id: -8n5l374t2Q
   - type: content_block
     align: left
     content: >-
-      ## Maak van ***kijkers*** klanten
+      ## Commercial als onderdeel van ***communicatiemix***
 
 
-      Een video is dé manier om van je kijkers klanten te maken. Dit kan met bijvoorbeeld een [commercial](https://www.philenflo.nl/commercial-laten-maken/), maar wat dacht je van een [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)? Jouw video is makkelijk te delen en vergroot op die manier je online vindbaarheid. Dat betekent dus: meer naamsbekendheid, meer bezoekers en niet geheel onbelangrijk: meer klanten!
+      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op [YouTube](https://www.philenflo.nl/you-tube-marketing/) als Pre-roll, Instream of postroll. Daarnaast is ook [Instagram](https://www.philenflo.nl/instagram-video-laten-maken/) stories een geweldige manier om je product of dienst aan je publiek te tonen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ## Succes door ***kwaliteit***
+      ## ***Commercial*** laten maken?
 
 
-      Phil & Flo creative Studio maakt videoproducties van hoge kwaliteit. We werken met professionals die zich elke dag inzetten om een prachtige videoproductie voor jouw organisatie te maken. We werken snel, doordacht en efficiënt. Zodoende krijg je de hoogst mogelijke kwaliteit in kort tijdsbestek. Onze films zijn hoogwaardig qua kwaliteit maar ook qua inhoud. We weten aan de hand van uitgebreide data wanneer mensen een film bekijken of uitkijken. Deze info verwerken we in elke film die we produceren. Daarnaast is ons team gewoon leuk om mee samen te werken.
+      Ben jij het ook zat om een commercial of [reclame spot](https://www.philenflo.nl/reclamevideo/) te laten ontwikkelen die niet opvalt? Neem contact op met onze creatieve specialisten en maak vrijblijvend kennis met ons!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
-  - type: content_block
-    align: left
-    content: >-
-      ## Ook scoren met een goede videoproductie?
-
-
-      Wil je ook een video laten maken die jou meer klanten oplevert? Bel ons op 085-2738331 dan bespreken we de mogelijkheden!
-    displaymedia: image
-    image:
-      source: images/inge-bank.jpg
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Contact opnemen
       type: button
   - type: contact_block
     contacts:
+      - peter-de-graaf
+  - type: selectedfaqs_block
+    items:
+      - hoe-maken-jullie-een-reclame
+      - in-welke-kwaliteit-ontvang-ik-de-reclame
+      - met-hoeveel-mensen-komen-jullie-filmen-reclame
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
+      - wat-moeten-wij-aanleveren-voor-een-reclame
+      - hebben-jullie-voorbeelden-van-een-reclame
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
+      - wat-is-de-productietijd-van-een-reclame
+      - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
+      - welke-voice-over-wordt-ingezet-bij-een-reclame
+      - hoe-gaan-jullie-te-werk-met-een-reclame
+      - welke-muziek-gebruiken-jullie-reclame
+    contacts:
       - suzan-abbas
 seo:
-  title: Videoproductie - Phil & Flo Videomarketing
-  description: Een videoproductie laten maken? Wij weten dat video het meest
-    effectieve middel is om verhalen te vertellen. Laat geen kans onbenut, start
-    nu met video!
+  title: "Videoproductie | Phil & Flo Creative studio "
+  description: "Een videoproductie laten maken? Een effectief middel voor jouw
+    verhaal. ✔ Klantscore 8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op.
+    "
 ---
