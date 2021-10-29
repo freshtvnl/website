@@ -7,86 +7,83 @@ image:
 color: green
 blocks:
   - type: hero_block
-    title: Interactie op ***hoog niveau***
-    content: Wil je echt interactie op hoog niveau met je doelgroep? Kies dan voor
-      onze interactieve video mogelijkheden. Je geeft de kijker allerlei keuzes
-      die voor hun relevant zijn. Ze zijn zelf in control. Het voordeel is dat
-      je relevant bent tijdens de video en dat ze actief bezig zijn met je merk.
-      Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je een quiz
-      toevoegen, een link naar een PDF of website maken en nog veel meer.
-    displaymedia: iframe
+    title: "***Commercial*** laten maken"
+    content: '[](https://www.freshtv.nl/commercial-laten-maken/# "Volgende")Wil je
+      een commercial laten maken? Dan ben je bij Phil & Flo aan het juiste
+      adres. Een commercial zegt zoveel meer dan een gesproken of geschreven
+      advertentie! Het voegt beleving en kracht toe aan het imago van een
+      product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
+      creatief en helder overbrengen aan de juiste doelgroep!'
+    displaymedia: youtube_video
+    youtube:
+      id: uU_QxytkDYY
+  - type: content_block
+    align: left
+    content: >-
+      ## Effectief, doelgericht en ***creatief***
+
+
+      Een creatieve insteek is essentieel om een commercial te produceren die raak is. Waarom? Omdat jouw boodschap in 15 tot 30 seconden overgebracht moet worden, met als belangrijkste doel: de kijker tot actie over laten gaan! Maar waar bevindt jouw potentiële doelgroep zich? Ga je de commercial op televisie uitzenden of via YouTube verspreiden? Welke boodschap is het belangrijkst? Welke call-to-action trekt jouw doelgroep over de streep? Vragen die in het beginstadium van groot belang zijn. Wij helpen je het concept glashelder te krijgen, zodat je commercial effectief en doelgericht is.
+    displaymedia: custom_video
     image:
-      source: images/interactieve-video-philenflo.jpg
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
-  - type: content_block
-    align: left
-    displaymedia: iframe
-    content: >-
-      ## Concrete cases
-
-
-      Je hebt werkelijk fantastische mogelijkheden met interactieve video. Elke keer weer ben ik verbaasd over de creatieve mogelijkheden die de verschillende lagen van interactieve video met zich meebrengt. Relevantie voor de kijker is hierbij geen loos woord. De kijker bepaald en ervaart. Neem contact met me op om direct jouw case vrijblijvend voor te leggen, 085 - 273 8331. Peter de Graaf.
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
+      source: ""
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: right
     content: >-
-      ## ***Interactie*** met de kijker
+      ## Een ***commercial*** laten maken van A tot Z
 
 
-      Maak nu kennis met de ongekende mogelijkheden om van kijkers klanten te maken. Kijkers kunnen bijvoorbeeld in de interactieve video op een KOOP NU knop klikken bij het tonen van een product.
-
-
-      Je kunt ook links toevoegen in de video die naar jouw website gaat. In plaats van links naast de video, of eronder, zet je de links om op te klikken gewoon in de video. Integreer sociale media, polls, pdf-bestanden en meer… de mogelijkheden zijn ongekend!
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      Ben je op zoek naar een creatief videoproductie bureau dat jou in het gehele traject begeleidt en een uniek en overtuigend eindproduct aflevert? Welkom bij Phil & Flo! In samenwerking met jou bedenken we het gehele concept en produceren we een commercial die opvalt en resultaat boekt. Onze frisse blik en jarenlange ervaring staan garant voor een commercial die jouw klanten overtuigt.
+    displaymedia: youtube_video
+    image:
+      source: images/aron-sophie.jpg
+    youtube:
+      id: -8n5l374t2Q
   - type: content_block
     align: left
     content: >-
-      ## ***Bestaande video’s interactief maken***
+      ## Commercial als onderdeel van ***communicatiemix***
 
 
-      Veel organisaties hebben in het verleden al video’s laten maken en willen niet opnieuw investeren in nieuwe video of animatie. Met de interactieve video oplossingen van Phil & Flo hoeft dat ook niet, wij kunnen bestaande video’s interactief maken zodat ze een nieuw jasje krijgen en weer jaren meekunnen.
-
-
-      Geef dus je [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/c86BN00W3mbz78Be
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Meerdere storylines***
-
-
-      In interactieve video’s kan je direct de interactie met de kijker opzoeken. Je kan de kijker de keuze geven welke richting het wil opgaan in de animatiefilm, of welke informatie belangrijk is voor hem of haar. Daarnaast zorgt interactieve video ervoor dat je niet meerdere video’s hoeft te publiceren. Aangezien alles in één heldere videoplayer past.
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
+      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) als Pre-roll, Instream of postroll. Daarnaast is ook [Instagram](https://www.philenflo.nl/instagram-video-laten-maken/) stories een geweldige manier om je product of dienst aan je publiek te tonen.
+    displaymedia: image
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     align: right
     content: >-
-      ## ***Analytics van interactieve video's***
+      ## ***Commercial*** laten maken?
 
 
-      Wat voor jou als marketeer interessant is, zijn de uitgebreide analytics mogelijkheden. Zo kan je zien waar de kijker op klikt. Je gaat patronen herkennen zoals je dat nu al in je website doet. Daarnaast zijn de links makkelijk en LIVE aan te passen door ons. Dat betekent dat je nooit meer iets offline hoeft te halen. Neem contact op met onze specialisten die je meer kunnen vertellen over interactieve video en interactieve animatie! Bel 085 -273 8331
-    displaymedia: iframe
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+      Ben jij het ook zat om een commercial of [reclame spot](https://www.philenflo.nl/reclamevideo/) te laten ontwikkelen die niet opvalt? Neem contact op met onze creatieve specialisten en maak vrijblijvend kennis met ons!
+    displaymedia: image
+    image:
+      source: images/peter-suzan-kopie.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
   - type: selectedfaqs_block
     items:
-      - hebben-jullie-voorbeelden-van-een-interactieve-video
-      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
-      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
-      - CiGF7tCTF
-      - hoe-maken-jullie-een-interactieve-video
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
-      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
-      - welke-muziek-gebruiken-jullie
-    title: Veelgestelde vragen
+      - hoe-maken-jullie-een-reclame
+      - in-welke-kwaliteit-ontvang-ik-de-reclame
+      - met-hoeveel-mensen-komen-jullie-filmen-reclame
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-reclame
+      - wat-moeten-wij-aanleveren-voor-een-reclame
+      - hebben-jullie-voorbeelden-van-een-reclame
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-reclame
+      - wat-is-de-productietijd-van-een-reclame
+      - kunnen-jullie-meerdere-reclames-in-een-dag-filmen-reclame
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-reclame
+      - welke-voice-over-wordt-ingezet-bij-een-reclame
+      - hoe-gaan-jullie-te-werk-met-een-reclame
+      - welke-muziek-gebruiken-jullie-reclame
 parent: animatie-studio-amsterdam
 slug: interactieve-video
 seo:
