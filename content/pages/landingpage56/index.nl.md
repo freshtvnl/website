@@ -55,7 +55,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Employer branding animatie
+      ## Employer branding animatie voor de werkgever uit Amsterdam
 
 
       Als werkgever in Amsterdam wil je natuurlijk graag goed voor de dag komen bij potentiële nieuwe collega’s. Hoe ontstijg je het niveau van een tweeregelig cliché in de vacature? Met een [employer branding film](https://www.philenflo.nl/oplossingen/employer-branding/) val je op en breng je authentiek de sfeer in je bedrijf over. Je kunt kiezen voor het gebruik van animatie om een iets luchtigere toon aan te slaan: volledig of naast echte videobeelden. Het is natuurlijk het meest authentiek als je huidige collega’s klanten of leveranciers aan het woord laat.
@@ -71,7 +71,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Animatie en video inzetten
+      ## Animatie en video inzetten voor jouw bedrijf in Amsterdam
 
 
       Met een professionele video, [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of animatie voor je bedrijf kun je jezelf niet alleen online presenteren: Je kunt ze ook meegeven met je accountmanagers op tablet, voor een klantbezoek. Of je gebruikt ze bij presentaties en op beurzen. Wij weten goed wat daarvoor werkt, en wat niet. Kom dus gerust langs op ons kantoor aan de Herengracht in Amsterdam, of nodig ons uit bij jou op locatie om vrijblijvend de mogelijkheden te ontdekken.
@@ -85,7 +85,7 @@ blocks:
       ## Animatie laten maken om ***meer op te vallen***
 
 
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+      Je verhaal vertellen begint met de aandacht vangen. Zeker als je [reclame](https://www.philenflo.nl/reclamevideo/) voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
@@ -96,7 +96,7 @@ blocks:
       ## Vandaag nog alles weten over een animatie?
 
 
-      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten. 085 -273 8331
+      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend [contact](https://www.philenflo.nl/contact/) met ons opnemen om over de mogelijkheden te praten 085 -273 8331. Of kom gezellig langs bij ons kantoor in Amsterdam.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
@@ -118,8 +118,8 @@ blocks:
     contacts:
       - sophie
 seo:
-  title: Animatie bedrijf Amsterdam | Phil & Flo Videomarketing
-  description: Animatie bedrijf in Amsterdam Phil & Flo Videomarketing
-    |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief
-    & innovatief
+  title: Animatiebedrijf Amsterdam | Phil & Flo Creative studio
+  description: Animatiebedrijf in Amsterdam Phil & Flo | ✔ Klantscore 8.9 ✔
+    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
+    innovatief | Neem contact op
 ---
