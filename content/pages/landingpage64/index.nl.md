@@ -18,7 +18,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Frisse animatie*** in Amsterdam
+      ## ***Frisse animatie laten maken*** in Amsterdam
 
 
       Ons team van animators en marketeers in Amsterdam is klaar om samen te werken met bedrijven, instanties en ondernemers die op zoek zijn naar een frisse manier van storytelling en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). We produceren voor jou de juiste online marketing content; unieke, op maat gemaakte [animatiefilms](https://www.philenflo.nl/animatiefilm-laten-maken/).
@@ -70,7 +70,7 @@ blocks:
       ## ***Meer*** dan animatie alleen
 
 
-      Bij Phil & Flo in Amsterdam doen we meer dan alleen maar sprankelende animaties in elkaar zetten. We helpen je ook op weg om met deze animatie je promotiecampagnes, social-mediastrategie en klantenservice naar het volgende niveau te tillen. We optimaliseren de video’s voor een betere vindbaarheid in zoekmachines en adviseren je over gericht adverteren met video’s. Meer weten? Neem dan vrijblijvend contact met ons op.
+      Bij Phil & Flo in Amsterdam doen we meer dan alleen maar sprankelende animaties in elkaar zetten. We helpen je ook op weg om met deze animatie je promotiecampagnes, social-mediastrategie en klantenservice naar het volgende niveau te tillen. We optimaliseren de video’s voor een betere vindbaarheid in zoekmachines en adviseren je over gericht adverteren met video’s. Meer weten? Neem dan vrijblijvend [contact](https://www.philenflo.nl/contact/) met ons op.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
@@ -78,7 +78,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Vandaag nog alles weten over een animatie?
+      ## Vandaag nog alles weten over een animatie laten maken in Amsterdam?
 
 
       Bij Phil & Flo in Amsterdam doen we meer dan alleen maar sprankelende animaties in elkaar zetten. We helpen je ook op weg om met deze animatie je promotiecampagnes, social-mediastrategie en klantenservice naar het volgende niveau te tillen.
@@ -107,8 +107,8 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
 seo:
-  title: Animatie laten maken in Amsterdam | Door Phil & Flo Videomarketing
-  description: Animatie laten maken in Amsterdam doe je bij Phil & Flo |
-    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
-    innovatief
+  title: Animatie laten maken in Amsterdam | Phil & Flo Videomarketing
+  description: Animatie laten maken in Amsterdam doe je bij Phil & Flo | ✔
+    Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
+    Creatief, interactief & innovatief | Neem contact op
 ---
