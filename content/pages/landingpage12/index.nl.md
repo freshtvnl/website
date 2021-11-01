@@ -35,7 +35,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### Je bedrijfsfilm ***effectief*** inzetten
+      ### Je bedrijfsfilm in Groningen ***effectief*** inzetten
 
 
       Met een professionele bedrijfsfilm ben je een heel eind, maar nog niet klaar. Want hoe zorg je ervoor dat mensen je film ook zien? Bij Phil & Flo hebben we veel ervaring met het succesvol inzetten van video’s in online marketingcampagnes. Van traditionele ad campaigns op websites tot social media, met ons wordt je video zeker gezien. Interesse? Je bent niet de enige, met ruim 200 klanten in heel Nederland zijn we populair door onze kennis en ervaring! Kom langs op ons kantoor in Groningen en ontdek wat je anders had laten liggen.
@@ -45,10 +45,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Bedrijfsfilm laten maken?
+      ## Bedrijfsfilm laten maken in Groningen?
 
 
-      Ben je benieuwd geworden naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van videomarketing? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het [maken van animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
+      Ben je benieuwd naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/)? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het [maken van animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
@@ -60,8 +60,8 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: Bedrijfsfilm laten maken Groningen - Productie en Marketing - Phil & Flo
-  description: Bedrijfsfilm laten maken in Groningen? Wij zijn dé specialist in
-    succesvolle bedrijfsfilms in Groningen en omgeving. Bel ons direct voor
-    afspraak ;)
+  title: Bedrijfsfilm laten maken Groningen | Opvallend & doelgericht | Phil & Flo
+  description: Bedrijfsfilm laten maken Groningen | Phil & Flo | ✔ Klantscore 8.9
+    ✔ Onderscheidende content ✔ Uniek en datagedreven ✔ Persoonlijk en
+    interactief | Neem contact op
 ---
