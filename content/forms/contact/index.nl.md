@@ -1,6 +1,6 @@
 ---
 title: Contact
-thankyou_page: /bedankt-invullen-contactformulier/
+thankyou_page: /bedankt-invullen-contactformulier
 type: contact
 slug: contact-formulier
 seo:
