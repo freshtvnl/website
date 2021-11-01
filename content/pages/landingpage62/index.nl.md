@@ -6,12 +6,13 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
   - type: hero_block
-    content: Ondernemer in Eindhoven? Vertaal je briljante concept, plan of product
-      in een animatie. Phil & Flo helpt je graag op weg. Met een animatie bereik
-      je mensen die geen zin of tijd hebben om grote stukken tekst te lezen,
-      maar wel interesse hebben in jou. Het zou toch jammer zijn als je die
-      groep mensen mist? Bij ons ben je verzekerd van een doeltreffende animatie
-      om kort en krachtig je boodschap uit te leggen.
+    content: Ondernemer in Eindhoven? Vertaal je briljante concept, plan of
+      [product](https://www.philenflo.nl/3d-productvideo/) in een animatie. Phil
+      & Flo helpt je graag op weg. Met een animatie bereik je mensen die geen
+      zin of tijd hebben om grote stukken tekst te lezen, maar wel interesse
+      hebben in jou. Het zou toch jammer zijn als je die groep mensen mist? Bij
+      ons ben je verzekerd van een doeltreffende animatie om kort en krachtig je
+      boodschap uit te leggen.
     title: Animatie film laten maken in ***Eindhoven*** door Phil & Flo
     displaymedia: custom_video
     video:
@@ -31,7 +32,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Wat kan animatie en film voor je doen?
+      ## Wat kan animatie en film voor je bedrijf in Eindhoven doen?
 
 
       Simpel gezegd valt animatie en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) meer op dan tekst en brengt je boodschap beter over. Als je een bepaalde doelgroep wilt bereiken, is animatie een sterke manier om de aandacht te pakken en vast te houden. Het visueel maken van informatie is niet alleen leuker om naar te kijken: je doelgroep zal je informatie — en je merk! — beter onthouden als je het presenteert in bewegende beelden.
@@ -60,7 +61,7 @@ blocks:
       ## In ***stijl*** een animatie laten maken
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, [educatief](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, [educatief](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen. Lees hier meer over [2d animatie](https://www.philenflo.nl/2d-animatie/) en [3d animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/).
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
@@ -68,7 +69,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Kies de juiste kleuren***
+      ## ***Kies de juiste kleuren voor jouw animatie Eindhoven***
 
 
       We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kleur in je animatie zorgt dus voor verschillende acties.
@@ -98,7 +99,7 @@ blocks:
       - animatiefilm-over-biogas
 seo:
   title: Animatie film laten maken in Eindhoven | Phil & Flo Videomarketing
-  description: Animatie film laten maken in Eindhoven door Phil & Flo |
-    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
-    innovatief
+  description: Animatie film laten maken in Eindhoven door Phil & Flo | ✔
+    Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
+    Creatief, interactief & innovatief | Neem contact op
 ---
