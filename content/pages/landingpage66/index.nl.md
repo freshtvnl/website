@@ -19,10 +19,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Animatie studio Utrecht
+      ## Animatie laten maken in een studio Utrecht
 
 
-      Wij kiezen voor een persoonlijke aanpak om tot een uniek resultaat te komen. Onze specialisten kijken waar je doelgroep zich bevindt en waar deze interesse in heeft, vervolgens ontwikkelen we samen met jou het concept en daarna gaan we creatief en vakkundig aan de slag met het [maken van de animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Met onze animatiestudio kies je voor echt maatwerk en geen dertien-in-een-dozijn.
+      Wij kiezen voor een persoonlijke aanpak om tot een uniek resultaat te komen. Onze specialisten kijken waar je doelgroep zich bevindt en waar deze interesse in heeft, vervolgens ontwikkelen we samen met jou het concept en daarna gaan we creatief en vakkundig aan de slag met het [maken van de animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Met onze animatiestudio kies je voor echt maatwerk en geen dertien-in-een-dozijn. Lees hier meer over [2d animatie](https://www.philenflo.nl/2d-animatie/) en [3d animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/).
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
@@ -30,10 +30,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Hoe werkt onze animatie studio?
+      ## Hoe werkt onze animatie studio in Utrecht?
 
 
-      Als je met ons in zee gaat, houden we je continu op de hoogte van de voortgang. We werken sowieso met een helder stappenplan. We bepalen het doel van de animatiefilm, schrijven het script, en vertalen dat naar een aansprekende video. Maar daar houdt het niet op: we zijn namelijk ook expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/video-laten-maken/). Wij helpen je dus ook met het bepalen van een strategie om je animatie gericht in te zetten.
+      Als je met ons in zee gaat, houden we je continu op de hoogte van de voortgang. We werken sowieso met een helder stappenplan. We bepalen het doel van de [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/), schrijven het script, en vertalen dat naar een aansprekende video. Maar daar houdt het niet op: we zijn namelijk ook expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/video-laten-maken/). Wij helpen je dus ook met het bepalen van een strategie om je animatie gericht in te zetten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
@@ -52,7 +52,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Leer Phil & Flo animatie studio kennen
+      ## Leer Phil & Flo animatie studio Utrecht kennen
 
 
       Om je te overtuigen en inspireren, hebben we een grote greep uit eerdere [cases](https://www.philenflo.nl/portfolio/) online. Zo zie je van tevoren wat onze animatie studio al in Utrecht heeft gedaan. Wij geloven ook in persoonlijk contact met onze klanten. Daarom gaan we graag vrijblijvend met je in gesprek. Zie jij dat ook zitten? Dan kun je meteen [contact](https://www.philenflo.nl/contact/) met ons opnemen, of langskomen op een van onze kantoren.
@@ -111,6 +111,7 @@ blocks:
       - animatiefilm-over-biogas
 seo:
   title: Animatie studio in Utrecht | Phil & Flo Videomarketing
-  description: Phil & Flo Animatie studio in Utrecht | Onderscheidende content ✔
-    Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
+  description: Phil & Flo Animatie studio in Utrecht | ✔ Klantscore 8.9 ✔
+    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
+    innovatief | Neem contact op
 ---
