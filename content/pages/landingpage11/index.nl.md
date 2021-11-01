@@ -29,7 +29,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Bereik ***verschillende*** doelen
+      ## Bereik ***verschillende*** doelen met jouw bedrijfsfilm in Eindhoven
 
 
       Een band opbouwen met (potentiële) klanten, toekomstige werknemers voorlichten of nieuwe opdrachtgevers overtuigen: een bedrijfsfilm kan verschillende doelen dienen voor jouw onderneming in Eindhoven. Stuk voor stuk doelen die wij van Phil & Flo bereiken door authentieke storytelling, waardoor je een blijvende, emotionele connectie maakt met jouw doelgroep. Een goed gevoel dat ze straks voor jou kiezen. Neem contact op om een bedrijfsfilm te laten maken in Eindhoven.
@@ -80,7 +80,8 @@ blocks:
   - contacts:
       - suzan-abbas
 seo:
-  title: Bedrijfsfilm Eindhoven - Snel en Professioneel - Phil & Flo
-  description: Bedrijfsfilm laten maken in Eindhoven? De nummer 1 in succesvolle
-    bedrijfsfilms in Eindhoven en omgeving. Bel ons direct voor afspraak.
+  title: Bedrijfsfilm Eindhoven | Snel en Professioneel | Phil & Flo
+  description: Bedrijfsfilm laten maken in Eindhoven | Phil & Flo | ✔ Klantscore
+    8.9 Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat | Neem contact
+    op
 ---
