@@ -1,6 +1,6 @@
 ---
 title: Factuurgegevens
-thankyou_page: /bedankt-factuurgegevens/
+thankyou_page: /bedankt-factuurgegevens
 slug: factuurgegevens
 type: factuurgegevens
 seo:

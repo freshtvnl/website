@@ -5,7 +5,7 @@
   <div class="px-6 transform translate-y-12 lg:px-8">
     <div class="max-w-screen-xl py-12 mx-auto bg-white ">
       <div class="grid grid-cols-6 text-center divide-gray-200 lg:divide-x-2">
-        <div class="col-span-6 px-4 py-2 lg:px-8 md:col-span-3 lg:col-span-3">
+        <div class="col-span-6 px-4 py-2 lg:px-8 md:col-span-3 lg:col-span-2">
           {{ with .Site.Params.footer.ctabar.contact.title }}
           <h4 class="text-xl font-bold text-gray-700">{{. }}</h4>
           {{ end }}
@@ -28,7 +28,7 @@
           </div>
         </div>
 
-        <div class="col-span-6 px-4 py-2 mt-6 border-gray-100 lg:px-8 md:col-span-3 lg:col-span-3 md:border-l-2 lg:border-l-0 md:mt-0">
+        <div class="col-span-6 px-4 py-2 mt-6 border-gray-100 lg:px-8 md:col-span-3 lg:col-span-2 md:border-l-2 lg:border-l-0 md:mt-0">
           {{ with .Site.Params.footer.ctabar.session.title }}
           <h4 class="mb-4 text-xl font-bold text-gray-700">{{ . }}</h4>
           {{ end }}
@@ -48,7 +48,7 @@
           {{ end}}
         </div>
 
-        <div class="hidden col-span-6 px-4 py-2 mt-6 lg:px-8 lg:col-span-2 lg:mt-0">
+        <div class="col-span-6 px-4 py-2 mt-6  lg:px-8 lg:col-span-2 lg:mt-0">
           {{ with .Site.Params.footer.ctabar.contactblock.title }}
           <h4 class="mb-2 text-xl font-bold text-gray-700">{{ . }}</h4>
           {{ end }}
