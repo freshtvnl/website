@@ -5,7 +5,7 @@
   <div class="px-6 transform translate-y-12 lg:px-8">
     <div class="max-w-screen-xl py-12 mx-auto bg-white ">
       <div class="grid grid-cols-6 text-center divide-gray-200 lg:divide-x-2">
-        <div class="col-span-6 px-4 py-2 lg:px-8 md:col-span-3 lg:col-span-2">
+        <div class="col-span-6 px-4 py-2 lg:px-8 md:col-span-3 lg:col-span-3">
           {{ with .Site.Params.footer.ctabar.contact.title }}
           <h4 class="text-xl font-bold text-gray-700">{{. }}</h4>
           {{ end }}
@@ -28,7 +28,7 @@
           </div>
         </div>
 
-        <div class="col-span-6 px-4 py-2 mt-6 border-gray-100 lg:px-8 md:col-span-3 lg:col-span-2 md:border-l-2 lg:border-l-0 md:mt-0">
+        <div class="col-span-6 px-4 py-2 mt-6 border-gray-100 lg:px-8 md:col-span-3 lg:col-span-3 md:border-l-2 lg:border-l-0 md:mt-0">
           {{ with .Site.Params.footer.ctabar.session.title }}
           <h4 class="mb-4 text-xl font-bold text-gray-700">{{ . }}</h4>
           {{ end }}
@@ -48,7 +48,7 @@
           {{ end}}
         </div>
 
-        <div class="col-span-6 px-4 py-2 mt-6 lg:px-8 lg:col-span-2 lg:mt-0">
+        <div class="hidden col-span-6 px-4 py-2 mt-6 lg:px-8 lg:col-span-2 lg:mt-0">
           {{ with .Site.Params.footer.ctabar.contactblock.title }}
           <h4 class="mb-2 text-xl font-bold text-gray-700">{{ . }}</h4>
           {{ end }}
@@ -69,14 +69,10 @@
 
           {{ with .Site.Params.footer.ctabar.contactblock.form }}
             {{ range where $.Site.Pages "Params.slug" . }}
-              
               {{ partial "form.html" (dict "data" . "site" $.Site ) }}
             {{ end }}
           {{ end }}
 
-
-
-    
         </div>
       </div>
       {{ with .Site.Params.footer.ctabar.bottomtext }}
@@ -84,9 +80,6 @@
       {{ end }}
     </div>
   </div>
- 
-
-        
 
 <div class="pt-12 text-white branch-element-bg lg:pt-24">
   <div class="max-w-screen-xl px-6 py-12 mx-auto lg:px-8 lg:py-12 ">
@@ -169,8 +162,6 @@
   </div>
 </div>
 </footer>
-
-
 {{ with resources.Get "js/app.js" }}
 {{ $options := dict "defines" (dict "process.env.NODE_ENV" "\"development\"" "process.env.BaseURL" (printf `"%s"` $.Site.BaseURL)) }}
 {{ $script := . | js.Build $options | resources.Fingerprint }}

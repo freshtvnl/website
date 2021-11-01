@@ -3018,6 +3018,10 @@ span.flatpickr-weekday{
     grid-column: span 2 / span 2;
   }
 
+  .md\:col-span-6 {
+    grid-column: span 6 / span 6;
+  }
+
   .md\:col-start-4 {
     grid-column-start: 4;
   }
@@ -3379,6 +3383,10 @@ span.flatpickr-weekday{
 
   .lg\:col-span-2 {
     grid-column: span 2 / span 2;
+  }
+
+  .lg\:col-span-6 {
+    grid-column: span 6 / span 6;
   }
 
   .lg\:mx-auto {
