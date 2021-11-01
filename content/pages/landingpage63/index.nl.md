@@ -45,7 +45,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Waarom*** een animatie?
+      ## ***Waarom*** een animatie laten maken in Rotterdam?
 
 
       Je kunt een animatiefilm voor allerlei doeleinden inzetten. Interne communicatie, een [promotiefilmpje](https://www.philenflo.nl/promotiefilm-laten-maken/), [uitleg](https://www.philenflo.nl/uitleganimatie-laten-maken/) verzorgen — de dynamische en visuele stijl van een animatie kun je niet evenaren met tekst of een statische afbeelding. Wil je ook zorgen dat niemand je boodschap mist? Ontdek dan wat animatie allemaal voor jou te bieden heeft: van [reclame](https://www.philenflo.nl/commercial-laten-maken/) tot interne communicatie, van social media campaign tot [explanimatio](https://www.philenflo.nl/explanimation-laten-maken/)n van je jaarverslag. Wij maken het voor je.
@@ -83,8 +83,8 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
 seo:
-  title: Animatie maken Rotterdam | Door Phil & Flo Videomarketing
-  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo
-    |Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief
-    & innovatief
+  title: Animatie maken Rotterdam | Phil & Flo Videomarketing
+  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo | ✔
+    Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
+    Creatief, interactief & innovatief | Neem contact op
 ---
