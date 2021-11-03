@@ -79,7 +79,8 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Productfilm - Succes dankzij Phil & Flo Videomarketing
-  description: Met een productfilm van Phil & Flo vinden jouw klanten met slechts
-    één klik alle relevante informatie over het juiste product.
+  title: Productfilm laten maken | Phil & Flo creative Studio
+  description: "Productfilm laten maken door Phil & Flo ✔ Onderscheidende content
+    ✔ Gericht op jouw doelgroep ✔ Innovatief ✔ 8,9 klantscore | Neem contact op.
+    "
 ---
