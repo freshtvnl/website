@@ -31,7 +31,7 @@ blocks:
 
       Becky’s belt ons op om een prachtige animatie te maken waarin we de doelgroep mogen prikkelen met een divers en aantrekkelijk assortiment van Becky’s. Onze reactie? "Gaaf!"
 
-      Het keyword die we meekregen: “sprookjesachtig”. Met dit in gedachten was de keuze voor een 3D animatie snel gemaakt.
+      Het keyword die we meekregen: “sprookjesachtig”. Met dit in gedachten was de keuze voor een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) snel gemaakt.
     displaymedia: custom_video
     youtube:
       id: https://video.philenflo.nl/video/Beckys-3d-animatie-case.mp4
@@ -57,7 +57,7 @@ blocks:
 
       Om een goed gevoel voor de stijl van Becky’s te krijgen zijn we begonnen met een bezoek aan de showroom van Becky’s. In de showroom konden we de gehele collectie bekijken en inspiratie opdoen voor de animatie. De diverse concepten en designs representeerden thema’s als: Valentijnsdag, Kerst, Pasen, Moederdag en allerlei andere feestelijke dagen. Tussen alle producten door hadden we een creatieve sessie. Die sessie gaf ons handvatten voor het maken van de 3D animatie. Wat vooral in deze sessie naar boven kwam is; het inspireren en prikkelen van (nieuwe) klanten. Het brede assortiment moest op een aantrekkelijke manier worden gepresenteerd. 
 
-      Met alle uitkomsten van de creatieve sessie hebben we de koppen bij elkaar gestoken om zoveel mogelijk creatieve ideeën te verzamelen. Deze ideeën resulteerden in een passend script, storyboard en uiteindelijk de animatie zelf.
+      Met alle uitkomsten van de creatieve sessie hebben we de koppen bij elkaar gestoken om zoveel mogelijk creatieve ideeën te verzamelen. Deze ideeën resulteerden in een passend script, storyboard en uiteindelijk de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zelf.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -80,4 +80,8 @@ blocks:
   - type: contact_block
     contacts:
       - inge
+seo:
+  description: De wereld van Becky's verbeeld door Phil & Flo met 3d animatie.
+    Ontdek hier de animatie. Meer informatie? Neem contact op.
+  title: 3D animatie voor Becky's | Phil & Flo | Portfolio
 ---
