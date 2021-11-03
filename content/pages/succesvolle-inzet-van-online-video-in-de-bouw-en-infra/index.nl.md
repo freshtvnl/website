@@ -82,7 +82,7 @@ blocks:
       De arbeidsmarkt is krap, daar weet de bouw- en infrasector alles van. Al jaren is het voor sommige functiegebieden lastig om de juiste invulling te vinden. Aan de andere kant, ben je goed zichtbaar? En communiceer je de onderscheidende aspecten die jij als werkgever te bieden hebt? Door de juiste inzet van video zorg je dat je zichtbaar bent voor jouw doelgroep. Phil & Flo biedt expertise, plan een sessie in om hierover te praten.
 
 
-      ***Film of animatie maken moeilijk?***\
+      Film of [animatie maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) moeilijk?\
 
       Welnee, wij nemen je al het werk uit handen.
     displaymedia: youtube_video
@@ -104,4 +104,8 @@ blocks:
       - Van Wijnen
       - OIO systems
       - Elsun Zonnepanelen
+seo:
+  title: Video inzetten in de Bouw & Infra | Phil & Flo
+  description: Video inzetten voor jouw bouw/infra project ✔ Klantscore 8.9 ✔
+    Onderscheidende content ✔ Creatief & interactief | Neem contact op
 ---
