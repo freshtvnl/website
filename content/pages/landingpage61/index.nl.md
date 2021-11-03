@@ -134,7 +134,7 @@ blocks:
       - animatiefilm-over-biogas
     more_items: true
 seo:
-  title: VR animatie laten maken - Phil & Flo Videomarketing
-  description: VR animatie laten maken doe je bij Phil & Flo | Onderscheidend met
-    creatieve Virtual Reality content | Ervaar nu zelf VR bij ons en bel ons
+  title: VR animatie laten maken | Phil & Flo Creative Studio
+  description: VR animatie laten maken doe je bij Phil & Flo | ✔ Onderscheidende
+    content ✔ Ontdek VR zelf ✔ Innovatief ✔ 8,9 klantscore | Neem contact op.
 ---
