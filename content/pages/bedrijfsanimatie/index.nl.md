@@ -89,8 +89,7 @@ blocks:
       text: Offerte ontvangen
       type: button
 seo:
-  title: Bedrijfsanimatie - Phil & Flo Videomarketing
-  description: "Laat met een bedrijfsanimatie zien wie je bent en wat je doet. Ga
-    met je tijd mee! Van productdemo tot uitlegvideo: wij maken ze simpel en
-    aantrekkelijk."
+  title: Bedrijfsanimatie | Phil & Flo Videomarketing
+  description: Bedrijfsanimatie ✔ Klantscore 8.9 ✔ Onderscheidende content ✔ Uniek
+    en datagedreven ✔ Op maat en prachtig design. Bel de specialisten
 ---
