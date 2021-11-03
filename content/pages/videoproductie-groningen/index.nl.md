@@ -60,8 +60,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: Videoproductie Groningen - Succesvol en Snel - Phil & Flo Videomarketing
-  description: Videoproductie laten maken? Phil & Flo is dé specialist op het
-    gebied van succesvolle videproducties. Neem nu contact op om de
-    mogelijkheden te bespreken!
+  title: Videoproductie Groningen | Phil & Flo Videomarketing
+  description: "Videoproductie laten maken in Groningen? Dat doe je met Phil & Flo
+    ✔ Onderscheidende content ✔ Innovatief ✔ 8,9 klantscore Neem contact op. "
 ---
