@@ -53,8 +53,8 @@ blocks:
       text: Offerte ontvangen
       type: button
 seo:
-  title: Gepersonaliseerd video - Phil & Flo Videomarketing
-  description: Persoonlijke video laten maken door Phil & Flo | Onderscheidende
-    content ✔ Uniek en datagedreven ✔ Persoonlijk en interactief. Bel onze
-    specialisten
+  title: Gepersonaliseerd video | Phil & Flo Videomarketing
+  description: Persoonlijke video laten maken door Phil & Flo | ✔ Onderscheidende
+    content ✔ Uniek en datagedreven ✔ Persoonlijk en interactief | Neem contact
+    op
 ---
