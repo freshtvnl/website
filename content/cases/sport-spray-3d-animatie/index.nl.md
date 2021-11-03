@@ -31,4 +31,8 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: BzSk-Hj1iCk
+seo:
+  description: "Een 3D animatie voor Sport Spray | Ontdek hier hoe Phil & Flo de
+    wereld verbeelden van Sport Spray of neem contact op. "
+  title: Sport Spray 3D animatie | Phil & Flo
 ---
