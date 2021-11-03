@@ -169,4 +169,9 @@ blocks:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+seo:
+  title: Bedrijfsanimatie laten maken | Phil & Flo Creative Studio
+  description: Bedrijfsanimatie laten maken | Van productvideo tot aan
+    uitleganimatie ✔  Klantscore 8.9 ✔  Onderscheidende content | Neem contact
+    op
 ---
