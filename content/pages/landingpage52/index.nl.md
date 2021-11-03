@@ -93,7 +93,8 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
 seo:
-  title: Explanimation laten maken - Phil en Flo Videomarketing
-  description: Een explanimation legt binnen twee minuten uit wat je precies
-    bedoelt met jouw product, dienst, systeem of proces. Neem contact op
+  title: Explanimation laten maken | Phil en Flo | Animatie, Film & Branding
+  description: Explanimation laten maken. Leg in 2 minuten jouw verhaal uit.  ✔
+    Klantscore 8.9 ✔ Onderscheidende content ✔ Creatief & interactief | Neem
+    contact op
 ---
