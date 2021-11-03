@@ -68,6 +68,6 @@ blocks:
       - victor
 seo:
   title: Adverteren op YouTube - Phil & Flo Videomarketing
-  description: Adverteer op YouTube en vergroot je naamsbekendheid. Phil & Flo
-    helpt je graag met het verbeelden van de wereld van morgen.
+  description: Adverteer op YouTube en vergroot je naamsbekendheid. Met de juiste
+    video's trek jij jouw doelgroep aan. Neem contact op
 ---
