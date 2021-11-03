@@ -89,8 +89,8 @@ blocks:
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-instructie-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
 seo:
-  title: Instructiefilm - Phil & Flo Videomarketing
-  description: "Weg met saaie handleidingen: kies voor een instructiefilm! Wij
-    brengen stap voor stap in beeld hoe jouw product of dienst werkt of hoe
-    iemand moet handelen."
+  title: Instructiefilm laten maken |  Phil & Flo Creative studio
+  description: Instructiefilm laten maken | Stap voor stap in beeld hoe jouw
+    product/dienst werkt ✔ Onderscheidende content ✔ Datagedreven ✔ Klantscore
+    8.9 | Neem contact op
 ---
