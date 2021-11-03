@@ -18,4 +18,7 @@ blocks:
       op](https://www.philenflo.nl/contact/). \
 
       Of ga direct naar onze [Homepage](https://www.philenflo.nl/).
+seo:
+  title: 404 | Pagina niet gevonden | Phil & Flo
+  description: 404 | Pagina niet gevonden | Phil & Flo | Animatie, Video, Branding en meer
 ---
