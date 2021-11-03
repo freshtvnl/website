@@ -64,7 +64,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: Videoproductie Amsterdam - Succesvol - Phil & Flo Videomarketing
-  description: Videoproductie laten maken? Phil & Flo is dé specialist op het
-    gebied van succesvolle videproducties. Neem nu contact op!
+  title: "Videoproductie in Amsterdam | Phil & Flo Videomarketing "
+  description: "Videoproductie laten maken in Amsterdam? Dat doe je met Phil & Flo
+    ✔ Onderscheidende content ✔ Innovatief ✔ 8,9 klantscore Neem contact op. "
 ---
