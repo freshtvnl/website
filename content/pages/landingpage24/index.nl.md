@@ -60,7 +60,7 @@ blocks:
       ## Instagram ***video*** laten maken
 
 
-      In online marketing zijn sociale media al lang niet meer weg te denken en Instagram lijkt daar alleen maar te groeien. Als je dan ook nog bedenkt dat videomarketing veel pakkender is dan niet-bewegend beeld, is het logisch om dit in te zetten in jouw marketingstrategie. Bij Phil & Flo helpen we je graag op alle gebieden: van het volledig produceren van video tot het effectief inzetten ervan, en alles daartussen. Zo scoor jij optimaal met video op Instagram.
+      In online marketing zijn sociale media al lang niet meer weg te denken en Instagram lijkt daar alleen maar te groeien. Als je dan ook nog bedenkt dat [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) veel pakkender is dan niet-bewegend beeld, is het logisch om dit in te zetten in jouw marketingstrategie. Bij Phil & Flo helpen we je graag op alle gebieden: van het volledig produceren van video tot het effectief inzetten ervan, en alles daartussen. Zo scoor jij optimaal met video op Instagram.
     displaymedia: image
     image:
       source: images/inge-bank.jpg
@@ -81,4 +81,8 @@ blocks:
   - type: contact_block
     contacts:
       - victor
+seo:
+  title: Instagram video laten maken | Phil & Flo
+  description: Instagram video laten maken door Phil & Flo ✔ Onderscheidende
+    content ✔ Uniek en datagedreven ✔ Klantscore 8.9 Neem contact op
 ---
