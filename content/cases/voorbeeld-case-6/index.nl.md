@@ -69,5 +69,7 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: Commercial Douwe Egberts - Phil & Flo Videomarketing
+  title: Commercial Douwe Egberts | Phil & Flo Videomarketing
+  description: Commercial/Promotiefilm voor Douwe Egberts | Ontdek hier deze leuke
+    case uit ons portfolio. Phil & Flo verbeelden de wereld van morgen.
 ---
