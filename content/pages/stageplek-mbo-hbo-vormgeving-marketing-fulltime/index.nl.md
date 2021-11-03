@@ -96,4 +96,8 @@ blocks:
     displaymedia: null
     image:
       source: images/210505-philenflo-schermachtergrond.jpg
+seo:
+  description: Stageplek MBO / HBO Vormgeving & Marketing (fulltime) | Solliciteer
+    nu op een stageplek bij Phil & Flo Creative Studio of bel ons snel.
+  title: Stageplek MBO / HBO Vormgeving & Marketing (fulltime) | Phil & Flo
 ---
