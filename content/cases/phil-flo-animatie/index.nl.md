@@ -16,4 +16,8 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
+seo:
+  description: "Phil & Flo kan niet zonder een eigen animatie. Ontdek hier onze
+    eigen animatie en neemt contact op voor meer informatie. "
+  title: "Eigen animatie voor Phil & Flo "
 ---
