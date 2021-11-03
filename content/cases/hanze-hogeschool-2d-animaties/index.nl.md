@@ -28,7 +28,7 @@ blocks:
       ## ***Creatieve samenwerking***
 
 
-      Sanne, communicatiespecialist bij de Hanze gaf ons de opdracht om drie hippe & pakkende 2D animaties te maken over de Andes Lupine, een bijzondere plant met veel unieke eigenschappen. Naast deze drie animaties, mochten we het project aftrappen met een animatie over Rob van Haren een van de ‘’godfathers’’ van de Andes Lupine.
+      Sanne, communicatiespecialist bij de Hanze gaf ons de opdracht om drie hippe & pakkende [2D animaties](https://www.philenflo.nl/2d-animatie/) te maken over de Andes Lupine, een bijzondere plant met veel unieke eigenschappen. Naast deze drie animaties, mochten we het project aftrappen met een animatie over Rob van Haren een van de ‘’godfathers’’ van de Andes Lupine.
     displaymedia: youtube_video
     youtube:
       id: Ylb29UzC4HQ
@@ -52,7 +52,7 @@ blocks:
       ## ***Andes Lupine***
 
 
-      De Andes Lupine is een superplant. De vele voordelen die deze plant met zich meebrengt was aanleiding om drie pakkende animaties te wijden aan de plant en haar voordelen. Hierbij was het belangrijk dat de animaties los van elkaar inzetbaar zijn, maar daarnaast elkaar ook complementeren. Het moment suprême was een grote wereldwijde bijeenkomst met als thema... je raadt het al: de Andes Lupine!
+      De Andes Lupine is een superplant. De vele voordelen die deze plant met zich meebrengt was aanleiding om drie pakkende [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) te wijden aan de plant en haar voordelen. Hierbij was het belangrijk dat de animaties los van elkaar inzetbaar zijn, maar daarnaast elkaar ook complementeren. Het moment suprême was een grote wereldwijde bijeenkomst met als thema... je raadt het al: de Andes Lupine!
     youtube:
       id: a9t6eKl03YU
     displaymedia: youtube_video
@@ -68,4 +68,8 @@ blocks:
     youtube:
       id: dU3J2Z5S5I0
     displaymedia: youtube_video
+seo:
+  title: 2D animatie voor Hanze Hogeschool | Phil & Flo
+  description: "2D animatie voor Hanze Hogeschool | Phil & Flo verbeelden de
+    wereld van de Hanze Hogeschool. Ontdek het hier. "
 ---
