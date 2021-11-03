@@ -76,8 +76,8 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: Personalized video - Phil & Flo Videomarketing
-  description: Een personalized video staat voor je klant kennen en met concrete,
-    gepersonaliseerde oplossingen komen. Denk mee en beantwoord de behoeften van
-    je klant!
+  title: "Personalized video laten maken |  Phil & Flo "
+  description: Personalized video laten maken ✔ Concrete & gepersonaliseerde
+    oplossingen voor jouw klant ✔ Klantscore 8.9 ✔ Onderscheidende content |
+    Neem contact op
 ---
