@@ -100,8 +100,7 @@ blocks:
       - animatiefilm-over-biogas
     more_items: true
 seo:
-  title: AnimatieStudio Groningen - Phil & Flo Videomarketing
-  description: Een animatie laat je maken in Groningen! Professionele
-    animatiefilms door onze animatiestudio in Groningen. Kom langs voor een
-    afspraak. Bel ons nu.
+  title: AnimatieStudio Groningen | Phil & Flo Creative studio
+  description: Animatie studio Groningen Phil & Flo ✔ Unieke content  ✔ 2D ✔ 3D ✔
+    VR Animatie ✔ 8,9 klantscore ✔ Innovatief | Neem contact op
 ---
