@@ -90,7 +90,7 @@ blocks:
 parent: animatie-studio-amsterdam
 slug: interactieve-video
 seo:
-  title: Interactieve video - Phil & Flo Videomarketing
-  description: Interactieve video is een revolutionaire marketing tool, waarbij je
-    interactieve elementen toevoegt aan video’s. Vraag nu je offerte aan.
+  title: Interactieve video | Phil & Flo Creative Studio
+  description: "Interactieve video laten maken |  ✔ Passend voor jouw doelgroep ✔
+    Klantscore 8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op. "
 ---
