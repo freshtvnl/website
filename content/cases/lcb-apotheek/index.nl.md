@@ -15,4 +15,8 @@ blocks:
       id: Pxax1cOGSIk
       image:
         source: images/lcb-retourmedicatie-phil-en-flo.jpg
+seo:
+  title: 3D animatie voor LCB Apotheek | Phil & Flo
+  description: "3D animatie voor LCB Apotheek | Een animatie over het terugbrengen
+    van medicatie. Ontdek het hier of neem contact op voor meer informatie. "
 ---
