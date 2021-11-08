@@ -3,84 +3,80 @@ title: 360 graden video laten maken
 slug: 360-graden-video-laten-maken
 draft: false
 color: blue
+seo:
+  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
+  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔ VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273 8331
 blocks:
   - type: hero_block
-    title: "***Commercial*** laten maken"
-    content: '[](https://www.freshtv.nl/commercial-laten-maken/# "Volgende")Wil je
-      een commercial laten maken? Dan ben je bij Phil & Flo aan het juiste
-      adres. Een commercial zegt zoveel meer dan een gesproken of geschreven
-      advertentie! Het voegt beleving en kracht toe aan het imago van een
-      product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
-      creatief en helder overbrengen aan de juiste doelgroep!'
+    content: Wil jij jouw bezoekers een levensechte ervaring bieden vanuit de luie
+      stoel? Wil jij echt voorlopen op je concurrenten? Dan is een 360 graden
+      video laten maken voor jou op de oplossing. Phil & Flo is specialist in
+      het maken van 360 graden video’s en VR animaties, wij helpen je graag met
+      het onderzoeken van de mogelijkheden.
+    title: "***360 graden video*** laten maken door Phil & Flo"
     displaymedia: youtube_video
     youtube:
-      id: uU_QxytkDYY
+      id: whTY-lLc2Tc
   - type: content_block
     align: left
     content: >-
-      ## Effectief, doelgericht en ***creatief***
+      ### Hoe werkt een ***360 graden video***?
 
 
-      Een creatieve insteek is essentieel om een commercial te produceren die raak is. Waarom? Omdat jouw boodschap in 15 tot 30 seconden overgebracht moet worden, met als belangrijkste doel: de kijker tot actie over laten gaan! Maar waar bevindt jouw potentiële doelgroep zich? Ga je de commercial op televisie uitzenden of via YouTube verspreiden? Welke boodschap is het belangrijkst? Welke call-to-action trekt jouw doelgroep over de streep? Vragen die in het beginstadium van groot belang zijn. Wij helpen je het concept glashelder te krijgen, zodat je commercial effectief en doelgericht is.
-    displaymedia: custom_video
+      Bij deze video wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote animatie van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of het scherm op je mobiel kan je door de 360 graden video kijken. De echte VR ervaring creëer je met behulp van een VR bril zoals de Oculus. Door de bewegingen van je hoofd kijk je rond in de 360 graden video, net zoals in het dagelijkse leven.
+    youtube:
+      id: 0ljMPjPQjRI
+    displaymedia: youtube_video
+  - type: content_block
+    content: >-
+      ### Mogelijkheden van een ***360 graden video***
+
+
+      Er zijn oneindige creatieve mogelijkheden voor een 360 graden film. Om je van inspiratie te voorzien leggen we je graag wat voorbeelden uit. Heb je zelf een ander idee in gedachten? Leg het aan ons voor en wij komen graag met een voorstel. De mogelijkheden zijn oneindig.
+    align: right
+    displaymedia: image
     image:
-      source: ""
+      source: images/aron-3d-animatie_hu198473c553df0dccbbe8a93d1eb1fb38_183067_930x500_fill_q75_box_center.jpg
+      alt: Aron bij Phil & Flo
+  - type: content_block
+    align: left
+    content: >-
+      ### 360 graden video voor ***educatie***
+
+
+      Met een VR video is het mogelijk om kinderen spelenderwijs te laten leren, dit is natuurlijk altijd beter dan het lezen uit een boekje. Een 360 graden video is niet alleen geschikt voor kleine kinderen, maar ook voor de oudere student.  Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Dit zorgt ervoor dat een 360 graden video zeer effectief is. Wil je als school echt effectief kennis overdragen? Dan is een 360 graden video de oplossing.
+    displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: right
     content: >-
-      ## Een ***commercial*** laten maken van A tot Z
+      ### 360 graden video voor de ***medische wereld***
 
 
-      Ben je op zoek naar een creatief videoproductie bureau dat jou in het gehele traject begeleidt en een uniek en overtuigend eindproduct aflevert? Welkom bij Phil & Flo! In samenwerking met jou bedenken we het gehele concept en produceren we een commercial die opvalt en resultaat boekt. Onze frisse blik en jarenlange ervaring staan garant voor een commercial die jouw klanten overtuigt.
-    displaymedia: youtube_video
-    image:
-      source: images/aron-sophie.jpg
-    youtube:
-      id: -8n5l374t2Q
+      Ook in de medische wereld is een 360 graden video de toekomst. Je kan onder andere artsen beter opleiden door een VR video. Een student geneeskunde kan een operatie ontelbare keren meemaken voordat hij zelf gaat opereren. Dit zorgt voor veel minder medische fouten. Kijkoperaties kunnen worden nagebootst en door het besturen van virtuele instrumenten kan men handelingen oefenen. Voornamelijk dankzij het trainen van de oog-hand coördinatie kunnen artsen zich goed voorbereiden op een operatie.
+    displaymedia: custom_video
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
-      ## Commercial als onderdeel van ***communicatiemix***
+      ## ***Vandaag*** nog alles weten over een 360 graden video?
 
 
-      Een commercial laten maken door Phil & Flo Creative Studio is dé manier om je doelgroep goed te bereiken. Wij produceren een commercial die aanslaat bij de juiste leeftijdscategorie, inkomensgroep, geslacht of ieder andere selectie die je maakt. De commercial die we produceren voor je kan je niet alleen inzetten op TV, maar ook op [YouTube](https://www.philenflo.nl/youtube-video-laten-maken/) als Pre-roll, Instream of postroll. Daarnaast is ook [Instagram](https://www.philenflo.nl/instagram-video-laten-maken/) stories een geweldige manier om je product of dienst aan je publiek te tonen.
-    displaymedia: image
-    image:
-      source: images/peter-opnames-douwe-egberts.jpg
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Commercial*** laten maken?
-
-
-      Ben jij het ook zat om een commercial of [reclame spot](https://www.philenflo.nl/reclamevideo/) te laten ontwikkelen die niet opvalt? Neem contact op met onze creatieve specialisten en maak vrijblijvend kennis met ons!
-    displaymedia: image
-    image:
-      source: images/peter-suzan-kopie.jpg
+      Een 360 graden video is de nieuwe manier om klanten, leerlingen of partners wat te laten ervaren of meemaken. Ben je nieuwsgierig naar de mogelijkheden van een 360 graden video? Kom snel met ons in contact en kom vandaag alles nog te weten over de oneindige wereld van 360 graden video’s. Beleef bij ons in de VR Room de ervaring van Virtual Reality!
     cta:
       url: /contact/
       text: Contact opnemen
       type: button
+    displaymedia: custom_video
+    video:
+      source_mp4: ""
+      autoplay: true
+      source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
   - type: contact_block
     contacts:
       - peter-de-graaf
-  - type: selectedfaqs_block
-    items:
-      - hebben-jullie-voorbeelden-van-een-interactieve-video
-      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
-      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
-      - CiGF7tCTF
-      - hoe-maken-jullie-een-interactieve-video
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
-      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
-      - welke-muziek-gebruiken-jullie
-seo:
-  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
-  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔
-    VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273
-    8331
 ---

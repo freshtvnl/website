@@ -7,7 +7,8 @@ blocks:
     title: "***Een videoproductie maken***"
     content: Wil je een videoproductie laten maken? Bij Phil & Flo zijn we ervan
       overtuigd dat video het ideale middel is om jouw verhaal te vertellen. Op
-      je website, in een commercial, als TikTok of op YouTube; de mogelijkheden
+      je website, in een commercial, als TikTok of op
+      [YouTube](https://www.philenflo.nl/you-tube-marketing/); de mogelijkheden
       zijn oneindig. Niet voor niets is video uitgegroeid tot één van de
       populairste marketingmiddelen. Phil & Flo maakt jouw organisatie visueel
       aantrekkelijk!
@@ -21,7 +22,7 @@ blocks:
       ### ***Opvallende bedrijfsfilm laten maken***
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) maakt het verschil tussen opvallen en genegeerd worden.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
