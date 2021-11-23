@@ -1,5 +1,5 @@
 ---
-title: Onderwijs, kunst & Cultuur
+title: Onderwijs
 slug: onderwijs-kunst-cultuur
 weight: 4
 draft: false
