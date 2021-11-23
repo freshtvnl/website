@@ -112,6 +112,6 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
-  description: Videofilms of animatie's ter promotie van duurzame energie. Ontdek
-    de mogelijkheden voor jouw branche bij Phil & Flo.
+  description: Videofilms of animatie's ter promotie van de duurzame energie.
+    Ontdek de mogelijkheden bij Phil & Flo.
 ---
