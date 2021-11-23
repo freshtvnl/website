@@ -26,6 +26,12 @@ blocks:
       type: button
       text: Informatie ontvangen
     displaymedia: custom_video
+  - type: collection_block
+    collection: cases
+    content_type: portfolio
+    number_of_items: 3
+    heading: h2
+    title: Portfolio
   - type: content_block
     align: left
     content: >-
