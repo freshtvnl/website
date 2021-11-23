@@ -26,12 +26,12 @@ blocks:
       type: button
       text: Informatie ontvangen
     displaymedia: custom_video
-  - type: collection_block
-    collection: cases
-    content_type: portfolio
-    number_of_items: 3
-    heading: h2
-    title: Portfolio
+  - type: selectedwork_block
+    items:
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
+      - Elsun Zonnepanelen
+    title: Succesverhalen
   - type: content_block
     align: left
     content: >-
