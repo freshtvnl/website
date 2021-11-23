@@ -77,7 +77,7 @@ blocks:
     items:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
 seo:
-  title: "De wereld van morgen verbeelden voor de onderwijs, cultuur of kunst sector "
+  title: Video en animatie oplossingen voor het onderwijs. Virtuele open dag.
   description: Verbeeld met animatie, interactieve film, virtual reality jouw
     wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
     unieke video's.
