@@ -8,19 +8,24 @@ image:
   alt: text
 color: green
 blocks:
-  - type: hero_block
-    title: De wereld van morgen draait op ***duurzame energie***
-    content: De wereld van morgen draait op duurzame energie. Daar worden nu de
-      eerste stappen in gezet. Ons team wil helpen bij de versnelling van
-      duurzame energie door initiatieven en innovaties te verbeelden in
-      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en
-      [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
-      Jouw project of idee kan daardoor het grote publiek bereiken, of juist die
-      ene angel investor.
-    displaymedia: custom_video
+  - type: content_block
     video:
-      source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
+    align: left
+    content: >-
+      ***Hoogwaardige video en animatie voor de duurzame energie.***
+
+
+      Phil en Flo maakt specialistische [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) en [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) met impact, speciaal voor jouw organisatie in de duurzame energie. Maak impact bij je doelgroep, dankzij onze kennis en expertise. Zonder dat dit jou veel tijd kost. 
+
+
+      Leads genereren, uitleg over je product of dienst of het bereiken van je doelgroep, onze video en animatie specialist heeft de focus op jouw branche.
+    cta:
+      url: /contact/
+      type: button
+      text: Informatie ontvangen
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
@@ -57,6 +62,8 @@ blocks:
     image:
       source: images/feestje-phil-en-flo.jpg
       alt: Team Phil & Flo
+    video:
+      autoplay: false
   - type: content_block
     align: right
     content: >-
