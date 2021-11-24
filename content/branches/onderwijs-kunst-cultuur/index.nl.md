@@ -24,7 +24,7 @@ blocks:
       ## ***Interactieve*** open dagen
 
 
-      Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
+      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). **Wat te doen als een fysieke open dag niet mogelijk is?** Ons antwoord was deze film voor Park Lyceum in Almere en voor CSB Amsterdam hierboven.
     displaymedia: iframe
     image:
       source: images/onderwijs-promotiefilm.jpg
