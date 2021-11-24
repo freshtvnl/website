@@ -18,13 +18,15 @@ blocks:
       elektrische auto's kunnen communiceren en slim kunnen samen werken. Wij
       hebben een script uitgewerkt de stijl en samen met Alfen bepaald wie de
       doelgroep is en wat hun mate van kennis op dit gebied is.
-    displaymedia: custom_video
+    displaymedia: youtube_video
     image:
       source: images/alfen-smart-charging-network-ao.jpg
     video:
       source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
       source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
       autoplay: true
+    youtube:
+      id: djHYZpzuwtc
   - type: content_block
     align: right
     content: >-
@@ -46,7 +48,7 @@ blocks:
 
 
       Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     image:
       source: ""
     youtube:
@@ -55,6 +57,8 @@ blocks:
       url: ""
       text: ""
       type: link
+    video:
+      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
   - type: content_block
     video:
       autoplay: true
