@@ -1,6 +1,6 @@
 ---
 title: Douwe Egberts - Cafitesse Commercial
-slug: douwe-egberts-promotiefilm
+slug: Douwe Egberts - Cafitesse Commercial
 weight: 4
 draft: false
 image:
