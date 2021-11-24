@@ -116,8 +116,10 @@ blocks:
       - bedrijfsanimatie
       - algemene-voorwaarden
       - bedankt-nieuwsbrief
+      - contact
     branches_items:
       - goede-doelen
+      - onderwijs-kunst-cultuur
     members_items:
       - victor
 seo:
