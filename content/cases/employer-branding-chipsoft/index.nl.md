@@ -1,7 +1,7 @@
 ---
 title: Employer branding chipsoft
 slug: Employer branding chipsoft
-draft: false
+draft: true
 image:
   source: images/employer-branding-chipsoft.jpg
 content_type: case
