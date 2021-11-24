@@ -126,7 +126,7 @@ blocks:
   - type: collection_block
     heading: h1
     number_of_items: 3
-    collection: cases
+    collection: solutions
     content_type: null
     title: Een greep uit ons werk
 seo:
