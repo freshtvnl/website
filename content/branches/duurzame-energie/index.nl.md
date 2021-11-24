@@ -97,10 +97,11 @@ blocks:
     form: contact-formulier
   - type: selectedwork_block
     items:
-      - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
       - Elsun Zonnepanelen
+      - alfen-Smart-Charging-Network-3D-animatie
     title: Succesverhalen
+    more_items: true
   - type: contact_block
     content: ""
     contacts:
