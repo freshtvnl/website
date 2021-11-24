@@ -1,5 +1,5 @@
 ---
-title: Documizers
+title: Documizers - 2D Animatie
 slug: Documizers
 draft: false
 image:
