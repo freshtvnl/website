@@ -1,5 +1,5 @@
 ---
-title: UMCG - Chirurgie Employer Branding film
+title: UMCG - Employer Branding film
 slug: umcg-chirurgie-employer-branding-film
 weight: 2
 draft: false
