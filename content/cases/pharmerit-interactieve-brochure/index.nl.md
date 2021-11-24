@@ -1,6 +1,7 @@
 ---
-title: Pharmerit - Interactieve brochure
+title: Pharmerit - Interactieve Brochure
 slug: Pharmerit - Interactieve brochure
+weight: 6
 draft: false
 image:
   source: images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg
