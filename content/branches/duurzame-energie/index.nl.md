@@ -106,6 +106,9 @@ blocks:
     contacts:
       - peter-de-graaf
     more_items: true
+  - items:
+      - animatiefilm-over-biogas
+      - alfen-Smart-Charging-Network-3D-animatie
   - branches_items:
       - goede-doelen
       - onderwijs-kunst-cultuur
@@ -120,15 +123,6 @@ blocks:
       - algemene-voorwaarden
       - bedankt-nieuwsbrief
       - contact
-  - items:
-      - animatiefilm-over-biogas
-      - alfen-Smart-Charging-Network-3D-animatie
-  - type: collection_block
-    heading: h1
-    number_of_items: 3
-    collection: solutions
-    content_type: null
-    title: Een greep uit ons werk
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie.
