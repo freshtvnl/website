@@ -1,5 +1,5 @@
 ---
-title: Vertical Farming KG Systems
+title: Vertical Farming - 3D animatie
 slug: Vertical farming 3d animatie
 draft: false
 image:
