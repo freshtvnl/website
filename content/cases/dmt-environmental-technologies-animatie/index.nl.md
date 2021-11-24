@@ -1,5 +1,5 @@
 ---
-title: DMT Environmental Technologies Animatie
+title: DMT - Biogas 3D Animatie
 slug: animatiefilm-over-biogas
 draft: false
 image:
