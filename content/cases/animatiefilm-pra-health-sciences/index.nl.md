@@ -1,5 +1,5 @@
 ---
-title: Animatiefilm PRA health sciences
+title: ICON Health Sciences - 2D animatie
 slug: Animatiefilm PRA health sciences
 draft: false
 image:
