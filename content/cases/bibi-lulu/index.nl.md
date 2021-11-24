@@ -1,5 +1,5 @@
 ---
-title: Bibi & Lulu
+title: Bibi & Lulu - Kinder Animatie
 slug: Bibi & Lulu
 draft: false
 image:
