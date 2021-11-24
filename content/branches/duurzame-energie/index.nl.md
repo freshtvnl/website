@@ -12,7 +12,7 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: Hoogwaardige video en animatie voor de ***duurzame energie.***
+    title: Hoogwaardige video en animatie voor de ***duurzame energie sector***
   - type: content_block
     video:
       autoplay: true
