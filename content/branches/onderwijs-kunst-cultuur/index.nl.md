@@ -22,7 +22,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ### Video en Animatie ***oplossingen*** voor het onderwijs
 
