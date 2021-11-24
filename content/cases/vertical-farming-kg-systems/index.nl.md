@@ -1,5 +1,5 @@
 ---
-title: Vertical Farming - 3D animatie
+title: Vertical Farming - 3D Animatie
 slug: Vertical farming 3d animatie
 draft: false
 image:
