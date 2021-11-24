@@ -127,7 +127,7 @@ blocks:
     heading: h1
     number_of_items: 3
     collection: cases
-    content_type: case
+    content_type: portfolio
     title: Een greep uit ons werk
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
