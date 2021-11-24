@@ -1,6 +1,6 @@
 ---
 title: ChipSoft - Werken Bij Chipsoft
-slug: Employer branding chipsoft
+slug: ChipSoft - Werken Bij Chipsoft
 draft: true
 image:
   source: images/employer-branding-chipsoft.jpg
