@@ -11,7 +11,7 @@ color: green
 branch: duurzame-energie
 blocks:
   - type: hero_block
-    title: "***Techniek verbeelden***"
+    title: "***Techniek verbeelden met productanimatie***"
     content: Alfen heeft ons gevraagd om een
       [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) te
       produceren die inzichtelijk maakt hoe de verschillende laadpalen voor
