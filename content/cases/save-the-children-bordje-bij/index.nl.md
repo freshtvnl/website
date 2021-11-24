@@ -4,6 +4,7 @@ slug: Save The Children - Bordje Bij
 draft: false
 image:
   source: images/save-the-children.jpg
+content_type: portfolio
 color: red
 branch: goede-doelen
 blocks:
