@@ -13,28 +13,15 @@ blocks:
     content: Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
       staan aan de basis van een nieuwe generatie die de wereld van morgen
       vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
-      fantastische branche met bijvoorbeeld een [virtuele school
+      prachtige branche met bijvoorbeeld een [virtuele school
       rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
       Bekijk hieronder een interactief voorbeeld.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
-    align: left
     content: >-
-      ## ***Onderwijs*** voor de wereld van morgen
-
-
-      De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij van Phil & Flo ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst die zij zelf kunnen vormgeven. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
-    displaymedia: image
-    iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
-    image:
-      source: images/onderwijs-promotiefilm.jpg
-      alt: Opname video onderwijs
-  - type: content_block
-    content: >-
-      ## ***1 + 1 = 3?***
+      ## ***Interactieve*** open dagen
 
 
       Creatieve marketing is de kracht van Phil & Flo. Wij zetten ons specialisme in om onderwijsinstellingen te helpen met hun uitdagingen op het vlak van communicatie. Wij werken niet alleen voor onze klanten, maar vooral ook samen met hen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). We helpen je om jouw uitdaging op de juiste, duurzame manier te tackelen. Zo deden we dat ook voor het Park Lyceum in Almere. Wat te doen als een fysieke open dag niet mogelijk is? Ons antwoord was deze film.
@@ -51,6 +38,19 @@ blocks:
       url: /portfolio/
       text: Bekijk ons portfolio
       type: button
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Onderwijs*** voor de wereld van morgen
+
+
+      De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij van Phil & Flo ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst die zij zelf kunnen vormgeven. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
+    displaymedia: image
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    image:
+      source: images/onderwijs-promotiefilm.jpg
+      alt: Opname video onderwijs
   - type: content_block
     align: left
     content: >-
@@ -72,6 +72,10 @@ blocks:
     items:
       - review-noorderpoort-college
       - diataal
+      - review-csb-amsterdam
+      - park lyceum review
+      - csb-ouder-4
+      - ouder-2-csb
   - type: selectedwork_block
     title: Video voorbeelden
     items:
