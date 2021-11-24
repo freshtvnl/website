@@ -29,6 +29,7 @@ blocks:
 
       Jij bent op zoek naar communicatie die blijft hangen? Kies voor een animatiefilm, video of interactieve video, speciaal op maat geproduceerd voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo en kies voor een leuke samenwerking.
     form: contact-formulier
+    displaymedia: form
   - type: content_block
     content: >-
       ## ***Interactieve*** open dagen
