@@ -1,9 +1,10 @@
 ---
-title: Douwe Egberts - Promotiefilm
+title: Douwe Egberts - Cafitesse
 slug: douwe-egberts-promotiefilm
+weight: 4
 draft: false
 image:
-  source: images/schermafbeelding-2020-12-01-om-16.24.30.png
+  source: images/douwe-egberts-cafitesse.jpg
   alt: ""
 content_type: case
 color: orange
