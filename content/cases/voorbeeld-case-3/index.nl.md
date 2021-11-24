@@ -1,5 +1,5 @@
 ---
-title: 3D commercial - Kunstenaars organisatie
+title: 3D Commercial - Artistiek
 slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
 draft: false
 image:
