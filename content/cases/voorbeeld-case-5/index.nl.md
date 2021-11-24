@@ -1,6 +1,6 @@
 ---
-title: UMCG - Employer Branding film
-slug: umcg-chirurgie-employer-branding-film
+title: UMCG - Werken Bij UMCG als ANIOS
+slug: UMCG - Werken Bij UMCG als ANIOS
 weight: 2
 draft: false
 image:
