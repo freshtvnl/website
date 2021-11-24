@@ -1,6 +1,6 @@
 ---
 title: BOK - Artistieke 3D Commercial
-slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
+slug: BOK - Artistieke 3D Commercial
 draft: false
 image:
   source: images/goede-doelen-boknet-phil-en-flo-3d-commercial.jpg
