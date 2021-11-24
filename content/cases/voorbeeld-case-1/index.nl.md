@@ -1,5 +1,5 @@
 ---
-title: Alfen - 3D Productanimaties
+title: Alfen - 3D Animaties
 slug: alfen-Smart-Charging-Network-3D-animatie
 weight: 3
 draft: false
@@ -11,87 +11,81 @@ color: green
 branch: duurzame-energie
 blocks:
   - type: hero_block
-    displaymedia: custom_video
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
-    content: PRA Health Sciences zoekt doorlopend naar vrijwilligers die mee willen
-      werken aan een geneesmiddelenonderzoek. Bij een geneesmiddelenonderzoek
-      worden kandidaten een bepaalde periode opgenomen in het onderzoekscentrum
-      van PRA Health Sciences in Groningen. Na een strenge medische keuring
-      wordt een bepaald medicijn getest.
-    title: "***PRA Health Sciences*** zoekt vrijwilligers"
-  - type: content_block
-    align: left
+    title: "***Techniek verbeelden***"
+    content: Alfen heeft ons gevraagd om een
+      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) te
+      produceren die inzichtelijk maakt hoe de verschillende laadpalen voor
+      elektrische auto's kunnen communiceren en slim kunnen samen werken. Wij
+      hebben een script uitgewerkt de stijl en samen met Alfen bepaald wie de
+      doelgroep is en wat hun mate van kennis op dit gebied is.
     displaymedia: youtube_video
+    image:
+      source: ""
+    video:
+      source_mp4: ""
+      source_webm: ""
+      autoplay: false
     youtube:
-      id: _TC_JNz4EL8
-    content: >-
-      ## Hoe werkt ***geneesmiddelen*** onderzoek?
-
-
-      Hiervoor is een lopende stroom aan kandidaten nodig. PRA werft middels een always-on campaign en hen viel op dat er rond de zomerperiode een forse dip in het aantal aanmeldingen zat. Naast het feit dat kandidaten gedurende de zomerperiode vaak andere dingen te doen hebben, is het door middel van enquêtes en onderzoek duidelijk geworden dat men geneesmiddelenonderzoek vaak “eng” vindt. Het is niet 100% duidelijk wat een onderzoek inhoudt en of het wel of niet gevaarlijk is.
+      id: djHYZpzuwtc
   - type: content_block
-    content: >-
-      ## Mix van ***videosoorten***
-
-
-      Om het aantal aanmeldingen te verhogen en te stabiliseren moesten er cases, ervaringen en toelichting op geneesmiddelenonderzoek gepresenteerd worden aan toekomstige vrijwilligers. Om dit te realiseren hebben we in het voortraject van de kandidaat duidelijkheid geschept door de inzet van een passende mix van videosoorten.
     align: right
-    displaymedia: youtube_video
-    youtube:
-      id: uU_QxytkDYY
+    content: >-
+      ## ***Alfen kiest voor 3D animatie***
+
+
+      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
+    displaymedia: image
+    image:
+      source: images/alfen-smart-charging-network-ao.jpg
     video:
+      source_mp4: ""
+      source_webm: ""
       autoplay: false
   - type: content_block
     align: left
     content: >-
-      ### ***Uitleganimatie*** schept duidelijkheid
+      ## ***Resultaten***
 
 
-      Zo hebben we een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe PRA te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
+      Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
     displaymedia: custom_video
+    image:
+      source: ""
+    youtube:
+      id: ""
+    cta:
+      url: ""
+      text: ""
+      type: link
     video:
-      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
     align: right
     content: >-
-      ### Ervaring in ***video-testimonials***
+      ## ***The Battery - Mobile***
 
 
-      Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend [video-testimonials](https://www.philenflo.nl/video-testimonial/) gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
+      Ook de mobiele batterij van Alfen is een prachtig groen alternatief voor onder andere de diesel generator. Benieuwd hoe de batterij werkt en welke voordelen deze heeft? Bekijk dan onze 3D animatie en leer meer!
     displaymedia: youtube_video
     youtube:
-      id: i1ljV8twDig
+      id: bnPFCbUfEf0
   - type: content_block
     align: left
     content: >-
-      ### De organisatie in een ***bedrijfsfilm***
+      ## ***Visie van onze grafische vormgever***
 
 
-      Na de uitleg van wat geneesmiddelen onderzoek is en het delen van ervaringen is het natuurlijk belangrijk om te weten met wat voor organisatie de kandidaat in aanraking komt. Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) die deze informatie verschaft kan om deze reden niet ontbreken. Sterker nog, deze film is zelfs essentieel. Je doet namelijk geen zaken met een bedrijf waar je geen vertrouwen in hebt. Zeker niet als het om je gezondheid gaat!
-    displaymedia: youtube_video
-    youtube:
-      id: uxDljSPqZA8
-  - type: content_block
-    align: right
-    content: >-
-      ## ***Resultaat*** liegt er niet om
-
-
-      PRA Health Sciences is een uitstekend voorbeeld van een geslaagde videocampagne. Het denkwerk voorafgaand aan de filmopnames en animeerwerk in combinatie met het goed online wegzetten op YouTube heeft geresulteerd tot een verdubbeling in het aantal aanmeldingen. Met name de uitleganimatie doet haar werk uitstekend met inmiddels meer dan 1 miljoen weergaven. Kijk voor alle videoresultaten eens naar het compleet ingerichte [YouTube kanaal van PRA Health Sciences](https://www.youtube.com/user/vrijwilligerPRA).
-
-
-      Wil je ook meer informatie over een videocampagne voor jouw organisatie? Neem contact op of bel onze adviseurs 085 273 8331
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-2-Phil-en-Flo-website-source.mp4
-      autoplay: true
+      "Ik vond dit echt een superleuk project om te doen, dit soort animaties geven mij altijd een goed gevoel. Deze laadpalen zijn ook een belangrijke bijdrage aan de wereld van morgen, zodat iedereen straks makkelijk elektrisch kan gaan rijden." - Aron
+    displaymedia: image
+    image:
+      source: images/aron-3d-animatie.jpg
     cta:
-      url: /contact/
-      text: Contact opnemen
-      type: button
+      text: Ik wil ook graag met Aron samenwerken
+      url: /offerte-ontvangen/
+      type: link
   - type: contact_block
     contacts:
       - peter-de-graaf
