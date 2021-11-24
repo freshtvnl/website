@@ -1,6 +1,7 @@
 ---
 title: CSB Amsterdam interactieve tour
 slug: CSB Amsterdam interactieve tour
+weight: 1
 draft: false
 image:
   source: images/csb-muziekles.jpg
