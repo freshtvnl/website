@@ -63,7 +63,7 @@
   {{ end }}
 {{ end }}
 
-{{ if or $params.video $params.iframe $params.image $params.youtube }}
+{{ if $params.displaymedia  }}
   <div class="flex justify-end float-right w-2/3 px-12 pt-12 pb-4 -mb-16 transform -translate-y-16 branch-element-bg md:pt-24 lg:pb-10 xl:py-16">
     &nbsp;
     <a href="#main" class="hidden md:block">
@@ -74,4 +74,5 @@
     </a>
   </div>
 {{ end }}
+
 </div>
