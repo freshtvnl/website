@@ -1,7 +1,7 @@
 ---
-title: Coornhert Gymnasium - Promotiefilm school
-draft: false
+title: Coornhert Gymnasium - Promotiefilm
 slug: coornhert-gymnasium-promotiefilm-school
+draft: false
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
   alt: coornehr Lyceum film
