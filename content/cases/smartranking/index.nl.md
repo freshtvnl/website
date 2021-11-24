@@ -1,5 +1,5 @@
 ---
-title: SmartRanking Bedrijfsfilm
+title: SmartRanking - Bedrijfsfilm
 slug: Smartranking Bedrijfsfilm
 draft: false
 image:
