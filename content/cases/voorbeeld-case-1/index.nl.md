@@ -1,6 +1,7 @@
 ---
 title: Alfen - Smart Charging Network
 slug: alfen-Smart-Charging-Network-3D-animatie
+weight: 3
 draft: false
 image:
   source: images/alfen-smart-charging-network-beauty.jpg
