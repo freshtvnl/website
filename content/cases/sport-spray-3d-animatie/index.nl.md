@@ -1,5 +1,5 @@
 ---
-title: Sport spray - 3D animatie
+title: Sport Spray - 3D Animatie
 slug: sport spray 3d animatie
 weight: 1
 draft: false
