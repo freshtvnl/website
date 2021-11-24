@@ -1,5 +1,5 @@
 ---
-title: Alfen - Smart Charging Network
+title: Alfen - 3D Animaties
 slug: alfen-Smart-Charging-Network-3D-animatie
 weight: 3
 draft: false
