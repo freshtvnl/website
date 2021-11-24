@@ -1,5 +1,5 @@
 ---
-title: LCB Apotheek - 3D Animatie
+title: Logistics Community Brabant - 3D Animatie
 slug: LCB Apotheek retour
 draft: false
 image:
