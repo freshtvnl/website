@@ -11,6 +11,8 @@ quote:
     geduldig. Een frisse en creatieve partij om mee samen te werken aan
     animaties en bedrijfsvideo's.
   company: "DMT environmental Technologies "
+  image:
+    source: images/dmt-logo-2016.jpg
 seo:
   noindex: true
 ---
