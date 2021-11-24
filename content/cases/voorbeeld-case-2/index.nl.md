@@ -1,5 +1,5 @@
 ---
-title: Payconiq - QR-code scan en betaal app
+title: Payconiq - Commercial
 slug: uitlegfilm-over-betaalapp
 draft: false
 image:
