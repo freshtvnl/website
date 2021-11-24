@@ -36,8 +36,8 @@
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "750" "height" "800" "class" "relative") }}
         {{ end }}
-        <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-12 text-gray-100">
-          <h3 class="text-xl font-bold lg:text-3xl ">
+        <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full -mb-20 group-hover:mb-0 h-4 group-hover:h-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-12 text-gray-100">
+          <h3 class="text-xl font-bold lg:text-2xl ">
             {{ .Title }}
           </h3>
           {{ range where $site.Pages "params.slug" .Params.branch }}
@@ -80,8 +80,8 @@
         {{ with .Params.image}}
         {{ partial "image.html" (dict "page" $item  "source" .source "alt" .alt "width" "750" "height" "800" "class" "relative") }}
         {{ end }}
-        <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-12 text-gray-100">
-          <h3 class="text-xl font-bold lg:text-3xl ">
+        <div class=" transform duration-200 transition-all {{ if .Params.color}}bg-{{.Params.color}}-500{{else}}bg-blue-500{{end}} absolute w-full -mb-20 group-hover:mb-0 h-4 group-hover:h-full bottom-0 min-h-0 group-hover:min-h-full  z-20  p-12 text-gray-100">
+          <h3 class="text-xl font-bold lg:text-2xl ">
             {{ .Title }}
           </h3>
           

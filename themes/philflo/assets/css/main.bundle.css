@@ -1086,8 +1086,40 @@ video {
   right: 1.5rem;
 }
 
+.-bottom-full {
+  bottom: -100%;
+}
+
 .bottom-0 {
   bottom: 0px;
+}
+
+.-bottom-12 {
+  bottom: -3rem;
+}
+
+.-bottom-24 {
+  bottom: -6rem;
+}
+
+.bottom-12 {
+  bottom: 3rem;
+}
+
+.bottom-6 {
+  bottom: 1.5rem;
+}
+
+.-bottom-6 {
+  bottom: -1.5rem;
+}
+
+.-bottom-16 {
+  bottom: -4rem;
+}
+
+.-bottom-20 {
+  bottom: -5rem;
 }
 
 .z-50 {
@@ -1199,6 +1231,14 @@ video {
   margin-bottom: -4rem;
 }
 
+.-mb-12 {
+  margin-bottom: -3rem;
+}
+
+.-mb-20 {
+  margin-bottom: -5rem;
+}
+
 .block {
   display: block;
 }
@@ -1249,6 +1289,10 @@ video {
 
 .h-3 {
   height: 0.75rem;
+}
+
+.h-24 {
+  height: 6rem;
 }
 
 .min-h-screen {
@@ -1688,6 +1732,10 @@ video {
 
 .p-3 {
   padding: 0.75rem;
+}
+
+.p-0 {
+  padding: 0px;
 }
 
 .px-6 {
@@ -2944,6 +2992,22 @@ span.flatpickr-weekday{
 
 /* purgecss end ignore */
 
+.hover\:bottom-0:hover {
+  bottom: 0px;
+}
+
+.hover\:mb-0:hover {
+  margin-bottom: 0px;
+}
+
+.hover\:h-auto:hover {
+  height: auto;
+}
+
+.hover\:h-full:hover {
+  height: 100%;
+}
+
 .hover\:rotate-45:hover {
   --tw-rotate: 45deg;
   transform: var(--tw-transform);
@@ -2958,6 +3022,10 @@ span.flatpickr-weekday{
 .hover\:bg-gray-200:hover {
   --tw-bg-opacity: 1;
   background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
+}
+
+.hover\:p-12:hover {
+  padding: 3rem;
 }
 
 .hover\:text-gray-200:hover {
@@ -2976,6 +3044,14 @@ span.flatpickr-weekday{
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+
+.group:hover .group-hover\:mb-0 {
+  margin-bottom: 0px;
+}
+
+.group:hover .group-hover\:h-full {
+  height: 100%;
 }
 
 .group:hover .group-hover\:min-h-full {
@@ -3016,10 +3092,6 @@ span.flatpickr-weekday{
 
   .md\:col-span-2 {
     grid-column: span 2 / span 2;
-  }
-
-  .md\:col-span-6 {
-    grid-column: span 6 / span 6;
   }
 
   .md\:col-start-4 {
@@ -3383,10 +3455,6 @@ span.flatpickr-weekday{
 
   .lg\:col-span-2 {
     grid-column: span 2 / span 2;
-  }
-
-  .lg\:col-span-6 {
-    grid-column: span 6 / span 6;
   }
 
   .lg\:mx-auto {
