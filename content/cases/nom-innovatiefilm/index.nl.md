@@ -1,5 +1,5 @@
 ---
-title: NOM Innovatiefilm
+title: NOM - Innovatiefilm
 slug: NOM Innovatiefilm
 draft: false
 image:
