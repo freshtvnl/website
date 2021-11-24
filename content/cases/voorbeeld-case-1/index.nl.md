@@ -20,11 +20,11 @@ blocks:
       doelgroep is en wat hun mate van kennis op dit gebied is.
     displaymedia: youtube_video
     image:
-      source: images/alfen-smart-charging-network-ao.jpg
+      source: ""
     video:
-      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
-      source_webm: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.webm
-      autoplay: true
+      source_mp4: ""
+      source_webm: ""
+      autoplay: false
     youtube:
       id: djHYZpzuwtc
   - type: content_block
@@ -52,19 +52,20 @@ blocks:
     image:
       source: ""
     youtube:
-      id: djHYZpzuwtc
+      id: ""
     cta:
       url: ""
       text: ""
       type: link
     video:
       source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
+      autoplay: true
   - type: content_block
     video:
       autoplay: true
     align: right
     content: >-
-      ## Het groene alternatief
+      ## ***The Battery - Mobile***
 
 
       Ook de mobiele batterij van Alfen is een prachtig groen alternatief voor onder andere de diesel generator. Benieuwd hoe de batterij werkt en welke voordelen deze heeft? Bekijk dan onze 3D animatie en leer meer!
