@@ -19,12 +19,14 @@ blocks:
       overtuigende werken-bij video te maken om potentiële aniossen aan te
       spreken.
     title: Werken als Anios
-    displaymedia: custom_video
+    displaymedia: youtube_video
     image:
       source: images/foto-umcg.jpg
     video:
-      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
+      source_mp4: ""
       autoplay: true
+    youtube:
+      id: G_dlOtmAnas
   - type: content_block
     content: >-
       ## ***Doelstellingen***
@@ -83,9 +85,12 @@ blocks:
 
 
       Alles bij elkaar heeft geleid tot de onderstaande [werken-bij film](https://www.philenflo.nl/oplossingen/employer-branding/). Een film waar wij van Phil & Flo trots op zijn! Vanuit het UMCG, zowel vanuit de afdeling Chirurgie als daarbuiten, waren de reacties zeer positief. Belangrijker nog, de video heeft haar doel bereikt. Het UMCG heeft al een groot aantal aanmeldingen binnen en verwacht de open vacatures voor Anios bij de afdeling chirurgie goed te kunnen vullen. Mission accomplished!
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: G_dlOtmAnas
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
+      autoplay: true
   - type: contact_block
     contacts:
       - sebastiaan
