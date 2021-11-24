@@ -1,5 +1,5 @@
 ---
-title: OIO Systems
+title: OIO Systems - 2D Animatie
 slug: OIO systems
 draft: false
 image:
