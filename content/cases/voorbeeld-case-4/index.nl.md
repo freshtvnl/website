@@ -7,7 +7,7 @@ image:
   alt: coornehr Lyceum film
 content_type: case
 color: yellow
-branch: onderwijs-kunst-Cultuur
+branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
     content: Het Coornhert Gymnasium moet net als elke middelbare school elk jaar de
