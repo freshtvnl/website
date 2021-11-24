@@ -1,5 +1,5 @@
 ---
-title: Phil & Flo Animatie
+title: Phil & Flo - Animatie
 slug: phil en flo animatie
 weight: 2
 draft: false
