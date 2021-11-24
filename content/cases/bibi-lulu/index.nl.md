@@ -1,5 +1,5 @@
 ---
-title: Bibi & Lulu - Kinder Animatie
+title: Bibi & Lulu - Kinderboek Patty Brard
 slug: Bibi & Lulu
 draft: false
 image:
