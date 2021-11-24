@@ -1,5 +1,5 @@
 ---
-title: CSB Amsterdam interactieve tour
+title: CSB - Interactieve Open Dag
 slug: CSB Amsterdam interactieve tour
 weight: 1
 draft: false
@@ -7,7 +7,7 @@ image:
   source: images/csb-muziekles.jpg
 content_type: case
 color: yellow
-branch: onderwijs-kunst-Cultuur
+branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
     align: left
