@@ -1,5 +1,5 @@
 ---
-title: Van Wijnen
+title: Van Wijnen - Projectfilm
 slug: Van Wijnen
 draft: false
 image:
