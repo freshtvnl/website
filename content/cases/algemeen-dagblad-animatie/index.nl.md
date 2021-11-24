@@ -1,6 +1,7 @@
 ---
 title: Algemeen Dagblad - Heldere Uitleg Animatie 2D
 slug: algemeen-dagblad-animatie
+weight: 6
 draft: false
 image:
   source: images/algemeen-dagblad-amerikaanse-verkiezingen-2d-animatie-phil-en-flo.jpg
