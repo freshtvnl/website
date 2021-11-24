@@ -43,7 +43,7 @@
           <h1>{{ . | markdownify }}</h1>
         {{ end }}
         {{ with .content }}
-        <div class="prose lg:prose-lg xl:prose-xl max-w-full">
+        <div class="max-w-full prose lg:prose-lg xl:prose-xl">
           {{ . | markdownify }}
         </div>
         {{ end }}
@@ -54,7 +54,7 @@
 
         {{ if eq .type "selectedreviews_block" }}
           {{ with .title }}
-          <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+          <h2 class="mb-4 text-2xl font-bold text-center xl:mb-12">{{ . | markdownify }}</h2>
           {{ end }}
         {{ end }}
         {{ with .items }}
@@ -63,10 +63,10 @@
         {{ $item := . }}
           {{ with .Params.quote }}
             
-            <div class="text-center mt-6">
+            <div class="mt-6 text-center">
               {{ .content }}
             </div>
-            <div class="mt-6 flex">
+            <div class="flex mt-6">
               - {{ .auteur}}, {{ .functie }} @ {{.company}}
             </div>
           {{ end }}
@@ -76,14 +76,14 @@
 
       {{ if eq .type "selectedwork_block" }}
         {{ with .title }}
-        <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+        <h2 class="mb-4 text-2xl font-bold text-center xl:mb-12">{{ . | markdownify }}</h2>
         {{ end }}
         {{ with .items }}
         {{ range . }}
         {{ range where $.Site.Pages "params.slug" . }}
           <h3>{{ .Title }}</h3>
           {{ range where $.Site.Pages "params.slug" .Params.branch }}
-          <span class="text-lg mt-1 inline-block">{{.Title}}</span>
+          <span class="inline-block mt-1 text-lg">{{.Title}}</span>
           {{ end }}
         {{ end }}
         {{ end }}
@@ -94,12 +94,21 @@
       {{ .content | markdownify }}
 
       {{ with .cta }}
+      {{ $color := .color}}
         <div class="mt-6">
           {{ if eq .type "button" }}
-          <a href="{{.url}}" class="branch-element-bg text-white px-4 py-4 leading-none inline-block hover:opacity-80 transition duration-200" style="color: white !important; text-decoration: none !important;">{{.text}}</a>
+          {{ if $color}}
+          <a href="{{.url}}" class="inline-block px-4 py-4 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;">{{.text}}</a>
+          {{ else }}
+          <a href="{{.url}}" class="inline-block px-4 py-4 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;">{{.text}}</a>
+          {{ end }}
+        {{ else }}
+          {{ if $color}}
+          <a href="{{.url}}" class="text-{{$color}}-500">{{.text}}</a>
           {{ else }}
           <a href="{{.url}}" class="branch-element-text">{{.text}}</a>
           {{ end }}
+        {{ end }}
         </div>
         {{ end}}
 
@@ -110,7 +119,7 @@
 
       {{ if eq .type "selectedfaqs_block" }}
         {{ with .title }}
-          <h2 class="text-2xl font-bold mb-4 xl:mb-12 text-center">{{ . | markdownify }}</h2>
+          <h2 class="mb-4 text-2xl font-bold text-center xl:mb-12">{{ . | markdownify }}</h2>
         {{ end }}
         {{ with .items }}
           <ul class="max-w-3xl mx-auto space-y-4"  x-data="{selected:null}" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -121,7 +130,7 @@
               {{ range .Resources }}
                 {{ if eq $id .params.slug}}
                 {{ with .Params.faq}}
-                <li class="flex align-center flex-col">
+                <li class="flex flex-col align-center">
                     {{ .question | markdownify}}
                     {{ .answer | markdownify}}
                 </li>

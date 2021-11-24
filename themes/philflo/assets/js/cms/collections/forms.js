@@ -1,4 +1,5 @@
 import { seoNoIndex } from "../partials/seo"
+import { brandcolors } from "../partials/brandcolors"
 
 const fields = [
   {
@@ -32,6 +33,9 @@ const fields = [
     required: true,
     i18n: true,
   },
+
+  brandcolors
+
 ]
 
 const forms = {

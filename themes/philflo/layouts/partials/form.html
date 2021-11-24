@@ -4,6 +4,7 @@
 {{ $thankyou := $data.Params.thankyou_page}}
 {{ $type := $data.Params.type }}
 {{ $name := $data.Title }}
+{{ $color := $data.Params.color }}
 
 <div class="mt-1">
 
@@ -63,7 +64,11 @@
         </div>
 
         <div class="col-span-4">
+          {{ if $color }}
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Aanvragen</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Aanvragen</button>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -112,7 +117,11 @@
           </label>
         </div>
         <div class="col-span-4">
+          {{ if $color }}
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -156,7 +165,11 @@
           </label>
         </div>
         <div class="col-span-4">
+          {{ if $color }}
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "receive_quotation" }}</button>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -175,7 +188,11 @@
           </label>
         </div>
         <div class="col-span-4">
+          {{ if $color }}
+          <button type="submit" class="inline-block px-4 py-4 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "subscribe" }}</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "subscribe" }}</button>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -219,7 +236,11 @@
         </div>
 
         <div class="col-span-4">
+          {{ if $color }}
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ end }}
         </div>
       </div>
       {{ end }}
@@ -256,7 +277,11 @@
           </label>
         </div>
         <div class="col-span-4">
+          {{  if $color }}
+          <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ else }}
           <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >{{ T "send_form" }}</button>
+          {{ end }}
         </div>
       </div>
     {{ end }}
@@ -512,7 +537,11 @@
 
  
     <div class="col-span-4">
+      {{ if $color }}
+      <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      {{ else }}
       <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      {{ end }}
     </div>
 
     {{ end }}
@@ -770,7 +799,11 @@
     </div>
 
     <div class="col-span-4">
+      {{ if $color }}
+      <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      {{ else }}
       <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+      {{ end }}
     </div>
 
     {{ end }}

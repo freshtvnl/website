@@ -25,6 +25,7 @@ blocks:
       url: /contact/
       type: button
       text: Informatie ontvangen
+      color: blue
     displaymedia: custom_video
   - type: content_block
     align: left

@@ -1,3 +1,5 @@
+import { brandcolors } from "./brandcolors"
+
 export const cta = {
   label: "Cta",
   name: 'cta',
@@ -38,7 +40,9 @@ export const cta = {
           value: "button"
         },
       ]
-    }
+    },
+
+    brandcolors
     
   ]
 }
