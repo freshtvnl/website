@@ -1,5 +1,5 @@
 ---
-title: Andrea Kruis
+title: Andrea Kruis - 2D Animatie
 slug: andrea-kruis
 draft: false
 image:
