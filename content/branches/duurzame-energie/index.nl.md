@@ -106,6 +106,20 @@ blocks:
     contacts:
       - peter-de-graaf
     more_items: true
+  - branches_items:
+      - goede-doelen
+      - onderwijs-kunst-cultuur
+    solutions_items:
+      - employer-branding
+    members_items:
+      - victor
+    knowledgebase_items:
+      - hoe-maak-je-een-videoscript
+    pages_items:
+      - bedrijfsanimatie
+      - algemene-voorwaarden
+      - bedankt-nieuwsbrief
+      - contact
   - items:
       - animatiefilm-over-biogas
       - alfen-Smart-Charging-Network-3D-animatie
