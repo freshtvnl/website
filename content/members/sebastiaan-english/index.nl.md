@@ -7,7 +7,7 @@ function: Creative producer
 cta: ""
 id: SuvmI3S6V
 image:
-  source: ""
+  source: images/logo_philenflo_netgeenzwart.jpg
   alt: ""
 seo:
   noindex: true
