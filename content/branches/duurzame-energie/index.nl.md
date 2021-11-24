@@ -123,6 +123,12 @@ blocks:
   - items:
       - animatiefilm-over-biogas
       - alfen-Smart-Charging-Network-3D-animatie
+  - type: collection_block
+    heading: h1
+    number_of_items: 3
+    collection: cases
+    content_type: case
+    title: Een greep uit ons werk
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie.
