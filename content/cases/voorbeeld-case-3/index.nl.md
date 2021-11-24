@@ -1,5 +1,5 @@
 ---
-title: Artistiek - 3D Commercial
+title: BOK - Artistieke 3D Commercial
 slug: boknet-3d-animatie-beroeps-organisatie-kunstenaars
 draft: false
 image:
