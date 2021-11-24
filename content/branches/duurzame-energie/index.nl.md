@@ -112,6 +112,14 @@ blocks:
   - type: content_list
     title: test
     content: test test test
+    pages_items:
+      - bedrijfsanimatie
+      - algemene-voorwaarden
+      - bedankt-nieuwsbrief
+    branches_items:
+      - goede-doelen
+    members_items:
+      - victor
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie.
