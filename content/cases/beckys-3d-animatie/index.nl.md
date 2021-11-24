@@ -1,6 +1,7 @@
 ---
 title: Becky's - 3D animatie
 slug: Beckys - 3D animatie
+weight: 5
 draft: false
 image:
   source: images/210916-thumbnail-phil-en-flo-beckys-3d-animatie.jpg
