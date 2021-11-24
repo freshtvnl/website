@@ -1,5 +1,5 @@
 ---
-title: Pharmerit - Interactieve Brochure
+title: Open Health - Interactieve Brochure
 slug: Pharmerit - Interactieve brochure
 weight: 6
 draft: false
