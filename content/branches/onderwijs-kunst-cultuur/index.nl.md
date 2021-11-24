@@ -93,7 +93,7 @@ blocks:
       - CSB Amsterdam interactieve tour
       - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
-    more_items: true
+    more_items: false
 seo:
   title: Video en animatie oplossingen voor het onderwijs. Virtuele open dag.
     Interactieve schooltour
