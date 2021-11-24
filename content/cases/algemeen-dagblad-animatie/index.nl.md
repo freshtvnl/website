@@ -1,5 +1,5 @@
 ---
-title: Algemeen Dagblad animatie
+title: Algemeen Dagblad - 2D Animatie
 slug: algemeen-dagblad-animatie
 draft: false
 image:
