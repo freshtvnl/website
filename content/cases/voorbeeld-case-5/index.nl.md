@@ -1,13 +1,14 @@
 ---
 title: UMCG - Chirurgie Employer Branding film
 slug: umcg-chirurgie-employer-branding-film
+weight: 2
 draft: false
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
   alt: zorg
+content_type: case
 color: pink
 branch: zorg-pharma
-content_type: case
 blocks:
   - type: hero_block
     content: De afdeling Chirurgie van het UMCG is altijd op zoek naar nieuwe
