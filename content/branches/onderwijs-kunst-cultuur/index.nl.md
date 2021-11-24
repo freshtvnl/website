@@ -20,6 +20,16 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ### Video en Animatie ***oplossingen*** voor het onderwijs
+
+
+      Jij bent op zoek naar communicatie die blijft hangen? Kies voor een animatiefilm, video of interactieve video, speciaal op maat voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo.
+    form: contact-formulier
+  - type: content_block
     content: >-
       ## ***Interactieve*** open dagen
 
