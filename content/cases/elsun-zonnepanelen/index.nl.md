@@ -1,5 +1,5 @@
 ---
-title: Elsun Zonnepanelen
+title: Elsun - Promotiefilm
 slug: Elsun Zonnepanelen
 draft: false
 image:
