@@ -1,6 +1,7 @@
 ---
 title: Save The Children - Bordje Bij
 slug: Save The Children - Bordje Bij
+weight: 1
 draft: false
 image:
   source: images/save-the-children.jpg
