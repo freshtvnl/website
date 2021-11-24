@@ -1,5 +1,5 @@
 ---
-title: Becky's - 3D animatie
+title: "Becky's - Sprookjesachtige 3D Animatie "
 slug: Beckys - 3D animatie
 weight: 5
 draft: false
