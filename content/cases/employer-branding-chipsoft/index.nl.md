@@ -1,5 +1,5 @@
 ---
-title: Employer branding chipsoft
+title: ChipSoft - Werken Bij Chipsoft
 slug: Employer branding chipsoft
 draft: true
 image:
