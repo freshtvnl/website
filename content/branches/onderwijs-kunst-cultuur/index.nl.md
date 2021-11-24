@@ -78,15 +78,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: selectedreviews_block
-    more_items: false
-    items:
-      - review-noorderpoort-college
-      - diataal
-      - review-csb-amsterdam
-      - park lyceum review
-      - csb-ouder-4
-      - ouder-2-csb
   - type: selectedwork_block
     title: Succesverhalen
     items:
