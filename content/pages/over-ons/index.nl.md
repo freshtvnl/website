@@ -4,7 +4,7 @@ slug: over-ons
 color: pink
 blocks:
   - type: hero_block
-    align: right
+    align: center
     video:
       autoplay: true
     content: ""
