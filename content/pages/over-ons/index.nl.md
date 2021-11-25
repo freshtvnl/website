@@ -33,6 +33,8 @@ blocks:
       [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/)
       voor meer informatie rondom onze maatschappelijke betrokkenheid.
     align: left
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     content: >-
       ## ***Hoe***
