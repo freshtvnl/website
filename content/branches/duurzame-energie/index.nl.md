@@ -33,7 +33,9 @@ blocks:
       type: button
       text: Informatie ontvangen
       color: pink
-    displaymedia: custom_video
+    displaymedia: image
+    image:
+      source: images/phil-flo_icon_001.jpg
   - type: content_block
     align: right
     content: >-
