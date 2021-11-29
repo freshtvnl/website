@@ -18,10 +18,8 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
     align: left
-    content: Phil en Flo maakt specialistische
-      [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) en
-      [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
-      met impact, speciaal voor jouw organisatie in de duurzame energie sector.
+    content: Phil en Flo maakt specialistische video en animatiefilms met impact,
+      speciaal voor jouw organisatie in de duurzame energie sector.
     cta:
       url: /contact/
       type: button
@@ -36,7 +34,7 @@ blocks:
       ## Jij wilt je doelgroep overtuigen, ***maar hoe?***
 
 
-      Je werkt in een vooruitstrevende duurzame energie sector, jij wilt je doelgroep informeren over je innovaties. Dan zoek je een content partner die oplossingen biedt. Jouw uitdaging zetten wij om in impactvolle en creatieve animatiefilms en video, die jou helpen je doelgroep te overtuigen. Zonder dat dit jou heel veel tijd kost, onze specialisten weten namelijk heel veel van jouw sector. Kan jij lekker door met je werk, terwijl wij jouw marketing een boost geven.
+      Je werkt in een vooruitstrevende duurzame energie sector, jij wilt je doelgroep informeren over je innovaties. Dan zoek je een content partner die oplossingen biedt. Jouw uitdaging zetten wij om in impactvolle en creatieve [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), die jou helpen je doelgroep te overtuigen. Zonder dat dit jou heel veel tijd kost, onze specialisten weten namelijk heel veel van jouw sector. Kan jij lekker door met je werk, terwijl wij jouw marketing een boost geven.
     displaymedia: custom_video
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
