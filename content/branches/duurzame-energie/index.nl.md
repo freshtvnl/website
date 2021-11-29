@@ -33,7 +33,7 @@ blocks:
       type: button
       text: Informatie ontvangen
       color: pink
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/phil-flo_icon_001.jpg
   - type: content_block
@@ -84,7 +84,7 @@ blocks:
 
 
       Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen. ***Vraag ons naar de mogelijkheden via onderstaand formulier.***
-    displaymedia: custom_video
+    displaymedia: form
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
       autoplay: true
