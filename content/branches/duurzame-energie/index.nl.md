@@ -22,7 +22,7 @@ blocks:
       speciaal voor jouw organisatie in de duurzame energie sector.
     cta:
       url: /contact/
-      type: button
+      type: link
       text: Informatie ontvangen
       color: pink
     displaymedia: custom_video
@@ -53,7 +53,7 @@ blocks:
       ## ***Content klaar en dan?***
 
 
-      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Voor grote campagnes helpen onze specialisten je bij het testen van meerdere film varianten. Bel ons direct voor ***vrijblijvend concreet advies*** op 085 -273 8331.
+      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Voor grote campagnes helpen onze specialisten je bij het testen van meerdere film varianten. Bel ons direct voor vrijblijvend concreet advies op 085 -273 8331.
     displaymedia: custom_video
     image:
       source: ""
