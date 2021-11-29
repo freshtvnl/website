@@ -39,7 +39,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Heb jij moeite om je doelgroep te informeren?
+      ## Heb jij moeite om je doelgroep te ***informeren***?
 
 
       Wanneer je werkt in een vooruitstrevende sector als de duurzame energie sector, dan zoek je een partner die oplossingen biedt. Je zoekt advies over welke content je nodig hebt, en hoe je dit inzet. Daarnaast wil je dat je uitdaging in één keer begrepen wordt, en je niet teveel tijd kwijt zijn aan de productie van de content.
@@ -50,19 +50,6 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
-  - type: content_block
-    align: left
-    content: >-
-      ## Feestje!
-
-
-      Duurzame energie is belangrijk en kan serieus zijn, maar eigenlijk proberen we er juist een feestje van te maken. Qua samenwerking met jullie en ons team en natuurlijk ook voor de eindgebruiker; de persoon die de film gaat kijken. Een feestje om samen creatief tot een prachtig product te komen en een feestje voor de kijker om naar te kijken. Mooie beelden, een boeiend verhaal en een interessante boodschap.
-    displaymedia: image
-    image:
-      source: images/feestje-phil-en-flo.jpg
-      alt: Team Phil & Flo
-    video:
-      autoplay: false
   - type: content_block
     align: right
     content: >-
