@@ -22,7 +22,7 @@ blocks:
       speciaal voor jouw organisatie in de duurzame energie sector.
     cta:
       url: /contact/
-      type: link
+      type: button
       text: Informatie ontvangen
       color: pink
     displaymedia: custom_video
