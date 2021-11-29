@@ -64,7 +64,7 @@ blocks:
     image:
       source: images/logo-xaam-alfen-tno.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Content klaar en dan?***
 
@@ -94,6 +94,7 @@ blocks:
       text: ""
       type: null
     form: contact-formulier
+    align: left
   - type: content_block
     align: right
     content: >-
