@@ -45,7 +45,7 @@ blocks:
     cta:
       url: /contact/
       text: Neem direct contact op
-      type: link
+      type: button
       color: pink
   - type: content_block
     align: left
