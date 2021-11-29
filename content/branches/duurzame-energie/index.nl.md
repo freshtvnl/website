@@ -17,7 +17,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
-    align: center
+    align: left
     content: Phil en Flo maakt specialistische video en animatiefilms met impact,
       speciaal voor jouw organisatie in de duurzame energie sector.
     cta:
