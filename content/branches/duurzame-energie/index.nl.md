@@ -50,12 +50,12 @@ blocks:
       type: link
       color: pink
   - type: content_block
-    align: right
+    align: left
     content: >-
-      ## Kijkers?
+      ## ***Content klaar en dan?***
 
 
-      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Als je echt grote campagnes wil draaien met de film zullen we ook meerdere versies van de film maken om zo te testen welke versie het beste aanslaat bij je publiek. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
+      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Voor grote campagnes helpen onze specialisten je bij het testen van meerdere film varianten. Bel ons direct voor ***vrijblijvend concreet advies*** op 085 -273 8331.
     displaymedia: custom_video
     image:
       source: ""
