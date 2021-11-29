@@ -27,31 +27,20 @@ blocks:
       jou veel tijd kost. 
 
 
-      Leads genereren, uitleg over je product of dienst of het bereiken van je doelgroep, onze video en animatie specialist heeft de focus op jouw branche.
+      Leads genereren, uitleg over je product of dienst of het bereiken van je doelgroep, onze video -en animatiespecialisten heeft de focus op jouw branche.
     cta:
       url: /contact/
       type: button
       text: Informatie ontvangen
-      color: blue
+      color: pink
     displaymedia: custom_video
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Expertise*** duurzame energie
-
-
-      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
-    displaymedia: image
-    image:
-      source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
-      alt: Peter de Graaf
   - type: content_block
     align: right
     content: >-
-      ## Duurzaam inzetbaar ***video en animatie***
+      ## Heb jij moeite om je doelgroep te informeren?
 
 
-      Wij maken enkel hoogwaardige producten die duurzaam in te zetten zijn. Dit betekent dat de film voor langere periode inhoudelijk relevant en bruikbaar is. Dit realiseren we door het script en de creatieve inhoud zo relevant mogelijk te maken.
+      Wanneer je werkt in een vooruitstrevende sector als de duurzame energie sector, dan zoek je een partner die oplossingen biedt. Je zoekt advies over welke content je nodig hebt, en hoe je dit inzet. Daarnaast wil je dat je uitdaging in één keer begrepen wordt, en je niet teveel tijd kwijt zijn aan de productie van de content.
     displaymedia: custom_video
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
@@ -103,6 +92,19 @@ blocks:
       text: ""
       type: null
     form: contact-formulier
+  - type: content_block
+    align: right
+    content: >-
+      ## ***Expertise*** duurzame energie
+
+
+      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
+    displaymedia: image
+    image:
+      source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
+      alt: Peter de Graaf
+    video:
+      autoplay: false
   - type: selectedwork_block
     items:
       - animatiefilm-over-biogas
