@@ -33,10 +33,10 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Heb jij moeite om je doelgroep te ***informeren***?
+      ## Jij wilt je doelgroep overtuigen, ***maar hoe?***
 
 
-      Wanneer je werkt in een vooruitstrevende sector als de duurzame energie sector, dan zoek je een partner die oplossingen biedt. Je zoekt advies over welke content je nodig hebt, en hoe je dit inzet. Daarnaast wil je dat je uitdaging in één keer begrepen wordt, en je niet teveel tijd kwijt zijn aan de productie van de content.
+      Je werkt in een vooruitstrevende duurzame energie sector, jij wilt je doelgroep informeren over je innovaties. Dan zoek je een content partner die oplossingen biedt. Jouw uitdaging zetten wij om in impactvolle en creatieve animatiefilms en video, die jou helpen je doelgroep te overtuigen. Zonder dat dit jou heel veel tijd kost, onze specialisten weten namelijk heel veel van jouw sector. Kan jij lekker door met je werk, terwijl wij jouw marketing een boost geven.
     displaymedia: custom_video
     image:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
@@ -44,6 +44,11 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: link
+      color: pink
   - type: content_block
     align: right
     content: >-
