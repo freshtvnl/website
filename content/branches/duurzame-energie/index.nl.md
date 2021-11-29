@@ -48,6 +48,22 @@ blocks:
       type: button
       color: pink
   - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## ***Waarom Phil & Flo?***
+
+
+      \- Wij produceren al sinds 2010 voor de duurzame energie sector en geloven in jouw sector.\
+
+      - Practice what you preach, wij werken niet voor Oliemaatschappijen.\
+
+      - Wij begrijpen tot in detail de technische innovaties en complicaties in de energietransitie.
+    displaymedia: image
+    image:
+      source: images/logo-xaam-alfen-tno.jpg
+  - type: content_block
     align: left
     content: >-
       ## ***Content klaar en dan?***
