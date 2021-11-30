@@ -1,4 +1,5 @@
 ---
+title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 draft: false
 color: yellow
 blocks:
@@ -239,7 +240,6 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
-title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 slug: animatie-passend-bedrijf
 image:
   source: images/3d-animatie-laten-maken-blog.jpg
@@ -285,7 +285,7 @@ Virtual Reality lijkt misschien een mediavorm die ver weg staat van animatie, ma
 
 ### Blended animatie
 
-Je hoeft natuurlijk niet te kiezen tussen 2D of 3D, maar kan deze ook combineren. Binnen een 3D animatie kan je natuurlijk 2D elementen laten terugkomen. Zo heeft [ons team voor Boknet een animatie gemaakt waarin beeldende kunst centraal staat](https://www.philenflo.nl/portfolio/boknet-3d-animatie-beroeps-organisatie-kunstenaars/). In 3D hebben we een ruimte gebouwd waarin van alles te zien is, waaronder 2D kunst aan de muren. Animatie is een blijft een creatief medium, dus laat je niet belemmeren door bestaande structuren, maar denk vooral na over wat jouw ideaalplaatje zou zijn. De experts kunnen dan meedenken in wat er wel of niet mogelijk is op technisch vlak.
+Je hoeft natuurlijk niet te kiezen tussen 2D of 3D, maar kan deze ook combineren. Binnen een 3D animatie kan je natuurlijk 2D elementen laten terugkomen. Zo heeft [ons team voor Boknet een animatie gemaakt waarin beeldende kunst centraal staat](https://www.philenflo.nl/portfolio/bok-artistieke-3d-commercial/). In 3D hebben we een ruimte gebouwd waarin van alles te zien is, waaronder 2D kunst aan de muren. Animatie is een blijft een creatief medium, dus laat je niet belemmeren door bestaande structuren, maar denk vooral na over wat jouw ideaalplaatje zou zijn. De experts kunnen dan meedenken in wat er wel of niet mogelijk is op technisch vlak.
 
 ### Marketing doelstellingen
 
