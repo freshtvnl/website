@@ -18,10 +18,12 @@ blocks:
     video:
       autoplay: false
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
+      image:
+        source: phil-flo-animatie.jpg
     align: left
     displaymedia: custom_video
     content: >-
-      ## Wij verbeelden de wereld van morgen
+      ### Wij verbeelden de wereld van morgen
 
 
       Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
@@ -30,10 +32,12 @@ blocks:
       text: Neem direct contact op
       type: button
       color: pink
+    image:
+      source: phil-flo-animatie.jpg
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## ***Impact creëren***, samen met Phil & Flo
 
