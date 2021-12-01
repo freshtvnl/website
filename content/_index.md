@@ -2,7 +2,7 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: Animatie, Film en Branding voor duurzame organisaties.
+    title: "***Animatie, Film en Branding voor duurzame organisaties.***"
     image:
       source: phil-flo-animatie.jpg
       alt: Phil en Flo
@@ -20,7 +20,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
     align: left
     displaymedia: custom_video
-    content: "***Wij verbeelden de wereld van morgen***"
+    content: "## Wij verbeelden de wereld van morgen"
   - type: content_block
     video:
       autoplay: true
