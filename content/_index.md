@@ -46,6 +46,13 @@ blocks:
     displaymedia: image
     image:
       source: phil-flo-animatie.jpg
+  - type: selectedwork_block
+    title: Cases
+    items:
+      - Save The Children - Bordje Bij
+      - alfen-Smart-Charging-Network-3D-animatie
+      - CSB Amsterdam interactieve tour
+    more_items: true
   - type: content_block
     align: center
     content: >-
@@ -65,16 +72,9 @@ blocks:
 
 
       Wij verbeelden ***de wereld van morgen.***
-  - type: selectedwork_block
-    title: Cases
-    items:
-      - Save The Children - Bordje Bij
-      - alfen-Smart-Charging-Network-3D-animatie
-      - CSB Amsterdam interactieve tour
-    more_items: true
   - type: collection_block
     collection: blog
-    number_of_items: 6
+    number_of_items: 3
     heading: h3
     title: Blogs
 seo:
