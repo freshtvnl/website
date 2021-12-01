@@ -4,19 +4,20 @@ slug: popcorn
 draft: false
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: false
-    title: Eet smakelijk
-    displaymedia: youtube_video
+    title: Leerlingen werven 2.0
+    displaymedia: iframe
     youtube:
       id: B7UmUX68KtE?t=55
     content: >-
-      Lekker genieten van de popcorn, check deze film voor de bereiding
-      instructies ;)
+      Helaas is het ook in 2022 nog niet het 'oude' normaal. Scholen zijn op
+      zoek naar een duurzame en originele manier om hun school open te stellen
+      voor het publiek. Wij helpen je! 
 
 
-      Volg je ons al op insta? > [Phil en Flo Instagram.](https://www.instagram.com/philenflo/)
+      Een duurzaam product waarmee jij jouw school 365 dagen voor de komende jaren digitaal openstelt voor het publiek. Dat klinkt goed toch? Geen statische brochures of promofilm, maar een interactieve oplossing die toekomstige leerlingen laat rondleiden door leerlingen en docenten van jullie eigen school.
 seo:
   noindex: true
 ---
