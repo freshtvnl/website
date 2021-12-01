@@ -20,7 +20,16 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
     align: left
     displaymedia: custom_video
-    content: "## Wij verbeelden de wereld van morgen"
+    content: >-
+      ## Wij verbeelden de wereld van morgen
+
+
+      Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -29,7 +38,7 @@ blocks:
       ## ***Impact creëren***, samen met Phil & Flo
 
 
-      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. Wij produceren creatieve en strategisch in te zetten content, zoals animatiefilms, videofilms, virtual reality, augmented reality en interactieve film. Daarnaast zijn we vanaf het begin betrokken als strategisch partner als branding expert en maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
+      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. We zijn vanaf het begin betrokken als strategisch partner en branding expert Naast de videocontent maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
 
 
       Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
