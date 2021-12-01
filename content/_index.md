@@ -65,21 +65,18 @@ blocks:
 
 
       Wij verbeelden ***de wereld van morgen.***
-  - type: collection_block
-    collection: branches
-    number_of_items: 6
-    heading: h3
-    title: Branches
   - type: selectedwork_block
     title: Cases
     items:
+      - Save The Children - Bordje Bij
       - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
-      - uitlegfilm-over-betaalapp
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - coornhert-gymnasium-promotiefilm-school
-      - umcg-chirurgie-employer-branding-film
+      - CSB Amsterdam interactieve tour
     more_items: true
+  - type: collection_block
+    collection: blog
+    number_of_items: 6
+    heading: h3
+    title: Blogs
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
