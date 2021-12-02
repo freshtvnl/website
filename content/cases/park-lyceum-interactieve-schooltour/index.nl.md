@@ -1,7 +1,7 @@
 ---
 title: Park Lyceum - Interactieve Schooltour
 slug: park-lyceum
-draft: true
+draft: false
 content_type: portfolio
 color: yellow
 blocks:
