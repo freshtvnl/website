@@ -25,7 +25,7 @@ blocks:
     align: left
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://projects.ivorystudio.net/embed/projects/d01c9fa4917a42222549cb77
     cta:
       url: /contact/
       text: Neem direct contact op
