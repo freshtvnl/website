@@ -26,6 +26,11 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
+      color: red
 seo:
   noindex: true
 ---
