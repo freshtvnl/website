@@ -2,6 +2,7 @@
 title: popcorn phil en flo
 slug: popcorn
 draft: false
+color: yellow
 blocks:
   - type: hero_block
     align: center
