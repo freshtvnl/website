@@ -1,7 +1,7 @@
 ---
 title: Noorderpoort - Kunst & Multimedia
 slug: noorderpoort
-draft: true
+draft: false
 content_type: portfolio
 color: yellow
 branch: onderwijs-kunst-cultuur
