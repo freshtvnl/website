@@ -53,7 +53,11 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     displaymedia: iframe
-    content: "### CSB Amsterdam"
+    content: >-
+      ### CSB Amsterdam
+
+
+      Bekijk de tour van CSB en laat je rondleiden door Gill en zijn klasgenoten. Ze laten je zien hoe het er op het CSB aan toe gaat. Ga jij eerst even de kantine checken of laat je skills testen door de leerkrachten.
     align: left
   - type: content_block
     video:
