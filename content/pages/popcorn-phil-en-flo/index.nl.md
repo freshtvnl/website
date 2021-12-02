@@ -17,7 +17,7 @@ blocks:
       voor het publiek. Wij helpen je! 
 
 
-      Een duurzaam product waarmee jij jouw school 365 dagen voor de komende jaren digitaal openstelt voor het publiek. Dat klinkt goed toch? Geen statische brochures of promofilm, maar een interactieve oplossing die toekomstige leerlingen laat rondleiden door leerlingen en docenten van jullie eigen school.
+      Een duurzaam product waarmee jij jouw school 365 dagen voor de komende jaren digitaal openstelt voor het publiek. Geen statische brochures of promofilm, maar een interactieve oplossing die toekomstige leerlingen laat rondleiden door leerlingen en docenten van jullie eigen school. Dat klinkt goed toch?
     iframe:
       source: https://projects.ivorystudio.net/embed/concepts/b5d6b2e7679ff1ff9c1224af
 seo:
