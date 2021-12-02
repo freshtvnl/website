@@ -39,13 +39,35 @@ blocks:
       ### ***Voordelen interactieve schooltour***
 
       * In 1 dag gefilmd
-      * Het hele jaar door beschikbaar
+      * In een maand opgeleverd
+      * Het hele jaar door beschikbaar (365 dagen per jaar open dag)
       * Hoge waardering door leerlingen en ouders
       * Informatie over de kijker op leuke manier verzamelen
       * Quiz vragen toevoegen voor extra interactie
       * Koppelingen naar PDF brochures toevoegen.
     form: contact-formulier
     displaymedia: form
+  - type: content_block
+    video:
+      autoplay: true
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    displaymedia: iframe
+    content: "### Park Lyceum"
+  - type: content_block
+    video:
+      autoplay: true
+    content: "### Park Lyceum"
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+  - type: content_block
+    video:
+      autoplay: true
+    content: "### Noorderpoort"
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
 seo:
   noindex: true
 ---
