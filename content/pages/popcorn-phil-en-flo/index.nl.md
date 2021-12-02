@@ -19,7 +19,7 @@ blocks:
 
       Een duurzaam product waarmee jij jouw school 365 dagen voor de komende jaren digitaal openstelt voor het publiek. Geen statische brochures of promofilm, maar een interactieve oplossing die toekomstige leerlingen laat rondleiden door leerlingen en docenten van jullie eigen school. Dat klinkt goed toch?
     iframe:
-      source: https://projects.ivorystudio.net/embed/concepts/b5d6b2e7679ff1ff9c1224af
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
 seo:
   noindex: true
 ---
