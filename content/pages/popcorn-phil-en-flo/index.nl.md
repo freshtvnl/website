@@ -36,7 +36,7 @@ blocks:
       autoplay: true
     align: right
     content: |-
-      ### Voordelen interactieve schooltour
+      ### ***Voordelen interactieve schooltour***
 
       * In 1 dag gefilmd
       * Het hele jaar door beschikbaar
