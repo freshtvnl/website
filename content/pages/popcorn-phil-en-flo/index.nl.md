@@ -31,6 +31,21 @@ blocks:
       text: Neem direct contact op
       type: button
       color: red
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: |-
+      ### Voordelen interactieve schooltour
+
+      * In 1 dag gefilmd
+      * Het hele jaar door beschikbaar
+      * Hoge waardering door leerlingen en ouders
+      * Informatie over de kijker op leuke manier verzamelen
+      * Quiz vragen toevoegen voor extra interactie
+      * Koppelingen naar PDF brochures toevoegen.
+    form: contact-formulier
+    displaymedia: form
 seo:
   noindex: true
 ---
