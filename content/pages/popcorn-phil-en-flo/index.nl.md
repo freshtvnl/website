@@ -51,9 +51,10 @@ blocks:
     video:
       autoplay: true
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     displaymedia: iframe
-    content: "### Park Lyceum"
+    content: "### CSB Amsterdam"
+    align: left
   - type: content_block
     video:
       autoplay: true
