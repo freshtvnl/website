@@ -58,7 +58,7 @@ blocks:
 
 
       Bekijk de tour van CSB en laat je rondleiden door Gill en zijn klasgenoten. Ze laten je zien hoe het er op het CSB aan toe gaat. Ga jij eerst even de kantine checken of laat je skills testen door de leerkrachten.
-    align: left
+    align: right
   - type: content_block
     video:
       autoplay: true
@@ -66,6 +66,7 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    align: left
   - type: content_block
     video:
       autoplay: true
@@ -73,6 +74,7 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    align: right
 seo:
   noindex: true
 ---
