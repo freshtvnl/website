@@ -7,7 +7,7 @@ color: yellow
 branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
     title: Schooltour 2.0
