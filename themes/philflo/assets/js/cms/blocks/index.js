@@ -7,6 +7,7 @@ import { selectedreviews } from './selectedreviews'
 import { contact } from './contact'
 import { contentList } from './contentList'
 import { logoblock } from './logoblock'
+import { videogrid } from './videogrid'
 
 export const blocks = [
   {
@@ -24,7 +25,8 @@ export const blocks = [
       selectedfaqs,
       selectedreviews,
       contentList,
-      logoblock
+      logoblock,
+      videogrid
     ]
   }
 ]

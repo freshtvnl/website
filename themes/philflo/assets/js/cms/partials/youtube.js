@@ -16,6 +16,5 @@ export const youtube = {
       required: false,
       i18n: true
     },
-    image
   ]
 }
