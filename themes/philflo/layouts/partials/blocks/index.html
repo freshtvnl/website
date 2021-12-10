@@ -29,6 +29,10 @@
       {{ partial "blocks/contentlist_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
 
+    {{ if eq .type "logoblock" }}
+      {{ partial "blocks/logo_block.html" (dict "params" . "page" $page "site" $site) }}
+    {{ end }}
+
     {{ if eq .type "content_block" }}
       {{ partial "blocks/content_block.html" (dict "params" . "page" $page "site" $site) }}
     {{ end }}
