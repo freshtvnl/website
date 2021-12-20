@@ -139,6 +139,11 @@ blocks:
       - algemene-voorwaarden
       - bedankt-nieuwsbrief
       - contact
+  - type: logoblock
+    logo_items:
+      - ""
+    content: Alfen
+    title: Bewezen trackrecord
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie. ✔
