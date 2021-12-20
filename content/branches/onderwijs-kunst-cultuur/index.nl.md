@@ -85,11 +85,6 @@ blocks:
       - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
-  - type: logoblock
-    logo_items:
-      - phil164000396702338423
-    title: Trackrecord
-    content: ""
 seo:
   title: Video en animatie oplossingen voor het onderwijs. Virtuele open dag.
     Interactieve schooltour
