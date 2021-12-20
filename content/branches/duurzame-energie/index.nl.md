@@ -141,8 +141,8 @@ blocks:
       - contact
   - type: logoblock
     logo_items:
-      - ""
-    content: Alfen
+      - phil164000610851420402
+    content: ""
     title: Bewezen trackrecord
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
