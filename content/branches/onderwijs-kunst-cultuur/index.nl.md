@@ -35,7 +35,7 @@ blocks:
       ## ***Interactieve*** open dagen
 
 
-      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen filmpje of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). **Wat te doen als een fysieke open dag niet mogelijk is?** Ons antwoord was deze film voor Park Lyceum in Almere en voor CSB Amsterdam hierboven.
+      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). **Wat te doen als een fysieke open dag niet mogelijk is?** Ons antwoord was deze film voor Park Lyceum in Almere en voor CSB Amsterdam hierboven.
     displaymedia: iframe
     image:
       source: ""
@@ -86,7 +86,7 @@ blocks:
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
 seo:
-  title: Video en animatie oplossingen voor het onderwijs. Virtuele open dag.
+  title: Video en animatie oplossingen voor het onderwijs | Virtuele open dag |
     Interactieve schooltour
   description: Verbeeld met animatie, interactieve film, virtual reality jouw
     wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
