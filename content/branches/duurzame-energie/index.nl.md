@@ -80,7 +80,7 @@ blocks:
       autoplay: true
   - type: content_block
     content: >-
-      ## ***Voordelen*** van video en animatie
+      ## ***Voordelen*** van video en animatie voor de duurzame energie sector
 
 
       Mensen kijken graag naar andere mensen, daarom werkt een video ook sterker dan een stuk tekst alleen. Voor de duurzame energie branche ontwikkelen we graag video's die aanspreken bij de doelgroep. Echter sommige initiatieven zijn niet in "gewoon" beeld te vatten, in dat geval kan je beter kiezen voor animatie. Het voordeel van animatie is dat we de omgeving en het product in zijn geheel controleren en verhelderen.
