@@ -7,10 +7,15 @@ image:
 blocks:
   - type: content_block
     align: center
-    content: |-
+    content: >-
       # Wij komen graag in contact met ***jou.***
 
+
+      ***Let op, we zijn gesloten vanaf 24 december t/m 02 januari 2022.***
+
+
       We werken graag samen met organisaties die werken aan een betere wereld.\
+
       Bel: [085 273 8331](tel:+31852738331), vul het formulier in of stuur ons een e-mail op [hallo@philenflo.nl](mailto:hallo@philenflo.nl)
     form: contact-formulier
     displaymedia: null
