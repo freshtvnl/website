@@ -16,7 +16,7 @@
       {{ $src1x := (.Resize (printf "%s %s" $size  )) }}
       {{ $src2x := (.Resize (printf "%s %s" $size2x  )) }}
       <img src="{{ $src1x.RelPermalink }}" data-srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" alt="{{ $alt }}" title="{{ $alt }}"
-        width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy">
+        width="{{$src1x.Width}}" height="{{$src1x.Height}}" loading="lazy" class="{{$class}}">
     {{ end }}
   {{ end }}
 {{ end }}

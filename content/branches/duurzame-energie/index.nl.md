@@ -141,7 +141,11 @@ blocks:
       - contact
   - type: logoblock
     logo_items:
-      - phil164000610851420402
+      - Hanze Hogeschool Groningen
+      - Payconiq
+      - KG Systems
+      - Open Health
+      - Xaam
     content: ""
     title: Bewezen trackrecord
 seo:

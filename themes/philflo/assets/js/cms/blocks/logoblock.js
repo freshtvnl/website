@@ -25,7 +25,7 @@ export const logoblock = {
       collection: "logos",
       search_fields: ["title"],
       display_fields: ["title"],
-      value_field: "slug",
+      value_field: "title",
       multiple: true,
       i18n: true,
       required: false,
