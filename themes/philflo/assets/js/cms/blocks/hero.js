@@ -22,13 +22,21 @@ export const hero = {
       i18n: true,
     },
     {
-      label: "Align content",
+      label: "Align content block",
       name: "align",
       widget: "select",
       options: ["left", "center", "right"],
       required: false,
       i18n: true,
       default: "left"
+    },
+    {
+      label: "Align text",
+      name: "align_text",
+      widget: "select",
+      options: ["left", "center", "right", "justify"],
+      required: false,
+      i18n: true,
     },
     ...media
   ]

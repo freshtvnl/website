@@ -2,9 +2,10 @@
 {{ $page := .page }}
 {{ $params := .params }}
 {{ $display := .params.displaymedia }}
+{{ $textalign :=  (cond (ne ($params.align_text) nil ) (.params.align_text) ("text-left") ) }}
 
 <div class="max-w-screen-2xl w-full mx-auto  px-6 lg:px-8 xl:px-24  {{ if $params.displaymedia  }} py-8 md:pb-20 {{ else }} pt-8 {{ end}}  xl:pt-24  {{if $params.image }} {{end}}  xl:-translate-y-6 transform">
-  <div class="pr-6 md:pr-12 xl:pr-48 {{ if eq $params.align "center"}}text-center{{end}} {{ if eq $params.align "right"}}text-right{{end}} ">
+  <div class="pr-6 md:pr-12 xl:pr-48 {{ if eq $params.align "center"}}text-center{{end}} {{ if eq $params.align "right"}}text-right{{end}} {{$textalign}}">
     {{ with $params.title }}
       <h1 class="mb-4 text-2xl font-bold md:text-3xl lg:text-4xl">{{ . | markdownify }}</h1>
     {{ end }}

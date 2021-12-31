@@ -25,7 +25,6 @@ blocks:
     content: >-
       ### Wij verbeelden de wereld van morgen
 
-
       Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
     cta:
       url: /contact/
@@ -34,6 +33,7 @@ blocks:
       color: pink
     image:
       source: phil-flo-animatie.jpg
+    align_text: text-left
   - type: content_block
     video:
       autoplay: true

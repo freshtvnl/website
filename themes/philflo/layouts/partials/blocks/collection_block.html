@@ -3,6 +3,7 @@
 {{ $params := .params }}
 {{ $numItems := (cond (ne ($params.number_of_items) nil) ($params.number_of_items) ( 3 ) ) }}
 {{ $heading :=  (cond (ne ($params.heading) nil ) (.params.heading) ("h2") ) }}
+
 {{ $headingclass := "text-2xl lg:text-3xl font-bold mb-4 xl:mb-12" }}
 {{ $title := $params.title }}
 

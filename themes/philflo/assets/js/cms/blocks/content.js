@@ -9,10 +9,18 @@ export const content = {
   i18n: true,
   fields: [
     {
-      label: "Align content",
+      label: "Align content block",
       name: "align",
       widget: "select",
       options: ["left", "center", "right"],
+      required: false,
+      i18n: true,
+    },
+    {
+      label: "Align text",
+      name: "align_text",
+      widget: "select",
+      options: ["text-left", "text-center", "text-right", "text-justify"],
       required: false,
       i18n: true,
     },
