@@ -183,6 +183,25 @@ const fields = [
             ]
           },
           {
+            label: 'Rating block',
+            name: 'rating',
+            widget: 'object',
+            fields: [
+              {
+                label: 'Title',
+                name: 'title',
+                widget: 'string',
+                required: false
+              },
+              {
+                label: 'Link',
+                name: 'link',
+                widget: 'string',
+                required: false
+              },
+            ]
+          },
+          {
       
           label: 'Bottom Text',
           name: 'bottomtext',
