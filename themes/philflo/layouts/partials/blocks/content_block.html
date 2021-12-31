@@ -63,14 +63,27 @@
      
 
         {{ if and ($params.video) (eq $display "custom_video") }}
-        <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
-          {{ with  $params.video.source_webm }}
-            <source src="{{.}}" type="video/webm">
+        <div class="relative">
+          <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
+            {{ with  $params.video.source_webm }}
+              <source src="{{.}}" type="video/webm">
+            {{ end }}
+            {{ with  $params.video.source_mp4 }}
+            <source src="{{.}}" type="video/mp4">
+            {{ end }}
+          </video>
+
+          {{ if $params.video.image }}
+            <button class="absolute inset-0 z-30 flex items-center justify-center w-full pr-6 playbutton focus:outline-none">
+              <span class="relative z-30 flex items-center justify-center w-16 h-16 text-white rounded branch-element-bg animate-pulse duration-800">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+                </svg>
+              </span>
+              {{ partial "image.html" (dict "page" $page "source" $params.video.image.source "alt" $params.video.image.alt "width" "1600" "height" "900" "class" "w-full z-20 absolute inset-0 z-10") }}
+            </button>
           {{ end }}
-          {{ with  $params.video.source_mp4 }}
-          <source src="{{.}}" type="video/mp4">
-          {{ end }}
-        </video>
+        </div>
       {{ end }}
 
       {{ if and ($params.iframe) (eq $display "iframe") }}

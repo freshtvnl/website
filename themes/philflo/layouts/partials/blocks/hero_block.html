@@ -17,6 +17,7 @@
     
   {{ if and ($params.video) (eq $display "custom_video") }}
   <div class="relative z-20 pr-6 mt-6 lg:mt-12 md:pr-12 xl:pr-48">
+    
 
     <video {{ if $params.video.autoplay}}autoplay muted loop playsinline{{else}}controls{{end}} class="w-full focus:outline-none">
       {{ with  $params.video.source_webm }}
