@@ -80,6 +80,9 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: logoblock
+    title: Bewezen trackrecord
+    content: ""
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
