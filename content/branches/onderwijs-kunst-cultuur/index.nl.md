@@ -85,6 +85,14 @@ blocks:
       - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Hanze Hogeschool Groningen
+      - Noorderpoort
+      - EsMEI
+      - Maandag
+      - CSB Amsterdam
 seo:
   title: Video en animatie oplossingen voor het onderwijs | Virtuele open dag |
     Interactieve schooltour
