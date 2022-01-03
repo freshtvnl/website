@@ -83,6 +83,12 @@ blocks:
   - type: logoblock
     title: Bewezen trackrecord
     content: ""
+    logo_items:
+      - JDE
+      - HZPC
+      - MplusKASSA
+      - Becky's
+      - KG Systems
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
