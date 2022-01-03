@@ -42,6 +42,12 @@ blocks:
       - coornhert-gymnasium-promotiefilm-school
       - alfen-Smart-Charging-Network-3D-animatie
     more_items: true
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Save the Children
+      - Welcome App
+      - BokNET
 seo:
   title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo
   description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
