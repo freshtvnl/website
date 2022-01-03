@@ -141,11 +141,9 @@ blocks:
       - contact
   - type: logoblock
     logo_items:
-      - Hanze Hogeschool Groningen
-      - Payconiq
       - KG Systems
-      - Open Health
       - Xaam
+      - Alfen
     content: ""
     title: Bewezen trackrecord
 seo:
