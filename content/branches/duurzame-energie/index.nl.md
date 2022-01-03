@@ -146,6 +146,7 @@ blocks:
       - NOM
       - Sensorfact
       - TNO
+      - MRA Elektrisch
     content: ""
     title: Bewezen trackrecord
 seo:
