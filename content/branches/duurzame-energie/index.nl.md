@@ -141,9 +141,11 @@ blocks:
       - contact
   - type: logoblock
     logo_items:
-      - KG Systems
       - Xaam
       - Alfen
+      - NOM
+      - Sensorfact
+      - TNO
     content: ""
     title: Bewezen trackrecord
 seo:
