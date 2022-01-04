@@ -80,6 +80,14 @@ blocks:
       url: https://www.philenflo.nl/contact/
       text: Neem contact op
       type: button
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Payconiq
+      - K3 Business Technology
+      - Synadia
+      - SHOWA
+      - TNO
   - type: selectedreviews_block
     title: Google Reviews
     items:
@@ -89,14 +97,6 @@ blocks:
   - type: contact_block
     contacts:
       - victor
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Payconiq
-      - K3 Business Technology
-      - Synadia
-      - SHOWA
-      - TNO
 seo:
   title: Innovatieve tech | Phil & Flo creative studio voor elke branche
   description: Videomarketing voor de innovatieve technologie branche. Phil & Flo
