@@ -84,6 +84,7 @@ blocks:
       - KG Systems
   - type: selectedwork_block
     items:
+      - Douwe Egberts - Cafitesse Commercial
       - Beckys - 3D animatie
       - Infomercial hzpc sunita
     title: Cases
