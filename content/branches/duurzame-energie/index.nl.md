@@ -108,6 +108,16 @@ blocks:
       alt: Peter de Graaf
     video:
       autoplay: false
+  - type: logoblock
+    logo_items:
+      - Xaam
+      - Alfen
+      - NOM
+      - Sensorfact
+      - TNO
+      - MRA Elektrisch
+    content: ""
+    title: Bewezen trackrecord
   - type: selectedwork_block
     items:
       - animatiefilm-over-biogas
@@ -139,16 +149,6 @@ blocks:
       - algemene-voorwaarden
       - bedankt-nieuwsbrief
       - contact
-  - type: logoblock
-    logo_items:
-      - Xaam
-      - Alfen
-      - NOM
-      - Sensorfact
-      - TNO
-      - MRA Elektrisch
-    content: ""
-    title: Bewezen trackrecord
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie. ✔
