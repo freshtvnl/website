@@ -128,6 +128,7 @@ blocks:
     items:
       - Pharmerit - Interactieve brochure
       - Animatiefilm PRA health sciences
+      - UMCG - Werken Bij UMCG als ANIOS
 seo:
   title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
   description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
