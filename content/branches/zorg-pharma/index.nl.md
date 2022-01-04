@@ -106,6 +106,14 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - ChipSoft
+      - ICON
+      - ZonMw
+      - Open Health
+      - Lentis
   - type: contact_block
     contacts:
       - victor
@@ -115,14 +123,11 @@ blocks:
 
 
       Schroom niet op contact op te nemen. Onze specialist staan klaar om vrijblijvend te sparren over jouw communicatie uitdagingen!
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - ChipSoft
-      - ICON
-      - ZonMw
-      - Open Health
-      - Lentis
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - Pharmerit - Interactieve brochure
+      - Animatiefilm PRA health sciences
 seo:
   title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
   description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
