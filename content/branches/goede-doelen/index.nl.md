@@ -38,9 +38,9 @@ blocks:
       - suzan-abbas
   - type: selectedwork_block
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - coornhert-gymnasium-promotiefilm-school
-      - alfen-Smart-Charging-Network-3D-animatie
+      - Save The Children - Bordje Bij
+      - LCB Apotheek retour
+      - BOK - Artistieke 3D Commercial
     more_items: true
   - type: logoblock
     title: Bewezen trackrecord
