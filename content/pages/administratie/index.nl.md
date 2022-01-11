@@ -1,7 +1,7 @@
 ---
 title: administratie
 slug: factuur
-draft: true
+draft: false
 color: green
 blocks:
   - type: content_block
