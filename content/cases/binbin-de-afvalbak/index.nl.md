@@ -37,7 +37,7 @@ blocks:
       Dit Dutch Design hoogstandje is speciaal ontwikkeld voor de zakelijk markt en is eenvoudig af te stemmen op verschillende gebruikersbehoeften. Wij werden gevraagd om de unieke eigenschappen in een strakke 3D animatie te verpakken. Dat is goed gelukt als je het ons vraagt! Met een afvalbak van BinBin hoef je als organisatie de afvalbak niet meer weg te moffelen in een hoekje.
     displaymedia: image
     image:
-      source: images/generation-3-white.rgb_color.0002-1-1536x1536.jpg
+      source: images/afvalbak-2.png
   - type: content_block
     video:
       autoplay: true
