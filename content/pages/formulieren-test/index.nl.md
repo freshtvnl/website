@@ -34,6 +34,10 @@ blocks:
     content: "## Contact formulier"
   - type: content_block
     align: center
+    form: factuurgegevens
+    content: "## Factuurgegevens"
+  - type: content_block
+    align: center
     content: "## 30 minutes"
     form: 30-minutes
     video:

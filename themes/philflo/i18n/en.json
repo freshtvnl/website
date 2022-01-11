@@ -51,6 +51,14 @@
   {
     "id": "minutes",
     "translation": "minutes"
+  },
+  {
+    "id": "city",
+    "translation": "City"
+  },
+  {
+    "id": "ownemail",
+    "translation": "Own email address"
   }
   
 ]

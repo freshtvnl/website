@@ -106,6 +106,13 @@
   {
     "id": "po",
     "translation": " PO-nummer of kostenplaats"
+  },
+  {
+    "id": "city",
+    "translation": "Plaats"
+  },
+  {
+    "id": "ownemail",
+    "translation": "Eigen e-mailadres"
   }
-  
 ]
