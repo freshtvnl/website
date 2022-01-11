@@ -11,6 +11,7 @@ blocks:
     displaymedia: image
     image:
       source: images/logo_philenflo_netgeenzwart.jpg
+    align: center
 seo:
   noindex: true
 ---
