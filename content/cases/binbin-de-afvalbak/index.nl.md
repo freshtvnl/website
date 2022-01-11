@@ -54,7 +54,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
-    align: left
+    align: right
     content: >-
       ## Clean design, veelzijdige film
 
