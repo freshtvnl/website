@@ -2,7 +2,7 @@
 title: Alfen
 slug: phil164000610851420402
 image:
-  source: images/alfen-logo-01-01.png
+  source: images/logo_alfen.png
 seo:
   noindex: true
 ---
