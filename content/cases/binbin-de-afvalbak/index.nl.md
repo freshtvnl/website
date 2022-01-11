@@ -2,7 +2,7 @@
 title: BinBin / De Afvalbak
 slug: BinBin
 weight: 3
-draft: true
+draft: false
 image:
   source: images/afvalbak-foto.jpg
   alt: ""
