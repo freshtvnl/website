@@ -1,5 +1,5 @@
 ---
-title: /bedankt-factuurgegevens
+title: bedankt-factuurgegevens
 slug: /bedankt-factuurgegevens
 draft: false
 blocks:
@@ -11,6 +11,8 @@ blocks:
 
 
       Heb je trouwens zin in een leuke verassing op je verjaardag? Vul deze [hier](/verjaardag) in!
+    align_text: null
+    align: center
 seo:
   noindex: true
 ---
