@@ -1,5 +1,5 @@
 ---
-title: administratie
+title: administratie factuur
 slug: factuur
 draft: false
 color: green
@@ -10,8 +10,12 @@ blocks:
     form: factuurgegevens
     displaymedia: image
     image:
-      source: images/logo_philenflo_netgeenzwart.jpg
+      source: ""
     align: center
+    content: |-
+      **Bedankt voor het invullen van de factuurgegevens!**
+
+      Heb je vragen? Bel 085 - 2738331
 seo:
   noindex: true
 ---
