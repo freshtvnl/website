@@ -13,7 +13,7 @@ blocks:
       source: ""
     align: center
     content: |-
-      **Bedankt voor het invullen van de factuurgegevens!**
+      **Vul hier je factuurgegevens in!**
 
       Heb je vragen? Bel 085 - 2738331
 seo:
