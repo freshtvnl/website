@@ -53,7 +53,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## Clean design, veelzijdige film
 
