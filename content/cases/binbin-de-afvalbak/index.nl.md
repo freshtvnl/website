@@ -4,7 +4,7 @@ slug: BinBin
 weight: 3
 draft: false
 image:
-  source: images/afvalbak-foto.jpg
+  source: images/afvalbak-foto.png
   alt: ""
 content_type: case
 color: green
