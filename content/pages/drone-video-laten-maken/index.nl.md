@@ -81,6 +81,6 @@ blocks:
       - kan-ik-vrijblijvend-sparren-voor-een-drone-video
 seo:
   title: Drone video laten maken | Phil & Flo verbeelden de wereld van morgen
-  description: "Drone video laten maken voor passende content voor jouw doelgroep.
-    Spreek aan met goede content. | Phil & Flo "
+  description: Drone video laten maken voor passende content voor jouw doelgroep ✔
+    Klantscore 8,9 ✔ Innovatief & interactief | Neem cotnact op
 ---
