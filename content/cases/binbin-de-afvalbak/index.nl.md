@@ -42,13 +42,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Modulairiteit.mp4
     align: left
     content: >-
       ## Hoe laat je die modulairiteit zien?
 
 
       De afvalbak heeft een geniaal systeem. Alle componenten kunnen namelijk gescheiden en gecombineerd worden. Dit zorgt voor een hoge flexibiliteit van het systeem. Je hoeft nooit meer een nieuwe bak te kopen, want de bak past zich aan jouw behoeften aan. Groeit je bedrijf? Dan plak je er nieuwe modules aan. Krijg je een nieuwe afvalstroom? Idem dito. Deze modulaire functies lenen zich perfect voor een 3D animatie. 3D animatie zorgt dat we alle modules los van elkaar kunnen trekken, en dit op een dynamische manier te visualiseren.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: 2aPnhOwRvXo
   - type: content_block
