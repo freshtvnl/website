@@ -63,6 +63,7 @@ blocks:
 
       BinBin heeft internationale ambities. Dankzij de pakkende animatie met een clean design, hebben ze een effectief middel om de internationale markt te betreden. Geen gedoe met taalbarrières, maar vlotte video's die ze kunnen inzetten bij iedere bedrijfspresentatie, marketingcampagne of elevator pitch.
     form: contact-formulier
+    displaymedia: custom_video
   - type: contact_block
     contacts:
       - peter-de-graaf
