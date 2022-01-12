@@ -14,7 +14,7 @@ blocks:
     align: left
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Case-Binbin-Strak-Design.mp4
+      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
     title: "***Waste*** is only ***waste***, if we ***waste*** it"
     content: Een circulaire afvalbak die 100% recyclebaar is, een ook nog eens een
       prachtig design heeft. Klinkt goed toch? Dat vonden wij ook toen we gebeld
@@ -30,13 +30,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Case-Binbin-Strak-Design.mp4
     align: right
     content: >-
       ## Een strak design verdient een strakke 3D animatie
 
 
       Dit Dutch Design hoogstandje is speciaal ontwikkeld voor de zakelijk markt en is eenvoudig af te stemmen op verschillende gebruikersbehoeften. Wij werden gevraagd om de unieke eigenschappen in een strakke 3D animatie te verpakken. Dat is goed gelukt als je het ons vraagt! Met een afvalbak van BinBin hoef je als organisatie de afvalbak niet meer weg te moffelen in een hoekje.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/afvalbak-2.png
   - type: content_block
