@@ -58,7 +58,7 @@ blocks:
       ## Animatie studio en meer
 
 
-      Phil & Flo doet meer dan alleen maar het maken van pakkende animaties. We zijn expert op het gebied van videomarketing. We weten dus als geen andere animatiestudio (in Den Haag of elders) hoe je een goede animatie in elkaar zet om je doelgroep te bereiken. En we helpen je op weg met het succesvol inzetten van de animatie. Het zou toch zonde zijn als je een animatie laat maken die niemand ziet?
+      Phil & Flo doet meer dan alleen maar het maken van pakkende animaties. We zijn expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). We weten dus als geen andere animatiestudio (in Den Haag of elders) hoe je een goede animatie in elkaar zet om je doelgroep te bereiken. En we helpen je op weg met het succesvol inzetten van de animatie. Het zou toch zonde zijn als je een animatie laat maken die niemand ziet?
     displaymedia: youtube_video
     video:
       autoplay: true
@@ -74,7 +74,7 @@ blocks:
       ## Meer weten over onze animatiestudio?
 
 
-      We zijn trots op ons werk, daarom kun je onze cases ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag meer in persoon over wat we doen en wat we voor jou kunnen betekenen.
+      We zijn trots op ons werk, daarom kun je onze [cases](https://www.philenflo.nl/portfolio/) ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag meer in persoon over wat we doen en wat we voor jou kunnen betekenen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -98,7 +98,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Animatie studio in Den Haag | Phil & Flo Videomarketing
-  description: Phil & Flo Animatie studio in Den Haag |Onderscheidende content ✔
-    Gepersonaliseerd verhaal ✔ Creatief, interactief & innovatief
+  title: Animatie studio in Den Haag | Phil & Flo | Creative studio
+  description: "Animatie studio in Den Haag | ✔ Onderscheidende content ✔
+    Creatief, interactief & innovatief ✔ Klantscore 8,9 | Neem contact op "
 ---
