@@ -104,8 +104,7 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
 seo:
-  title: Animatie studio Amsterdam | Creatief en Snel | Phil & Flo Videomarketing
-  description: Phil & Flo Animatie studio in Amsterdam | Creatieve animatiefilms |
-    We produceren unieke maatwerk animaties voor jouw organisatie! 2D, 3D en VR!
-    Bel ons nu!
+  title: Animatie studio Amsterdam | Phil & Flo | Creative studio
+  description: "Animatie studio Phil & Flo in Amsterdam ✔ Klantscore 8,9 ✔
+    Onderscheidende content ✔ Interactief & innovatief | Neem contact op "
 ---
