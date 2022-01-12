@@ -4,7 +4,7 @@ slug: BinBin
 weight: 3
 draft: false
 image:
-  source: images/afvalbak-foto.png
+  source: ""
   alt: ""
 content_type: case
 color: green
@@ -14,6 +14,7 @@ blocks:
     align: left
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Case-Binbin-Strak-Design.mp4
     title: "***Waste*** is only ***waste***, if we ***waste*** it"
     content: Een circulaire afvalbak die 100% recyclebaar is, een ook nog eens een
       prachtig design heeft. Klinkt goed toch? Dat vonden wij ook toen we gebeld
@@ -23,7 +24,7 @@ blocks:
       bamboe, en is maatschappelijk verantwoord gebouwd. Dit doen ze door in een
       fabriek in Nederland te produceren en de afstand tot jouw stoep te
       verkleinen.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/afvalbak-foto.jpg
   - type: content_block
