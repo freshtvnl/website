@@ -81,6 +81,6 @@ blocks:
     more_items: true
 seo:
   title: Educatieve animatievideo maken - Phil & Flo Videomarketing
-  description: Educatie animatiefilm maken? Maak iets in zo’n kort mogelijk
-    tijdsbestek duidelijk aan je doelgroep. Zo komt je boodschap goed over.
+  description: Educatie animatiefilm maken? Maak jouw boodschap duidelijk voor
+    jouw doelgroep. ✔ Innovatief & Interactief ✔ Klantscore 8,9
 ---
