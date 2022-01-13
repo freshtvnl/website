@@ -182,6 +182,9 @@ blocks:
       - hoe-maken-jullie-een-interactieve-video
       - hebben-jullie-voorbeelden-van-een-interactieve-video
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: Virtuele rondleiding school - Interactieve school tour| Phil & Flo | Wij
     verbeelden de wereld van morgen
