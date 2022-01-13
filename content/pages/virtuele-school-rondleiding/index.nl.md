@@ -113,7 +113,7 @@ blocks:
       ## ***Succes boeken met jouw interactieve schooltour***
 
 
-      Van begin tot eind helpt Phil & Flo jou om een interactieve schooltour te maken die je jarenlang ikan inzetten. Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
+      Van begin tot eind helpt Phil & Flo jou om een interactieve schooltour te maken die je jarenlang kan inzetten. **Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen**. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
     displaymedia: iframe
     youtube:
       id: ""
@@ -123,13 +123,20 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: center
+      source_mp4: https://video.philenflo.nl/video/CSB-%20School%20video%20Phil%20en%20Flo.mp4
+    align: right
     content: >-
-      ## Wil je meer weten?
+      ## ***Wil je meer weten?***
 
 
-      Benieuwd hoe wij andere scholen hebben geholpen met hun digitale rondleiding? Lees dan hier onze [case over CSB Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Heb je vragen of wil je graag een vrijblijvend adviesgesprek? Neem dan hieronder contact met ons op!
+      Benieuwd hoe wij andere scholen hebben geholpen met hun digitale rondleiding? Lees dan hier onze [case over CSB Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Heb je vragen of wil je graag een vrijblijvend adviesgesprek?
     form: ""
+    displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Neem contact op
+      color: pink
+      type: button
   - type: content_block
     video:
       autoplay: true
