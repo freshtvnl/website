@@ -5,10 +5,10 @@ draft: false
 color: yellow
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
-    title: "***Virtuele school tour*** de oplossing voor je open dag!"
+    title: "***Virtuele school tour*** - De oplossing voor je open dag!"
   - type: content_block
     video:
       autoplay: true
