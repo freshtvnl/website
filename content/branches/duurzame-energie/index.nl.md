@@ -56,11 +56,13 @@ blocks:
       ## ***Waarom Phil & Flo?***
 
 
-      - Wij produceren al sinds 2010 voor de duurzame energie sector en geloven in jouw sector.
+      Wij produceren al sinds 2010 voor de duurzame energie sector en geloven in jouw sector.
 
-      - Practice what you preach, wij werken niet voor Oliemaatschappijen.
 
-      - Wij begrijpen tot in detail de technische innovaties en complicaties in de energietransitie.
+      Practice what you preach, wij werken niet voor Oliemaatschappijen.
+
+
+      Wij begrijpen tot in detail de technische innovaties en complicaties in de energietransitie.
     displaymedia: custom_video
     image:
       source: images/logo-xaam-alfen-tno.jpg
