@@ -73,12 +73,12 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/CSB-Film-met-keuzes-Phil-en-Flo-Phil-en-Flo.mp4
-    align: left
+    align: right
     content: >-
-      ### Draaiboek voor jouw virtuele rondleiding
+      ### ***Draaiboek voor jouw virtuele rondleiding***
 
 
-      Nu de basis staat in de vorm van een wireframe kan er een filmdag gepland worden. Op basis van de wireframe maakt de creative producer afspraken met jullie om de benodigde mensen en filmlocaties voor te bereiden. Alle informatie wordt verzameld in één overzichtelijk draaiboek.
+      Nu de basis staat in de vorm van een wireframe kan er een filmdag gepland worden. Op basis van het wireframe maakt de creative producer afspraken met jullie om de benodigde mensen en filmlocaties voor te bereiden. Alle informatie wordt verzameld in één overzichtelijk draaiboek. Dit draaiboek geeft per minuut aan wie, wat en waar er gefilmd wordt bij jullie op school.
     displaymedia: custom_video
   - type: content_block
     video:
