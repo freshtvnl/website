@@ -43,6 +43,8 @@ blocks:
       - CSB Amsterdam
       - Noorderpoort
       - Hanze Hogeschool Groningen
+      - Het Streek school
+      - RSG Sneek
   - type: content_block
     video:
       autoplay: true
