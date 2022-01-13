@@ -38,7 +38,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB-%20School%20video%20Phil%20en%20Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Noorderpoort-interactieve-video-tour.mp4
     align: left
     content: >-
       ### ***Van idee naar opdracht***
