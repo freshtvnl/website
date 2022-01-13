@@ -95,10 +95,10 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ### Opleveren
+      ### ***Opleveren conceptversie***
 
 
-      Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback, verwerken wij dit, en maken we samen de interactieve schooltour een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden. Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met qr-code.
+      Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback en verwerken wij dit. De interactieve schooltour is een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden op je website. **Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met qr-code.**
     displaymedia: youtube_video
     image:
       source: images/interactieve-school-rondleiding-poster-qr-code.jpg
