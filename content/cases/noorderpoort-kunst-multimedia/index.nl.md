@@ -12,7 +12,7 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: Schooltour 2.0
+    title: "***Interactieve open dag - Noorderpoort***"
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/412d52b4fa953035e44a1beb
