@@ -10,7 +10,7 @@ blocks:
     align: left
     video:
       autoplay: true
-    title: Park Lyceum
+    title: "***Park Lyceum - Almere***"
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     displaymedia: iframe
