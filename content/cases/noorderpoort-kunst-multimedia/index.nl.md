@@ -2,6 +2,8 @@
 title: Noorderpoort - Kunst & Multimedia
 slug: noorderpoort
 draft: false
+image:
+  source: images/noorderpoort-interactieve-open-dag.jpg
 content_type: portfolio
 color: yellow
 branch: onderwijs-kunst-cultuur
