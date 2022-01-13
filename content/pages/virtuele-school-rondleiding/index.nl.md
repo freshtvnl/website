@@ -44,7 +44,7 @@ blocks:
       ### ***Van idee naar opdracht***
 
 
-      Onze samenwerking begint met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en de communicatiedoelstellingen. Vervolgens schetst ons ervaren adviesteam, samen met jullie, de technische kaders om zo tot een opdracht te komen. Onze consultants denken gelijk met je mee over wat het doel is van de film en wat er nodig is om deze effectief in te zetten na oplevering. Tijdens dit proces maak je ook kennis met je aangewezen creative producer. Deze persoon is jouw projectmanager, begeleidt je door het proces en neemt zoveel mogelijk zorgen uit handen. Heb je vragen, dan staat je creative producer voor je klaar!
+      Onze samenwerking begint met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en de communicatiedoelstellingen. Vervolgens schetst ons ervaren adviesteam, samen met jullie, de technische kaders om zo tot een opdracht te komen. **Onze consultants denken gelijk met je mee over wat het doel is van de film en wat er nodig is om deze effectief in te zetten na oplevering**. Tijdens dit proces maak je ook kennis met je aangewezen creative producer. Deze persoon is jouw projectmanager, begeleidt je door het proces en neemt zoveel mogelijk zorgen uit handen. Heb je vragen, dan staat je creative producer voor je klaar!
     displaymedia: custom_video
   - type: content_block
     video:
