@@ -172,7 +172,7 @@ blocks:
     youtube:
       id: 7TOmvPxRGC8
     cta:
-      url: /mvo/
+      url: /maatschappelijk-verantwoord-ondernemen/
       text: Meer over onze MVO
       type: button
       color: blue
