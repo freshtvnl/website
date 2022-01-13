@@ -27,40 +27,6 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
-    content: Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om
-      communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks
-      terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met
-      een pakkende[ **interactieve
-      video**](https://www.philenflo.nl/oplossingen/interactieve-video/)
-      **school tour** van Phil & Flo spreek je zowel leerlingen als ouders aan
-      met één pakkende interactieve ervaring.
-  - type: content_block
-    video:
-      autoplay: true
-    align: right
-    content: >-
-      ## Wie zijn Phil & Flo?
-
-
-      Phil & Flo verbeeld de wereld van morgen en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
-    displaymedia: youtube_video
-    youtube:
-      id: 7TOmvPxRGC8
-  - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
-    align: left
-    content: >-
-      ## 360 video tour
-
-
-      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen in.
-    displaymedia: custom_video
-  - type: content_block
-    video:
-      autoplay: true
       source_mp4: https://video.philenflo.nl/video/CSB%20Video%20tour%20school%20-%20Phil%20en%20Flo.mp4
     align: right
     content: >-
@@ -164,6 +130,39 @@ blocks:
 
       Benieuwd hoe wij andere scholen hebben geholpen met hun digitale rondleiding? Lees dan hier onze [case over CSB Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Heb je vragen of wil je graag een vrijblijvend adviesgesprek? Neem dan hieronder contact met ons op!
     form: ""
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## School communicatie naar het volgende niveau
+
+
+      Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met een pakkende[ **interactieve video**](https://www.philenflo.nl/oplossingen/interactieve-video/) **school tour** van Phil & Flo spreek je zowel leerlingen als ouders aan met één pakkende interactieve ervaring.
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## Wie zijn Phil & Flo?
+
+
+      Phil & Flo verbeeld de wereld van morgen en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
+    displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
+    align: left
+    content: >-
+      ## 360 video tour
+
+
+      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen in.
+    displaymedia: custom_video
   - type: selectedfaqs_block
     items:
       - wat-moet-ik-aanleveren-voor-een-offerte
