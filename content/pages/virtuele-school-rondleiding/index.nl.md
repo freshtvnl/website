@@ -45,6 +45,7 @@ blocks:
       - Hanze Hogeschool Groningen
       - Het Streek school
       - RSG Sneek
+      - Coornhert Gymnasium
   - type: content_block
     video:
       autoplay: true
