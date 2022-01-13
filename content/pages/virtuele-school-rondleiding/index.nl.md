@@ -140,6 +140,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Park-lyceum-almere-interactieve-videotour.mp4
     align: left
     content: >-
       ## ***School communicatie naar het volgende niveau***
