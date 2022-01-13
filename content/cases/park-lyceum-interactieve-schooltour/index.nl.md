@@ -2,6 +2,8 @@
 title: Park Lyceum - Interactieve Schooltour
 slug: park-lyceum
 draft: false
+image:
+  source: images/park-lyceum.jpg
 content_type: portfolio
 color: yellow
 branch: onderwijs-kunst-cultuur
