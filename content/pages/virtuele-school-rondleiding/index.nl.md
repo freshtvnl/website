@@ -52,10 +52,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-interactieve-rondleiding-Phil-en-Flo-Phil-en-Flo.mp4
     align: right
     content: >-
-      ### Creatieve sessie
+      ### ***Creatieve sessie***
 
 
-      De volgende stap is het verder inkleuren van de kaders die getekend zijn. Wat en wie gaan we precies filmen? Gaan we mensen interviewen of werken we met een voice-over? Onze creative producers leiden een creatieve sessie waarin we samen alle ideeën en wensen doorspreken. Wij geven gedegen advies over wat wel en wat minder goed werkt. Al deze ideeën verzamelen we en verwerken we in een wireframe.
+      De volgende stap is het verder inkleuren van de kaders die getekend zijn. Wat en wie gaan we precies filmen? Gaan we mensen interviewen of werken we met een voice-over? Onze creative producers leiden een creatieve sessie waarin we samen alle ideeën en wensen doorspreken. Wij geven advies over wat wel en wat minder goed werkt. Al deze ideeën verzamelen we en verwerken we in een ***wireframe***.
     displaymedia: custom_video
   - type: content_block
     video:
