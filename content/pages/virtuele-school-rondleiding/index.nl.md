@@ -171,6 +171,11 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
+    cta:
+      url: /mvo/
+      text: Meer over onze MVO
+      type: button
+      color: blue
   - type: content_block
     video:
       autoplay: true
