@@ -8,21 +8,32 @@ blocks:
     align: left
     video:
       autoplay: true
-      source_mp4: ""
-    title: "***Virtuele school tour***"
-    content: Hoe presenteer je jouw school aan ouders en kinderen anno 2021?
-      Natuurlijk met een pakkende video waarin je jouw school presenteert. Maar
-      waarom zou je stoppen bij het kiezen voor een standaard video als je een
-      virtual tour of [interactieve
-      video](https://www.philenflo.nl/oplossingen/interactieve-video/)
-      rondleiding kan maken? Phil & Flo werkt nauw samen met verschillende
-      scholen en helpt hen om communicatievraagstukken op te lossen.
-      Bijvoorbeeld de jaarlijks terugkerende uitdaging om voldoende instroom van
-      leerlingen te hebben. Met een pakkende interactieve school tour van Phil &
-      Flo spreek je zowel leerlingen als ouders aan met één pakkende film.
+    title: "***Virtuele school tour*** de oplossing voor je open dag!"
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: Hoe presenteer je jouw school aan ouders en kinderen op een
+      vernieuwende manier? Natuurlijk met een virtuele tour of [interactieve
+      video](https://www.philenflo.nl/oplossingen/interactieve-video/) tour van
+      Phil & Flo.
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+    cta:
+      url: /contact
+      text: Direct contact
+      type: button
+      color: pink
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om
+      communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks
+      terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met
+      een pakkende **interactieve school tour** van Phil & Flo spreek je zowel
+      leerlingen als ouders aan met één pakkende interactieve ervaring.
   - type: content_block
     video:
       autoplay: true
