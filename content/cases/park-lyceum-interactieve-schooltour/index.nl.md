@@ -14,4 +14,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     displaymedia: iframe
+seo:
+  title: Interactieve schooltour op het Park Lyceum
+  description: Interactieve schooltour op het Park Lyceum
 ---
