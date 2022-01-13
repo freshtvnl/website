@@ -62,10 +62,10 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ### Wireframe
+      ### ***Wireframe interactieve open dag***
 
 
-      De creative producer maakt een zogeheten wireframe waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn. In overleg werken we toe naar een definitieve wireframe.
+      De creative producer maakt een zogeheten **wireframe** waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn. In overleg werken we toe naar het definitieve wireframe voor de interactieve film.
     displaymedia: image
     image:
       source: images/interactieve-digitale-school-rondleiding-wireframe.jpg
