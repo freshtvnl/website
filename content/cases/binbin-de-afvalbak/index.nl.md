@@ -4,7 +4,7 @@ slug: BinBin
 weight: 3
 draft: false
 image:
-  source: ""
+  source: images/schermafbeelding-2022-01-13-om-15.51.36.png
   alt: ""
 content_type: case
 color: green
