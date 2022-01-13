@@ -140,9 +140,9 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
-      ## School communicatie naar het volgende niveau
+      ## ***School communicatie naar het volgende niveau***
 
 
       Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met een pakkende[ **interactieve video**](https://www.philenflo.nl/oplossingen/interactieve-video/) **school tour** van Phil & Flo spreek je zowel leerlingen als ouders aan met één pakkende interactieve ervaring.
@@ -152,10 +152,10 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Wie zijn Phil & Flo?
+      ## ***Wie is Phil & Flo?***
 
 
-      Phil & Flo verbeeld de wereld van morgen en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding, die jou helpen om te doen waar je goed in bent, doceren!
+      Phil & Flo verbeeld de wereld van morgen en richt zich op een vijftal branches. [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/), is er hier één van. Door ons te specialiseren, blijven we op de hoogte van wat er speelt op het gebied van onderwijs en realiseren we altijd op maat gemaakte producties, zoals bijvoorbeeld een digitale of virtuele rondleiding. Dit helpt jou om te doen waar je goed in bent, doceren!
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -165,17 +165,28 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
     align: left
     content: >-
-      ## 360 video tour
+      ## ***360 graden video tour***
 
 
-      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. Wat je wensen ook zijn voor jouw interactieve tour, Phil & Flo kan het maken. We hebben ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen in.
+      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. We hebben ook ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen. Neem contact op voor de mogelijkheden!
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Meer informatie
+      type: button
+      color: pink
   - type: selectedfaqs_block
     items:
-      - wat-moet-ik-aanleveren-voor-een-offerte
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
+      - hoe-maken-jullie-een-interactieve-video
+      - hebben-jullie-voorbeelden-van-een-interactieve-video
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
 seo:
-  title: Virtuele rondleiding school | Phil & Flo | Wij verbeelden de wereld van
-    morgen
-  description: Virtuele rondleiding laten maken voor jouw school. Geef een 360
-    graden beeld van de school. Phil & Flo verbeeldt het.
+  title: Virtuele rondleiding school - Interactieve school tour| Phil & Flo | Wij
+    verbeelden de wereld van morgen
+  description: Virtuele rondleiding laten maken voor jouw school. Interactieve
+    school tour. Phil & Flo verbeeldt het.
+menu:
+  footer:
+    weight: 8
 ---
