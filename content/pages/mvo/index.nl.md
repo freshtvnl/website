@@ -7,6 +7,18 @@ color: orange
 blocks:
   - type: hero_block
     title: "***Maatschappelijk verantwoord ondernemen***"
+    content: ""
+    displaymedia: null
+    image:
+      source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
+    video:
+      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
+      autoplay: true
+    align: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
     content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
       gestoeld. Dit begon al toen we nog FreshTV heetten. Onze teamleden worden
       ongemakkelijk om hun tijd te investeren in organisaties waar ze totaal
@@ -16,12 +28,8 @@ blocks:
       vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
       hier zeer bewust mee bezig en zullen uiteraard meebewegen met de
       voortschrijdende inzichten van ons team en de buitenwereld.
+    align: left
     displaymedia: custom_video
-    image:
-      source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
-    video:
-      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
-      autoplay: true
   - type: content_block
     content: >-
       ## Met wie we graag ***samenwerken***
