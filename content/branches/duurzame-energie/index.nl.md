@@ -50,6 +50,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Xaam-MP-1.mp4
     align: left
     content: >-
       ## ***Waarom Phil & Flo?***
@@ -60,7 +61,7 @@ blocks:
       - Practice what you preach, wij werken niet voor Oliemaatschappijen.
 
       - Wij begrijpen tot in detail de technische innovaties en complicaties in de energietransitie.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/logo-xaam-alfen-tno.jpg
   - type: content_block
