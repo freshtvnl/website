@@ -50,7 +50,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Xaam-MP-1.mp4
+      source_mp4: https://video.philenflo.nl/video/Xaam-Mp4-2.mp4
     align: left
     content: >-
       ## ***Waarom Phil & Flo?***
