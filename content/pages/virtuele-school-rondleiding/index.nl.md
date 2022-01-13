@@ -14,9 +14,8 @@ blocks:
       autoplay: true
     align: left
     content: Hoe presenteer je jouw school aan ouders en kinderen op een
-      vernieuwende manier? Natuurlijk met een virtuele tour of [interactieve
-      video](https://www.philenflo.nl/oplossingen/interactieve-video/) tour van
-      Phil & Flo.
+      vernieuwende manier? Natuurlijk met een virtuele tour of interactieve
+      videotour van Phil & Flo.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
@@ -32,8 +31,10 @@ blocks:
     content: Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om
       communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks
       terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met
-      een pakkende **interactieve school tour** van Phil & Flo spreek je zowel
-      leerlingen als ouders aan met één pakkende interactieve ervaring.
+      een pakkende[ **interactieve
+      video**](https://www.philenflo.nl/oplossingen/interactieve-video/)
+      **school tour** van Phil & Flo spreek je zowel leerlingen als ouders aan
+      met één pakkende interactieve ervaring.
   - type: content_block
     video:
       autoplay: true
