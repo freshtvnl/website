@@ -30,10 +30,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/CSB%20Video%20tour%20school%20-%20Phil%20en%20Flo.mp4
     align: right
     content: >-
-      ## Hoe maken jullie een interactieve digitale school rondleiding?
+      ## Hoe maken jullie een ***interactieve digitale open dag***?
 
 
-      Wij zien dat veel scholen geholpen (zouden) zijn met een interactieve schoolrondleiding. Maar wat is dit nu precies? Hieronder gaan we in op de stappen in onze samenwerking, en hoe wij jou zo goed als mogelijk ontzorgen.
+      Wij zien dat veel scholen een interactieve open dag willen hebben, waarmee ze opvallen en het hele jaar door de open zijn voor nieuwe instromers, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de stappen van onze samenwerking, en hoe jij volledig controle houdt.
     displaymedia: custom_video
   - type: content_block
     video:
