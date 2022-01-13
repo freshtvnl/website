@@ -35,6 +35,12 @@ blocks:
 
       Wij zien dat veel scholen een interactieve open dag willen hebben, waarmee ze opvallen en het hele jaar door de open zijn voor nieuwe instromers, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de stappen van onze samenwerking, en hoe jij volledig controle houdt.
     displaymedia: custom_video
+  - type: logoblock
+    title: Scholen die voor ons kiezen
+    logo_items:
+      - CSB Amsterdam
+      - Noorderpoort
+      - Hanze Hogeschool Groningen
   - type: content_block
     video:
       autoplay: true
