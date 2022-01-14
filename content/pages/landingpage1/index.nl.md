@@ -159,6 +159,11 @@ blocks:
       je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
       technieken en producten inzichtelijk maakt.
     align: left
+    cta:
+      type: button
+      color: pink
+      text: Neem direct contact op
+      url: /contact/
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
