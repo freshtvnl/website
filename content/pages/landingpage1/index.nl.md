@@ -37,7 +37,7 @@ blocks:
       productuitleg, productpromotie, en -marketing. Met een animatiefilm weet
       je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
       technieken en producten inzichtelijk maakt.
-    align: left
+    align: right
     cta:
       type: button
       color: pink
