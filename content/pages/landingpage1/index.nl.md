@@ -124,7 +124,7 @@ blocks:
       ## **Wat is 3d animatie?**
 
 
-      3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm. Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier over te brengen. De kansen die dit biedt voor bedrijven en organisaties zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en in beweging zetten. Dit biedt mogelijkheden op het gebied van productuitleg, productpromotie, en -marketing. Met een animatiefilm weet je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe technieken en producten inzichtelijk maakt.
+      3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
     displaymedia: custom_video
     align: right
   - type: content_block
@@ -148,6 +148,17 @@ blocks:
       De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
     form: contact-formulier
     align: right
+  - type: content_block
+    video:
+      autoplay: true
+    content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
+      over te brengen. De kansen die dit biedt voor bedrijven en organisaties
+      zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
+      in beweging zetten. Dit biedt mogelijkheden op het gebied van
+      productuitleg, productpromotie, en -marketing. Met een animatiefilm weet
+      je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
+      technieken en producten inzichtelijk maakt.
+    align: left
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
