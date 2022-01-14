@@ -164,6 +164,8 @@ blocks:
       color: pink
       text: Neem direct contact op
       url: /contact/
+    displaymedia: form
+    form: contact-formulier
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
