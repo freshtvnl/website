@@ -29,6 +29,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Xaam-MP-1.mp4
     content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
       over te brengen. De kansen die dit biedt voor bedrijven en organisaties
       zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
@@ -42,8 +43,8 @@ blocks:
       color: pink
       text: Neem direct contact op
       url: /contact/
-    displaymedia: form
-    form: contact-formulier
+    displaymedia: custom_video
+    form: ""
   - type: content_block
     align: left
     content: >-
