@@ -130,6 +130,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/21903-IQBin-V2.mp4
+    content: >-
+      ### Hoe maak je een 3D animatie?
+
+
+      Een animatieproject begint bij ons bij het eerste gesprek. Hierin denken we met je mee wat het doel van de animatie moet zijn. Dit is misschien wel het belangrijkste onderdeel van een samenwerking. Waarom? Omdat de stijl, toon, lengte en voice-over hierop moeten aansluiten. Zo heeft een 3D instructieanimatie een totaal andere insteek dan een geanimeerde promotie animatie. Laat ons met je meedenken, en laat weten wat jouw doelen zijn!
+    align: right
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
