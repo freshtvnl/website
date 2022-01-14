@@ -16,6 +16,35 @@ blocks:
       source_webm: ""
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
+    content: >-
+      ## **Wat is 3d animatie?**
+
+
+      3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
+    displaymedia: custom_video
+    align: right
+  - type: content_block
+    video:
+      autoplay: true
+    content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
+      over te brengen. De kansen die dit biedt voor bedrijven en organisaties
+      zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
+      in beweging zetten. Dit biedt mogelijkheden op het gebied van
+      productuitleg, productpromotie, en -marketing. Met een animatiefilm weet
+      je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
+      technieken en producten inzichtelijk maakt.
+    align: left
+    cta:
+      type: button
+      color: pink
+      text: Neem direct contact op
+      url: /contact/
+    displaymedia: form
+    form: contact-formulier
+  - type: content_block
     align: left
     content: >-
       ## ***3D product animatiefilm***
@@ -116,35 +145,6 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
-  - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
-    content: >-
-      ## **Wat is 3d animatie?**
-
-
-      3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
-    displaymedia: custom_video
-    align: right
-  - type: content_block
-    video:
-      autoplay: true
-    content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
-      over te brengen. De kansen die dit biedt voor bedrijven en organisaties
-      zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
-      in beweging zetten. Dit biedt mogelijkheden op het gebied van
-      productuitleg, productpromotie, en -marketing. Met een animatiefilm weet
-      je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
-      technieken en producten inzichtelijk maakt.
-    align: left
-    cta:
-      type: button
-      color: pink
-      text: Neem direct contact op
-      url: /contact/
-    displaymedia: form
-    form: contact-formulier
   - type: content_block
     video:
       autoplay: true
