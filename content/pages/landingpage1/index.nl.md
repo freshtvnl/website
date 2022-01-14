@@ -25,7 +25,7 @@ blocks:
 
       3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
     displaymedia: custom_video
-    align: right
+    align: center
   - type: content_block
     video:
       autoplay: true
