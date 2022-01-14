@@ -130,27 +130,6 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/21903-IQBin-V2.mp4
-    content: >-
-      ### Hoe maak je een 3D animatie?
-
-
-      Een animatieproject begint bij ons bij het eerste gesprek. Hierin denken we met je mee wat het doel van de animatie moet zijn. Dit is misschien wel het belangrijkste onderdeel van een samenwerking. Waarom? Omdat de stijl, toon, lengte en voice-over hierop moeten aansluiten. Zo heeft een 3D instructieanimatie een totaal andere insteek dan een geanimeerde promotie animatie. Laat ons met je meedenken, en laat weten wat jouw doelen zijn!
-    align: right
-    displaymedia: custom_video
-  - type: content_block
-    video:
-      autoplay: true
-    content: >-
-      ## **Wat kost een 3D animatie?**
-
-
-      De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
-    form: contact-formulier
-    align: right
-  - type: content_block
-    video:
-      autoplay: true
     content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
       over te brengen. De kansen die dit biedt voor bedrijven en organisaties
       zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
@@ -166,6 +145,29 @@ blocks:
       url: /contact/
     displaymedia: form
     form: contact-formulier
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/21903-IQBin-V2.mp4
+    content: >-
+      ### Hoe maak je een 3D animatie?
+
+
+      Een animatieproject begint bij ons bij het eerste gesprek. Hierin denken we met je mee wat het doel van de animatie moet zijn. Dit is misschien wel het belangrijkste onderdeel van een samenwerking. Waarom? Omdat de stijl, toon, lengte en voice-over hierop moeten aansluiten. Zo heeft een 3D instructieanimatie een totaal andere insteek dan een geanimeerde promotie animatie. Laat ons met je meedenken, en laat weten wat jouw doelen zijn!
+    align: right
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Energy-Towers-MP4-1.mp4
+    content: >-
+      ## **Wat kost een 3D animatie?**
+
+
+      De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
+    form: ""
+    align: right
+    displaymedia: custom_video
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
