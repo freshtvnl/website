@@ -142,9 +142,6 @@ blocks:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: contact_block
-    contacts:
-      - suzan-abbas
   - type: content_block
     video:
       autoplay: true
@@ -168,6 +165,9 @@ blocks:
     form: ""
     align: right
     displaymedia: custom_video
+  - type: contact_block
+    contacts:
+      - suzan-abbas
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
