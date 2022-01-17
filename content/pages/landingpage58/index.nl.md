@@ -6,6 +6,14 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
+  - type: hero_block
+    align: left
+    video:
+      autoplay: true
+    content: Ook een product of dienst die maar niet wordt begrepen door je
+      doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken
+      namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
+    title: "***2D Animatie*** laten maken"
   - type: content_block
     align: center
     content: >-
@@ -13,6 +21,8 @@ blocks:
 
 
       Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
+    video:
+      autoplay: false
   - type: content_block
     align: left
     content: >-
