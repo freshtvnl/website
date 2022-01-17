@@ -15,15 +15,6 @@ blocks:
       namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
     title: "***2D Animatie*** laten maken"
   - type: content_block
-    align: center
-    content: >-
-      ## ***2D animatie*** laten maken
-
-
-      Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
-    video:
-      autoplay: false
-  - type: content_block
     align: left
     content: >-
       ## Wat is 2D animatie?
