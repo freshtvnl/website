@@ -42,7 +42,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Hanzehogeschool_PhilenFlo_Video_Animatie_1.mp4
       autoplay: true
     youtube:
-      id: ZHSWX7R_cwo
+      id: ""
   - type: content_block
     align: left
     content: >-
