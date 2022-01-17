@@ -84,18 +84,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - sophie
-  - type: selectedwork_block
-    title: Selected work
-    items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
-    more_items: true
-    contacts:
-      - sophie
   - type: content_block
     video:
       autoplay: true
@@ -109,6 +97,18 @@ blocks:
       url: /contact/
       text: Informatie ontvangen
       color: pink
+  - type: contact_block
+    contacts:
+      - sophie
+  - type: selectedwork_block
+    title: Selected work
+    items:
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
+    more_items: true
+    contacts:
+      - sophie
 seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
