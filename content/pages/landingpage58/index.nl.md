@@ -82,9 +82,9 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: Contact opnemen
-      type: button
+      url: ""
+      text: ""
+      type: null
   - type: content_block
     video:
       autoplay: true
