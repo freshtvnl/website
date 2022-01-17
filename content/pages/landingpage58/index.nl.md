@@ -9,17 +9,17 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      # ***2D animatie*** laten maken
+      ## ***2D animatie*** laten maken
 
 
       Ook een product of dienst die maar niet wordt begrepen door je doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
   - type: content_block
     align: left
     content: >-
-      ## 2D animatie
+      ## Wat is 2D animatie?
 
 
-      Een 2D animatie kun je gebruiken om een stukje informatie levendiger en duidelijker te presenteren. Je spreekt er meer mensen mee aan en kunt er beter iets mee uitleggen dan met alleen tekst. Het werkt ook beter dan een illustratie, door de toevoeging van bewegende elementen, voice-over en muziek en geluid. Als je een uitleg tot promotie hebt waar mensen in tekst- of illustratievorm sneller aan voorbijgaan, kun je er dus beter kiezen om een 2D-animatie te laten maken.
+      2D animatie is een beeldtechniek van bewegende illustraties zonder diepte. Een 2D animatie kun je gebruiken om informatie levendiger en duidelijker te presenteren. Dit kan in allerlei kleuren en vormen. Het is effectief om processen uit te leggen, of diensten te promoten. Je spreekt laagdrempelig mensen aan en kunt er beter iets mee uitleggen dan met platte tekst. Het werkt beter dan een stilstaande illustratie, door de toevoeging van bewegende elementen, voice-over en muziek en geluid. Deze combinatie zorgt dat de kijker de boodschap goed onthoudt. Daarnaast zorgt het aanbieden van 2D animaties op je website voor betere online vindbaarheid, dat geldt trouwens voor videocontent in het algemeen. Als je laagdrempelig een product wilt uitleggen of promoten kies je voor 2D animatie.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
