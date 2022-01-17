@@ -78,7 +78,7 @@ blocks:
       source: ""
       alt: Animatie duurzame energie
     video:
-      source_mp4: https://video.philenflo.nl/video/Alfen-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/Xaam-Mp4-3.mp4
       source_webm: https://video.philenflo.nl/video/Alfen-duurzame-energie.webm
       autoplay: true
   - type: content_block
