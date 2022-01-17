@@ -103,9 +103,9 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
+      - Animatiefilm PRA health sciences
+      - Documizers
+      - Hanze Hogeschool - 2D Animaties
     more_items: true
     contacts:
       - sophie
