@@ -7,7 +7,7 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## ***2D animatie*** laten maken
 
