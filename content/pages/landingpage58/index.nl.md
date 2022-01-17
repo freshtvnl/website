@@ -96,6 +96,19 @@ blocks:
     more_items: true
     contacts:
       - sophie
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## Wat kost een 2D animatie?
+
+
+      Het kostenplaatje van een 2D animatie is afhankelijk van het totale aantal uren dat in het maken van de animatie zit. De stijl en de lengte is weer de belangrijkste peiler voor de totale animatie. Hoe langer de animatie, hoe meer illustraties er worden vormgegeven en hoe meer illustraties in beweging worden gezet. Neem contact met ons op voor een all-in offerte, wij helpen je graag verder!
+    align: center
+    cta:
+      url: /contact/
+      text: Informatie ontvangen
+      color: pink
 seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
