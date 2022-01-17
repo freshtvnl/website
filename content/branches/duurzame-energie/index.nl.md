@@ -40,7 +40,7 @@ blocks:
       source: images/alfen-tesla-semi-phil-en-flo-creative-studio.jpg
       alt: duurzame energie animatie
     video:
-      source_mp4: https://video.philenflo.nl/video/Energy-Towers-MP4-1.mp4
+      source_mp4: https://video.philenflo.nl/video/Huis-zonnepanelen-drone-shot.mp4
       autoplay: true
     cta:
       url: /contact/
