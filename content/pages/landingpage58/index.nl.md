@@ -57,7 +57,8 @@ blocks:
     cta:
       url: /offerte-ontvangen/
       text: offerte ontvangen
-      type: link
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
