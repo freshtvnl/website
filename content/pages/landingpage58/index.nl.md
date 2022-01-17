@@ -98,6 +98,7 @@ blocks:
       url: /contact/
       text: Informatie ontvangen
       color: pink
+      type: button
   - type: contact_block
     contacts:
       - sophie
