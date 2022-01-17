@@ -101,7 +101,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - sophie
+      - inge
   - type: selectedwork_block
     title: Selected work
     items:
