@@ -52,7 +52,7 @@ blocks:
       Drie dimensies zijn met de huidige technieken niet per se een grotere uitdaging dan een 2D-animatie. Toch zijn er nog genoeg redenen om het bij twee dimensies te houden. Een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) kan al snel overdreven overkomen, zeker als het voor de animatie niet nodig is om in drie dimensies te werken. Een 2D-animatie heeft een zekere charme die goed werkt en verloren gaat als je voor 3D kiest alleen maar omdat het kan. Bovendien zijn de kosten van 2D vaak minder dan bij 3D.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/
