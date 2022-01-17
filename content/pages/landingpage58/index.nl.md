@@ -37,9 +37,9 @@ blocks:
 
 
       Visuele elementen zorgen altijd voor een duidelijker geheel. Daarnaast verlevendigen ze een presentatie, en geven deze een luchtig en aantrekkelijk geheel. Kleur, speelse en duidelijke vormen en een prettig achtergrondmuziekje zijn veel fijner om naar te kijken dan alleen saaie tekst. Als je een huisstijl hebt, kunnen de 2D-animatiespecialisten van Phil & Flo daar prima mee uit de voeten. Zo zorg je voor een consistente visuele stijl die doorwerkt in deze vrolijke vorm van videomarketing.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Hanzehogeschool_PhilenFlo_Video_Animatie_1.mp4
       autoplay: true
     youtube:
       id: ZHSWX7R_cwo
