@@ -33,7 +33,7 @@ blocks:
     align: left
     displaymedia: custom_video
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Samenwerking***
 
@@ -59,7 +59,7 @@ blocks:
     video:
       source_mp4: ""
       autoplay: false
-    align: right
+    align: left
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     cta:
@@ -67,7 +67,7 @@ blocks:
       text: Lees hier meer over interactieve video
       type: link
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Oplossing*** ***animatiefilms***
 
@@ -83,7 +83,7 @@ blocks:
       text: Lees meer over animatie
       type: link
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Veelzijdige*** ***oplossingen***
 
@@ -96,7 +96,7 @@ blocks:
     youtube:
       id: p0l_rmBMrlA?rel=0
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Onderwijs in ***medische communicatie***
 
