@@ -16,6 +16,8 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align: center
+    align_text: center
   - type: content_block
     video:
       autoplay: true
