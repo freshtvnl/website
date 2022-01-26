@@ -10,7 +10,7 @@ color: pink
 blocks:
   - type: hero_block
     content: ""
-    title: De wereld van morgen ***leeft gezond***
+    title: Oplossingen voor de ***gezondheidszorg en pharmacie***
     displaymedia: null
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
