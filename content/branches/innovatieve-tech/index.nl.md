@@ -8,7 +8,7 @@ image:
 color: blue
 blocks:
   - type: hero_block
-    title: Disruptieve ***technische innovatie***
+    title: Film en animatie voor ***disruptieve technische innovatie*** bedrijven
     content: ""
     displaymedia: null
     image:
