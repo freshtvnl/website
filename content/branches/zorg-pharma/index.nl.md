@@ -15,6 +15,7 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align: center
   - type: content_block
     video:
       autoplay: true
