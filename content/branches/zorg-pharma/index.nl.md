@@ -9,6 +9,16 @@ image:
 color: pink
 blocks:
   - type: hero_block
+    content: ""
+    title: De wereld van morgen ***leeft gezond***
+    displaymedia: null
+    video:
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      autoplay: true
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
     content: Goede zorg vinden we vanzelfsprekend hier in Europa. We hebben het hier
       fantastisch voor elkaar. Dat betekent ook dat er tijd en geld is voor
       onderzoek die weer kan worden gebruikt in de rest van de wereld. Om
@@ -19,13 +29,8 @@ blocks:
       brochures](https://www.philenflo.nl/oplossingen/interactieve-video/),
       [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
       en [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
-      Onze specialist op het gebied van zorg en pharma is Victor. Bel hem gerust
-      voor vrijblijvend advies op maat 085 - 273 8331.
-    title: De wereld van morgen ***leeft gezond***
+    align: left
     displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
-      autoplay: true
   - type: content_block
     align: left
     content: >-
