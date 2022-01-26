@@ -9,15 +9,26 @@ color: blue
 blocks:
   - type: hero_block
     title: Disruptieve ***technische innovatie***
-    content: Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij
-      zijn dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
-      expertises inzetten om hun inspirerende verhaal te verbeelden.
-    displaymedia: custom_video
+    content: ""
+    displaymedia: null
     image:
       source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
       autoplay: true
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
+    content: Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij
+      zijn dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
+      expertises inzetten om hun inspirerende verhaal te verbeelden.
+    cta:
+      color: yellow
+      type: button
+      text: Neem direct contact op
+      url: /contact/
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
