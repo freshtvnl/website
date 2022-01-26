@@ -46,7 +46,7 @@ blocks:
       autoplay: true
     cta:
       url: /30-minuten/
-      text: Boek nu vrijblijvend een 30 minuten sessie
+      text: 30 minuten sparren
       type: button
   - type: content_block
     align: left
