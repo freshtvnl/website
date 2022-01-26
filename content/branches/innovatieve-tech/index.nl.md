@@ -33,7 +33,7 @@ blocks:
     displaymedia: custom_video
     align: left
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Vernieuwen en innoveren***
 
@@ -49,7 +49,7 @@ blocks:
       text: Boek nu vrijblijvend een 30 minuten sessie
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Duurzaam inzetbaar***
 
@@ -72,7 +72,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
-    align: left
+    align: right
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw-Phil-en-Flo-website-source.mp4
@@ -81,7 +81,7 @@ blocks:
       text: ""
       type: null
   - type: content_block
-    align: right
+    align: left
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     displaymedia: iframe
