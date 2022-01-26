@@ -15,7 +15,7 @@ blocks:
       source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
-      autoplay: true
+      autoplay: false
     align: center
     align_text: center
   - type: content_block
@@ -31,6 +31,7 @@ blocks:
       text: Neem direct contact op
       url: /contact/
     displaymedia: custom_video
+    align: left
   - type: content_block
     align: left
     content: >-
