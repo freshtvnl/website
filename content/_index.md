@@ -14,6 +14,7 @@ blocks:
       image:
         source: phil-flo-animatie.jpg
     align: center
+    align_text: center
   - type: content_block
     video:
       autoplay: false
