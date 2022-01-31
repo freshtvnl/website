@@ -107,6 +107,7 @@ blocks:
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
-  description: Een productvideo, interactieve video of commercial voor jouw unieke
-    product. Ontdek de mogelijkheden voor de Fair Food branche bij Phil & Flo.
+  description: Een productvideo, interactieve video of commercial voor jouw food
+    en drink product. Ontdek de mogelijkheden voor de Fair Food branche bij Phil
+    & Flo.
 ---
