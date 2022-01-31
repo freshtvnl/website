@@ -23,11 +23,15 @@ blocks:
       vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
       prachtige branche met bijvoorbeeld een [virtuele school
       rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
-      Bekijk hieronder een interactief voorbeeld.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     align: left
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
