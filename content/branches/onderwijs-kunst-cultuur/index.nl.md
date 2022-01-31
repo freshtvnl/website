@@ -10,6 +10,13 @@ color: yellow
 blocks:
   - type: hero_block
     title: Opleiders voor de ***wereld van morgen***
+    content: ""
+    displaymedia: null
+    iframe:
+      source: ""
+  - type: content_block
+    video:
+      autoplay: true
     content: Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
       staan aan de basis van een nieuwe generatie die de wereld van morgen
       vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
@@ -19,6 +26,7 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+    align: left
   - type: content_block
     video:
       autoplay: true
@@ -62,6 +70,8 @@ blocks:
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
       alt: Opname video onderwijs
+    video:
+      autoplay: false
   - type: content_block
     align: right
     content: >-
