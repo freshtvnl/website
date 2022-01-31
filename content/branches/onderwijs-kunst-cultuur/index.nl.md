@@ -9,11 +9,12 @@ image:
 color: yellow
 blocks:
   - type: hero_block
-    title: Opleiders voor de ***wereld van morgen***
+    title: Film en animatie voor de ***Opleiders van de wereld van morgen***
     content: ""
     displaymedia: null
     iframe:
       source: ""
+    align: center
   - type: content_block
     video:
       autoplay: true
