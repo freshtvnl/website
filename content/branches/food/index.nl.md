@@ -34,8 +34,28 @@ blocks:
       text: Neem direct contact op
       type: button
       color: green
+  - type: logoblock
+    title: Bewezen trackrecord
+    content: ""
+    logo_items:
+      - JDE
+      - HZPC
+      - MplusKASSA
+      - Becky's
+      - KG Systems
   - type: content_block
     align: right
+    displaymedia: image
+    image:
+      source: images/hzpc-sunita-phil-en-flo-creative-studio-2.jpg
+      alt: Infomercial Sunita
+    content: >-
+      ## ***Oplossingen voor de fair food industrie***
+
+
+      Phil & Flo zoekt samen met jou naar het beste middel om de doelgroep te bereiken. Of dit nu high-end [productanimatie](https://www.philenflo.nl/3d-productvideo/) is, een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) of een [persoonlijke](https://www.philenflo.nl/gepersonaliseerde-video/) en [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/). Wij zorgen dat je de juiste tools inzet. Bel ons vrijblijvend om te sparren over de mogelijkheden. 085 - 273 8331
+  - type: content_block
+    align: left
     displaymedia: image
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
@@ -49,26 +69,6 @@ blocks:
       url: /portfolio/
       text: Bekijk ons portfolio
       type: link
-  - type: logoblock
-    title: Bewezen trackrecord
-    content: ""
-    logo_items:
-      - JDE
-      - HZPC
-      - MplusKASSA
-      - Becky's
-      - KG Systems
-  - type: content_block
-    align: left
-    displaymedia: image
-    image:
-      source: images/hzpc-sunita-phil-en-flo-creative-studio-2.jpg
-      alt: Infomercial Sunita
-    content: >-
-      ## ***Oplossingen voor de fair food industrie***
-
-
-      Phil & Flo zoekt samen met jou naar het beste middel om de doelgroep te bereiken. Of dit nu high-end [productanimatie](https://www.philenflo.nl/3d-productvideo/) is, een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) of een [persoonlijke](https://www.philenflo.nl/gepersonaliseerde-video/) en [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/). Wij zorgen dat je de juiste tools inzet. Bel ons vrijblijvend om te sparren over de mogelijkheden. 085 - 273 8331
   - type: content_block
     align: right
     displaymedia: image
