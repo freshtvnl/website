@@ -84,6 +84,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+      color: green
   - type: content_block
     align: left
     displaymedia: image
