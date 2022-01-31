@@ -15,14 +15,6 @@ blocks:
     iframe:
       source: ""
     align: center
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Hanze Hogeschool Groningen
-      - Noorderpoort
-      - EsMEI
-      - Maandag
-      - CSB Amsterdam
   - type: content_block
     video:
       autoplay: true
@@ -40,6 +32,14 @@ blocks:
       text: Neem direct contact op
       type: button
       color: pink
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Hanze Hogeschool Groningen
+      - Noorderpoort
+      - EsMEI
+      - Maandag
+      - CSB Amsterdam
   - type: content_block
     content: >-
       ## ***Interactieve*** open dagen
