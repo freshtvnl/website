@@ -22,11 +22,11 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
-    content: Stel je eens een wereld voor waarin de oceanen vrij zijn van de
-      duizenden tonnen plastic en de mens weer in de balans staat met de wereld
-      om zich heen. Dat er precies genoeg wordt geproduceerd op duurzame wijze
-      om de gehele wereldbevolking te voeden. Zonder voedselverspilling en
-      oneerlijke verdeling van het voedsel.
+    content: Stel je eens een wereld voor waarin er genoeg voedsel op duurzame wijze
+      wordt geproduceerd om de hele wereldbevolking te voeden. Zonder
+      voedselverspilling, uitbuiting en oneerlijke verdeling van het voedsel.
+      Wij helpen je dit te verbeelden met de kracht van video en animatie.
+      Benieuwd hoe?
     align: left
     displaymedia: custom_video
     cta:
