@@ -3,6 +3,6 @@ title: Inge B.
 slug: inge-b
 draft: false
 image:
-  source: images/logo_philenflo_netgeenzwart.jpg
+  source: images/geen-foto-phil-en-flo.jpg
 function: Sales en Creative Jr
 ---
