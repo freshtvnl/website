@@ -2,9 +2,6 @@
 title: YouTube Marketing
 slug: you-tube-marketing
 draft: false
-seo:
-  title: Youtube marketing - Adverteer op YouTube - Phil & Flo Videomarketing
-  description: Youtube Marketing. Wij adviseren je hoe je video en animatiefilms in kunt zetten in het reclamenetwerk van YouTube. Ontdek de kracht van YouTube marketing!
 blocks:
   - type: hero_block
     title: "***YouTube*** marketing"
@@ -15,8 +12,9 @@ blocks:
       delen. Dit geeft ook al aan hoe groot de mogelijkheden zijn voor online
       video marketing. YouTube filmpjes worden namelijk steevast voorafgegaan
       door korte video advertenties (video ads). Onze specialisten weten precies
-      hoe je met deze zogenaamde YouTube video ads opvalt tussen de concurrentie
-      en de juiste doelgroep bereikt.
+      hoe je met deze zogenaamde [YouTube
+      video](https://www.philenflo.nl/you-tube-video-laten-maken/) ads opvalt
+      tussen de concurrentie en de juiste doelgroep bereikt.
   - type: content_block
     align: left
     content: >-
@@ -33,7 +31,7 @@ blocks:
       ## De kracht van ***YouTube*** Marketing
 
 
-      Phil & Flo Creative Studio maakt YouTube ads die aanslaan bij je doelgroep. Wij adviseren je stap voor stap hoe je met YouTube marketing video en animatiefilms in kunt zetten in het reclamenetwerk van YouTube. Het grote voordeel van YouTube marketing is dat je zeer gericht kunt adverteren. Je kunt vooraf de karakteristieken van jouw doelgroep in kaart brengen en je ads gericht tonen.
+      Phil & Flo Creative Studio maakt YouTube ads die aanslaan bij je doelgroep. Wij adviseren je stap voor stap hoe je met YouTube marketing [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) en [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in kunt zetten in het reclamenetwerk van YouTube. Het grote voordeel van YouTube marketing is dat je zeer gericht kunt adverteren. Je kunt vooraf de karakteristieken van jouw doelgroep in kaart brengen en je ads gericht tonen.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
@@ -54,4 +52,9 @@ blocks:
   - type: contact_block
     contacts:
       - victor
+seo:
+  title: Youtube marketing - Adverteer op YouTube - Phil & Flo Videomarketing
+  description: Youtube Marketing. Wij adviseren je hoe je video en animatiefilms
+    in kunt zetten in het reclamenetwerk van YouTube. Ontdek de kracht van
+    YouTube marketing!
 ---
