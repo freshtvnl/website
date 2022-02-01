@@ -50,7 +50,7 @@ blocks:
       ## ***IGTV video*** laten maken
 
 
-      Instagram zelf lijkt ook de meerwaarde van bewegend beeld te zien, en heeft de app IGTV (Instagram TV) gelanceerd. Hierop zijn langere filmpjes te uploaden, die jouw volgers dan kunnen bekijken. Het voordeel van IGTV is dat je er langere content op kwijt kunt, zoals een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) of een [explanimation](https://www.philenflo.nl/explanimation-laten-maken/). Ook blijft het filmpje zo lang staan als je wilt. Met een professionele animatie of een strak filmpje op IGTV maak je nog meer indruk op je potentiële klanten.
+      Instagram zelf lijkt ook de meerwaarde van bewegend beeld te zien, en heeft de app IGTV (Instagram TV) gelanceerd. Hierop zijn langere filmpjes te uploaden, die jouw volgers dan kunnen bekijken. Het voordeel van IGTV is dat je er langere content op kwijt kunt, zoals een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) of een [explanimation](https://www.philenflo.nl/explanimation-laten-maken/). Ook blijft het filmpje zo lang staan als je wilt. Met een professionele [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of een strak filmpje op IGTV maak je nog meer indruk op je potentiële klanten.
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
