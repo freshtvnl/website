@@ -5,7 +5,7 @@ weight: 2
 draft: false
 image:
   source: images/geen-foto-phil-en-flo.jpg
-function: 3D Animator
+function: 3D Animator & AR Specialist
 seo:
   noindex: true
 ---
