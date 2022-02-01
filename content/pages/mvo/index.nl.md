@@ -65,7 +65,7 @@ blocks:
 
       * Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
 
-      * Wij doneren **1% van de omzet** per maand naar een goed doel die we met ons team uitkiezen. Donaties tot op heden: Het vergeten Kind, Stichting Vluchteling, Straatwijs...
+      * Wij doneren **1% van de omzet** per maand naar een goed doel die we met ons team uitkiezen. Donaties tot op heden: Het vergeten Kind, Stichting Vluchteling, Stichting Zwerfjongeren, Free A Girl...
 
 
       [](https://meewind.nl/fonds/energie-transitiefonds/)[](https://meewind.nl/fonds/zeewind-bestaande-parken/)Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
