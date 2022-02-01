@@ -32,10 +32,10 @@ Steeds meer bedrijven kiezen ervoor om een employer branding video te maken vanw
 
 ![Employer branding video](images/employer-branding-film-dotec.jpg)
 
-Een andere reden om een employer branding video te maken is dat je meer sollicitaties binnen krijgt die aansluiten bij het bedrijf. Mensen die solliciteren na het zien van de video hebben vaak ook een beter beeld van de inhoud van de vacature en het bedrijf waar ze solliciteren. Hierdoor kom je sneller in contact met de juiste kandidaat. 
+Een andere reden om een employer branding video te maken is dat je meer sollicitaties binnen krijgt die aansluiten bij het bedrijf. Mensen die solliciteren na het zien van een [vacaturevideo](https://www.philenflo.nl/vacature-video/) hebben vaak ook een beter beeld van de inhoud van de vacature en het bedrijf waar ze solliciteren. Hierdoor kom je sneller in contact met de juiste kandidaat. 
 
 Samengevat maakt een employer branding video het hele sollicitatieproces efficiënter.
 Met behulp van een video kun je vaak ook complexe verhalen en bedrijfsprocessen sneller duidelijk maken dan via een tekst of gesproken woord. Wist je dat mensen bewegend beeld 60.000 keer sneller verwerken dan een tekst? De perfecte manier om jouw bedrijf te onderscheiden van de concurrent die nog met droge teksten personeel werft.
 
-Nog niet overtuigd? Het plaatsen van een employer branding video is goed voor je SEO (Search Engine Optimalization). Hierdoor is je website en vacature makkelijker te vinden voor werkzoekende. Wil je liever wat anders? Dan kun je ook gaan voor een bedrijfsvideo. [Lees hier alles over het maken van een bedrijfsvideo](https://www.philenflo.nl/blog/bedrijfsfilm-laten-maken-van-a-tot-z/). 
+Nog niet overtuigd? Het plaatsen van een employer branding video is goed voor je SEO (Search Engine Optimalization). Hierdoor is je website en vacature makkelijker te vinden voor werkzoekende. Wil je liever wat anders? Dan kun je ook gaan voor een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/). [Lees hier alles over het maken van een bedrijfsvideo](https://www.philenflo.nl/blog/bedrijfsfilm-laten-maken-van-a-tot-z/). 
 Benieuwd hoe een employer branding jouw bedrijf en vacature op de kaart kan zetten? Vraag ons vrijblijvend naar de mogelijkheden!
