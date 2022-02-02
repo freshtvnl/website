@@ -98,4 +98,4 @@ Een explanimation kan ook worden gebruikt als onderdeel van een aftersales strat
 
 ### Nieuwsgierig geworden?
 
-Heb je een goed idee voor een explanimation? Of ben je benieuwd naar onze ideeën? Neem contact op en we gaan samen kijken naar de mogelijkheden.
+Heb je een goed idee voor een explanimation? Of ben je benieuwd naar onze ideeën? [Neem contact op](https://www.philenflo.nl/contact/) en we gaan samen kijken naar de mogelijkheden.

@@ -3,11 +3,11 @@ title: Jennifer
 slug: Jennifer
 weight: 3
 draft: false
-function: Creative producer
+function: Creative Producer
 cta: ""
 id: SuvmI3S6V
 image:
-  source: images/logo_philenflo_netgeenzwart.jpg
+  source: images/geen-foto-phil-en-flo.jpg
   alt: ""
 seo:
   noindex: true

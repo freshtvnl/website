@@ -16,7 +16,7 @@ In dit artikel gaan we dieper in op storytelling, waarom het zo effectief is en 
 
 Storytelling is geen nieuwe uitvinding. Mensen vertellen elkaar al duizenden jaren verhalen. In de vorm van geschreven tekst of als doorgefluisterde geheimen die van generatie op generatie worden doorverteld. 
 
-Want dat is waar storytelling op neerkomt. Het vertellen van een verhaal. Maar er komt nog wel iets meer bij kijken. In de wereld van (video) marketing gaat het om het vertellen van verhalen met een doel. Namelijk om klanten een persoonlijke of emotionele connectie te laten voelen met jouw bedrijf of merk en ze hierbij zodanig te inspireren dat ze jouw product willen kopen.
+Want dat is waar storytelling op neerkomt. Het vertellen van een verhaal. Maar er komt nog wel iets meer bij kijken. In de wereld van [(video) marketing](https://www.philenflo.nl/oplossingen/videomarketing/) gaat het om het vertellen van verhalen met een doel. Namelijk om klanten een persoonlijke of emotionele connectie te laten voelen met jouw bedrijf of merk en ze hierbij zodanig te inspireren dat ze jouw product willen kopen.
 
 Het belangrijkste ingrediënt is een verhaal dat goed in elkaar zit. Door dit in beeld te brengen en daarbij gebruik te maken van filmische technieken waarbij gespeeld wordt met tempo, ritme, suspension, soundeffects, muziek en stemgeluid roep je sferen en emoties op en zorg je voor beleving en verbinding.
 
@@ -24,7 +24,7 @@ Het belangrijkste ingrediënt is een verhaal dat goed in elkaar zit. Door dit in
 
 ## Waarom is storytelling zo effectief?
 
-Een groot gedeelte van de mensen zijn visueel ingesteld en onthouden informatie het best wanneer het op een visuele manier wordt gebracht. En belangrijker, ons brein is gemaakt voor verhalen. Een goed verhaal spreekt verschillende onderdelen van de hersenen aan. Ten eerste het beloningssysteem. Dat zorgt ervoor dat als je een video bekijkt of het begin van een verhaal hoort je per se wilt weten hoe het afloopt. Of dat je meer wilt kijken wanneer de video afgelopen is. 
+Een groot gedeelte van de mensen zijn visueel ingesteld en onthouden informatie het best wanneer het op een visuele manier wordt gebracht. En belangrijker, ons brein is gemaakt voor verhalen. Een goed verhaal spreekt verschillende onderdelen van de hersenen aan. Ten eerste het beloningssysteem. Dat zorgt ervoor dat als je een video bekijkt of het begin van een verhaal hoort je per se wilt weten hoe het afloopt. Of dat je meer wilt kijken wanneer de [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) afgelopen is. 
 
 Daarnaast speelt het gedeelte van de hersenen dat emoties reguleert een belangrijke rol. Tijdens het kijken van een storytelling video kun je makkelijk emotioneel betrokken voelen. Dit komt door het emotionele centrum in ons brein. Hier worden emoties verwerkt en komen stoffen vrij waardoor we ons na het kijken gelukkig, angstig, geïnspireerd, verdrietig, opgelucht of geïnspireerd voelen. Kortom: dat we ons kunnen inleven in het verhaal.
 

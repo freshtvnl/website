@@ -72,7 +72,7 @@ blocks:
   - type: collection_block
     collection: members
     title: Team
-    number_of_items: 9
+    number_of_items: 10
     heading: h2
 seo:
   title: Over Ons - Phil & Flo Creative Studio

@@ -79,7 +79,7 @@ blocks:
       ## Aantrekken van nieuw personeel
 
 
-      De arbeidsmarkt is krap, daar weet de bouw- en infrasector alles van. Al jaren is het voor sommige functiegebieden lastig om de juiste invulling te vinden. Aan de andere kant, ben je goed zichtbaar? En communiceer je de onderscheidende aspecten die jij als werkgever te bieden hebt? Door de juiste inzet van video zorg je dat je zichtbaar bent voor jouw doelgroep. Phil & Flo biedt expertise, plan een sessie in om hierover te praten.
+      De arbeidsmarkt is krap, daar weet de bouw- en infrasector alles van. Al jaren is het voor sommige functiegebieden lastig om de juiste invulling te vinden. Aan de andere kant, ben je goed zichtbaar? En communiceer je de onderscheidende aspecten die jij als werkgever te bieden hebt? Door de juiste inzet van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) zorg je dat je zichtbaar bent voor jouw doelgroep. Phil & Flo biedt expertise, plan een sessie in om hierover te praten.
 
 
       Film of [animatie maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) moeilijk?\

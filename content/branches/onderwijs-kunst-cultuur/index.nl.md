@@ -9,33 +9,43 @@ image:
 color: yellow
 blocks:
   - type: hero_block
-    title: Opleiders voor de ***wereld van morgen***
+    title: Film en animatie voor de ***Opleiders van de wereld van morgen***
+    content: ""
+    displaymedia: null
+    iframe:
+      source: ""
+    align: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
       staan aan de basis van een nieuwe generatie die de wereld van morgen
       vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
       prachtige branche met bijvoorbeeld een [virtuele school
       rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
-      Bekijk hieronder een interactief voorbeeld.
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
-  - type: content_block
-    video:
-      autoplay: true
     align: left
-    content: >-
-      ### Video en Animatie ***oplossingen*** voor het onderwijs
-
-
-      Jij bent op zoek naar communicatie die blijft hangen? Kies voor een animatiefilm, video of interactieve video, speciaal op maat geproduceerd voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo en kies voor een leuke samenwerking.
-    form: contact-formulier
-    displaymedia: form
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
+      color: pink
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Hanze Hogeschool Groningen
+      - Noorderpoort
+      - EsMEI
+      - Maandag
+      - CSB Amsterdam
   - type: content_block
     content: >-
       ## ***Interactieve*** open dagen
 
 
-      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). **Wat te doen als een fysieke open dag niet mogelijk is?** Ons antwoord was deze film voor Park Lyceum in Almere en voor CSB Amsterdam hierboven.
+      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). **Wat te doen als een fysieke open dag niet mogelijk is?** Ons antwoord was deze film voor onder andere het Park Lyceum in Almere en voor het CSB Amsterdam hierboven.
     displaymedia: iframe
     image:
       source: ""
@@ -50,7 +60,18 @@ blocks:
       text: Bekijk ons portfolio
       type: button
   - type: content_block
+    video:
+      autoplay: true
     align: left
+    content: >-
+      ### Video en Animatie ***oplossingen*** voor het onderwijs
+
+
+      Jij bent op zoek naar communicatie die blijft hangen? Kies voor een animatiefilm, video of interactieve video, speciaal op maat geproduceerd voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo en kies voor een leuke samenwerking.
+    form: contact-formulier
+    displaymedia: form
+  - type: content_block
+    align: right
     content: >-
       ## ***Onderwijs*** voor de wereld van morgen
 
@@ -62,8 +83,10 @@ blocks:
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
       alt: Opname video onderwijs
+    video:
+      autoplay: false
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Kunst & Cultuur***
 
@@ -78,6 +101,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+      color: pink
   - type: selectedwork_block
     title: Succesverhalen
     items:
@@ -85,14 +109,6 @@ blocks:
       - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Hanze Hogeschool Groningen
-      - Noorderpoort
-      - EsMEI
-      - Maandag
-      - CSB Amsterdam
 seo:
   title: Video en animatie oplossingen voor het onderwijs | Virtuele open dag |
     Interactieve schooltour

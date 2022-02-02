@@ -93,7 +93,7 @@ Een ander voorbeeld van een bedrijf wat niet bang is om een sociaal statement te
 
 {{< youtube id="VWvBZCzvCy4" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
-Dichter bij huis zijn bedrijven zoals Gamma en Coolblue goed bezig. De eerste met klusfilmpjes met uitleg over hoe je bijvoorbeeld een muur streeploos verft of hoe zelf je huis kunt isoleren. Coolblue doet iets vergelijkbaars en gebruikt videos om producten te reviewen of uit te leggen.
+Dichter bij huis zijn bedrijven zoals Gamma en Coolblue goed bezig. De eerste met klusfilmpjes met uitleg over hoe je bijvoorbeeld een muur streeploos verft of hoe zelf je huis kunt isoleren. Coolblue doet iets vergelijkbaars en gebruikt[ productvideos](https://www.philenflo.nl/3d-productvideo/) om producten te reviewen of uit te leggen.
 
 ### LEGO the movie
 

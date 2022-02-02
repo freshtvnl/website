@@ -10,8 +10,8 @@ function: Creative Producer
 description: ""
 cta: Joejoe Inge hier. Plannen, organiseren en regelen, het zit in mijn DNA. Als
   25-jarige projectmanager vind ik het enorm leuk om een project van A tot Z te
-  begeleiden en te regelen. Sinds september 2019 ben ik aan de slag als creative
-  producer bij Phil & Flo.
+  begeleiden en te regelen. Sinds september 2019 ben ik aan het werk als
+  Creative Producer bij Phil & Flo.
 blocks:
   - type: hero_block
     title: De wereld van ***Inge***

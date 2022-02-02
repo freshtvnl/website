@@ -13,4 +13,4 @@ Een [promotiefilm](https://www.philenflo.nl/promotiefilm-laten-maken/) moet de j
 
 ### Wanneer zet je een promotiefilm in? 
 
-Promotiefilms zet je in voor producten, diensten of evenementen. Maar je kunt het ook inzetten om jouw eigen werk te promoten. Het is een veelzijdige vorm van videomarketing. Deze vorm van video zet je in wanneer je graag bijvoorbeeld een product wilt lanceren of juist een evenement onder de aandacht wilt brengen. Daarbij richt je alles gericht op de juiste doelgroep en op de conversie die je graag wilt.
+Promotiefilms zet je in voor producten, diensten of evenementen. Maar je kunt het ook inzetten om jouw eigen werk te promoten. Het is een veelzijdige vorm van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Deze vorm van video zet je in wanneer je graag bijvoorbeeld een product wilt lanceren of juist een evenement onder de aandacht wilt brengen. Daarbij richt je alles gericht op de juiste doelgroep en op de conversie die je graag wilt.

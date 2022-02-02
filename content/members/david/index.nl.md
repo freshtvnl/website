@@ -6,7 +6,7 @@ draft: false
 image:
   source: images/david-phil-en-flo.jpg
   alt: David
-function: Video-editor
+function: Interactive Specialist & Editor
 cta: >-
   Op het einde vorm ik de laatste stappen, zodat jou verhaal in zijn geheel tot
   zijn recht komt.
