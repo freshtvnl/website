@@ -101,7 +101,7 @@ blocks:
       ## Onderwijs in ***medische communicatie***
 
 
-      Digitaal ondersteunde onderwijsvormen is een steeds belangrijker thema in de medische wereld. De kracht van visuele middelen wordt steeds duidelijker en bij de juiste inzet wordt dit effectief ingezet. Met onze maatwerk oplossingen kunnen medische communicatiespecialisten het beste medisch onderwijs bieden aan hun medewerkers, patiënten en cliënten.
+      [Digitaal ondersteunde onderwijsvormen](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) is een steeds belangrijker thema in de medische wereld. De kracht van visuele middelen wordt steeds duidelijker en bij de juiste inzet wordt dit effectief ingezet. Met onze maatwerk oplossingen kunnen medische communicatiespecialisten het beste medisch onderwijs bieden aan hun medewerkers, patiënten en cliënten.
     displaymedia: custom_video
     youtube:
       id: ""
