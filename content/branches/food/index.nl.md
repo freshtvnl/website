@@ -25,7 +25,9 @@ blocks:
     content: Stel je eens een wereld voor waarin er genoeg voedsel op duurzame wijze
       wordt geproduceerd om de hele wereldbevolking te voeden. Zonder
       voedselverspilling, uitbuiting en oneerlijke verdeling van het voedsel.
-      Wij helpen je dit te verbeelden met de kracht van video en animatie.
+      Wij helpen je dit te verbeelden met de kracht van
+      [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) en
+      [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
       Benieuwd hoe?
     align: left
     displaymedia: custom_video
