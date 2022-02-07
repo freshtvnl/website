@@ -21,7 +21,7 @@ blocks:
       ## Een promotiefilm maken van ***begin tot eind***
 
 
-      Samen bepalen we het doel van je film. Wil je een algemene impressie geven van je bedrijf? Of toch informeren over een product of dienst? Als we het doel helder hebben, brengen we je doelgroep en boodschap in kaart. Omdat we jarenlange ervaring hebben, maken we er één die prikkelt en overtuigt. Van script tot scherm en dan nog ietsje verder ;)
+      Samen bepalen we het doel van je film. Wil je een algemene impressie geven van je bedrijf? Of toch informeren over een [product](https://www.philenflo.nl/3d-productvideo/) of dienst? Als we het doel helder hebben, brengen we je doelgroep en boodschap in kaart. Omdat we jarenlange ervaring hebben, maken we er één die prikkelt en overtuigt. Van script tot scherm en dan nog ietsje verder ;)
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
