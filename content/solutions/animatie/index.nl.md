@@ -20,7 +20,7 @@ blocks:
       ## ***2D animatie***
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) die aansluit bij jouw wensen. Lees meer over 2D animaties.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
