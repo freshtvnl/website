@@ -44,7 +44,7 @@ blocks:
       ### Alles voor een reclamevideo van topkwaliteit
 
 
-      Als we een concept hebben voor je reclamevideo, gaan we aan de slag. We luisteren graag naar je eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een script en het ontwikkelen van de commercial. Wij hebben vakkundige [animators](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in dienst én ervaren [filmmakers](https://www.philenflo.nl/oplossingen/video-laten-maken/), zodat je een passende vorm bij ons kunt kiezen. Met Phil & Flo wordt je reclamevideo een doorslaand succes.
+      Als we een concept hebben voor je reclamevideo, gaan we aan de slag. We luisteren graag naar je eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en het ontwikkelen van de commercial. Wij hebben vakkundige [animators](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in dienst én ervaren [filmmakers](https://www.philenflo.nl/oplossingen/video-laten-maken/), zodat je een passende vorm bij ons kunt kiezen. Met Phil & Flo wordt je reclamevideo een doorslaand succes.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
