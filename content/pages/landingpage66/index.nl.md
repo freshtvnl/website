@@ -33,7 +33,7 @@ blocks:
       ## Hoe werkt onze animatie studio in Utrecht?
 
 
-      Als je met ons in zee gaat, houden we je continu op de hoogte van de voortgang. We werken sowieso met een helder stappenplan. We bepalen het doel van de [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/), schrijven het script, en vertalen dat naar een aansprekende video. Maar daar houdt het niet op: we zijn namelijk ook expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/video-laten-maken/). Wij helpen je dus ook met het bepalen van een strategie om je animatie gericht in te zetten.
+      Als je met ons in zee gaat, houden we je continu op de hoogte van de voortgang. We werken sowieso met een helder stappenplan. We bepalen het doel van de [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/), schrijven het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/), en vertalen dat naar een aansprekende video. Maar daar houdt het niet op: we zijn namelijk ook expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/video-laten-maken/). Wij helpen je dus ook met het bepalen van een strategie om je animatie gericht in te zetten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
