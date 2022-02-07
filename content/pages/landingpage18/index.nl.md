@@ -18,7 +18,7 @@ blocks:
       ## Simpele manier ***uitleggen***
 
 
-      Een instructiefilm is een korte, bondige video die op een simpele manier uitlegt hoe bestaande, maar ook toekomstige klanten jouw product of dienst kunnen gebruiken. Ook kun je een instructiefilm inzetten met als doel mensen voorlichting te geven of te informeren. Zo kun je in één keer duidelijk maken wat bijvoorbeeld de veiligheidseisen zijn in een productiehal of laboratorium. Een instructiefilm is een goede manier om stap voor stap in beeld te brengen hoe iets werkt of hoe iets moet worden gedaan.
+      Een instructiefilm is een korte, bondige video die op een simpele manier uitlegt hoe bestaande, maar ook toekomstige klanten jouw [product](https://www.philenflo.nl/3d-productvideo/) of dienst kunnen gebruiken. Ook kun je een instructiefilm inzetten met als doel mensen voorlichting te geven of te informeren. Zo kun je in één keer duidelijk maken wat bijvoorbeeld de veiligheidseisen zijn in een productiehal of laboratorium. Een instructiefilm is een goede manier om stap voor stap in beeld te brengen hoe iets werkt of hoe iets moet worden gedaan.
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
