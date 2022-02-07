@@ -48,7 +48,7 @@ blocks:
       ## ***Workflow***
 
 
-      Om op korte termijn een 3D animatie op te leveren, is een goede workflow van belang. We beginnen met een analogie als thema: een witte, kale ruimte die we vullen met kleurrijke kunst. Vervolgens gaan verschillende animatoren aan de slag met specifieke onderdelen zoals de kamer zelf, maar ook 2D- kunst en schilderijen. Tegelijkertijd wordt het script geschreven in lijn met het gekozen thema. Naarmate de week vordert en de deadline nadert, wordt de eerst zo kale ruimte steeds kleurrijker.
+      Om op korte termijn een 3D animatie op te leveren, is een goede workflow van belang. We beginnen met een analogie als thema: een witte, kale ruimte die we vullen met kleurrijke kunst. Vervolgens gaan verschillende animatoren aan de slag met specifieke onderdelen zoals de kamer zelf, maar ook 2D- kunst en schilderijen. Tegelijkertijd wordt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) geschreven in lijn met het gekozen thema. Naarmate de week vordert en de deadline nadert, wordt de eerst zo kale ruimte steeds kleurrijker.
     align: right
     displaymedia: custom_video
   - type: content_block
