@@ -63,7 +63,9 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20animation%20philenflo.mp4
+      source_mp4: ""
+      image:
+        source: images/aron-3d-animatie_hu198473c553df0dccbbe8a93d1eb1fb38_183067_930x500_fill_q75_box_center.jpg
     content: >-
       ## Hoe maak je een 360 graden video?
 
@@ -72,8 +74,11 @@ blocks:
 
 
       Het bewerken van een video 360 vindt plaats aan de hand van verschillende technieken. Denk maar aan het bepalen van de kijkrichting, maar ook aan de toevoeging van een titel of het realiseren van audio en muziek. Met de toevoeging van dergelijke effecten is het onder meer mogelijk om bij de kijker zelfs de zintuigen te laten prikkelen. Denk maar aan een combinatie van het kijken naar de beelden, het horen van geluid en de associatie met geurbeleving. Na de bewerking van een 360 graden video is de film klaar om gezien te worden. Overigens is daarbij een extra belevingseffect aan te brengen door een VR bril op te zetten.
-    form: contact-formulier
+    form: ""
     align: right
+    cta:
+      url: https://www.philenflo.nl/offerte-ontvangen/
+      text: Vraag een offerte aan
   - type: content_block
     align: left
     content: >-
