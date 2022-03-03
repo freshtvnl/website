@@ -22,7 +22,7 @@ Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en we
 
 ## Script & Storyboard van een animatie 
 
-Met alle input gaat een ervaren scriptschrijver aan de slag om jouw wensen te vertalen in een bondig, pakkend verhaal. Bij het maken van een script wordt al rekening gehouden met het beeld. Je vertelt je verhaal namelijk op twee manieren. Via beeld en via gesproken woord. Een goede samenhang tussen deze twee is van belang. Daarom schrijft de scriptschrijver niet alleen het gesproken script, maar ook in bondige zinnen wat er op beeld te zien is. Afhankelijk van hoe ingewikkeld of uitgebreid het onderwerp is, kan er zelfs gekozen worden om een storyboard te maken. In een storyboard staan afbeeldingen die een indicatie geven van wat er per scène te zien is. Dit helpt om een goed idee te krijgen bij de stijl van jouw animatie. Zodra de eerste versies van het script en eventuele storyboard af zijn, kan jij feedback geven. Zo kom je samen tot een definitief [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/).
+Met alle input gaat een ervaren scriptschrijver aan de slag om jouw wensen te vertalen in een bondig, pakkend verhaal. Bij het maken van een script wordt al rekening gehouden met het beeld. Je vertelt je verhaal namelijk op twee manieren. Via beeld en via gesproken woord. Een goede samenhang tussen deze twee is van belang. Daarom schrijft de scriptschrijver niet alleen het gesproken script, maar ook in bondige zinnen wat er op beeld te zien is. Afhankelijk van hoe ingewikkeld of uitgebreid het onderwerp is, kan er zelfs gekozen worden om een storyboard te maken. In een [storyboard](https://www.philenflo.nl/kennisbank/wat-is-een-storyboard/) staan afbeeldingen die een indicatie geven van wat er per scène te zien is. Dit helpt om een goed idee te krijgen bij de stijl van jouw animatie. Zodra de eerste versies van het script en eventuele storyboard af zijn, kan jij feedback geven. Zo kom je samen tot een definitief [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/).
 
 ![Storyboard animatie](images/creatieve-sessies-voor-animatie.png)
 
@@ -32,7 +32,7 @@ Met het definitieve script en storyboard gaat de animator aan de slag. Elke scen
 
 ## Succes boeken met animatie
 
-Een animatie effectief inzetten vraagt om een goed contentplan waarin je je animaties, en andere content gefaseerd deelt met je publiek. Vaak heeft jouw contactpersoon hier gedegen advies over. Denk aan het inrichten van je socialmediakanalen, het ontwerpen van flyers met een qr-code of een teaserversie van je animatie. Met laatstgenoemde kan je effectief adverteren op bijvoorbeeld Linkedin en [Youtube](https://www.philenflo.nl/you-tube-marketing/). Afhankelijk van wat jouw doelen zijn vind je samen met de experts de juiste tools om succes te boeken!
+Een animatie effectief inzetten vraagt om een goed contentplan waarin je je animaties, en andere content gefaseerd deelt met je publiek. Vaak heeft jouw contactpersoon hier gedegen advies over. Denk aan het inrichten van je socialmediakanalen, het ontwerpen van flyers met een QR-code of een teaserversie van je animatie. Met laatstgenoemde kan je effectief adverteren op bijvoorbeeld Linkedin en [Youtube](https://www.philenflo.nl/you-tube-marketing/). Afhankelijk van wat jouw doelen zijn vind je samen met de experts de juiste tools om succes te boeken!
 
 ![Succes boeken met animatie](images/succes-boeken-met-animatie.jpg)
 
