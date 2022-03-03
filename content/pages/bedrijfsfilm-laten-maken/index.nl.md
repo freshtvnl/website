@@ -113,6 +113,24 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Wat kost een bedrijfsfilm?
+
+
+      De kosten van een bedrijfsfilm zijn afhankelijk van allerlei factoren, zoals specifieke wensen voor de lengte van de film. Er is in dat opzicht dan ook geen standaard gemiddelde bedrijfsfilm prijs te noemen, want de kosten variëren bij elke productie. Denk bijvoorbeeld ook maar aan de benodigde apparatuur die invloed heeft op de kosten van een bedrijfsfilm. Het kan ook zo zijn dat er gefilmd wordt op verschillende locaties met bijvoorbeeld een drone. Al deze aspecten tellen mee net als het eventueel inhuren van externe partijen, zoals een voice-over of andere specialist.
+
+
+      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen. Vul je het aanvraagformulier in dan krijg je binnen een werkdag al een reactie. Je kan ons natuurlijk ook bellen voor meer informatie of even per mail een bericht sturen.
+    cta:
+      text: Neem contact op
+      url: https://www.philenflo.nl/contact/
+    displaymedia: image
+    image:
+      source: images/jde-phil-en-flo-behind-the-scenes.jpg
   - type: selectedfaqs_block
     items:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
