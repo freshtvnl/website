@@ -18,10 +18,19 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Opvallende bedrijfsfilm laten maken***
+      ## *Hoe maak je een goede bedrijfsfilm?* 
 
 
-      De tijd waarin een bedrijfsfilm door een handige collega met camcorder werd gemaakt, ligt ver achter ons. Phil & Flo kan voor jouw bedrijf een vakkundig gefilmde en gemonteerde videoproductie maken. Door een combinatie van de juiste beelden, woorden en geluid zetten we de juiste toon en brengen we jouw unieke boodschap helder over. In een bedrijfsfilm van Phil & Flo schijnt door hoe trots je bent op je bedrijf en wat je opdrachtgevers kunt bieden. Een goede bedrijfsfilm maakt het verschil tussen opvallen en genegeerd worden.
+      Een goede bedrijfsfilm is op verschillende manieren te maken, maar alles begint bij de keuze voor een professional als Phil & Flo. Wij hebben de expertise en de apparatuur om een goede bedrijfsfilm te maken die het verschil maakt. Uiteraard valt alles samen met de wijze waarop je bedrijf met product of dienst in beeld wordt gebracht. Wij combineren beeld, geluid en woorden om de perfecte toon neer te zetten en jouw boodschap over te brengen.
+
+
+      Is er een [drone](https://www.philenflo.nl/drone-video-laten-maken/) nodig om een bedrijfsfilm te maken? Dan zorgen wij voor een drone voor je bedrijfsfilm. Is er een voice-over nodig? Dan zorgen wij voor de ideale stem. Zo voorzien wij in alle belangrijke facetten die nodig zijn om een goede bedrijfsfilm te maken. Kies je voor ons dan kies je voor een meerwaarde voor je bedrijf.
+
+
+      Goede bedrijfsfilms beginnen met een creatieve sessie om alle ideeën op tafel te krijgen, gevolgd door een script waarop je feedback kan geven. Het script bepaalt onder meer wat er nodig is voor de bedrijfsfilm productie en dat regelen wij allemaal, van apparatuur tot voice-over en van een regisseur tot editor.
+
+
+      Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden en daar zijn wij goed in. Zo zorgen wij ook voor het vasthouden van de aandacht door emotie in het verhaal te verwerken. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
     displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
