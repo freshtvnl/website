@@ -134,7 +134,7 @@ blocks:
 
       Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren. Bovendien zorgen mensen in beeld die hun verhaal doen of in gesprek zijn met elkaar voor meer betrokkenheid bij de kijker.
     align: left
-    form: contact-formulier
+    form: ""
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
@@ -152,9 +152,12 @@ blocks:
 
       Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons [portfolio](https://www.philenflo.nl/portfolio/) maar eens voor voorbeelden van bedrijfsfilms.
     align: right
-    form: offerte-formulier
+    form: ""
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/feestje-phil-en-flo.jpg
+    cta:
+      url: https://www.philenflo.nl/offerte-ontvangen/
+      text: Vraag een offerte aan
   - type: content_block
     video:
       autoplay: true
