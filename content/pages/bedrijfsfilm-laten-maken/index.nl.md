@@ -122,6 +122,42 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+    content: >-
+      ## Wat moet er in een bedrijfsfilm? 
+
+
+      Het is belangrijk om in een bedrijfsfilm de kijker een zo compleet mogelijk en levendig beeld te geven van je bedrijf. Dat is te bereiken door in te spelen op emoties, want daarmee maak je indruk. Het is bijvoorbeeld mogelijk om je te richten op het achterlaten van een positief gevoel bij de kijker. 
+
+
+      Je wilt met een bedrijfsfilm een bepaald doel bereiken en daarom is het belangrijk om er een duidelijke boodschap in op te nemen. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een jaar en op nog langere termijn actueel. 
+
+
+      Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren. Bovendien zorgen mensen in beeld die hun verhaal doen of in gesprek zijn met elkaar voor meer betrokkenheid bij de kijker.
+    align: left
+    form: contact-formulier
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      Hoe gaat een bedrijfsfilm laten maken in zijn werk?
+
+
+      Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het maken van een bedrijfsfilm begint dan met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. Komt er een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) aan te pas dan gaan wij naar een geschikte stem op zoek en kan je een keuze maken uit een kleine voorselectie.
+
+
+      De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en interviewvragen opgenomen. Als het zover is dan staan de regisseur, cameraman en assistent klaar om opnames te maken voor de bedrijfsfilm. Indien het om een groot project gaat, is er tevens een lichtspecialist aanwezig. 
+
+
+      Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons [portfolio](https://www.philenflo.nl/portfolio/) maar eens voor voorbeelden van bedrijfsfilms.
+    align: right
+    form: offerte-formulier
+    image:
+      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+  - type: content_block
+    video:
+      autoplay: true
     align: left
     content: >-
       ## Wat kost een bedrijfsfilm?
