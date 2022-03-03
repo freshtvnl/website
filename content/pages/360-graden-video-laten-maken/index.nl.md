@@ -3,9 +3,6 @@ title: 360 graden video laten maken
 slug: 360-graden-video-laten-maken
 draft: false
 color: blue
-seo:
-  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
-  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔ VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273 8331
 blocks:
   - type: hero_block
     content: Wil jij jouw bezoekers een levensechte ervaring bieden vanuit de luie
@@ -20,10 +17,13 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### Hoe werkt een ***360 graden video***?
+      ### Wat is een 360 graden video?
 
 
-      Bij deze video wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote animatie van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of het scherm op je mobiel kan je door de 360 graden video kijken. De echte VR ervaring creëer je met behulp van een VR bril zoals de Oculus. Door de bewegingen van je hoofd kijk je rond in de 360 graden video, net zoals in het dagelijkse leven.
+      Een 360 graden video geeft een compleet beeld van de ruimte en situatie in alle richtingen. De kijker kan helemaal om zich heen kijken. Phil & Flo bouwt voor een video 360 een virtuele 3D omgeving en daar komt een virtuele camera in om een grote animatie van de film te maken. 
+
+
+      Bezoekers zien alles van de 360 video productie door een muis, smartphonescherm of toetsenbord te gebruiken om het zicht door de ruimte heen te laten bewegen. Bij het dragen van een VR bril is het zelfs mogelijk om door het hoofd te bewegen in de rondte te kijken in 360 graden video’s. Zo ervaart de bezoeker het kijken naar de film als het zien in het gewone leven.
     youtube:
       id: 0ljMPjPQjRI
     displaymedia: youtube_video
@@ -61,6 +61,20 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20animation%20philenflo.mp4
+    content: >-
+      ## Hoe maak je een 360 graden video?
+
+
+      Een 360 graden video begint bij het bouwen van een virtuele 3D omgeving. Hierin plaatsen wij een virtuele camera om vervolgens een grote animatie van de film te maken. Er komen verschillende aspecten kijken bij het maken van een 360 video productie. Het opzetten van de omgeving en het filmen van de situatie is nog maar het begin, want het is natuurlijk ook nodig om de video te bewerken.
+
+
+      Het bewerken van een video 360 vindt plaats aan de hand van verschillende technieken. Denk maar aan het bepalen van de kijkrichting, maar ook aan de toevoeging van een titel of het realiseren van audio en muziek. Met de toevoeging van dergelijke effecten is het onder meer mogelijk om bij de kijker zelfs de zintuigen te laten prikkelen. Denk maar aan een combinatie van het kijken naar de beelden, het horen van geluid en de associatie met geurbeleving. Na de bewerking van een 360 graden video is de film klaar om gezien te worden. Overigens is daarbij een extra belevingseffect aan te brengen door een VR bril op te zetten.
+    form: contact-formulier
+    align: right
+  - type: content_block
     align: left
     content: >-
       ## ***Vandaag*** nog alles weten over een 360 graden video?
@@ -79,4 +93,9 @@ blocks:
   - type: contact_block
     contacts:
       - peter-de-graaf
+seo:
+  title: 360 graden video laten maken | Door Phil & Flo Videomarketing
+  description: 360 graden video laten maken | Unieke content ✔ Opvallend verhaal ✔
+    VR Animatie, VR video ✔ voor alle branches inzetbaar. Bel ons nu 085 - 273
+    8331
 ---
