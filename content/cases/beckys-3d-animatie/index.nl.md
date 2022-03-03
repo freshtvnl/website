@@ -56,9 +56,9 @@ blocks:
       ## Workflow: van ***snoep naar 3D***
 
 
-      Om een goed gevoel voor de stijl van Becky’s te krijgen zijn we begonnen met een bezoek aan de showroom van Becky’s. In de showroom konden we de gehele collectie bekijken en inspiratie opdoen voor de animatie. De diverse concepten en designs representeerden thema’s als: Valentijnsdag, Kerst, Pasen, Moederdag en allerlei andere feestelijke dagen. Tussen alle producten door hadden we een creatieve sessie. Die sessie gaf ons handvatten voor het maken van de 3D animatie. Wat vooral in deze sessie naar boven kwam is; het inspireren en prikkelen van (nieuwe) klanten. Het brede assortiment moest op een aantrekkelijke manier worden gepresenteerd. 
+      Om een goed gevoel voor de stijl van Becky’s te krijgen zijn we begonnen met een bezoek aan de showroom van Becky’s. In de showroom konden we de gehele collectie bekijken en inspiratie opdoen voor de animatie. De diverse concepten en designs representeerden thema’s als: Valentijnsdag, Kerst, Pasen, Moederdag en allerlei andere feestelijke dagen. Tussen alle producten door hadden we een creatieve sessie. Die sessie gaf ons handvatten voor het maken van de 3D animatie. Wat vooral in deze sessie naar boven kwam, is het inspireren en prikkelen van (nieuwe) klanten. Het brede assortiment moest op een aantrekkelijke manier worden gepresenteerd. 
 
-      Met alle uitkomsten van de creatieve sessie hebben we de koppen bij elkaar gestoken om zoveel mogelijk creatieve ideeën te verzamelen. Deze ideeën resulteerden in een passend script, storyboard en uiteindelijk de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zelf.
+      Met alle uitkomsten van de creatieve sessie hebben we de koppen bij elkaar gestoken om zoveel mogelijk creatieve ideeën te verzamelen. Deze ideeën leidden tot een passend [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/), [storyboard](https://www.philenflo.nl/kennisbank/wat-is-een-storyboard/) en uiteindelijk de [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zelf.
     displaymedia: custom_video
   - type: content_block
     video:
