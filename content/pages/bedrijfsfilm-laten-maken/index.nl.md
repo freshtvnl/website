@@ -136,12 +136,12 @@ blocks:
     align: left
     form: ""
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: images/aron-sophie.jpg
   - type: content_block
     video:
       autoplay: true
     content: >-
-      Hoe gaat een bedrijfsfilm laten maken in zijn werk?
+      ## Hoe gaat een bedrijfsfilm laten maken in zijn werk?
 
 
       Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het maken van een bedrijfsfilm begint dan met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. Komt er een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) aan te pas dan gaan wij naar een geschikte stem op zoek en kan je een keuze maken uit een kleine voorselectie.
@@ -154,7 +154,7 @@ blocks:
     align: right
     form: ""
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag een offerte aan
