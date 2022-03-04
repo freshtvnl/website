@@ -79,6 +79,8 @@ blocks:
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag een offerte aan
+    image:
+      source: images/aron-3d-animatie_hu198473c553df0dccbbe8a93d1eb1fb38_183067_930x500_fill_q75_box_center.jpg
   - type: content_block
     align: left
     content: >-
