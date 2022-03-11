@@ -1,6 +1,6 @@
 ---
 title: " Wat kun je met een green screen?"
-slug: "wat-kun-je-met-een-green-screen"
+slug: wat-kun-je-met-een-green-screen
 draft: false
 seo:
   title: " Wat kun je met een green screen? | Kennisbank | Phil & Flo"
