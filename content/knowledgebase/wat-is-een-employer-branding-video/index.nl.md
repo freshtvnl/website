@@ -7,7 +7,7 @@ seo:
   description: "Een employer branding video geeft een beeld van jouw als bedrijf
     en werkgever. Leer meer hierover in onze kennisbank. | Phil & Flo "
 ---
-Een employer branding video is een film waarin je een beeld geeft van jouw als bedrijf en werkgever. Deze video werkt als reclame voor jou, als werkgever, omdat medewerkers vertellen over het bedrijf. Met name medewerkers worden in beeld getoond, die een authentiek verhaal vertellen over jouw bedrijf. Ze benoemen de voordelen en nadelen van het werk. Bovendien geeft het een kijkje in de dagelijkse werkzaamheden die een werknemer doet. 
+Een employer branding video is een [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) waarin je een beeld geeft van jouw als bedrijf en werkgever. Deze video werkt als reclame voor jou, als werkgever, omdat medewerkers vertellen over het bedrijf. Met name medewerkers worden in beeld getoond, die een authentiek verhaal vertellen over jouw bedrijf. Ze benoemen de voordelen en nadelen van het werk. Bovendien geeft het een kijkje in de dagelijkse werkzaamheden die een werknemer doet. 
 
 ### Waarom een employer branding video? 
 
