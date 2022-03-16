@@ -12,8 +12,8 @@ blocks:
     content: De werkomgeving, de collega’s, de cultuur en de werkzaamheden. Allemaal
       factoren die bijdragen in de keuze of iemand wil gaan werken bij jouw
       organisatie. Een virtuele tour door jouw bedrijf laat zien wat ze mogen
-      verwachten. *Trek nieuwe werknemers aan* dankzij een online tour waarbij
-      je laat zien wat je te bieden hebt.
+      verwachten. Trek nieuwe werknemers aan dankzij een online tour waarbij je
+      laat zien wat je te bieden hebt.
   - type: content_block
     video:
       autoplay: true
