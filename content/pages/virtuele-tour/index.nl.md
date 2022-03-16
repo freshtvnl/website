@@ -205,5 +205,5 @@ seo:
     digitale tour. Phil & Flo verbeeldt het.
 menu:
   footer:
-    weight: 8
+    weight: ""
 ---
