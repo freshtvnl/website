@@ -1,7 +1,7 @@
 ---
 title: Virtuele tour Employer branding
 slug: virtuele-tour-employer-branding
-draft: true
+draft: false
 color: orange
 blocks:
   - type: hero_block
