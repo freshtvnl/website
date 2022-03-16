@@ -9,7 +9,7 @@ blocks:
       # ***Stage***
 
 
-      *Beschikbare stageplekken **vanaf 2021** in Groningen:*
+      *Beschikbare stageplekken **vanaf 2022** in Groningen:*
 
 
       * [MBO/HBO Vormgeving & Marketing](https://www.philenflo.nl/stageplek-mbo-en-hbo-vormgeving-en-marketing-groningen/) (fulltime)
