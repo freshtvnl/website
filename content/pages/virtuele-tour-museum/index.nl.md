@@ -73,5 +73,5 @@ seo:
     verbeelden het.
 menu:
   footer:
-    weight: 8
+    weight: ""
 ---
