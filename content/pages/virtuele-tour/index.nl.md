@@ -117,20 +117,6 @@ blocks:
     align: left
     align_text: text-left
     content: >-
-      ## De ***kosten*** van een virtuele tour
-
-
-      De kosten van een virtuele tour zijn afhankelijk van jouw wensen en eisen. Er is geen vast bedrag voor een digitale rondleiding. Daarom stelt Phil & Flo een persoonlijke offerte op. Dit is de enige manier om je concreet inzicht te bieden in de kosten. Er zijn namelijk veel factoren die invloed hebben op de prijs. We werken met eerlijke tarieven en bieden volledige transparantie.\
-
-      \
-
-      Uiteraard denken wij direct mee over een uniek en origineel concept. Zodat het voldoet aan jouw wensen en eisen. Alle expertise wordt direct ingezet voor het beste concept. Wil je meer weten? Neem contact op! De offerte is volledig vrijblijvend.
-  - type: content_block
-    video:
-      autoplay: true
-    align: right
-    align_text: text-left
-    content: >-
       ## Digitale rondleiding voor ***museum***
 
 
@@ -138,7 +124,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## Digitale rondleiding voor ***hotel***
@@ -153,7 +139,7 @@ blocks:
 
 
       Bezoekers trekken naar jouw stad, evenement of attractie kan met een 360 graden rondleiding. Laat zien wat jullie te bieden hebben. Een uitstapje doe je niet zomaar, dus je wilt weten wat de stad te bieden heeft. Laat met geweldige beelden zien wat jullie stad te bieden heeft. Van stadswandeling tot aan hotel, trek toeristen met een realistisch beeld en werk samen met lokale ondernemers.
-    align: right
+    align: left
     align_text: text-left
   - type: content_block
     video:
@@ -163,12 +149,12 @@ blocks:
 
 
       Een werknemer zoekt meer dan een salaris. Je besteedt meer tijd op je werk dan dat je thuis bent. Een goede werkomglng en maak het extra leuk met interactiviteit. Misschien kunnen ze zelf een biertje tappen.
-    align: left
+    align: right
     align_text: text-left
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## Digitale rondleidingen voor de ***makelaardij***
@@ -178,7 +164,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## De digitale rondleiding en ***sporten***
@@ -193,7 +179,7 @@ blocks:
 
 
       De keuze voor een school is niet zomaar gemaakt. Je wilt het beste voor de kinderen en daarom is de keuze niet zomaar gemaakt. Een virtuele tour door een school laat zien wat de school te bieden heeft. Laat zien aan toekomstige leerlingen wat de school te bieden heeft. Zo hoeft een toekomstige leerling niet tijdens een drukke open dag langs te komen, maar kan online de sfeer alvast proeven.
-    align: right
+    align: left
     align_text: text-left
   - type: content_block
     video:
@@ -203,7 +189,7 @@ blocks:
 
 
       De horeca groeit, er komen steeds meer mogelijkheden bij om uiteten te gaan. Maar hoe onderscheid jij jezelf? Dat kan met een smakelijke online tour door het restaurant. Toon de ambiance waarvan jouw gasten mogen genieten. Geef een voorproefje in de keuken, laat geweldige gerechten zien en uiteraard de gastheren en gastvrouwen. Zo geef jij een kijkje in de keuken en trek je gemakkelijk meer gasten.
-    align: left
+    align: right
     align_text: text-left
   - type: contact_block
     contacts:
