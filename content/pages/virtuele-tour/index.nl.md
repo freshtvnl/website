@@ -31,7 +31,7 @@ blocks:
     align: right
     align_text: text-left
     content: >-
-      ## Voor wie is deze ***digitale rondleiding*** geschikt?
+      ## ***Voor wie*** is deze digitale rondleiding geschikt?
 
 
       Een digitale rondleiding is geschikt voor vrijwel elke branche. Een virtuele rondleiding kan plaatsvinden in een hotel, school, brouwerij, makelaardij, maar ook ingezet worden voor toerisme. Laat mensen over ter wereld zien wat jij te bieden hebt. Met behulp van *[video](https://www.philenflo.nl/oplossingen/video-laten-maken/)*, foto, *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)* en *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
@@ -157,7 +157,7 @@ blocks:
     align: left
     align_text: text-left
     content: >-
-      ## Digitale rondleidingen voor de ***makelaardij***
+      ## Digitale rondleidingen voor ***makelaardij***
 
 
       De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een interactieve rondleiding in elk huis.
