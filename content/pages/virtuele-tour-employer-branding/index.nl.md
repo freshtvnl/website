@@ -36,7 +36,7 @@ blocks:
       ## Laat je klanten kennismaken dankzij een ***digitale rondleiding***
 
 
-      Een digitale rondleiding is niet alleen een belangrijke bijdrage voor employer branding, ook klanten bekijken graag deze video’s. Ze krijgen een idee van de cultuur en of zij graag met jullie willen samenwerken. Je wilt graag klant zijn bij een bedrijf waar je thuis voelt. Met de digitale rondleiding geef je ook jouw leads en klanten een kijkje achter de schermen. Laat zien hoe jullie te werk gaan en straal vertrouwen uit!
+      Een digitale rondleiding is niet alleen een belangrijke bijdrage voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), ook klanten bekijken graag deze video’s. Ze krijgen een idee van de cultuur en of zij graag met jullie willen samenwerken. Je wilt graag klant zijn bij een bedrijf waar je thuis voelt. Met de digitale rondleiding geef je ook jouw leads en klanten een kijkje achter de schermen. Laat zien hoe jullie te werk gaan en straal vertrouwen uit!
     align: right
     align_text: text-left
   - type: content_block
@@ -58,7 +58,7 @@ blocks:
       ## Hoe Phil & Flo jouw online tour maakt ***voor elk bedrijf***
 
 
-      Een online tour door jouw organisatie moet voldoen aan jouw wensen en eisen. Daarom start het proces met het stellen van doelen. Wat wil je bereiken en vooral wie wil je bereiken? Aan de hand van een creatieve sessie wordt alles uitgewerkt. Vervolgens wordt het script en draaiboek uitgewerkt. Ben jij akkoord? Dan kan het filmen beginnen! Na opname ontvang je een ruwe versie. Aan de hand van jouw feedback wordt een definitieve versie uitgewerkt.
+      Een online tour door jouw organisatie moet voldoen aan jouw wensen en eisen. Daarom start het proces met het stellen van doelen. Wat wil je bereiken en vooral wie wil je bereiken? Aan de hand van een creatieve sessie wordt alles uitgewerkt. Vervolgens wordt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en draaiboek uitgewerkt. Ben jij akkoord? Dan kan het filmen beginnen! Na opname ontvang je een ruwe versie. Aan de hand van jouw feedback wordt een definitieve versie uitgewerkt.
   - type: content_block
     video:
       autoplay: true
@@ -68,12 +68,15 @@ blocks:
       ## De ***kosten*** van een virtuele rondleiding voor bedrijven
 
 
-      De kosten van een virtuele rondleiding door jouw bedrijf variëren. Alle kosten zijn afhankelijk van de wensen. Vraag een **vrijblijvende offerte** aan en je ontvang een eerlijke prijsopgave. Geef gerust aan wat je wensen zijn, dan werken onze experts direct een concept uit dat past bij jou.
+      De kosten van een virtuele rondleiding door jouw bedrijf variëren. Alle kosten zijn afhankelijk van de wensen. Vraag een **[vrijblijvende offerte](https://www.philenflo.nl/offerte-ontvangen/)** aan en je ontvang een eerlijke prijsopgave. Geef gerust aan wat je wensen zijn, dan werken onze experts direct een concept uit dat past bij jou.
+    cta:
+      url: https://www.philenflo.nl/offerte-ontvangen/
+      text: Vraag je offerte aan
 seo:
   title: Virtuele tour voor Employer branding | Phil & Flo | Wij verbeelden de
     wereld van morgen
   description: Virtuele tour voor employer branding laten maken door Phil & Flo.
-    Wij verbeelden het.
+    Wij verbeelden het. ✔ Klantscore 8.9 ✔  Origineel en uniek  ✔ Professioneel
 menu:
   footer:
     weight: ""
