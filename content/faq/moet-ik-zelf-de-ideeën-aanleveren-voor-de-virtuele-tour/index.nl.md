@@ -1,7 +1,7 @@
 ---
 title: Moet ik zelf de ideeën aanleveren voor de virtuele tour?
 slug: ideeen-virtuele-tour
-draft: true
+draft: false
 faq:
   answer: Ons creatieve team is gespecialiseerd om op basis van jouw boodschap een
     pakkend concept te maken. We doen dit graag samen met jou. Alle goede ideeën
