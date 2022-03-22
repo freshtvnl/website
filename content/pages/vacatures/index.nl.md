@@ -15,14 +15,18 @@ blocks:
       Wil jij werken in een gezellig en gedreven team? Je tijd en creativiteit alleen besteden aan maatschappelijk verantwoorde organisaties? Nooit langer dan van 9 tot 5 uur werken én elke vrijdag vrij zijn?
 
 
-      *Wie weet is één van onze openstaande functies iets voor jou! :*
+      *Wie weet is één van onze vacatures iets voor jou:*
 
 
-      * 2D Animator (fulltime)
+      * [2D Animator](https://www.philenflo.nl/vacature-2d-animator) (fulltime)
 
       * Accountmanger Sales (fulltime)
-
-
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## ***Stageplekken 2022***
 
 
       Ook zijn we altijd op zoek naar gemotiveerde stagiaires die veel willen leren op het gebied van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en marketing.
@@ -40,12 +44,6 @@ blocks:
       * [HBO/WO International Business](https://www.philenflo.nl/stageplek-hbo-en-wo-international-business-groningen/) (fulltime)
 
       * [HBO/WO Sales](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (fulltime)
-
-
-
-
-      Heb je vragen over één van onze openstaande vacatures? Je kunt ons altijd even bellen.
-    displaymedia: custom_video
 seo:
   title: Werken bij video of animatie bedrijf - Phil & Flo Creative studio
   description: Werken bij een videoproductie bedrijf of animatie studio in de
