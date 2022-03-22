@@ -1,7 +1,7 @@
 ---
 title: Hoe gaan jullie te werk met een virtuele tour?
 slug: werk-tour
-draft: true
+draft: false
 faq:
   question: Hoe gaan jullie te werk met een virtuele tour?
   answer: Op basis van jullie ideeën en wensen wordt er een script en draaiboek
