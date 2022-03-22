@@ -44,6 +44,10 @@ blocks:
       * [HBO/WO International Business](https://www.philenflo.nl/stageplek-hbo-en-wo-international-business-groningen/) (fulltime)
 
       * [HBO/WO Sales](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (fulltime)
+    align: right
+    displaymedia: image
+    image:
+      source: ""
 seo:
   title: Werken bij video of animatie bedrijf - Phil & Flo Creative studio
   description: Werken bij een videoproductie bedrijf of animatie studio in de
