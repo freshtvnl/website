@@ -67,7 +67,7 @@ blocks:
       * Hebt een recent portfolio waaruit je animatie skills blijken
       * Maakt briljante en aansprekende animatiefilms
       * Houdt van werken binnen een gezellig en gedreven team met een missie
-      * Je beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
+      * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
     align: left
   - type: content_block
     video:
