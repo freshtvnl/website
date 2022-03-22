@@ -6,7 +6,7 @@ image:
   source: images/csb-muziekles.jpg
 content_type: case
 color: yellow
-branch: onderwijs-kunst-Cultuur
+branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
     video:
