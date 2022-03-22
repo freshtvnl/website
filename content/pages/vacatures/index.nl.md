@@ -20,7 +20,7 @@ blocks:
 
       * [2D Animator](https://www.philenflo.nl/vacature-2d-animator) (fulltime)
 
-      * Accountmanger Sales (fulltime)
+      * [Accountmanger Sales](https://www.philenflo.nl/vacature-accountmanager-sales) (fulltime)
     displaymedia: custom_video
   - type: content_block
     video:
