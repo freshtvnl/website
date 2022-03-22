@@ -203,6 +203,17 @@ blocks:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
       - hoe-maken-jullie-een-interactieve-video
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
+  - type: selectedfaqs_block
+    items:
+      - wat-is-virtuele-tour
+      - maken-virtuele-tour
+      - werk-tour
+      - sparren-virtuele-tour
+      - ideeen-virtuele-tour
+      - duur-tour
+      - kwaliteit-virtuele-tour
+      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-productvideo
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
 seo:
   title: Virtuele tour | Phil & Flo | Wij verbeelden de wereld van morgen
   description: "Virtuele tour laten maken voor jouw bedrijf. Interactieve video of
