@@ -30,7 +30,7 @@ blocks:
       ## De mogelijkheden van een ***virtuele tour*** voor jouw museum
 
 
-      De virtuele tour door het museum kan gemaakt worden met *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)*, *[360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/)*, *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* en gewone video’s. De mogelijkheden zijn breed. Het is zelfs mogelijk om oude video’s interactief te maken. Daarnaast heb je vele keuzes. Wil je bijvoorbeeld een *[interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)* waarin bezoekers keuzes kunnen maken? Dankzij knoppen kan de bezoeker zelf zijn tour naar eigen zin maken. Afhankelijk van jouw doelen en doelgroep wordt er een tour opgebouwd die passend is.
+      De virtuele tour door het museum kan gemaakt worden met *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)*, *[360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/)*, *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* en gewone [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/). De mogelijkheden zijn breed. Het is zelfs mogelijk om oude video’s interactief te maken. Daarnaast heb je vele keuzes. Wil je bijvoorbeeld een *[interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)* waarin bezoekers keuzes kunnen maken? Dankzij knoppen kan de bezoeker zelf zijn tour naar eigen zin maken. Afhankelijk van jouw doelen en doelgroep wordt er een tour opgebouwd die passend is.
     align: right
     align_text: text-left
   - type: content_block
@@ -52,7 +52,7 @@ blocks:
       ## De ***werkwijze*** van Phil & Flo
 
 
-      Het start met het idee, maar wat wil je bereiken en wie? Die vraag staat centraal bij de start van de ontwikkeling van het concept. Tijdens een creatieve sessie wordt er een plan uitgewerkt, waarna een script ontstaat voor jouw digitale rondleiding. Ga jij akkoord? Dan wordt het schema en draaiboek verder uitgewerkt en is het tijd om te filmen. \
+      Het start met het idee, maar wat wil je bereiken en wie? Die vraag staat centraal bij de start van de ontwikkeling van het concept. Tijdens een creatieve sessie wordt er een plan uitgewerkt, waarna een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) ontstaat voor jouw digitale rondleiding. Ga jij akkoord? Dan wordt het schema en draaiboek verder uitgewerkt en is het tijd om te filmen. \
 
       \
 
@@ -66,11 +66,14 @@ blocks:
       ## ***Kosten*** digitale rondleiding door een musea
 
 
-      De kosten voor de digitale rondleiding hangen samen met jouw wensen. Vraag een vrijblijvende offerte aan en geef aan wat jouw idee is. Je ontvangt een offerte tegen eerlijke tarieven voor jouw idee. Uiteraard denken de experts van Phil & Flo direct mee over het concept.
+      De kosten voor de digitale rondleiding hangen samen met jouw wensen. Vraag een vrijblijvende [offerte](https://www.philenflo.nl/offerte-ontvangen/) aan en geef aan wat jouw idee is. Je ontvangt een offerte tegen eerlijke tarieven voor jouw idee. Uiteraard denken de experts van Phil & Flo direct mee over het concept.
+    cta:
+      url: https://www.philenflo.nl/offerte-ontvangen/
+      text: Vraag een offerte aan
 seo:
   title: Virtuele tour voor museum | Phil & Flo | Wij verbeelden de wereld van morgen
   description: Virtuele tour voor een museum laten maken door Phil & Flo. Wij
-    verbeelden het.
+    verbeelden het. ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔ Professioneel
 menu:
   footer:
     weight: ""
