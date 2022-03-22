@@ -1,7 +1,7 @@
 ---
 title: Hoe lang duurt het gemiddeld voordat een virtuel tour klaar is?
-slug: duur-virtuele-tour
-draft: true
+slug: duur-tour
+draft: false
 faq:
   question: Hoe lang duurt het gemiddeld voordat een virtuele tour klaar is?
   answer: Dit is afhankelijk van jouw wensen. De looptijd hangt samen met jouw
