@@ -24,7 +24,7 @@ blocks:
       ## Wat is een ***virtuele tour***?
 
 
-      Een virtuele tour is een digitale rondleiding. Deze online rondleiding vindt plaats in bijvoorbeeld een gebouw, school, bedrijf, fabriek of hotel. Je bekijkt virtueel alle ruimtes. Elke ruimte wordt vastgelegd met interactieve video’s waardoor een hele wereld tot leven komt op het scherm. Zo kan een bezoeker overal ter wereld in elke ruimte rondlopen en kijken.
+      Een virtuele tour is een digitale rondleiding. Deze online rondleiding vindt plaats in bijvoorbeeld een gebouw, school, bedrijf, fabriek of hotel. Je bekijkt virtueel alle ruimtes. Elke ruimte wordt vastgelegd met [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/) waardoor een hele wereld tot leven komt op het scherm. Zo kan een bezoeker overal ter wereld in elke ruimte rondlopen en kijken.
   - type: content_block
     video:
       autoplay: true
@@ -44,7 +44,7 @@ blocks:
       ## ***Mogelijkheden*** van een virtuele tour
 
 
-      Een virtuele tour is niet zomaar een tour. Je hebt keuze uit verschillende mogelijkheden, denk hierbij aan het interactief maken van bestaande video’s, interactieve links en koppen en meerdere verhaallijnen. Wil je bezoekers echt meenemen online? Dan kun je ook kiezen voor virtual reality. Toon de wereld alsof ze er echt zijn. Een unieke ervaring voor elke kijker! \
+      Een virtuele tour is niet zomaar een tour. Je hebt keuze uit verschillende mogelijkheden, denk hierbij aan het interactief maken van bestaande [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/), interactieve links en koppen en meerdere verhaallijnen. Wil je bezoekers echt meenemen online? Dan kun je ook kiezen voor virtual reality. Toon de wereld alsof ze er echt zijn. Een unieke ervaring voor elke kijker! \
 
       \
 
@@ -76,7 +76,7 @@ blocks:
 
       \
 
-      De digitale rondleiding biedt mogelijkheden om te informeren, omzet te verhogen en extra bezoekers te trekken. Het is meer dan een video, het is onderdeel van jouw marketing.
+      De digitale rondleiding biedt mogelijkheden om te informeren, omzet te verhogen en extra bezoekers te trekken. Het is meer dan een video, het is onderdeel van jouw [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/).
   - type: content_block
     video:
       autoplay: true
@@ -111,6 +111,10 @@ blocks:
       \
 
       Uiteraard denken wij direct mee over een uniek en origineel concept. Zodat het voldoet aan jouw wensen en eisen. Alle expertise wordt direct ingezet voor het beste concept. Wil je meer weten? Neem contact op! De offerte is volledig vrijblijvend.
+    form: ""
+    cta:
+      url: https://www.philenflo.nl/contact/
+      text: "Neem contact op "
   - type: content_block
     video:
       autoplay: true
@@ -120,7 +124,7 @@ blocks:
       ## Digitale rondleiding voor ***museum***
 
 
-      Een nieuwe expositie in de schijnwerpers? Dat kan met gemak dankzij een digitale rondleiding. Verleidt toekomstige bezoekers met de stukken die tentoongesteld worden. Laat zien waarom zij direct een kaartje moeten kopen. Een video verbeeldt wat bezoekers kunnen verwachten.
+      Een nieuwe expositie in de schijnwerpers? Dat kan met gemak dankzij een [digitale rondleiding door een museum](https://www.philenflo.nl/virtuele-tour-museum/). Verleidt toekomstige bezoekers met de stukken die tentoongesteld worden. Laat zien waarom zij direct een kaartje moeten kopen. Een video verbeeldt wat bezoekers kunnen verwachten.
   - type: content_block
     video:
       autoplay: true
@@ -148,7 +152,7 @@ blocks:
       ## Virtuele rondleiding inzetten voor ***employer branding***
 
 
-      Een werknemer zoekt meer dan een salaris. Je besteedt meer tijd op je werk dan dat je thuis bent. Een goede werkomglng en maak het extra leuk met interactiviteit. Misschien kunnen ze zelf een biertje tappen.
+      Een werknemer zoekt meer dan een salaris. Je besteedt meer tijd op je werk dan dat je thuis bent. Een goede werkomgeving en maak het extra leuk met interactiviteit. Misschien kunnen ze zelf een biertje tappen. Lees hier meer over [virtuele tours inzetten voor employer branding](https://www.philenflo.nl/virtuele-tour-employer-branding/).
     align: right
     align_text: text-left
   - type: content_block
@@ -178,7 +182,7 @@ blocks:
       ## Een virtuele tour door ***school***
 
 
-      De keuze voor een school is niet zomaar gemaakt. Je wilt het beste voor de kinderen en daarom is de keuze niet zomaar gemaakt. Een virtuele tour door een school laat zien wat de school te bieden heeft. Laat zien aan toekomstige leerlingen wat de school te bieden heeft. Zo hoeft een toekomstige leerling niet tijdens een drukke open dag langs te komen, maar kan online de sfeer alvast proeven.
+      De keuze voor een school is niet zomaar gemaakt. Je wilt het beste voor de kinderen en daarom is de keuze niet zomaar gemaakt. Een [virtuele tour door een schoo](https://www.philenflo.nl/virtuele-school-rondleiding/)l laat zien wat de school te bieden heeft. Laat zien aan toekomstige leerlingen wat de school te bieden heeft. Zo hoeft een toekomstige leerling niet tijdens een drukke open dag langs te komen, maar kan online de sfeer alvast proeven.
     align: left
     align_text: text-left
   - type: content_block
