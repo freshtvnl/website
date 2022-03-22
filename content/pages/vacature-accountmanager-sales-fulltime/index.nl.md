@@ -53,11 +53,11 @@ blocks:
       autoplay: true
     align: left
     content: |-
-      ## ***Jij bent een:***
+      ## ***Jij bent:***
 
-      * Commercieel talent
+      * Een commercieel talent
       * Communicatief en energiek
-      * Doorzetter (beetje cliché, we know)
+      * Een doorzetter (beetje cliché, we know)
   - type: content_block
     video:
       autoplay: true
