@@ -205,8 +205,8 @@ blocks:
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
 seo:
   title: Virtuele tour | Phil & Flo | Wij verbeelden de wereld van morgen
-  description: Virtuele tour laten maken voor jouw bedrijf. Interactieve video of
-    digitale tour. Phil & Flo verbeeldt het.
+  description: "Virtuele tour laten maken voor jouw bedrijf. Interactieve video of
+    digitale tour. ✔ Uniek  ✔ Op maat & Professioneel ✔ Klantscore 8.9 "
 menu:
   footer:
     weight: ""
