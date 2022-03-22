@@ -1,7 +1,7 @@
 ---
 title: "Wat is een virtuele tour? "
 slug: wat-is-virtuele-tour
-draft: true
+draft: false
 faq:
   question: "Wat is een virtuele tour? "
   answer: Een virtuele tour is een digitale rondleiding door een gebouw, fabriek,
