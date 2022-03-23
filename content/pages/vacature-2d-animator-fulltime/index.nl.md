@@ -43,13 +43,13 @@ blocks:
 
       * Werkt in een gezellig en gedreven team
 
-      * Vele kansen tot (zelf)ontwikkeling hebt\
-        (We bieden vervolgopleidingen in 3D (cinema4D) en 2D animatiewerk)
-      * Jouw tijd en creativiteit niet verspild aan klimaatverwoestende organisaties
+      * Vele kansen tot (zelf)ontwikkeling hebt (We bieden vervolgopleidingen in 3D (cinema4D) en 2D animatiewerk)
+
+      * Jouw tijd en creativiteit niet verspilt aan klimaatverwoestende organisaties
 
       * Altijd ruimte hebt voor goede ideeën en wordt gewaardeerd voor je inzet
 
-      * Nooit overuren maakt, omdat je elke dagvan 9 tot 5 uur werkt
+      * Nooit overuren maakt, omdat je elke dag van 9 tot 5 uur werkt
 
       * Elke maandag een lekkere lunch van de zaak krijgt
 
@@ -85,6 +85,6 @@ blocks:
       ## ***Solliciteren***
 
 
-      Ben jij enthousiast over bovenstaande functie? En wil jij ook graag werken in onze hecte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+      Ben jij enthousiast over bovenstaande functie? Wil jij ook graag werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
     align: center
 ---
