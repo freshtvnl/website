@@ -90,5 +90,5 @@ blocks:
 
 
       Ben jij enthousiast over bovenstaande functie? En wil jij ook graag werken in onze hecte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
-    align: left
+    align: center
 ---
