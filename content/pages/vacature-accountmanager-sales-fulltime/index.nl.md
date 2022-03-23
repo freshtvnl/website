@@ -30,6 +30,9 @@ blocks:
 
 
       Als Accountmanager Sales ben jij het eerste aanspreekpunt van onze klanten. Dankzij jou komen we aan tafel bij de gaafste bedrijven die goed bij onze visie passen. Samen met jou en het team zijn we constant op zoek naar manieren om nieuwe klanten aan ons te binden. Je bent in staat om een winnende offerte te schrijven en mee te werken aan het winnen van tenders/aanbestedingen. Hiervoor vragen we commercieel talent dat op tactisch en strategisch niveau mee kan denken met een klant. Je weet de klant te overtuigen met realistische verkoopmethoden en verkoopt onze video's, 2D animaties, 3D animaties en Virtual Reality films, door je creativiteit en commerciële talent te combineren. Alles om grote impact voor onze klanten te behalen.
+    image:
+      source: images/aron-inge.png
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -51,6 +54,9 @@ blocks:
       * Elke maandag een lekkere lunch van de zaak krijgt
 
       * Elke vrijdag vrij bent, om nog genoeg andere leuke dingen te kunnen ondernemen
+    image:
+      source: images/feest.png
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
