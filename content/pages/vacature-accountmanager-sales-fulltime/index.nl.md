@@ -60,6 +60,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
     align: right
     content: >-
       ## ***Jij bent:***
@@ -86,6 +87,7 @@ blocks:
       * Hebt een dosis overtuigingskracht
 
       * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
