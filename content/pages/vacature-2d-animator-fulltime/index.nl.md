@@ -67,21 +67,17 @@ blocks:
       * Een zelfstandige en creatieve 2D Animator
       * Een pro in ADOBE After-Effects
       * Niet snel gestrest
-    align: right
-    displaymedia: image
-    image:
-      source: images/aron-inge.png
-  - type: content_block
-    video:
-      autoplay: true
-    content: |-
+
       ## ***En je:***
 
       * Hebt een recent portfolio waaruit je animatie skills blijken
       * Maakt briljante en aansprekende animatiefilms
       * Houdt van werken binnen een gezellig en gedreven team met een missie
       * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
-    align: left
+    align: right
+    displaymedia: image
+    image:
+      source: images/aron-inge.png
   - type: content_block
     video:
       autoplay: true
