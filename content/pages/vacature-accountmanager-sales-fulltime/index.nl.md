@@ -24,7 +24,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## ***Wat ga je doen?***
 
@@ -60,17 +60,20 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
-    content: |-
+    align: right
+    content: >-
       ## ***Jij bent:***
 
+
       * Een commercieel talent
+
       * Communicatief en energiek
+
       * Een doorzetter (beetje cliché, we know)
-  - type: content_block
-    video:
-      autoplay: true
-    content: >-
+
+
+
+
       ## ***En je:***
 
 
@@ -86,7 +89,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: center
     content: >-
       ## ***Solliciteren***
 
