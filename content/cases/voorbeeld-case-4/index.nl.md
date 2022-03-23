@@ -84,7 +84,7 @@ blocks:
       Wil je zelf een promotievideo of een [virtuele school rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/)?
 
 
-      Bel Sebastiaan op 085 - 273 8331 voor meer informatie.
+      Bel ons op 085 - 273 8331 voor meer informatie.
     displaymedia: image
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
