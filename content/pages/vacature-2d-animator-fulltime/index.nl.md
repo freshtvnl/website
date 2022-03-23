@@ -1,6 +1,7 @@
 ---
 title: Vacature 2D Animator (fulltime)
 slug: vacature-2d-animator
+weight: 1
 draft: false
 color: blue
 blocks:
