@@ -42,11 +42,11 @@ blocks:
 
       * Vele kansen tot (zelf)ontwikkeling hebt
 
-      * Jouw tijd en creativiteit niet verspild aan klimaatverwoestende organisaties
+      * Jouw tijd en creativiteit niet verspilt aan klimaatverwoestende organisaties
 
       * Altijd ruimte hebt voor goede ideeën en wordt gewaardeerd voor je inzet
 
-      * Nooit overuren maakt, omdat je elke dagvan 9 tot 5 uur werkt
+      * Nooit overuren maakt, omdat je elke dag van 9 tot 5 uur werkt
 
       * Elke maandag een lekkere lunch van de zaak krijgt
 
