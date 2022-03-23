@@ -12,4 +12,5 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: yA8xUdc4Obg
+    title: "***2D Animatie Documizers***"
 ---
