@@ -36,7 +36,7 @@ blocks:
       ## Een strak design verdient een strakke 3D animatie
 
 
-      Dit Dutch Design hoogstandje is speciaal ontwikkeld voor de zakelijk markt en is eenvoudig af te stemmen op verschillende gebruikersbehoeften. Wij werden gevraagd om de unieke eigenschappen in een strakke 3D animatie te verpakken. Dat is goed gelukt als je het ons vraagt! Met een afvalbak van BinBin hoef je als organisatie de afvalbak niet meer weg te moffelen in een hoekje.
+      Dit Dutch Design hoogstandje is speciaal ontwikkeld voor de zakelijk markt en is eenvoudig af te stemmen op verschillende gebruikersbehoeften. Wij werden gevraagd om de unieke eigenschappen in een strakke [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) te verpakken. Dat is goed gelukt als je het ons vraagt! Met een afvalbak van BinBin hoef je als organisatie de afvalbak niet meer weg te moffelen in een hoekje.
     displaymedia: custom_video
     image:
       source: images/afvalbak-2.png
