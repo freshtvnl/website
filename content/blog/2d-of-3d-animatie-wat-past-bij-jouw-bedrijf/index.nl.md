@@ -281,7 +281,7 @@ Veel bedrijven die producten of machines produceren hebben technische tekeningen
 
 ### Virtual Reality
 
-Virtual Reality lijkt misschien een mediavorm die ver weg staat van animatie, maar niks is minder waar. Zoals benoemd speelt de game-industrie hierin een grote rol. Afhankelijk van hoe je een 3D animatie opbouwt kan je het framework hiervan gebruiken om een VR film te maken. Kies je dus voor 3D animatie, dan is een [virtual reality animatie](https://www.philenflo.nl/vr-animatie-laten-maken/) binnen handbereik.
+[Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) lijkt misschien een mediavorm die ver weg staat van animatie, maar niks is minder waar. Zoals benoemd speelt de game-industrie hierin een grote rol. Afhankelijk van hoe je een 3D animatie opbouwt kan je het framework hiervan gebruiken om een VR film te maken. Kies je dus voor 3D animatie, dan is een [virtual reality animatie](https://www.philenflo.nl/vr-animatie-laten-maken/) binnen handbereik.
 
 ### Blended animatie
 
