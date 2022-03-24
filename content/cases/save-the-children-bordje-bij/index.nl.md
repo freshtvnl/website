@@ -17,4 +17,8 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: v6NksEdVRno
+seo:
+  title: Commercial Save The Children | Portfolio | Phil & Flo
+  description: Commercial voor Save The Children. Ontdek hier de unieke reclame in
+    ons portfolio en neem contact op voor meer informatie.
 ---
