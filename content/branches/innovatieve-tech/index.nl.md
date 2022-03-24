@@ -89,7 +89,7 @@ blocks:
       ## ***Interactieve brochures***
 
 
-      Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/).
+      Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     cta:
       url: https://www.philenflo.nl/contact/
       text: Neem contact op
