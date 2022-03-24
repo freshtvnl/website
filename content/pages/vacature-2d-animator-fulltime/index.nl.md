@@ -9,7 +9,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## Vacature Fulltime 2D Animator"
+    content: "# Vacature Fulltime 2D Animator"
   - type: content_block
     video:
       autoplay: true
