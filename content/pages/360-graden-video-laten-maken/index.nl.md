@@ -8,8 +8,9 @@ blocks:
     content: Wil jij jouw bezoekers een levensechte ervaring bieden vanuit de luie
       stoel? Wil jij echt voorlopen op je concurrenten? Dan is een 360 graden
       video laten maken voor jou op de oplossing. Phil & Flo is specialist in
-      het maken van 360 graden video’s en VR animaties, wij helpen je graag met
-      het onderzoeken van de mogelijkheden.
+      het maken van 360 graden video’s en [VR
+      animaties](https://www.philenflo.nl/vr-animatie-laten-maken/), wij helpen
+      je graag met het onderzoeken van de mogelijkheden.
     title: "***360 graden video*** laten maken door Phil & Flo"
     displaymedia: youtube_video
     youtube:
@@ -55,7 +56,7 @@ blocks:
       ### 360 graden video voor de ***medische wereld***
 
 
-      Ook in de medische wereld is een 360 graden video de toekomst. Je kan onder andere artsen beter opleiden door een VR video. Een student geneeskunde kan een operatie ontelbare keren meemaken voordat hij zelf gaat opereren. Dit zorgt voor veel minder medische fouten. Kijkoperaties kunnen worden nagebootst en door het besturen van virtuele instrumenten kan men handelingen oefenen. Voornamelijk dankzij het trainen van de oog-hand coördinatie kunnen artsen zich goed voorbereiden op een operatie.
+      Ook in de medische wereld is een 360 graden video de toekomst. Je kan onder andere artsen beter opleiden door een [VR video](https://www.philenflo.nl/oplossingen/virtual-reality/). Een student geneeskunde kan een operatie ontelbare keren meemaken voordat hij zelf gaat opereren. Dit zorgt voor veel minder medische fouten. Kijkoperaties kunnen worden nagebootst en door het besturen van virtuele instrumenten kan men handelingen oefenen. Voornamelijk dankzij het trainen van de oog-handcoördinatie kunnen artsen zich goed voorbereiden op een operatie.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
