@@ -152,8 +152,7 @@ blocks:
       - OIO systems
     more_items: true
 seo:
-  title: Uitleganimatie laten maken - Uniek en opvallend -Phil & Flo Videomarketing
-  description: Uitleganimatie laten maken? Phil & Flo produceert een unieke op
-    maat gemaakte uitleganimatie voor je. Snel, hoogwaardig en zonder gedoe. Bel
-    ons nu.
+  title: Uitleganimatie laten maken | Phil & Flo | Animatie & Video
+  description: "Uitleganimatie laten maken? Phil & Flo produceert een unieke op
+    maat gemaakte animatie.  ✔ Klantscore 8.9 ✔ Professioneel "
 ---
