@@ -10,5 +10,5 @@ blocks:
       autoplay: true
     form: newsletter-form
     align: center
-    content: "## ***Nieuwsbrief ontvangen!***"
+    content: "# ***Nieuwsbrief ontvangen!***"
 ---
