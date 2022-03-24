@@ -16,7 +16,7 @@ blocks:
       ## ***Wie zijn Phil & Flo***
 
 
-      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     align: left
     displaymedia: youtube_video
     youtube:
@@ -97,4 +97,8 @@ blocks:
 
 
       Ben jij enthousiast over bovenstaande functie? Wil jij ook graag werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+seo:
+  title: Vacature Accountmanager Sales | Fulltime | Phil & Flo
+  description: Solliciteer nu de functie voor Accountmanager Sales. Lees hier meer
+    voor de functie en neem contact op.
 ---
