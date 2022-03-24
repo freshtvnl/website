@@ -16,4 +16,8 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/412d52b4fa953035e44a1beb
+seo:
+  title: Interactieve video voor Noorderpoort | Portfolio | Phil & Flo
+  description: "Interactieve video voor het Noorderpoort College. Bekijk hier deze
+    unieke case in ons portfolio en informeer naar de mogelijkheden. "
 ---
