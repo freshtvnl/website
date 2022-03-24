@@ -26,7 +26,7 @@ blocks:
       wereldwijd ziektes uit te bannen is een goede en eerlijke pharmaceutische
       industrie belangrijk. Daarom werken wij graag samen met zorg & pharma
       bedrijven om doorbraken en oplossingen te communiceren door middel van
-      [interactieve
+      [virtuele tour](https://www.philenflo.nl/virtuele-tour/), [interactieve
       brochures](https://www.philenflo.nl/oplossingen/interactieve-video/),
       [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
       en [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
