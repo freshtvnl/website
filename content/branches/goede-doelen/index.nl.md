@@ -25,7 +25,7 @@ blocks:
       ## Film voor ***goede doelen***
 
 
-      Wil je meer weten over de mogelijkheden van een animatiefilm, een [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/) of een [persoonlijke film](https://www.philenflo.nl/gepersonaliseerde-video/) voor fondsenwerving, uitleg of begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, 085 - 273 8331.
+      Wil je meer weten over de mogelijkheden van een animatiefilm, een [virtuele tour](https://www.philenflo.nl/virtuele-tour/), een [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/) of een [persoonlijke film](https://www.philenflo.nl/gepersonaliseerde-video/) voor fondsenwerving, uitleg of begrip? Bel dan met Suzan, zij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, 085 - 273 8331.
     image:
       source: images/home-start-goede-doelen.jpg
     displaymedia: image
