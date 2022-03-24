@@ -211,7 +211,7 @@ seo:
   title: Virtuele rondleiding school laten maken - Interactieve school tour | Phil
     & Flo
   description: Virtuele rondleiding laten maken voor jouw school. Interactieve
-    school tour. Phil & Flo verbeeldt het.
+    school tour. ✔ Klantscore 8.9  ✔ Origineel en professioneel
 menu:
   footer:
     weight: 8
