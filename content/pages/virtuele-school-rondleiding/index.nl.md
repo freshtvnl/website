@@ -22,7 +22,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     cta:
-      url: /contact
+      url: https://www.philenflo.nl/contact/
       text: Direct contact
       type: button
       color: pink
