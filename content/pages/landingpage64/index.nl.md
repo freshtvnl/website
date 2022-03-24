@@ -59,7 +59,7 @@ blocks:
       ## ***Visie*** op animatie
 
 
-      Met alle mogelijkheden die moderne techniek biedt is [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D Animatie](https://www.philenflo.nl/2d-animatie/), interactieve animatie en Virtual Reality animatie voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
+      Met alle mogelijkheden die moderne techniek biedt is [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D Animatie](https://www.philenflo.nl/2d-animatie/), interactieve animatie en [Virtual Reality animatie](https://www.philenflo.nl/vr-animatie-laten-maken/) voor iedereen binnen bereik. Dat vraagt meer dan ooit om een onderscheidende visie. Wij geloven dat een animatiefilm om een paar elementen moet gaan; unieke stijl, goede stem en uiteraard een aansprekend verhaal. Die elementen verpakken we tot een sfeervolle animatie, waarin jouw stijl en boodschap de hoofdrol spelen. Dat lukt alleen als we goed samen werken en voor jou een concept op maat maken en kiezen voor een unieke stijl.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
@@ -81,7 +81,7 @@ blocks:
       ## Vandaag nog alles weten over een animatie laten maken in Amsterdam?
 
 
-      Bij Phil & Flo in Amsterdam doen we meer dan alleen maar sprankelende animaties in elkaar zetten. We helpen je ook op weg om met deze animatie je promotiecampagnes, social-mediastrategie en klantenservice naar het volgende niveau te tillen.
+      Bij Phil & Flo in Amsterdam doen we meer dan alleen maar sprankelende animaties in elkaar zetten. We helpen je ook op weg om met deze animatie je promotiecampagnes, social media strategie en klantenservice naar het volgende niveau te tillen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
