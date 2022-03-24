@@ -8,7 +8,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## MBO/HBO Stage Fulltime Vormgeving & Marketing"
+    content: "# MBO/HBO Stage Fulltime Vormgeving & Marketing"
   - type: content_block
     video:
       autoplay: true
