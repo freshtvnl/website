@@ -64,7 +64,7 @@ blocks:
       ## ***Virtual Reality Animatie***
 
 
-      Heb je een Virtual reality headset? Bekijk dan onze [VR animatiefilm](https://www.philenflo.nl/oplossingen/virtual-reality/)s eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
+      Heb je een [Virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) headset? Bekijk dan onze [VR animatiefilms](https://www.philenflo.nl/oplossingen/virtual-reality/) eens! Deze oplossing biedt geweldige mogelijkheden als je echt wilt opvallen. Ook geweldig om te gebruiken op beurzen of tijdens presentaties!
     displaymedia: youtube_video
     video:
       autoplay: true
