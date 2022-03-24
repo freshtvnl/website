@@ -8,7 +8,7 @@ blocks:
     video:
       autoplay: true
     align: center
-    content: "## Vacature Fulltime Accountmanager Sales"
+    content: "# Vacature Fulltime Accountmanager Sales"
   - type: content_block
     video:
       autoplay: true
