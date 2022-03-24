@@ -88,4 +88,8 @@ blocks:
 
       Ben jij enthousiast over bovenstaande functie? Wil jij ook graag werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
     align: center
+seo:
+  title: Vacature 2D animator | Fulltime | Solliciteeer nu | Phil & Flo
+  description: Op zoek naar een nieuwe uitdaging als 2D animator? Solliciteer nu
+    bij Phil & Flo. Lees hier meer over de functie.
 ---
