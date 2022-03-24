@@ -6,6 +6,10 @@ image:
   source: images/storytelling-phil-en-flo.jpg
 date: 2021-09-08T12:52:33.907Z
 color: yellow
+seo:
+  title: De wereld van Storytelling | Blog | Phil & Flo
+  description: "Wat is storytelling? In dit artikel leggen wij het uit en geven de
+    beste voorbeelden van Storytelling. Lees hier meer. "
 ---
 Ze zijn overal. Iedereen heeft er een, en iedereen houdt er van: een goed verhaal. 
 Met een goed verhaal verbind je mensen en speel je in op emoties. Daarom zijn verhalen een uitstekende manier om informatie over te brengen: om je bedrijf in de etalage te zetten, merkbeleving te creëren of betrokkenheid op te wekken bij een bepaalde doelgroep.
