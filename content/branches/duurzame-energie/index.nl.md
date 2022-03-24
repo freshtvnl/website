@@ -34,7 +34,7 @@ blocks:
       ## Jij wilt je doelgroep overtuigen, ***maar hoe?***
 
 
-      Je werkt in de vooruitstrevende duurzame energie sector, jij wilt je doelgroep informeren over je innovaties. Dan zoek je een content partner die oplossingen biedt. Jouw uitdaging zetten wij om in impactvolle en creatieve [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) en [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), die jou helpen je doelgroep te overtuigen. Zonder dat dit jou heel veel tijd kost, onze specialisten weten namelijk heel veel van jouw sector. Kan jij lekker door met je werk, terwijl wij jouw [marketing](https://www.philenflo.nl/oplossingen/videomarketing/) een boost geven.
+      Je werkt in de vooruitstrevende duurzame energie sector, jij wilt je doelgroep informeren over je innovaties. Dan zoek je een content partner die oplossingen biedt. Jouw uitdaging zetten wij om in impactvolle en creatieve [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) en [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), die jou helpen je doelgroep te overtuigen. Zonder dat dit jou heel veel tijd kost, onze specialisten weten namelijk heel veel van jouw sector. Kan jij lekker door met je werk, terwijl wij jouw [marketing](https://www.philenflo.nl/oplossingen/videomarketing/) een boost geven.
     displaymedia: custom_video
     image:
       source: ""
