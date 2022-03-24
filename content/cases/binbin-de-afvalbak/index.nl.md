@@ -68,4 +68,8 @@ blocks:
   - type: contact_block
     contacts:
       - peter-de-graaf
+seo:
+  title: 3D animatie voor BinBin | Portfolio | Phil & Flo
+  description: 3D animatie voor BinBin. Ontdek hier de unieke animatie in ons
+    portfolio en neem contact voor de mogelijkheden.
 ---
