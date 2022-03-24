@@ -71,7 +71,7 @@ blocks:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag een offerte aan
 seo:
-  title: Virtuele tour voor museum | Phil & Flo | Wij verbeelden de wereld van morgen
+  title: "Virtuele tour laten maken voor een museum | Phil & Flo "
   description: Virtuele tour voor een museum laten maken door Phil & Flo. Wij
     verbeelden het. ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔ Professioneel
 menu:
