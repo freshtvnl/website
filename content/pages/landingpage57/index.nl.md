@@ -64,7 +64,7 @@ blocks:
       ## Een 3D productvideo inzetten als instructievideo
 
 
-      3D Productvideo’s zijn super effectief en multi-inzetbaar. Zo kun je een productvideo effectief inzetten voor het delen van productinformatie met je medewerkers. Heb je een nieuw product om de markt te veroveren en wil je jouw medewerkers voorzien van alle technische informatie? Dan biedt een productanimatie dé oplossing. Maar je kunt de 3D product video ook laten verwerken in een commercial en bijvoorbeeld inzetten als promovideo tijdens beurzen en evenementen. De mogelijkheden zijn eindeloos.
+      3D Productvideo’s zijn super effectief en multi-inzetbaar. Zo kun je een productvideo effectief inzetten voor het delen van productinformatie met je medewerkers. Heb je een nieuw product om de markt te veroveren en wil je jouw medewerkers voorzien van alle technische informatie? Dan biedt een productanimatie dé oplossing. Maar je kunt de 3D product video ook laten verwerken in een [commercial](https://www.philenflo.nl/commercial-laten-maken/) en bijvoorbeeld inzetten als promovideo tijdens beurzen en evenementen. De mogelijkheden zijn eindeloos.
     displaymedia: youtube_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -92,7 +92,7 @@ blocks:
       ## Samen aan de slag met Phil & Flo
 
 
-      Creative Studio Phil & Flo realiseert niet alleen 3D productvideo’s, maar ons team denkt ook mee op welke wijze de video jouw marketingstrategie kan versterken. Wij begeleiden je dan ook stap voor stap in het videoproces om jouw beoogd doel te bereiken. Van videoscript tot het uiteindelijke resultaat: wij zorgen ervoor dat het product helder en realistisch in beeld wordt gebracht.
+      Creative Studio Phil & Flo realiseert niet alleen 3D productvideo’s, maar ons team denkt ook mee op welke wijze de video jouw marketingstrategie kan versterken. Wij begeleiden je dan ook stap voor stap in het videoproces om jouw beoogd doel te bereiken. Van [videoscript](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) tot het uiteindelijke resultaat: wij zorgen ervoor dat het product helder en realistisch in beeld wordt gebracht.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
