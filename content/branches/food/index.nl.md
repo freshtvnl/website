@@ -36,15 +36,6 @@ blocks:
       text: Neem direct contact op
       type: button
       color: green
-  - type: logoblock
-    title: Bewezen trackrecord
-    content: ""
-    logo_items:
-      - JDE
-      - HZPC
-      - MplusKASSA
-      - Becky's
-      - KG Systems
   - type: content_block
     align: right
     displaymedia: image
@@ -98,6 +89,15 @@ blocks:
 
 
       Phil & Flo stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime inzetbaar zijn. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
+  - type: logoblock
+    title: Bewezen trackrecord
+    content: ""
+    logo_items:
+      - JDE
+      - HZPC
+      - MplusKASSA
+      - Becky's
+      - KG Systems
   - type: selectedwork_block
     items:
       - Douwe Egberts - Cafitesse Commercial
