@@ -13,19 +13,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: >-
-      ## ***Wie zijn Phil & Flo***
-
-
-      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
     align: left
-    displaymedia: youtube_video
-    youtube:
-      id: 7TOmvPxRGC8
-  - type: content_block
-    video:
-      autoplay: true
-    align: right
     content: >-
       ## ***Wat ga je doen?***
 
@@ -37,7 +25,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## ***Bij Phil & Flo weet je zeker dat je:***
 
@@ -56,13 +44,13 @@ blocks:
 
       * Elke vrijdag vrij bent, om nog genoeg andere leuke dingen te kunnen ondernemen
     image:
-      source: images/feest.png
+      source: images/20220329_113017_online.jpg
     displaymedia: image
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
-    align: right
+    align: left
     content: >-
       ## ***Jij bent:***
 
@@ -89,6 +77,18 @@ blocks:
 
       * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## ***Wie zijn Phil & Flo***
+
+
+      Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
+    align: right
+    displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
   - type: content_block
     video:
       autoplay: true
