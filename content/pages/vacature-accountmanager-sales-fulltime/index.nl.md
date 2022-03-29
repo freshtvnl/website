@@ -13,11 +13,6 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: center
-    content: ""
-  - type: content_block
-    video:
-      autoplay: true
     content: >-
       ## ***Wie zijn Phil & Flo***
 
