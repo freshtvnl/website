@@ -90,5 +90,5 @@ seo:
   description: null
 menu:
   footer:
-    weight: 3
+    weight: 6
 ---
