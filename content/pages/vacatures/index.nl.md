@@ -54,5 +54,5 @@ seo:
     regio Groningen? Neem dan contact op met Phil & Flo via ons stageformulier!
 menu:
   footer:
-    weight: 8
+    weight: 6
 ---
