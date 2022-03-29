@@ -98,6 +98,11 @@ blocks:
 
 
       Ben jij enthousiast over bovenstaande functie? Wil jij ook graag werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
 seo:
   title: Vacature Accountmanager Sales | Fulltime | Phil & Flo
   description: Solliciteer nu de functie voor Accountmanager Sales. Lees hier meer
