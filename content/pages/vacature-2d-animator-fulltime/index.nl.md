@@ -44,7 +44,7 @@ blocks:
     align: right
     displaymedia: image
     image:
-      source: images/feest.png
+      source: images/20220329_113017_online.jpg
   - type: content_block
     video:
       autoplay: true
