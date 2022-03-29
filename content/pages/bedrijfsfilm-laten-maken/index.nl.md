@@ -193,7 +193,9 @@ blocks:
     title: Faq
 seo:
   title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
-  description: "Bedrijfsfilm laten maken? Ontdek hier de mogelijkheden. ✔ Uniek ✔
-    Gericht op de doelgroep ✔ Creatief ✔ Klantscore van 8.9 | Neem contact op
-    voor meer informatie. "
+  description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
+    en snel gerealiseerd
+menu:
+  footer:
+    weight: 1
 ---
