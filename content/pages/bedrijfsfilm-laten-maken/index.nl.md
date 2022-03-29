@@ -5,19 +5,35 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken***"
-    content: >-
-      #### Prachtige bedrijfsfilms voor organisaties met betekenis
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site. Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
-    displaymedia: custom_video
+    content: ""
+    displaymedia: null
     video:
-      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      source_mp4: ""
       autoplay: true
     align: left
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+    content: >-
+      #### Prachtige bedrijfsfilms voor ***organisaties met betekenis***
+
+
+      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
+    align: left
+    align_text: text-center
+    displaymedia: custom_video
+  - type: content_block
     align: left
     content: >-
+      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep
+      overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om
+      de aandacht te pakken, de toon te zetten en om een blijvende indruk achter
+      te laten. Is je doel om meer mensen op je site te converteren? Dan
+      produceren wij een video met het juiste verhaal, de optimale lengte en
+      voorzien van uitnodigende calls-to-action.
+
+
       ## Hoe maak je een goede bedrijfsfilm? 
 
 
@@ -119,6 +135,8 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+    video:
+      autoplay: false
   - type: content_block
     video:
       autoplay: true
