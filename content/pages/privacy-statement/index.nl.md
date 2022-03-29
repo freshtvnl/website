@@ -175,5 +175,5 @@ seo:
     vindbaar te worden voor onze klanten, lees hier wat we met de gegevens doen.
 menu:
   footer:
-    weight: 4
+    weight: 5
 ---
