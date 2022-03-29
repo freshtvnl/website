@@ -14,5 +14,5 @@ seo:
     animatie en film. Lees snel meer. "
 menu:
   footer:
-    weight: -5
+    weight: 1
 ---
