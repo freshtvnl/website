@@ -20,5 +20,5 @@ menu:
   main:
     weight: ""
   footer:
-    weight: 6
+    weight: ""
 ---
