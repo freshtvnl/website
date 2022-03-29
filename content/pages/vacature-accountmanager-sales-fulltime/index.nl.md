@@ -4,11 +4,17 @@ slug: vacature-accountmanager-sales
 draft: false
 color: green
 blocks:
+  - type: hero_block
+    align: left
+    video:
+      autoplay: true
+    content: ""
+    title: "***Vacature Accountmanager Sales*** Fulltime"
   - type: content_block
     video:
       autoplay: true
     align: center
-    content: "# Vacature Fulltime Accountmanager Sales"
+    content: ""
   - type: content_block
     video:
       autoplay: true
