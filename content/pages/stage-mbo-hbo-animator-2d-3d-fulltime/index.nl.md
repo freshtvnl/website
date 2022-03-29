@@ -73,7 +73,7 @@ blocks:
       * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
       * Lekkere lunch van de zaak op maandagen.
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
       alt: Team Phil & Flo
   - type: content_block
     video:
