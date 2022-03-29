@@ -14,7 +14,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
-    align: right
+    align: left
     content: >-
       ## Wat ga je doen?
 
@@ -41,7 +41,7 @@ blocks:
       * Elke maandag een lekkere lunch van de zaak krijgt
 
       * Elke vrijdag vrij bent, om nog genoeg andere leuke dingen te kunnen ondernemen
-    align: left
+    align: right
     displaymedia: image
     image:
       source: images/feest.png
@@ -61,14 +61,14 @@ blocks:
       * Maakt briljante en aansprekende animatiefilms
       * Houdt van werken binnen een gezellig en gedreven team met een missie
       * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
-    align: right
+    align: left
     displaymedia: image
     image:
       source: images/aron-inge.png
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Wie zijn Phil & Flo
 
