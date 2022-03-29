@@ -20,5 +20,5 @@ seo:
     of videomarketing. Phil & Flo verbeeld de wereld van morgen
 menu:
   footer:
-    weight: 2
+    weight: 3
 ---
