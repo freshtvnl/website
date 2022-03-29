@@ -10,40 +10,29 @@ blocks:
     video:
       source_mp4: ""
       autoplay: true
-    align: left
+    align: center
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
-    content: >-
-      #### Prachtige bedrijfsfilms voor ***organisaties met betekenis***
-
-
-      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team zet zich in om voor jou de mooiste film te maken waar je trots op kan zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
+    content: Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons
+      team zet zich in om voor jou de mooiste film te maken waar je trots op kan
+      zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
     align: left
     align_text: text-center
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      color: red
+      type: button
   - type: content_block
     align: left
     content: >-
-      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep
-      overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om
-      de aandacht te pakken, de toon te zetten en om een blijvende indruk achter
-      te laten. Is je doel om meer mensen op je site te converteren? Dan
-      produceren wij een video met het juiste verhaal, de optimale lengte en
-      voorzien van uitnodigende calls-to-action.
+      ## Prachtige bedrijfsfilms voor ***organisaties met betekenis***
 
 
-      ## Hoe maak je een goede bedrijfsfilm? 
-
-
-      Goede bedrijfsfilms beginnen met een creatieve sessie om alle ideeën op tafel te krijgen, gevolgd door een script waarop je feedback kan geven. Het script bepaalt onder meer wat er nodig is voor de bedrijfsfilm productie en dat regelen wij allemaal, van apparatuur tot voice-over en van een regisseur tot editor.
-
-
-      Is er een [drone](https://www.philenflo.nl/drone-video-laten-maken/) nodig om een bedrijfsfilm te maken? Dan zorgen wij voor een drone voor je bedrijfsfilm. Is er een voice-over nodig? Dan zorgen wij voor de ideale stem. Zo voorzien wij in alle belangrijke facetten die nodig zijn om een goede bedrijfsfilm te maken.
-
-
-      Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden. We houden de aandacht vast door emotie te verwerken in het verhaal. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
+      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
     displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
@@ -209,6 +198,25 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
     title: Faq
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    align_text: text-center
+    content: >-
+      ## Hoe maak je een goede ***bedrijfsfilm***? 
+
+
+      Goede bedrijfsfilms beginnen met een creatieve sessie om alle ideeën op tafel te krijgen, gevolgd door een script waarop je feedback kan geven. Het script bepaalt onder meer wat er nodig is voor de bedrijfsfilm productie en dat regelen wij allemaal, van apparatuur tot voice-over en van een regisseur tot editor.
+
+
+      Is er een [drone](https://www.philenflo.nl/drone-video-laten-maken/) nodig om een bedrijfsfilm te maken? Dan zorgen wij voor een drone voor je bedrijfsfilm. Is er een voice-over nodig? Dan zorgen wij voor de ideale stem. Zo voorzien wij in alle belangrijke facetten die nodig zijn om een goede bedrijfsfilm te maken.
+
+
+      Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden. We houden de aandacht vast door emotie te verwerken in het verhaal. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
+    displaymedia: image
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
 seo:
   title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
