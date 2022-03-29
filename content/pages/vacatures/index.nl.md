@@ -12,7 +12,7 @@ blocks:
       # ***Vacatures***
 
 
-      Wil jij werken in een gezellig en gedreven team? Je tijd en creativiteit alleen besteden aan maatschappelijk verantwoorde organisaties? Nooit langer dan van 9 tot 5 uur werken én elke vrijdag vrij zijn?
+      Wil jij werken in een gezellig en gedreven team? Je tijd en creativiteit alleen besteden aan maatschappelijk verantwoorde organisaties? Werken van 9 tot 17 uur én elke vrijdag vrij zijn?
 
 
       *Wie weet is één van onze vacatures iets voor jou:*
