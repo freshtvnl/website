@@ -5,11 +5,11 @@ weight: 1
 draft: false
 color: blue
 blocks:
-  - type: content_block
+  - type: hero_block
+    align: left
     video:
       autoplay: true
-    align: center
-    content: "# Vacature Fulltime 2D Animator"
+    title: "***Vacature 2D Animator*** Fulltime"
   - type: content_block
     video:
       autoplay: true
