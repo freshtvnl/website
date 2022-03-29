@@ -68,7 +68,7 @@ blocks:
     align: right
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
   - type: content_block
     video:
       autoplay: true
