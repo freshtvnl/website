@@ -82,5 +82,5 @@ menu:
   main:
     weight: 7
   footer:
-    weight: 7
+    weight: 12
 ---
