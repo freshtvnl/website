@@ -54,13 +54,6 @@ blocks:
       * Een zelfstandige en creatieve 2D Animator
       * Een pro in ADOBE After-Effects
       * Niet snel gestrest
-
-      ## ***En je:***
-
-      * Hebt een recent portfolio waaruit je animatie skills blijken
-      * Maakt briljante en aansprekende animatiefilms
-      * Houdt van werken binnen een gezellig en gedreven team met een missie
-      * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
     align: left
     displaymedia: image
     image:
@@ -68,7 +61,20 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
+    content: |-
+      ## ***En je:***
+
+      * Hebt een recent portfolio waaruit je animatie skills blijken
+      * Maakt briljante en aansprekende animatiefilms
+      * Houdt van werken binnen een gezellig en gedreven team met een missie
+      * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
     align: right
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
     content: >-
       ## Wie zijn Phil & Flo
 
