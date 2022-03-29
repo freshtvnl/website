@@ -52,4 +52,7 @@ seo:
   title: Werken bij video of animatie bedrijf - Phil & Flo Creative studio
   description: Werken bij een videoproductie bedrijf of animatie studio in de
     regio Groningen? Neem dan contact op met Phil & Flo via ons stageformulier!
+menu:
+  footer:
+    weight: 8
 ---
