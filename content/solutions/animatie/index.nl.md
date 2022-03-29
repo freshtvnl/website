@@ -97,7 +97,7 @@ blocks:
       ## Waarvoor kun je een ***animatie laten maken***?
 
 
-      De inzet van animatie is effectief voor allerlei doelen binnen marketing en communicatie. Een [explainer animatie](https://www.philenflo.nl/explainer-animatie/) legt je boodschap kort en duidelijk uit. De combinatie van beeld en geluid zorgt voor een sterke boodschap die blijft hangen. Met de juiste grafische elementen maak je processen, producten, en technieken inzichtelijk en begrijpelijk voor je doelgroep. Een [bedrijfsanimatie](https://www.philenflo.nl/bedrijfsanimatie-laten-maken/) is een verlengstuk van je merkidentiteit, met een bedrijfsanimatie straal je een gedegen, professionele organisatie uit. Daar komt nog eens bij dat de inzet van videocontent op je website je organische website een boost geeft, Google is namelijk dol op animatie en andere rijke content. Heb je een educatief doel? Dan is een [educatieve animatie](https://www.philenflo.nl/educatieve-animatiefilm-maken/) ook mogelijk.
+      De inzet van animatie is effectief voor allerlei doelen binnen marketing en communicatie. Een [explainer animatie](https://www.philenflo.nl/explainer-animatie/) legt je boodschap kort en duidelijk uit. De combinatie van beeld en geluid zorgt voor een sterke boodschap die blijft hangen. Met de juiste grafische elementen maak je processen, producten, en technieken inzichtelijk en begrijpelijk voor je doelgroep. Een [bedrijfsanimatie](https://www.philenflo.nl/bedrijfsanimatie/) is een verlengstuk van je merkidentiteit, met een bedrijfsanimatie straal je een gedegen, professionele organisatie uit. Daar komt nog eens bij dat de inzet van videocontent op je website je organische website een boost geeft, Google is namelijk dol op animatie en andere rijke content. Heb je een educatief doel? Dan is een [educatieve animatie](https://www.philenflo.nl/educatieve-animatiefilm-maken/) ook mogelijk.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
@@ -112,7 +112,7 @@ blocks:
       ## Animatie laten maken om ***meer op te vallen***
 
 
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. De creatieve ontwerpers van Phil & Flo kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. [De creatieve ontwerpers van Phil & Flo](https://www.philenflo.nl/over-ons/) kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
