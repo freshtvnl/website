@@ -65,5 +65,5 @@ seo:
     video en animatie.
 menu:
   footer:
-    weight: 6
+    weight: 8
 ---
