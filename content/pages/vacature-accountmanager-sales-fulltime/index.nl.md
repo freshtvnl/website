@@ -51,19 +51,18 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210324%20Boknet%203D%20animatie%20-%20Phil%20en%20Flo%20creative%20studio.mp4
     align: left
-    content: >-
+    content: |-
       ## ***Jij bent:***
 
-
       * Een commercieel talent
-
       * Communicatief en energiek
-
       * Een doorzetter (beetje cliché, we know)
-
-
-
-
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210325%20Boknet%202D%20kunst%20-%20Phil%20en%20Flo%202D%20animaties.mp4
+    content: >-
       ## ***En je:***
 
 
@@ -76,6 +75,7 @@ blocks:
       * Hebt een dosis overtuigingskracht
 
       * Beheerst de Nederlandse (en Engelse) taal goed in woord en schrift
+    align: right
     displaymedia: custom_video
   - type: content_block
     video:
@@ -85,7 +85,7 @@ blocks:
 
 
       Stel je eens de wereld van morgen voor… Vol schone lucht en schoon water. Waar alle kinderen naar school kunnen en waar elk mens toegang heeft tot de beste zorg. Omdat te bereiken zetten we onze creativiteit in voor de sectoren die in onze ogen het verschil gaan maken; Innovatieve Technologie, zorg, duurzame energie, onderwijs, goede doelen en fair food. Wat denk jij? Vertel het ons. Zodat we samen de stappen kunnen zetten die nu nodig zijn. Met onze creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen en handgebaren, nu met waanzinnige [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou vormen wij het beste en leukste team, voor een snelle transitie naar een mooie toekomst. ***Wij zijn Phil & Flo, wij verbeelden de wereld van morgen***.
-    align: right
+    align: left
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
