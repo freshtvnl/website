@@ -260,5 +260,5 @@ seo:
     Voor meer informatie neem contact op. "
 menu:
   footer:
-    weight: 2
+    weight: 4
 ---
