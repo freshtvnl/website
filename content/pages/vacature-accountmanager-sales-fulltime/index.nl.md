@@ -38,7 +38,7 @@ blocks:
 
       * Altijd ruimte hebt voor goede ideeën en wordt gewaardeerd voor je inzet
 
-      * Nooit overuren maakt, omdat je elke dag van 9 tot 5 uur werkt
+      * Nooit overuren maakt, omdat je elke dag van 9 tot 17 uur werkt
 
       * Elke maandag een lekkere lunch van de zaak krijgt
 
