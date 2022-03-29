@@ -214,5 +214,5 @@ seo:
     school tour. ✔ Klantscore 8.9  ✔ Origineel en professioneel
 menu:
   footer:
-    weight: 8
+    weight: 13
 ---
