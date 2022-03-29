@@ -25,7 +25,7 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## ***Bij Phil & Flo weet je zeker dat je:***
+      ## Bij ***Phil & Flo*** weet je zeker dat je:
 
 
       * Werkt in een gezellig en gedreven team
