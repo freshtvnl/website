@@ -36,18 +36,18 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
-  - type: selectedwork_block
-    items:
-      - Save The Children - Bordje Bij
-      - LCB Apotheek retour
-      - BOK - Artistieke 3D Commercial
-    more_items: true
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
       - Save the Children
       - Welcome App
       - BokNET
+  - type: selectedwork_block
+    items:
+      - Save The Children - Bordje Bij
+      - LCB Apotheek retour
+      - BOK - Artistieke 3D Commercial
+    more_items: true
 seo:
   title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo
   description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
