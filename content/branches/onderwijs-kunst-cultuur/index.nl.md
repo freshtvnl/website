@@ -32,14 +32,6 @@ blocks:
       text: Neem direct contact op
       type: button
       color: pink
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Hanze Hogeschool Groningen
-      - Noorderpoort
-      - EsMEI
-      - Maandag
-      - CSB Amsterdam
   - type: content_block
     content: >-
       ## ***Interactieve*** open dagen
@@ -102,6 +94,14 @@ blocks:
       text: Offerte ontvangen
       type: button
       color: pink
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Hanze Hogeschool Groningen
+      - Noorderpoort
+      - EsMEI
+      - Maandag
+      - CSB Amsterdam
   - type: selectedwork_block
     title: Succesverhalen
     items:
