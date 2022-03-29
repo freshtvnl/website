@@ -223,5 +223,5 @@ seo:
     en snel gerealiseerd
 menu:
   footer:
-    weight: 1
+    weight: 2
 ---
