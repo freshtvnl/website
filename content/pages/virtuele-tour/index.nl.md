@@ -25,6 +25,8 @@ blocks:
 
 
       Een virtuele tour is een digitale rondleiding. Deze online rondleiding vindt plaats in bijvoorbeeld een gebouw, school, bedrijf, fabriek of hotel. Je bekijkt virtueel alle ruimtes. Elke ruimte wordt vastgelegd met [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/) waardoor een hele wereld tot leven komt op het scherm. Zo kan een bezoeker overal ter wereld in elke ruimte rondlopen en kijken.
+    image:
+      source: images/rsgs-mag1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -145,6 +147,8 @@ blocks:
       Bezoekers trekken naar jouw stad, evenement of attractie kan met een 360 graden rondleiding. Laat zien wat jullie te bieden hebben. Een uitstapje doe je niet zomaar, dus je wilt weten wat de stad te bieden heeft. Laat met geweldige beelden zien wat jullie stad te bieden heeft. Van stadswandeling tot aan hotel, trek toeristen met een realistisch beeld en werk samen met lokale ondernemers.
     align: left
     align_text: text-left
+    image:
+      source: images/van-wijnen2.jpg
   - type: content_block
     video:
       autoplay: true
@@ -155,6 +159,8 @@ blocks:
       Een werknemer zoekt meer dan een salaris. Je besteedt meer tijd op je werk dan dat je thuis bent. Een goede werkomgeving en maak het extra leuk met interactiviteit. Misschien kunnen ze zelf een biertje tappen. Lees hier meer over [virtuele tours inzetten voor employer branding](https://www.philenflo.nl/virtuele-tour-employer-branding/).
     align: right
     align_text: text-left
+    image:
+      source: images/beter-bed3.png
   - type: content_block
     video:
       autoplay: true
@@ -165,6 +171,8 @@ blocks:
 
 
       De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een interactieve rondleiding in elk huis.
+    image:
+      source: images/lamberink1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -175,6 +183,8 @@ blocks:
 
 
       De strijd tussen sportscholen en sportclubs is groot. Je wilt natuurlijk de beste sporters aantrekken. Toon wat jouw sportschool of sportclub te bieden heeft dankzij een digitale rondleiding. Een sportieve interactieve video toont direct wat mensen mogen verwachten bij jou. Zo kun je sneller nieuwe sporters trekken.
+    image:
+      source: images/chipsoft3.jpg
   - type: content_block
     video:
       autoplay: true
@@ -185,6 +195,8 @@ blocks:
       De keuze voor een school is niet zomaar gemaakt. Je wilt het beste voor de kinderen en daarom is de keuze niet zomaar gemaakt. Een [virtuele tour door een schoo](https://www.philenflo.nl/virtuele-school-rondleiding/)l laat zien wat de school te bieden heeft. Laat zien aan toekomstige leerlingen wat de school te bieden heeft. Zo hoeft een toekomstige leerling niet tijdens een drukke open dag langs te komen, maar kan online de sfeer alvast proeven.
     align: left
     align_text: text-left
+    image:
+      source: images/hsl1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -195,6 +207,8 @@ blocks:
       De horeca groeit, er komen steeds meer mogelijkheden bij om uiteten te gaan. Maar hoe onderscheid jij jezelf? Dat kan met een smakelijke online tour door het restaurant. Toon de ambiance waarvan jouw gasten mogen genieten. Geef een voorproefje in de keuken, laat geweldige gerechten zien en uiteraard de gastheren en gastvrouwen. Zo geef jij een kijkje in de keuken en trek je gemakkelijk meer gasten.
     align: right
     align_text: text-left
+    image:
+      source: images/sunita1.jpg
   - type: contact_block
     contacts:
       - victor
