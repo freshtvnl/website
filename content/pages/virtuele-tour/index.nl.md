@@ -153,6 +153,7 @@ blocks:
     align_text: text-left
     image:
       source: images/van-wijnen2.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
