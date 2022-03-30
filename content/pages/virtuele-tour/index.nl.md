@@ -37,7 +37,7 @@ blocks:
       ## ***Voor wie*** is deze digitale rondleiding geschikt?
 
 
-      Een digitale rondleiding is geschikt voor vrijwel elke branche. Een virtuele rondleiding kan plaatsvinden in een hotel, school, brouwerij, makelaardij, maar ook ingezet worden voor toerisme. Laat mensen over ter wereld zien wat jij te bieden hebt. Met behulp van *[video](https://www.philenflo.nl/oplossingen/video-laten-maken/)*, foto, *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)* en *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
+      Een digitale rondleiding is geschikt voor vrijwel elke branche. Een virtuele rondleiding kan plaatsvinden in een hotel, school, brouwerij, makelaardij, maar ook ingezet worden voor toerisme. Laat mensen over ter wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
   - type: content_block
     video:
       autoplay: true
@@ -51,7 +51,7 @@ blocks:
 
       \
 
-      Die unieke ervaring voor elke kijker wordt gerealiseerd aan de hand van jouw doelen en doelgroep. Maak bijvoorbeeld de tour interactief. Een *[interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)* laat de kijker actief mee doen in de video. Zo beleven ze meer dan alleen een rondleiding, maar kunnen echt meedoen.
+      Die unieke ervaring voor elke kijker wordt gerealiseerd aan de hand van jouw doelen en doelgroep. Maak bijvoorbeeld de tour interactief. Een [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/) laat de kijker actief mee doen in de video. Zo beleven ze meer dan alleen een rondleiding, maar kunnen echt meedoen.
   - type: content_block
     video:
       autoplay: true
@@ -63,7 +63,7 @@ blocks:
 
       \
 
-      Je krijgt een eigen projectmanager. Met dit vaste aanspreekpunt loop je alle stappen door, van de creatieve sessie tot aan het daadwerkelijk maken van de tour. Wanneer de beelden zijn genomen, wordt er eerst een ruwe opzet opgestuurd. Vanuit daar wordt een definitieve versie gemaakt. Bekijk het *[portfolio](https://www.philenflo.nl/portfolio/)* voor mooie voorbeelden.
+      Je krijgt een eigen projectmanager. Met dit vaste aanspreekpunt loop je alle stappen door, van de creatieve sessie tot aan het daadwerkelijk maken van de tour. Wanneer de beelden zijn genomen, wordt er eerst een ruwe opzet opgestuurd. Vanuit daar wordt een definitieve versie gemaakt. Bekijk het [portfolio](https://www.philenflo.nl/portfolio/) voor mooie voorbeelden.
     align: right
     align_text: text-left
   - type: content_block
@@ -89,7 +89,7 @@ blocks:
       ## ***Voorbeelden*** van een virtuele tour
 
 
-      Een virtuele tour maak je niet zomaar. Het kost tijd en energie en het moet wel een duidelijk doel hebben. Daarom is het belangrijk om van tevoren goed te bespreken wat de mogelijkheden zijn en wat jouw doelen zijn. Zo wordt er een concept gemaakt dat aansluiten op jouw doelen, maar ook geschikt is voor jouw doelgroep. Bekijk zeker eens onze virtuele tour van *[CBS amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/)*. Een mooi voorbeeld hoe een virtuele tour interactief is, maar zeker ook aantrekkelijk en informatief.
+      Een virtuele tour maak je niet zomaar. Het kost tijd en energie en het moet wel een duidelijk doel hebben. Daarom is het belangrijk om van tevoren goed te bespreken wat de mogelijkheden zijn en wat jouw doelen zijn. Zo wordt er een concept gemaakt dat aansluiten op jouw doelen, maar ook geschikt is voor jouw doelgroep. Bekijk zeker eens onze virtuele tour van [CBS amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Een mooi voorbeeld hoe een virtuele tour interactief is, maar zeker ook aantrekkelijk en informatief.
     displaymedia: image
     image:
       source: images/hsc1.jpg
@@ -121,6 +121,8 @@ blocks:
     cta:
       url: https://www.philenflo.nl/contact/
       text: "Neem contact op "
+      type: button
+      color: yellow
   - type: content_block
     video:
       autoplay: true
