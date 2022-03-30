@@ -27,6 +27,7 @@ blocks:
       Een virtuele tour is een digitale rondleiding. Deze online rondleiding vindt plaats in bijvoorbeeld een gebouw, school, bedrijf, fabriek of hotel. Je bekijkt virtueel alle ruimtes. Elke ruimte wordt vastgelegd met [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/) waardoor een hele wereld tot leven komt op het scherm. Zo kan een bezoeker overal ter wereld in elke ruimte rondlopen en kijken.
     image:
       source: images/rsgs-mag1.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -89,6 +90,9 @@ blocks:
 
 
       Een virtuele tour maak je niet zomaar. Het kost tijd en energie en het moet wel een duidelijk doel hebben. Daarom is het belangrijk om van tevoren goed te bespreken wat de mogelijkheden zijn en wat jouw doelen zijn. Zo wordt er een concept gemaakt dat aansluiten op jouw doelen, maar ook geschikt is voor jouw doelgroep. Bekijk zeker eens onze virtuele tour van *[CBS amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/)*. Een mooi voorbeeld hoe een virtuele tour interactief is, maar zeker ook aantrekkelijk en informatief.
+    displaymedia: image
+    image:
+      source: images/hsc1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -161,6 +165,7 @@ blocks:
     align_text: text-left
     image:
       source: images/beter-bed3.png
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -173,6 +178,7 @@ blocks:
       De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een interactieve rondleiding in elk huis.
     image:
       source: images/lamberink1.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -185,6 +191,7 @@ blocks:
       De strijd tussen sportscholen en sportclubs is groot. Je wilt natuurlijk de beste sporters aantrekken. Toon wat jouw sportschool of sportclub te bieden heeft dankzij een digitale rondleiding. Een sportieve interactieve video toont direct wat mensen mogen verwachten bij jou. Zo kun je sneller nieuwe sporters trekken.
     image:
       source: images/chipsoft3.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -197,6 +204,7 @@ blocks:
     align_text: text-left
     image:
       source: images/hsl1.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
@@ -209,6 +217,7 @@ blocks:
     align_text: text-left
     image:
       source: images/sunita1.jpg
+    displaymedia: image
   - type: contact_block
     contacts:
       - victor
