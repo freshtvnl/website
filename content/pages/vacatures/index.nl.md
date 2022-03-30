@@ -18,9 +18,9 @@ blocks:
       *Wie weet is één van onze vacatures iets voor jou:*
 
 
-      * [2D Animator](https://www.philenflo.nl/vacature-2d-animator) (fulltime)
+      * [2D Animator](https://www.philenflo.nl/vacature-2d-animator/) (fulltime)
 
-      * [Accountmanger Sales](https://www.philenflo.nl/vacature-accountmanager-sales) (fulltime)
+      * [Accountmanager Sales](https://www.philenflo.nl/vacature-accountmanager-sales/) (fulltime)
     displaymedia: custom_video
   - type: content_block
     video:
