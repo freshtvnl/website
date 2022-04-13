@@ -22,6 +22,11 @@ blocks:
       creatieve team.
     align: left
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      color: yellow
+      text: Meer informatie
+      type: button
   - type: content_block
     video:
       autoplay: true
