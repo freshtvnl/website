@@ -140,7 +140,7 @@ blocks:
       Met een enkele video is de kans vrij klein dat je hoog in de zoekresultaten zal belanden, maar met meerdere video’s die naar elkaar verwijzen of op elkaar aansluiten, wordt dat een heel ander verhaal. Vraag onze specialisten naar de mogelijkheden van 3D animatie en het online verspreiden hier van!
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_def.jpg
   - type: content_block
     align: left
     content: >-
@@ -150,7 +150,7 @@ blocks:
       Ben jij ook klaar voor dé praktische manier om complexe informatie over te brengen? Bel ons vrijblijvend voor verfrissende inzichten en laat je eigen 3D animatie ontwikkelen! Of informeer eens naar de mogelijkheden van andere vormen videomarketing zoals [2D animaties](https://www.philenflo.nl/2d-animatie/) of een [employer branding video](https://www.philenflo.nl/oplossingen/employer-branding/).
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/peter-suzan-kopie.jpg
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
@@ -171,14 +171,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Energy-Towers-MP4-1.mp4
+      source_mp4: https://video.philenflo.nl/video/energy-3d-animatie-Phil-en-flo.mp4
     content: >-
       ## **Wat kost een 3D animatie?**
 
 
       De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
     form: ""
-    align: center
+    align: right
     displaymedia: custom_video
   - type: contact_block
     contacts:
