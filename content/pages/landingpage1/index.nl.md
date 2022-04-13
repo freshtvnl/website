@@ -5,16 +5,23 @@ draft: false
 blocks:
   - type: hero_block
     title: "***3D animatie laten maken***"
-    content: Wil jij een 3D animatie laten maken voor je product of dienst? Dat is
-      echt een toffe manier om de aandacht van de doelgroep te trekken. Een 3D
-      animatie laten maken is natuurlijk de enige manier om ingewikkelde
-      producten bijvoorbeeld van binnen te laten zien. Laat je verrassen door
-      ons creatieve team.
-    displaymedia: custom_video
+    content: ""
+    displaymedia: null
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+      source_mp4: ""
       source_webm: ""
       autoplay: true
+    align: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
+    content: Wil jij een 3D animatie laten maken voor je product of dienst? Een 3D
+      animatie laten maken is een prachtige manier om ingewikkelde producten of
+      diensten in de juiste context te zien. Laat je verrassen door ons
+      creatieve team.
+    align: left
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
@@ -143,6 +150,8 @@ blocks:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+    video:
+      autoplay: false
   - type: content_block
     video:
       autoplay: true
