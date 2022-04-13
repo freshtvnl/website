@@ -41,14 +41,12 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Xaam-MP-1.mp4
-    content: Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier
-      over te brengen. De kansen die dit biedt voor bedrijven en organisaties
-      zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en
-      in beweging zetten. Dit biedt mogelijkheden op het gebied van
-      productuitleg, productpromotie, en -marketing. Met een animatiefilm weet
-      je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe
-      technieken en producten inzichtelijk maakt.
+      source_mp4: https://video.philenflo.nl/video/Solarroof-3d-animatie-Phil-en-Flo.mp4
+    content: >-
+      ## ***3D animatie als marketingmiddel***
+
+
+      Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier over te brengen. De kansen die dit biedt voor bedrijven en organisaties zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en in beweging zetten. Dit biedt mogelijkheden op het gebied van productuitleg, productpromotie, en -marketing. Met een animatiefilm weet je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe technieken en producten inzichtelijk maakt.
     align: right
     cta:
       type: button
