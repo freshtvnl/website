@@ -13,12 +13,26 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-laten-maken-voor-de-zorg.mp4
-    title: NetwerkZ - ***2D Animatie voor zorgvragers***
+    title: NetwerkZ - ***2D Animatie voor de zorg***
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: false
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg.mp4
+    align: center
+    align_text: text-center
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: false
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg.mp4
+    align: center
+    align_text: text-center
     displaymedia: custom_video
 seo:
   title: 2D animatie voor NetwerkZ | Phil & Flo
   description: 2D animatie voor NetwerkZ | Een animatie over het snel vinden van
-    een zorgverlener. | Neem contact op voor meer informatie over een 2D
-    Animatie laten maken
+    zorgorganisaties, zorgvragers en zorgverlener. | Neem contact op voor meer
+    informatie over een 2D Animatie laten maken
   image: ""
 ---
