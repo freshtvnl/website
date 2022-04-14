@@ -1,7 +1,7 @@
 ---
 title: NetwerkZ - 2D Animatie
 slug: NetwerkZ-zorg-2D-animatie
-draft: true
+draft: false
 image:
   source: images/thumbnail-netwerkz-2d-animatie-zorgvragers-phil-en-flo.png
 content_type: portfolio
