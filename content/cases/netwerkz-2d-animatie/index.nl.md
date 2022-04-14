@@ -2,6 +2,8 @@
 title: NetwerkZ - 2D Animatie
 slug: NetwerkZ-zorg-2D-animatie
 draft: true
+image:
+  source: images/thumbnail-netwerkz-2d-animatie-zorgvragers-phil-en-flo.png
 content_type: portfolio
 color: pink
 branch: zorg-pharma
@@ -18,5 +20,5 @@ seo:
   description: 2D animatie voor NetwerkZ | Een animatie over het snel vinden van
     een zorgverlener. | Neem contact op voor meer informatie over een 2D
     Animatie laten maken
-  image: images/thumbnail-netwerkz-2d-animatie-zorgvragers-phil-en-flo.png
+  image: ""
 ---
