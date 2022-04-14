@@ -3,7 +3,7 @@ title: NetwerkZ - 2D Animatie
 slug: NetwerkZ-zorg-2D-animatie
 draft: false
 image:
-  source: images/thumbnail-netwerkz-2d-animatie-zorgvragers-phil-en-flo.png
+  source: images/thumbnail-netwerkz-2d-animatie-zorgvragers-phil-en-flo-1-1.png
 content_type: portfolio
 color: pink
 branch: zorg-pharma
