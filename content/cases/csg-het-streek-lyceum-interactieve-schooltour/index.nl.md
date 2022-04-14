@@ -1,5 +1,5 @@
 ---
-title: CSG Het Streek Lyceum - Interactieve Schooltour
+title: CSG Het Streek Lyceum - Interactieve schooltour
 slug: CSG-het-streek-lyceum-interactieve-tour
 draft: false
 image:
