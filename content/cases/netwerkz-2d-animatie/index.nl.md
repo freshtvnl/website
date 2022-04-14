@@ -20,16 +20,16 @@ blocks:
     video:
       autoplay: false
       source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg.mp4
-    align: center
-    align_text: text-center
+    align: left
+    align_text: text-left
     displaymedia: custom_video
     content: "## 2D animatie voor ***zorgverleners***."
   - type: content_block
     video:
       autoplay: false
       source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg.mp4
-    align: center
-    align_text: text-center
+    align: left
+    align_text: text-left
     displaymedia: custom_video
     content: "## 2D animatie voor ***zorg organisaties***."
 seo:
