@@ -121,5 +121,5 @@ seo:
   title: Animatiebedrijf Amsterdam | Phil & Flo Creative studio
   description: Animatiebedrijf in Amsterdam Phil & Flo | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
-    innovatief | Neem contact op
+    innovatief
 ---
