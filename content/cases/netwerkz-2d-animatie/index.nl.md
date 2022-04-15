@@ -36,6 +36,6 @@ seo:
   title: 2D animatie voor NetwerkZ | Phil & Flo
   description: 2D animatie voor NetwerkZ | Een animatie over het snel vinden van
     zorgorganisaties, zorgvragers en zorgverlener. | Neem contact op voor meer
-    informatie over een 2D Animatie laten maken
+    informatie.
   image: ""
 ---
