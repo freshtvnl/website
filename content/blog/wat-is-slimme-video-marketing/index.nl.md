@@ -7,8 +7,7 @@ image:
 date: 2021-08-16T08:01:30.146Z
 color: red
 seo:
-  title: "Wat is slimme video marketing? | Phil & Flo verbeelden de wereld van
-    morgen "
+  title: "Wat is slimme video marketing? | Phil & Flo "
   description: "Wat is slimme video marketing? Lees hier de 10 aandachtspunten
     voor de beste strategie. Phil & Flo helpt jou met de beste video's. "
 ---
@@ -55,7 +54,7 @@ Welk percentage mensen herinnert zich na het bekijken van de video waar de video
 
 ## Analytics, realtime-feedback en aanpassingen
 
-Hoe ga je het succes van je video(‘s) en campagne meten? Stel voor jezelf doelstellingen en verzin manieren om je succes te meten. Bijvoorbeeld door nieuwe klanten te vragen hoe ze in aanraking zijn gekomen met jouw merk, product of dienst. Pas op basis van deze informatie je campagne aan waar nodig. Gestructureerd informatie vergaren en analyseren is van belang om doelkrachtig keuzes te kunnen maken over de inzet van video in je marketing mix.
+Hoe ga je het succes van je video(‘s) en campagne meten? Stel voor jezelf doelstellingen en verzin manieren om je succes te meten. Bijvoorbeeld door nieuwe klanten te vragen hoe ze in aanraking zijn gekomen met jouw merk, product of dienst. Pas op basis van deze informatie je campagne aan waar nodig. Gestructureerd informatie vergaren en analyseren is van belang om doelkrachtig keuzes te kunnen maken over de inzet van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) in je marketing mix.
 
 ![data gestuurde marketing](images/creatieve-marketing-blog.jpg)
 
