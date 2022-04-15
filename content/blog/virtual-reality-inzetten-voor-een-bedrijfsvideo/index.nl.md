@@ -35,7 +35,7 @@ Augmented reality (AR) is een variant op virtual reality. Augmented reality is h
 
 ### Virtual reality
 
-De vorm waar we hier op focussen is de volledig virtuele ervaring. Met een VR-bril op waan jezelf in een kunstmatige 3d-werkelijkheid. Die kan er realistisch uitzien of opgebouwd zijn als een geanimeerde fantasie wereld. Doordat de bril alle bewegingen registreert kun je 360 graden om je heen kijken en ben je vrij om in alle richtingen te bewegen. Zo ervaar je de 3d-omgeving als echt en kun je er ook aan deelnemen.
+De vorm waar we hier op focussen is de volledig virtuele ervaring. Met een VR-bril op waan jezelf in een kunstmatige 3d-werkelijkheid. Die kan er realistisch uitzien of opgebouwd zijn als een geanimeerde fantasie wereld. Doordat de bril alle bewegingen registreert, kun je 360 graden om je heen kijken en ben je vrij om in alle richtingen te bewegen. Zo ervaar je de 3D-omgeving als echt en kun je er ook aan deelnemen.
 
 ![Wat is VR blog](images/gay-couple-playing-video-games-with-vr-glasses-eja59se.jpg)
 
@@ -53,7 +53,7 @@ Hier zijn een paar voorbeelden van toepassingen van virtual reality die interess
 
 Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. 
 
-Virtuele tours en 360 graden video's worden ook veel gebruikt door makelaars en architecten. Denk dan aan de 360 tours in Funda en aan rondleidingen in een nog te bouwen huis of bedrijfspand.
+[Virtuele tours](https://www.philenflo.nl/virtuele-tour/) en 360 graden video's worden ook veel gebruikt door makelaars en architecten. Denk dan aan de 360 tours in Funda en aan rondleidingen in een nog te bouwen huis of bedrijfspand.
 
 ### Productpresentatie en visualisaties
 
