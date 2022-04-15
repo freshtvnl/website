@@ -7,29 +7,29 @@ image:
 date: 2021-09-08T07:51:57.472Z
 color: pink
 seo:
-  title: "Hoe zet je videomarkting in? | Phil & Flo verbeelden de wereld van morgen "
+  title: Hoe zet je videomarkting in? | Phil & Flo
   description: Hoe zet je video marketing? In dit artikel leggen wij je uit hoe
     videomarketing effectief inzet. Lees hier meer of neem contact op.
 ---
-Video content als onderdeel van een marketing strategie? Niets nieuws onder de zon. Wat wel nieuw is, is de centrale plek die video anno 2021 inneemt binnen de marketing aanpak van veel bedrijven.
+Video content als onderdeel van een marketing strategie? Niets nieuws onder de zon. Wat wel nieuw is, is de centrale plek die video anno 2022 inneemt binnen de marketing aanpak van veel bedrijven.
 
 Dit komt onder andere door de opkomst van allerlei tools waarmee het voor iedereen makkelijk is om video's te bewerken, betere camera's en door de constante evolutie van social media. Naast de groei van video only platforms, maken andere bedrijven zoals Facebook en Instagram ook langzaam de transitie naar een video first aanpak.
 
 Laten we eerst eens kijken naar de cijfers. 
 
-Content in de vorm van video wordt meer dan 10x zoveel gedeeld als tekst en afbeeldingen. E-mails met 'video' in de subject line van worden 19% meer geopend. De gemiddelde persoon kijkt ongeveer 16 uur video per week en 90% van de mensen zoekt naar video content voordat ze over gaan tot een aankoop.
+Content in de vorm van video wordt meer dan 10 x zoveel gedeeld als tekst en afbeeldingen. E-mails met 'video' in de subject line van worden 19% meer geopend. De gemiddelde persoon kijkt ongeveer 16 uur video per week en 90% van de mensen zoekt naar video content voordat ze over gaan tot een aankoop.
 
 Daarnaast geeft een steeds groter gedeelte van de mensen ook aan dat video content de voorkeur heeft boven geschreven teksten en afbeeldingen. En in vergelijking met een geschreven tekst blijft informatie ook veel beter hangen. Meer dan 95% van een video wordt onthouden, terwijl mensen bij een geschreven tekst gemiddeld maar 10% van de essentie van een tekst kunnen reproduceren. 
 
 Als klap op de vuurpijl: Meer dan 82% van alle online traffic wereldwijd wordt veroorzaakt door het bekijken van video.
 
-Maar het kan uitdagend zijn om ermee te beginnen. Want ook al leven we in een tijd waarin iedereen de beschikking heeft over een smartphone met goede camera en moderne productiemogelijkheden, dat betekent nog niet dat het eenvoudig is om goede video's te maken.
+Maar videomarketing kan uitdagend zijn om ermee te beginnen. Want ook al leven we in een tijd waarin iedereen de beschikking heeft over een smartphone met goede camera en moderne productiemogelijkheden, dat betekent nog niet dat het eenvoudig is om goede video's te maken.
 
 Hoe je het wel aanpakt? In dit artikel leggen we de basics uit.
 
 ## Beginnen met videomarketing
 
-Het belangrijkste is goede video content. Alleen voordat je dit kunt maken is wat voorwerk nodig. Zoals bij elke vorm van marketing is een goed plan het halve werk. Ook is een video maken natuurlijk niet een doel op zich maar in de meeste gevallen onderdeel van een grotere bedrijfsstrategie.
+Het belangrijkste is goede video content. Alleen voordat je dit kunt maken is wat voorwerk nodig. Zoals bij elke vorm van marketing is een goed plan het halve werk. Ook is een [video maken](https://www.philenflo.nl/oplossingen/video-laten-maken/) natuurlijk niet een doel op zich maar in de meeste gevallen onderdeel van een grotere bedrijfsstrategie.
 
 ![beginnen met video marketing blog](images/laura1.jpg)
 
@@ -75,7 +75,7 @@ Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal 
 
 •	[Explanimations](https://www.philenflo.nl/explanimation-laten-maken/).
 
-•	Educatieve video.
+•	Educatieve video of [interactieve schooltours](https://www.philenflo.nl/virtuele-school-rondleiding/).
 
 •	[Employer branding](https://www.philenflo.nl/oplossingen/employer-branding/).
 
@@ -87,7 +87,7 @@ Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal 
 
 •	[360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/).
 
-•	Live video
+•	[Virtuele tours](https://www.philenflo.nl/virtuele-tour/).
 
 •	Vlogs
 
@@ -99,9 +99,11 @@ Er zijn meerdere soorten video content waarmee je iets kunt gaan doen. Allemaal 
 
 •	[Animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
 
+
+
 ![soorten video's blog](images/pharmerit-thumbnail-interactieve-zorg-film-philenflo.jpg)
 
-### Maken van video content 
+### Maken van video content
 
 Dan komt het leukste (vinden wij). Het maken van de content. Dit kun je prima zelf doen, maar ook uitbesteden aan experts. 
 
@@ -127,7 +129,7 @@ Om de kansen op succes te maximaliseren is het zinvol om zowel organische als be
 
 ![Promotievideo blog](images/210325-alex-thumbnail-v1.png)
 
-#### Succes meten van de video 
+#### Succes meten van de video
 
 Als je video viral gaat is het natuurlijk duidelijk dat de video een succes is. Maar als desondanks de sales uitblijven en dat was wel de bedoeling, dan niet. Ook kan het zo zijn dat video's slecht bekeken worden maar de campagne als geheel succesvol was. KPI's helpen hierbij. Belangrijke KPI's zijn bijvoorbeeld:
 
@@ -147,7 +149,7 @@ Belangrijk hierbij: Houd het realistisch.
 
 ## Meer weten over video marketing?
 
-We hopen je hiermee op weg te hebben geholpen met [video marketing](https://www.philenflo.nl/oplossingen/videomarketing/). Benieuwd naar hoe wij het aanpakken? Laat je gegevens achter en we nemen zo snel mogelijk contact met je op. Check ook voorbeelden van werk waar we trots op zijn.
+We hopen je hiermee op weg te hebben geholpen met [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Benieuwd naar hoe wij het aanpakken? Laat je gegevens achter en we nemen zo snel mogelijk contact met je op. Check ook voorbeelden van werk waar we trots op zijn.
 
 *https://explain.ninja/blog/20-video-marketing-statistics-2020/
 https://thriveagency.com/news/video-marketing-statistics-you-should-know-in-2021/
