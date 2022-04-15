@@ -100,5 +100,5 @@ seo:
   title: Infomercial HZPC Sunita - Phil & Flo Videomarketing
   description: "Infomercial HZPC Sunita: met trots presenteert Phil & Flo
     Videomarketing deze geslaagde videoproductie. Ontdek de totstandkoming van
-    dit interessante project!"
+    dit project!"
 ---
