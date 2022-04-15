@@ -32,8 +32,7 @@ blocks:
     image:
       source: images/inge-bank.jpg
 seo:
-  title: "Videomarketing uitbesteden | Phil & Flo | Wij verbeelden de wereld van
-    morgen "
+  title: "Videomarketing uitbesteden | Phil & Flo "
   description: Videomarketing - Vertel verhalen waarin de kijker zich herkent. ✔
     Opvallend ✔ Creatief ✔ 8,9 klantscore
 ---
