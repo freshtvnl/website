@@ -110,8 +110,8 @@ blocks:
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
 seo:
-  title: Video en animatie oplossingen voor het onderwijs | Virtuele open dag |
-    Interactieve schooltour
+  title: "Video, animatie en virtuele tours voor het onderwijs en de kunst sector
+    | Phil & Flo "
   description: Verbeeld met animatie, interactieve film, virtual reality jouw
     wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
     unieke video's.
