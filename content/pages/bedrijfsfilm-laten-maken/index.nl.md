@@ -183,21 +183,6 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
-  - type: selectedfaqs_block
-    items:
-      - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
-      - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
-      - wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm
-      - hoe-maken-jullie-bedrijfsfilms
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
-      - wat-is-de-productietijd-van-een-bedrijfsvideo
-      - hebben-jullie-voorbeelden-van-bedrijfsfilms
-      - met-hoeveel-mensen-komen-jullie-filmen
-      - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
-      - is-het-ook-mogelijk-om-te-filmen-met-een-drone
-      - welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
-    title: Faq
   - type: content_block
     video:
       autoplay: true
@@ -217,6 +202,21 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+  - type: selectedfaqs_block
+    items:
+      - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
+      - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
+      - wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm
+      - hoe-maken-jullie-bedrijfsfilms
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
+      - wat-is-de-productietijd-van-een-bedrijfsvideo
+      - hebben-jullie-voorbeelden-van-bedrijfsfilms
+      - met-hoeveel-mensen-komen-jullie-filmen
+      - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone
+      - welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
+    title: Faq
 seo:
   title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
