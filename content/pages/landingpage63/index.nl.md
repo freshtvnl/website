@@ -84,7 +84,7 @@ blocks:
       - animatiefilm-over-biogas
 seo:
   title: Animatie maken Rotterdam | Phil & Flo Videomarketing
-  description: Animatie laten maken in Rotterdam doe je bij Phil & Flo | ✔
+  description: "Animatie laten maken in Rotterdam doe je bij Phil & Flo | ✔
     Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
-    Creatief, interactief & innovatief | Neem contact op
+    Creatief, interactief & innovatief "
 ---
