@@ -90,7 +90,7 @@ blocks:
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-instructie-video
 seo:
   title: Instructiefilm laten maken |  Phil & Flo Creative studio
-  description: Instructiefilm laten maken | Stap voor stap in beeld hoe jouw
+  description: "Instructiefilm laten maken | Stap voor stap in beeld hoe jouw
     product/dienst werkt ✔ Onderscheidende content ✔ Datagedreven ✔ Klantscore
-    8.9 | Neem contact op
+    8.9 "
 ---
