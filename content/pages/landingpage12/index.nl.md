@@ -38,7 +38,7 @@ blocks:
       ### Je bedrijfsfilm in Groningen ***effectief*** inzetten
 
 
-      Met een professionele bedrijfsfilm ben je een heel eind, maar nog niet klaar. Want hoe zorg je ervoor dat mensen je film ook zien? Bij Phil & Flo hebben we veel ervaring met het succesvol inzetten van video’s in online marketingcampagnes. Van traditionele ad campaigns op websites tot social media, met ons wordt je video zeker gezien. Interesse? Je bent niet de enige, met ruim 200 klanten in heel Nederland zijn we populair door onze kennis en ervaring! Kom langs op ons kantoor in Groningen en ontdek wat je anders had laten liggen.
+      Met een professionele [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) ben je een heel eind, maar nog niet klaar. Want hoe zorg je ervoor dat mensen je film ook zien? Bij Phil & Flo hebben we veel ervaring met het succesvol inzetten van video’s in online marketingcampagnes. Van traditionele ad campaigns op websites tot social media, met ons wordt je video zeker gezien. Interesse? Je bent niet de enige, met ruim 200 klanten in heel Nederland zijn we populair door onze kennis en ervaring! Kom langs op ons kantoor in Groningen en ontdek wat je anders had laten liggen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
