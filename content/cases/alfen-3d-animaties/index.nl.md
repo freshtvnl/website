@@ -90,8 +90,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: "Alfen, smart charging network in beeld gebracht met 3D animatie van Phil
-    en Flo. "
+  title: "Alfen, smart charging network in beeld gebracht met 3D animatie "
   description: Alfen, smart charging network in beeld gebracht met 3D animatie van
     Phil en Flo. 3D animatie laten maken voor de duurzame energie sector
   image: images/alfen-smart-charging-network-beauty.jpg
