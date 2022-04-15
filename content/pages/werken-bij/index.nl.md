@@ -60,7 +60,7 @@ blocks:
       **Interesse? Laat je gegevens achter dan maken we snel een afspraak!**
     align: center
 seo:
-  title: Werken bij video, marketing en animatie studio - Phil & Flo Videomarketing
+  title: "Werken bij video, marketing en animatie studio Phil & Flo "
   description: "Werken bij een tof videomarketing bureau? Check onze vacatures!
     Neem contact op voor meer informatie. "
 ---
