@@ -208,10 +208,9 @@ blocks:
       - noorderpoort
       - park-lyceum
 seo:
-  title: Virtuele rondleiding school laten maken - Interactieve school tour | Phil
-    & Flo
-  description: Virtuele rondleiding laten maken voor jouw school. Interactieve
-    school tour. ✔ Klantscore 8.9  ✔ Origineel en professioneel
+  title: Virtuele Interactieve school tour laten maken | Phil & Flo
+  description: Virtuele interactieve tour laten maken voor jouw school. ✔
+    Klantscore 8.9  ✔ Origineel en professioneel ✔ Op maat | Neem contact op
 menu:
   footer:
     weight: 13
