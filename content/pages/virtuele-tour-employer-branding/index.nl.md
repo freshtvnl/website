@@ -73,8 +73,7 @@ blocks:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag je offerte aan
 seo:
-  title: Virtuele tour voor Employer branding | Phil & Flo | Wij verbeelden de
-    wereld van morgen
+  title: "Virtuele tour voor Employer branding | Phil & Flo "
   description: Virtuele tour voor employer branding laten maken door Phil & Flo.
     Wij verbeelden het. ✔ Klantscore 8.9 ✔  Origineel en uniek  ✔ Professioneel
 menu:
