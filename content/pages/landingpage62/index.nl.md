@@ -99,7 +99,7 @@ blocks:
       - animatiefilm-over-biogas
 seo:
   title: Animatie film laten maken in Eindhoven | Phil & Flo Videomarketing
-  description: Animatie film laten maken in Eindhoven door Phil & Flo | ✔
-    Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
-    Creatief, interactief & innovatief | Neem contact op
+  description: Animatie film laten maken in Eindhoven | ✔ Klantscore 8.9 ✔
+    Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Interactief &
+    innovatief | Neem contact op
 ---
