@@ -7,8 +7,7 @@ image:
 date: 2021-08-30T14:12:12.423Z
 color: yellow
 seo:
-  title: Manieren om een explanimation in te zetten | Phil & Flo verbeelden de
-    wereld van morgen
+  title: "Manieren om een explanimation in te zetten | Phil & Flo "
   description: "Manieren om een explanimation in te zetten. Ontdek hier hoe een
     animation jou kan helpen binnen jouw organisatie of bedrijf. "
 ---
