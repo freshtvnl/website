@@ -17,6 +17,7 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     displaymedia: iframe
 seo:
-  title: Interactieve schooltour op het Park Lyceum
-  description: Interactieve schooltour op het Park Lyceum
+  title: Interactieve schooltour op het Park Lyceum | Phil & Flo
+  description: "Interactieve schooltour op het Park Lyceum. Zie hier het resultaat
+    van een schooltour op maat. Neem contact op voor informatie. "
 ---
