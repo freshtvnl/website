@@ -69,7 +69,7 @@ blocks:
       - suzan-abbas
 seo:
   title: "Reclamevideo laten maken | Phil & Flo "
-  description: Een reclamevideo laten maken die spreekt tot de verbeelding van
+  description: "Een reclamevideo laten maken die spreekt tot de verbeelding van
     jouw doelgroep. ✔ Onderscheidende content ✔ Gericht op de doelgroep  ✔ 8,9
-    klantscore | Neem contact op
+    klantscore "
 ---
