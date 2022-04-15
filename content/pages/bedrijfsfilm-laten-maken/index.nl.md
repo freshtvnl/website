@@ -136,10 +136,7 @@ blocks:
       Het is belangrijk om in een bedrijfsfilm de kijker een zo compleet mogelijk en levendig beeld te geven van je bedrijf. Dat is te bereiken door in te spelen op emoties, want daarmee maak je indruk. Het is bijvoorbeeld mogelijk om je te richten op het achterlaten van een positief gevoel bij de kijker. 
 
 
-      Je wilt met een bedrijfsfilm een bepaald doel bereiken en daarom is het belangrijk om er een duidelijke boodschap in op te nemen. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een jaar en op nog langere termijn actueel. 
-
-
-      Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren. Bovendien zorgen mensen in beeld die hun verhaal doen of in gesprek zijn met elkaar voor meer betrokkenheid bij de kijker.
+      Je wilt met een bedrijfsfilm een bepaald doel bereiken. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een  op nog langere termijn actueel. Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren.
     align: left
     form: ""
     image:
@@ -151,7 +148,7 @@ blocks:
       ## Hoe gaat een bedrijfsfilm laten maken in zijn werk?
 
 
-      Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het maken van een bedrijfsfilm begint dan met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. Komt er een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) aan te pas dan gaan wij naar een geschikte stem op zoek en kan je een keuze maken uit een kleine voorselectie.
+      Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het begint met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. 
 
 
       De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en interviewvragen opgenomen. Als het zover is dan staan de regisseur, cameraman en assistent klaar om opnames te maken voor de bedrijfsfilm. Indien het om een groot project gaat, is er tevens een lichtspecialist aanwezig. 
@@ -173,10 +170,10 @@ blocks:
       ## Wat kost een bedrijfsfilm?
 
 
-      De kosten van een bedrijfsfilm zijn afhankelijk van allerlei factoren, zoals specifieke wensen voor de lengte van de film. Er is in dat opzicht dan ook geen standaard gemiddelde bedrijfsfilm prijs te noemen, want de kosten variëren bij elke productie. Denk bijvoorbeeld ook maar aan de benodigde apparatuur die invloed heeft op de kosten van een bedrijfsfilm. Het kan ook zo zijn dat er gefilmd wordt op verschillende locaties met bijvoorbeeld een drone. Al deze aspecten tellen mee net als het eventueel inhuren van externe partijen, zoals een voice-over of andere specialist.
+      De kosten van een bedrijfsfilm zijn afhankelijk van allerlei factoren. Er is in dat opzicht dan ook geen standaard gemiddelde bedrijfsfilm prijs te noemen, want de kosten variëren bij elke productie. Denk bijvoorbeeld ook maar aan de benodigde apparatuur die invloed heeft op de kosten van een bedrijfsfilm. Het kan ook zo zijn dat er gefilmd wordt op verschillende locaties met bijvoorbeeld een drone. Al deze aspecten tellen mee net als het eventueel inhuren van externe partijen, zoals een voice-over of andere specialist.
 
 
-      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen. Vul je het aanvraagformulier in dan krijg je binnen een werkdag al een reactie. Je kan ons natuurlijk ook bellen voor meer informatie of even per mail een bericht sturen.
+      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen.
     cta:
       text: Neem contact op
       url: https://www.philenflo.nl/contact/
@@ -193,9 +190,6 @@ blocks:
 
 
       Goede bedrijfsfilms beginnen met een creatieve sessie om alle ideeën op tafel te krijgen, gevolgd door een script waarop je feedback kan geven. Het script bepaalt onder meer wat er nodig is voor de bedrijfsfilm productie en dat regelen wij allemaal, van apparatuur tot voice-over en van een regisseur tot editor.
-
-
-      Is er een [drone](https://www.philenflo.nl/drone-video-laten-maken/) nodig om een bedrijfsfilm te maken? Dan zorgen wij voor een drone voor je bedrijfsfilm. Is er een voice-over nodig? Dan zorgen wij voor de ideale stem. Zo voorzien wij in alle belangrijke facetten die nodig zijn om een goede bedrijfsfilm te maken.
 
 
       Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden. We houden de aandacht vast door emotie te verwerken in het verhaal. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
