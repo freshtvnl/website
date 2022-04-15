@@ -111,7 +111,7 @@ blocks:
       - animatiefilm-over-biogas
 seo:
   title: Animatie studio in Utrecht | Phil & Flo Videomarketing
-  description: Phil & Flo Animatie studio in Utrecht | ✔ Klantscore 8.9 ✔
+  description: "Phil & Flo Animatie studio in Utrecht | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
-    innovatief | Neem contact op
+    innovatief "
 ---
