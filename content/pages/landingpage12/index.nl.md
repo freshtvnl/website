@@ -61,7 +61,7 @@ blocks:
       - suzan-abbas
 seo:
   title: Bedrijfsfilm laten maken Groningen | Opvallend & doelgericht | Phil & Flo
-  description: Bedrijfsfilm laten maken Groningen | Phil & Flo | ✔ Klantscore 8.9
+  description: "Bedrijfsfilm laten maken Groningen | Phil & Flo | ✔ Klantscore 8.9
     ✔ Onderscheidende content ✔ Uniek en datagedreven ✔ Persoonlijk en
-    interactief | Neem contact op
+    interactief "
 ---
