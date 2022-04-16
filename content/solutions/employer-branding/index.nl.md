@@ -46,11 +46,6 @@ blocks:
       url: /30-minuten/
       text: Boek nu een vrijblijvende 30 minuten sessie
       type: button
-  - type: selectedreviews_block
-    title: Google Reviews
-    items:
-      - adresults-video-review
-      - DMT
   - type: content_block
     align: left
     displaymedia: youtube_video
@@ -68,7 +63,7 @@ blocks:
       ## Waarom ***recruiters*** aankloppen bij Phil & Flo
 
 
-      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien.
+      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien. Het is zelfs mogelijk een [virtuele employer branding tour te maken](https://www.philenflo.nl/virtuele-tour-employer-branding/).
     youtube:
       id: Mc0MxOCQVdo
   - type: content_block
@@ -152,6 +147,11 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: selectedreviews_block
+    title: Google Reviews
+    items:
+      - adresults-video-review
+      - DMT
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
