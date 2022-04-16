@@ -61,7 +61,7 @@ blocks:
       ## ***Meerdere storylines***
 
 
-      In interactieve video’s kan je direct de interactie met de kijker opzoeken. Je kan de kijker de keuze geven welke richting het wil opgaan in de animatiefilm, of welke informatie belangrijk is voor hem of haar. Daarnaast zorgt interactieve video ervoor dat je niet meerdere video’s hoeft te publiceren. Aangezien alles in één heldere videoplayer past.
+      In interactieve video’s kan je direct de interactie met de kijker opzoeken. Je kan de kijker de keuze geven welke richting het wil opgaan in de animatiefilm, of welke informatie belangrijk is voor hem of haar. Daarnaast zorgt interactieve video ervoor dat je niet meerdere video’s hoeft te publiceren. Aangezien alles in één heldere videoplayer past. Dit kan perfect met een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
