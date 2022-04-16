@@ -32,7 +32,7 @@ blocks:
       ## ***Samen tot de kern komen***
 
 
-      In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een [360 graden film](https://www.philenflo.nl/360-graden-video-laten-maken/) van hun school te laten maken. Een creatieve oplossing!
+      In november 2020 werd ik gebeld door Volkert van het CSB Amsterdam, met de volgende uitdaging: ‘’We zijn op zoek naar een film die het gat van de wegvallende open dag kan vullen’’. Tijdens een digitale kennismaking kwamen Volkert en zijn collega’s met hun wens om een [360 graden film](https://www.philenflo.nl/360-graden-video-laten-maken/) van hun school te laten maken. Een creatieve oplossing! Een [virtuele tour](https://www.philenflo.nl/virtuele-tour/) door de school.
     displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
