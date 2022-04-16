@@ -88,7 +88,7 @@ blocks:
       ## ***Vandaag*** nog alles weten over een 360 graden video?
 
 
-      Een 360 graden video is de nieuwe manier om klanten, leerlingen of partners wat te laten ervaren of meemaken. Ben je nieuwsgierig naar de mogelijkheden van een 360 graden video? Kom snel met ons in contact en kom vandaag alles nog te weten over de oneindige wereld van 360 graden video’s. Beleef bij ons in de VR Room de ervaring van Virtual Reality!
+      Een 360 graden video is de nieuwe manier om klanten, leerlingen of partners wat te laten ervaren of meemaken. Ben je nieuwsgierig naar de mogelijkheden van een 360 graden video? Kom snel met ons in contact en kom vandaag alles nog te weten over de oneindige wereld van 360 graden video’s, zoals [virtuele tours](https://www.philenflo.nl/virtuele-tour/). Beleef bij ons in de VR Room de ervaring van Virtual Reality!
     cta:
       url: /contact/
       text: Contact opnemen
