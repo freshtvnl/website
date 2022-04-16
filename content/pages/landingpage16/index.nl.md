@@ -95,7 +95,7 @@ blocks:
       ## Vandaag nog meer weten over ***employer branding***?
 
 
-      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige [Employer branding video’s](https://www.philenflo.nl/oplossingen/employer-branding/) om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf!
+      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige [Employer branding video’s](https://www.philenflo.nl/oplossingen/employer-branding/) om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) voor jouw bedrijf! We vertellen je ook graag meer over de nieuwste optie; de [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     displaymedia: image
     image:
       source: images/feestje-phil-en-flo.jpg
