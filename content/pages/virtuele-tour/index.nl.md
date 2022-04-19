@@ -106,6 +106,9 @@ blocks:
 
 
       Online tours komen in allerlei vormen. Niet elke tour is geschikt voor desktop of mobiel, maar de mogelijkheden zijn eindeloos. Samen met jou wordt gekeken waar jouw doelgroep zich bevindt. De interactieve tour wordt geschikt gemaakt voor elk device, zodat je echt de doelgroep bereikt die je wilt.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-responsive.png
   - type: content_block
     video:
       autoplay: true
