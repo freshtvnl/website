@@ -38,6 +38,9 @@ blocks:
 
 
       Een digitale rondleiding is geschikt voor vrijwel elke branche. Een virtuele rondleiding kan plaatsvinden in een hotel, school, brouwerij, makelaardij, maar ook ingezet worden voor toerisme. Laat mensen over ter wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
+    displaymedia: image
+    image:
+      source: images/jde-marcilla1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -143,6 +146,10 @@ blocks:
 
 
       Gasten willen graag een goede indruk hebben van een hotel voordat zij boeken. Wil jij extra gasten in het hotel en een goede eerste indruk bieden? Dat kan dankzij een digitale rondleiding. Laat gasten de kamers, lobby en het restaurant zien. Geef ze het gevoel alsof ze er al zijn en laat ze ontspannen in deze omgeving.
+    form: ""
+    displaymedia: image
+    image:
+      source: images/paysonic1.jpg
   - type: content_block
     video:
       autoplay: true
