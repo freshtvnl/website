@@ -69,6 +69,9 @@ blocks:
       Je krijgt een eigen projectmanager. Met dit vaste aanspreekpunt loop je alle stappen door, van de creatieve sessie tot aan het daadwerkelijk maken van de tour. Wanneer de beelden zijn genomen, wordt er eerst een ruwe opzet opgestuurd. Vanuit daar wordt een definitieve versie gemaakt. Bekijk het [portfolio](https://www.philenflo.nl/portfolio/) voor mooie voorbeelden.
     align: right
     align_text: text-left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-concept.jpg
   - type: content_block
     video:
       autoplay: true
@@ -83,6 +86,9 @@ blocks:
       \
 
       De digitale rondleiding biedt mogelijkheden om te informeren, omzet te verhogen en extra bezoekers te trekken. Het is meer dan een video, het is onderdeel van jouw [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/).
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-grafiek.jpg
   - type: content_block
     video:
       autoplay: true
@@ -108,12 +114,16 @@ blocks:
       Online tours komen in allerlei vormen. Niet elke tour is geschikt voor desktop of mobiel, maar de mogelijkheden zijn eindeloos. Samen met jou wordt gekeken waar jouw doelgroep zich bevindt. De interactieve tour wordt geschikt gemaakt voor elk device, zodat je echt de doelgroep bereikt die je wilt.
     displaymedia: image
     image:
-      source: images/phil-en-flo-icoon-responsive-geel-3.jpg
-  - type: content_block
-    video:
-      autoplay: true
+      source: images/phil-en-flo-icoon-responsive.jpg
+  - displaymedia: image
+    form: ""
     align: right
     align_text: text-left
+    cta:
+      url: https://www.philenflo.nl/contact/
+      text: "Neem contact op "
+      type: button
+      color: yellow
     content: >-
       ## De ***kosten*** van een virtuele tour
 
@@ -123,12 +133,11 @@ blocks:
       \
 
       Uiteraard denken wij direct mee over een uniek en origineel concept. Zodat het voldoet aan jouw wensen en eisen. Alle expertise wordt direct ingezet voor het beste concept. Wil je meer weten? Neem contact op! De offerte is volledig vrijblijvend.
-    form: ""
-    cta:
-      url: https://www.philenflo.nl/contact/
-      text: "Neem contact op "
-      type: button
-      color: yellow
+    type: content_block
+    video:
+      autoplay: true
+    image:
+      source: images/phil-en-flo-icoon-gesprek.jpg
   - type: content_block
     video:
       autoplay: true
