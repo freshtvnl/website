@@ -55,6 +55,9 @@ blocks:
       \
 
       Die unieke ervaring voor elke kijker wordt gerealiseerd aan de hand van jouw doelen en doelgroep. Maak bijvoorbeeld de tour interactief. Een [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/) laat de kijker actief mee doen in de video. Zo beleven ze meer dan alleen een rondleiding, maar kunnen echt meedoen.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-schakelschema.jpg
   - type: content_block
     video:
       autoplay: true
@@ -148,6 +151,9 @@ blocks:
 
 
       Een nieuwe expositie in de schijnwerpers? Dat kan met gemak dankzij een [digitale rondleiding door een museum](https://www.philenflo.nl/virtuele-tour-museum/). Verleidt toekomstige bezoekers met de stukken die tentoongesteld worden. Laat zien waarom zij direct een kaartje moeten kopen. Een video verbeeldt wat bezoekers kunnen verwachten.
+    displaymedia: image
+    image:
+      source: images/boknet1.png
   - type: content_block
     video:
       autoplay: true
