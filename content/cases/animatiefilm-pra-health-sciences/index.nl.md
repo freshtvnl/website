@@ -23,7 +23,7 @@ blocks:
     align: left
     displaymedia: youtube_video
     youtube:
-      id: _TC_JNz4EL8
+      id: wW108VO-53Y
     content: >-
       ## Hoe werkt ***geneesmiddelen*** onderzoek?
 
