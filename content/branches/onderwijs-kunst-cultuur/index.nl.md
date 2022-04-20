@@ -109,6 +109,9 @@ blocks:
       - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
     more_items: false
+  - type: contact_block
+    contacts:
+      - suzan-abbas
 seo:
   title: "Video, animatie en virtuele tours voor het onderwijs en de kunst sector
     | Phil & Flo "
