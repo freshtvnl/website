@@ -122,7 +122,7 @@ blocks:
       - Lentis
   - type: contact_block
     contacts:
-      - victor
+      - suzan-abbas
     content: >-
       ### ***Samenwerken?***
 
