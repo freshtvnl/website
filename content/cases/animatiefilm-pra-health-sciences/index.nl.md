@@ -18,7 +18,7 @@ blocks:
       geneesmiddelenonderzoek worden kandidaten een bepaalde periode opgenomen
       in het onderzoekscentrum van ICON in Groningen. Na een strenge medische
       keuring wordt een bepaald medicijn getest.
-    title: "***PRA Health Sciences*** zoekt vrijwilligers"
+    title: "***ICON Geneesmiddelenonderzoek*** zoekt vrijwilligers"
   - type: content_block
     align: left
     displaymedia: youtube_video
