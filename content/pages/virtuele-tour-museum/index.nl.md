@@ -23,6 +23,9 @@ blocks:
 
 
       Een digitale rondleiding in een museum geeft bezoekers de mogelijkheid om te dwalen door alle ruimte van het museum. Onderweg komen ze de kunstobjecten tegen en kunnen de sfeer proeven van elke expositie. Zo maak je de echte wereld ook online toegankelijk voor bezoekers. Misschien twijfelen ze nog wel een beetje? Die twijfel wordt snel weggenomen dankzij een online tour.
+    displaymedia: image
+    image:
+      source: images/boknet1.png
   - type: content_block
     video:
       autoplay: true
@@ -33,6 +36,9 @@ blocks:
       De virtuele tour door het museum kan gemaakt worden met *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)*, *[360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/)*, *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* en gewone [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/). De mogelijkheden zijn breed. Het is zelfs mogelijk om oude video’s interactief te maken. Daarnaast heb je vele keuzes. Wil je bijvoorbeeld een *[interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)* waarin bezoekers keuzes kunnen maken? Dankzij knoppen kan de bezoeker zelf zijn tour naar eigen zin maken. Afhankelijk van jouw doelen en doelgroep wordt er een tour opgebouwd die passend is.
     align: right
     align_text: text-left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-schakelschema.jpg
   - type: content_block
     video:
       autoplay: true
@@ -43,6 +49,9 @@ blocks:
 
 
       Elke ruimte komt tot leven dankzij een digitale interactieve tour. Bezoekers maken keuzes, dwalen door de gangen en zien wat je te bieden hebt. Phil & Flo heeft al meerdere interactieve tours gemaakt. Bekijk in ons *[portfolio](https://www.philenflo.nl/portfolio/)* bijvoorbeeld hoe wij scholen tot leven hebben laten komen.
+    displaymedia: image
+    image:
+      source: images/hsl1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -57,6 +66,9 @@ blocks:
       \
 
       Na het film ontvang je eerst een ruwe versie. Aan de hand van de feedback wordt de definitieve versie gecreëerd. Zo ontvang jij een online tour door het museum heen die voldoet aan alle wensen.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-concept.jpg
   - type: content_block
     video:
       autoplay: true
@@ -70,6 +82,9 @@ blocks:
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag een offerte aan
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-gesprek.jpg
 seo:
   title: "Virtuele tour laten maken voor een museum | Phil & Flo "
   description: Virtuele tour voor een museum laten maken door Phil & Flo. Wij
