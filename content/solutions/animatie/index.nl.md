@@ -46,7 +46,7 @@ blocks:
       ## ***3D Animatie***
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie vinden wij. Het kost wat meer tijd om te maken, maar het resultaat is verbluffend. Onze specialisten maken graag voor jou de meest gave 3D animaties!
+      Onze 3D animatie's zijn de meest realistische vorm van animatie. Het kost wat meer tijd om te maken dan een 2D animatie, maar het resultaat is verbluffend. Met een 3D animatie laat je ingewikkelde producten of diensten in de juiste context op een laagdrempelig manier zien. Ons creatieve team verrast je graag!
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
