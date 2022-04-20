@@ -12,7 +12,7 @@ blocks:
     displaymedia: custom_video
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg-ICON1.mp4
     content: PRA Health Sciences zoekt doorlopend naar vrijwilligers die mee willen
       werken aan een geneesmiddelenonderzoek. Bij een geneesmiddelenonderzoek
       worden kandidaten een bepaalde periode opgenomen in het onderzoekscentrum
@@ -48,7 +48,7 @@ blocks:
       Zo hebben we een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe PRA te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-laten-maken-voor-de-zorg-ICON2.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -82,7 +82,7 @@ blocks:
       Wil je ook meer informatie over een videocampagne voor jouw organisatie? Neem contact op of bel onze adviseurs 085 273 8331
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/PRA-animatiekort-2-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg-ICON3.mp4
       autoplay: true
     cta:
       url: /contact/
