@@ -69,7 +69,7 @@ blocks:
       Na de uitleg van wat geneesmiddelen onderzoek is en het delen van ervaringen is het natuurlijk belangrijk om te weten met wat voor organisatie de kandidaat in aanraking komt. Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) die deze informatie verschaft kan om deze reden niet ontbreken. Sterker nog, deze film is zelfs essentieel. Je doet namelijk geen zaken met een bedrijf waar je geen vertrouwen in hebt. Zeker niet als het om je gezondheid gaat!
     displaymedia: youtube_video
     youtube:
-      id: uxDljSPqZA8
+      id: Y7flBrst0eM
   - type: content_block
     align: right
     content: >-
