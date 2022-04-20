@@ -38,7 +38,7 @@ blocks:
     align: right
     displaymedia: youtube_video
     youtube:
-      id: uU_QxytkDYY
+      id: Y7flBrst0eM
   - type: content_block
     align: left
     content: >-
