@@ -106,7 +106,7 @@ blocks:
     title: Cases
   - type: contact_block
     contacts:
-      - suzan-abbas
+      - peter-de-graaf
 seo:
   image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
