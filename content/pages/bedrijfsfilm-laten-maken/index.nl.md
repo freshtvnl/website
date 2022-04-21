@@ -10,7 +10,7 @@ blocks:
     video:
       source_mp4: ""
       autoplay: true
-    align: center
+    align: left
   - type: content_block
     video:
       autoplay: true
@@ -19,7 +19,7 @@ blocks:
       team zet zich in om voor jou de mooiste film te maken waar je trots op kan
       zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
     align: left
-    align_text: text-center
+    align_text: text-left
     displaymedia: custom_video
     cta:
       url: /contact/
@@ -184,7 +184,7 @@ blocks:
     video:
       autoplay: true
     align: right
-    align_text: text-center
+    align_text: text-left
     content: >-
       ## Hoe maak je een goede ***bedrijfsfilm***? 
 
