@@ -177,6 +177,8 @@ blocks:
     cta:
       text: Neem contact op
       url: https://www.philenflo.nl/contact/
+      type: button
+      color: yellow
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
