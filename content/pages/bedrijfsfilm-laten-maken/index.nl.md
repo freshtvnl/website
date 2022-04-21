@@ -129,6 +129,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-laten-maken-voor-de-zorg-ICON.mp4
     content: >-
       ## Wat moet er in een bedrijfsfilm? 
 
@@ -140,7 +141,8 @@ blocks:
     align: left
     form: ""
     image:
-      source: images/aron-sophie.jpg
+      source: images/peter-suzan-kopie.jpg
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
@@ -158,10 +160,11 @@ blocks:
     align: right
     form: ""
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: images/peter-suzan-kopie.jpg
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag een offerte aan
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
