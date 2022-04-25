@@ -55,6 +55,11 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-oranje.jpg
+    cta:
+      url: ""
+      text: ""
+      type: null
+      color: null
   - type: content_block
     video:
       autoplay: true
@@ -72,6 +77,11 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-oranje.jpg
+    cta:
+      url: https://www.philenflo.nl/contact/
+      text: "Neem contact op "
+      type: button
+      color: orange
 seo:
   title: "Virtuele tour laten maken voor een hotel | Phil & Flo "
   description: Virtuele tour voor een hotel laten maken door Phil & Flo. Wij
