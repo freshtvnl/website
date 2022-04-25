@@ -35,7 +35,7 @@ blocks:
     align: right
     align_text: text-left
     content: >-
-      ## De mogelijkheden bij een digitale rondleiding door jouw hotel
+      ## De ***mogelijkheden*** bij een digitale rondleiding door jouw hotel
 
 
       Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour. Een virtuele rondleiding is mogelijk in [VR](https://www.philenflo.nl/oplossingen/virtual-reality/), 360 graden of [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/). Jij bepaalt welke faciliteiten van het hotel in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is specialist in het maken van virtuele tours, wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw hotel.
