@@ -2,6 +2,7 @@
 title: Virtuele tour hotel
 slug: virtuele-tour-hotel
 draft: false
+color: orange
 blocks:
   - type: hero_block
     align: left
