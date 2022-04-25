@@ -42,4 +42,38 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-oranje.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    align_text: text-left
+    content: >-
+      ## De ***werkwijze*** van Phil & Flo
+
+
+      Onze samenwerking begint met een idee en visie. Tijdens een intake gesprek bespreken we alle ideeën, wensen en doelen. Daarna werken we aan een technisch kader om tot de uiteindelijke opdracht te komen. Als de opdracht duidelijk is, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Dit begint met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtual hotel tour worden ingekleurd. Wat en wie gaan we filmen? Kiezen we voor interviews of een voice-over? Alles wordt verzameld in een wireframe, waarin alle onderdelen van de [interactieve tour](https://www.philenflo.nl/virtuele-tour/) aan elkaar worden verbonden. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt alles vastgelegd in een draaiboek.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-concept-oranje.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    align_text: text-left
+    content: >-
+      ## ***Kosten*** online tour
+
+
+      De kosten van een online tour zijn afhankelijk van jouw wensen en eisen. Phil & Flo stelt een offerte op maat op, er is geen vast bedrag. Een persoonlijke offerte is de enige manier om je concreet inzicht te bieden in de kosten. Er zijn namelijk veel factoren die invloed hebben op de prijs. We werken met eerlijke tarieven en zijn volledig transparant.\
+
+      \
+
+      Natuurlijk denken wij met je mee over een uniek en origineel concept. Zodat het voldoet aan jouw wensen en eisen. Onze expertise wordt ingezet voor het beste concept. Wil je meer weten? Neem dan contact op! De offerte is volledig vrijblijvend.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-gesprek-oranje.jpg
+seo:
+  title: "Virtuele tour laten maken voor een hotel | Phil & Flo "
+  description: Virtuele tour voor een hotel laten maken door Phil & Flo. Wij
+    verbeelden het. ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔ Professioneel
 ---
