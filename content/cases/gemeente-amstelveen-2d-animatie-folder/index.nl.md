@@ -15,11 +15,11 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-bijstandsuitkering.mp4
     title: "***Een complex onderwerp uitleggen met 2D animatie***"
     content: Gemeente Amstelveen kwam bij ons met de wens om informatie over de
-      participatiewet toegankelijk te maken. Na de aanvraag van de Participatie
-      uitkering (bijstandsuitkering) door inwoners, is het namelijk belangrijk
-      om een korte, prikkelende samenvatting te geven met hierin alle rechten en
-      plichten. Om deze doorgaans complexe informatie toegankelijk uit te
-      leggen, verpakten we dit in een folder met aansluitende 2D animatie.
+      participatiewet meer toegankelijk te maken. Nadat inwoners de participatie
+      uitkering aanvragen, moeten ze een korte, prikkelende samenvatting
+      ontvangen met hierin alle rechten en plichten. Het is belangrijk dat deze
+      samenvatting voor iedereen te begrijpen is. Lees in deze case hoe we dit
+      aan hebben gepakt!
     align_text: left
     displaymedia: custom_video
   - type: content_block
@@ -32,7 +32,11 @@ blocks:
       ## ***De perfecte communicatiemix***
 
 
-      Samen met de Gemeente Amstelveen hebben we gekeken naar welke communicatiemiddelen geschikt zijn. We kozen voor een informatiefolder met een bijpassende 2D animatie. De folder maakten we in zes verschillende talen: Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Belangrijk was dus om duidelijke, makkelijke taal te gebruiken met ondersteuning van verbeeldende, grafische elementen.
+      Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Om deze informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende 2D animatie. \
+
+      \
+
+      Het was belangrijk om duidelijke, makkelijke taal te gebruiken. Om de toegankelijkheid te vergroten, vertaalden we de folder in het Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen.
     displaymedia: custom_video
   - type: content_block
     video:
@@ -44,7 +48,7 @@ blocks:
       ## ***Waarom een 2D animatie?***
 
 
-      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk, omdat de bewegende illustraties zonder diepte, de informatie levendiger en daardoor toegankelijker maken. De combinatie met voice-over, muziek en geluid zorgt er ook nog eens voor dat de doelgroep de boodschap beter onthoudt.
+      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie namelijk levendiger en daardoor toegankelijker. De combinatie met voice-over, muziek en geluid zorgt er ook nog eens voor dat de doelgroep de boodschap beter onthoudt.
     displaymedia: custom_video
 seo:
   title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Videoanimatie
