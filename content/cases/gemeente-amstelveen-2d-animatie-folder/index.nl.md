@@ -29,7 +29,7 @@ blocks:
     align: left
     align_text: text-left
     content: >-
-      ## ***De perfecte communicatiemix***
+      ## De perfecte ***communicatiemix***
 
 
       Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Om deze informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende 2D animatie. \
@@ -47,7 +47,7 @@ blocks:
     align: right
     align_text: text-left
     content: >-
-      ## ***Waarom een 2D animatie?***
+      ## Waarom een ***2D animatie?***
 
 
       Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie namelijk levendiger en daardoor toegankelijker. De combinatie met voice-over, muziek en geluid zorgt er ook nog eens voor dat de doelgroep de boodschap beter onthoudt.
