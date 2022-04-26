@@ -9,7 +9,7 @@ blocks:
       ## ***Bedankt voor het invullen van het contactformulier***
 
 
-      Je hebt een **goede keuze** gemaakt om met ons team contact op te nemen. Wij zullen binnen één werkdag met een reactie te komen op jouw bericht.
+      Je hebt een **goede keuze** gemaakt contact op te nemen met ons team. Wij zullen binnen één werkdag reageren. Volg ons op [LinkedIn](https://www.linkedin.com/company/707245) en [Insta](https://www.instagram.com/philenflo)!
 seo:
   noindex: true
 ---
