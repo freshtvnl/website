@@ -25,7 +25,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/2D-animatie-folder-gemeente-amstelveen-bijstandsuitkering.mp4
+      source_mp4: ""
     align: left
     align_text: text-left
     content: >-
@@ -37,7 +37,9 @@ blocks:
       \
 
       Het was belangrijk om duidelijke, makkelijke taal te gebruiken. Om de toegankelijkheid te vergroten, vertaalden we de folder in het Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen.
-    displaymedia: custom_video
+    displaymedia: image
+    image:
+      source: images/gemeente-amstelveen1.png
   - type: content_block
     video:
       autoplay: true
