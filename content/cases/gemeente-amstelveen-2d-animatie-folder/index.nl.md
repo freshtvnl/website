@@ -33,7 +33,7 @@ blocks:
 
 
       Samen met de Gemeente Amstelveen hebben we gekeken naar welke communicatiemiddelen geschikt zijn. We kozen voor een informatiefolder met een bijpassende 2D animatie. De folder maakten we in zes verschillende talen: Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Belangrijk was dus om duidelijke, makkelijke taal te gebruiken met ondersteuning van verbeeldende, grafische elementen.
-    displaymedia: image
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
