@@ -1,7 +1,7 @@
 ---
 title: Gemeente Amstelveen - 2D animatie & folder
 slug: Gemeente-Amstelveen-2d-animatie-folder
-draft: true
+draft: false
 image:
   source: images/thumbnail-gemeente-amstelveen-2d-animatie-folder-phil-en-flo-1-1.png
 content_type: case
