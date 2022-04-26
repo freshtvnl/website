@@ -52,6 +52,11 @@ blocks:
 
       Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie namelijk levendiger en daardoor toegankelijker. De combinatie met voice-over, muziek en geluid zorgt er ook nog eens voor dat de doelgroep de boodschap beter onthoudt.
     displaymedia: custom_video
+    cta:
+      url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
+      text: Meer weten over animaties?
+      type: button
+      color: red
 seo:
   title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Videoanimatie
     door Phil & Flo
