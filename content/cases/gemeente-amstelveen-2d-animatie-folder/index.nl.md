@@ -26,7 +26,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-folder-gemeente-amstelveen-bijstandsuitkering.mp4
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## ***De perfecte communicatiemix***
@@ -42,7 +42,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering1.mp4
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## ***Waarom een 2D animatie?***
