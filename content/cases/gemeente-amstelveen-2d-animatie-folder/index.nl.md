@@ -36,7 +36,7 @@ blocks:
 
       \
 
-      Het was belangrijk om duidelijke, makkelijke taal te gebruiken. Om de toegankelijkheid te vergroten, vertaalden we de folder in het Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen.
+      Het was belangrijk om duidelijke, makkelijke taal te gebruiken. En om de toegankelijkheid nog verder te vergroten, is de folder vertaald gemaakt in het Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen.
     displaymedia: image
     image:
       source: images/gemeente-amstelveen.jpg
@@ -50,13 +50,17 @@ blocks:
       ## Waarom een ***2D animatie?***
 
 
-      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie namelijk levendiger en daardoor toegankelijker. De combinatie met voice-over, muziek en geluid zorgt er ook nog eens voor dat de doelgroep de boodschap beter onthoudt.
+      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie levendiger en daardoor toegankelijker. En de combinatie met voice-over, muziek en geluid zorgt ervoor dat de doelgroep de boodschap beter onthoudt.
     displaymedia: custom_video
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
       text: Meer weten over animaties?
       type: button
       color: red
+  - type: contact_block
+    content: Ben je benieuwd wat wij voor jou kunnen betekenen?
+    contacts:
+      - victor
 seo:
   title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Videoanimatie
     door Phil & Flo
