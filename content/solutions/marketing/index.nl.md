@@ -31,6 +31,9 @@ blocks:
         source: images/inge-bank.jpg
     image:
       source: images/inge-bank.jpg
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: "Videomarketing uitbesteden | Phil & Flo "
   description: Videomarketing - Vertel verhalen waarin de kijker zich herkent. ✔
