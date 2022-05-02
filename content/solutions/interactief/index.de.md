@@ -1,9 +1,5 @@
 ---
-title: Interactief
-weight: 3
 draft: false
-image:
-  source: images/interactieve-video-philenflo.jpg
 color: green
 blocks:
   - type: hero_block
@@ -88,7 +84,11 @@ blocks:
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
 parent: animatie-studio-amsterdam
+title: Interactief
 slug: interactieve-video
+weight: 3
+image:
+  source: images/interactieve-video-philenflo.jpg
 seo:
   title: Interactieve video - Phil & Flo Videomarketing
   description: Interactieve video is een revolutionaire marketing tool, waarbij je

@@ -1,9 +1,5 @@
 ---
-title: Interactief
-weight: 3
 draft: false
-image:
-  source: images/interactieve-video-philenflo.jpg
 color: green
 blocks:
   - type: hero_block
@@ -54,7 +50,7 @@ blocks:
       Geef dus je [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/c86BN00W3mbz78Be
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
     align: left
     content: >-
@@ -88,7 +84,11 @@ blocks:
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
 parent: animatie-studio-amsterdam
+title: Interactief
 slug: interactieve-video
+weight: 3
+image:
+  source: images/interactieve-video-philenflo.jpg
 seo:
   title: Interactieve video | Phil & Flo Creative Studio
   description: "Interactieve video laten maken |  ✔ Passend voor jouw doelgroep ✔
