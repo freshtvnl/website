@@ -67,7 +67,7 @@ blocks:
       ## ***Analytics van interactieve video's***
 
 
-      Wat voor jou als marketeer interessant is, zijn de uitgebreide analytics mogelijkheden. Zo kan je zien waar de kijker op klikt. Je gaat patronen herkennen zoals je dat nu al in je website doet. Daarnaast zijn de links makkelijk en LIVE aan te passen door ons. Dat betekent dat je nooit meer iets offline hoeft te halen. Neem contact op met onze specialisten die je meer kunnen vertellen over interactieve video en interactieve animatie! Bel 085 -273 8331
+      Wat voor jou als marketeer interessant is, zijn de uitgebreide analytics mogelijkheden. Zo kan je zien waar de kijker op klikt. Je gaat patronen herkennen zoals je dat nu al in je website doet. Daarnaast zijn de links makkelijk en LIVE aan te passen door ons. Dat betekent dat je nooit meer iets offline hoeft te halen. Neem contact op met onze specialisten die je meer kunnen vertellen over interactieve video en interactieve animatie! **Bel** 085 -273 8331
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
