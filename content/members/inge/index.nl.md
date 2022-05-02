@@ -8,9 +8,9 @@ image:
   alt: Inge
 function: Creative Producer
 description: ""
-cta: Joejoe Inge hier. Plannen, organiseren en regelen, het zit in mijn DNA. Als
-  25-jarige projectmanager vind ik het enorm leuk om een project van A tot Z te
-  begeleiden en te regelen. Sinds september 2019 ben ik aan het werk als
+cta: Joejoe, Inge hier! Plannen, organiseren en regelen, het zit in mijn DNA.
+  Als 27-jarige projectmanager vind ik het enorm leuk om een project van A tot Z
+  te begeleiden en te regelen. Sinds september 2019 ben ik aan het werk als
   Creative Producer bij Phil & Flo.
 blocks:
   - type: hero_block
@@ -24,13 +24,13 @@ blocks:
       ## Even ***terug in de tijd***
 
 
-      Het begon bij het volgen van de opleiding hbo-communicatie aan de Hanzehogeschool in Groningen. Een leuke en leerzame tijd. Dankzij mijn stage als jr. communicatiemedewerker en de minor Eventmanagement heb ik geleerd wat aanpakken is. Daarna ben ik accountmanager geweest bij een communicatiebureau. Hier heb ik geleerd hoe ik een adviserende rol tot mij moest nemen.Vervolgens maakte ik een frisse start bij Phil & Flo. Hier leer ik elke dag wat nieuws. 
+      Het begon bij het volgen van de opleiding hbo-communicatie aan de Hanzehogeschool in Groningen. Een leuke en leerzame tijd. Dankzij mijn stage als jr. communicatiemedewerker en de minor Eventmanagement heb ik geleerd wat aanpakken is. Daarna ben ik accountmanager geweest bij een communicatiebureau. Hier heb ik geleerd hoe ik een adviserende rol tot mij moest nemen. Vervolgens maakte ik een frisse start bij Phil & Flo. Hier leer ik elke dag wat nieuws. 
 
 
       ### ***Trots momentje***
 
 
-      Ik ken meerdere trotse momenten bij Phil & Flo. Voor K3 Pebblestone had ik een script en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) opgeleverd waar geen feedback op werd gegeven.  Toen dacht ik echt ‘wauw we zaten perfect op 1 lijn’. Dat voelt goed als ik prettig kan levelen met een klant. Extra bevestiging kreeg ik door allemaal 10-en in de review van de klant te krijgen. Toen was ik écht trots. 
+      Ik ken meerdere trotse momenten bij Phil & Flo. Voor K3 Pebblestone had ik een script en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) opgeleverd waar geen feedback op werd gegeven. Toen dacht ik echt ‘wauw we zaten perfect op 1 lijn’. Dat voelt goed als ik prettig kan levelen met een klant. Extra bevestiging kreeg ik door allemaal 10-en in de review van de klant te krijgen. Toen was ik écht trots. 
 
 
       ### ***Karaktertje*** op zich
