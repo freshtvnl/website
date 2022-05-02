@@ -39,7 +39,7 @@ blocks:
       text: Bedrijfsfilm laten maken
       type: button
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Commercial*** laten maken
 
@@ -57,6 +57,7 @@ blocks:
       url: /commercial-laten-maken/
       text: Commercial laten maken
       type: button
+    align_text: text-left
   - type: content_block
     align: left
     content: >-
@@ -81,7 +82,8 @@ blocks:
         source: ""
     iframe:
       source: ""
-    align: left
+    align: right
+    align_text: text-left
     cta:
       url: /oplossingen/employer-branding/
       text: Employer branding film
@@ -130,9 +132,9 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
-      id: xG-FjaFq03A
+      id: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
