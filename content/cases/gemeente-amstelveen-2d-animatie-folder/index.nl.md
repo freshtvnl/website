@@ -58,7 +58,7 @@ blocks:
       type: button
       color: red
   - type: contact_block
-    content: Ben je benieuwd wat wij voor jou kunnen betekenen?
+    content: ""
     contacts:
       - victor
 seo:
