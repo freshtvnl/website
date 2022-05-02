@@ -75,7 +75,7 @@ blocks:
       Medische wetenschap bevat vaak een bepaalde mate van complexiteit. Wij bieden de vertaalslag om complexe materie op een laagdrempelige manier inzichtelijk maken. Op deze manier helpen wij jou om innovatie te accelereren. Animatie biedt een enorm krachtig communicatiemiddel, of dit nu om patiëntcommunicatie, uitleg over een doorbraak, of het overtuigen van behandelaren gaat. Samen met jou creëren we een naadloos aansluitende stijl en script om de gewenste impact te bereiken. Dit gieten we in een passende stijl om jouw communicatiedoelstelling te behalen.
     displaymedia: youtube_video
     youtube:
-      id: O25uN5rKj1I
+      id: Y7flBrst0eM
     image:
       alt: ""
     cta:
