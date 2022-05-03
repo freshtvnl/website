@@ -32,11 +32,13 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-NOM1.mp4
     align: right
     content: |-
       ## Wat is testimonial advertising?
 
       Tekst.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
