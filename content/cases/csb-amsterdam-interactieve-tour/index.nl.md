@@ -156,7 +156,9 @@ blocks:
     video:
       autoplay: true
     align: center
-    form: contact-formulier
+    form: offerte-formulier
+    content: "## ***Vrijblijvend een offerte ontvangen?***"
+    align_text: text-center
   - type: selectedreviews_block
     items:
       - review-csb-amsterdam
