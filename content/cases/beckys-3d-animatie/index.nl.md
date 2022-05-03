@@ -10,7 +10,7 @@ color: orange
 branch: fair-food
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Beckys-3d-animatie-video.mp4
