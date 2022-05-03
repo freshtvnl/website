@@ -152,16 +152,16 @@ blocks:
     iframe:
       source: ""
     form: ""
-  - type: selectedreviews_block
-    items:
-      - review-csb-amsterdam
-      - csb-ouder-4
-      - csb-ouder-5
   - type: content_block
     video:
       autoplay: true
     align: left
     form: contact-formulier
+  - type: selectedreviews_block
+    items:
+      - review-csb-amsterdam
+      - csb-ouder-4
+      - csb-ouder-5
 seo:
   description: Open dag voor school op een interactieve manier. - CSB Amsterdam
     laat zien hoe het kan, samen met Phil en Flo
