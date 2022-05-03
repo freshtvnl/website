@@ -25,6 +25,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
     content: >-
       ## ***Waarom?***
 
@@ -33,6 +34,7 @@ blocks:
     align: left
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    displaymedia: custom_video
   - type: content_block
     content: >-
       ## ***Hoe?***
