@@ -125,7 +125,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
-    align: right
+    align: left
     align_text: text-left
     content: |-
       ## ***Hoeveel tijd*** kost een video laten maken?
@@ -136,7 +136,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
-    align: left
+    align: right
     align_text: text-left
     content: |-
       ## ***Hoeveel kost*** een professionele video laten maken?
