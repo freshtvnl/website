@@ -40,11 +40,13 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-Beter-Bed-Verkoper1.mp4
     align: left
     content: |-
       ## Waarom een testimonial?
 
       Tekst.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
