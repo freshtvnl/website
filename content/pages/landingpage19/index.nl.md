@@ -84,6 +84,9 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
 seo:
   title: "Video testimonial laten maken | Phil & Flo "
   description: "Video testimonial laten maken ✔ Onderscheidende content ✔
