@@ -55,6 +55,9 @@ blocks:
       ## Hoe maak je een video testimonial?
 
       Tekst.
+    displaymedia: image
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     video:
       autoplay: true
@@ -64,15 +67,15 @@ blocks:
 
       Tekst.
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## Je klanten een podium bieden?
 
 
       Op welke manier laat jij je klanten hun verhaal over jouw organisatie vertellen? Twijfel niet over het maken van een frisse kennismaking. Dan nemen we direct jouw mogelijkheden op het gebied van video testimonials door!
-    displaymedia: image
+    displaymedia: null
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
     cta:
       url: /contact/
       text: Contact opnemen
