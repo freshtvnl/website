@@ -151,19 +151,17 @@ blocks:
       Onze interactieve tours zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve tour kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, ***zonder dure investeringen.*** Ook kan je statistieken inzien, en zo effectieve elementen verder uitvergroten of minder presterende onderdelen aanpassen of wijzigen. Op deze manier garanderen wij dat onze interactieve films langdurig inzetbaar zijn, en een investering voor de toekomst.
     iframe:
       source: ""
-    form: contact-formulier
+    form: ""
   - type: selectedreviews_block
     items:
       - review-csb-amsterdam
       - csb-ouder-4
       - csb-ouder-5
-  - type: contact_block
-    contacts:
-      - sebastiaan
   - type: content_block
     video:
       autoplay: true
     align: left
+    form: contact-formulier
 seo:
   description: Open dag voor school op een interactieve manier. - CSB Amsterdam
     laat zien hoe het kan, samen met Phil en Flo
