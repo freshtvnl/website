@@ -122,7 +122,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## ***Ook een videofilm laten maken?***
 
@@ -135,6 +135,7 @@ blocks:
     displaymedia: custom_video
     youtube:
       id: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
+    align_text: text-left
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
