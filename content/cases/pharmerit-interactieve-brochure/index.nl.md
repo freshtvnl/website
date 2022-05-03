@@ -11,7 +11,7 @@ color: pink
 branch: zorg-pharma
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Pharmerit%20pharma%20animation%20philenflo.mp4
