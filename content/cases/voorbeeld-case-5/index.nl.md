@@ -84,7 +84,7 @@ blocks:
       ## ***Resultaat***
 
 
-      Alles bij elkaar heeft geleid tot de onderstaande [werken-bij film](https://www.philenflo.nl/oplossingen/employer-branding/). Een film waar wij van Phil & Flo trots op zijn! Vanuit het UMCG, zowel vanuit de afdeling Chirurgie als daarbuiten, waren de reacties zeer positief. Belangrijker nog, de video heeft haar doel bereikt. Het UMCG heeft al een groot aantal aanmeldingen binnen en verwacht de open vacatures voor Anios bij de afdeling chirurgie goed te kunnen vullen. Mission accomplished!
+      Alles bij elkaar heeft geleid tot de onderstaande [werken-bij film](https://www.philenflo.nl/oplossingen/employer-branding/). Een film waar wij van Phil & Flo trots op zijn. Vanuit het UMCG, zowel vanuit de afdeling Chirurgie als daarbuiten, waren de reacties zeer positief. Belangrijker nog, de video heeft haar doel bereikt. Het UMCG heeft al een groot aantal aanmeldingen binnen en verwacht de open vacatures voor Anios bij de afdeling chirurgie goed te kunnen vullen. Mission accomplished!
     displaymedia: custom_video
     youtube:
       id: G_dlOtmAnas
