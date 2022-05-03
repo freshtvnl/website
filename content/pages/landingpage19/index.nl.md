@@ -26,6 +26,9 @@ blocks:
       ## Wat is een video testimonial?
 
       Tekst.
+    displaymedia: youtube_video
+    youtube:
+      id: kK3X9kRxlJw
   - type: content_block
     video:
       autoplay: true
