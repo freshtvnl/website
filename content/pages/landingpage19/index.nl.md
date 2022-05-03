@@ -22,10 +22,11 @@ blocks:
     video:
       autoplay: true
     align: left
-    content: |-
+    content: >-
       ## Wat is een video testimonial?
 
-      Tekst.
+
+      In een video testimonial delen klanten hun ervaring met jou, jouw product, dienst of bedrijf. Het zijn dus eigenlijk klantreviews, maar dan in videovorm. Het is belangrijk dat de testimonial video geloofwaardig overkomt. Daarvoor helpt het om de verteller geen script te geven, maar het verhaal organisch te laten vertellen. De video zal objectief zijn. Het moet geen verkooppraatje worden, maar echt een klantervaring.
     displaymedia: youtube_video
     youtube:
       id: kK3X9kRxlJw
@@ -34,20 +35,22 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken1.mp4
     align: right
-    content: |-
+    content: >-
       ## Wat is testimonial advertising?
 
-      Tekst.
+
+      Wanneer je video testimonials in gaat zetten in je marketing campagne, spreek je van testimonial advertising. De klanten die bij jouw bedrijf een positieve klantreis hebben doorlopen, en vertellen in de testimonial video, worden op deze manier een ambassadeur van jouw merk. Delen ze hun goede ervaringen uit eigen beweging op hun social media, dan creëren ze een vorm van mond-tot-mondreclame.
     displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
     align: left
-    content: |-
+    content: >-
       ## Waarom een testimonial?
 
-      Tekst.
+
+      Mensen zijn kuddedieren en vertrouwen het sneller wanneer ze iemand in hun netwerk zien met hetzelfde product bijvoorbeeld. Mond-op-mondreclame is daarom één van de krachtigste vormen van reclame. Een klantervaring van de persoon zelf zorgt voor meer autoriteit en vertrouwen. Een testimonial video is daarom de perfecte manier om jouw product, dienst of bedrijf te promoten.
     displaymedia: custom_video
   - type: content_block
     video:
