@@ -10,7 +10,7 @@ blocks:
   - type: hero_block
     content: Als het gaat om doeltreffende marketing is het erg belangrijk om te
       kiezen voor het *juiste middel.* Daarom kan je bij ons verschillende
-      soorten video laten maken. Op deze pagina vindt je een aantal primaire
+      soorten video laten maken. Op deze pagina vind je een aantal primaire
       videovormen die bijna noodzakelijk zijn in de juiste marketingmix. We
       produceren echter nog vele andere vormen video, vraag onze adviseurs voor
       meer informatie.
@@ -26,7 +26,7 @@ blocks:
       ## ***Bedrijfsfilm***
 
 
-      Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of corporate movie laten maken is een prachtige manier om je bedrijf met haar unieke visie te presenteren. We kijken samen met jou wat de doelen zijn van je organisatie en wat jullie voor de wereld van morgen betekenen. Lees hier meer over bedrijfsfilms.
+      Een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of corporate movie laten maken is een prachtige manier om je bedrijf met haar unieke visie te presenteren. We kijken samen met jou wat de doelen zijn van je organisatie en wat jullie voor de wereld van morgen betekenen. Lees meer over bedrijfsfilms.
     displaymedia: custom_video
     image:
       source: ""
@@ -105,7 +105,7 @@ blocks:
       ## ***Vermenselijk*** je merk met een video
 
 
-      Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een video is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze video laten maken.
+      Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een video is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en persoonlijke video laten maken.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
