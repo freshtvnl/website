@@ -90,7 +90,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - peter-de-graaf
+      - suzan-abbas
 seo:
   title: Animatiefilm ICON Geneesmiddelenonderzoek - Phil & Flo Videomarketing
   description: "Phil & Flo Videomarketing presenteert de animatiefilm ICON
