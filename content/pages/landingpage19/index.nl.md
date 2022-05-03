@@ -19,6 +19,46 @@ blocks:
       testimonials!
     displaymedia: null
   - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: |-
+      ## Wat is een video testimonial?
+
+      Tekst.
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: |-
+      ## Wat is testimonial advertising?
+
+      Tekst.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: |-
+      ## Waarom een testimonial?
+
+      Tekst.
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: |-
+      ## Hoe maak je een video testimonial?
+
+      Tekst.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: |-
+      ## Waaraan koppel je een testimonial video het best op je website?
+
+      Tekst.
+  - type: content_block
     align: left
     content: >-
       ## Je klanten een podium bieden?
