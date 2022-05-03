@@ -104,9 +104,7 @@ blocks:
   - type: selectedreviews_block
     items:
       - oio-systems
-  - type: contact_block
-    contacts:
-      - sophie
+    title: De reactie van OIO Systems
 seo:
   title: "2D animatie voor OIO systems | Case | Phil & Flo "
   description: Een systeem voor morgen verbeeld in een 2D animatie | Phil & Flo
