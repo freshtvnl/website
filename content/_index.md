@@ -10,7 +10,7 @@ blocks:
     displaymedia: null
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
-      autoplay: false
+      autoplay: true
       image:
         source: phil-flo-animatie.jpg
     align: center
