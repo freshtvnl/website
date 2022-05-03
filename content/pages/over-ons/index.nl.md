@@ -35,7 +35,7 @@ blocks:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
     content: >-
-      ## ***Hoe***
+      ## ***Hoe?***
 
 
       Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van ons BLIEP-model. BLIEP staat voor: ***Beste, Leukste, Innovatief, Efficiënt & Principieel.***
@@ -48,7 +48,7 @@ blocks:
       autoplay: false
   - type: content_block
     content: >-
-      ## ***Wat***
+      ## ***Wat?***
 
 
       Wij zijn specialisten op het gebied van [video](/oplossingen/video-laten-maken/), [animatie](/oplossingen/animatie-laten-maken/), [virtual Reality](/vr-animatie-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) & [interactieve video](/oplossingen/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
