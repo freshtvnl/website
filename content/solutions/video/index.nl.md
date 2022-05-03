@@ -116,29 +116,33 @@ blocks:
       ## ***Video laten maken*** van A tot Z
 
 
-      Dus je hebt besloten dat het tijd is om een video te laten maken? Mooi! Phil & Flo kijkt welke video het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we video die je niet meer loslaten.
+      Dus je hebt besloten dat het tijd is om een video te laten maken? Mooi! Phil & Flo kijkt welke video het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we video die je niet meer loslaten.[](https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4)
     displaymedia: custom_video
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
     align: right
     align_text: text-left
     content: |-
       ## ***Hoeveel tijd*** kost een video laten maken?
 
       Tekst.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
     align: left
     align_text: text-left
     content: |-
       ## ***Hoeveel kost*** een professionele video laten maken?
 
       Tekst.
+    displaymedia: custom_video
   - type: content_block
     align: center
     content: >-
