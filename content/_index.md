@@ -2,8 +2,7 @@
 title: Phil & Flo Creative Studio
 blocks:
   - type: hero_block
-    title: "***Animatie***, ***film*** en ***branding*** voor ***duurzame
-      organisaties.***"
+    title: "***Animatie, film en branding voor duurzame organisaties."
     image:
       source: phil-flo-animatie.jpg
       alt: Phil en Flo
