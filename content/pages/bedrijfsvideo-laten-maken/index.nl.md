@@ -18,7 +18,16 @@ blocks:
     youtube:
       id: PEXDnd9K_m4
   - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## Wat is ***een bedrijfsvideo?***
+
+
+      Een bedrijfsvideo brengt in beeld en geluid over waar je bedrijf met product of dienst voor staat. Er zijn verschillende doelen te verbinden aan een bedrijfsvideo laten maken, zoals **het versterken van je bedrijfsidentiteit**. Zo kan je ook een bedrijfsvideo maken waarmee je met je product of dienst een **oplossing biedt** voor een probleem. De basis ligt erin om de boodschap die je wilt overdragen op een pakkende manier te vertonen.
     align: left
+  - type: content_block
+    align: right
     content: >-
       ## ***Spread the word, eh..  bedrijfsvideo***
 
@@ -30,8 +39,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Corporate*** identiteit?
 
@@ -47,7 +57,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Hoog in de zoekresultaten***
 
@@ -63,7 +73,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Over ons & bedrijfsvideo's***
 
@@ -79,6 +89,42 @@ blocks:
       url: /offerte-ontvangen/
       text: Ik wil graag een offerte ontvangen
       type: button
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Waar moet een bedrijfsvideo aan voldoen?*** 
+
+
+      Er zijn een aantal criteria waar een bedrijfsvideo aan dient te voldoen om succesvol te zijn. In de eerste plaats is de kwaliteit van beeld en geluid van groot belang. Daarnaast dient de bedrijfsvideo over een duidelijke boodschap te beschikken die krachtig naar voren komt. Om op de beleving in te spelen, is daarbij gebruik te maken van het inspelen op emoties. 
+
+
+      Het inspelen op de emotie is van groot belang om de kijkers een gevoel van betrokkenheid te laten ervaren. Er is bij een bedrijfsvideo laten maken bij ons altijd rekening te houden met de cultuur, identiteit en gewenste uitstraling van je bedrijf. Verder is het belangrijk dat de bedrijfsvideo zowel bij je bedrijf als bij de boodschap past. De vormgeving in beeld is daarbij af te stemmen op bijvoorbeeld je huisstijl. Het is tevens van belang dat het beeld past bij de omgeving net als dat de informatie daarop aansluit, zodat er een complete beleving ontstaat.
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    content: >-
+      ## Hoe ***produceert*** Phil & Flo een bedrijfsvideo?
+
+
+      Het maken van een bedrijfsvideo begint bij een eerste gesprek waarin je alle ruimte hebt om je wensen op tafel te leggen. Dan volgt er een creatieve sessie om concreet vorm te geven aan alle ideeën. Onze projectmanager is daarbij je rechtstreekse contact die zorg draagt voor de opzet van een script of voor vragen voor een interview.
+
+
+      Jij ontvangt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) om daarna je feedback erop te geven om vervolgens tot een definitief script te komen. Daarna volgt het opstellen van een draaiboek waarin alles tot in detail is uitgewerkt. De draaidag voor het maken van de professionele bedrijfsvideo vindt plaats op de overeengekomen dag. De regisseur is verantwoordelijk voor het gehele proces en de cameraman filmt de beelden. Er volgt na de draaidag een briefing voor onze editor die daarna aan de slag gaat. Daarna krijg je al snel de eerste filmversie te zien waarop feedback mogelijk is die wij samen met je bespreken en verwerken. Zo komen wij tot een eindversie van de bedrijfsvideo productie en zijn er nog opties voor ondertiteling, teasers of het maken van filmposters.
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## Wat zijn de ***kosten*** van een bedrijfsvideo?
+
+
+      De kosten van een bedrijfsvideo zijn uiteraard afhankelijk van meerdere aspecten. De omvang van de productie speelt daarbij een rol net als de inzet van bijvoorbeeld lichtspecialisten en de locatie. Er zijn wat dat betreft verschillende bedrijfsvideo kosten te onderscheiden, zodat het niet mogelijk is om een gemiddelde bedrijfsvideo prijs direct hier met je te delen. 
+
+
+      Wij leveren voor het maken van een professionele bedrijfsvideo altijd maatwerk en daar stemmen wij de prijs op af. Overigens vinden wij het wel belangrijk om transparant te zijn in alle bedrijfsvideo kosten. Daar bieden wij dan ook helderheid in op het moment dat je een aanvraag voor een offerte bij ons indient.
 seo:
   title: "Bedrijfsvideo laten maken | Phil & Flo | Creative studio "
   description: "Bedrijfsvideo’s laten zien hoe trots je bent op je medewerkers en
