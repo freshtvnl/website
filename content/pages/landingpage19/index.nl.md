@@ -32,7 +32,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-NOM1.mp4
+      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken1.mp4
     align: right
     content: |-
       ## Wat is testimonial advertising?
@@ -42,7 +42,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-Beter-Bed-Verkoper1.mp4
+      source_mp4: https://video.philenflo.nl/video/Testimonial-video-laten-maken1.mp4
     align: left
     content: |-
       ## Waarom een testimonial?
@@ -63,7 +63,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-NOM2.mp4
+      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken2.mp4
     align: left
     content: |-
       ## Waaraan koppel je een testimonial video het best op je website?
