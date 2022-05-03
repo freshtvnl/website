@@ -10,14 +10,14 @@ blocks:
     displaymedia: null
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
-      autoplay: true
+      autoplay: false
       image:
         source: phil-flo-animatie.jpg
     align: center
     align_text: center
   - type: content_block
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
       image:
         source: phil-flo-animatie.jpg
@@ -31,7 +31,7 @@ blocks:
       url: /contact/
       text: Neem direct contact op
       type: button
-      color: pink
+      color: green
     image:
       source: phil-flo-animatie.jpg
     align_text: text-left
@@ -70,11 +70,11 @@ blocks:
 
       \
 
-      **De wereld van morgen.** [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
+      **De wereld van morgen**. [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
 
       \
 
-      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
+      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: **visualisatie**. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
 
 
       Wij zijn Phil & Flo\
