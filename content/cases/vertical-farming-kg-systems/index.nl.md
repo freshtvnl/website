@@ -64,16 +64,16 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - 7VtuzLwVv
   - type: selectedwork_block
     title: 3D voorbeelden
     items:
-      - TVPuqcwvQ
-      - DG0aSzvMj
-      - sCR0-5I1N
+      - animatiefilm-over-biogas
+      - BinBin
+      - alfen-Smart-Charging-Network-3D-animatie
     more_items: false
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
 seo:
   title: 3D animatie voor KG Systems | Phil & Flo | Verbeelden de wereld van morgen
   description: Phil & Flo heeft in een 3D animatie het verhaal van KG systems
