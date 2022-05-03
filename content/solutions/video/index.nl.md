@@ -111,7 +111,19 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
     align: right
+    align_text: text-left
+    content: >-
+      ## ***Hoeveel tijd*** kost een video laten maken?
+
+
+      Het laten maken van een video is niet alleen het filmen van de juiste beelden. Er gaat een proces van concept, strategie en voorbereiding aan vooraf. Daarna komt het filmen van alle beelden zelf. We proberen altijd om alle beelden er in één draaidag op te zetten. Onze creative producers zorgen daarom voor een duidelijke planning en script. Een video waarin je medewerkers of acteurs inzet, duurt vaak langer dan het filmen van video’s waarin je dit niet doet. Maar met een goede voorbereiding is alles mogelijk. Ben je benieuwd hoeveel tijd het kost om voor jouw bedrijf een video te maken? Neem dan contact op met een van onze experts.
+    displaymedia: custom_video
+  - type: content_block
+    align: left
     content: >-
       ## ***Video laten maken*** van A tot Z
 
@@ -124,24 +136,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
-    align: left
-    align_text: text-left
-    content: |-
-      ## ***Hoeveel tijd*** kost een video laten maken?
-
-      Tekst.
-    displaymedia: custom_video
-  - type: content_block
-    video:
-      autoplay: true
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
     align: right
     align_text: text-left
-    content: |-
+    content: >-
       ## ***Hoeveel kost*** een professionele video laten maken?
 
-      Tekst.
+
+      De kosten van een video laten maken zijn afhankelijk van jouw eigen wensen. Hoe lang moet een video zijn? Waarvoor ga je een video inzetten? Voor elk doel kunnen we een offerte op maat maken. Wil je weten hoeveel jouw video gaat kosten? Vraag dan vrijblijvend een offerte aan. Phil & Flo denkt graag met je mee en werkt met eerlijke tarieven.
     displaymedia: custom_video
   - type: content_block
     align: center
