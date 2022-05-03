@@ -94,7 +94,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - sebastiaan
+      - victor
 seo:
   title: Coornhert Gymnasium 2D Animatie - Phil & Flo Videomarketing
   description: Speciaal voor het Coornhert Gymnasium hebben wij een unieke video
