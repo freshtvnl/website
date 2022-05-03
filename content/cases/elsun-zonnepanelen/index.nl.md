@@ -85,7 +85,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - sebastiaan
+      - peter-de-graaf
 seo:
   title: Promotiefilm voor Elsun Zonnepanelen | Phil & Flo | Case
   description: Unieke promotiefilm voor Elsun zonnepanelen | Case | Wij verbeelden
