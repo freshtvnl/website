@@ -12,7 +12,7 @@ blocks:
       organisatie, want geloof het of niet; mensen vertonen nu eenmaal
       kuddegedrag. Hoe kan je hier als organisatie effectief op inspelen?
       Allereerst door je klanten dusdanig in de watten te leggen dat ze lovend
-      over je p[roduct](https://www.philenflo.nl/3d-productvideo/) of
+      over je [product](https://www.philenflo.nl/3d-productvideo/) of
       dienstverlening zijn. Bied deze tevreden groep vervolgens een podium om
       hun klantbeoordeling te kunnen uiten. Dit kan in tekst, maar Phil & Flo
       wil je liever kennis laten maken met het veel krachtigere fenomeen; video
