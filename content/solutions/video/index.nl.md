@@ -105,10 +105,10 @@ blocks:
       ## ***Vermenselijk*** je merk met een video
 
 
-      Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een videofilm is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze videofilm laten maken.
+      Shoppen, werken en communiceren doen we steeds meer online. Dat is natuurlijk best handig, maar zorgt er ook voor dat we merken niet meer aan gezichten kunnen koppelen. Een video is super geschikt om je merk te ‘vermenselijken’ en in contact te brengen met je doelgroep. Bij Phil & Flo kun je een eigentijdse, verrassende en eigenwijze video laten maken.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
     align: right
@@ -116,23 +116,23 @@ blocks:
       ## ***Videofilm laten maken*** van A tot Z
 
 
-      Dus je hebt besloten dat het tijd is om een videofilm te laten maken? Mooi! Phil & Flo kijkt welke videofilm het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we videofilms die je niet meer loslaten.
+      Dus je hebt besloten dat het tijd is om een video te laten maken? Mooi! Phil & Flo kijkt welke video het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we video die je niet meer loslaten.
     displaymedia: custom_video
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
   - type: content_block
     align: center
     content: >-
-      ## ***Ook een videofilm laten maken?***
+      ## ***Ook een video laten maken?***
 
 
-      Wil je een videofilm laten maken die scoort? Kom een kopje koffie drinken in Amsterdam, Eindhoven of Groningen en ontdek welk soort videofilm het beste bij jou past! Of bel direct met onze adviseurs 085 - 273 8331
+      Wil je een video laten maken die scoort? Kom een kopje koffie drinken in Amsterdam, Eindhoven of Groningen en ontdek welk soort video het beste bij jou past! Of bel direct met onze adviseurs 085 - 273 8331
     cta:
       url: /contact/
       text: Contact opnemen
       type: button
-    displaymedia: custom_video
+    displaymedia: null
     youtube:
       id: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
     align_text: text-left
