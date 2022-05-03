@@ -19,7 +19,7 @@ blocks:
       Videomarketing. In 2021 gaan we verder onder de huidige naam: Phil & Flo
       Creative Studio. Wij zijn een hecht team van professionals die werken voor
       organisaties die bij ons passen, volgens ons ***BLIEP-model***."
-    displaymedia: youtube_video
+    displaymedia: null
     youtube:
       id: 7TOmvPxRGC8
   - type: content_block
@@ -70,7 +70,7 @@ blocks:
   - type: collection_block
     collection: members
     title: Team
-    number_of_items: 10
+    number_of_items: 11
     heading: h2
 seo:
   title: Over Ons - Phil & Flo Creative Studio
