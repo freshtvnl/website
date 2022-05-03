@@ -93,7 +93,7 @@ blocks:
       autoplay: true
   - type: contact_block
     contacts:
-      - sebastiaan
+      - suzan-abbas
 seo:
   title: UMCG Employer Branding Chirurgie - Phil & Flo Videomarketing
   description: Employer Branding video voor UMCG | Phil & Flo video marketing |
