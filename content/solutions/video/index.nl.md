@@ -128,7 +128,7 @@ blocks:
       ## ***Video laten maken*** van A tot Z
 
 
-      Dus je hebt besloten dat het tijd is om een video te laten maken? Mooi! Phil & Flo kijkt welke video het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we video die je niet meer loslaten.[](https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4)
+      Je hebt besloten dat het tijd is om een video te laten maken? Leuk! Phil & Flo kijkt welke video het beste bij je past en is er van het eerste idee tot de uitvoering. Dankzij onze jarenlange ervaring maken we video's die je niet meer loslaten.[](https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4)
     displaymedia: custom_video
     video:
       autoplay: true
