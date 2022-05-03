@@ -25,13 +25,11 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Waarom? Omdat we willen bijdragen aan een betere wereld voor de
-      volgende generaties. Dat is waar we onze tijd en energie als team in
-      willen steken. Wij willen organisaties, die zich actief inzetten voor een
-      betere wereld, helpen hun boodschap te verkondigen, te verbeelden. Ook wij
-      zetten ons actief in voor een betere wereld, bekijk ook onze
-      [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/)
-      voor meer informatie rondom onze maatschappelijke betrokkenheid.
+    content: >-
+      ## ***Waarom?***
+
+
+      Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken. Wij willen organisaties, die zich actief inzetten voor een betere wereld, helpen hun boodschap te verkondigen, te verbeelden. Ook wij zetten ons actief in voor een betere wereld, bekijk ook onze [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/) voor meer informatie rondom onze maatschappelijke betrokkenheid.
     align: left
     image:
       source: images/peter-opnames-douwe-egberts.jpg
