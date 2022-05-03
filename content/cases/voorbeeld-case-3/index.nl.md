@@ -74,9 +74,6 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: 8tKtbeTsmfQ
-  - type: selectedreviews_block
-    items:
-      - pnk6EF_0s
   - type: contact_block
     contacts:
       - aron
