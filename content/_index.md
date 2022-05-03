@@ -68,13 +68,16 @@ blocks:
 
       Waar alle kinderen veilig naar [school](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) kunnen en waar elk mens toegang heeft tot de beste [zorg](https://www.philenflo.nl/branches/zorg-pharma/). \
 
+      \
+
       **De wereld van morgen.** [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
+
+      \
 
       Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: visualisatie. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
 
 
-      Wij zijn Phil & Flo
-
+      Wij zijn Phil & Flo\
 
       Wij verbeelden ***de wereld van morgen.***
   - type: collection_block
