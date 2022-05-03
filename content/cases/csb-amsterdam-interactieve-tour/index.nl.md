@@ -155,7 +155,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: center
     form: contact-formulier
   - type: selectedreviews_block
     items:
