@@ -9,7 +9,7 @@ color: yellow
 branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Hanzehogeschool_PhilenFlo_Video_Animatie_1.mp4
@@ -68,6 +68,9 @@ blocks:
     youtube:
       id: dU3J2Z5S5I0
     displaymedia: youtube_video
+  - type: contact_block
+    contacts:
+      - inge-b
 seo:
   title: 2D animatie voor Hanze Hogeschool | Phil & Flo
   description: "2D animatie voor Hanze Hogeschool | Phil & Flo verbeelden de
