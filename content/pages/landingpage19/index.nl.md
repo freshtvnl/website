@@ -63,11 +63,13 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-NOM2.mp4
     align: left
     content: |-
       ## Waaraan koppel je een testimonial video het best op je website?
 
       Tekst.
+    displaymedia: custom_video
   - type: content_block
     align: center
     content: >-
