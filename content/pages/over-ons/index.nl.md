@@ -22,6 +22,7 @@ blocks:
     displaymedia: null
     youtube:
       id: 7TOmvPxRGC8
+    align: center
   - type: content_block
     video:
       autoplay: true
