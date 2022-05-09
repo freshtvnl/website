@@ -3540,6 +3540,10 @@ span.flatpickr-weekday{
     margin-top: 3rem;
   }
 
+  .lg\:mt-16 {
+    margin-top: 4rem;
+  }
+
   .lg\:block {
     display: block;
   }
