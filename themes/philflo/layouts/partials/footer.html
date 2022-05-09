@@ -166,6 +166,89 @@
         {{ end }}
       </div>
     </div>
+
+    <div class="pb-6 mx-auto mt-8 mb-6 text-gray-100 ">
+      <div class="grid grid-cols-2 gap-6 pt-4 lg:grid-cols-4">
+        {{ if .Site.Menus.footermenu1}}
+        {{ $page := . }}
+        <div>
+          {{ range $index, $element := .Site.Menus.footermenu1 }}
+          {{ $is := $page.IsMenuCurrent "footermenu1" . }}
+          <h4 class="mb-3 text-lg font-semibold leading-6 ">
+            {{ .Name }}
+          </h4>
+          {{ if .HasChildren }}
+            {{ range .Children }}
+            <a href="{{ .URL }}"
+            class="text-base leading-6 mb-3 block hover:opacity-75 focus:outline-none focus:text-gray-500 transition ease-in-out duration-50  {{if $is }}  text-gray-200 {{else}}  text-white {{end}}">
+            {{ .Name }}
+          </a>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+        {{ if .Site.Menus.footermenu2}}
+        {{ $page := . }}
+        <div>
+          {{ range $index, $element := .Site.Menus.footermenu2 }}
+          {{ $is := $page.IsMenuCurrent "footermenu1" . }}
+          <h4 class="mb-3 text-lg font-semibold leading-6 ">
+            {{ .Name }}
+          </h4>
+          {{ if .HasChildren }}
+            {{ range .Children }}
+            <a href="{{ .URL }}"
+            class="text-base leading-6 mb-3 block hover:opacity-75 focus:outline-none focus:text-gray-500 transition ease-in-out duration-50  {{if $is }}  text-gray-200 {{else}}  text-white {{end}}">
+            {{ .Name }}
+          </a>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+        {{ if .Site.Menus.footermenu3}}
+        {{ $page := . }}
+        <div>
+          {{ range $index, $element := .Site.Menus.footermenu3 }}
+          {{ $is := $page.IsMenuCurrent "footermenu1" . }}
+          <h4 class="mb-3 text-lg font-semibold leading-6 ">
+            {{ .Name }}
+          </h4>
+          {{ if .HasChildren }}
+            {{ range .Children }}
+            <a href="{{ .URL }}"
+            class="text-base leading-6 mb-3 block hover:opacity-75 focus:outline-none focus:text-gray-500 transition ease-in-out duration-50  {{if $is }}  text-gray-200 {{else}}  text-white {{end}}">
+            {{ .Name }}
+          </a>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+        {{ if .Site.Menus.footermenu4}}
+        {{ $page := . }}
+        <div>
+          {{ range $index, $element := .Site.Menus.footermenu4 }}
+          {{ $is := $page.IsMenuCurrent "footermenu1" . }}
+          <h4 class="mb-3 text-lg font-semibold leading-6 ">
+            {{ .Name }}
+          </h4>
+          {{ if .HasChildren }}
+            {{ range .Children }}
+            <a href="{{ .URL }}"
+            class="text-base leading-6 mb-3 block hover:opacity-75 focus:outline-none focus:text-gray-500 transition ease-in-out duration-50  {{if $is }}  text-gray-200 {{else}}  text-white {{end}}">
+            {{ .Name }}
+          </a>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+
     <div class="flex flex-col items-center justify-center mt-24 space-y-6 text-sm text-center xl:mt-32 md:text-left">
       <nav class="flex flex-col md:flex-row md:space-x-6">
         {{ $currentPage := . }}

@@ -1,0 +1,88 @@
+footermenu1:
+  - weight: "0"
+    name: Oplossingen
+    pre: Title
+    url: /
+  - weight: -6
+    name: Animatie
+    url: /oplossingen/animatie-laten-maken/
+    parent: Oplossingen
+  - weight: -5
+    name: Video
+    url: /oplossingen/video-laten-maken/
+    parent: Oplossingen
+  - weight: -4
+    name: Interactief
+    url: /oplossingen/interactieve-video/
+    parent: Oplossingen
+  - weight: -3
+    name: Virtual Reality
+    url: /oplossingen/virtual-reality/
+    parent: Oplossingen
+  - weight: -2
+    name: Videomarketing
+    url: /oplossingen/videomarketing/
+    parent: Oplossingen
+  - weight: -1
+    name: Employer Branding
+    url: /oplossingen/employer-branding/
+    parent: Oplossingen
+footermenu2:
+  - weight: "0"
+    name: Branches
+    pre: Title
+    url: /
+  - weight: -6
+    name: Duurzame energie
+    url: /branches/duurzame-energie/
+    parent: Branches
+  - weight: -5
+    name: Innovatieve Tech
+    url: /branches/innovatieve-tech/
+    parent: Branches
+  - weight: -4
+    name: Zorg & Pharma
+    url: /branches/zorg-pharma/
+    parent: Branches
+  - weight: -3
+    name: Onderwijs
+    url: /branches/onderwijs-kunst-cultuur/
+    parent: Branches
+  - weight: -2
+    name: Fair Food
+    url: /branches/fair-food/
+    parent: Branches
+  - weight: -1
+    name: Goede Doelen
+    url: /branches/goede-doelen/
+    parent: Branches
+footermenu3:
+  - weight: "0"
+    name: Cases
+    pre: Title
+    url: /
+  - weight: -6
+    name: CSB - Interactieve Open Dag
+    url: /portfolio/csb-amsterdam-interactieve-tour/
+    parent: Cases
+  - weight: -5
+    name: UMCG - Werken Bij UMCG als ANIOS
+    url: /portfolio/umcg-werken-bij-umcg-als-anios/
+    parent: Cases
+  - weight: -4
+    name: Alfen - 3D Animatie
+    url: /portfolio/alfen-smart-charging-network-3d-animatie/
+    parent: Cases
+footermenu4:
+  - weight: "0"
+    name: Blog
+    pre: Title
+    url: /
+  - weight: -6
+    name: Employer branding
+    url: /blog/het-nut-van-een-employer-branding-video-voor-jouw-bedrijf/
+    parent: Blog
+  - weight: -5
+    name: Virtual reality
+    url: /blog/virtual-reality-inzetten-voor-een-bedrijfsvideo/
+    parent: Blog

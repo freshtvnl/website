@@ -18,6 +18,7 @@ import { faq } from './collections/faq'
 import { blog } from './collections/blog'
 import { forms } from './collections/forms'
 import { global } from './settings/global'
+import { menus } from './settings/menus'
 import { logos } from './collections/logos'
 
 CMS.init({
@@ -41,7 +42,7 @@ CMS.init({
       locales: ['nl', 'en', 'de'],
       default_locale: 'nl'
     },
-    collections: [pages, blog, members, branches, solutions, cases, knowledgebase, homepages, reviews, faq, forms, global, logos]
+    collections: [pages, blog, members, branches, solutions, cases, knowledgebase, homepages, reviews, faq, forms, global, menus, logos]
   },
 })
 
