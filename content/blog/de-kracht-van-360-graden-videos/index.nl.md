@@ -5,7 +5,7 @@ draft: false
 image:
   source: images/360-graden-video-kite.jpg
 author: ""
-date: 2022-05-11T09:30:53.648Z
+date: 2022-05-10T13:07:10.010Z
 color: yellow
 seo:
   title: "De kracht van 360 graden video's | Phil & Flo | Blog "
