@@ -10,7 +10,7 @@ color: blue
 branch: Innovatieve-tech
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
     displaymedia: youtube_video
