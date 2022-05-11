@@ -11,7 +11,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
-    title: Bibi & Lulu - 2D Animatie
+    title: Bibi & Lulu ***2D Animatie***
     displaymedia: youtube_video
     youtube:
       id: mxDUAkq5ncI
