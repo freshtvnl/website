@@ -17,7 +17,7 @@ blocks:
       succesvolle videostrategie om deze fantastische app succesvol te
       lanceren."
     displaymedia: custom_video
-    title: "***Product video Payconiq***"
+    title: "***Product video*** Payconiq"
     image:
       source: images/payconiq-innovatieve-tech-phil-en-flo.jpg
     video:
