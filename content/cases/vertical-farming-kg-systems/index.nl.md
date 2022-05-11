@@ -9,7 +9,7 @@ color: blue
 branch: Innovatieve-tech
 blocks:
   - type: hero_block
-    title: "***Vertical Farming 3D animatie***"
+    title: Vertical Farming ***3D animatie***
     content: Hoe organiseren we onze voedselproductie in de eenentwintigste eeuw? KG
       Systems gaf ons het antwoord. Wij, van Phil & Flo hebben dit antwoord
       vertaald naar een krachtige 3D animatie waarin we de vertical farm van KG
