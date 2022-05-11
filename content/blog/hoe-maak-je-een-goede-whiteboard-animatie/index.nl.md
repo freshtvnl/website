@@ -20,7 +20,7 @@ Een whiteboard animatie bestaat uit tekst, illustraties of andere visuele elemen
 
 ## Wat heb je eraan?
 
-Eerlijk is eerlijk: Voor sommige doeleinden zijn whiteboard animaties perfect. Maar er zijn ook veel voorbeelden te vinden van situaties waarin een ander type animatie beter tot zijn recht was gekomen.
+Eerlijk is eerlijk: Voor sommige doeleinden zijn whiteboard animaties perfect. Maar er zijn ook veel voorbeelden te vinden van situaties waarin een [ander type animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) beter tot zijn recht was gekomen.
 
 ### Waarom een whiteboard animatie?
 
@@ -53,7 +53,7 @@ Ook de witte achtergrond heeft een functie. Het legt namelijk de nadruk op de in
 
 ### De animaties
 
-Een belangrijk onderdeel van uitleganimaties of infographics, is dat animaties goed op elkaar aansluiten en naadloos in elkaar overgaan. Dit geeft energie aan het verhaal en zorgt voor samenhang. Zo is het prettig om naar te kijken en neemt het de kijker meein het verhaal op weg naar het eindpunt. De CTA.
+Een belangrijk onderdeel van uitleganimaties of infographics, is dat animaties goed op elkaar aansluiten en naadloos in elkaar overgaan. Dit geeft energie aan het verhaal en zorgt voor samenhang. Zo is het prettig om naar te kijken en neemt het de kijker mee in het verhaal op weg naar het eindpunt. De CTA.
 
 ## Creatieve illustraties
 
@@ -68,3 +68,5 @@ De kracht van whiteboard animaties is de eenvoud. Het bestaat uit een achtergron
 Phil & Flo start altijd met een intake en daarop volgend een creatieve sessie. Een kickoff van het project waarin we samen bekijken welke doelstellingen je wilt behalen met de animatie en wat de belangrijkste boodschap om te communiceren is.
 
 Met de resultaten van deze sessie gaat ons creatieve team aan de slag om een script en storyboard te maken. Deze vormen de basis van de uiteindelijke animatie. Dan komt het belangrijkste: het maken de animatie. Dit wordt gedaan door onze animators in onze studio. Wanneer zij klaar zijn, zorgen we met muziek en de juiste voiceover voor een finishing touch. Je gloednieuwe animatie is klaar om te delen met de buitenwereld. En dan begint het pas echt.
+
+[Neem contact op](https://www.philenflo.nl/contact/) met één van onze experts om te kijken wat we voor jou kunnen betekenen.
