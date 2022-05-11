@@ -18,7 +18,7 @@ blocks:
       aspecten heeft. Daarom kwam Phil & Flo met het idee om een vlotte en
       overtuigende werken-bij video te maken om potentiële aniossen aan te
       spreken.
-    title: Werken als Anios
+    title: "****Werken als Anios***"
     displaymedia: youtube_video
     image:
       source: images/foto-umcg.jpg
