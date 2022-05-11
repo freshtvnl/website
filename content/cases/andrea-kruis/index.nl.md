@@ -11,7 +11,7 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
-    title: Andrea Kruis - 2D Animatie
+    title: Andrea Kruis ***2D Animatie***
     displaymedia: youtube_video
     youtube:
       id: QTkY8qQOV9g
