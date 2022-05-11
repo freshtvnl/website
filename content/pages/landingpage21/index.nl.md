@@ -11,9 +11,11 @@ blocks:
       advertentie! Het voegt beleving en kracht toe aan het imago van een
       product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
       creatief en helder overbrengen aan de juiste doelgroep!'
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: uU_QxytkDYY
+    video:
+      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
   - type: content_block
     align: left
     content: >-
