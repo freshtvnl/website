@@ -13,9 +13,11 @@ blocks:
       bij de doelgroep. Dat wil je voor jouw bedrijf toch ook? Maar hoe maak je
       zo’n filmpje, en belangrijker nog: hoe zorg je dat je ermee scoort? Bij
       Phil & Flo weten we daar wel raad mee."
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: -8n5l374t2Q
+    video:
+      source_mp4: https://video.philenflo.nl/video/JDE-Professional-reclamefilm1.mp4
   - type: content_block
     align: left
     content: >-
