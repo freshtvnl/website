@@ -55,9 +55,7 @@ blocks:
       ## ***Kort***, maar ***krachtig!***
 
 
-      De aandachtspanne van een gemiddelde kijker is kort. Daarom adviseren we om animaties en films zo kort en krachtig mogelijk te houden. Ons streven is dan ook om binnen één minuut te blijven. Hoe schets je nu de context, het probleem én de oplossing in één minuut?
-
-      De kunst zit hem in het samenspel tussen woord & beeld. Je hoeft bijvoorbeeld niet alles te benoemen, omdat je ook veel kan zien. OIO Systems gaf ons een mooie uitdaging!
+      De aandachtspanne van een gemiddelde kijker is kort. Daarom adviseren we om animaties en films zo kort en krachtig mogelijk te houden. Ons streven is dan ook om binnen één minuut te blijven. Hoe schets je nu de context, het probleem én de oplossing in één minuut? De kunst zit hem in het samenspel tussen woord & beeld. Je hoeft bijvoorbeeld niet alles te benoemen, omdat je ook veel kan zien. OIO Systems gaf ons een mooie uitdaging!
     align: right
     displaymedia: custom_video
   - type: content_block
@@ -93,7 +91,7 @@ blocks:
       ## ***Het resultaat*** spreekt voor zich
 
 
-      Een dag na oplevering bel ik met Gilbert & John, en hoor ik prachtig nieuws. De animatie heeft op de dag van oplevering direct geholpen een nieuwe klant binnen te halen. Een succes voor OIO Systems en voor ons een prachtige beloning voor onze samenwerking!
+      Een dag na oplevering belden we met Gilbert & John, waarbij we prachtig nieuws kregen. De animatie heeft op de dag van oplevering direct geholpen een nieuwe klant binnen te halen. Een succes voor OIO Systems en voor ons een prachtige beloning voor onze samenwerking!
     displaymedia: youtube_video
     youtube:
       id: cFqxwjucQn8
