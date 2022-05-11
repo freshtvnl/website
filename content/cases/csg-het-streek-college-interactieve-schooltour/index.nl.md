@@ -12,7 +12,7 @@ blocks:
     align: left
     video:
       autoplay: true
-    title: "***CSG Het Streek College - Interactieve schooltour***"
+    title: CSG Het Streek College ***Interactieve schooltour***
     displaymedia: iframe
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
