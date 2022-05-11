@@ -14,7 +14,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Beckys-3d-animatie-video.mp4
-    title: "***Becky's 3D animatie voor de zoetekauw***"
+    title: "***Becky's 3D animatie*** voor de zoetekauw"
     content: >-
       Dé internationale groothandel in gifts, zoetwaren en snacks. Dan hebben we
       het over Becky’s. 
