@@ -36,11 +36,13 @@ blocks:
 
 
       Ben je op zoek naar een creatief videoproductie bureau dat jou in het gehele traject begeleidt en een uniek en overtuigend eindproduct aflevert? Welkom bij Phil & Flo! In samenwerking met jou bedenken we het gehele concept en produceren we een commercial die opvalt en resultaat boekt. Onze frisse blik en jarenlange ervaring staan garant voor een commercial die jouw klanten overtuigt.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     image:
       source: images/aron-sophie.jpg
     youtube:
       id: -8n5l374t2Q
+    video:
+      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
   - type: content_block
     align: left
     content: >-
