@@ -45,7 +45,11 @@ blocks:
       ## ***Step into my world***
 
 
-      Als ik aan Becky’s denk, denk ik aan een gave productie waarbij we mochten uitpakken én het net iets anders mochten doen. Namelijk het creëren van een sprookje! Daarbij was het belangrijk om goed in te spelen op gevoel.  Ik kan je vertellen, een productie met en over snoep was geen straf! Met veel plezier dook ik in de wereld van Becky’s.
+      Als onze projectmanager Inge aan Becky’s denkt, denkt ze aan een gave productie waarbij je mag uitpakken én het net iets anders mag doen. Namelijk het creëren van een sprookje! Daarbij is het belangrijk om goed in te spelen op gevoel. Inge neemt je graag mee in het proces.\
+
+      \
+
+      "Ik kan je vertellen, een productie met en over snoep was geen straf! Met veel plezier dook ik in de wereld van Becky’s."
     displaymedia: custom_video
   - type: content_block
     video:
