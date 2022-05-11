@@ -9,7 +9,7 @@ color: orange
 branch: fair-food
 blocks:
   - type: hero_block
-    title: Infomercial HZPC Sunita
+    title: "***Infomercial*** HZPC Sunita"
     content: Hoe introduceer je een nieuw aardappelras? Dat is een interessante
       vraag van [opdrachtgever HZPC](https://www.hzpc.com/). Phil & Flo Creative
       Studio kwam op het idee om een krachtige infomercial (informatieve
