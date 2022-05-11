@@ -1,5 +1,5 @@
 ---
-title: commercial laten maken
+title: Commercial laten maken
 slug: commercial-laten-maken
 draft: false
 blocks:
@@ -16,6 +16,7 @@ blocks:
       id: uU_QxytkDYY
     video:
       source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -43,6 +44,7 @@ blocks:
       id: -8n5l374t2Q
     video:
       source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
