@@ -40,8 +40,6 @@ De basis van vrijwel elke vorm van video is een verhaal. In 'gewone' video verte
 
 In tegenstelling tot volledige [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/), heeft de kijker niks extras nodig. Op bijna elk device of platform kun je een 360 graden video bekijken wat het aantrekkelijker maakt voor bedrijven om in te investeren.
 
-{{< youtube id="0ljMPjPQjRI" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
-
 ## Toepassingen van 360 graden video
 
 Er zijn veel manieren om 360 graden video te gebruiken. Bekende en minder bekende. Nuttige en minder nuttige. Maar in alle gevallen zorgt de verhoogde beleving en de realistische beelden voor meerwaarde ten opzichte van gewone video.
@@ -50,7 +48,14 @@ Er zijn veel manieren om 360 graden video te gebruiken. Bekende en minder bekend
 
 Wanneer 360 graden video's onderdeel zijn van [marketing campagnes](https://www.philenflo.nl/oplossingen/videomarketing/) ligt vaak de nadruk gelegd op beleving. Zo kunnen kijkers kennis laten maken met unieke ervaringen die ze anders nooit mee zouden kunnen maken of plekken bezoeken die tot de verbeelding spreken.
 
+{{< youtube id="lJype_TafRk" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
+
 Denk ook aan [virtual tours](https://www.philenflo.nl/virtuele-tour/). Soms zo simpel als de 360 graden tours die iedereen wel kent van Funda, maar soms als manier om mensen kennis te laten maken met je kantoor. Of om in te zetten bij de onboarding van nieuwe medewerkers of om op afstand een museum te bezoeken. 
+
+
+{{< youtube id="iYR9SHRKqYM" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
+{{< youtube id="zDAYZU4A3w0" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
+
 
 ### Bedrijfstrainingen en educatieve toepassingen
 
