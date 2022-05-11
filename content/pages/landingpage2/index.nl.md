@@ -34,7 +34,7 @@ blocks:
       Phil & Flo Creative Studio maakt YouTube ads die aanslaan bij je doelgroep. Wij adviseren je stap voor stap hoe je met YouTube marketing [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) en [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in kunt zetten in het reclamenetwerk van YouTube. Het grote voordeel van YouTube marketing is dat je zeer gericht kunt adverteren. Je kunt vooraf de karakteristieken van jouw doelgroep in kaart brengen en je ads gericht tonen.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/phil-en-flo-icoon-marketing-groen.jpg
   - type: content_block
     align: left
     content: >-
@@ -44,7 +44,7 @@ blocks:
       Hoeveel kost het om te adverteren op YouTube via Phil & Flo? Die vraag beantwoorden we aan de hand van de resultaten die je wilt gaan behalen met een YouTube campagne. Phil & Flo houdt zaken graag helder en maakt vaste prijsafspraken met je, zodat je niet achteraf wordt geconfronteerd met onverwachte rekeningen. Leer ons kennen en bel onze specialisten op 085 - 273 8331
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
     cta:
       url: /contact/
       text: Contact opnemen
