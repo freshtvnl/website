@@ -2,6 +2,8 @@
 title: Hoe maak je een goede whiteboard animatie?
 slug: whiteboard-animatie-laten-maken
 draft: false
+image:
+  source: images/diataal1.png
 date: 2022-05-10T13:07:56.788Z
 color: pink
 seo:
