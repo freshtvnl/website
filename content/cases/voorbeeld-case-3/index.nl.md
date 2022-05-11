@@ -10,7 +10,7 @@ color: red
 branch: goede-doelen
 blocks:
   - type: hero_block
-    title: "***Beroeps Organisatie Kunstenaars – 3D Animatie***"
+    title: Beroeps Organisatie Kunstenaars ***3D Animatie***
     displaymedia: custom_video
     content: Begin 2020 belt Henk Hofstra ons op met het verzoek voor een
       [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
