@@ -41,9 +41,12 @@ blocks:
 
 
       Phil en Flo heeft gekozen voor een reeks video’s gericht op B2C en B2B. Elke video heeft de maximale lengte van 1:29 minuut. De kracht van een korte [productvideo](https://www.philenflo.nl/3d-productvideo/) zit in de vergrote kans waarop de kijker de video tot het einde uit kijkt. Ontzettend belangrijk, want ‘vroege afhakers’ lopen de gewenste call to action mis aan het einde van de video.
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: -8n5l374t2Q
+    video:
+      source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-payconiq1.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
@@ -80,13 +83,16 @@ blocks:
     align: left
     image:
       source: ""
-    displaymedia: youtube_video
+    displaymedia: custom_video
     youtube:
       id: xG-FjaFq03A
     cta:
       text: Ook interesse in een succesvolle productvideo? Neem contact op.
       type: link
       url: /offerte-ontvangen/
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-payconiq3.mp4
   - type: contact_block
     contacts:
       - victor
