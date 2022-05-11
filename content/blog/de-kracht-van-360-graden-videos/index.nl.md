@@ -12,7 +12,7 @@ seo:
   description: "Wil jij 360 graden video's inzetten voor je bedrijf? Dan wil je
     weten hoe dit in zijn werk gaat. Lees hier meer. "
 ---
-Een 360 graden video - of immersive video - is een uitgeklede vorm van virtual reality: Het biedt een vergelijkbare ervaring, maar dan zonder extra hardware en het is gewoon te bekijken op je smartphone. 
+Een 360 graden video - of immersive video - is een uitgeklede vorm van [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/): Het biedt een vergelijkbare ervaring, maar dan zonder extra hardware en het is gewoon te bekijken op je smartphone. 
 
 Heb jij al nagedacht over hoe je dit in kunt zetten? In dit blog leggen we uit waarom het verstandig is om hier toch eens over na te denken.
 
@@ -52,10 +52,8 @@ Wanneer 360 graden video's onderdeel zijn van [marketing campagnes](https://www.
 
 Denk ook aan [virtual tours](https://www.philenflo.nl/virtuele-tour/). Soms zo simpel als de 360 graden tours die iedereen wel kent van Funda, maar soms als manier om mensen kennis te laten maken met je kantoor. Of om in te zetten bij de onboarding van nieuwe medewerkers of om op afstand een museum te bezoeken. 
 
-
 {{< youtube id="iYR9SHRKqYM" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
 {{< youtube id="zDAYZU4A3w0" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
-
 
 ### Bedrijfstrainingen en educatieve toepassingen
 
