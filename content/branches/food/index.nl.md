@@ -94,9 +94,9 @@ blocks:
     content: ""
     logo_items:
       - JDE
+      - Becky's
       - HZPC
       - MplusKASSA
-      - Becky's
       - KG Systems
   - type: selectedwork_block
     items:
