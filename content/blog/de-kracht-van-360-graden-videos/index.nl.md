@@ -3,7 +3,7 @@ title: De kracht van 360 graden video's
 slug: 360-graden-video
 draft: false
 image:
-  source: images/360-graden-video-kite.jpg
+  source: images/360-graden-video.jpg
 author: ""
 date: 2022-05-10T13:07:10.010Z
 color: yellow
