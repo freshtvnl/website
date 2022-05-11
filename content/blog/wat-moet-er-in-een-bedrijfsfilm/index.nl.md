@@ -18,7 +18,7 @@ Een bedrijfsfilm is een video die het unieke verhaal van een bedrijf vertelt en 
 
 ## Een duidelijk doel
 
-De eerste stap: Een doel bepalen. Met een bedrijfsfilm kun je namelijk alle kanten op. Het bedrijf voorstellen, maar je kunt een video ook gebruiken om nieuwe klanten te zoeken of om nieuwe werknemers te vinden. Elk doel heeft een eigen doelgroep en vereist weer een andere aanpak. 
+De eerste stap: Een doel bepalen. Met een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) kun je namelijk alle kanten op. Het bedrijf voorstellen, maar je kunt een video ook gebruiken om nieuwe klanten te zoeken of om [nieuwe werknemers](https://www.philenflo.nl/oplossingen/employer-branding/) te vinden. Elk doel heeft een eigen doelgroep en vereist weer een andere aanpak. 
 
 Vergeet bij het bepalen van de doelstelling de klant niet. Denk goed na over wat die uiteindelijk nodig heeft. De meeste klanten vragen zich uiteindelijk één ding af: What's in it for me?
 
@@ -54,7 +54,7 @@ Professionaliteit zorgt ervoor dat je als bedrijf serieus wordt genomen. En prof
 
 ## Verspreid de video
 
-Als de video klaar is, begint het eigenlijk pas. Het is zonde van de moeite als uiteindelijk niemand de bedrijfsfilm te zien krijgt. Verspreid de video zelf op je website en via social media of betaalde advertenties.
+Als de video klaar is, begint het eigenlijk pas. Het is zonde van de moeite als uiteindelijk niemand de bedrijfsfilm te zien krijgt. [Verspreid de video](https://www.philenflo.nl/oplossingen/videomarketing/) zelf op je website en via social media of betaalde advertenties.
 
 ## Vergeet de Call to action niet
 
@@ -62,4 +62,4 @@ Een call to action is een belangrijke manier om iets gedaan te krijgen. Traffic 
 
 ### Meer weten over een bedrijfsfilm?
 
-Laat je gegevens achter en onze specialisten nemen contact met je op.
+[Laat je gegevens achter](https://www.philenflo.nl/contact/) en onze specialisten nemen contact met je op.
