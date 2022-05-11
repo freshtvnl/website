@@ -25,11 +25,23 @@ Eerlijk is eerlijk: Voor sommige doeleinden zijn whiteboard animaties perfect. M
 ### Waarom een whiteboard animatie?
 
 • Werkt goed als ondersteuning van een presentatie
+
+
 • Ideaal om een grote hoeveelheid informatie op een onderhoudende manier over te brengen
+
+
 • Een whiteboard animatie maakt saaie informatie leuker en complexe informatie makkelijker
+
+
 • Relatief goedkoop om te produceren
+
+
 • Het format zorgt voor focus bij de kijker
+
+
 • Whiteboard animaties zijn breed inzetbaar: Vrijwel elk bedrijf kan er iets mee
+
+
 
 ## Whiteboard animaties: een paar handige tips
 
