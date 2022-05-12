@@ -38,7 +38,7 @@ Bij stop-motion film je een object en verplaats of verander je die in elk frame 
 
 De komst van computers eind jaren zeventig heeft het animeren veel makkelijker en efficiënter gemaakt. Software doet nu een deel van het zware werk en niet elk frame hoeft meer handmatig te worden gemaakt.
 
-Tegenwoordig is 95% van de animaties die je online ziet - onder andere in games, advertenties, op YouTube, websites en in banners - waarschijnlijk **digitale animaties**:
+Tegenwoordig is 95% van de animaties die je online ziet - onder andere in games, advertenties, op YouTube, websites en in banners - waarschijnlijk ***digitale animaties***:
 
 ## 2D-animatie
 
