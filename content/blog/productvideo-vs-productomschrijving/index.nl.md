@@ -12,8 +12,6 @@ seo:
   description: Kies je voor een productvideo of productomschrijving? Lees in dit
     blog de verschillen en hoe je het inzet.
 ---
-# Productvideo vs. Productomschrijving
-
 Productvideo's zijn niet langer meer leuk of nice-to-have, maar essentieel voor een succesvolle online verkoopstrategie. Wat is het nu precies waardoor productvideo's zo effectief zijn?
 
 ## Productvideo's werken conversieverhogend
