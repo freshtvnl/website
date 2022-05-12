@@ -26,7 +26,7 @@ Welke techniek je ook kiest, het principe van het achter elkaar afspelen van bee
 
 Het is belangrijk om onderscheid te maken tussen traditionele animaties en digitale animaties. Het grootste verschil tussen deze twee? Bij traditionele animatie wordt elk frame door de animator gemaakt en bij digitale animaties gebeurt dit voor een groot deel met software.
 
-De bekendste vormen van **traditionele animaties** zijn:
+De bekendste vormen van ***traditionele animaties*** zijn:
 
 ### Getekende animaties of celanimaties
 
@@ -37,8 +37,6 @@ Animaties die bestaan uit grote hoeveelheden tekeningen die op een lichtbak word
 Bij stop-motion film je een object en verplaats of verander je die in elk frame een beetje, om zo beweging te creëren. Klei animaties en cutout animaties zijn vormen van stop-motion animaties.
 
 De komst van computers eind jaren zeventig heeft het animeren veel makkelijker en efficiënter gemaakt. Software doet nu een deel van het zware werk en niet elk frame hoeft meer handmatig te worden gemaakt.
-
-
 
 Tegenwoordig is 95% van de animaties die je online ziet - onder andere in games, advertenties, op YouTube, websites en in banners - waarschijnlijk **digitale animaties**:
 
