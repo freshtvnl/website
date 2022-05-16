@@ -62,15 +62,15 @@ footermenu3:
     pre: Title
     url: /
   - weight: -6
-    name: CSB - Interactieve Open Dag
+    name: CSB 
     url: /portfolio/csb-amsterdam-interactieve-tour/
     parent: Cases
   - weight: -5
-    name: UMCG - Werken Bij UMCG als ANIOS
+    name: UMCG
     url: /portfolio/umcg-werken-bij-umcg-als-anios/
     parent: Cases
   - weight: -4
-    name: Alfen - 3D Animatie
+    name: Alfen
     url: /portfolio/alfen-smart-charging-network-3d-animatie/
     parent: Cases
 footermenu4:
@@ -86,3 +86,25 @@ footermenu4:
     name: Virtual reality
     url: /blog/virtual-reality-inzetten-voor-een-bedrijfsvideo/
     parent: Blog
+footermenu5:
+  - weight: "0"
+    name: Kennisbank
+    pre: Title
+    url: /
+  - weight: -6
+    name: Wat is een animatie?
+    url: /kennisbank/wat-is-een-animatie/
+    parent: Kennisbank
+  - weight: -5
+    name: Wat is videomarketing?
+    url: /kennisbank/wat-is-videomarketing/
+    parent: Kennisbank
+  - weight: -4
+    name: Wat is rechtenvrije muziek?
+    url: /kennisbank/wat-is-rechtenvrije-muziek/
+    parent: Kennisbank
+  - weight: -3
+    name: Hoe werkt een green screen?
+    url: /kennisbank/hoe-werkt-een-green-screen/
+    parent: Kennisbank
+

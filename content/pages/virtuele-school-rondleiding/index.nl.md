@@ -211,7 +211,4 @@ seo:
   title: Virtuele Interactieve school tour laten maken | Phil & Flo
   description: Virtuele interactieve tour laten maken voor jouw school. ✔
     Klantscore 8.9  ✔ Origineel en professioneel ✔ Op maat | Neem contact op
-menu:
-  footer:
-    weight: 13
 ---

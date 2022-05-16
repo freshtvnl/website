@@ -76,6 +76,13 @@ export const menuItems = [
       summary: '{{parent}} -> {{name}}',
       fields: menuFields
     },
+    {
+      label: 'Footer menu 5',
+      name: 'footermenu5',
+      widget: 'list',
+      summary: '{{parent}} -> {{name}}',
+      fields: menuFields
+    },
 
 
   ]

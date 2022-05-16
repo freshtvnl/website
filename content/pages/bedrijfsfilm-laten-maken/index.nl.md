@@ -220,7 +220,4 @@ seo:
   title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
     en snel gerealiseerd
-menu:
-  footer:
-    weight: 2
 ---

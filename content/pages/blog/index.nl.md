@@ -12,7 +12,4 @@ seo:
   title: Blog | Phil & Flo | Animatie, Films & branding
   description: "Blogs | Phil & Flo | Ontdek hier het laatste nieuws over branding,
     animatie en film. Lees snel meer. "
-menu:
-  footer:
-    weight: 1
 ---
