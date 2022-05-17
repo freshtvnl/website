@@ -15,10 +15,8 @@ blocks:
       Wil jij werken in een gezellig en gedreven team? Je tijd en creativiteit alleen besteden aan maatschappelijk verantwoorde organisaties? Werken van 9 tot 17 uur én elke vrijdag vrij zijn?
 
 
-      *Wie weet is één van onze vacatures iets voor jou:*
+      *Wie weet is onze vacature iets voor jou:*
 
-
-      * [2D Animator](https://www.philenflo.nl/vacature-2d-animator/) (fulltime)
 
       * [Accountmanager Sales](https://www.philenflo.nl/vacature-accountmanager-sales/) (fulltime)
     displaymedia: custom_video
