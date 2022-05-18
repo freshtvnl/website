@@ -70,7 +70,7 @@ blocks:
     displaymedia: youtube_video
   - type: contact_block
     contacts:
-      - inge-b
+      - suzan-abbas
 seo:
   title: 2D animatie voor Hanze Hogeschool | Phil & Flo
   description: "2D animatie voor Hanze Hogeschool | Phil & Flo verbeelden de
