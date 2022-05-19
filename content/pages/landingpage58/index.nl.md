@@ -24,7 +24,7 @@ blocks:
       url: /contact/
       text: Meer informatie
       type: button
-      color: blue
+      color: red
     displaymedia: custom_video
     align: left
     align_text: text-left
