@@ -1,5 +1,5 @@
 ---
-title: ICON health sciences
+title: PRA health sciences
 slug: pra-health-sciences-review
 draft: false
 quote:
