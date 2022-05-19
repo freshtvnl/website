@@ -12,7 +12,7 @@ quote:
     animaties en bedrijfsvideo's.
   company: "DMT environmental Technologies "
   image:
-    source: images/dmt-logo-2016.jpg
+    source: images/dmt.png
 seo:
   noindex: true
 ---
