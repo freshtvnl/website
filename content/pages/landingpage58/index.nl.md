@@ -26,8 +26,10 @@ blocks:
       type: button
       color: blue
     displaymedia: custom_video
-  - type: content_block
     align: left
+    align_text: text-left
+  - type: content_block
+    align: right
     content: >-
       ## Wat is 2D animatie?
 
@@ -43,8 +45,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## 2D animatie voor sfeer en stijl
 
@@ -57,7 +60,7 @@ blocks:
     youtube:
       id: ""
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## 3D of 2D animatie laten maken?
 
@@ -72,8 +75,9 @@ blocks:
       text: offerte ontvangen
       type: button
       color: pink
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## 2D animatie laten maken bij Phil & Flo
 
@@ -84,7 +88,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Vandaag nog alles weten over ***2D animaties***?
 
