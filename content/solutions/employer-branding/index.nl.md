@@ -7,6 +7,18 @@ image:
 blocks:
   - type: hero_block
     title: "***Employer Branding films***"
+    content: ""
+    displaymedia: null
+    video:
+      source_mp4: ""
+      autoplay: true
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+    align: left
     content: Hoe overtuig je kandidaten dat ze bij jou moeten komen werken en niet
       ergens anders? In een vacaturetekst is het, puur door het tekstuele
       formaat, lastig om generalisaties en clichés te vermijden. Daardoor loop
@@ -16,11 +28,13 @@ blocks:
       werkgever, omdat je eigen werknemers en collega’s erin vertellen over de
       werksfeer. En die film plaats je op Indeed, LinkedIn en Instagram!
     displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
-      autoplay: true
+    cta:
+      url: /contact/
+      text: Meer informatie
+      type: button
+      color: yellow
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Employer Branding video***, wat is dat?
 
@@ -32,13 +46,14 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: G_dlOtmAnas
+    align_text: text-left
   - type: content_block
     content: >-
       ## Hoe maken we jouw ***Employer Branding film***?
 
 
       Wie kan er beter vertellen over hoe het is om bij jouw bedrijf te werken, dan de werknemers zelf? In een employer branding film laten we daarom echte mensen — werknemers en collega’s — aan het woord. Ze hoeven geen geboren acteur te zijn, want wij zorgen voor een **professionele begeleiding bij het filmen.** Daarna verpakken we hun enthousiaste verhalen in een kort en bondige film. We kiezen er de juiste achtergrondmuziek bij en brengen zo de unieke sfeer in jouw bedrijf binnen 1 minuut in beeld.
-    align: right
+    align: left
     displaymedia: youtube_video
     youtube:
       id: Y4PzsL92oww
@@ -47,7 +62,7 @@ blocks:
       text: Boek nu een vrijblijvende 30 minuten sessie
       type: button
   - type: content_block
-    align: left
+    align: right
     displaymedia: youtube_video
     youtube:
       id: DcsHQff1z8k
@@ -56,8 +71,9 @@ blocks:
 
 
       De beste werknemers zijn steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? Met een employer branding film val je alvast goed op. Zeker als de concurrentie alleen maar een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     displaymedia: youtube_video
     content: >-
       ## Waarom ***recruiters*** aankloppen bij Phil & Flo
@@ -86,12 +102,13 @@ blocks:
 
 
       **Wij hebben een frisse en unieke blik op de presentatie in videovorm om talent aan te trekken**. Door de verhalen van je collega’s op een aantrekkelijke manier te presenteren, maken we potentiële werknemers enthousiast en geïnteresseerd in jouw bedrijf.
-    align: left
+    align: right
     displaymedia: youtube_video
     youtube:
       id: 1rv163H132E
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Employer branding*** volgens Phil & Flo
 
@@ -101,7 +118,7 @@ blocks:
     youtube:
       id: asB9nPdOCHk
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Het bereik*** van employer branding films
 
@@ -110,8 +127,9 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: FFJ3QrYl1tA
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Employer branding film op ***Indeed*** en ***sociale media***
 
@@ -121,7 +139,7 @@ blocks:
     youtube:
       id: B_GiMlwjABE
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Vacatures met film beter ***online vindbaar***
 
@@ -130,8 +148,9 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: quK6uD7_-1Y
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Vandaag nog meer weten over ***employer branding***?
 
@@ -144,9 +163,6 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - suzan-abbas
   - type: selectedreviews_block
     title: Google Reviews
     items:
