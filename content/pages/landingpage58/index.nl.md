@@ -16,7 +16,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering1.mp4
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering2.mp4
     content: Ook een product of dienst die maar niet wordt begrepen door je
       doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken
       namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
