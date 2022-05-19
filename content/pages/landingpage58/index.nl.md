@@ -122,9 +122,9 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - Animatiefilm PRA health sciences
       - Documizers
       - Hanze Hogeschool - 2D Animaties
+      - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
     contacts:
       - sophie
