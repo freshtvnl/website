@@ -10,7 +10,7 @@ color: blue
 seo:
   title: Het geheim van een goede bedrijfsfilm | Blog | Phil & Flo
   description: Wat moet er in een bedrijfsfilm? In dit blog leggen we je alles
-    uit. Lees hier meer.
+    uit. We geven je ook direct waardevolle tips voor de verspreiding..
 ---
 ## Wat moet er in een bedrijfsfilm?
 
