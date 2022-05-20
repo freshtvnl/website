@@ -18,13 +18,13 @@ Een bedrijfsfilm is een video die het unieke verhaal van een bedrijf vertelt en 
 
 ## Een duidelijk doel
 
-De eerste stap: Een doel bepalen. Met een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) kun je namelijk alle kanten op. Het bedrijf voorstellen, maar je kunt een video ook gebruiken om nieuwe klanten te zoeken of om [nieuwe werknemers](https://www.philenflo.nl/oplossingen/employer-branding/) te vinden. Elk doel heeft een eigen doelgroep en vereist weer een andere aanpak. 
+De eerste stap: Een doel bepalen. Met een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) kun je namelijk alle kanten op. Het bedrijf voorstellen, maar je kunt een video ook gebruiken om nieuwe klanten te zoeken of om nieuwe werknemers te vinden. Het kan dus ook ingezet worden als [employer branding video](https://www.philenflo.nl/oplossingen/employer-branding/). Elk doel heeft een eigen doelgroep en vereist weer een andere aanpak. 
 
 Vergeet bij het bepalen van de doelstelling de klant niet. Denk goed na over wat die uiteindelijk nodig heeft. De meeste klanten vragen zich uiteindelijk één ding af: What's in it for me?
 
 ## Een heldere boodschap
 
-Wat de boodschap precies is maakt niet zoveel uit (alhoewel..), maar het allerbelangrijkst is om het simpel te houden. maar is tegelijkertijd ook het moeilijkst. 
+Wat de boodschap precies is maakt niet zoveel uit (alhoewel..), maar het allerbelangrijkst is om het simpel te houden, maar is tegelijkertijd ook het moeilijkst. 
 
 Want het is verleidelijk om alles over het bedrijf én de geschiedenis én de producten én de belangrijke processen én jullie enthousiaste team te willen vertellen, maar dat is beter van niet. Focus op het doel en de belangrijkste boodschap. Dat is al goed genoeg. Meer informatie kun je altijd kwijt op de website of in een andere video. 
 
@@ -38,7 +38,7 @@ Ons wordt vaak gevraagd naar de ideale lengte voor een video. Die bestaat niet, 
 
 Een bedrijfsvideo kan niet zonder een goed verhaal. Iemand voor de camera zetten laten vertellen over het bedrijf kan. Maar een verhaal werkt beter. Verhalen zijn zo effectief omdat de kijker zich er mee identificeert.
 
-Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepaalde setting waar de film zich afspeelt. Verder kun je gebruik maken van ondersteuning in de vorm van muziek, geluidseffecten en voiceovers. Ook niet onbelangrijk: de montage. Zo versterk je de boodschap en maak je het meeste impact.
+Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepaalde setting waar de film zich afspeelt. Verder kun je gebruik maken van ondersteuning in de vorm van muziek, geluidseffecten en voice-overs. Ook niet onbelangrijk: de montage. Zo versterk je de boodschap en maak je het meeste impact.
 
 ## Laat mensen iets voelen
 
@@ -50,11 +50,11 @@ En dat doen dat kan van alles zijn: iets kopen, ons e-mail adres invullen, conte
 
 ## Professionaliteit
 
-Professionaliteit zorgt ervoor dat je als bedrijf serieus wordt genomen. En professioneel betekent niet saai. Het mag best humoristisch, informeel, luchtig of creatief zijn, maar zorg voor een professionele aanpak. Dit geldt voor alle onderdelen van de video: van de inhoud tot de post-productie en van de toon tot aan gebruik van de huisstijl zodat de bedrijfsfilm in het verlengde ligt van de andere marketing uitingen.
+Professionaliteit zorgt ervoor dat je als bedrijf serieus wordt genomen. En professioneel betekent niet saai. Het mag best humoristisch, informeel, luchtig of creatief zijn, maar zorg voor een professionele aanpak. Dit geldt voor alle onderdelen van de video: van de inhoud tot de post-productie en van de toon tot aan gebruik van de huisstijl zodat de bedrijfsfilm in het verlengde, ligt van de andere marketing uitingen.
 
 ## Verspreid de video
 
-Als de video klaar is, begint het eigenlijk pas. Het is zonde van de moeite als uiteindelijk niemand de bedrijfsfilm te zien krijgt. [Verspreid de video](https://www.philenflo.nl/oplossingen/videomarketing/) zelf op je website en via social media of betaalde advertenties.
+Als de video klaar is, begint het eigenlijk pas. Het is zonde van de moeite als uiteindelijk niemand de bedrijfsfilm te zien krijgt. Verspreid de video zelf op je website en via social media of betaalde advertenties.
 
 ## Vergeet de Call to action niet
 
