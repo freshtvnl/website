@@ -7,7 +7,8 @@ image:
 date: 2022-05-10T13:07:56.788Z
 color: pink
 seo:
-  description: Hoe maak je een goede whiteboard animatie? Je leest het in de blog.
+  description: "Hoe maak je een goede whiteboard animatie? Phil & Flo geeft je
+    handige tips. Lees er alles over in dit artikel. "
   title: "Een goede whiteboard animatie maken | Phil & Flo | Blog "
 ---
 Een whiteboard animatie is een manier om makkelijk, veel informatie over te brengen en een manier om mensen tot actie aan te zetten. Maar hoe maak je een goede whiteboard animatie? En waar begin je?
@@ -16,32 +17,25 @@ Je leest het in deze blog.
 
 ## Wat is een whiteboard animatie?
 
-Een whiteboard animatie bestaat uit tekst, illustraties of andere visuele elementen die getekend of geschreven worden op een whiteboard met een begeleidende voiceover die toelichting geeft of een verhaal vertelt. Vaak (maar niet altijd) is een whiteboard animatie een vorm van een [uitleg animatie](https://www.philenflo.nl/explainer-animatie/). Het is een eenvoudige, maar effectieve manier van animeren.
+Een whiteboard animatie bestaat uit tekst, illustraties of andere visuele elementen die getekend of geschreven worden op een whiteboard met een begeleidende voice-over die toelichting geeft of een verhaal vertelt. Vaak (maar niet altijd) is een whiteboard animatie een vorm van een [uitleg animatie](https://www.philenflo.nl/explainer-animatie/). Het is een eenvoudige, maar effectieve manier van animeren.
 
 ## Wat heb je eraan?
 
-Eerlijk is eerlijk: Voor sommige doeleinden zijn whiteboard animaties perfect. Maar er zijn ook veel voorbeelden te vinden van situaties waarin een [ander type animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) beter tot zijn recht was gekomen.
+Eerlijk is eerlijk: Voor sommige doeleinden zijn whiteboard animaties perfect. Maar er zijn ook veel voorbeelden te vinden van situaties waarin een ander type [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) beter tot zijn recht was gekomen.
 
 ### Waarom een whiteboard animatie?
 
 • Werkt goed als ondersteuning van een presentatie
 
-
 • Ideaal om een grote hoeveelheid informatie op een onderhoudende manier over te brengen
-
 
 • Een whiteboard animatie maakt saaie informatie leuker en complexe informatie makkelijker
 
-
 • Relatief goedkoop om te produceren
-
 
 • Het format zorgt voor focus bij de kijker
 
-
 • Whiteboard animaties zijn breed inzetbaar: Vrijwel elk bedrijf kan er iets mee
-
-
 
 ## Whiteboard animaties: een paar handige tips
 
@@ -77,8 +71,8 @@ De kracht van whiteboard animaties is de eenvoud. Het bestaat uit een achtergron
 
 ## Hoe maak je een whiteboard animatie?
 
-Phil & Flo start altijd met een intake en daarop volgend een creatieve sessie. Een kickoff van het project waarin we samen bekijken welke doelstellingen je wilt behalen met de animatie en wat de belangrijkste boodschap om te communiceren is.
+Phil & Flo start altijd met een intake en daarop volgend een creatieve sessie. Een kick-off van het project waarin we samen bekijken welke doelstellingen je wilt behalen met de animatie en wat de belangrijkste boodschap om te communiceren is.
 
-Met de resultaten van deze sessie gaat ons creatieve team aan de slag om een script en storyboard te maken. Deze vormen de basis van de uiteindelijke animatie. Dan komt het belangrijkste: het maken de animatie. Dit wordt gedaan door onze animators in onze studio. Wanneer zij klaar zijn, zorgen we met muziek en de juiste voiceover voor een finishing touch. Je gloednieuwe animatie is klaar om te delen met de buitenwereld. En dan begint het pas echt.
+Met de resultaten van deze sessie gaat ons creatieve team aan de slag om een script en storyboard te maken. Deze vormen de basis van de uiteindelijke animatie. Dan komt het belangrijkste: het maken de animatie. Dit wordt gedaan door onze animators in onze studio. Wanneer zij klaar zijn, zorgen we met muziek en de juiste voice-over voor een finishing touch. Je gloednieuwe animatie is klaar om te delen met de buitenwereld. En dan begint het pas echt.
 
 [Neem contact op](https://www.philenflo.nl/contact/) met één van onze experts om te kijken wat we voor jou kunnen betekenen.
