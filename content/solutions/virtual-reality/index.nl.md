@@ -8,16 +8,33 @@ image:
 blocks:
   - type: hero_block
     title: "***Virtual Reality films***"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Virtual reality is echt de volgende stap in beleving. Heb je wel eens
       een VR-bril opgehad? De meeste ondertussen wel. Echter niet iedereen heeft
       een goede headset thuis liggen. Daarom is VR content nog beperkt in te
       zetten, maar als je het inzet op een zinvolle manier, dan is de impact erg
-      groot, evenals de reacties van de kijker ;)
+      groot, evenals de reacties van de kijker. Onze experts vertellen je graag
+      hoe VR voor jou is in te zetten.
+    align: left
+    align_text: text-left
     displaymedia: youtube_video
     youtube:
       id: 0ljMPjPQjRI
+    cta:
+      url: /contact
+      text: Meer informatie
+      type: button
+      color: green
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Virtual Reality ***Animatie***
 
@@ -30,6 +47,7 @@ blocks:
       url: /vr-animatie-laten-maken/
       text: Meer Virtual Reality animatie
       type: button
+    align_text: text-left
   - type: content_block
     align: left
     content: >-
