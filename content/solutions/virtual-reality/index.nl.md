@@ -71,12 +71,10 @@ blocks:
       - wat-is-de-productietijd-van-een-vr-video
       - wat-moeten-wij-aanleveren-voor-een-vr-video
       - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles
-      - hoe-gaan-jullie-te-werk-met-een-vr-video
       - hebben-jullie-voorbeelden-van-een-vr-video
       - met-hoeveel-mensen-komen-jullie-filmen-vr
       - in-welke-kwaliteit-ontvang-ik-de-vr-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-vr-video
 seo:
   title: Virtual reality videomarketing | Phil & Flo | Creative studio
   description: "Virtual reality videomarketing met VR animaties bij Phil & Flo | ✔
