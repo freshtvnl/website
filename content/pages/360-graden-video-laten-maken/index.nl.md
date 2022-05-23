@@ -5,18 +5,34 @@ draft: false
 color: blue
 blocks:
   - type: hero_block
+    content: ""
+    title: "***360 graden video*** laten maken door Phil & Flo"
+    displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Wil jij jouw bezoekers een levensechte ervaring bieden vanuit de luie
       stoel? Wil jij echt voorlopen op je concurrenten? Dan is een 360 graden
       video laten maken voor jou op de oplossing. Phil & Flo is specialist in
       het maken van 360 graden video’s en [VR
       animaties](https://www.philenflo.nl/vr-animatie-laten-maken/), wij helpen
       je graag met het onderzoeken van de mogelijkheden.
-    title: "***360 graden video*** laten maken door Phil & Flo"
+    align: left
+    align_text: text-left
     displaymedia: youtube_video
     youtube:
       id: whTY-lLc2Tc
+    cta:
+      url: /contact
+      text: Contact opnemen
+      type: button
+      color: blue
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### Wat is een 360 graden video?
 
@@ -28,19 +44,22 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     displaymedia: youtube_video
+    align_text: text-left
   - type: content_block
     content: >-
       ### Mogelijkheden van een ***360 graden video***
 
 
       Er zijn oneindige creatieve mogelijkheden voor een 360 graden film. Om je van inspiratie te voorzien leggen we je graag wat voorbeelden uit. Heb je zelf een ander idee in gedachten? Leg het aan ons voor en wij komen graag met een voorstel. De mogelijkheden zijn oneindig.
-    align: right
+    align: left
     displaymedia: image
     image:
       source: images/aron-3d-animatie_hu198473c553df0dccbbe8a93d1eb1fb38_183067_930x500_fill_q75_box_center.jpg
       alt: Aron bij Phil & Flo
+    video:
+      autoplay: false
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### 360 graden video voor ***educatie***
 
@@ -51,7 +70,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Coornhert-opendag-film2-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### 360 graden video voor de ***medische wereld***
 
