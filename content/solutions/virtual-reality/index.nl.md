@@ -62,6 +62,9 @@ blocks:
       url: /contact/
       text: Meer informatie opvragen
       type: button
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
   - type: selectedfaqs_block
     items:
       - hoe-maken-jullie-een-vr-video
