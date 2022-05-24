@@ -28,7 +28,7 @@ De klantervaring (of customer experience) is de ervaring die je klant heeft met 
 
 Online betekent dit dat het proces van landen op de site tot de uiteindelijke conversie zo intuïtief en soepel mogelijk verloopt. De hele ervaring moet eigenlijk net zo natuurlijk aanvoelen als een winkel binnenstappen en iets kopen. 
 
-Uit onderzoek van Google blijken twee interessante dingen over het gedrag van mensen die iets willen kopen. Tegenwoordig bekijkt 80% van de mensen een vorm van video wanneer ze meer informatie willen over een product. En tijdens hun onderzoek wisselen ze moeiteloos tussen Google, websites, YouTube en weer terug. 
+Uit onderzoek van Google blijken twee interessante dingen over het gedrag van mensen die iets willen kopen. Tegenwoordig bekijkt 80% van de mensen een vorm van video wanneer ze meer informatie willen over een product. En tijdens hun onderzoek wisselen ze moeiteloos tussen Google, websites, [YouTube](https://www.philenflo.nl/you-tube-video-laten-maken/) en weer terug. 
 
 Stel je voor dat iemand op zoek is naar een nieuwe hiking rugzak voor een wandelvakantie. Hij of zij gaat online zoeken naar informatie en vindt een paar veelbelovende rugzakken op een webshop voor outdoor artikelen. De volgende stap is waarschijnlijk een bezoekje aan YouTube of Facebook, om reviews van anderen te bekijken en meer te ontdekken over het product.
 
@@ -40,13 +40,13 @@ De klantervaring stopt overigens niet na de aankoop. Ook daarna kun je klanten n
 
 ## De werking uitleggen
 
-Ook al is iets online aanschaffen steeds gewoner - en bijna de norm - geworden, als het gaat om het verkopen van fysieke producten blijven er altijd een paar uitdagingen: hoe compenseer je het gebrek aan fysieke ervaring en menselijk contact dat je wel hebt in een winkel? Ook hier is het antwoord: Met een productvideo. Denk aan een [360 graden video](https://www.philenflo.nl/blog/360-graden-video/), een [uitleganimatie](https://www.philenflo.nl/explainer-animatie/), een how-to video of demonstratievideo of screencaptures. 
+Ook al is iets online aanschaffen steeds gewoner - en bijna de norm - geworden, als het gaat om het verkopen van fysieke producten blijven er altijd een paar uitdagingen: hoe compenseer je het gebrek aan fysieke ervaring en menselijk contact dat je wel hebt in een winkel? Ook hier is het antwoord: Met een productvideo. Denk aan een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/), een [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/), een how-to video of demonstratievideo of screencaptures. 
 
 In een video kun je laten zien hoe het product werkt, hoe het er in het echt uitziet en wat de belangrijkste functies zijn. Nog belangrijker, wanneer iemand iets voordoet, begrijpen we over het algemeen veel beter (en sneller) wat de bedoeling is dan wanneer we dit zelf uit moeten vinden aan de hand van een productomschrijving of specificaties. Dit geldt niet alleen voor fysieke producten. Ook wanneer je software of diensten aanbiedt, kun je gebaat zijn bij een productvideo. 
 
 ## Emotie en beleving
 
-Nog even terug naar dat voorbeeld van die rugzak. Je kunt vertellen over de rugzak, dat je hem nauwelijks voelt als je door de bergen loopt met een prachtig uitzicht, terwijl je de frisse berglucht ruikt en en met iedere stap dichter bij de top komt. Maar dit werkt dus een stuk beter als je dit in beeld brengt. Combineer een goede boodschap met storytelling en die boodschap komt veel beter en sneller binnen.
+Nog even terug naar dat voorbeeld van die rugzak. Je kunt vertellen over de rugzak, dat je hem nauwelijks voelt als je door de bergen loopt met een prachtig uitzicht, terwijl je de frisse berglucht ruikt en met iedere stap dichter bij de top komt. Maar dit werkt dus een stuk beter wanneer je dit in beeld brengt. Combineer een goede boodschap met storytelling en die boodschap komt veel beter en sneller binnen.
 
 ## Productvideo's als social Proof
 
@@ -58,11 +58,11 @@ Er zijn verschillende manieren om dit met een productvideo in de praktijk te bre
 
 ## SEO
 
-Hoewel zoekmachines (nog) geen video kunnen kijken, heeft de inzet van video op een productpagina een aantal positieve effecten op de SEO. Tekst heeft nog altijd een streepje voor op video wanneer het gaat om SEO, maar een slimme combinatie werkt nóg beter. 
+Hoewel zoekmachines (nog) geen video kunnen kijken, heeft de inzet van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) op een productpagina een aantal positieve effecten op de SEO. Tekst heeft nog altijd een streepje voor op video wanneer het gaat om SEO, maar een slimme combinatie werkt nóg beter. 
 
 Je ranking gaat ervan omhoog. Bezoekers blijven bijvoorbeeld langer op de website waardoor het bouncepercentage omlaag gaat. En het kan ervoor zorgen dat je video als *rich snippet* in de zoekresultaten verschijnt met een thumbnail naast het zoekresultaat. Dit verhoogt de kans op een klik aanzienlijk.
 
-Om dit voor elkaar te krijgen, is het belangrijk om wat aandacht te spenderen aan de optimalisatie van de video's. Dit doe je onder andere door belangrijke zoekwoorden te gebruiken in de titel en beschrijving van de video en te zorgen dat deze op een relevante pagina wordt geplaatst. Zo snapt Google de samenhang tussen de video en de rest van de content. Plaats je de video op YouTube, dan is het slim om het zoekwoord een paar keer te noemen tijdens de video. YouTube genereert automatische transcripts van video die (ook al kloppen ze niet altijd 100%) bijdragen aan een betere vindbaarheid. Nog beter: Plaats zelf een transcript.
+Om dit voor elkaar te krijgen, is het belangrijk om wat aandacht te spenderen aan de optimalisatie van de video's. Dit doe je onder andere door belangrijke zoekwoorden te gebruiken in de titel en beschrijving van de video en te zorgen dat deze op een relevante pagina wordt geplaatst. Zo snapt Google de samenhang tussen de video en de rest van de content. Plaats je de video op YouTube, dan is het slim om het zoekwoord een paar keer te noemen tijdens de video. YouTube genereert automatische transscripts van video die (ook al kloppen ze niet altijd 100%) bijdragen aan een betere vindbaarheid. Nog beter: Plaats zelf een transcript.
 
 ## Social media
 
@@ -70,7 +70,7 @@ Wanneer heb je voor het laatst een productomschrijving gedeeld? En wanneer een v
 
 ## De toekomst: Shoppable video
 
-De laatste innovatie op het gebied van productvideo is shoppable video. Door [video te combineren met interactieve elementen](https://www.philenflo.nl/oplossingen/interactieve-video/) kun je vanuit de video meteen worden doorgeklikt naar een webshop of productpagina. 
+De laatste innovatie op het gebied van productvideo is shoppable video. Door video te combineren met interactieve elementen kun je vanuit de video meteen worden doorgeklikt naar een webshop of productpagina. 
 
 Dit wordt nu al gedaan op social platforms als Instagram, Facebook en Snapchat. Maar bedrijven kunnen dit ook zelf doen op eigen platform of landingspagina. Van daaruit kunnen ze meer traffic naar achterliggende productpagina's genereren.
 
