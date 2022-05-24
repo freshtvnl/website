@@ -94,6 +94,9 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-groen.jpg
+  - type: contact_block
+    contacts:
+      - suzan-abbas
 seo:
   title: "Digitale rondleiding laten maken voor toeristen | Phil & Flo "
   description: Digitale rondleiding voor toeristen laten maken door Phil & Flo.
