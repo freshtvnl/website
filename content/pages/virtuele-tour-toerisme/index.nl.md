@@ -42,30 +42,39 @@ blocks:
     video:
       autoplay: true
     content: >-
+      ## ***Digitale rondleiding*** voor bezienswaardigheden
+
+
+      Laat je expositie aan een nog groter publiek zien in een [virtuele museum tour](https://www.philenflo.nl/virtuele-tour-museum/). Of laat toeristen alvast kennismaken met die historische kerk of monumenten in een digitale rondleiding voor bezienswaardigheden. Met zo’n digitale rondleiding neem je mogelijke belemmeringen bij kijkers weg en haal je ze over de streep om een bezoek te brengen. Je kunt zelf bepalen welke elementen je laat zien en waar je de kijker kennis mee wilt laten maken. Weet je niet goed welke elementen je moet kiezen? Onze experts helpen je hier graag mee. We helpen je graag onderzoeken wat voor jou het best uitpakt.
+    align: left
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
       ## ***Mogelijkheden*** voor de toeristische sector
 
 
-      Er zijn veel verschillende mogelijkheden voor videoproducties. Phil & Flo heeft ervaring met 360 graden video’s en foto’s, VR (virtual reality), 3D rondleidingen en allerlei andere vormen hier tussenin. Het is natuurlijk afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom  graag met je in gesprek om te kijken welke videovorm bij jullie past. Neem vrijblijvend contact met ons op voor de mogelijkheden!
-    align: left
+      Er zijn veel verschillende mogelijkheden voor videoproducties. Phil & Flo heeft ervaring met 360 graden [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/) en foto’s, [VR (virtual reality)](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei andere vormen hier tussenin. Het is natuurlijk afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom  graag met je in gesprek om te kijken welke videovorm bij jullie past. Neem vrijblijvend contact met ons op voor de mogelijkheden!
+    align: right
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-video-groen.jpg
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## ***De werkwijze*** van Phil & Flo
 
 
-      Een samenwerking met Phil & Flo begint altijd met een idee en visie. Tijdens een intake gesprek bespreken we jullie ideeën, wensen en doelen. Vervolgens werken we aan een technisch kader om de opdracht te vormen. Als de opdracht is gevormd, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Met de creative producer beginnen we met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtuele rondleiding toerisme worden ingekleurd. Wie en wat gaan we filmen? Houden we interviews of kiezen we voor een voice-over? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
+      Een samenwerking met Phil & Flo begint altijd met een idee en visie. Tijdens een intake gesprek bespreken we jullie ideeën, wensen en doelen. Vervolgens werken we aan een technisch kader om de opdracht te vormen. Als de opdracht is gevormd, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Met de creative producer beginnen we met een creatieve sessie waarin wordt bepaald hoe de kaders voor de [virtuele rondleiding](https://www.philenflo.nl/virtuele-tour/) toerisme worden ingekleurd. Wie en wat gaan we filmen? Houden we interviews of kiezen we voor een voice-over? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-groen.jpg
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## ***De kosten*** voor een virtuele rondleiding
 
