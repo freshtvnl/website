@@ -47,6 +47,9 @@ blocks:
 
       Laat je expositie aan een nog groter publiek zien in een [virtuele museum tour](https://www.philenflo.nl/virtuele-tour-museum/). Of laat toeristen alvast kennismaken met die historische kerk of monumenten in een digitale rondleiding voor bezienswaardigheden. Met zo’n digitale rondleiding neem je mogelijke belemmeringen bij kijkers weg en haal je ze over de streep om een bezoek te brengen. Je kunt zelf bepalen welke elementen je laat zien en waar je de kijker kennis mee wilt laten maken. Weet je niet goed welke elementen je moet kiezen? Onze experts helpen je hier graag mee. We helpen je graag onderzoeken wat voor jou het best uitpakt.
     align: left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-camera-groen.jpg
   - type: content_block
     video:
       autoplay: true
