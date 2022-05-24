@@ -9,8 +9,8 @@ date: 2022-05-11T13:30:06.293Z
 color: green
 seo:
   title: "Welk soort animatie moet ik kiezen? 2D of 3D animatie? | Phil & Flo | Blog "
-  description: Kies je voor 2D of 3D animatie? Lees alles over de verschillende
-    animatietechnieken in dit blog.
+  description: "Welke animatietechnieken kun jij het beste gebruiken? In dit
+    artikel leggen wij de verschillen uit en welke het beste past bij jou. "
 ---
 Veel mensen denken bij animatie meteen aan een Disney of Pixar film, maar er zijn veel meer soorten en stijlen. In dit artikel zetten we een aantal zaken op een rijtje die helpen bij het maken van een goede keuze.
 
@@ -18,7 +18,7 @@ Maar eerst de basis.
 
 ## Wat is animatie?
 
-Een animatie is het achter elkaar afspelen van verschillende stilstaande beelden om zo een illusie van beweging te creëren. Die losse beelden noemen we frames. Er zijn ongeveer 24 frames per seconde nodig voor een vloeiende, realistische beweging. Door 24 beelden per seconde af te spelen ziet ons brein dit niet als losse beelden, maar interpreteert het dit als een logische beweging.
+Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is het achter elkaar afspelen van verschillende stilstaande beelden om zo een illusie van beweging te creëren. Die losse beelden noemen we frames. Er zijn ongeveer 24 frames per seconde nodig voor een vloeiende, realistische beweging. Door 24 beelden per seconde af te spelen ziet ons brein dit niet als losse beelden, maar interpreteert het dit als een logische beweging.
 
 Welke techniek je ook kiest, het principe van het achter elkaar afspelen van beelden om beweging te simuleren blijft hetzelfde.
 
@@ -30,7 +30,7 @@ De bekendste vormen van ***traditionele animaties*** zijn:
 
 ### Getekende animaties of celanimaties
 
-Animaties die bestaan uit grote hoeveelheden tekeningen die op een lichtbak worden getekend en vervolgens met een camera worden gefilmd. Oude Disney films zijn hier een goed voorbeeld van.
+Animaties die bestaan uit grote hoeveelheden tekeningen die op een lichtbak worden getekend en vervolgens met een camera worden gefilmd. Oude Disneyfilms zijn hier een goed voorbeeld van.
 
 ### Stop-motion
 
@@ -52,7 +52,7 @@ Waarom 2D? 2D is goedkoper en sneller om te produceren én werkt goed voor het u
 
 ## 3D-animatie
 
-Met de komst van 3D in de jaren negentig werden animaties steeds realistischer. Iedereen kent natuurlijk de bekende 3D-films. Maar er is meer: [3D-animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/) kunnen ook worden gebruikt om wetenschappelijke, medische, technische of complexe processen of producten op een visuele - en boeiende - manier uit te leggen. Of voor een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of [uitleganimatie](https://www.philenflo.nl/explainer-animatie/). 
+Met de komst van 3D in de jaren negentig werden animaties steeds realistischer. Iedereen kent natuurlijk de bekende 3D-films. Maar er is meer: [3D-animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/) kunnen ook worden gebruikt om wetenschappelijke, medische, technische of complexe processen of producten op een visuele - en boeiende - manier uit te leggen. Of voor een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) of [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/). 
 
 3D animaties worden gemaakt door objecten in 3D te modelleren met 3D-software. Die 3D modellen worden geanimeerd weergegeven in een 3D omgeving. Door nieuwe innovaties zoals AI en motion capture (waarbij de beweging van mensen wordt opgenomen en gebruikt als basis voor de beweging in een 3D animatie) worden animaties nog altijd realistischer. Dit is hét grote voordeel van 3D animaties. Daarentegen brengt de complexiteit wel hogere productiekosten en een langere doorlooptijd met zich mee.
 
@@ -60,7 +60,7 @@ Met de komst van 3D in de jaren negentig werden animaties steeds realistischer. 
 
 ## Animatie stijlen
 
-Bijna alle vormen van animaties zijn onder te verdelen in deze twee categorieën. Je hebt bijvoorbeeld [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) animaties die voornamelijk in 3D worden gemaakt. [Whiteboard animaties](https://www.philenflo.nl/blog/whiteboard-animatie-laten-maken/) of screencaptures zijn altijd 2D. Maar er is ook een grijs gebied als het gaat om animatie-stijlen. [Uitleganimaties](https://www.philenflo.nl/explainer-animatie/) bijvoorbeeld, kunnen net zo goed in 2D als 3D worden gemaakt en datzelfde geldt voor infographics, typografische animaties en motion graphics. En waarom eigenlijk kiezen? 2D en 3D zijn samen een prima combinatie.
+Bijna alle vormen van animaties zijn onder te verdelen in deze twee categorieën. Je hebt bijvoorbeeld [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) animaties die voornamelijk in 3D worden gemaakt. [Whiteboard animaties](https://www.philenflo.nl/blog/whiteboard-animatie-laten-maken/) of screencaptures zijn altijd 2D. Maar er is ook een grijs gebied als het gaat om animatie-stijlen. Uitleganimaties bijvoorbeeld, kunnen net zo goed in 2D als 3D worden gemaakt en datzelfde geldt voor infographics, typografische animaties en motion graphics. En waarom eigenlijk kiezen? 2D en 3D zijn samen een prima combinatie.
 
 ## Een keuze maken
 
@@ -72,7 +72,7 @@ Voor het maken van een keuze zijn uiteindelijk andere overwegingen belangrijker.
 
 ### Hoe wordt de animatie gebruikt?
 
-Hoe de animatie wordt gebruikt, bepaalt voor een groot deel welke animatiestijl het beste werkt. Wordt de animatie gemaakt om te delen op social media? Dan werkt een korte inspirerende animatie beter dan een uitgebreidere video waarin je alle functies van een product toelicht, zoals je zou doen in een productvideo.
+Hoe de animatie wordt gebruikt, bepaalt voor een groot deel welke animatiestijl het beste werkt. Wordt de animatie gemaakt om te delen op social media? Dan werkt een korte inspirerende animatie beter dan een uitgebreidere video waarin je alle functies van een product toelicht, zoals je zou doen in een [productvideo](https://www.philenflo.nl/3d-productvideo/).
 
 ### Wat is het belangrijkste doel?
 
