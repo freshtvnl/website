@@ -12,8 +12,6 @@ seo:
   description: Wat moet er in een bedrijfsfilm? In dit blog leggen we je alles
     uit. We geven je ook direct waardevolle tips voor de verspreiding..
 ---
-## Wat moet er in een bedrijfsfilm?
-
 Een bedrijfsfilm is een video die het unieke verhaal van een bedrijf vertelt en waarin duidelijk wordt waarom jullie bestaan. Vaak makkelijker gezegd dan gedaan. Want waar begin je? Wat is het geheim van een goede bedrijfsfilm? En wat moet er zeker in? We geven een aantal tips.
 
 ## Een duidelijk doel
@@ -24,7 +22,7 @@ Vergeet bij het bepalen van de doelstelling de klant niet. Denk goed na over wat
 
 ## Een heldere boodschap
 
-Wat de boodschap precies is maakt niet zoveel uit (alhoewel..), maar het allerbelangrijkst is om het simpel te houden, maar is tegelijkertijd ook het moeilijkst. 
+Wat de boodschap precies is maakt niet zoveel uit (alhoewel…), maar het allerbelangrijkst is om het simpel te houden, maar is tegelijkertijd ook het moeilijkst. 
 
 Want het is verleidelijk om alles over het bedrijf én de geschiedenis én de producten én de belangrijke processen én jullie enthousiaste team te willen vertellen, maar dat is beter van niet. Focus op het doel en de belangrijkste boodschap. Dat is al goed genoeg. Meer informatie kun je altijd kwijt op de website of in een andere video. 
 
@@ -38,7 +36,7 @@ Ons wordt vaak gevraagd naar de ideale lengte voor een video. Die bestaat niet, 
 
 Een bedrijfsvideo kan niet zonder een goed verhaal. Iemand voor de camera zetten laten vertellen over het bedrijf kan. Maar een verhaal werkt beter. Verhalen zijn zo effectief omdat de kijker zich er mee identificeert.
 
-Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepaalde setting waar de film zich afspeelt. Verder kun je gebruik maken van ondersteuning in de vorm van muziek, geluidseffecten en voice-overs. Ook niet onbelangrijk: de montage. Zo versterk je de boodschap en maak je het meeste impact.
+Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepaalde setting waar de film zich afspeelt. Verder kun je gebruik maken van ondersteuning in de vorm van muziek, geluidseffecten en [voice-overs](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/). Ook niet onbelangrijk: de montage. Zo versterk je de boodschap en maak je het meeste impact.
 
 ## Laat mensen iets voelen
 
