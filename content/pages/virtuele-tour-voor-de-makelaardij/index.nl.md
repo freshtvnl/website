@@ -71,6 +71,9 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-oranje.jpg
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: "Digitale rondleiding met een makelaar door huizen of gebouwen | Phil & Flo "
   description: Digitale rondleiding door huizen en gebouwen laten maken door Phil
