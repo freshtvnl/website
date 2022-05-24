@@ -67,6 +67,9 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-blauw.jpg
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: "Digitale rondleiding laten maken door fabrieken en brouwerijen | Phil &
     Flo "
