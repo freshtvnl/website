@@ -1,7 +1,7 @@
 ---
 title: Virtuele tour voor fabrieken en brouwerijen
 slug: virtuele-tour-fabrieken-brouwerijen
-draft: true
+draft: false
 color: blue
 blocks:
   - type: hero_block
@@ -24,6 +24,9 @@ blocks:
 
 
       Met een digitale rondleiding door een fabriek of brouwerij, kunnen kijkers het bedrijf op afstand ervaren. Als bedrijf bepaal je zelf welke ruimtes, processen en producten je laat zien en welke informatie je deelt. Dit kan door middel van tekst, beeld en geluid. Hoe meer relevante informatie je deelt, hoe meer je mogelijke vragen minimaliseert. Hiermee vergroot je het vertrouwen van (potentiële) klanten en verhoog je conversies van bezoekers.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-brouwerij-blauw.jpg
   - type: content_block
     video:
       autoplay: true
@@ -33,6 +36,9 @@ blocks:
 
       Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour voor een brouwerij of fabriek. Een virtuele rondleiding door een brouwerij is mogelijk in de vorm van een interactieve video, 360 graden of als Virtual Reality. Samen met onze creative producers ga je kijken welke onderdelen van het bedrijf in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is expert in het maken van digitale rondleidingen, wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw fabriek of brouwerij.
     align: right
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-schakelschema-blauw.jpg
   - type: content_block
     video:
       autoplay: true
@@ -42,6 +48,9 @@ blocks:
 
 
       De samenwerking met Phil & Flo begint met het delen van een idee en visie. Tijdens een intakegesprek met onze adviseurs bespreken we jullie ideeën, wensen en doelen. Als we dit concreet hebben gemaakt, gaan we werken aan een technisch kader om de opdracht te vormen. Als de opdracht staat, maak je kennis met een van onze creative producers die je door het proces gaat begeleiden. Met de creative producer wordt een creatieve sessie gehouden waarin wordt bepaald hoe de kaders voor de [virtuele rondleiding](https://www.philenflo.nl/virtuele-tour/) fabriek of brouwerij worden ingekleurd. Wie en wat gaan we filmen? Zetten we een voice-over in of houden we interviews? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis van dit wireframe maakt de creative producer samen met jou afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-concept-blauw.jpg
   - type: content_block
     video:
       autoplay: true
@@ -55,6 +64,9 @@ blocks:
 
       Wij denken graag met je mee over een uniek, verrassend concept, dat voldoet aan jouw wensen en eisen. Onze expertise wordt ingezet voor het beste concept. Wil je meer weten? Neem dan contact met ons op voor een vrijblijvende offerte.
     align: right
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-gesprek-blauw.jpg
 seo:
   title: "Digitale rondleiding laten maken door fabrieken en brouwerijen | Phil &
     Flo "
