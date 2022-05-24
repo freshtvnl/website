@@ -17,7 +17,7 @@ Je leest het in deze blog.
 
 ## Wat is een whiteboard animatie?
 
-Een whiteboard animatie bestaat uit tekst, illustraties of andere visuele elementen die getekend of geschreven worden op een whiteboard met een begeleidende voice-over die toelichting geeft of een verhaal vertelt. Vaak (maar niet altijd) is een whiteboard animatie een vorm van een [uitleg animatie](https://www.philenflo.nl/explainer-animatie/). Het is een eenvoudige, maar effectieve manier van animeren.
+Een whiteboard animatie bestaat uit tekst, illustraties of andere visuele elementen die getekend of geschreven worden op een whiteboard met een begeleidende [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) die toelichting geeft of een verhaal vertelt. Vaak (maar niet altijd) is een whiteboard animatie een vorm van een [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/). Het is een eenvoudige, maar effectieve manier van animeren.
 
 ## Wat heb je eraan?
 
