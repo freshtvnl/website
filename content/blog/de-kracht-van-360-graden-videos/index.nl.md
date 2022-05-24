@@ -10,15 +10,15 @@ color: yellow
 seo:
   title: "De kracht van 360 graden video's | Phil & Flo | Blog "
   description: "Wil jij 360 graden video's inzetten voor je bedrijf? Dan wil je
-    weten hoe dit in zijn werk gaat. Lees hier meer. "
+    weten hoe dit in zijn werk gaat. Lees hier meer en neem contact op. "
 ---
-Een 360 graden video - of immersive video - is een uitgeklede vorm van [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/): Het biedt een vergelijkbare ervaring, maar dan zonder extra hardware en het is gewoon te bekijken op je smartphone. 
+Een 360 graden video - of immersive video - is een uitgeklede vorm van virtual reality: Het biedt een vergelijkbare ervaring, maar dan zonder extra hardware en het is gewoon te bekijken op je smartphone. 
 
 Heb jij al nagedacht over hoe je dit in kunt zetten? In dit blog leggen we uit waarom het verstandig is om hier toch eens over na te denken.
 
 ## Wat is 360 graden video?
 
-Een 360 graden video is een video waarbij de kijker tijdens het bekijken zelf de camera kan draaien en zo alle kanten op kan kijken. Dit kan door met een speciale camera een bepaalde scene vanuit alle richtingen tegelijk te filmen.
+Een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) is een video waarbij de kijker tijdens het bekijken zelf de camera kan draaien en zo alle kanten op kan kijken. Dit kan door met een speciale camera een bepaalde scene vanuit alle richtingen tegelijk te filmen.
 
 ## Voordelen en mogelijkheden van 360 graden video's
 
@@ -30,7 +30,7 @@ Video is in vergelijking met andere vormen van content al een krachtig middel om
 
 Het beste werkt dit op een smartphone. Door de telefoon te draaien bepaal jezelf wat je ziet. En gebruik je hierbij een cardboard dan merk je dit nog sneller. Draai je hoofd en het beeld beweegt meteen mee, de 3D-weergave (met aparte beelden voor beide ogen) versterkt die ervaring nog eens.
 
-Dit alles zorgt voor een verhoogd niveau van beleving. Situaties gaan sneller als echt aanvoelen en dat roept emoties op. Daardoor leef je je als kijker in en onthoud je de ervaringen die je opdoet tijdens het kijken beter. Het is die combinatie van beleving en leren die 360 graden video interessant maakt, voor bedrijven, maar ook als educatief middel voor het onderwijs of bedrijfstrainingen.
+Dit alles zorgt voor een verhoogd niveau van beleving. Situaties gaan sneller als echt aanvoelen en dat roept emoties op. Daardoor leef je je als kijker in en onthoud je de ervaringen die je opdoet tijdens het kijken beter. Het is die combinatie van beleving en leren die 360 graden video interessant maakt, voor bedrijven, maar ook als educatief middel voor het [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) of bedrijfstrainingen.
 
 ### Nieuwe vormen van storytelling
 
@@ -38,19 +38,19 @@ De basis van vrijwel elke vorm van video is een verhaal. In 'gewone' video verte
 
 ### Geen hardware nodig
 
-In tegenstelling tot volledige [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/), heeft de kijker niks extras nodig. Op bijna elk device of platform kun je een 360 graden video bekijken wat het aantrekkelijker maakt voor bedrijven om in te investeren.
+In tegenstelling tot volledige [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/), heeft de kijker niks extra nodig. Op bijna elk device of platform kun je een 360 graden video bekijken wat het aantrekkelijker maakt voor bedrijven om in te investeren.
 
 ## Toepassingen van 360 graden video
 
-Er zijn veel manieren om 360 graden video te gebruiken. Bekende en minder bekende. Nuttige en minder nuttige. Maar in alle gevallen zorgt de verhoogde beleving en de realistische beelden voor meerwaarde ten opzichte van gewone video.
+Er zijn veel manieren om 360 graden video te gebruiken. Bekende en minder bekende. Nuttige en minder nuttige. Maar in alle gevallen zorgt de verhoogde beleving en de realistische beelden voor meerwaarde ten opzichte van gewone [video](https://www.philenflo.nl/oplossingen/video-laten-maken/).
 
 ### Experience
 
-Wanneer 360 graden video's onderdeel zijn van [marketing campagnes](https://www.philenflo.nl/oplossingen/videomarketing/) ligt vaak de nadruk gelegd op beleving. Zo kunnen kijkers kennis laten maken met unieke ervaringen die ze anders nooit mee zouden kunnen maken of plekken bezoeken die tot de verbeelding spreken.
+Wanneer 360 graden video's onderdeel zijn van [video marketing campagnes](https://www.philenflo.nl/oplossingen/videomarketing/) ligt vaak de nadruk gelegd op beleving. Zo kunnen kijkers kennis laten maken met unieke ervaringen die ze anders nooit mee zouden kunnen maken of plekken bezoeken die tot de verbeelding spreken.
 
 {{< youtube id="lJype_TafRk" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
 
-Denk ook aan [virtual tours](https://www.philenflo.nl/virtuele-tour/). Soms zo simpel als de 360 graden tours die iedereen wel kent van Funda, maar soms als manier om mensen kennis te laten maken met je kantoor. Of om in te zetten bij de onboarding van nieuwe medewerkers of om op afstand een museum te bezoeken. 
+Denk ook aan [virtual tours](https://www.philenflo.nl/virtuele-tour/). Soms zo simpel als de 360 graden tours die iedereen wel kent van Funda, maar soms als manier om mensen kennis te laten maken met je kantoor. Of om in te zetten bij de onboarding van nieuwe medewerkers of om op [afstand een museum te bezoeken](https://www.philenflo.nl/virtuele-tour-museum/). 
 
 {{< youtube id="iYR9SHRKqYM" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
 {{< youtube id="zDAYZU4A3w0" class="aspect-w-16 aspect-h-9" title="360 graden video van Kite Nederland door Phil & Flo" >}}
@@ -77,9 +77,9 @@ Denk ook aan [virtual tours](https://www.philenflo.nl/virtuele-tour/). Soms zo s
 
 ### Zorg
 
-De zorg is naast het onderwijs een voorbeeld van een bedrijfstak waar VR en in mindere mate 360 graden video een enorme impact heeft.
+De [zorg](https://www.philenflo.nl/branches/zorg-pharma/) is naast het onderwijs een voorbeeld van een bedrijfstak waar VR en in mindere mate 360 graden video een enorme impact heeft.
 
-De meest tot de verbeelding sprekende toepassingen binnen de zorg zijn 360 graden beelden vanuit de operatiekamer als ondersteuning van de opleiding van artsen en chirurgen. Minstens zo nuttige toepassingen zijn videos die mensen voorbereiden op een behandeling door uit te leggen wat patiënten kunnen verwachten. Of video's die kunnen worden gebruikt om begrip te kweken bij naasten door de beleving van iemand die door het leven gaat met dementie of bijvoorbeeld een psychose na te bootsen. En 360 graden videos zijn nuttig bij de behandeling van een angststoornis, bijvoorbeeld als onderdeel van exposuretherapie waarin mensen langzaam worden blootgesteld aan de bron van de angststoornis of nare herinneringen.
+De meest tot de verbeelding sprekende toepassingen binnen de zorg zijn 360 graden beelden vanuit de operatiekamer als ondersteuning van de opleiding van artsen en chirurgen. Minstens zo nuttige toepassingen zijn video's die mensen voorbereiden op een behandeling door uit te leggen wat patiënten kunnen verwachten. Of video's die kunnen worden gebruikt om begrip te kweken bij naasten door de beleving van iemand die door het leven gaat met dementie of bijvoorbeeld een psychose na te bootsen. En 360 graden video's zijn nuttig bij de behandeling van een angststoornis, bijvoorbeeld als onderdeel van exposuretherapie waarin mensen langzaam worden blootgesteld aan de bron van de angststoornis of nare herinneringen.
 
 ![360 graden video in de zorg](images/umcg.jpg)
 
