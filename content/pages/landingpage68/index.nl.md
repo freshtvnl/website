@@ -10,9 +10,19 @@ blocks:
   - type: hero_block
     video:
       autoplay: true
+      source_mp4: ""
+      source_webm: ""
+    title: "***Explainer animatie*** laten maken door Phil & Flo"
+    content: ""
+    displaymedia: null
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
       source_webm: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
-    title: "***Explainer animatie*** laten maken door Phil & Flo"
+    align: left
     content: Heb jij een ingewikkelde boodschap voor je klanten, leveranciers of
       potentiële klanten? Is het moeilijk voor je klanten om jouw product goed
       te begrijpen en tastbaar te maken? Dit is natuurlijk erg lastig wanneer je
@@ -20,7 +30,7 @@ blocks:
       zijn.
     displaymedia: custom_video
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Versimpelen*** van je boodschap
 
@@ -42,7 +52,7 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: right
+    align: left
     cta:
       url: ""
       text: ""
@@ -59,7 +69,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Virtual Reality Animatie***
 
@@ -75,7 +85,7 @@ blocks:
       text: Lees hier meer over VR
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Waarom een ***explainer*** animatie laten maken?
 
@@ -89,7 +99,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Waarom een explainer animatie laten maken ***door Phil & Flo***?
 
@@ -104,7 +114,7 @@ blocks:
       text: ""
       type: null
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Videomarketing***
 
@@ -115,7 +125,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Kies de juiste kleuren***
 
@@ -135,9 +145,9 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
+      - algemeen-dagblad-animatie
+      - NetwerkZ-zorg-2D-animatie
+      - Documizers
     more_items: true
     contacts:
       - sophie
