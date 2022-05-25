@@ -55,7 +55,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
     content: >-
-      ## **Motion Graphics**
+      ## ***Motion Graphics***
 
 
       Een stijl die veel voorkomt bij uitleganimaties zijn motion graphics. In het kort zijn motion graphics geanimeerde grafische elementen, verwerkt in een aantrekkelijke film. Motion graphics zijn effectief voor je merkidentiteit door de sterke herkenbaarheid in kleur en vorm. Motion graphics zijn ook effectief om cijfers of data te communiceren. Motion graphics komen zowel met als zonder voice-over voor. Motion graphics zijn in 2D en 3D. Een combinatie van beiden wordt steeds populairder.
@@ -73,7 +73,7 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## ***Stijlen* uitleganimatie**
+      ## ***Stijlen*** uitleganimatie
 
 
       Een uitleganimatie kan in vele verschillende stijlen, zowel 2D als 3D. Belangrijk is dat de stijl past bij het doel van de video. Zo gebruik  je voor de uitleg van een [softwareproduct](https://www.philenflo.nl/portfolio/documizers/) een totaal andere stijl, dan een uitleganimatie voor een [laadpaal](https://www.philenflo.nl/portfolio/alfen-smart-charging-network-3d-animatie/). En voor het [aanmeldproces](https://www.philenflo.nl/portfolio/animatiefilm-pra-health-sciences/) voor een medisch onderzoek weer een andere stijl dan een [vertical farming](https://www.philenflo.nl/portfolio/kg-systems-3d-animatie-vertical-farming/) systeem. Om de juiste stijl te bepalen doe je onderzoek naar je doelgroep. Hoe ziet deze groep eruit? Waar ligt hun (informatie)behoefte en wat is het doel van de video (leads, autoriteit, uitleg, promotie). Ons team helpt je met het vinden van de juiste stijl voor jouw animaties.
@@ -95,7 +95,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Kleurgebruik in jouw uitleganimatie
+      ## ***Kleurgebruik*** in jouw uitleganimatie
 
 
       Ons brein houdt van symmetrie. Daar worden we rustig van. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor chaos, prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor gevaar, warmte en actie. Kennis van kleur is dus van groot belang. En laten we dat nu net in ons bezit hebben.
@@ -106,7 +106,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Nieuwe ontwikkelingen
+      ## ***Nieuwe ontwikkelingen***
 
 
       Ook is het belangrijk dat we weten voor wie de uitleganimatie bedoeld is en waar deze vertoond zal worden. Want de interpretatie van beeld is, net als geschreven en gesproken taal, tijds- en cultuurgebonden. Daarom zijn wij altijd op de hoogte van de nieuwste ontwikkelingen in binnen- en buitenland, bestuderen en beoefenen we verschillende technieken en gaan we graag het avontuur aan. Vraag vrijblijvend een offerte aan.
@@ -157,10 +157,14 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ## *Kosten* **van een uitleganimatie**
+      ## ***Kosten*** van een uitleganimatie
 
 
       Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een uitleganimatie zijn afhankelijk van een aantal aspecten, zoals de stijl en lengte. De ene stijl kost meer tijd om te maken dan de andere. Hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
   - type: contact_block
     contacts:
       - victor
