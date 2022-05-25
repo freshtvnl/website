@@ -8,20 +8,29 @@ image:
 color: green
 blocks:
   - type: hero_block
+    content: ""
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      source_webm: ""
+    title: "***Video laten maken***"
+    displaymedia: null
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
     content: Als het gaat om doeltreffende marketing is het erg belangrijk om te
       kiezen voor het *juiste middel.* Daarom kan je bij ons verschillende
       soorten video laten maken. Op deze pagina vind je een aantal primaire
       videovormen die bijna noodzakelijk zijn in de juiste marketingmix. We
       produceren echter nog vele andere vormen video, vraag onze adviseurs voor
       meer informatie.
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
-      source_webm: ""
-    title: "***Video laten maken***"
+    align: left
     displaymedia: custom_video
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Bedrijfsfilm***
 
@@ -38,8 +47,9 @@ blocks:
       url: /bedrijfsfilm-laten-maken/
       text: Bedrijfsfilm laten maken
       type: button
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Commercial*** laten maken
 
@@ -59,7 +69,7 @@ blocks:
       type: button
     align_text: text-left
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Persoonlijke*** video laten maken
 
@@ -82,7 +92,7 @@ blocks:
         source: ""
     iframe:
       source: ""
-    align: right
+    align: left
     align_text: text-left
     cta:
       url: /oplossingen/employer-branding/
@@ -100,7 +110,7 @@ blocks:
     image:
       source: ""
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Vermenselijk*** je merk met een video
 
@@ -110,11 +120,12 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## ***Hoeveel tijd*** kost een video laten maken?
@@ -123,7 +134,7 @@ blocks:
       Het laten maken van een video is niet alleen het filmen van de juiste beelden. Er gaat een proces van concept, strategie en voorbereiding aan vooraf. Daarna komt het filmen van alle beelden zelf. We proberen altijd om alle beelden er in één draaidag op te zetten. Onze creative producers zorgen daarom voor een duidelijke planning en script. Een video waarin je medewerkers of acteurs inzet, duurt vaak langer dan het filmen van video’s waarin je dit niet doet. Maar met een goede voorbereiding is alles mogelijk. Ben je benieuwd hoeveel tijd het kost om voor jouw bedrijf een video te maken? Neem dan contact op met een van onze experts.
     displaymedia: custom_video
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Video laten maken*** van A tot Z
 
@@ -133,11 +144,12 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4
+    align_text: text-left
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## ***Hoeveel kost*** een professionele video laten maken?
