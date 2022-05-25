@@ -43,7 +43,7 @@ blocks:
       ## ***Impact creëren***, samen met Phil & Flo
 
 
-      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. We zijn vanaf het begin betrokken als strategisch partner en branding expert Naast de videocontent maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
+      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. We zijn vanaf het begin betrokken als strategisch partner en branding expert. Naast de videocontent maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
 
 
       Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
