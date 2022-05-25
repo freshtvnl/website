@@ -155,7 +155,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: center
     content: >-
       ## ***Kosten*** van een uitleganimatie
 
@@ -165,6 +165,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+    align_text: text-left
   - type: contact_block
     contacts:
       - victor
