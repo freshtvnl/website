@@ -148,9 +148,9 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+      - Beckys - 3D animatie
     more_items: true
 seo:
   title: VR animatie laten maken | Phil & Flo Creative Studio
