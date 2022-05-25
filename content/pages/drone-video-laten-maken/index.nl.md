@@ -6,15 +6,23 @@ image:
   source: ""
 blocks:
   - type: hero_block
-    align: left
+    align: center
+    video:
+      autoplay: true
+      source_mp4: ""
+    title: "***Films met dronebeelden***"
+    content: ""
+    displaymedia: null
+    align_text: center
+  - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Film%20met%20dronebeelden%20laten%20maken.mp4
-    title: "***Films met dronebeelden***"
     content: We leven in het tijdperk van drones. Met onze 4K drone brengen wij jouw
       pand, bedrijf, terrein, landgoed of evenement in beeld zoals nooit
       tevoren.
     displaymedia: custom_video
+    align: left
   - type: content_block
     video:
       autoplay: true
