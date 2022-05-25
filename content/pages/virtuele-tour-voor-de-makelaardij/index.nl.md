@@ -14,6 +14,9 @@ blocks:
       virtuele tour. Door geinteresseerden een huis of gebouw virtueel te laten
       bezichtigen, krijgen ze meteen een beter beeld van de ruimtes. Verleid
       potentiële kopers nog sneller om een bezichtiging te plannen.
+    displaymedia: image
+    image:
+      source: images/van-wijnen1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -25,7 +28,7 @@ blocks:
       Een virtuele rondleiding in een huis met een makelaar betekent: direct meer informatie voor de potentiële kopers. De makelaar kan meteen inzicht bieden in alle ins en outs en mogelijkheden tot verbouwing. De virtuele tour met makelaar zal sneller zorgen voor een volgende stap in de aankoop naar een woning of bedrijfspand.
     displaymedia: image
     image:
-      source: images/van-wijnen1.jpg
+      source: images/lamberink1.jpg
   - type: content_block
     video:
       autoplay: true
