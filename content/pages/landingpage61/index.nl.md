@@ -115,14 +115,14 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Meet our Phil & Flo team
+      ## *Meet* our Phil & Flo team
 
 
       Kom eens langs, of nodig ons uit om ons leuke team te ontmoeten. Met een passie voor Virtual reality en alle mogelijkheden die dit met zich meebrengt. Ons team van videomarketeers en designers vult elkaar aan om jou doelen met video te behalen! \
 
       \
 
-      **Bel ons nu op 085 – 273 8331**
+      *Bel ons nu op 085 – 273 8331*
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
