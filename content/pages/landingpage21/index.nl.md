@@ -5,20 +5,27 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Commercial*** laten maken"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: uU_QxytkDYY
+    video:
+      source_mp4: ""
+      autoplay: true
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
     content: '[](https://www.freshtv.nl/commercial-laten-maken/# "Volgende")Wil je
       een commercial laten maken? Dan ben je bij Phil & Flo aan het juiste
       adres. Een commercial zegt zoveel meer dan een gesproken of geschreven
       advertentie! Het voegt beleving en kracht toe aan het imago van een
       product of dienst. Wij hebben maar één duidelijk doel: Jouw boodschap
       creatief en helder overbrengen aan de juiste doelgroep!'
-    displaymedia: custom_video
-    youtube:
-      id: uU_QxytkDYY
-    video:
-      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
-      autoplay: true
-  - type: content_block
     align: left
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## Effectief, doelgericht en ***creatief***
 
@@ -30,8 +37,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Een ***commercial*** laten maken van A tot Z
 
@@ -46,7 +54,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Commercial als onderdeel van ***communicatiemix***
 
@@ -56,7 +64,7 @@ blocks:
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Commercial*** laten maken?
 
