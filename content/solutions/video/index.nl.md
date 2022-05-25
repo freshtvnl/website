@@ -114,6 +114,11 @@ blocks:
       autoplay: true
     image:
       source: ""
+  - type: selectedwork_block
+    items:
+      - Elsun Zonnepanelen
+      - Infomercial hzpc sunita
+      - NOM Innovatiefilm
   - type: content_block
     align: right
     content: >-
@@ -182,6 +187,11 @@ blocks:
   - type: contact_block
     contacts:
       - inge
+  - type: selectedreviews_block
+    items:
+      - adresults-video-review
+      - Save The Children commercial
+      - pra-health-sciences-review
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
