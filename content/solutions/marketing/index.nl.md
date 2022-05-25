@@ -9,6 +9,17 @@ color: green
 blocks:
   - type: hero_block
     title: Videomarketing ***tips en tricks***
+    content: ""
+    displaymedia: null
+    video:
+      source_mp4: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
+    align: left
     content: Een open deur, maar het begint allemaal met een goede video. Een video
       die waarde toevoegt. En onze ervaring leert dat dit video’s zijn die
       verhalen vertellen waarin de kijker zich herkent. Hoe beter het verhaal is
@@ -16,10 +27,8 @@ blocks:
       betekenen. Storytelling is de belangrijkste steunpilaar van goede
       videomarketing.
     displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Hoe korter, ***hoe beter***
 
@@ -31,6 +40,9 @@ blocks:
         source: images/inge-bank.jpg
     image:
       source: images/inge-bank.jpg
+    video:
+      autoplay: false
+    align_text: text-left
   - type: contact_block
     contacts:
       - victor
