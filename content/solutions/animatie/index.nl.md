@@ -2,6 +2,18 @@
 draft: false
 blocks:
   - type: hero_block
+    content: ""
+    title: "***Animatie laten maken?***"
+    displaymedia: null
+    video:
+      autoplay: true
+      source_mp4: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
     content: Wil jij ook je eigen wereld creëren en de kijker meenemen in een
       verhaal dat duidelijk, maar vooral interessant is om naar te kijken? Kies
       dan voor onze unieke maatwerk animatiefilms. Animaties zijn er in
@@ -9,13 +21,10 @@ blocks:
       animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), [2D
       animatie](https://www.philenflo.nl/2d-animatie/) of [VR
       animatie](/vr-animatie-laten-maken/).
-    title: "***Animatie laten maken?***"
-    displaymedia: custom_video
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
-  - type: content_block
     align: left
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## ***2D animatie***
 
@@ -31,6 +40,7 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
+    align_text: text-left
   - displaymedia: custom_video
     youtube:
       image:
@@ -54,7 +64,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Virtual Reality Animatie***
 
@@ -69,8 +79,9 @@ blocks:
       url: /vr-animatie-laten-maken/
       text: Lees hier meer
       type: button
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Juist voor ***online doelgroep***
 
@@ -223,9 +234,14 @@ blocks:
   - type: selectedwork_block
     title: Animatie laten maken
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - algemeen-dagblad-animatie
+      - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
+      - wat-is-de-beste-lengte-voor-een-animatie
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
+      - kan-ik-vrijblijvend-sparren-voor-een-animatie
+      - welke-stijl-past-bij-mijn-animatie
+      - hoe-gaan-jullie-te-werk-met-een-animatie
+      - hoe-maken-jullie-animaties
+      - hebben-jullie-voorbeeld-van-een-animatie
     more_items: true
   - type: selectedfaqs_block
     title: Veelgestelde vragen
