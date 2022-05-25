@@ -49,7 +49,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Gepersonaliseerde animatiefilm
+      ## ***Gepersonaliseerde*** animatiefilm
 
 
       Phil & Flo maakt geen animatiefilms waarvan er dertien in een dozijn gaan. Iedere animatiefilm die uit de creatieve geesten van onze professionals komt, is uniek. Om dat te bereiken, gaan we intensief met je in gesprek over het doel, de stijl en het publiek van de animatie die je wilt. Met een standaardanimatie loop je veel eerder het risico dat je minder authentiek, saai, of goedkoop overkomt op je doelgroep. Mensen haken dan sneller af. Daarom geven we de voorkeur aan een gepersonaliseerde aanpak.
@@ -60,7 +60,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Een professioneel resultaat
+      ## ***Een professioneel resultaat***
 
 
       Misschien zie je een beetje op tegen de kosten. Maar als je kiest voor een animatiefilm van mindere kwaliteit, loop je het risico dat je onprofessioneel overkomt en daar knappen mensen vaak op af. Zo loop je dus het risico dat je, in plaats van je doelgroep te vergroten, deze juist verkleint en mensen afschrikt. Dat kost je uiteindelijk nog meer. Daarom kun je beter kiezen voor een professioneel bedrijf, zoals Phil & Flo. Wij hebben de ervaring en expertise om jouw wensen en eisen te begrijpen, maar we kunnen ons ook in de klant inleven. En we maken natuurlijk prachtige animaties 😉
@@ -108,7 +108,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Animatiefilm laten maken van *a tot z*
+      ## Animatiefilm laten maken van ***a tot z***
 
 
       De professionals van Phil & Flo neemt het hele traject van het maken van een animatiefilm voor hun rekening. Van de eerste concepten en storyboards tot het uiteindelijke filmpje. Om tot een resultaat te komen dat het beste bij je past, zullen we je zo nauw mogelijk betrekken als je wilt. Wij houden ons netjes aan je huisstijl en zorgen ervoor dat de animatie in toon en sfeer goed aansluit op je bedrijf.
