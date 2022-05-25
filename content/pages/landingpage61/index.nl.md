@@ -8,17 +8,31 @@ image:
 blocks:
   - type: hero_block
     title: "***VR animatie laten maken***"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Wil jij jouw bezoekers een levensechte ervaring geven vanuit zijn luie
       stoel? Wil jij echt voorlopen op je concurrenten? Met een VR animatie van
       Phil & Flo bied jij jouw klanten, studenten of cliënten of prospects iets
       unieks, namelijk een levensechte ervaring. De mogelijkheden voor een VR
       animatie laten maken zijn eindeloos. Wil je meer informatie? Neem contact
       met ons op en weet vandaag nog meer over VR animaties.
+    align: left
     displaymedia: youtube_video
     youtube:
       id: 0ljMPjPQjRI
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Wat is een ***VR*** animatie?
 
@@ -29,8 +43,9 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: WqCH4DNQBUA
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Hoe werkt een ***VR animatie***?
 
@@ -52,7 +67,7 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: left
+    align: right
     cta:
       url: ""
       text: ""
@@ -79,7 +94,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: right
+    align: left
     content: |-
       ## ***Voordelen*** van een VR animatie
 
@@ -98,7 +113,7 @@ blocks:
       text: ""
       type: null
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Meet our Phil & Flo team
 
@@ -109,7 +124,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Vandaag nog ***alles weten*** over een VR animatie?
 
