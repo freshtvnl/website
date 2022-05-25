@@ -6,15 +6,26 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
+  - type: hero_block
     align: center
-    content: >-
-      # Een uitleganimatie laten maken
-
-
-      Wil je een uitleganimatie laten maken die een ingewikkeld proces uitlegt of een technische applicatie verduidelijkt? Dan is een uitleganimatie van Phil & Flo de enige succesvolle oplossing. Een uitleganimatie versimpelt ingewikkelde concepten in een paar seconden. Onze creatieve team vol specialisten creëren en produceren unieke uitleganimaties speciaal op maat. De mogelijkheden zijn eindeloos.
+    video:
+      autoplay: true
+    title: Een ***uitleganimatie*** laten maken
+    align_text: center
+  - type: content_block
+    align: left
+    content: Wil je een uitleganimatie laten maken die een ingewikkeld proces
+      uitlegt of een technische applicatie verduidelijkt? Dan is een
+      uitleganimatie van Phil & Flo de enige succesvolle oplossing. Een
+      uitleganimatie versimpelt ingewikkelde concepten in een paar seconden.
+      Onze creatieve team vol specialisten creëren en produceren unieke
+      uitleganimaties speciaal op maat. De mogelijkheden zijn eindeloos.
     video:
       autoplay: false
+    cta:
+      url: /contactr/
+      text: Neem direct contact op
+      type: button
   - type: content_block
     align: right
     content: >-
@@ -40,6 +51,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
     content: >-
       ## **Motion Graphics**
 
@@ -54,6 +66,7 @@ blocks:
 
       * Versterken van je merk
     align: right
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
