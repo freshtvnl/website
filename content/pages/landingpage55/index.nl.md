@@ -120,7 +120,7 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## Werkwijze uitleganimatie
+      ## ***Werkwijze*** uitleganimatie
 
 
       Hoe werkt het precies als je een animatie maakt? Het begint altijd met een creatieve sessie.
@@ -142,12 +142,20 @@ blocks:
 
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
     align: center
+  - type: selectedwork_block
+    title: Selected work
+    items:
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
+      - Animatiefilm PRA health sciences
+      - OIO systems
+    more_items: true
   - type: content_block
     video:
       autoplay: true
     align: left
     content: >-
-      ## **Kosten van een uitleganimatie**
+      ## *Kosten* **van een uitleganimatie**
 
 
       Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een uitleganimatie zijn afhankelijk van een aantal aspecten, zoals de stijl en lengte. De ene stijl kost meer tijd om te maken dan de andere. Hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
@@ -159,14 +167,6 @@ blocks:
       - animatiefilm-over-biogas
       - Animatiefilm PRA health sciences
       - OIO systems
-  - type: selectedwork_block
-    title: Selected work
-    items:
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
-      - Animatiefilm PRA health sciences
-      - OIO systems
-    more_items: true
 seo:
   title: Uitleganimatie laten maken | Phil & Flo | Animatie & Video
   description: "Uitleganimatie laten maken? Phil & Flo produceert een unieke op
