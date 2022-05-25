@@ -29,6 +29,11 @@ blocks:
       meer informatie.
     align: left
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Meer informatie
+      type: button
+      color: green
   - type: content_block
     align: right
     content: >-
