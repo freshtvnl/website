@@ -49,6 +49,9 @@ blocks:
 
 
       Laat de bureaus, stoelen en kasten tot leven komen dankzij slimme techniek. In een virtuele tour kun je met behulp van *[video](https://www.philenflo.nl/oplossingen/video-laten-maken/)*, *[animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)* en *[virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/)* een echte beleving maken van jouw organisatie. De video wordt geschikt gemaakt voor het device dat jouw doelgroep gebruikt. Denk hierbij aan tablets, desktops of smartphones.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-schakelschema-oranje.jpg
   - type: content_block
     video:
       autoplay: true
@@ -59,6 +62,9 @@ blocks:
 
 
       Een online tour door jouw organisatie moet voldoen aan jouw wensen en eisen. Daarom start het proces met het stellen van doelen. Wat wil je bereiken en vooral wie wil je bereiken? Aan de hand van een creatieve sessie wordt alles uitgewerkt. Vervolgens wordt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en draaiboek uitgewerkt. Ben jij akkoord? Dan kan het filmen beginnen! Na opname ontvang je een ruwe versie. Aan de hand van jouw feedback wordt een definitieve versie uitgewerkt.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-concept-oranje.jpg
   - type: content_block
     video:
       autoplay: true
@@ -72,6 +78,12 @@ blocks:
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag je offerte aan
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-gesprek-oranje.jpg
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
 seo:
   title: "Virtuele tour voor Employer branding | Phil & Flo "
   description: Virtuele tour voor employer branding laten maken door Phil & Flo.
