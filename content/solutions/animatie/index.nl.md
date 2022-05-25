@@ -234,14 +234,9 @@ blocks:
   - type: selectedwork_block
     title: Animatie laten maken
     items:
-      - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
-      - wat-is-de-beste-lengte-voor-een-animatie
-      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
-      - kan-ik-vrijblijvend-sparren-voor-een-animatie
-      - welke-stijl-past-bij-mijn-animatie
-      - hoe-gaan-jullie-te-werk-met-een-animatie
-      - hoe-maken-jullie-animaties
-      - hebben-jullie-voorbeeld-van-een-animatie
+      - alfen-Smart-Charging-Network-3D-animatie
+      - algemeen-dagblad-animatie
+      - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
   - type: selectedfaqs_block
     title: Veelgestelde vragen
