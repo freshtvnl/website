@@ -19,6 +19,8 @@ blocks:
     video:
       autoplay: false
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
+      image:
+        source: images/phil-en-flo-videomarketing.jpg
     align: left
     content: Een open deur, maar het begint allemaal met een goede video. Een video
       die waarde toevoegt. En onze ervaring leert dat dit video’s zijn die
