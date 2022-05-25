@@ -1,7 +1,7 @@
 ---
 title: Virtuele tour restaurant
 slug: virtuele-tour-restaurant
-draft: true
+draft: false
 color: orange
 blocks:
   - type: hero_block
@@ -13,6 +13,9 @@ blocks:
       brasserie al voordat ze er zijn geweest, met een digitale rondleiding
       gemaakt door Phil & Flo. Laat ze alvast proeven hoe smaakvol jouw
       restaurant is.
+    displaymedia: image
+    image:
+      source: images/sunita2.jpg
   - type: content_block
     video:
       autoplay: true
