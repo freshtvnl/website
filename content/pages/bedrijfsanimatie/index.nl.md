@@ -95,7 +95,7 @@ blocks:
 
 
       Aarzel niet om in contact met ons te komen en ons het hemd van het lijf te vragen over een bedrijfsanimatie. We hebben de oplossing voor jouw communicatievraagstuk!
-    displaymedia: custom_video
+    displaymedia: null
     video:
       autoplay: true
     cta:
