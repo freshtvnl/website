@@ -42,7 +42,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Uitleganimatie*** maken van A tot Z
+      ## Uitleganimatie maken van ***A tot Z***
 
 
       Wil je een succesvolle uitleganimatie laten maken? Phil & Flo Creative Studio regelt het voor je. Iedere uitleganimatie is maatwerk en gemaakt in de huisstijl van jouw bedrijf. Dit betekent dat onze hoogwaardige uitleganimaties vanaf het begin voor jou zijn ontworpen en gecreëerd door onze vakmensen. Daarnaast zijn we als videomarketing specialist uitstekend in staat om je uitleganimatie op een succesvolle manier te plaatsen, zodat je video ook echt gezien wordt!
