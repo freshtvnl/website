@@ -78,6 +78,7 @@ blocks:
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Vraag je offerte aan
+      type: button
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-oranje.jpg
