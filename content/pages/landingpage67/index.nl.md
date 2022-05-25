@@ -44,12 +44,15 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
+      source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
     align: left
     content: >-
-      ### **Waarom een bedrijfsanimatie laten maken?**
+      ### ***Waarom*** een bedrijfsanimatie laten maken?
 
 
       Iedere organisatie heeft een eigen unieke identiteit. Je hebt een identiteit die zich onderscheid van concurrenten. Jij weet precies waarom een potentiële klant voor jou moet kiezen en niet voor die concurrent. Helaas deze identiteit niet bij iedereen bekend. Dit doe je met een bedrijfsanimatie. Dit laagdrempelige communicatiemiddel zorgt dat iedere prospect binnen 1 minuut begrijpt wat jouw toegevoegde waarde is.
+    displaymedia: custom_video
   - type: content_block
     align: right
     content: >-
