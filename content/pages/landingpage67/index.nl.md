@@ -12,11 +12,21 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
     title: "***Bedrijfsanimatie laten maken*** door Phil & Flo"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Een bedrijfsanimatie is een stuk content dat binnen korte tijd
       waardevolle informatie over je bedrijf geeft. Deze krachtige
       communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk
       manier je missie en visie te communiceren, zowel intern als extern. Heb je
       onze bedrijfsanimatie al gezien?
+    align: left
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -41,7 +51,7 @@ blocks:
 
       Iedere organisatie heeft een eigen unieke identiteit. Je hebt een identiteit die zich onderscheid van concurrenten. Jij weet precies waarom een potentiële klant voor jou moet kiezen en niet voor die concurrent. Helaas deze identiteit niet bij iedereen bekend. Dit doe je met een bedrijfsanimatie. Dit laagdrempelige communicatiemiddel zorgt dat iedere prospect binnen 1 minuut begrijpt wat jouw toegevoegde waarde is.
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Wanneer*** een bedrijfsanimatie laten maken?
 
@@ -52,7 +62,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Voor wie*** een bedrijfsanimatie laten maken?
 
@@ -63,7 +73,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Bedrijfsanimatie ***inzetten***
 
@@ -144,27 +154,31 @@ blocks:
       5. **Optimalisatie en campagnes**
 
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
-  - type: content_block
-    video:
-      autoplay: true
-    align: left
-    content: >-
-      ### **Wat kost het laten maken van een bedrijfsanimatie?**
-
-
-      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een bedrijfsanimatie zijn voornamelijk afhankelijk van de gekozen stijl, en de lengte. De ene stijl kost meer tijd om te maken dan de andere. Voor de lengte geldt; hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
-  - type: contact_block
-    contacts:
-      - inge
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - Animatiefilm ICON geneesmiddelenonderzoek
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
     more_items: true
     contacts:
       - sophie
+  - type: content_block
+    video:
+      autoplay: true
+    align: center
+    content: >-
+      ### Wat ***kost*** het laten maken van een bedrijfsanimatie?
+
+
+      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een bedrijfsanimatie zijn voornamelijk afhankelijk van de gekozen stijl, en de lengte. De ene stijl kost meer tijd om te maken dan de andere. Voor de lengte geldt; hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+  - type: contact_block
+    contacts:
+      - inge
   - items:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
