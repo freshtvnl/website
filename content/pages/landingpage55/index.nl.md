@@ -22,10 +22,12 @@ blocks:
       uitleganimaties speciaal op maat. De mogelijkheden zijn eindeloos.
     video:
       autoplay: false
+      source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
     cta:
       url: /contactr/
       text: Neem direct contact op
       type: button
+    displaymedia: custom_video
   - type: content_block
     align: right
     content: >-
