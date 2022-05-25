@@ -100,7 +100,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## De unieke designfilosofie van Phil & Flo
+      ## De unieke ***designfilosofie*** van Phil & Flo
 
 
       Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
