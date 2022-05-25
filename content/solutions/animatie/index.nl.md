@@ -50,7 +50,7 @@ blocks:
     align: left
     cta:
       url: https://www.philenflo.nl/3-d-animatie-laten-maken/
-      text: Lees hier meer
+      text: Lees meer
       type: button
     content: >-
       ## ***3D Animatie***
@@ -77,7 +77,7 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier meer
+      text: Lees meer
       type: button
     align_text: text-left
   - type: content_block
@@ -238,6 +238,9 @@ blocks:
       - algemeen-dagblad-animatie
       - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
+  - type: contact_block
+    contacts:
+      - aron
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
