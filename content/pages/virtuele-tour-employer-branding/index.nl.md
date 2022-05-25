@@ -29,6 +29,9 @@ blocks:
       \
 
       Een virtuele rondleiding laat toekomstige medewerkers zien in welke werkomgeving zij aan de slag mogen. Zo kunnen zij een betere keuze maken of het bedrijf past bij hen. Het is geen statische video waarin medewerkers vertellen, maar ze kunnen interactief deelnemen dankzij deze video.
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-happy-face-oranje.jpg
   - type: content_block
     video:
       autoplay: true
@@ -39,6 +42,9 @@ blocks:
       Een digitale rondleiding is niet alleen een belangrijke bijdrage voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), ook klanten bekijken graag deze video’s. Ze krijgen een idee van de cultuur en of zij graag met jullie willen samenwerken. Je wilt graag klant zijn bij een bedrijf waar je thuis voelt. Met de digitale rondleiding geef je ook jouw leads en klanten een kijkje achter de schermen. Laat zien hoe jullie te werk gaan en straal vertrouwen uit!
     align: right
     align_text: text-left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-video-oranje.jpg
   - type: content_block
     video:
       autoplay: true
