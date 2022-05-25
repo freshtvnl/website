@@ -5,16 +5,30 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Gepersonaliseerde video***"
+    content: ""
+    displaymedia: null
+    iframe:
+      source: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
     content: Met deze persoonlijke video spreek je je doelgroep direct aan. Alle
       informatie in de video is precies afgestemd op jouw doelgroep. Denk
       bijvoorbeeld aan een video over pensioenopbouw, een verzekeringspolis of
       rondleiding door je organisatie. Bij Phil & Flo weten we precies hoe we
       jouw video het beste kunnen personaliseren!
+    align: left
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Groot*** ***succes***
 
@@ -27,7 +41,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Van concept tot ***uitvoering***
 
@@ -39,12 +53,12 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Ook een ***gepersonaliseerde*** video?
 
 
-      Een persoonlijke boodschap vertellen? Kom vrijblijvend langs op één van onze kantoren in Eindhoven, Amsterdam of Groningen en ontdek wat wij voor jou kunnen betekenen! Of bel onze adviseurs vrijblijvend over de mogelijkheden, 085 - 2738331
+      Een persoonlijke boodschap vertellen? Kom vrijblijvend langs op één van onze kantoren in Eindhoven, Amsterdam of Groningen en ontdek wat wij voor jou kunnen betekenen! Of bel onze adviseurs vrijblijvend over de mogelijkheden 085 - 2738331
     displaymedia: image
     image:
       source: images/inge-bank.jpg
@@ -52,6 +66,11 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
+    video:
+      autoplay: false
+  - type: contact_block
+    contacts:
+      - inge
 seo:
   title: Gepersonaliseerd video | Phil & Flo Videomarketing
   description: Persoonlijke video laten maken door Phil & Flo | ✔ Onderscheidende
