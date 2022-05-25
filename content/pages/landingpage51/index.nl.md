@@ -6,15 +6,31 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
+  - type: hero_block
     align: center
-    content: >-
-      # Een effectieve ***animatiefilm*** laten maken
-
-
-      Animaties zijn er in vele soorten en maten, zoals [2D](https://www.philenflo.nl/2d-animatie/) en [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), maar hebben allemaal een gelijksoortig doel: het helder en effectief overbrengen van een boodschap. Een animatiefilm is een fantastische manier om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te leggen, of een proces te illustreren. Phil & Flo maakt professionele animaties voor al deze doeleinden. Onze animatiefilms zijn creatief, divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over dan je met alleen tekst bereikt.
+    video:
+      autoplay: true
+    title: Een effectieve ***animatiefilm*** laten maken
+    align_text: center
   - type: content_block
     align: left
+    content: "Animaties zijn er in vele soorten en maten, zoals
+      [2D](https://www.philenflo.nl/2d-animatie/) en [3D
+      animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), maar
+      hebben allemaal een gelijksoortig doel: het helder en effectief
+      overbrengen van een boodschap. Een animatiefilm is een fantastische manier
+      om een marketingcampagne te ondersteunen, een technisch vraagstuk uit te
+      leggen, of een proces te illustreren. Phil & Flo maakt professionele
+      animaties voor al deze doeleinden. Onze animatiefilms zijn creatief,
+      divers en voor uiteenlopende opdrachtgevers, maar ze hebben allemaal een
+      ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over
+      dan je met alleen tekst bereikt."
+    video:
+      autoplay: false
+      source_mp4: https://video.philenflo.nl/video/Solarroof-3d-animatie-Phil-en-Flo.mp4
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## De ***voordelen*** van een animatiefilm
 
@@ -25,13 +41,13 @@ blocks:
       source: images/2d-animatie-laten-maken.jpg
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
-      text: Lees meer over animatie laten maken
-      type: null
+      text: Animatie laten maken
+      type: button
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Gepersonaliseerde animatiefilm
 
@@ -42,7 +58,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Een professioneel resultaat
 
@@ -55,8 +71,14 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier meer over Virtual Reality Animaties
-      type: null
+      text: Virtual Reality animatie laten maken
+      type: button
+  - type: logoblock
+    logo_items:
+      - Alfen
+      - KG Systems
+      - K3 Business Technology
+    title: Bewezen trackrecord
   - type: content_block
     align: left
     content: >-
@@ -86,7 +108,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Animatiefilm laten maken van a tot z
+      ## Animatiefilm laten maken van *a tot z*
 
 
       De professionals van Phil & Flo neemt het hele traject van het maken van een animatiefilm voor hun rekening. Van de eerste concepten en storyboards tot het uiteindelijke filmpje. Om tot een resultaat te komen dat het beste bij je past, zullen we je zo nauw mogelijk betrekken als je wilt. Wij houden ons netjes aan je huisstijl en zorgen ervoor dat de animatie in toon en sfeer goed aansluit op je bedrijf.
@@ -97,7 +119,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Concept animatiefilm
+      ## ***Concept*** animatiefilm
 
 
       Een animatiefilm maken is een kunst. Het begint met het uitdenken van een concept. Dat is de fase waar jij als opdrachtgever ook nauw bij wordt betrokken. We gaan samen aan de slag om zo helder mogelijk je ideeën, wensen en het uiteindelijke onderwerp in kaart te brengen. Op basis van de concepten, scripts en storyboards die we zo maken, kunnen onze creatieve animators met de nieuwste technieken een fraaie en aansprekende animatie gaan maken. Dankzij een goed concept komt daarin de boodschap helder en duidelijk over.
@@ -108,7 +130,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Huisstijl en animatie
+      ## ***Huisstijl*** en animatie
 
 
       Ook in je animatiefilm wil je aansluiten op je huisstijl. Onze animators zullen zich netjes aan jouw richtlijnen voor visuele uitingen houden: denk aan het kleurenpalet, of het lettertype, als er (spaarzaam) tekst voorkomt in de animatie. Op andere gebieden zijn ze vrijer: de uiteindelijke vormgeving is uiteindelijk een creatief proces. Maar waar ze altijd rekening mee zullen houden, is dat de animatie in toon en stijl bij jouw bedrijf past. Serieus, speels of een beetje luchtig: we stemmen het op jou en je doelgroep af.
@@ -119,7 +141,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Bereik en inzet van je animatiefilm
+      ## ***Bereik en inzet*** van je animatiefilm
 
 
       Als de animatiefilm eenmaal af is, wil je er natuurlijk mee aan de slag. Ook daar kunnen we je bij helpen. Als je een video handig gebruikt op je website, vergroot je namelijk je vindbaarheid in zoekmachines. Ook kan het zomaar zijn dat je animatie veel likes en shares krijgt op LinkedIn, Facebook en [Instagram](https://www.freshtv.nl/instagram-video-laten-maken/), als je deze in een social media campagne inzet. Wij helpen je op weg met het doeltreffend gebruiken van je animatie, en het vergroten van je bereik. Wij vinden het immers ook zonde als niemand de animatiefilm zou zien.
@@ -130,7 +152,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Ook een doeltreffende animatiefilm laten maken?
+      ## Ook een ***doeltreffende*** animatiefilm laten maken?
 
 
       Wil je graag meer weten over wat voor animaties we allemaal maken, en welke daarvan jij zou kunnen gebruiken? Wij vertellen je er graag alles over. Of je nu op zoek bent naar een [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/), een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) of je wilt graag meer weten over jouw kansen met [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Kom gerust langs of neem contact op om te ontdekken wat er allemaal mogelijk is voor jou met een [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
@@ -144,7 +166,7 @@ blocks:
       type: button
   - type: contact_block
     contacts:
-      - sophie
+      - peter-de-graaf
 seo:
   title: "Animatiefilm Laten Maken | Phil & Flo "
   description: Succesvolle animatiefilm laten maken? Neem contact op voor een
