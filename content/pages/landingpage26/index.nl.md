@@ -30,7 +30,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Groot*** ***succes***
+      ## ***Groot*** succes
 
 
       Een video die persoonlijk is gemaakt voor klanten wordt gemiddeld 85% vaker geopend dan video’s die dat niet zijn. Je klant voelt zich persoonlijk aangesproken en de betrokkenheid bij je bedrijf wordt op die manier verhoogd. Het zal je dan ook niet verbazen dat klanten na het zien van een gepersonaliseerde video eerder tot actie over zullen gaan!
