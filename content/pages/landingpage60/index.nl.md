@@ -22,7 +22,7 @@ blocks:
       is dat het prettig is om naar te kijken. Wie is er inmiddels niet met
       animatie op gegroeid? Wij in ieder geval wel!
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg-ICON1.mp4
     displaymedia: custom_video
   - type: content_block
