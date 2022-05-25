@@ -6,17 +6,29 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
+  - type: hero_block
     align: center
-    content: >-
-      # ***Educatieve*** animatiefilm maken
-
-
-      Een pakkende intro, passende voice-over en iets duidelijk maken dat zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie [animatiefilm maken](https://www.philenflo.nl/animatiefilm-laten-maken/) is dat het prettig is om naar te kijken. Wie is er inmiddels niet met animatie op gegroeid? Wij in ieder geval wel!
+    video:
+      autoplay: true
+    align_text: center
+    title: "***Educatieve*** animatiefilm maken"
   - type: content_block
     align: left
+    content: Een pakkende intro, passende voice-over en iets duidelijk maken dat
+      zonder film bijna onmogelijk is. Zomaar drie voordelen waarin je de
+      aandacht vanaf het begin vast kunt grijpen, houden en duidelijk inzicht in
+      bepaalde onderwerpen kunt geven. Een ander voordeel van een educatie
+      [animatiefilm maken](https://www.philenflo.nl/animatiefilm-laten-maken/)
+      is dat het prettig is om naar te kijken. Wie is er inmiddels niet met
+      animatie op gegroeid? Wij in ieder geval wel!
+    video:
+      autoplay: false
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg-ICON1.mp4
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
-      ## Voordelen van een educatie animatiefilm maken
+      ## ***Voordelen*** van een educatie animatiefilm maken
 
 
       Het is niet altijd eenvoudig om een gecompliceerd onderwerp even in een paar zinnen aan je doelgroep uit te leggen. Laat staan dat die boodschap blijft hangen bij jouw publiek. Door een educatie animatiefilm te maken kun je je doelgroep overtuigen met een ultrakorte, glasheldere en visuele uitleg. Animatie heeft namelijk de eigenschap niets tot de verbeelding toe te laten. Met andere woorden: animatie kan inzicht geven in zaken wat het menselijk oog niet kan waarnemen.
@@ -53,7 +65,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Educatie*** is nooit meer saai
 
@@ -69,16 +81,16 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: contact_block
-    contacts:
-      - sebastiaan
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
+      - andrea-kruis
+      - algemeen-dagblad-animatie
+      - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
 seo:
   title: Educatieve animatievideo maken - Phil & Flo Videomarketing
   description: Educatie animatiefilm maken? Maak jouw boodschap duidelijk voor
