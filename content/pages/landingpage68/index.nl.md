@@ -87,7 +87,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Waarom een ***explainer*** animatie laten maken?
+      ## ***Waarom*** een explainer animatie laten maken?
 
 
       Om jouw complexe boodschap simpel te maken, zijn woorden vaak niet genoeg. Om een boodschap simpel en begrijpelijk te maken werkt een combinatie van beeld en geluid fantastisch.
@@ -124,6 +124,10 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /oplossingen/videomarketing/
+      text: Lees meer
+      type: button
   - type: content_block
     align: right
     content: >-
@@ -139,9 +143,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
-  - type: contact_block
-    contacts:
-      - inge
   - type: selectedwork_block
     title: Selected work
     items:
@@ -151,6 +152,9 @@ blocks:
     more_items: true
     contacts:
       - sophie
+  - type: contact_block
+    contacts:
+      - inge
   - items:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
