@@ -167,6 +167,11 @@ blocks:
 
       De kosten van een video laten maken zijn afhankelijk van jouw eigen wensen. Hoe lang moet een video zijn? Waarvoor ga je een video inzetten? Voor elk doel kunnen we een offerte op maat maken. Wil je weten hoeveel jouw video gaat kosten? Vraag dan vrijblijvend een offerte aan. Phil & Flo denkt graag met je mee en werkt met eerlijke tarieven.
     displaymedia: custom_video
+  - type: selectedreviews_block
+    items:
+      - adresults-video-review
+      - Save The Children commercial
+      - pra-health-sciences-review
   - type: content_block
     align: center
     content: >-
@@ -187,11 +192,6 @@ blocks:
   - type: contact_block
     contacts:
       - inge
-  - type: selectedreviews_block
-    items:
-      - adresults-video-review
-      - Save The Children commercial
-      - pra-health-sciences-review
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
