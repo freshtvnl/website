@@ -179,6 +179,9 @@ blocks:
     align_text: text-left
     video:
       autoplay: false
+  - type: contact_block
+    contacts:
+      - inge
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
