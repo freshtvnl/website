@@ -21,7 +21,7 @@ blocks:
       Onze creatieve team vol specialisten creëren en produceren unieke
       uitleganimaties speciaal op maat. De mogelijkheden zijn eindeloos.
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
     cta:
       url: /contactr/
