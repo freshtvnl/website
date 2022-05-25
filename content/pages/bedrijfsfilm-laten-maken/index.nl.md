@@ -10,7 +10,8 @@ blocks:
     video:
       source_mp4: ""
       autoplay: true
-    align: left
+    align: center
+    align_text: center
   - type: content_block
     video:
       autoplay: true
@@ -27,7 +28,7 @@ blocks:
       color: yellow
       type: button
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Prachtige bedrijfsfilms voor ***organisaties met betekenis***
 
@@ -39,8 +40,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### ***Wat zijn de voordelen van een bedrijfsfilm?***
 
@@ -52,8 +54,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### ***Voor wie maak je een bedrijfsfilm?***
 
@@ -62,8 +65,9 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### ***Van bedrijfsfilm kijkers naar klanten***
 
@@ -76,7 +80,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### ***Kort en krachtig je verhaal vertellen***
 
@@ -88,8 +92,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### ***Je verhaal vertellen met een bedrijfsfilm***
 
@@ -102,7 +107,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### ***Persoonlijke Storytelling***
 
@@ -114,8 +119,9 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
+    align_text: text-left
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### ***Je bedrijfsfilm laten maken voor sociale media***
 
@@ -138,11 +144,12 @@ blocks:
 
 
       Je wilt met een bedrijfsfilm een bepaald doel bereiken. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een  op nog langere termijn actueel. Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren.
-    align: left
+    align: right
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
     displaymedia: custom_video
+    align_text: text-left
   - type: content_block
     video:
       autoplay: true
@@ -157,7 +164,7 @@ blocks:
 
 
       Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons [portfolio](https://www.philenflo.nl/portfolio/) maar eens voor voorbeelden van bedrijfsfilms.
-    align: right
+    align: left
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
@@ -168,7 +175,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Wat kost een bedrijfsfilm?
 
@@ -185,11 +192,12 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+    align_text: text-left
   - type: content_block
     video:
       autoplay: true
-    align: right
-    align_text: text-left
+    align: left
+    align_text: null
     content: >-
       ## Hoe maak je een goede ***bedrijfsfilm***? 
 
@@ -201,6 +209,9 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
   - type: selectedfaqs_block
     items:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
