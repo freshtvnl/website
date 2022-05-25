@@ -25,7 +25,7 @@ blocks:
       waardevolle informatie over je bedrijf geeft. Deze krachtige
       communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk
       manier je missie en visie te communiceren, zowel intern als extern. Heb je
-      onze bedrijfsanimatie al gezien?
+      onze eigen Phil & Flo bedrijfsanimatie al gezien?
     align: left
     displaymedia: youtube_video
     youtube:
