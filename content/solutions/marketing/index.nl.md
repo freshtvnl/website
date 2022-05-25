@@ -17,7 +17,7 @@ blocks:
     align_text: center
   - type: content_block
     video:
-      autoplay: true
+      autoplay: false
       source_mp4: https://video.philenflo.nl/video/Phil-en-flo-kort-contact2.mp4
     align: left
     content: Een open deur, maar het begint allemaal met een goede video. Een video
