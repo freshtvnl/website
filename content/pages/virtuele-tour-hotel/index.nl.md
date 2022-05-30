@@ -39,7 +39,7 @@ blocks:
       ## De ***mogelijkheden*** bij een digitale rondleiding door jouw hotel
 
 
-      Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour. Een virtuele rondleiding is mogelijk in [VR](https://www.philenflo.nl/oplossingen/virtual-reality/), 360 graden of [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/). Jij bepaalt welke faciliteiten van het hotel in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is specialist in het maken van virtuele tours, wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw hotel.
+      Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour. Een virtuele rondleiding is mogelijk in [VR](https://www.philenflo.nl/oplossingen/virtual-reality/), [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) of [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/). Jij bepaalt welke faciliteiten van het hotel in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is specialist in het maken van [virtuele tours](https://www.philenflo.nl/virtuele-tour/), wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw hotel.
     displaymedia: image
     image:
       source: images/jde-marcilla1.jpg
@@ -52,7 +52,7 @@ blocks:
       ## De ***werkwijze*** van Phil & Flo
 
 
-      Onze samenwerking begint met een idee en visie. Tijdens een intake gesprek bespreken we alle ideeën, wensen en doelen. Daarna werken we aan een technisch kader om tot de uiteindelijke opdracht te komen. Als de opdracht duidelijk is, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Dit begint met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtual hotel tour worden ingekleurd. Wat en wie gaan we filmen? Kiezen we voor interviews of een voice-over? Alles wordt verzameld in een wireframe, waarin alle onderdelen van de [interactieve tour](https://www.philenflo.nl/virtuele-tour/) aan elkaar worden verbonden. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt alles vastgelegd in een draaiboek.
+      Onze samenwerking begint met een idee en visie. Tijdens een intake gesprek bespreken we alle ideeën, wensen en doelen. Daarna werken we aan een technisch kader om tot de uiteindelijke opdracht te komen. Als de opdracht duidelijk is, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Dit begint met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtual hotel tour worden ingekleurd. Wat en wie gaan we filmen? Kiezen we voor interviews of een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/)? Alles wordt verzameld in een wireframe, waarin alle onderdelen van de [interactieve tour](https://www.philenflo.nl/virtuele-tour/) aan elkaar worden verbonden. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt alles vastgelegd in een draaiboek.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-oranje.jpg
@@ -67,10 +67,10 @@ blocks:
     align: right
     align_text: text-left
     content: >-
-      ## ***Kosten*** online tour
+      ## ***Kosten*** online hotel tour
 
 
-      De kosten van een online tour zijn afhankelijk van jouw wensen en eisen. Phil & Flo stelt een offerte op maat op, er is geen vast bedrag. Een persoonlijke offerte is de enige manier om je concreet inzicht te bieden in de kosten. Er zijn namelijk veel factoren die invloed hebben op de prijs. We werken met eerlijke tarieven en zijn volledig transparant.\
+      De kosten van een online hotel tour zijn afhankelijk van jouw wensen en eisen. Phil & Flo stelt een offerte op maat op, er is geen vast bedrag. Een persoonlijke offerte is de enige manier om je concreet inzicht te bieden in de kosten. Er zijn namelijk veel factoren die invloed hebben op de prijs. We werken met eerlijke tarieven en zijn volledig transparant.\
 
       \
 
