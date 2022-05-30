@@ -163,7 +163,7 @@ blocks:
       ## Digitale rondleiding voor ***hotel***
 
 
-      Gasten willen graag een goede indruk hebben van een hotel voordat zij boeken. Wil jij extra gasten in het hotel en een goede eerste indruk bieden? Dat kan dankzij een digitale rondleiding. Laat gasten de kamers, lobby en het restaurant zien. Geef ze het gevoel alsof ze er al zijn en laat ze ontspannen in deze omgeving.
+      Gasten willen graag een goede indruk hebben van een hotel voordat zij boeken. Wil jij extra gasten in het hotel en een goede eerste indruk bieden? Dat kan dankzij een digitale rondleiding. Laat gasten de kamers, lobby en het restaurant zien. Geef ze het gevoel alsof ze er al zijn en laat ze ontspannen in deze omgeving. Lees hier meer over [virtuele tours voor hotels](https://www.philenflo.nl/virtuele-tour-hotel/).
     form: ""
     displaymedia: image
     image:
@@ -175,7 +175,7 @@ blocks:
       ## 360 graden rondleiding inzetten voor ***toerisme***
 
 
-      Bezoekers trekken naar jouw stad, evenement of attractie kan met een 360 graden rondleiding. Laat zien wat jullie te bieden hebben. Een uitstapje doe je niet zomaar, dus je wilt weten wat de stad te bieden heeft. Laat met geweldige beelden zien wat jullie stad te bieden heeft. Van stadswandeling tot aan hotel, trek toeristen met een realistisch beeld en werk samen met lokale ondernemers.
+      Bezoekers trekken naar jouw stad, evenement of attractie kan met een 360 graden rondleiding. Laat zien wat jullie te bieden hebben. Een uitstapje doe je niet zomaar, dus je wilt weten wat de stad te bieden heeft. Laat met geweldige beelden zien wat jullie stad te bieden heeft. Van stadswandeling tot aan hotel, trek toeristen met een realistisch beeld en werk samen met lokale ondernemers. Lees hier meer over [virtuele tours voor toerisme](https://www.philenflo.nl/virtuele-tour-toerisme/).
     align: left
     align_text: text-left
     image:
@@ -240,7 +240,7 @@ blocks:
       ## Een smakelijke online tour door jouw ***restaurant***
 
 
-      De horeca groeit, er komen steeds meer mogelijkheden bij om uiteten te gaan. Maar hoe onderscheid jij jezelf? Dat kan met een smakelijke online tour door het restaurant. Toon de ambiance waarvan jouw gasten mogen genieten. Geef een voorproefje in de keuken, laat geweldige gerechten zien en uiteraard de gastheren en gastvrouwen. Zo geef jij een kijkje in de keuken en trek je gemakkelijk meer gasten.
+      De horeca groeit, er komen steeds meer mogelijkheden bij om uiteten te gaan. Maar hoe onderscheid jij jezelf? Dat kan met een smakelijke online tour door het restaurant. Toon de ambiance waarvan jouw gasten mogen genieten. Geef een voorproefje in de keuken, laat geweldige gerechten zien en uiteraard de gastheren en gastvrouwen. Zo geef jij een kijkje in de keuken en trek je gemakkelijk meer gasten. Lees hier meer over een [virtuele tour door jouw restaurant](https://www.philenflo.nl/virtuele-tour-restaurant/).
     align: right
     align_text: text-left
     image:
