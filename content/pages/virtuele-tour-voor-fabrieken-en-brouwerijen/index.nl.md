@@ -34,7 +34,7 @@ blocks:
       ## ***Mogelijkheden*** bij Phil & Flo
 
 
-      Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour voor een brouwerij of fabriek. Een virtuele rondleiding door een brouwerij is mogelijk in de vorm van een interactieve video, 360 graden of als Virtual Reality. Samen met onze creative producers ga je kijken welke onderdelen van het bedrijf in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is expert in het maken van digitale rondleidingen, wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw fabriek of brouwerij.
+      Er zijn veel creatieve mogelijkheden voor het maken van een virtuele tour voor een brouwerij of fabriek. Een virtuele rondleiding door een brouwerij is mogelijk in de vorm van een [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/), [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) of als [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/). Samen met onze creative producers ga je kijken welke onderdelen van het bedrijf in beeld worden gebracht. De kijker bepaald hoe hij hierin wil navigeren. Phil & Flo is expert in het maken van digitale rondleidingen, wij helpen je graag met het onderzoeken van de mogelijkheden voor jouw fabriek of brouwerij.
     align: right
     displaymedia: image
     image:
@@ -47,7 +47,7 @@ blocks:
       ## ***De werkwijze*** van Phil & Flo
 
 
-      De samenwerking met Phil & Flo begint met het delen van een idee en visie. Tijdens een intakegesprek met onze adviseurs bespreken we jullie ideeën, wensen en doelen. Als we dit concreet hebben gemaakt, gaan we werken aan een technisch kader om de opdracht te vormen. Als de opdracht staat, maak je kennis met een van onze creative producers die je door het proces gaat begeleiden. Met de creative producer wordt een creatieve sessie gehouden waarin wordt bepaald hoe de kaders voor de [virtuele rondleiding](https://www.philenflo.nl/virtuele-tour/) fabriek of brouwerij worden ingekleurd. Wie en wat gaan we filmen? Zetten we een voice-over in of houden we interviews? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis van dit wireframe maakt de creative producer samen met jou afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
+      De samenwerking met Phil & Flo begint met het delen van een idee en visie. Tijdens een intakegesprek met onze adviseurs bespreken we jullie ideeën, wensen en doelen. Als we dit concreet hebben gemaakt, gaan we werken aan een technisch kader om de opdracht te vormen. Als de opdracht staat, maak je kennis met een van onze creative producers die je door het proces gaat begeleiden. Met de creative producer wordt een creatieve sessie gehouden waarin wordt bepaald hoe de kaders voor de [virtuele rondleiding](https://www.philenflo.nl/virtuele-tour/) fabriek of brouwerij worden ingekleurd. Wie en wat gaan we filmen? Zetten we een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/) in of houden we interviews? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis van dit wireframe maakt de creative producer samen met jou afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-blauw.jpg
@@ -79,6 +79,6 @@ seo:
   title: "Digitale rondleiding laten maken door fabrieken en brouwerijen | Phil &
     Flo "
   description: Digitale rondleiding fabrieken en brouwerijen laten maken door Phil
-    & Flo. Wij verbeelden het. ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔
+    & Flo. Wij verbeelden het ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔
     Professioneel
 ---
