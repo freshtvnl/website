@@ -32,7 +32,7 @@ blocks:
       ## De perfecte ***communicatiemix***
 
 
-      Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Om deze informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende 2D animatie. \
+      Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Om deze informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende [2D animatie](https://www.philenflo.nl/2d-animatie/). \
 
       \
 
@@ -50,7 +50,7 @@ blocks:
       ## Waarom een ***2D animatie?***
 
 
-      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie levendiger en daardoor toegankelijker. En de combinatie met voice-over, muziek en geluid zorgt ervoor dat de doelgroep de boodschap beter onthoudt.
+      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie levendiger en daardoor toegankelijker. En de combinatie met [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/), muziek en geluid zorgt ervoor dat de doelgroep de boodschap beter onthoudt.
     displaymedia: custom_video
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
@@ -62,8 +62,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Videoanimatie
-    door Phil & Flo
-  description: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | 2D
-    animatie laten maken voor gemeentes door Phil & Flo
+  title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Phil & Flo
+  description: "Uitkering uitgelegd in 2D animatie voor de gemeente Amstelveen |
+    Bekijk het hierin het portfolio van Phil & Flo "
 ---
