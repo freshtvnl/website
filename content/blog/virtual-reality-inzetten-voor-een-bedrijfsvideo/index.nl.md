@@ -51,7 +51,7 @@ Hier zijn een paar voorbeelden van toepassingen van virtual reality die interess
 
 ### Virtuele tours
 
-Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. 
+Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. Lees hier meer over een [virtuele tour door een fabriek of brouwerij](https://www.philenflo.nl/virtuele-tour-fabrieken-brouwerijen/).
 
 [Virtuele tours](https://www.philenflo.nl/virtuele-tour/) en 360 graden video's worden ook veel gebruikt door makelaars en architecten. Denk dan aan de 360 tours in Funda en aan rondleidingen in een nog te bouwen huis of bedrijfspand.
 
