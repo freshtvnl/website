@@ -26,7 +26,7 @@ blocks:
 
       \
 
-      In een virtuele rondleiding van het hotel kunnen we alles in beeld brengen. De ruimtes binnen, het terras buiten, de vergaderzalen, sport- en wellnessruimtes en natuurlijk de hotelkamers. Laat ze ontdekken welke services het hotel te bieden heeft.
+      In een virtuele rondleiding van het hotel kunnen we alles in beeld brengen. De ruimtes binnen, het terras buiten, de vergaderzalen, sport- en wellnessruimtes, het [restaurant](https://www.philenflo.nl/virtuele-tour-restaurant/) en natuurlijk de hotelkamers. Laat ze ontdekken welke services het hotel te bieden heeft.
     displaymedia: image
     image:
       source: images/paysonic1.jpg
@@ -52,7 +52,7 @@ blocks:
       ## De ***werkwijze*** van Phil & Flo
 
 
-      Onze samenwerking begint met een idee en visie. Tijdens een intake gesprek bespreken we alle ideeën, wensen en doelen. Daarna werken we aan een technisch kader om tot de uiteindelijke opdracht te komen. Als de opdracht duidelijk is, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Dit begint met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtual hotel tour worden ingekleurd. Wat en wie gaan we filmen? Kiezen we voor interviews of een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/)? Alles wordt verzameld in een wireframe, waarin alle onderdelen van de [interactieve tour](https://www.philenflo.nl/virtuele-tour/) aan elkaar worden verbonden. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt alles vastgelegd in een draaiboek.
+      Onze samenwerking begint met een idee en visie. Tijdens een intake gesprek bespreken we alle ideeën, wensen en doelen. Daarna werken we aan een technisch kader om tot de uiteindelijke opdracht te komen. Als de opdracht duidelijk is, maak je kennis met een van onze creative producers, die je door het proces begeleidt. Dit begint met een creatieve sessie waarin wordt bepaald hoe de kaders voor de virtual hotel tour worden ingekleurd. Wat en wie gaan we filmen? Kiezen we voor interviews of een [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/)? Alles wordt verzameld in een wireframe, waarin alle onderdelen van de interactieve tour aan elkaar worden verbonden. Op basis van het wireframe maakt de creative producer afspraken over de benodigde mensen en locaties en wordt alles vastgelegd in een draaiboek.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-oranje.jpg
