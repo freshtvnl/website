@@ -46,4 +46,4 @@ De werkdruk voor een docent neemt af wanneer men gebruik kan maken van animaties
 
 Wil jij meer weten over de toepassing van animatie in het onderwijs? Plan nu een vrijblijvende 30 minuten sessie met onze onderwijs specialist. 
 
-Lees hier meer over onze nieuwe unieke interactieve [virtuele school rondleidingen](https://www.philenflo.nl/virtuele-school-rondleiding/).
+Lees hier meer over onze unieke interactieve [virtuele school rondleidingen](https://www.philenflo.nl/virtuele-school-rondleiding/).
