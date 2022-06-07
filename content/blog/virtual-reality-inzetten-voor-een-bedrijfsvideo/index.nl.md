@@ -15,13 +15,13 @@ Door nieuwe ontwikkelingen ontstaan nieuwe kansen. Virtual reality is zo'n innov
 
 Virtual reality is de overtreffende trap van video. In plaats van kijker word je hoofdrolspeler en zelf onderdeel van het verhaal. Niet meer consumeren maar vooral beleven.
 
-Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
+Als bedrijf kun je virtual reality op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
 ## Wat is virtual reality?
 
-Eind jaren tachtig maakte de wereld voor het eerst kennis met de term virtual reality. De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
+Eind jaren tachtig maakte de wereld voor het eerst kennis met de term [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/). De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
 
 Eerder al werd er geëxperimenteerd met virtual reality achtige technieken maar virtual reality zoals we dat nu kennen - met een headset - bestaat ongeveer 35 jaar. 
 
