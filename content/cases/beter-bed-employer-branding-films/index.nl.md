@@ -63,4 +63,14 @@ blocks:
 
 
       In de film verkoper bij Beter Bed volgen we de werkdag van verkoopster Amanda, filiaalhouder Dave en slaapadviseur Roshan. Zij vertellen je over dagelijkse werkzaamheden, uitdagingen tijdens het werk, wat het zo leuk maakt, de kansen en (doorgroei)mogelijkheden. Maar niet alleen de medewerkers komen in beeld, ook de sfeer die er hangt is belangrijk om een goed beeld te geven van het werk als Verkoper bij Beter Bed.
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## Een Employer Branding film voor jouw organisatie?
+
+
+      De oplevering van de twee films en de prettige samenwerking met Beter Bed, vierden we met taart! Ben jij benieuwd hoe een Employer Branding film jouw organisatie kan helpen aan nieuw talent? Maak gebruik van ons gratis, vrijblijvend adviesgesprek. Onze experts denken graag met je mee!
+    align: right
+    align_text: text-left
 ---
