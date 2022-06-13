@@ -70,7 +70,7 @@ blocks:
     content: "![](images/mvo.jpg)"
     cta:
       url: https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/
-      text: MVO door Phil & Fl
+      text: MVO door Phil & Flo
       type: button
       color: green
 ---
