@@ -1,7 +1,7 @@
 ---
 title: Beter Bed - Employer branding films
 slug: beter-bed-employer-branding-film-vacature
-draft: true
+draft: false
 image:
   source: images/beter-bed3.png
 content_type: case
