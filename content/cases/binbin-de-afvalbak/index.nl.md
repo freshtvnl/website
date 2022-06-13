@@ -1,5 +1,5 @@
 ---
-title: BinBin / De Afvalbak
+title: BinBin / De Afvalbak - 3D Animatie
 slug: BinBin
 weight: 3
 draft: false
