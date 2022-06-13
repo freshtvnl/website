@@ -21,7 +21,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: ""
+      source_mp4: https://video.philenflo.nl/video/Medewerker-aan-het-woord-Beter-Bed-Verkoper1.mp4
     content: >-
       ## ***De opdracht***
 
@@ -30,6 +30,8 @@ blocks:
     align: left
     align_text: text-left
     displaymedia: custom_video
+    youtube:
+      id: ""
   - type: content_block
     video:
       autoplay: true
