@@ -6,6 +6,7 @@ image:
   source: images/beter-bed3.png
 content_type: case
 color: green
+branch: duurzame-energie
 blocks:
   - type: hero_block
     align: left
