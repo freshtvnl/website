@@ -1,12 +1,12 @@
 ---
 title: Beter Bed - Employer branding films
 slug: beter-bed-employer-branding-film-vacature
-draft: false
+draft: true
 image:
   source: images/beter-bed3.png
 content_type: case
 color: green
-branch: duurzame-energie
+branch: ""
 blocks:
   - type: hero_block
     align: left
