@@ -1,6 +1,6 @@
 ---
 title: Link in bio Instagram
-slug: instagram
+slug: link-in-bio
 draft: false
 color: green
 blocks:
