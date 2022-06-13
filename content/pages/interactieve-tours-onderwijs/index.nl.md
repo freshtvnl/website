@@ -1,7 +1,7 @@
 ---
 title: Interactieve tours onderwijs
-slug: interactieve-tour-onderwijs
-draft: true
+slug: alle-interactieve-tours-onderwijs
+draft: false
 color: yellow
 blocks:
   - type: hero_block
