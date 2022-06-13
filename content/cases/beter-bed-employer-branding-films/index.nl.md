@@ -19,6 +19,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Logistiek.mp4
     content: >-
       ## ***De opdracht***
 
@@ -26,6 +27,7 @@ blocks:
       Beter Bed is met zijn vele vestigingen altijd op zoek naar nieuw talent. Om de vacatures snel in te vullen, is Phil & Flo gevraagd om mee te denken over de inzet van video hierbij. Met een Employer Branding film krijgt Beter Bed de middelen om de doelgroep te bereiken op een onderscheidende manier.
     align: left
     align_text: text-left
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
