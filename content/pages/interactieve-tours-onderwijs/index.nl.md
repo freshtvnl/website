@@ -27,6 +27,8 @@ blocks:
     video:
       autoplay: true
     form: contact-formulier
-    content: ""
+    content: |-
+      Een interactieve tour voor jouw school?\
+      Neem contact op
     align: center
 ---
