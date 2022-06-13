@@ -11,15 +11,17 @@ blocks:
     align: left
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Logistiek.mp4
     title: "***Werken bij*** Beter Bed"
     content: Een kijkje in de keuken zegt veel meer over je organisatie dan een
       standaard vacaturetekst. Een Employer Branding film is daarom dé manier om
       kandidaten te overtuigen om bij jou te komen werken. En dat is precies de
       reden waarom Beter Bed bij Phil en Flo aanklopte.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Logistiek.mp4
+      source_mp4: ""
     content: >-
       ## ***De opdracht***
 
@@ -31,6 +33,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
     align: right
     align_text: text-left
     content: >-
@@ -49,6 +52,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Logistiek.mp4
     align: right
     align_text: text-left
     content: >-
@@ -56,15 +60,18 @@ blocks:
 
 
       In de film Chauffeur / Bezorger bij Beter Bed volgden we een chauffeur tijdens een werkdag. De werkzaamheden komen in beeld, maar ook de chauffeur en bijrijder komen aan het woord. De kijker, de ideale kandidaat, moet zich kunnen herkennen in de werknemers in de video. Belangrijk was om goed naar voren te laten komen wat voor profiel de geschikte kandidaat heeft: service- en klantgericht, een aanpakker, samenwerker en iemand met eigenaarschap. Tobias en Jeffrey vertellen je alles over hun baan bij Beter Bed!
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Verkoper.mp4
     align: left
     content: >-
       ## Employer Branding film ***Verkoper bij Beter Bed***
 
 
       In de film verkoper bij Beter Bed volgen we de werkdag van verkoopster Amanda, filiaalhouder Dave en slaapadviseur Roshan. Zij vertellen je over dagelijkse werkzaamheden, uitdagingen tijdens het werk, wat het zo leuk maakt, de kansen en (doorgroei)mogelijkheden. Maar niet alleen de medewerkers komen in beeld, ook de sfeer die er hangt is belangrijk om een goed beeld te geven van het werk als Verkoper bij Beter Bed.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
@@ -73,6 +80,11 @@ blocks:
 
 
       De oplevering van de twee films en de prettige samenwerking met Beter Bed, vierden we met taart! Ben jij benieuwd hoe een Employer Branding film jouw organisatie kan helpen aan nieuw talent? Maak gebruik van ons gratis, vrijblijvend adviesgesprek. Onze experts denken graag met je mee!
-    align: right
-    align_text: text-left
+    align: center
+    align_text: text-center
+    cta:
+      url: https://www.philenflo.nl/contact/
+      text: Meer informatie opvragen
+      type: button
+      color: green
 ---
