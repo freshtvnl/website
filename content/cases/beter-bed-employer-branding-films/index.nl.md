@@ -1,7 +1,7 @@
 ---
 title: Beter Bed - Employer branding films
 slug: beter-bed-employer-branding-film-vacature
-draft: true
+draft: false
 image:
   source: images/beter-bed3.png
 content_type: case
@@ -35,7 +35,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Payconiq-film2-Phil-en-Flo.mp4
+      source_mp4: ""
     align: right
     align_text: text-left
     content: >-
