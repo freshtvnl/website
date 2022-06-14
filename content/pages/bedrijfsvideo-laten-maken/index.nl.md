@@ -141,6 +141,9 @@ blocks:
 
 
       Wij leveren voor het maken van een professionele bedrijfsvideo altijd maatwerk en daar stemmen wij de prijs op af. Overigens vinden wij het wel belangrijk om transparant te zijn in alle bedrijfsvideo kosten. Daar bieden wij dan ook helderheid in op het moment dat je een aanvraag voor een offerte bij ons indient.
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: "Bedrijfsvideo laten maken | Phil & Flo | Creative studio "
   description: "Bedrijfsvideo’s laten zien hoe trots je bent op je medewerkers en
