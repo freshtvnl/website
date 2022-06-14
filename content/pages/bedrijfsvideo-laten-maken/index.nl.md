@@ -9,6 +9,8 @@ blocks:
     displaymedia: null
     youtube:
       id: ""
+    align: center
+    align_text: center
   - type: content_block
     video:
       autoplay: true
