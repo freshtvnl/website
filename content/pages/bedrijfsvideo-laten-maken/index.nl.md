@@ -133,10 +133,24 @@ blocks:
 
 
       Het maken van een bedrijfsvideo begint bij een eerste gesprek waarin je alle ruimte hebt om je wensen op tafel te leggen. Dan volgt er een creatieve sessie om concreet vorm te geven aan alle ideeën. Onze projectmanager is daarbij je rechtstreekse contact die zorg draagt voor de opzet van een script of voor vragen voor een interview.
-
-
-      Jij ontvangt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) om daarna je feedback erop te geven om vervolgens tot een definitief script te komen. Daarna volgt het opstellen van een draaiboek waarin alles tot in detail is uitgewerkt. De draaidag voor het maken van de professionele bedrijfsvideo vindt plaats op de overeengekomen dag. De regisseur is verantwoordelijk voor het gehele proces en de cameraman filmt de beelden. Er volgt na de draaidag een briefing voor onze editor die daarna aan de slag gaat. Daarna krijg je al snel de eerste filmversie te zien waarop feedback mogelijk is die wij samen met je bespreken en verwerken. Zo komen wij tot een eindversie van de bedrijfsvideo productie en zijn er nog opties voor ondertiteling, teasers of het maken van filmposters.
     displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+    content: Jij ontvangt het
+      [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/)
+      om daarna je feedback erop te geven om vervolgens tot een definitief
+      script te komen. Daarna volgt het opstellen van een draaiboek waarin alles
+      tot in detail is uitgewerkt. De draaidag voor het maken van de
+      professionele bedrijfsvideo vindt plaats op de overeengekomen dag. De
+      regisseur is verantwoordelijk voor het gehele proces en de cameraman filmt
+      de beelden. Er volgt na de draaidag een briefing voor onze editor die
+      daarna aan de slag gaat. Daarna krijg je al snel de eerste filmversie te
+      zien waarop feedback mogelijk is die wij samen met je bespreken en
+      verwerken. Zo komen wij tot een eindversie van de bedrijfsvideo productie
+      en zijn er nog opties voor ondertiteling, teasers of het maken van
+      filmposters.
+    align: right
   - type: content_block
     video:
       autoplay: true
