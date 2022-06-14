@@ -30,12 +30,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Video-laten-maken-Beter-Bed-Logistiek.mp4
     content: >-
       ## Wat is ***een bedrijfsvideo?***
 
 
       Een bedrijfsvideo brengt in beeld en geluid over waar je bedrijf met product of dienst voor staat. Er zijn verschillende doelen te verbinden aan een bedrijfsvideo laten maken, zoals **het versterken van je bedrijfsidentiteit**. Zo kan je ook een bedrijfsvideo maken waarmee je met je product of dienst een **oplossing biedt** voor een probleem. De basis ligt erin om de boodschap die je wilt overdragen op een pakkende manier te vertonen.
     align: right
+    displaymedia: custom_video
   - type: content_block
     align: left
     content: >-
