@@ -5,6 +5,13 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Een bedrijfsvideo maken***"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: ""
+  - type: content_block
+    video:
+      autoplay: true
     content: Een goede bedrijfsvideo helpt je om je klanten een goede indruk van je
       organisatie te geven. We spelen met de bedrijfsvideo in op de emoties van
       je doelgroep en bevatten alle momenten van trots, geluk en succes binnen
@@ -14,9 +21,10 @@ blocks:
       een potentiële klant zich kan identificeren met waar je voor staat en waar
       je voor gaat, geeft dat de klant meer zelfvertrouwen. Ook wordt de
       waarschijnlijkheid groter dat een klant voor jouw product of dienst kiest.
-    displaymedia: youtube_video
     youtube:
       id: PEXDnd9K_m4
+    displaymedia: youtube_video
+    align: left
   - type: content_block
     video:
       autoplay: true
@@ -25,9 +33,9 @@ blocks:
 
 
       Een bedrijfsvideo brengt in beeld en geluid over waar je bedrijf met product of dienst voor staat. Er zijn verschillende doelen te verbinden aan een bedrijfsvideo laten maken, zoals **het versterken van je bedrijfsidentiteit**. Zo kan je ook een bedrijfsvideo maken waarmee je met je product of dienst een **oplossing biedt** voor een probleem. De basis ligt erin om de boodschap die je wilt overdragen op een pakkende manier te vertonen.
-    align: left
-  - type: content_block
     align: right
+  - type: content_block
+    align: left
     content: >-
       ## ***Spread the word, eh..  bedrijfsvideo***
 
@@ -41,7 +49,7 @@ blocks:
       autoplay: true
     align_text: text-left
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Corporate*** identiteit?
 
@@ -57,7 +65,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Hoog in de zoekresultaten***
 
@@ -73,7 +81,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Over ons & bedrijfsvideo's***
 
@@ -92,7 +100,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## ***Waar moet een bedrijfsvideo aan voldoen?*** 
 
@@ -104,7 +112,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Hoe ***produceert*** Phil & Flo een bedrijfsvideo?
 
@@ -116,7 +124,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## Wat zijn de ***kosten*** van een bedrijfsvideo?
 
