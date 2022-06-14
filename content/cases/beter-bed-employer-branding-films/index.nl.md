@@ -47,10 +47,15 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: |-
+    content: >-
       ## ***Vorm geven aan*** de Employer Branding films?
 
-      Tekst
+
+      Om te bepalen hoe de films worden ingevuld, is het goed om eerst te inventariseren: Wat zijn de doelstellingen? Welke vacatures gaan we gebruiken? Wat is interessant is om te zien voor de kijker? \
+
+      \
+
+      Tijdens een creatieve sessie met Beter Bed werd besloten om in te gaan op de vacatures Chauffeur / Bezorger én Verkoper bij Beter Bed. Echte medewerkers komen aan het woord om te vertellen over het leukste aan hun baan bij Beter Bed. Zij nemen ons mee in hun werkdag. Voor een krachtige, relevante video, is een lengte van maximaal 1 minuut perfect. Het totale concept deelden we met de klant en we kregen een GO! Tijdens een dynamische opnamedag op locatie bij Beter Bed, onderweg naar een klant én bij de klant thuis, schoten we toffe beelden. De edit kon beginnen!
     align: left
   - type: content_block
     video:
