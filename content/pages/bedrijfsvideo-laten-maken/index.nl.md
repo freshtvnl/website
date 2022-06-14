@@ -100,6 +100,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Commercial-duurzame-energie-laten-maken-Elsun.mp4
     align: left
     content: >-
       ## ***Waar moet een bedrijfsvideo aan voldoen?*** 
@@ -109,9 +110,11 @@ blocks:
 
 
       Het inspelen op de emotie is van groot belang om de kijkers een gevoel van betrokkenheid te laten ervaren. Er is bij een bedrijfsvideo laten maken bij ons altijd rekening te houden met de cultuur, identiteit en gewenste uitstraling van je bedrijf. Verder is het belangrijk dat de bedrijfsvideo zowel bij je bedrijf als bij de boodschap past. De vormgeving in beeld is daarbij af te stemmen op bijvoorbeeld je huisstijl. Het is tevens van belang dat het beeld past bij de omgeving net als dat de informatie daarop aansluit, zodat er een complete beleving ontstaat.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
     align: right
     content: >-
       ## Hoe ***produceert*** Phil & Flo een bedrijfsvideo?
@@ -121,6 +124,7 @@ blocks:
 
 
       Jij ontvangt het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) om daarna je feedback erop te geven om vervolgens tot een definitief script te komen. Daarna volgt het opstellen van een draaiboek waarin alles tot in detail is uitgewerkt. De draaidag voor het maken van de professionele bedrijfsvideo vindt plaats op de overeengekomen dag. De regisseur is verantwoordelijk voor het gehele proces en de cameraman filmt de beelden. Er volgt na de draaidag een briefing voor onze editor die daarna aan de slag gaat. Daarna krijg je al snel de eerste filmversie te zien waarop feedback mogelijk is die wij samen met je bespreken en verwerken. Zo komen wij tot een eindversie van de bedrijfsvideo productie en zijn er nog opties voor ondertiteling, teasers of het maken van filmposters.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
