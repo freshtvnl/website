@@ -97,6 +97,7 @@ blocks:
 
       In een creatieve sessie bespreek je samen een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
     align: left
+    displaymedia: iframe
   - type: content_block
     video:
       autoplay: true
@@ -106,6 +107,9 @@ blocks:
 
 
       Van begin tot eind helpt Phil & Flo jou om een interactieve video te maken die je jarenlang kan inzetten. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de video ervaren wordt. Onze [interactieve tours](https://www.philenflo.nl/virtuele-tour/) zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve video kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, zonder dure investeringen. Samen met Phil & Flo haal je het maximale uit je interactieve video.
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
+    displaymedia: iframe
   - type: content_block
     video:
       autoplay: true
