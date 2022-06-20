@@ -111,7 +111,9 @@ blocks:
       Van begin tot eind helpt Phil & Flo jou om een interactieve video te maken die je jarenlang kan inzetten. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de video ervaren wordt. Onze [interactieve tours](https://www.philenflo.nl/virtuele-tour/) zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve video kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, zonder dure investeringen. Samen met Phil & Flo haal je het maximale uit je interactieve video.
     iframe:
       source: ""
-    displaymedia: iframe
+    displaymedia: image
+    image:
+      source: images/cbs1.jpg
   - type: content_block
     video:
       autoplay: true
@@ -133,6 +135,9 @@ blocks:
       * Er is een apart distributiekanaal nodig
       * Er is meer filmmateriaal nodig dan bij een ‘standaard’ video
     align: left
+    displaymedia: image
+    image:
+      source: images/rsg-mag4.png
   - type: content_block
     video:
       autoplay: true
@@ -142,6 +147,9 @@ blocks:
 
       Een interactieve video is geschikt voor vrijwel elke branche, zoals [innovatieve tech](https://www.philenflo.nl/branches/innovatieve-tech/), [zorg](https://www.philenflo.nl/branches/zorg-pharma/) en [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Het kan plaatsvinden in een ziekenhuis, school, hotel, brouwerij, fabriek of in de makelaardij, maar het kan ook ingezet worden in een stad of museum voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
     align: right
+    displaymedia: image
+    image:
+      source: images/ads_employer-branding-zorg_anios1.jpg
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
