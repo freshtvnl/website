@@ -98,6 +98,8 @@ blocks:
       In een creatieve sessie bespreek je samen een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
     align: left
     displaymedia: iframe
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
   - type: content_block
     video:
       autoplay: true
@@ -108,7 +110,7 @@ blocks:
 
       Van begin tot eind helpt Phil & Flo jou om een interactieve video te maken die je jarenlang kan inzetten. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de video ervaren wordt. Onze [interactieve tours](https://www.philenflo.nl/virtuele-tour/) zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve video kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, zonder dure investeringen. Samen met Phil & Flo haal je het maximale uit je interactieve video.
     iframe:
-      source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
+      source: ""
     displaymedia: iframe
   - type: content_block
     video:
@@ -139,6 +141,7 @@ blocks:
 
 
       Een interactieve video is geschikt voor vrijwel elke branche, zoals [innovatieve tech](https://www.philenflo.nl/branches/innovatieve-tech/), [zorg](https://www.philenflo.nl/branches/zorg-pharma/) en [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Het kan plaatsvinden in een ziekenhuis, school, hotel, brouwerij, fabriek of in de makelaardij, maar het kan ook ingezet worden in een stad of museum voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
+    align: right
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
