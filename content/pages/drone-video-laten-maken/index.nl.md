@@ -97,6 +97,11 @@ blocks:
       De kosten van een drone film laten maken zijn afhankelijk van jouw eigen wensen. Hoe lang moet de film worden? Waarvoor ga je het voor inzetten? Voor elk doel kunnen we op maat een offerte maken. Wil je weten hoeveel jouw drone video gaat kosten? Phil & Flo denkt graag met je mee en werkt met eerlijke tarieven. Vraag vrijblijvend een offerte aan.
     displaymedia: custom_video
     align: left
+    cta:
+      color: green
+      type: button
+      text: Offerte aanvragen
+      url: /offerte-ontvangen/
   - type: content_block
     video:
       autoplay: true
