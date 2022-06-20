@@ -120,9 +120,9 @@ blocks:
 
       De voordelen van een interactieve video:
 
-      * Een interactieve video wordt langer bekeken dat een ‘standaard’ video
+      * Een interactieve video wordt langer bekeken dan een ‘standaard’ video
       * De betrokkenheid van de kijker is groter
-      * Je kunt directe call to actions integreren
+      * Je kunt directe call-to-actions integreren
       * Data is makkelijker te monitoren en analyseren
       * De video kan live aangepast worden
       * Oudere beelden kunnen worden toegevoegd
@@ -131,7 +131,7 @@ blocks:
 
       * De voorbereiding kost meer tijd door gedetailleerde wireframes
       * Er is een apart distributiekanaal nodig
-      * Er is veel filmmateriaal nodig dan bij een ‘standaard’ video
+      * Er is meer filmmateriaal nodig dan bij een ‘standaard’ video
     align: left
   - type: content_block
     video:
