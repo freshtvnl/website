@@ -3,7 +3,7 @@ draft: false
 color: green
 blocks:
   - type: hero_block
-    title: Interactie op ***hoog niveau***
+    title: Interactieve video, interactie op ***hoog niveau***
     content: Wil je echt interactie op hoog niveau met je doelgroep? Kies dan voor
       onze interactieve video mogelijkheden. Je geeft de kijker allerlei keuzes
       die voor hun relevant zijn. Ze zijn zelf in control. Het voordeel is dat
@@ -19,12 +19,12 @@ blocks:
     align: left
     displaymedia: iframe
     content: >-
-      ## Concrete cases
+      ## ***Concrete case***
 
 
-      Je hebt werkelijk fantastische mogelijkheden met interactieve video. Elke keer weer ben ik verbaasd over de creatieve mogelijkheden die de verschillende lagen van interactieve video met zich meebrengt. Relevantie voor de kijker is hierbij geen loos woord. De kijker bepaald en ervaart. Neem contact met me op om direct jouw case vrijblijvend voor te leggen, 085 - 273 8331. Peter de Graaf.
+      Voor CBS, een middelbare school in Amsterdam, maakten we een [interactieve school tour](https://www.philenflo.nl/virtuele-school-rondleiding/). De open dagen spelen een essentiële rol voor de werving van nieuwe leerlingen voor de school. Met de interactieve tour kan het CBS zich 365 dagen per jaar presenteren aan groep 7 en 8-leerlingen en hun ouders. In de tour nemen leerlingen van de school je mee langs al het unieke aanbod dat het CBS te bieden heeft. Bijvoorbeeld de exacte en niet exacte vakken, sport en muziek en millennium skills. De kijker bepaald zelf welke routes hij doorloopt en welke onderdelen van het onderwijs of de school hij bekijkt. Bekijk hier het resultaat van de [interactieve tour voor CBS Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/).
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     align: right
     content: >-
@@ -88,6 +88,53 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## ***Hoe werkt*** een interactieve video
+
+
+      In een creatieve sessie bespreek je samen een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
+    align: left
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
+      ## ***Waarom*** een interactieve video
+
+
+      Van begin tot eind helpt Phil & Flo jou om een interactieve video te maken die je jarenlang kan inzetten. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de video ervaren wordt. Onze [interactieve tours](https://www.philenflo.nl/virtuele-tour/) zijn grotendeels live aanpasbaar. Dit betekent dat we alle teksten en knoppen in een interactieve video kunnen aanpassen, zonder de film offline te halen. Zo kan je in een later stadium altijd belangrijke wijzigingen doorvoeren en een film actueel houden, zonder dure investeringen. Samen met Phil & Flo haal je het maximale uit je interactieve video.
+  - type: content_block
+    video:
+      autoplay: true
+    content: |-
+      ## ***De voordelen & nadelen*** van een interactieve video
+
+      De voordelen van een interactieve video:
+
+      * Een interactieve video wordt langer bekeken dat een ‘standaard’ video
+      * De betrokkenheid van de kijker is groter
+      * Je kunt directe call to actions integreren
+      * Data is makkelijker te monitoren en analyseren
+      * De video kan live aangepast worden
+      * Oudere beelden kunnen worden toegevoegd
+
+      De nadelen van een interactieve video:
+
+      * De voorbereiding kost meer tijd door gedetailleerde wireframes
+      * Er is een apart distributiekanaal nodig
+      * Er is veel filmmateriaal nodig dan bij een ‘standaard’ video
+    align: left
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## ***Voor wie*** is een interactieve video?
+
+
+      Een interactieve video is geschikt voor vrijwel elke branche, zoals [innovatieve tech](https://www.philenflo.nl/branches/innovatieve-tech/), [zorg](https://www.philenflo.nl/branches/zorg-pharma/) en [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Het kan plaatsvinden in een ziekenhuis, school, hotel, brouwerij, fabriek of in de makelaardij, maar het kan ook ingezet worden in een stad of museum voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
 parent: animatie-studio-amsterdam
 title: Interactief
 slug: interactieve-video
