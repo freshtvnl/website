@@ -33,17 +33,19 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Drone-video-laten-maken.mp4
     content: >-
       ## ***Wat is een drone video?***
 
 
       Een drone video is een video met beelden geschoten vanuit grote hoogtes in de lucht. Met de drone kunnen we vliegen over bijvoorbeeld bergen, weilanden en bedrijfsterreinen. Maar ook binnen bedrijfspanden kunnen we beelden vanaf boven maken. Zo brengen we kantoren, productieprocessen of andere bijzondere ruimtes of werkzaamheden binnen jouw organisatie in beeld.
     align: right
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Waarom%20een%20dronevideo%20maken.mp4
-    align: right
+    align: left
     content: >-
       ## Waarom laat je een drone video maken?
 
@@ -53,7 +55,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Een drone video ***laten maken***
 
@@ -66,7 +68,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Dronebeelden%20corporate%20film.mp4
-    align: right
+    align: left
     content: >-
       ## Een drone video ***voor jou***...
 
@@ -76,23 +78,29 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Drone-film-laten-maken.mp4
     content: >-
       ## ***Hoe lang duurt het*** om een drone video te laten maken?
 
 
       Het laten maken van een drone video is niet alleen het filmen van de beelden. Er gaat een proces van concept, strategie en voorbereiding aan vooraf en daarna moet alles nog gefilmd worden. Drone opnames laten maken, proberen we altijd in één dag te plannen. Onze creative producers maken daarom een strakke planning en script. Ben je benieuwd hoeveel tijd het kost om voor jouw bedrijf een video te maken? Neem dan vrijblijvend contact op met een van onze experts.
+    displaymedia: custom_video
+    align: right
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Drone-bedrijfsvideo.mp4
     content: >-
       ## ***Wat kost*** een drone video?
 
 
       De kosten van een drone film laten maken zijn afhankelijk van jouw eigen wensen. Hoe lang moet de film worden? Waarvoor ga je het voor inzetten? Voor elk doel kunnen we op maat een offerte maken. Wil je weten hoeveel jouw drone video gaat kosten? Phil & Flo denkt graag met je mee en werkt met eerlijke tarieven. Vraag vrijblijvend een offerte aan.
+    displaymedia: custom_video
+    align: left
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## Een greep uit ons portfolio
 
