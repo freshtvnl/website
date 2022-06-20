@@ -54,6 +54,9 @@ blocks:
 
       Een virtual reality filmpje laten maken gebeurt aan de hand van een wereld die speciaal voor jou wordt gebouwd. Het begint bij het bouwen van een virtuele 3D omgeving. In deze omgeving wordt een virtuele camera geplaatst, om er één grote animatie van te maken. Daarna moet de VR video 360 bewerkt worden aan de hand van verschillende technieken. Denk aan het bepalen van de kijkrichting, de toevoeging van een titels en het realiseren van audio en muziek. Met de toevoeging van dergelijke effecten is het mogelijk om bij de kijker meerdere zintuigen te laten prikkelen. Een combinatie van het kijken naar de beelden, het horen van geluid en de associatie met geurbeleving. Een extra belevingseffect aan te brengen door een VR bril op te zetten.
     align: left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-geluid-groen-01.jpg
   - type: content_block
     video:
       autoplay: true
@@ -67,6 +70,9 @@ blocks:
 
       Ook is het mogelijk een Virtual Reality tour te maken. Hierin wordt met 3D elementen een virtuele omgeving gecreëerd, waarin de kijker vooraf vastgelegde routes kan doorlopen. Jij bepaalt welke verschillende routes er mogelijk moeten zijn, de kijker kiest welke routes hij daadwerkelijk doorloopt.
     align: right
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-360-groen.jpg
   - type: content_block
     video:
       autoplay: true
@@ -76,6 +82,9 @@ blocks:
 
       Een Virtual Reality film is een unieke en onderscheidende manier van communicatie. Het geeft oneindige mogelijkheden om een op maat gemaakte boodschap over te brengen op jouw doelgroep. Het geeft de kijker de kans om een compleet beeld van de ruimte en situatie in alle richtingen te krijgen. De kijker ervaart het kijken naar een VR film, als het zien in het echte leven. Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Laat jouw doelgroep jouw boodschap ervaren in een op maat gemaakte VR video.
     align: left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-marketing-groen.jpg
   - type: content_block
     video:
       autoplay: true
@@ -85,6 +94,9 @@ blocks:
 
       Virtual reality is een effectief middel om een boodschap over te brengen in verschillende branches. Denk aan E-learning voor werknemers of scholieren in bijvoorbeeld de [zorg](https://www.philenflo.nl/branches/zorg-pharma/), het presenteren van productontwerpen in VR of [digitale rondleidingen](https://www.philenflo.nl/virtuele-tour/) door parken of gebouwen die nog aangelegd of gebouwd moeten worden. Neem contact op met onze experts om te kijken hoe we VR kunnen inzetten voor jouw branche.
     align: right
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-contactpersoon-groen.jpg
   - type: content_block
     video:
       autoplay: true
@@ -94,6 +106,9 @@ blocks:
 
       De kosten van virtual reality laten maken is afhankelijk van het totale aantal uren dat in het maken van de video zit. En dat is weer afhankelijk van het soort VR video; een tour, video of [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar ook de lengte van de film en hoeveelheid omgevingen nemen we mee. Phil & Flo werkt met eerlijke tarieven en biedt volledige transparantie. Neem contact met ons op om alle wensen en mogelijkheden te bespreken voor video VR. We helpen we je graag verder!
     align: left
+    displaymedia: image
+    image:
+      source: images/phil-en-flo-icoon-gesprek-groen.jpg
   - type: contact_block
     contacts:
       - peter-de-graaf
