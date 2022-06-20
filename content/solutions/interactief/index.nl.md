@@ -162,6 +162,9 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
+  - type: contact_block
+    contacts:
+      - suzan-abbas
 parent: animatie-studio-amsterdam
 title: Interactief
 slug: interactieve-video
