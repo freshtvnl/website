@@ -80,7 +80,7 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## Virtual Reality eeen optie voor jouw bedrijf?
+      ## Virtual Reality een optie ***voor jouw bedrijf***?
 
 
       Virtual reality is een effectief middel om een boodschap over te brengen in verschillende branches. Denk aan E-learning voor werknemers of scholieren in bijvoorbeeld de [zorg](https://www.philenflo.nl/branches/zorg-pharma/), het presenteren van productontwerpen in VR of [digitale rondleidingen](https://www.philenflo.nl/virtuele-tour/) door parken of gebouwen die nog aangelegd of gebouwd moeten worden. Neem contact op met onze experts om te kijken hoe we VR kunnen inzetten voor jouw branche.
