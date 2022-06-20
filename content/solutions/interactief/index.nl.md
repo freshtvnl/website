@@ -4,15 +4,27 @@ color: green
 blocks:
   - type: hero_block
     title: Interactieve video, interactie op ***hoog niveau***
+    content: ""
+    displaymedia: null
+    image:
+      source: images/interactieve-video-philenflo.jpg
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: ""
     content: Wil je echt interactie op hoog niveau met je doelgroep? Kies dan voor
       onze interactieve video mogelijkheden. Je geeft de kijker allerlei keuzes
       die voor hun relevant zijn. Ze zijn zelf in control. Het voordeel is dat
       je relevant bent tijdens de video en dat ze actief bezig zijn met je merk.
       Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je een quiz
       toevoegen, een link naar een PDF of website maken en nog veel meer.
+    align: left
+    align_text: text-left
     displaymedia: iframe
-    image:
-      source: images/interactieve-video-philenflo.jpg
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
