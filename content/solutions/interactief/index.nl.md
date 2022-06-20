@@ -49,7 +49,7 @@ blocks:
       Je kunt ook links toevoegen in de video die naar jouw website gaat. In plaats van links naast de video, of eronder, zet je de links om op te klikken gewoon in de video. Integreer sociale media, polls, pdf-bestanden en meer… de mogelijkheden zijn ongekend!
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
   - type: content_block
     align: right
     content: >-
@@ -62,7 +62,7 @@ blocks:
       Geef dus je [animatiefilm](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) een nieuwe dimensie en creëer onweerstaanbare interacties waar je maar wilt!
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+      source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
   - type: content_block
     align: left
     content: >-
@@ -82,24 +82,12 @@ blocks:
       Wat voor jou als marketeer interessant is, zijn de uitgebreide analytics mogelijkheden. Zo kan je zien waar de kijker op klikt. Je gaat patronen herkennen zoals je dat nu al in je website doet. Daarnaast zijn de links makkelijk en LIVE aan te passen door ons. Dat betekent dat je nooit meer iets offline hoeft te halen. Neem contact op met onze specialisten die je meer kunnen vertellen over interactieve video en interactieve animatie! Bel 085 -273 8331 of...
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+      source: https://interactive.philenflo.nl/embed/projects/a6b92c6cdcf71d5f6e4f2e54?iv_branded=1
     cta:
       text: Laat je gegevens achter
       url: https://www.philenflo.nl/contact/
       type: button
       color: green
-  - type: selectedfaqs_block
-    items:
-      - hebben-jullie-voorbeelden-van-een-interactieve-video
-      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
-      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
-      - CiGF7tCTF
-      - hoe-maken-jullie-een-interactieve-video
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
-      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
-      - welke-muziek-gebruiken-jullie
-    title: Veelgestelde vragen
   - type: content_block
     video:
       autoplay: true
@@ -147,6 +135,18 @@ blocks:
 
 
       Een interactieve video is geschikt voor vrijwel elke branche, zoals [innovatieve tech](https://www.philenflo.nl/branches/innovatieve-tech/), [zorg](https://www.philenflo.nl/branches/zorg-pharma/) en [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Het kan plaatsvinden in een ziekenhuis, school, hotel, brouwerij, fabriek of in de makelaardij, maar het kan ook ingezet worden in een stad of museum voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
+  - type: selectedfaqs_block
+    items:
+      - hebben-jullie-voorbeelden-van-een-interactieve-video
+      - hoe-gaan-jullie-te-werk-met-een-interactieve-video
+      - in-welke-kwaliteit-ontvang-ik-de-interactieve-video
+      - CiGF7tCTF
+      - hoe-maken-jullie-een-interactieve-video
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-interactieve-video
+      - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
+      - welke-muziek-gebruiken-jullie
+    title: Veelgestelde vragen
 parent: animatie-studio-amsterdam
 title: Interactief
 slug: interactieve-video
