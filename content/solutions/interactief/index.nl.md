@@ -28,7 +28,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
   - type: content_block
-    align: left
+    align: right
     displaymedia: iframe
     content: >-
       ## ***Concrete case***
@@ -38,7 +38,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Interactie*** met de kijker
 
@@ -51,7 +51,7 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Bestaande video’s interactief maken***
 
