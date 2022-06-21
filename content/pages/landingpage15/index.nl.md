@@ -5,6 +5,18 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Reclamevideo*** om de aandacht te pakken"
+    content: ""
+    displaymedia: null
+    youtube:
+      id: -8n5l374t2Q
+    video:
+      source_mp4: ""
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/JDE-Professional-reclamefilm1.mp4
     content: "Reclame video inzetten is al bijna net zo lang ingeburgerd als dat we
       televisie kijken. Deze vorm van reclame wint ook steeds meer terrein op
       internet. Reclamefilmpjes vangen zo goed de aandacht, dat mensen zich nu
@@ -14,10 +26,7 @@ blocks:
       zo’n filmpje, en belangrijker nog: hoe zorg je dat je ermee scoort? Bij
       Phil & Flo weten we daar wel raad mee."
     displaymedia: custom_video
-    youtube:
-      id: -8n5l374t2Q
-    video:
-      source_mp4: https://video.philenflo.nl/video/JDE-Professional-reclamefilm1.mp4
+    align: left
   - type: content_block
     align: left
     content: >-
