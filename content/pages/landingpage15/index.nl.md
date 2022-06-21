@@ -40,6 +40,7 @@ blocks:
       alt: Team Phil & Flo
     video:
       source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
+      autoplay: true
   - type: content_block
     align: left
     content: >-
