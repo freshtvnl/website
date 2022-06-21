@@ -28,18 +28,20 @@ blocks:
     displaymedia: custom_video
     align: left
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Beter dan ***advertenties***
 
 
       Zeker online is het gemakkelijk om te kiezen voor reclame in de vorm van tekst en illustraties: het digitale equivalent van een advertentie in krant of tijdschrift. Maar deze advertenties worden veel genegeerd door websitebezoekers, of door adblockers compleet onzichtbaar gemaakt. Als je echt wilt opvallen, is een reclamevideo veel effectiever. Bovendien vinden veel mensen een kort filmpje ook leuker.
-    displaymedia: image
+    displaymedia: custom_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
       alt: Team Phil & Flo
+    video:
+      source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Het ***doel*** van je reclamevideo
 
@@ -50,7 +52,7 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
       alt: Reclamevideo maken
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### Alles voor een reclamevideo van topkwaliteit
 
@@ -61,7 +63,7 @@ blocks:
       source: images/peter-opnames-douwe-egberts.jpg
       alt: Reclamevideo maken
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Een reclamevideo laten maken?
 
