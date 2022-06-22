@@ -93,6 +93,7 @@ blocks:
       Om de juiste doelgroep aan te spreken met jouw reclame film, breng je deze eerst in kaart. Bedenk wie je doelgroep is en wat het beste werkt om ze aan te spreken. Bepaal de toon waarop je ze aanspreekt en welk woordgebruik passend is. Welke stijl past daar goed bij? En welke kanalen kies je om je reclame op te tonen?
     image:
       source: images/sunita1.jpg
+    displaymedia: image
   - type: content_block
     video:
       autoplay: true
