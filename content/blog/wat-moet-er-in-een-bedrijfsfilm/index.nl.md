@@ -40,7 +40,7 @@ Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepa
 
 ## Laat mensen iets voelen
 
-Emoties zijn de één belangrijkste drijfveren achter menselijk gedrag. Ook al denken mensen dat ze rationele beslissingen nemen, in de meeste gevallen zijn onze acties meestal onbewust en gebaseerd op gevoel. Eerst voelen dan doen. 
+Emotie is één van de belangrijkste drijfveren achter menselijk gedrag. Ook al denken mensen dat ze rationele beslissingen nemen, in de meeste gevallen zijn onze acties meestal onbewust en gebaseerd op gevoel. Eerst voelen dan doen. 
 
 En dat doen dat kan van alles zijn: iets kopen, ons e-mail adres invullen, content delen. En het werkt met alle emoties. Wanneer onze gevoelens van blijdschap worden getriggerd willen we dit delen met anderen bijvoorbeeld. Of angst, denk aan FOMO (Fear Of Missing Out). Of vertrouwen. Wanneer we het gevoel hebben dat we iemand of een bedrijf vertrouwen zijn we eerder geneigd om dit bedrijf in te schakelen of de boodschap te geloven.
 
