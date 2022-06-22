@@ -97,7 +97,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: "https://video.philenflo.nl/video/Case-BinBin-Header.mp4 "
+      source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
     content: >-
       ## Wat zijn ***de kosten van een reclame***?
 
