@@ -42,34 +42,74 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Sleepfast-commercial.mp4
       autoplay: true
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-payconiq1.mp4
+    content: >-
+      ## ***Wat is een reclamefilm?***
+
+
+      In enkele seconden je boodschap helder overbrengen bij het publiek. Dat is wat een reclamefilm moet doen. Het moet ertoe leiden dat de kijker wordt overgehaald. Of het nu gaat om business to consumer of business to business reclame. Gebruik een mix van beelden en woorden die een indruk achterlaten bij de kijker. Kies bijvoorbeeld een unieke slogan die makkelijk te onthouden is en zorg dat het verhaal aan emoties te koppelen is. Een beslissing wordt namelijk niet rationeel gemaakt, maar emotioneel.
+    displaymedia: custom_video
+  - type: content_block
     align: left
     content: >-
       ## Het ***doel*** van je reclamevideo
 
 
-      Een reclamefilmpje of commercial is erg doelgericht: potentiële klanten overtuigen van een bepaalde product, dienst of merk, zodat deze doelgroep voor jou kiest. Dan is het natuurlijk handig als je weet wie je doelgroep is, en wat het beste werkt om ze aan te spreken. Welke stijl past daar goed bij, en welke kanalen kies je? Om je reclamevideo zo effectief mogelijk in te zetten, helpen we je met het beantwoorden van deze vragen.
+      Een reclamefilm laten maken, hoe doe je dat nu precies? Voor we beginnen met filmen, is het belangrijk om duidelijk te hebben wat het doel is en wat hiervoor nodig is. Wil je de verkoopcijfers verhogen, meer naamsbekendheid creëren of de loyaliteit verhogen? Om je video reclame zo effectief mogelijk in te zetten, helpen we je met het beantwoorden van deze vragen.
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
       alt: Reclamevideo maken
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+    content: >-
+      ## ***Hoe maak je een reclame filmpje?***
+
+
+      Het beantwoorden van deze vragen doe je samen met onze creative producers in een creatieve sessie. We luisteren graag naar jouw eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en het ontwikkelen van de reclame video. Een reclame laten maken kán moeilijk zijn, maar niet als je bij Phil & Flo aanklopt!
+    displaymedia: custom_video
+  - type: content_block
     align: right
     content: >-
-      ### Alles voor een reclamevideo van topkwaliteit
+      ## Wat zijn ***de eisen*** voor een goede reclame?
 
 
-      Als we een concept hebben voor je reclamevideo, gaan we aan de slag. We luisteren graag naar je eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en het ontwikkelen van de commercial. Wij hebben vakkundige [animators](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in dienst én ervaren [filmmakers](https://www.philenflo.nl/oplossingen/video-laten-maken/), zodat je een passende vorm bij ons kunt kiezen. Met Phil & Flo wordt je reclamevideo een doorslaand succes.
+      Een goede reclamefilm moet dus de boodschap helder overbrengen bij het publiek en deze overhalen tot actie over te gaan. Dit doe je door een goed concept én script uit te denken. In het script staat geschreven welke tekst in beeld komt en gesproken wordt. Hiervoor moet je goed weten hoe je het publiek aanspreekt. Breng dus van tevoren goed je doelgroep in kaart.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
       alt: Reclamevideo maken
   - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## ***De juiste doelgroep aanspreken*** met jouw reclame film
+
+
+      Om de juiste doelgroep aan te spreken met jouw reclame film, breng je deze eerst in kaart. Bedenk wie je doelgroep is en wat het beste werkt om ze aan te spreken. Bepaal de toon waarop je ze aanspreekt en welk woordgebruik passend is. Welke stijl past daar goed bij? En welke kanalen kies je om je reclame op te tonen?
+    image:
+      source: images/sunita1.jpg
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: "https://video.philenflo.nl/video/Case-BinBin-Header.mp4 "
+    content: >-
+      ## Wat zijn ***de kosten van een reclame***?
+
+
+      De kosten van een reclame video laten maken zijn afhankelijk van de invulling. Welk apparatuur hebben we nodig? Hoe lang wordt de video? Waar wordt de video ingezet? We kunnen voor elk doel een offerte op maat maken. Wil je weten hoeveel jouw video gaat kosten? Vraag vrijblijvend een offerte aan of bel ons eens.
+    displaymedia: custom_video
+  - type: content_block
     align: left
     content: >-
-      ## Een reclamevideo laten maken?
+      ## ***Een reclamevideo laten maken?***
 
 
-      Wil je een reclamevideo die tot de verbeelding spreekt? Neem contact met ons op, dan nemen we direct alle plannen door. Uiteraard kun je ook vragen om een online prijsindicatie!
+      Wil je een reclamevideo die tot de verbeelding spreekt? Of het nu gaat om een animatie reclame of reclamevideo, wij hebben vakkundige [animators](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in dienst én ervaren [filmmakers](https://www.philenflo.nl/oplossingen/video-laten-maken/), zodat je een passende vorm bij ons kunt kiezen. Met Phil & Flo wordt je reclamevideo een doorslaand succes. Neem contact met ons op, dan nemen we direct alle plannen door. Uiteraard kun je ook vragen om een online prijsindicatie!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
