@@ -28,7 +28,7 @@ Want het is verleidelijk om alles over het bedrijf én de geschiedenis én de pr
 
 ## Kort en to the point
 
-Kom snel to the point. In de eerste paar seconden beslist iemand (onbewust) of de video wordt uitgekeken of niet. Dus maak de eerste seconden boeiend zijn of probeer de aandacht trekken, daarna kun je wat meer de tijd nemen om iets uit te leggen.
+Kom snel to the point. In de eerste paar seconden beslist iemand (onbewust) of de video wordt uitgekeken of niet. Dus maak de eerste seconden boeiend of probeer de aandacht trekken, daarna kun je wat meer de tijd nemen om iets uit te leggen.
 
 Ons wordt vaak gevraagd naar de ideale lengte voor een video. Die bestaat niet, maar online is korter vaak beter. Op social media is nog korter vaak beter. Om een richtlijn te geven: ergens tussen de 30 seconden tot 3 minuten is ideaal. Het is ook handig om meerdere versies van verschillende lengtes achter de hand te hebben om te gebruiken op verschillende kanalen.
 
