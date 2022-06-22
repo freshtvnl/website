@@ -52,7 +52,7 @@ blocks:
       In enkele seconden je boodschap helder overbrengen bij het publiek. Dat is wat een reclamefilm moet doen. Het moet ertoe leiden dat de kijker wordt overgehaald. Of het nu gaat om business to consumer of business to business reclame. Gebruik een mix van beelden en woorden die een indruk achterlaten bij de kijker. Kies bijvoorbeeld een unieke slogan die makkelijk te onthouden is en zorg dat het verhaal aan emoties te koppelen is. Een beslissing wordt namelijk niet rationeel gemaakt, maar emotioneel.
     displaymedia: custom_video
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Het ***doel*** van je reclamevideo
 
@@ -104,6 +104,7 @@ blocks:
 
       De kosten van een reclame video laten maken zijn afhankelijk van de invulling. Welk apparatuur hebben we nodig? Hoe lang wordt de video? Waar wordt de video ingezet? We kunnen voor elk doel een offerte op maat maken. Wil je weten hoeveel jouw video gaat kosten? Vraag vrijblijvend een offerte aan of bel ons eens.
     displaymedia: custom_video
+    align: right
   - type: content_block
     align: left
     content: >-
