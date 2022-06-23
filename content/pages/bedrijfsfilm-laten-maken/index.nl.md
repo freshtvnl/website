@@ -114,6 +114,13 @@ blocks:
       - Hanze Hogeschool Groningen
       - HZPC
       - Maandag
+    title: Bewezen trackrecord
+  - type: selectedwork_block
+    items:
+      - beter-bed-employer-branding-film
+      - Infomercial hzpc sunita
+      - ChipSoft - Werken Bij Chipsoft
+    title: Succesverhalen
   - type: content_block
     align: right
     content: >-
@@ -140,11 +147,6 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
     video:
       autoplay: false
-  - type: selectedwork_block
-    items:
-      - beter-bed-employer-branding-film
-      - Infomercial hzpc sunita
-      - ChipSoft - Werken Bij Chipsoft
   - type: content_block
     video:
       autoplay: true
