@@ -40,7 +40,7 @@ blocks:
     items:
       - beter-bed-employer-branding-film
       - Infomercial hzpc sunita
-      - ChipSoft - Werken Bij Chipsoft
+      - Elsun Zonnepanelen
     title: Succesverhalen
   - type: content_block
     align: right
