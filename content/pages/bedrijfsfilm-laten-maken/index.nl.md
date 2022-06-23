@@ -106,6 +106,14 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
+  - type: logoblock
+    logo_items:
+      - JDE
+      - ICON
+      - Alfen
+      - Hanze Hogeschool Groningen
+      - HZPC
+      - Maandag
   - type: content_block
     align: right
     content: >-
