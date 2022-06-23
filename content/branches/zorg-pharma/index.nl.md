@@ -66,6 +66,14 @@ blocks:
       url: https://www.philenflo.nl/oplossingen/interactieve-video/
       text: Lees hier meer over interactieve video
       type: link
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - ChipSoft
+      - ICON
+      - ZonMw
+      - Open Health
+      - Lentis
   - type: content_block
     align: right
     content: >-
@@ -112,14 +120,6 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       type: button
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - ChipSoft
-      - ICON
-      - ZonMw
-      - Open Health
-      - Lentis
   - type: contact_block
     contacts:
       - suzan-abbas
@@ -133,8 +133,8 @@ blocks:
     title: Succesverhalen
     items:
       - Pharmerit - Interactieve brochure
-      - Animatiefilm PRA health sciences
       - UMCG - Werken Bij UMCG als ANIOS
+      - Animatiefilm ICON geneesmiddelenonderzoek
 seo:
   title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
   description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
