@@ -27,6 +27,21 @@ blocks:
       text: Neem direct contact op
       color: yellow
       type: button
+  - type: logoblock
+    logo_items:
+      - JDE
+      - ICON
+      - Alfen
+      - Hanze Hogeschool Groningen
+      - HZPC
+      - Maandag
+    title: Bewezen trackrecord
+  - type: selectedwork_block
+    items:
+      - beter-bed-employer-branding-film
+      - Infomercial hzpc sunita
+      - ChipSoft - Werken Bij Chipsoft
+    title: Succesverhalen
   - type: content_block
     align: right
     content: >-
@@ -66,6 +81,8 @@ blocks:
     image:
       source: images/peter-opnames-douwe-egberts.jpg
     align_text: text-left
+    video:
+      autoplay: false
   - type: content_block
     align: left
     content: >-
@@ -106,21 +123,6 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
-  - type: logoblock
-    logo_items:
-      - JDE
-      - ICON
-      - Alfen
-      - Hanze Hogeschool Groningen
-      - HZPC
-      - Maandag
-    title: Bewezen trackrecord
-  - type: selectedwork_block
-    items:
-      - beter-bed-employer-branding-film
-      - Infomercial hzpc sunita
-      - ChipSoft - Werken Bij Chipsoft
-    title: Succesverhalen
   - type: content_block
     align: right
     content: >-
