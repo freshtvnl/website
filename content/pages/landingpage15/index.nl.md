@@ -21,10 +21,9 @@ blocks:
       televisie kijken. Deze vorm van reclame wint ook steeds meer terrein op
       internet. Reclamefilmpjes vangen zo goed de aandacht, dat mensen zich nu
       nog reclamevideo’s van jaren geleden herinneren. Bovendien slaan leuke
-      [commercials](https://www.philenflo.nl/commercial-laten-maken/) goed aan
-      bij de doelgroep. Dat wil je voor jouw bedrijf toch ook? Maar hoe maak je
-      zo’n filmpje, en belangrijker nog: hoe zorg je dat je ermee scoort? Bij
-      Phil & Flo weten we daar wel raad mee."
+      reclames goed aan bij de doelgroep. Dat wil je voor jouw bedrijf toch ook?
+      Maar hoe maak je zo’n filmpje, en belangrijker nog: hoe zorg je dat je
+      ermee scoort? Bij Phil & Flo weten we daar wel raad mee."
     displaymedia: custom_video
     align: left
   - type: content_block
@@ -70,7 +69,7 @@ blocks:
       ## ***Hoe maak je een reclame filmpje?***
 
 
-      Het beantwoorden van deze vragen doe je samen met onze creative producers in een creatieve sessie. We luisteren graag naar jouw eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en het ontwikkelen van de reclame video. Een reclame laten maken kán moeilijk zijn, maar niet als je bij Phil & Flo aanklopt!
+      Het beantwoorden van deze vragen doe je samen met onze creative producers in een creatieve sessie. We luisteren graag naar jouw eigen ideeën en input, maar dat hoeft niet: onze creatieve professionals zijn toppers in het uitdenken van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en het ontwikkelen van de reclame video. Een [commercial](https://www.philenflo.nl/commercial-laten-maken/) laten maken kán moeilijk zijn, maar niet als je bij Phil & Flo aanklopt!
     displaymedia: custom_video
   - type: content_block
     align: right
@@ -124,7 +123,7 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: "Reclamevideo laten maken | Phil & Flo "
+  title: "Reclame video laten maken | Phil & Flo "
   description: "Een reclamevideo laten maken die spreekt tot de verbeelding van
     jouw doelgroep. ✔ Onderscheidende content ✔ Gericht op de doelgroep  ✔ 8,9
     klantscore "
