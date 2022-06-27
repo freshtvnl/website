@@ -4,19 +4,19 @@ footermenu1:
     pre: Title
     url: /
   - weight: -6
-    name: Animatie
+    name: Animatie laten maken
     url: /oplossingen/animatie-laten-maken/
     parent: Oplossingen
   - weight: -5
-    name: Video
-    url: /oplossingen/video-laten-maken/
+    name: Bedrijfsfilm laten maken
+    url: /bedrijfsfilm-laten-maken/
     parent: Oplossingen
   - weight: -4
-    name: Interactief
+    name: Interactief video laten maken
     url: /oplossingen/interactieve-video/
     parent: Oplossingen
   - weight: -3
-    name: Virtual Reality
+    name: Virtual Reality laten maken
     url: /oplossingen/virtual-reality/
     parent: Oplossingen
   - weight: -2
@@ -24,7 +24,7 @@ footermenu1:
     url: /oplossingen/videomarketing/
     parent: Oplossingen
   - weight: -1
-    name: Employer Branding
+    name: Employer Branding video laten maken
     url: /oplossingen/employer-branding/
     parent: Oplossingen
 footermenu2:
@@ -62,7 +62,7 @@ footermenu3:
     pre: Title
     url: /
   - weight: -6
-    name: CSB 
+    name: CSB
     url: /portfolio/csb-amsterdam-interactieve-tour/
     parent: Cases
   - weight: -5
@@ -107,4 +107,3 @@ footermenu5:
     name: Hoe werkt een green screen?
     url: /kennisbank/hoe-werkt-een-green-screen/
     parent: Kennisbank
-
