@@ -15,7 +15,7 @@ blocks:
       source_mp4: ""
     displaymedia: iframe
     iframe:
-      source: https://rentcompany.nl/easy-interactief?nummereasy=41
+      source: https://public-player.ivorystudio.net/lib/jquery/jquery.js
     title: The Rent Company - ***Interactieve tour***
 seo:
   title: Interactieve tour van The Rent Company
