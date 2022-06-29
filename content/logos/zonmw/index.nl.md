@@ -1,8 +1,8 @@
 ---
-title: ZonMw
+title: AdiTech
 slug: phil164000610851420402
 image:
-  source: images/zon-mw.png
+  source: images/aditech.png
 seo:
   noindex: true
 ---
