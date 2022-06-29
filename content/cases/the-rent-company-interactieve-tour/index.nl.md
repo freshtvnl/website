@@ -12,7 +12,7 @@ blocks:
       autoplay: true
     displaymedia: iframe
     iframe:
-      source: https://interactive.philenflo.nl/embed/concepts/95d3624329d96c009ebc5a87?iv_branded=1
+      source: https://interactive.philenflo.nl/embed/projects/d5621e2835d285fdf02c56b6?iv_branded=1
     title: The Rent Company - ***Interactieve tour***
 seo:
   title: Interactieve tour van The Rent Company
