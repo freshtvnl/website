@@ -2,6 +2,8 @@
 title: The Rent Company - Interactieve tour
 slug: The-rent-company-interactieve-tour
 draft: false
+image:
+  source: images/the-rent-company.jpg
 content_type: portfolio
 color: yellow
 branch: onderwijs-kunst-cultuur
