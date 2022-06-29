@@ -2,7 +2,7 @@
 title: Save the Children
 slug: phil164000396702338423
 image:
-  source: images/stc_logo_horiz_colneg_rgb_black.png
+  source: images/save-the-children.png
 seo:
   noindex: true
 ---
