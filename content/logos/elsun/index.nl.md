@@ -1,7 +1,7 @@
 ---
 title: Elsun
 image:
-  source: images/elsun-logo.png
+  source: images/elsun.png
 seo:
   noindex: true
 ---
