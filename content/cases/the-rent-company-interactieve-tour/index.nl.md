@@ -15,7 +15,7 @@ blocks:
       source_mp4: ""
     displaymedia: iframe
     iframe:
-      source: https://public-player.ivorystudio.net/player.js
+      source: https://interactive.philenflo.nl/embed/projects/d5621e2835d285fdf02c56b6?iv_branded=1
     title: The Rent Company - ***Interactieve tour***
 seo:
   title: Interactieve tour van The Rent Company
