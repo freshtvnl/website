@@ -1,7 +1,7 @@
 ---
 title: NOM
 image:
-  source: images/nom-logo_antraciet_rgb300-300x150.png
+  source: images/nom.png
 seo:
   noindex: true
 ---
