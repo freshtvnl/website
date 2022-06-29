@@ -10,10 +10,10 @@ blocks:
     align: left
     video:
       autoplay: true
-      source_mp4: https://rentcompany.nl/easy-interactief?nummereasy=41
-    displaymedia: custom_video
+      source_mp4: ""
+    displaymedia: iframe
     iframe:
-      source: https://interactive.philenflo.nl/embed/projects/d5621e2835d285fdf02c56b6?iv_branded=1
+      source: https://rentcompany.nl/easy-interactief?nummereasy=41
     title: The Rent Company - ***Interactieve tour***
 seo:
   title: Interactieve tour van The Rent Company
