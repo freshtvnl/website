@@ -12,10 +12,10 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![](images/binbin.png)"
+    content: "![](images/oio-systems.png)"
     cta:
       color: green
-      url: https://www.philenflo.nl/portfolio/binbin/
+      url: https://www.philenflo.nl/portfolio/oio-systems/
       text: Bekijk de case
       type: button
   - type: content_block
