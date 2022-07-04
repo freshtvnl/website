@@ -66,15 +66,15 @@ blocks:
 
       Stel je eens een wereld voor, vol schone lucht en helder water. \
 
-      Waar alle kinderen veilig naar [school](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) kunnen en waar elk mens toegang heeft tot de beste [zorg](https://www.philenflo.nl/branches/zorg-pharma/). \
+      Waar alle kinderen veilig naar school kunnen en waar elk mens toegang heeft tot de beste zorg. \
 
       \
 
-      **De wereld van morgen**. [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
+      **De wereld van morgen**. Innovatieve technologie, duurzame energie, onderwijs, zorg, goede doelen en fair food. Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
 
       \
 
-      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: **visualisatie**. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
+      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: **visualisatie**. In het verleden met grotschilderingen, nu met waanzinnige [2D animaties](https://www.philenflo.nl/2d-animatie/), [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
 
 
       Wij zijn Phil & Flo\
