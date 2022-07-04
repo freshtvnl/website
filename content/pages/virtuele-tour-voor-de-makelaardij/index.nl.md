@@ -1,7 +1,7 @@
 ---
 title: Virtuele tour voor de makelaardij
 slug: virtuele-tour-makelaardij
-draft: true
+draft: false
 color: orange
 blocks:
   - type: hero_block
@@ -37,7 +37,7 @@ blocks:
       ## ***Mogelijkheden*** bij Phil & Flo
 
 
-      Er zijn veel verschillende mogelijkheden voor virtuele vastgoed tours. Phil & Flo heeft ervaring met 360 graden [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/) en foto’s, [VR (virtual reality)](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en interactieve tours. Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom  graag met je in gesprek om te kijken welke videovorm bij jullie vastgoed of makelaardij bedrijf past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
+      Er zijn veel verschillende mogelijkheden voor virtuele vastgoed tours. Phil & Flo heeft ervaring met 360 graden [video’s](https://www.philenflo.nl/360-graden-video-laten-maken/) en foto’s, VR (virtual reality), 3D rondleidingen en interactieve tours. Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom  graag met je in gesprek om te kijken welke videovorm bij jullie vastgoed of makelaardij bedrijf past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-oranje.jpg
