@@ -29,7 +29,7 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /contact
+      url: /contact/
       text: Meer informatie
       type: button
       color: green
