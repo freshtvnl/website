@@ -37,7 +37,7 @@ blocks:
       ## ***Mogelijkheden*** bij Phil & Flo
 
 
-      Er zijn veel verschillende mogelijkheden voor virtuele vastgoed tours. Phil & Flo heeft ervaring met 360 graden [video’s](https://www.philenflo.nl/360-graden-video-laten-maken/) en foto’s, VR (virtual reality), 3D rondleidingen en interactieve tours. Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom graag met je in gesprek om te kijken welke videovorm bij jullie vastgoed of makelaardij bedrijf past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
+      Er zijn veel verschillende mogelijkheden voor virtuele vastgoed tours. Phil & Flo heeft ervaring met [360 graden video’s](https://www.philenflo.nl/360-graden-video-laten-maken/) en foto’s, [VR (virtual reality)](https://www.philenflo.nl/oplossingen/virtual-reality/), [3D rondleidingen](https://www.philenflo.nl/virtuele-tour/) en [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/). Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. We gaan daarom graag met je in gesprek om te kijken welke videovorm bij jullie vastgoed of makelaardij bedrijf past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-oranje.jpg
@@ -48,7 +48,7 @@ blocks:
       ## ***De werkwijze*** van Phil & Flo
 
 
-      Een samenwerking tussen jou en Phil & Flo begint altijd met het delen van een idee en visie. In een intakegesprek bespreken we de ideeën, wensen en doelen. Daarna kunnen we gaan werken aan een technisch kader om de opdracht te vormen. Als de opdracht vaststaat, maak je kennis met een van onze creative producers. Zij begeleidt je door het verdere proces. Met de creative producer beginnen we met een creatieve sessie, waarin wordt bepaald hoe de kaders voor de virtuele rondleiding toerisme worden ingekleurd. Wat gaan we filmen? Gebruiken we een voice-over of zetten we figuranten in? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis daarvan maakt de creative producer afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
+      Een samenwerking tussen jou en Phil & Flo begint altijd met het delen van een idee en visie. In een intakegesprek bespreken we de ideeën, wensen en doelen. Daarna kunnen we gaan werken aan een technisch kader om de opdracht te vormen. Als de opdracht vaststaat, maak je kennis met een van onze creative producers. Zij begeleiden je door het verdere proces. Met de creative producers beginnen we met een creatieve sessie, waarin wordt bepaald hoe de kaders voor de virtuele rondleiding toerisme worden ingekleurd. Wat gaan we filmen? Gebruiken we een voice-over of zetten we figuranten in? Alle onderdelen worden verzameld en aan elkaar verbonden in een wireframe. Op basis daarvan maakt de creative producer afspraken over de benodigde mensen en locaties en wordt een draaiboek gemaakt.
     align: left
     displaymedia: image
     image:
@@ -78,7 +78,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: "Digitale rondleiding met een makelaar door huizen of gebouwen | Phil & Flo "
+  title: Virtuele tour door huizen of gebouwen | Phil & Flo | Innovatieve oplossing
   description: Digitale rondleiding door huizen en gebouwen laten maken door Phil
     & Flo. Wij verbeelden het. ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔
     Professioneel
