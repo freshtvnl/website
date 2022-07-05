@@ -67,7 +67,7 @@ blocks:
 
       Wij denken graag met je mee over een uniek en origineel concept, dat voldoet aan jouw wensen en eisen. Onze expertise wordt ingezet voor het beste concept. Wil je meer weten? Neem dan contact op voor een vrijblijvende offerte.
     cta:
-      url: /contact
+      url: /contact/
       text: Contact opnemen
       type: button
       color: orange
