@@ -104,7 +104,7 @@ blocks:
       ## ***Kosten*** van een Virtual Reality video
 
 
-      De kosten van virtual reality laten maken is afhankelijk van het totale aantal uren dat in het maken van de video zit. En dat is weer afhankelijk van het soort VR video; een tour, video of [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar ook de lengte van de film en hoeveelheid omgevingen nemen we mee. Phil & Flo werkt met eerlijke tarieven en biedt volledige transparantie. Neem contact met ons op om alle wensen en mogelijkheden te bespreken voor video VR. We helpen we je graag verder!
+      De kosten van virtual reality laten maken is afhankelijk van het totale aantal uren dat in het maken van de video zit. En dat is weer afhankelijk van het soort VR video; een [tour](https://www.philenflo.nl/virtuele-tour/), video of [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Maar ook de lengte van de film en hoeveelheid omgevingen nemen we mee. Phil & Flo werkt met eerlijke tarieven en biedt volledige transparantie. Neem contact met ons op om alle wensen en mogelijkheden te bespreken voor video VR. We helpen we je graag verder!
     align: left
     displaymedia: image
     image:
