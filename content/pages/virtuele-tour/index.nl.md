@@ -203,7 +203,7 @@ blocks:
       ## Digitale rondleidingen voor ***makelaardij***
 
 
-      De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een interactieve rondleiding in elk huis.
+      De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een [interactieve rondleiding in elk huis](https://www.philenflo.nl/virtuele-tour-makelaardij/).
     image:
       source: images/lamberink1.jpg
     displaymedia: image
