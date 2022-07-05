@@ -27,7 +27,7 @@ blocks:
     youtube:
       id: whTY-lLc2Tc
     cta:
-      url: /contact
+      url: /contact/
       text: Contact opnemen
       type: button
       color: blue
