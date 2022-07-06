@@ -62,7 +62,7 @@ blocks:
       ## Waarom een testimonial?
 
 
-      Mensen zijn kuddedieren en vertrouwen het sneller wanneer ze iemand in hun netwerk zien met hetzelfde product bijvoorbeeld. Mond-op-mondreclame is daarom één van de krachtigste vormen van reclame. Een klantervaring van de persoon zelf zorgt voor meer autoriteit en vertrouwen. Een testimonial video is daarom de perfecte manier om jouw product, dienst of bedrijf te promoten.
+      Mensen zijn kuddedieren en vertrouwen het sneller wanneer ze iemand in hun netwerk zien met hetzelfde product. Mond-tot-mondreclame is daarom één van de krachtigste vormen van reclame. Een klantervaring van de persoon zelf zorgt voor meer autoriteit en vertrouwen. Een testimonial video is daarom de perfecte manier om jouw product, dienst of bedrijf te promoten.
     displaymedia: image
     image:
       source: images/layertec-testimonial-1-.png
