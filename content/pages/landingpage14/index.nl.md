@@ -5,13 +5,20 @@ draft: false
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld
+    content: ""
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
     content: Zonder goede branding video ben je niet zichtbaar en niet tastbaar. Het
       is de beste online marketing tool van dit moment. Door een korte film te
       laten maken zet je je bedrijf neer zoals het is, of zoals jij wilt dat het
       wordt. Je brengt het ware bedrijfsgevoel over en onderscheidt je met jouw
       unieke ‘brand’ of merk van de concurrentie.
-  - type: content_block
     align: left
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## Waar sta je voor?
 
@@ -21,7 +28,7 @@ blocks:
     image:
       source: images/peter-opnames-douwe-egberts.jpg
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Branding video*** voor Social Media
 
@@ -31,7 +38,7 @@ blocks:
     image:
       source: images/peter-suzan-kopie.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Een branding video, hoe werkt het?
 
@@ -53,7 +60,7 @@ blocks:
     image:
       source: images/inge-sophie-kopie.jpg
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Een branding video laten maken door Phil & Flo
 
