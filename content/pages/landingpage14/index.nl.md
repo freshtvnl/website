@@ -6,6 +6,8 @@ blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld
     content: ""
+    align: center
+    align_text: center
   - type: content_block
     video:
       autoplay: true
