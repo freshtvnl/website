@@ -5,6 +5,15 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Video testimonial***"
+    content: ""
+    displaymedia: null
+    align: center
+    align_text: center
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
+    align_text: text-left
     content: Zelf schreeuwen dat je de allerbeste of goedkoopste bent (in je
       vakgebied) is een manier van marketing die we steeds minder vaak zien.
       Vandaag de dag leven we in een zogenoemde reputatie-samenleving. Deze
@@ -17,24 +26,27 @@ blocks:
       hun klantbeoordeling te kunnen uiten. Dit kan in tekst, maar Phil & Flo
       wil je liever kennis laten maken met het veel krachtigere fenomeen; video
       testimonials!
-    displaymedia: null
-  - type: content_block
-    video:
-      autoplay: true
-    align: left
-    content: >-
-      ## Wat is een video testimonial?
-
-
-      In een video testimonial delen klanten hun ervaring met jou, jouw product, dienst of bedrijf. Het zijn dus eigenlijk klantreviews, maar dan in videovorm. Het is belangrijk dat de testimonial video geloofwaardig overkomt. Daarvoor helpt het om de verteller geen script te geven, maar het verhaal organisch te laten vertellen. De video zal objectief zijn. Het moet geen verkooppraatje worden, maar echt een klantervaring.
-    displaymedia: youtube_video
     youtube:
       id: kK3X9kRxlJw
+    displaymedia: youtube_video
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken1.mp4
     align: right
+    content: >-
+      ## Wat is een video testimonial?
+
+
+      In een video testimonial delen klanten hun ervaring met jou, jouw product, dienst of bedrijf. Het zijn dus eigenlijk klantreviews, maar dan in videovorm. Het is belangrijk dat de testimonial video geloofwaardig overkomt. Daarvoor helpt het om de verteller geen script te geven, maar het verhaal organisch te laten vertellen. De video zal objectief zijn. Het moet geen verkooppraatje worden, maar echt een klantervaring.
+    displaymedia: custom_video
+    youtube:
+      id: ""
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
+    align: left
     content: >-
       ## Wat is testimonial advertising?
 
@@ -44,30 +56,33 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
-    align: left
+      source_mp4: ""
+    align: right
     content: >-
       ## Waarom een testimonial?
 
 
       Mensen zijn kuddedieren en vertrouwen het sneller wanneer ze iemand in hun netwerk zien met hetzelfde product bijvoorbeeld. Mond-op-mondreclame is daarom één van de krachtigste vormen van reclame. Een klantervaring van de persoon zelf zorgt voor meer autoriteit en vertrouwen. Een testimonial video is daarom de perfecte manier om jouw product, dienst of bedrijf te promoten.
-    displaymedia: custom_video
-  - type: content_block
-    video:
-      autoplay: true
-    align: right
-    content: |-
-      ## Hoe maak je een video testimonial?
-
-      Tekst.
     displaymedia: image
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: images/layertec-testimonial-1-.png
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken2.mp4
     align: left
+    content: |-
+      ## Hoe maak je een video testimonial?
+
+      Tekst.
+    displaymedia: custom_video
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Testimonial-video-laten-maken1.mp4
+    align: right
     content: |-
       ## Waaraan koppel je een testimonial video het best op je website?
 
