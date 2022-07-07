@@ -27,7 +27,7 @@ blocks:
       ## ***Aan de slag***
 
 
-      IPPON heeft de route al helemaal helder, maar weet nog niet hoe het verhaal vertelt moet worden aan de student. Tijdens een eerste call werd al veel duidelijk. De 2D animatie wordt gericht op specialisten in game design, sport en vooral toekomstige PABO studenten. De 2D animatie informeert over het onderscheidend vermogen en het gemak van de diensten van IPPON.  Zo moet duidelijk worden dat IPPON zoekt naar zowel losse klussen of een vaste baan en dat de klant de regie over eigen werkagenda houdt. Daarnaast regelt IPPON de administratieve zaken en blijven ze ondersteunen bij alle bijkomende zaken.
+      IPPON heeft de route al helemaal helder, maar weet nog niet hoe het verhaal vertelt moet worden aan de student. Tijdens een eerste call werd al veel duidelijk. De 2D animatie wordt vooral gericht op net afgestudeerden van de PABO, toekomstige docenten. De 2D animatie informeert over het onderscheidend vermogen en het gemak van de diensten van IPPON.  Zo moet duidelijk worden dat IPPON zoekt naar zowel losse klussen of een vaste baan en dat de klant de regie over zijn eigen werkagenda houdt. Daarnaast regelt IPPON de administratieve zaken en blijven ze ondersteunen bij alle bijkomende zaken.
     align: left
     align_text: text-left
   - type: content_block
@@ -37,10 +37,10 @@ blocks:
       ## De ***stijl*** van de 2D animatie
 
 
-      Onderwijs is leuk! En dat moet de video dan ook uitstralen. IPPON spreekt met net afgestudeerden een jonge doelgroep aan. Belangrijk dus om een hippe animatiestijl neer te zetten. Voor de karakters in de animatie creëerden we een unieke stijl. De uitdrukkingen op de gezichten zijn gedetailleerd, opgewekt en vrolijk. De kleuren in de animatie zijn speels en passen perfect bij de huisstijlkleuren van IPPON.
+      Administratieve zaken zijn belangrijk, maar bovenal moet de animatie uitstralen dat onderwijs leuk is! IPPON spreekt met net afgestudeerden een jonge doelgroep aan. Belangrijk dus om een hippe animatiestijl neer te zetten. Voor de karakters in de animatie creëerden we een unieke stijl. De uitdrukkingen op de gezichten zijn gedetailleerd, opgewekt en vrolijk. De kleuren in de animatie zijn speels en passen perfect bij de huisstijlkleuren van IPPON.
 
 
-      De unieke stijl vulden we aan met een jonge, enthousiaste voice-over stem. Daarnaast mocht de video niet te lang duren.  De 2D animatie promovideo duurt 60 seconden. Precies lang genoeg om de boodschap helder over te brengen én de aandacht van de kijker vast te houden.
+      De unieke stijl vulden we aan met een jonge, enthousiaste voice-over stem. Daarnaast mocht de video niet te lang duren. De 2D animatie promovideo duurt 60 seconden. Precies lang genoeg om de boodschap helder over te brengen én de aandacht van de kijker vast te houden.
     align: right
     align_text: text-left
   - type: content_block
