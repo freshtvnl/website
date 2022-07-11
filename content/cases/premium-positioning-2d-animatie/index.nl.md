@@ -1,7 +1,7 @@
 ---
 title: Premium Positioning - 2D animatie
 slug: premium-positioning-2d-animatiefilm
-weight: 8
+weight: 7
 draft: false
 image:
   source: images/premium-positioning.png
