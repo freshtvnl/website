@@ -30,6 +30,9 @@ blocks:
       IPPON heeft de route al helemaal helder, maar weet nog niet hoe het verhaal vertelt moet worden aan de student. Tijdens een eerste call werd al veel duidelijk. De 2D animatie wordt vooral gericht op net afgestudeerden van de PABO, toekomstige docenten. De 2D animatie informeert over het onderscheidend vermogen en het gemak van de diensten van IPPON.  Zo moet duidelijk worden dat IPPON zoekt naar zowel losse klussen of een vaste baan en dat de klant de regie over zijn eigen werkagenda houdt. Daarnaast regelt IPPON de administratieve zaken en blijven ze ondersteunen bij alle bijkomende zaken.
     align: left
     align_text: text-left
+    displaymedia: image
+    image:
+      source: images/ippon1.png
   - type: content_block
     video:
       autoplay: true
@@ -43,11 +46,17 @@ blocks:
       De unieke stijl vulden we aan met een jonge, enthousiaste voice-over stem. Daarnaast mocht de video niet te lang duren. De 2D animatie promovideo duurt 60 seconden. Precies lang genoeg om de boodschap helder over te brengen én de aandacht van de kijker vast te houden.
     align: right
     align_text: text-left
+    displaymedia: image
+    image:
+      source: images/ippon-2-.png
   - type: content_block
     video:
       autoplay: true
-    content: Wil je ook meer informatie over een 2D animatievideo voor jouw
-      organisatie? Neem contact op of bel onze adviseurs 085 273 8331
+    content: >-
+      # ***Contact***
+
+
+      Wil je ook meer informatie over een 2D animatievideo voor jouw organisatie? Neem contact op of bel onze adviseurs 085 273 8331
     align: center
     align_text: text-left
     form: contact-formulier
