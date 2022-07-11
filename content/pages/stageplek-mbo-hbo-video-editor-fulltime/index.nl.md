@@ -1,7 +1,7 @@
 ---
 title: Stageplek MBO / HBO Video editor (fulltime)
 slug: Stageplek mbo en hbo video editor Groningen
-draft: true
+draft: false
 color: yellow
 blocks:
   - type: content_block
