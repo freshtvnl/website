@@ -1,7 +1,7 @@
 ---
 title: IPPON Personeelsdiensten - 2D animatie
 slug: 2D-animatiefilm-IPPON
-draft: true
+draft: false
 image:
   source: images/thumbnail_ippon-1-1.jpg
 content_type: case
