@@ -10,7 +10,7 @@ color: blue
 branch: Innovatieve-tech
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatiefilm-Premium-Positioning.mp4
