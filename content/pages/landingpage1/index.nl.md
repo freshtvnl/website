@@ -1,5 +1,5 @@
 ---
-title: 3D Animatie laten maken
+title: 3D Animatie
 slug: 3-d-animatie-laten-maken
 draft: false
 blocks:
