@@ -68,7 +68,7 @@ blocks:
     form: ""
     displaymedia: image
     image:
-      source: phil-flo-animatie.jpg
+      source: phil-en-flo-icoon-vrije-tijd-groen.jpg
   - type: selectedwork_block
     title: Cases
     items:
