@@ -7,7 +7,7 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      # Zijn wij voor ***elkaar*** gemaakt?
+      # ***Zijn wij voor elkaar gemaakt?***
 
 
       Onze experts maken een offerte op maat, passend bij je doelen en uitdagingen.
