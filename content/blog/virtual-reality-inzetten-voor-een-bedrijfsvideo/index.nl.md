@@ -1,6 +1,7 @@
 ---
 title: Virtual reality inzetten voor een bedrijf
 slug: Virtual reality inzetten voor een bedrijfsvideo
+weight: 15
 draft: false
 image:
   source: images/vr-headset-n9f6yfe.jpg
