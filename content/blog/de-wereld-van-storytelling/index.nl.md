@@ -1,6 +1,7 @@
 ---
 title: De wereld van storytelling
 slug: beste voorbeelden van storytelling
+weight: 17
 draft: false
 image:
   source: images/coornhert1.jpg
