@@ -33,7 +33,8 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: ""
+      source_mp4: https://video.philenflo.nl/video/Droneshot-natuur-MVO.mp4
+      source_webm: https://video.philenflo.nl/video/Droneshot-natuur-MVO.mp4
     content: >-
       ## ***Waarom?***
 
