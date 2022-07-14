@@ -78,30 +78,11 @@ blocks:
     items:
       - sport spray 3d animatie
       - Save The Children - Bordje Bij
-      - CSB Amsterdam interactieve tour
+      - CSG-het-streek-lyceum-interactieve-tour
     more_items: true
   - type: content_block
     align: center
-    content: >-
-      ## ***Dit is de wereld van Phil & Flo***
-
-
-      Stel je eens een wereld voor, vol schone lucht en helder water. \
-
-      Waar alle kinderen veilig naar school kunnen en waar elk mens toegang heeft tot de beste zorg. \
-
-      \
-
-      **De wereld van morgen**. Innovatieve technologie, duurzame energie, onderwijs, zorg, goede doelen en fair food. Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
-
-      \
-
-      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: **visualisatie**. In het verleden met grotschilderingen, nu met waanzinnige [2D animaties](https://www.philenflo.nl/2d-animatie/), [3D animaties](https://www.philenflo.nl/3-d-animatie-laten-maken/), [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [Virtual Reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/). Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
-
-
-      Wij zijn Phil & Flo\
-
-      Wij verbeelden ***de wereld van morgen.***
+    content: ""
   - type: collection_block
     collection: blog
     number_of_items: 3
