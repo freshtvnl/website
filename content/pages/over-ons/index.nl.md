@@ -17,10 +17,11 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
-    content: "Phil & Flo Creative Studio bestaat sinds 2009 onder de naam FreshTV
-      Videomarketing. In 2021 gaan we verder onder de huidige naam: Phil & Flo
-      Creative Studio. Wij zijn een hecht team van professionals die werken voor
-      organisaties die bij ons passen."
+    content: >-
+      ## ***In het kort***
+
+
+      Phil & Flo Creative Studio bestaat sinds 2009 onder de naam FreshTV Videomarketing. In 2020 hebben we met ons team besloten dat die naam niet meer bij ons paste. Na een intensief rebranding en purpose traject zijn we verder gegaan onder de nieuwe naam: ***Phil & Flo Creative Studio***.
     displaymedia: custom_video
     youtube:
       id: 7TOmvPxRGC8
