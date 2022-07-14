@@ -23,6 +23,10 @@ blocks:
       animatie](/vr-animatie-laten-maken/).
     align: left
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang snel een offerte
+      color: pink
   - type: content_block
     align: right
     content: >-
