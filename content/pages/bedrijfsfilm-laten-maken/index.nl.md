@@ -1,5 +1,5 @@
 ---
-title: Bedrijfsfilm laten maken
+title: Bedrijfsfilm
 slug: bedrijfsfilm-laten-maken
 draft: false
 blocks:
