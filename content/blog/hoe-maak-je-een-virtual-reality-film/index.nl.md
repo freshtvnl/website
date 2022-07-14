@@ -4,7 +4,7 @@ slug: hoe-maak-je-een-virtual-reality-film
 weight: 7
 draft: false
 image:
-  source: images/gaming-in-vr.jpg
+  source: ""
 date: 2022-07-14T13:16:26.099Z
 color: green
 seo:
