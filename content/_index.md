@@ -1,40 +1,44 @@
 ---
 title: Phil & Flo Creative Studio
 blocks:
-  - type: hero_block
+  - displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
     title: "***Animatie, video en branding***."
-    image:
-      source: phil-flo-animatie.jpg
-      alt: Phil en Flo
     content: ""
-    displaymedia: null
+    type: hero_block
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
       autoplay: false
       image:
         source: phil-flo-animatie.jpg
-    align: center
-    align_text: center
-  - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
-      image:
-        source: phil-flo-animatie.jpg
+    image:
+      source: phil-flo-animatie.jpg
+      alt: Phil en Flo
+  - displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
     align: left
-    displaymedia: custom_video
-    content: >-
-      ### Wij verbeelden de wereld van morgen
-
-      Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
+    align_text: text-left
     cta:
       url: /contact/
       text: Neem direct contact op
       type: button
       color: green
+    content: >-
+      ### Wij verbeelden de wereld van morgen
+
+      Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
+    type: content_block
+    video:
+      autoplay: true
+      source_mp4: ""
+      image:
+        source: phil-flo-animatie.jpg
     image:
       source: phil-flo-animatie.jpg
-    align_text: text-left
   - type: content_block
     video:
       autoplay: true
