@@ -1,5 +1,4 @@
 ---
-title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 draft: false
 color: yellow
 blocks:
@@ -240,6 +239,7 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
+title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 slug: animatie-passend-bedrijf
 image:
   source: images/3d-animatie.jpg
