@@ -3,6 +3,7 @@ title: Offerte
 slug: offerte ontvangen
 draft: false
 id: jHqH8CRTK
+color: pink
 blocks:
   - type: content_block
     align: center
