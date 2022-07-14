@@ -76,8 +76,8 @@ blocks:
   - type: selectedwork_block
     title: Cases
     items:
+      - sport spray 3d animatie
       - Save The Children - Bordje Bij
-      - alfen-Smart-Charging-Network-3D-animatie
       - CSB Amsterdam interactieve tour
     more_items: true
   - type: content_block
