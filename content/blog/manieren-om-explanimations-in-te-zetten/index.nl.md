@@ -1,7 +1,7 @@
 ---
 title: Manieren om explanimations in te zetten
 slug: Manieren om explanimations in te zetten
-weight: 8
+weight: 9
 draft: false
 image:
   source: images/explainer-video-voorbeeld-phil-en-flo.jpg
