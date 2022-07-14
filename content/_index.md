@@ -63,7 +63,7 @@ blocks:
     form: ""
     displaymedia: image
     image:
-      source: phil-en-flo-icoon-vrije-tijd-groen.jpg
+      source: jde-behind-the-scenes.jpg
   - type: selectedwork_block
     title: Cases
     items:
