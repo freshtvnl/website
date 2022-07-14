@@ -1,6 +1,7 @@
 ---
 title: Videomarketing, hoe zet je het in?
 slug: Videomarketing hoe zet je het in
+weight: 11
 draft: false
 image:
   source: images/peter.jpg
