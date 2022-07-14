@@ -23,10 +23,10 @@ blocks:
     align: left
     align_text: text-left
     cta:
-      url: /contact/
-      text: Neem direct contact op
+      url: /offerte-ontvangen/
+      text: Ontvang direct je offerte
       type: button
-      color: green
+      color: pink
     content: >-
       ### Wij verbeelden de wereld van morgen
 
