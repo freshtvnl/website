@@ -187,5 +187,5 @@ seo:
     8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op voor meer informatie
 menu:
   main:
-    weight: 3
+    weight: 2
 ---
