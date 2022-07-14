@@ -1,6 +1,7 @@
 ---
 title: Alle animatietechnieken op een rij, welke kies jij?
 slug: welke-animatietechnieken-gebruiken
+weight: 5
 draft: false
 image:
   source: images/thumbnail-1-1.png
