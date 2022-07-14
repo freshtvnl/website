@@ -23,9 +23,9 @@ blocks:
     align_text: text-left
     displaymedia: custom_video
     cta:
-      url: /contact/
-      text: Neem direct contact op
-      color: yellow
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      color: pink
       type: button
   - type: logoblock
     logo_items:
