@@ -8,6 +8,7 @@ image:
   alt: Phil en flo 3d animatie
 author: suzan-abbas
 date: 2021-05-28T08:20:56.490Z
+color: pink
 seo:
   title: Een animatie laten maken van A tot Z | Phil & Flo | Blog
   description: "Hoe wordt een animatie gemaakt en waar moet je op letten? In dit
