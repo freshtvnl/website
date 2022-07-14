@@ -62,9 +62,6 @@ blocks:
 
 
       Wij zijn specialisten op het gebied van [video](/oplossingen/video-laten-maken/), [animatie](/oplossingen/animatie-laten-maken/), [virtual reality](/vr-animatie-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) & [interactieve video](/oplossingen/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
-
-
-      [Neem contact met ons op voor meer informatie.](https://www.philenflo.nl/contact/)
     align: left
     displaymedia: custom_video
     image:
