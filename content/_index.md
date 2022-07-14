@@ -78,7 +78,7 @@ blocks:
     items:
       - sport spray 3d animatie
       - Save The Children - Bordje Bij
-      - CSG-het-streek-lyceum-interactieve-tour
+      - premium-positioning-2d-animatiefilm
     more_items: true
   - type: content_block
     align: center
