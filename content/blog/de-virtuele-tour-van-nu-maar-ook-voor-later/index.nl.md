@@ -1,6 +1,7 @@
 ---
 title: De virtuele tour van nu, maar ook voor later
 slug: virtuele-tour-nu-en-later
+weight: 3
 draft: false
 image:
   source: images/vr2.jpg
