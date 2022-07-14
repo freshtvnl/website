@@ -49,7 +49,7 @@ blocks:
 
 
       Hoe kunnen wij bijdragen aan de wereld van morgen? Door onze energie en creatieve kracht in te zetten om jouw verhaal te verbeelden. Dat doen we aan de hand van ons BLIEP-model. BLIEP staat voor: ***Beste, Leukste, Innovatief, Efficiënt & Principieel.***
-    align: right
+    align: left
     displaymedia: image
     image:
       source: images/inge-bank.jpg
@@ -62,7 +62,7 @@ blocks:
 
 
       Wij zijn specialisten op het gebied van [video](/oplossingen/video-laten-maken/), [animatie](/oplossingen/animatie-laten-maken/), [virtual reality](/vr-animatie-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) & [interactieve video](/oplossingen/interactieve-video/). Ons team is in topvorm als onze creaties gemaakt worden voor de juiste organisaties. De organisaties die zich inzetten voor een betere wereld.
-    align: left
+    align: right
     displaymedia: custom_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
