@@ -1,6 +1,7 @@
 ---
 title: De kracht van animatie voor het onderwijs
 slug: de-kracht-van-animatie-voor-het-onderwijs
+weight: 13
 draft: false
 image:
   source: images/onderwijs-animatie.jpg
