@@ -11,14 +11,7 @@ blocks:
       # ***Zijn wij voor elkaar gemaakt?***
 
 
-      Ontvang een offerte op maat, onze experts hebben ervaring in vele branches en weten waar je behoefte ligt.
-
-
-      * Binnen 1 werkdag reactie
-
-      * 4,9/5 sterren op Google
-
-      * Hoogwaardige video en film voor jouw organisatie
+      Ontvang binnen 1 werkdag een offerte op maat, onze experts hebben ervaring in vele branches en weten waar je behoefte ligt.
     form: offerte-formulier
     cta:
       color: pink
