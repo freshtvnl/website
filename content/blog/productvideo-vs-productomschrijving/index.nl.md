@@ -1,6 +1,7 @@
 ---
 title: Productvideo vs. productomschrijving
 slug: productvideo-versus-productomschrijving
+weight: 12
 draft: false
 image:
   source: images/thumbnail-de-aanbouw-expert-1-1.jpg
