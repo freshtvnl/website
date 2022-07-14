@@ -27,6 +27,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Ontvang snel een offerte
       color: pink
+      type: button
   - type: content_block
     align: right
     content: >-
