@@ -9,9 +9,7 @@ color: yellow
 seo:
   title: "Een virtuele tour "
 ---
-## De virtuele tour van nu, maar ook voor later
-
-In de periode dat we geen fysieke evenementen en bijeenkomsten konden bijwonen, was een virtuele tour natuurlijk dé oplossing. Maar ook nu dit wel weer kan, blijft het een prachtige manier om online op te vallen. Je geeft met zo’n digitale rondleiding de kijker de mogelijkheid om op te gaan in de omgeving en echt de sfeer te proeven. Het resulteert in meer bezoekers, leads, omzet en waardering. Wil je weten hoe? In dit blog lees je over de verschillende mogelijkheden. 
+In de periode dat we geen fysieke evenementen en bijeenkomsten konden bijwonen, hebben veel bedrijven een [video laten maken](https://www.philenflo.nl/oplossingen/video-laten-maken/). En een virtuele tour was helemaal dé oplossing. Maar ook nu dit wel weer kan, blijft het een prachtige manier om online op te vallen. Je geeft met zo’n digitale rondleiding de kijker de mogelijkheid om op te gaan in de omgeving en echt de sfeer te proeven. Het resulteert in meer bezoekers, leads, omzet en waardering. Wil je weten hoe? In dit blog lees je over de verschillende mogelijkheden. 
 
 ## Wat is een virtuele tour?
 
@@ -29,11 +27,11 @@ Of een VR-video. Je zet een VR-bril op en zit ineens in een achtbaan. Je hebt ec
 
 {{< youtube id="0ljMPjPQjRI" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
-Daarnaast is er de interactieve rondleiding, waarbij de video klikbare knoppen krijgt. Met behulp van de knoppen kan de kijker door de video heen klikken en zelf kiezen welke onderdelen hij wil zien. Bijvoorbeeld in een virtuele rondleiding toerisme, waarin alle highlights van een stad terugkomen. Of in een virtuele rondleiding door een hotel, waarin je alvast alle faciliteiten kunt bekijken. De mogelijkheden zijn eindeloos. Ook een virtuele tour voor jouw bedrijf  is een mooie toevoeging aan jouw marketingmix.
+Daarnaast is er de interactieve rondleiding, waarbij de video klikbare knoppen krijgt. Met behulp van de knoppen kan de kijker door de video heen klikken en zelf kiezen welke onderdelen hij wil zien. Bijvoorbeeld in een virtuele rondleiding toerisme, waarin alle highlights van een stad terugkomen. Of in een virtuele rondleiding door een hotel, waarin je alvast alle faciliteiten kunt bekijken. De mogelijkheden zijn eindeloos. Ook een virtuele tour voor jouw bedrijf is een mooie toevoeging aan jouw marketingmix.
 
 ## Virtual reality
 
-Er komen steeds meer spectaculaire mogelijkheden om bezoekers aan te grijpen. Tegenwoordig kunnen we dus al vr tours in 3D maken, maar het zal niet lang meer duren voor we zelfs 4D bewegende beelden kunnen maken. Met de ontwikkelingen van ‘light field’ opnames kunnen 4D-scènes opgenomen worden. In deze scènes kan een kijker, wederom met behulp van een VR-bril, rondlopen in een vooraf opgenomen beeld. Een vr tour maken wordt dus steeds indrukwekkender. Het is voor jou als organisatie interessant je hier in te verdiepen. Niet alleen voor nu, maar ook voor later.
+Er komen steeds meer spectaculaire mogelijkheden om bezoekers aan te grijpen. Tegenwoordig kunnen we dus al vr tours in 3D maken, maar het zal niet lang meer duren voor we zelfs 4D bewegende beelden kunnen maken. Met de ontwikkelingen van ‘light field’ opnames kunnen 4D-scènes opgenomen worden. In deze scènes kan een kijker, wederom met behulp van een VR-bril, rondlopen in een vooraf opgenomen beeld. Een vr tour maken wordt dus steeds indrukwekkender. Het is voor jou als organisatie interessant je in [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) te verdiepen. Niet alleen voor nu, maar ook voor later.
 
 {{< youtube id="cQ2szQcemv0" class="aspect-w-16 aspect-h-9" title="undefined" >}}
 
@@ -41,8 +39,12 @@ Er komen steeds meer spectaculaire mogelijkheden om bezoekers aan te grijpen. Te
 
 Een virtuele tour is een perfect middel voor organisaties uit verschillende branches. Je kunt bijvoorbeeld een virtuele tour voor een museum laten maken. Laat in deze virtuele rondleiding in een museum bezoekers van over de hele wereld door de gangen van het museum lopen. Onderweg komen ze kunstobjecten tegen en proeven ze de sfeer bij elke expositie.
 
-Naast een vr museum tour zijn online tours natuurlijk ook geschikt voor andere branches. Zo laat je een virtuele rondleiding in een fabriek maken, of een virtuele tour in een brouwerij, om belangrijke processen in beeld te brengen. Een virtuele tour voor bedrijven kan ook nieuwe medewerkers digitaal welkom heten of klantrelaties een rondleiding geven.
+Naast een vr museum tour zijn online tours natuurlijk ook geschikt voor andere [branches](https://www.philenflo.nl/branches/). Zo laat je een virtuele rondleiding in een fabriek maken, of een virtuele tour in een brouwerij, om belangrijke processen in beeld te brengen. Een virtuele tour voor bedrijven kan ook nieuwe medewerkers digitaal welkom heten of klantrelaties een rondleiding geven.
 
 ## Nu en later bruikbaar
 
 Virtuele technieken heeft het hoogst verwachte groeipotentieel voor de komende jaren. IDC Research voorspelt dat de investering in VR alleen al oploopt tot 15,5 miljard euro in de komende vier jaar. Er zullen meer bruikbare toepassingen komen, waar steeds meer bedrijven gebruik van zullen maken. We verbreden onze wereld en creëren de perfecte online beleving waarin de gebruiker zelf ‘in control’ is over deze vorm van informatievoorziening. Een effectief middel om je als bedrijf in te verdiepen.
+
+## Meer weten over virtual reality?
+
+Wil je meer weten over VR en de toepassing ervan? Neem vrijblijvend [contact](https://www.philenflo.nl/contact/) met ons op.
