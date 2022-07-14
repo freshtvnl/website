@@ -1,6 +1,7 @@
 ---
 title: Een bedrijfsfilm laten maken van A tot Z
 slug: bedrijfsfilm-laten-maken-van-a-tot-z
+weight: 1
 draft: false
 image:
   source: images/jde-phil-en-flo-behind-the-scenes.jpg
