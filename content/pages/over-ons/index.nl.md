@@ -17,11 +17,10 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
-    content: >-
-      ## ***In het kort***
-
-
-      Phil & Flo Creative Studio bestaat sinds 2009 onder de naam FreshTV Videomarketing. In 2020 hebben we met ons team besloten dat die naam niet meer bij ons paste. Na een intensief rebranding en purpose traject zijn we verder gegaan onder de nieuwe naam: ***Phil & Flo Creative Studio***.
+    content: "Phil & Flo Creative Studio bestaat sinds 2009 onder de naam FreshTV
+      Videomarketing. In 2020 hebben we met ons team besloten dat die naam niet
+      meer bij ons paste. Na een intensief rebranding en purpose traject zijn we
+      verder gegaan onder de nieuwe naam: ***Phil & Flo Creative Studio***."
     displaymedia: custom_video
     youtube:
       id: 7TOmvPxRGC8
@@ -30,17 +29,17 @@ blocks:
       url: /contact/
       text: Neem direct contact op
       type: button
-      color: pink
+      color: green
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
+      source_mp4: ""
     content: >-
       ## ***Waarom?***
 
 
       Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken. Wij willen organisaties, die zich actief inzetten voor een betere wereld, helpen hun boodschap te verkondigen, te verbeelden. Ook wij zetten ons actief in voor een betere wereld, bekijk ook onze [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/) voor meer informatie rondom onze maatschappelijke betrokkenheid.
-    align: left
+    align: right
     image:
       source: images/peter-opnames-douwe-egberts.jpg
     displaymedia: custom_video
