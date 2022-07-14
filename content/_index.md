@@ -64,6 +64,15 @@ blocks:
     displaymedia: image
     image:
       source: jde-behind-the-scenes.jpg
+  - type: logoblock
+    title: Onze klanten
+    logo_items:
+      - Alfen
+      - Algemeen Dagblad
+      - TNO
+      - Beter Bed
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - UMCG
   - type: selectedwork_block
     title: Cases
     items:
