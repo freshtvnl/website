@@ -18,7 +18,7 @@ seo:
     professionele organisaties. Altijd op en maat en voor de juiste prijs. "
 menu:
   main:
-    weight: ""
+    weight: 7
   footer:
-    weight: 9
+    weight: 11
 ---
