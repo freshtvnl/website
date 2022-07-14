@@ -85,5 +85,5 @@ seo:
     team legt je graag uit wat we voor jou kunnen produceren
 menu:
   main:
-    weight: 1
+    weight: 5
 ---
