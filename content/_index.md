@@ -44,27 +44,22 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## ***Opvallen bij je doelgroep***
+      ## ***Onze expertise***
 
 
-      Hoe val je met jou organisatie op bij jouw doelgroep? Dat zijn de vragen die wij met ons team beantwoorden. Vanaf de start zijn wij als strategisch partner betrokken bij jouw doelen. 
+      [**\- 2D animatie laten maken**](https://www.philenflo.nl/2d-animatie/)\
 
+      **[\- 3D animatie laten maken](https://www.philenflo.nl/3-d-animatie-laten-maken/)**\
 
-      Zet ons in voor:
+      [\
 
+      **\- Bedrijfsfilm laten maken**](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)\
 
-      **\- 2D animatie laten maken**\
+      [\
 
-      **\- 3D animatie laten maken**\
+      **\- Employer Branding content**](https://www.philenflo.nl/oplossingen/employer-branding/)\
 
-      **\- Bedrijfsfilm laten maken**\
-
-      **\- Employer Branding content**\
-
-      **\- Interactieve video**
-
-
-      Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
+      **[\- Interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)**
     form: ""
     displaymedia: image
     image:
