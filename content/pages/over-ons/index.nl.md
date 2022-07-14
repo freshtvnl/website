@@ -1,7 +1,7 @@
 ---
 title: "Over ons "
 slug: over-ons
-color: pink
+color: green
 blocks:
   - type: hero_block
     align: center
