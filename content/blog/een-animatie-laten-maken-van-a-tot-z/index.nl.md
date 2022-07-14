@@ -4,7 +4,7 @@ slug: animatie-a-tot-z
 weight: 2
 draft: false
 image:
-  source: images/premium-positioning.png
+  source: images/oio-systems.png
   alt: Phil en flo 3d animatie
 author: suzan-abbas
 date: 2021-05-28T08:20:56.490Z
