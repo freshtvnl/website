@@ -1,6 +1,7 @@
 ---
 title: Het nut van een employer branding video voor jouw bedrijf
 slug: Het nut van een employer branding video voor jouw bedrijf
+weight: 4
 draft: false
 image:
   source: images/employer-branding-film-beter-bed.jpg
