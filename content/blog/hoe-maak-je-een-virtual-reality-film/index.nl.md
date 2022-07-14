@@ -1,7 +1,7 @@
 ---
 title: Hoe maak je een virtual reality film?
 slug: hoe-maak-je-een-virtual-reality-film
-weight: 7
+weight: ""
 draft: false
 image:
   source: images/gaming-in-vr.jpg
