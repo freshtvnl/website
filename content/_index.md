@@ -87,11 +87,6 @@ blocks:
 
 
       Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
-  - type: collection_block
-    collection: blog
-    number_of_items: 3
-    heading: h3
-    title: Blogs
   - type: content_block
     video:
       autoplay: true
@@ -101,6 +96,12 @@ blocks:
       url: /offerte-ontvangen/
       text: Ontvang vrijblijvend je offerte
       color: pink
+      type: button
+  - type: collection_block
+    collection: blog
+    number_of_items: 3
+    heading: h3
+    title: Blogs
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
