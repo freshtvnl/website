@@ -26,6 +26,11 @@ blocks:
     youtube:
       id: 7TOmvPxRGC8
     align: left
+    cta:
+      url: /contact/
+      text: Neem direct contact op
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
