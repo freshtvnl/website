@@ -9,8 +9,9 @@ blocks:
     content: |-
       # Zijn wij voor ***elkaar*** gemaakt?
 
-      * Binnen n werkdag reactie
+      * Binnen 1 werkdag reactie
       * 4,9/5 sterren op Google
+      * Hoogwaardige video en film voor jouw organisatie
     form: offerte-formulier
 seo:
   title: "Offerte | Phil & Flo | Ontvang jouw op maat gemaakte offerte binnen een
