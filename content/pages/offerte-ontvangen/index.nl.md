@@ -10,7 +10,7 @@ blocks:
       # ***Zijn wij voor elkaar gemaakt?***
 
 
-      Onze experts maken een offerte op maat, passend bij je doelen en uitdagingen.
+      Ontvang een offerte op maat, onze experts hebben ervaring in vele branches en weten waar je behoefte ligt.
 
 
       * Binnen 1 werkdag reactie
@@ -21,6 +21,15 @@ blocks:
     form: offerte-formulier
     cta:
       color: pink
+  - type: logoblock
+    title: Deze klanten gingen je voor
+    logo_items:
+      - TNO
+      - Gemeente Amstelveen
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - ICON
+      - Jacobs Douwe Egberts Professional
+      - Payconiq
 seo:
   title: "Offerte | Phil & Flo | Ontvang jouw op maat gemaakte offerte binnen een
     werkdag "
