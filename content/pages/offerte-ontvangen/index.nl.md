@@ -11,7 +11,7 @@ blocks:
       # ***Zijn wij voor elkaar gemaakt?***
 
 
-      Ontvang binnen 1 werkdag een offerte op maat, onze experts hebben ervaring in vele branches en weten waar je behoefte ligt.
+      Ontvang *vrijblijvend* binnen 1 werkdag een offerte op maat, onze experts hebben ervaring in vele branches en weten waar je behoefte ligt.
     form: offerte-formulier
     cta:
       color: pink
