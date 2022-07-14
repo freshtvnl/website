@@ -1,6 +1,7 @@
 ---
 title: Wat moet er in een bedrijfsfilm?
 slug: bedrijfsfilm-maken
+weight: 8
 draft: false
 image:
   source: images/payconiq2.jpg
