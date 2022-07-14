@@ -245,7 +245,10 @@ blocks:
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
     title: Faq
 seo:
-  title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
+  title: Bedrijfsfilm laten maken - hoogwaardig, duurzaam en creatief | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
     en snel gerealiseerd
+menu:
+  main:
+    weight: 2
 ---
