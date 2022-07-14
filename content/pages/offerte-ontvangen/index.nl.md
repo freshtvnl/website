@@ -6,11 +6,17 @@ id: jHqH8CRTK
 blocks:
   - type: content_block
     align: center
-    content: |-
+    content: >-
       # Zijn wij voor ***elkaar*** gemaakt?
 
+
+      Onze experts maken een offerte op maat, passend bij je doelen en uitdagingen.
+
+
       * Binnen 1 werkdag reactie
+
       * 4,9/5 sterren op Google
+
       * Hoogwaardige video en film voor jouw organisatie
     form: offerte-formulier
     cta:
