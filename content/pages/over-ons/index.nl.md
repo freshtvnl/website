@@ -23,7 +23,7 @@ blocks:
       verder gegaan onder de nieuwe naam: ***Phil & Flo Creative Studio***."
     displaymedia: custom_video
     youtube:
-      id: 7TOmvPxRGC8
+      id: ""
     align: left
     cta:
       url: /contact/
@@ -41,7 +41,7 @@ blocks:
       Omdat we willen bijdragen aan een betere wereld voor de volgende generaties. Dat is waar we onze tijd en energie als team in willen steken. Wij willen organisaties, die zich actief inzetten voor een betere wereld, helpen hun boodschap te verkondigen, te verbeelden. Ook wij zetten ons actief in voor een betere wereld, bekijk ook onze [MVO-pagina](https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/) voor meer informatie rondom onze maatschappelijke betrokkenheid.
     align: right
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
     displaymedia: custom_video
   - type: content_block
     content: >-
