@@ -92,6 +92,15 @@ blocks:
     number_of_items: 3
     heading: h3
     title: Blogs
+  - type: content_block
+    video:
+      autoplay: true
+    align: center
+    align_text: text-center
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang vrijblijvend je offerte
+      color: pink
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
