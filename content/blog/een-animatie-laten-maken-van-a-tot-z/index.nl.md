@@ -1,6 +1,7 @@
 ---
 title: Een animatie laten maken van A tot Z
 slug: animatie-a-tot-z
+weight: 2
 draft: false
 image:
   source: images/phil-flo-animatie.jpg
