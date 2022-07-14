@@ -27,9 +27,9 @@ blocks:
     logo_items:
       - TNO
       - Gemeente Amstelveen
+      - JDE
       - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
       - ICON
-      - Jacobs Douwe Egberts Professional
       - Payconiq
 seo:
   title: "Offerte | Phil & Flo | Ontvang jouw op maat gemaakte offerte binnen een
