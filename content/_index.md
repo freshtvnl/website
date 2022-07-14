@@ -44,10 +44,24 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## ***Impact creëren***, samen met Phil & Flo
+      ## ***Opvallen bij je doelgroep***
 
 
-      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. We zijn vanaf het begin betrokken als strategisch partner en branding expert. Naast de videocontent maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
+      Hoe val je met jou organisatie op bij jouw doelgroep? Dat zijn de vragen die wij met ons team beantwoorden. Vanaf de start zijn wij als strategisch partner betrokken bij jouw doelen. 
+
+
+      Zet ons in voor:
+
+
+      **\- 2D animatie laten maken**\
+
+      **\- 3D animatie laten maken**\
+
+      **\- Bedrijfsfilm laten maken**\
+
+      **\- Employer Branding content**\
+
+      **\- Interactieve video**
 
 
       Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
