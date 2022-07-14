@@ -1,6 +1,7 @@
 ---
 title: De meerwaarde van drone's voor een video
 slug: de-meerwaarde-van-drones-voor-een-video
+weight: 7
 draft: false
 image:
   source: images/vlcsnap-2022-07-14-13h39m10s497.png
