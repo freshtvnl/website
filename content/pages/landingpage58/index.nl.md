@@ -132,4 +132,7 @@ seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design
+menu:
+  main:
+    weight: 1
 ---
