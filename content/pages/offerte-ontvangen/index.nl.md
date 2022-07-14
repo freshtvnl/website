@@ -13,6 +13,8 @@ blocks:
       * 4,9/5 sterren op Google
       * Hoogwaardige video en film voor jouw organisatie
     form: offerte-formulier
+    cta:
+      color: pink
 seo:
   title: "Offerte | Phil & Flo | Ontvang jouw op maat gemaakte offerte binnen een
     werkdag "
