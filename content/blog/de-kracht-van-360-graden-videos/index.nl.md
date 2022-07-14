@@ -1,6 +1,7 @@
 ---
 title: De kracht van 360 graden video's
 slug: 360-graden-video
+weight: 6
 draft: false
 image:
   source: images/360-graden-video.jpg
