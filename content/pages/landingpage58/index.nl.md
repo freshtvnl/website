@@ -21,10 +21,10 @@ blocks:
       doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken
       namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
     cta:
-      url: /contact/
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: red
+      color: pink
     displaymedia: custom_video
     align: left
     align_text: text-left
