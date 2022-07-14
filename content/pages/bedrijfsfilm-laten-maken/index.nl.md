@@ -251,5 +251,5 @@ seo:
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
