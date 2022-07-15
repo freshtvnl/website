@@ -6,8 +6,12 @@
 {{ $name := $data.Title }}
 {{ $color := $data.Params.color }}
 
-<div class="mt-1">
+<div class="mt-1" x-data="formData()" x-init="formSetup()">
   <form method="post" name="{{$name | urlize}}-{{$site.Language.Lang}}" id="{{$name | urlize}}-{{$site.Language.Lang}}" data-netlify="true" action="{{$thankyou}}"  netlify-honeypot="aandachtsveld">
+    <input type="hidden" name="utm_source" value="" x-model="utm_source"  />
+    <input type="hidden" name="utm_medium" value="" x-model="utm_medium"  />
+    <input type="hidden" name="utm_content" value="" x-model="utm_content"  />
+    <input type="hidden" name="utm_campaign" value="" x-model="utm_campaign"  />
     <div class="grid grid-cols-4 gap-6">
       
       {{ if eq $type "30minutes"}}
@@ -823,4 +827,16 @@
     </div>
 
   </form>
+  <script>
+    function formData() {
+      return {
+        formSetup() {
+          this.utm_source = sessionStorage.getItem('utm_source');
+          this.utm_medium = sessionStorage.getItem('utm_medium');
+          this.utm_content = sessionStorage.getItem('utm_content');
+          this.utm_campaign = sessionStorage.getItem('utm_campaign');
+        }
+      }
+    }
+  </script>
 </div>

@@ -149,3 +149,14 @@ function init30MinDateTimeElement() {
 }
 
 init30MinDateTimeElement();
+
+
+function setUtmInStorage() {
+  const urlParams = new URLSearchParams(window.location.search);
+  if(urlParams.has('utm_source')) sessionStorage.setItem('utm_source', urlParams.get('utm_source') )
+  if(urlParams.has('utm_medium')) sessionStorage.setItem('utm_medium', urlParams.get('utm_medium') )
+  if(urlParams.has('utm_content')) sessionStorage.setItem('utm_content', urlParams.get('utm_content') )
+  if(urlParams.has('utm_campaign')) sessionStorage.setItem('utm_campaign', urlParams.get('utm_campaign') )
+}
+
+setUtmInStorage();
