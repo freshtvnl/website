@@ -31,7 +31,7 @@ blocks:
       ### Wij verbeelden de wereld van morgen
 
 
-      Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek. We verbeelden de Wereld van Morgen. Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken.
+      Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek.
     type: content_block
     video:
       autoplay: true
@@ -86,8 +86,7 @@ blocks:
     content: >-
       ## ***Waarom samenwerken met Phil & Flo?***
 
-
-      Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
+       We verbeelden de Wereld van Morgen. Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken. Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
   - type: content_block
     video:
       autoplay: true
