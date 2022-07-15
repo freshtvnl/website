@@ -1,6 +1,7 @@
 ---
 title: Wat is slimme video marketing?
 slug: Wat is slimme video marketing
+weight: 14
 draft: false
 image:
   source: images/be-creative-y5tnvpq.jpg

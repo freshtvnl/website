@@ -1,6 +1,7 @@
 ---
 title: Hoe maak je een goede whiteboard animatie?
 slug: whiteboard-animatie-laten-maken
+weight: 16
 draft: false
 image:
   source: images/diataal1.png

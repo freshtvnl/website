@@ -4,7 +4,7 @@ footer:
     formatted: 085 273 8331
     raw: "+31852738331"
   social:
-    title: Stay in the loop
+    title: "Volg ons "
     linkedin: https://www.linkedin.com/company/707245
     facebook: https://www.facebook.com/philenflo
     instagram: https://www.instagram.com/philenflo
@@ -34,11 +34,12 @@ footer:
       title: Vrijblijvend offerte ontvangen
       text: Binnen 1 werkdag reactie
       cta:
-        url: /contact/
+        url: /offerte-ontvangen/
         type: button
         text: Aanvragen
+        color: pink
     contactblock:
-      title: Blijf op de hoogte
+      title: Laat je inspireren
       text: via onze nieuwsbrief
       form: newsletter-form
     bottomtext: |-

@@ -1,6 +1,7 @@
 ---
 title: Een bedrijfsfilm laten maken van A tot Z
 slug: bedrijfsfilm-laten-maken-van-a-tot-z
+weight: 1
 draft: false
 image:
   source: images/jde-phil-en-flo-behind-the-scenes.jpg
@@ -25,7 +26,7 @@ Tijdens een creatieve sessie bespreek je met enkele betrokkenen de ideeën en we
 
 ## Draaiboek voor een corporate film
 
-Met alle input gaat een ervaren scriptschrijver aan de slag om jouw wensen te vertalen in een bondig, pakkend verhaal. Indien er interviews worden afgenomen dan worden de vragen aan de hand van de verzamelde input silm geformuleerd. Bij het maken van het [script](https://www.philenflo.nl/blog/bedrijfsfilm-laten-maken-van-a-tot-z/) of de interviewvragen wordt al rekening gehouden met het beeld. Je vertelt je verhaal namelijk op twee manieren. Via beeld en via gesproken woord. Een goede samenhang tussen deze twee is van belang. Een draaiboek bevat daarom niet alleen het script of de interview vragen, maar ook een planning van welke beelden waar en met wie geschoten worden. Zodra de eerste versie van het draaiboek af is, kan jij feedback geven. Zo kom je samen tot een definitief draaiboek voor jouw corporate film.
+Met alle input gaat een ervaren scriptschrijver aan de slag om jouw wensen te vertalen in een bondig, pakkend verhaal. Indien er interviews worden afgenomen dan worden de vragen aan de hand van de verzamelde input slim geformuleerd. Bij het maken van het [script](https://www.philenflo.nl/blog/bedrijfsfilm-laten-maken-van-a-tot-z/) of de interviewvragen wordt al rekening gehouden met het beeld. Je vertelt je verhaal namelijk op twee manieren. Via beeld en via gesproken woord. Een goede samenhang tussen deze twee is van belang. Een draaiboek bevat daarom niet alleen het script of de interview vragen, maar ook een planning van welke beelden waar en met wie geschoten worden. Zodra de eerste versie van het draaiboek af is, kan jij feedback geven. Zo kom je samen tot een definitief draaiboek voor jouw corporate film.
 
 ## Voorbereiding draaidag (filmdag)
 

@@ -21,10 +21,10 @@ blocks:
       doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken
       namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
     cta:
-      url: /contact/
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: red
+      color: pink
     displaymedia: custom_video
     align: left
     align_text: text-left
@@ -132,4 +132,7 @@ seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design
+menu:
+  main:
+    weight: 1
 ---

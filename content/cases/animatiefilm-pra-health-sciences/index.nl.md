@@ -56,7 +56,7 @@ blocks:
       ### Ervaring in ***video-testimonials***
 
 
-      Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend video-testimonials gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de video’s zijn.
+      Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is echter niet voldoende om alle vraagstukken van een potentiële vrijwilliger te beantwoorden. Daarom zijn aanvullend video-testimonials gefilmd. In drie testimonials vertellen echte kandidaten in beeld over hun beweegredenen om deel te nemen aan een onderzoek. Daarnaast lichten zij toe hoe ze de tijd in het onderzoekscentrum hebben ervaren. ‘Een kijkje in de keuken’ waarbij de strikte richtlijnen en regels in het kader van veiligheid een belangrijk onderwerp van de [video’s](https://www.philenflo.nl/oplossingen/video-laten-maken/) zijn.
     displaymedia: youtube_video
     youtube:
       id: kK3X9kRxlJw

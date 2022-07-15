@@ -1,85 +1,97 @@
 ---
 title: Phil & Flo Creative Studio
 blocks:
-  - type: hero_block
-    title: "***Animatie, film en branding voor duurzame organisaties***."
-    image:
-      source: phil-flo-animatie.jpg
-      alt: Phil en Flo
+  - displaymedia: null
+    youtube:
+      id: ""
+    align: center
+    align_text: center
+    title: "***Animatie, video en branding***."
     content: ""
-    displaymedia: null
+    type: hero_block
     video:
       source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
       autoplay: false
       image:
         source: phil-flo-animatie.jpg
-    align: center
-    align_text: center
-  - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
-      image:
-        source: phil-flo-animatie.jpg
+    image:
+      source: phil-flo-animatie.jpg
+      alt: Phil en Flo
+  - displaymedia: youtube_video
+    youtube:
+      id: 7TOmvPxRGC8
     align: left
-    displaymedia: custom_video
+    align_text: text-justify
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang direct je offerte
+      type: button
+      color: pink
     content: >-
       ### Wij verbeelden de wereld van morgen
 
-      Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
-    cta:
-      url: /contact/
-      text: Neem direct contact op
-      type: button
-      color: green
+
+      Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek.
+    type: content_block
+    video:
+      autoplay: true
+      source_mp4: ""
+      image:
+        source: phil-flo-animatie.jpg
     image:
       source: phil-flo-animatie.jpg
-    align_text: text-left
   - type: content_block
     video:
       autoplay: true
     align: right
     content: >-
-      ## ***Impact creëren***, samen met Phil & Flo
+      ## ***Onze expertise***
 
 
-      Hoe maak je impact met jou organisatie bij de juiste doelgroep? Dat zijn de vragen die we met ons team beantwoorden. We zijn vanaf het begin betrokken als strategisch partner en branding expert. Naast de videocontent maken we grafische uitingen, logo designs en realiseren we de complete rebranding voor je organisatie.
+      **[\- 2D animatie laten maken](https://www.philenflo.nl/2d-animatie/)**
 
 
-      Wij zelf maken de impact met ons bedrijf, door onze expertise en kennis in te zetten voor de bedrijven die in onze ogen de wereld van morgen vertegenwoordigen.
+      **[\- 3D animatie laten maken](https://www.philenflo.nl/3-d-animatie-laten-maken/)**
+
+
+      **[\- Bedrijfsfilm laten maken](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)**
+
+
+      **[\- Employer Branding content](https://www.philenflo.nl/oplossingen/employer-branding/)**
+
+
+      **[\- Interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)**
     form: ""
     displaymedia: image
     image:
-      source: phil-flo-animatie.jpg
+      source: jde-behind-the-scenes.jpg
+  - type: logoblock
+    title: Onze klanten
+    logo_items:
+      - Alfen
+      - Algemeen Dagblad
+      - TNO
+      - Beter Bed
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - UMCG
   - type: selectedwork_block
     title: Cases
     items:
+      - sport spray 3d animatie
       - Save The Children - Bordje Bij
-      - alfen-Smart-Charging-Network-3D-animatie
-      - CSB Amsterdam interactieve tour
+      - premium-positioning-2d-animatiefilm
     more_items: true
   - type: content_block
     align: center
     content: >-
-      ## ***Dit is de wereld van Phil & Flo***
+      ## ***Waarom samenwerken met Phil & Flo?***
 
-
-      Stel je eens een wereld voor, vol schone lucht en helder water. \
-
-      Waar alle kinderen veilig naar [school](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) kunnen en waar elk mens toegang heeft tot de beste [zorg](https://www.philenflo.nl/branches/zorg-pharma/). \
-
-      \
-
-      **De wereld van morgen**. [Innovatieve Technologie](https://www.philenflo.nl/branches/innovatieve-tech/), [duurzame energie](https://www.philenflo.nl/branches/duurzame-energie/), [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/),[ zorg](https://www.philenflo.nl/branches/zorg-pharma/),[ goede doelen](https://www.philenflo.nl/branches/goede-doelen/) en [fair food](https://www.philenflo.nl/branches/fair-food/). Dat zijn in onze ogen de sectoren die het verschil gaan maken.\
-
-      \
-
-      Samen met jou zetten we nu de stappen die nodig zijn. Met creativiteit en het meest krachtige communicatiemiddel dat onze voorouders al gebruikten: **visualisatie**. In het verleden met grotschilderingen, nu met waanzinnige 3D animaties, Virtual Reality en interactieve video’s. Samen met jou, vormen wij het beste en leukste team, voor een goede transitie naar een prachtige toekomst.
-
-
-      Wij zijn Phil & Flo\
-
-      Wij verbeelden ***de wereld van morgen.***
+       We verbeelden de Wereld van Morgen. Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken. Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
+    cta:
+      type: button
+      text: Ontvang direct je offerte
+      url: /offerte-ontvangen/
+      color: pink
   - type: collection_block
     collection: blog
     number_of_items: 3

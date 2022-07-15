@@ -1,12 +1,13 @@
 ---
 title: De kracht van 360 graden video's
 slug: 360-graden-video
+weight: 6
 draft: false
 image:
   source: images/360-graden-video.jpg
 author: ""
 date: 2022-05-10T13:07:10.010Z
-color: yellow
+color: orange
 seo:
   title: "De kracht van 360 graden video's | Phil & Flo | Blog "
   description: "Wil jij 360 graden video's inzetten voor je bedrijf? Dan wil je

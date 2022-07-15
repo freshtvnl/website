@@ -35,7 +35,7 @@ blocks:
       ## ***Mogelijkheden*** voor een virtuele tour door mijn restaurant
 
 
-      Er zijn veel verschillende mogelijkheden voor virtuele restaurant tours. Phil & Flo heeft ervaring met [360 graden video’s](https://www.philenflo.nl/360-graden-video-laten-maken/) en foto’s, [VR (virtual reality)](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en ook interactieve tours. Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. Laat je alleen het restaurant zien, of ga je voor de gehele beleving inclusief ontvangst en mice-en-place? We gaan graag met je in gesprek om te kijken welke videovorm bij jullie restaurant, café, [hotel](https://www.philenflo.nl/virtuele-tour-hotel/) of brasserie past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
+      Er zijn veel verschillende mogelijkheden voor virtuele restaurant tours. Phil & Flo heeft ervaring met [360 graden video’s](https://www.philenflo.nl/360-graden-video-laten-maken/) en foto’s, [VR (virtual reality)](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en ook interactieve tours. Het is afhankelijk van de vraag of opdracht welke videovorm geschikt is. Laat je alleen het restaurant zien, of ga je voor de gehele beleving inclusief ontvangst en mice-en-place? We gaan graag met je in gesprek om te kijken welke videovorm bij jullie restaurant, café, hotel of brasserie past. Neem vrijblijvend contact met ons op voor de mogelijkheden.
     align: right
     displaymedia: image
     image:

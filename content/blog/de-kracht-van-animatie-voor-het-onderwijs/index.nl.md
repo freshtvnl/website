@@ -1,6 +1,7 @@
 ---
 title: De kracht van animatie voor het onderwijs
 slug: de-kracht-van-animatie-voor-het-onderwijs
+weight: 13
 draft: false
 image:
   source: images/onderwijs-animatie.jpg
@@ -40,8 +41,10 @@ Door goed gebruik van pauzes in een animatie, blijft de stof niet alleen beter h
 
 ## Onderwijstrends in animatie
 
-Als het gaat om het digitaliseren van ons onderwijs, dan is er zeker een rol weggelegd voor videocontent en in specifieke zin animatie. Door lesstof aan te vullen met deze (interactieve) content wordt het lespakket diverser, speelser en spannender, maar ondersteun je ook de docent. 
+Als het gaat om het digitaliseren van ons onderwijs, dan is er zeker een rol weggelegd voor [videocontent](https://www.philenflo.nl/oplossingen/video-laten-maken/) en in specifieke zin animatie. Door lesstof aan te vullen met deze (interactieve) content wordt het lespakket diverser, speelser en spannender, maar ondersteun je ook de docent. 
 
 De werkdruk voor een docent neemt af wanneer men gebruik kan maken van animaties in het lespakket. De animatie pakt de aandacht van de leerlingen, instrueert de leerlingen op een nieuwe manier, en legt een basis voor een klassikale bespreking. Dit maakt de lessen leuker voor zowel de docent als de leerlingen. En nee, dit lost niet het personeelstekort op in het onderwijs, maar wij geloven zeker dat het bij kan dragen aan betere arbeidsomstandigheden en daarmee het docentenvak een nieuw leven in kan blazen.
 
-Wil jij meer weten over de toepassing van animatie in het onderwijs? Plan nu een vrijblijvende 30 minuten sessie met onze onderwijs specialist.
+Wil jij meer weten over de toepassing van animatie in het onderwijs? Plan nu een vrijblijvende 30 minuten sessie met onze onderwijs specialist. 
+
+Lees hier meer over onze unieke interactieve [virtuele school rondleidingen](https://www.philenflo.nl/virtuele-school-rondleiding/).

@@ -92,5 +92,5 @@ seo:
     olie-industrie, lees ons statement. Zelf werken wij ook 100% Co2 neutraal.
 menu:
   main:
-    weight: 6
+    weight: 8
 ---

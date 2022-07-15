@@ -1,6 +1,7 @@
 ---
 title: Virtual reality inzetten voor een bedrijf
 slug: Virtual reality inzetten voor een bedrijfsvideo
+weight: 15
 draft: false
 image:
   source: images/vr-headset-n9f6yfe.jpg
@@ -15,13 +16,13 @@ Door nieuwe ontwikkelingen ontstaan nieuwe kansen. Virtual reality is zo'n innov
 
 Virtual reality is de overtreffende trap van video. In plaats van kijker word je hoofdrolspeler en zelf onderdeel van het verhaal. Niet meer consumeren maar vooral beleven.
 
-Als bedrijf kun je [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
+Als bedrijf kun je virtual reality op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
 ## Wat is virtual reality?
 
-Eind jaren tachtig maakte de wereld voor het eerst kennis met de term virtual reality. De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
+Eind jaren tachtig maakte de wereld voor het eerst kennis met de term [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/). De term werd destijds geïntroduceerd door Jaron Lenier, een internetpionier en oprichter van een bedrijf dat vroege VR-systemen verkocht. 
 
 Eerder al werd er geëxperimenteerd met virtual reality achtige technieken maar virtual reality zoals we dat nu kennen - met een headset - bestaat ongeveer 35 jaar. 
 
@@ -51,7 +52,7 @@ Hier zijn een paar voorbeelden van toepassingen van virtual reality die interess
 
 ### Virtuele tours
 
-Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. 
+Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem of haar meenemen door het kantoor en laten zien hoe het er bij jullie op kantoor aan toe gaat. Het kan ook interessant zijn om rondleidingen te geven in de fabriek en zo te laten zien hoe jullie productieproces in zijn werk gaat. Een mooie kennismaking. Ook leuk voor sollicitanten die alvast de sfeer in je bedrijf willen proeven. Lees hier meer over een [virtuele tour door een fabriek of brouwerij](https://www.philenflo.nl/virtuele-tour-fabrieken-brouwerijen/).
 
 [Virtuele tours](https://www.philenflo.nl/virtuele-tour/) en 360 graden video's worden ook veel gebruikt door makelaars en architecten. Denk dan aan de 360 tours in Funda en aan rondleidingen in een nog te bouwen huis of bedrijfspand.
 

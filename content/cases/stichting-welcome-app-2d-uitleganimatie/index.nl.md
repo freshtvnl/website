@@ -21,7 +21,11 @@ blocks:
       maakt*.' - Stichting Welcome App.
 
 
-      In de 2D animatie die we voor de Stichting Welcome App maakten, laten we het platform zien. Hierin kunnen nieuwkomers, locals, bedrijven en sociale initiatieven met elkaar in contact komen, vragen stellen en beantwoorden en relevantie sociale en werkgerelateerde evenementen en activiteiten vinden.
+      In de [2D animatie ](https://www.philenflo.nl/2d-animatie/)die we voor de Stichting Welcome App maakten, laten we het platform zien. Hierin kunnen nieuwkomers, locals, bedrijven en sociale initiatieven met elkaar in contact komen, vragen stellen en beantwoorden en relevantie sociale en werkgerelateerde evenementen en activiteiten vinden.
     align_text: left
     displaymedia: custom_video
+seo:
+  title: "2D Animatie voor Stichting Welcome App | Phil & Flo "
+  description: In samenwerking met Phil & Flo heeft de stichting Welcome App nu
+    een duidelijke 2D animatie. Ontdek het resultaat hier.
 ---

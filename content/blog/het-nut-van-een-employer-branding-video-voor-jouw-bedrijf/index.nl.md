@@ -1,6 +1,7 @@
 ---
 title: Het nut van een employer branding video voor jouw bedrijf
 slug: Het nut van een employer branding video voor jouw bedrijf
+weight: 4
 draft: false
 image:
   source: images/employer-branding-film-beter-bed.jpg
@@ -24,7 +25,7 @@ Een [employer branding video](https://www.philenflo.nl/oplossingen/employer-bran
 
 ## Hoe maak je een employer branding video?
 
-Zoals hierboven aangegeven wordt de video voor het grootste gedeelte ingevuld door je collega’s die iets vertellen over het bedrijf en de vacature. Het is verstandig om de interviewvragen van tevoren op te stellen, maar niet te delen met de collega’s die ze gaan beantwoorden. Dit zorgt ervoor dat de reacties spontaan en oprecht zijn. Het komt een stuk natuurlijker over als je werknemers zelf inhoud mogen geven aan de antwoorden op de vragen. Laat tijdens de video de verschillende collega’s zien die rond lopen, en aan het werk zijn binnen (en buiten) het bedrijf. Dit maakt het namelijk voor de sollicitatie een stuk makkelijker om vast te stellen of de bedrijfssfeer en de collega’s bij de sollicitant passen. Verder moet je er rekening mee houden dat de video niet te lang mag duren, streef ernaar om een video te maken van maximaal een minuut. Je zult versteld staan hoeveel je in een minuut kan laten zien en vertellen.
+Zoals hierboven aangegeven wordt de [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) voor het grootste gedeelte ingevuld door je collega’s die iets vertellen over het bedrijf en de vacature. Het is verstandig om de interviewvragen van tevoren op te stellen, maar niet te delen met de collega’s die ze gaan beantwoorden. Dit zorgt ervoor dat de reacties spontaan en oprecht zijn. Het komt een stuk natuurlijker over als je werknemers zelf inhoud mogen geven aan de antwoorden op de vragen. Laat tijdens de video de verschillende collega’s zien die rond lopen, en aan het werk zijn binnen (en buiten) het bedrijf. Dit maakt het namelijk voor de sollicitatie een stuk makkelijker om vast te stellen of de bedrijfssfeer en de collega’s bij de sollicitant passen. Verder moet je er rekening mee houden dat de video niet te lang mag duren, streef ernaar om een video te maken van maximaal een minuut. Je zult versteld staan hoeveel je in een minuut kan laten zien en vertellen.
 
 ## Waarom kiezen voor het gebruik van een employer branding video?
 

@@ -14,12 +14,15 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-bijstandsuitkering.mp4
     title: "***Een complex onderwerp uitleggen met 2D animatie***"
-    content: Gemeente Amstelveen kwam bij ons met de wens om informatie over de
-      participatiewet meer toegankelijk te maken. Nadat inwoners de participatie
-      uitkering aanvragen, moeten ze een korte, prikkelende samenvatting
-      ontvangen met hierin alle rechten en plichten. Het is belangrijk dat deze
-      samenvatting voor iedereen te begrijpen is. Lees in deze case hoe we dit
-      aan hebben gepakt!
+    content: Wat is een bijstandsuitkering? En wanneer en hoe vraag je deze aan?
+      Alle rechten en plichten hierover zijn complex en lastig om allemaal te
+      begrijpen. Daarom kwam Gemeente Amstelveen bij ons met de vraag om
+      informatie over de Participatiewet meer toegankelijk te maken. Nadat
+      inwoners de participatie uitkering aanvragen, moeten ze een korte,
+      prikkelende samenvatting ontvangen. Hierin staan alle stappen die ze
+      moeten doorlopen en waar ze om hulp kunnen vragen. Het is belangrijk dat
+      deze samenvatting voor iedereen te begrijpen is. Lees in deze case hoe we
+      dit aan hebben gepakt!
     align_text: left
     displaymedia: custom_video
   - type: content_block
@@ -32,11 +35,11 @@ blocks:
       ## De perfecte ***communicatiemix***
 
 
-      Informatie over de rechten en plichten van de participatiewet kan ingewikkeld zijn. Om deze informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende 2D animatie. \
+      Er komt veel op je af als je een bijstandsuitkering aanvraagt. Maar het is wel noodzakelijk om alles goed te regelen. Fijn dus als je alle informatie over de rechten en plichten gemakkelijk op kunt zoeken. Om de informatie toegankelijk uit te leggen, besloten we samen met de Gemeente Amstelveen om dit te verpakken in een folder met een bijpassende [2D animatie](https://www.philenflo.nl/2d-animatie/). \
 
       \
 
-      Het was belangrijk om duidelijke, makkelijke taal te gebruiken. En om de toegankelijkheid nog verder te vergroten, is de folder vertaald gemaakt in het Nederlands, Arabisch, Turks, Farsi, Tigrinya en Engels. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen.
+      Belangrijk was om duidelijke, makkelijke taal te gebruiken. De tekst wordt ondersteund met verbeeldende, grafische elementen in de stijl van de Gemeente Amstelveen. Om de toegankelijkheid verder te vergroten, is de folder gemaakt in het Nederlands en vertaald naar het Arabisch, Turks, Farsi, Tigrinya en Engels.
     displaymedia: image
     image:
       source: images/gemeente-amstelveen.jpg
@@ -50,7 +53,11 @@ blocks:
       ## Waarom een ***2D animatie?***
 
 
-      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie is in deze case erg toepasselijk. De bewegende illustraties zonder diepte, maken de informatie levendiger en daardoor toegankelijker. En de combinatie met voice-over, muziek en geluid zorgt ervoor dat de doelgroep de boodschap beter onthoudt.
+      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie biedt de mogelijkheid om informatie laagdrempelig uitleggen. Het werkt beter dan een platte tekst of stilstaande illustratie. \
+
+      \
+
+      De bewegende illustraties zonder diepte, maken de informatie levendiger en daardoor toegankelijker. En de combinatie met [voice-over](https://www.philenflo.nl/kennisbank/wat-is-een-voice-over/), muziek en geluid zorgt ervoor dat de doelgroep de boodschap beter onthoudt.
     displaymedia: custom_video
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
@@ -62,8 +69,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Videoanimatie
-    door Phil & Flo
-  description: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | 2D
-    animatie laten maken voor gemeentes door Phil & Flo
+  title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Phil & Flo
+  description: "Uitkering uitgelegd in 2D animatie voor de gemeente Amstelveen |
+    Bekijk het hierin het portfolio van Phil & Flo "
 ---

@@ -1,10 +1,10 @@
 ---
-title: 3D Animatie laten maken
+title: 3D Animatie
 slug: 3-d-animatie-laten-maken
 draft: false
 blocks:
   - type: hero_block
-    title: "***3D animatie laten maken***"
+    title: "***3D Animatie laten maken***"
     content: ""
     displaymedia: null
     video:
@@ -23,9 +23,9 @@ blocks:
     align: left
     displaymedia: custom_video
     cta:
-      url: /contact/
-      color: yellow
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      color: pink
+      text: Ontvang je offerte
       type: button
   - type: content_block
     video:
@@ -185,4 +185,7 @@ seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
     8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op voor meer informatie
+menu:
+  main:
+    weight: 2
 ---

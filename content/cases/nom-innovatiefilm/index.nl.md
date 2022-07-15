@@ -85,7 +85,7 @@ blocks:
       ## ***Groeien begint hier!***
 
 
-      In feite is de NOM de spin in het web die ondernemers en bedrijven met elkaar in contact brengt. Dit vraagt om veelzijdige collega’s die zowel vakkennis als netwerkskills hebben. Om ook op dit vlak een nieuwe impuls te geven, maakten we voor de NOM vier korte employer branding films.
+      In feite is de NOM de spin in het web die ondernemers en bedrijven met elkaar in contact brengt. Dit vraagt om veelzijdige collega’s die zowel vakkennis als netwerkskills hebben. Om ook op dit vlak een nieuwe impuls te geven, maakten we voor de NOM vier korte [employer branding films](https://www.philenflo.nl/oplossingen/employer-branding/).
     displaymedia: youtube_video
     youtube:
       id: AFDEYnTpMxU

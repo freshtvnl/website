@@ -1,6 +1,7 @@
 ---
 title: Wat moet er in een bedrijfsfilm?
 slug: bedrijfsfilm-maken
+weight: 8
 draft: false
 image:
   source: images/payconiq2.jpg
@@ -28,7 +29,7 @@ Want het is verleidelijk om alles over het bedrijf én de geschiedenis én de pr
 
 ## Kort en to the point
 
-Kom snel to the point. In de eerste paar seconden beslist iemand (onbewust) of de video wordt uitgekeken of niet. Dus maak de eerste seconden boeiend zijn of probeer de aandacht trekken, daarna kun je wat meer de tijd nemen om iets uit te leggen.
+Kom snel to the point. In de eerste paar seconden beslist iemand (onbewust) of de video wordt uitgekeken of niet. Dus maak de eerste seconden boeiend of probeer de aandacht trekken, daarna kun je wat meer de tijd nemen om iets uit te leggen.
 
 Ons wordt vaak gevraagd naar de ideale lengte voor een video. Die bestaat niet, maar online is korter vaak beter. Op social media is nog korter vaak beter. Om een richtlijn te geven: ergens tussen de 30 seconden tot 3 minuten is ideaal. Het is ook handig om meerdere versies van verschillende lengtes achter de hand te hebben om te gebruiken op verschillende kanalen.
 
@@ -40,7 +41,7 @@ Enkele ingrediënten om hiermee te beginnen zijn karakters, een plot of een bepa
 
 ## Laat mensen iets voelen
 
-Emoties zijn de één belangrijkste drijfveren achter menselijk gedrag. Ook al denken mensen dat ze rationele beslissingen nemen, in de meeste gevallen zijn onze acties meestal onbewust en gebaseerd op gevoel. Eerst voelen dan doen. 
+Emotie is één van de belangrijkste drijfveren achter menselijk gedrag. Ook al denken mensen dat ze rationele beslissingen nemen, in de meeste gevallen zijn onze acties meestal onbewust en gebaseerd op gevoel. Eerst voelen dan doen. 
 
 En dat doen dat kan van alles zijn: iets kopen, ons e-mail adres invullen, content delen. En het werkt met alle emoties. Wanneer onze gevoelens van blijdschap worden getriggerd willen we dit delen met anderen bijvoorbeeld. Of angst, denk aan FOMO (Fear Of Missing Out). Of vertrouwen. Wanneer we het gevoel hebben dat we iemand of een bedrijf vertrouwen zijn we eerder geneigd om dit bedrijf in te schakelen of de boodschap te geloven.
 

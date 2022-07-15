@@ -1,5 +1,5 @@
 ---
-title: Oplossingen
+title: Producten
 slug: oplossingen
 id: qos3pjrf_
 blocks:
@@ -14,5 +14,5 @@ seo:
     8,9 klantscore "
 menu:
   main:
-    weight: 2
+    weight: 4
 ---

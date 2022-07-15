@@ -80,7 +80,7 @@ seo:
     marketing"
 menu:
   main:
-    weight: 7
+    weight: ""
   footer:
     weight: 12
 ---

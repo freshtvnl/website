@@ -1,5 +1,4 @@
 ---
-title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 draft: false
 color: yellow
 blocks:
@@ -240,7 +239,9 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
+title: 2D of 3D animatie? Wat past bij jouw bedrijf?
 slug: animatie-passend-bedrijf
+weight: 10
 image:
   source: images/3d-animatie-laten-maken-blog.jpg
   alt: 3D render van huis op electriciteitsnet Alfen

@@ -24,7 +24,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
     cta:
-      url: /contactr/
+      url: /contact/
       text: Neem direct contact op
       type: button
     displaymedia: custom_video
@@ -76,7 +76,7 @@ blocks:
       ## ***Stijlen*** uitleganimatie
 
 
-      Een uitleganimatie kan in vele verschillende stijlen, zowel 2D als 3D. Belangrijk is dat de stijl past bij het doel van de video. Zo gebruik  je voor de uitleg van een [softwareproduct](https://www.philenflo.nl/portfolio/documizers/) een totaal andere stijl, dan een uitleganimatie voor een [laadpaal](https://www.philenflo.nl/portfolio/alfen-smart-charging-network-3d-animatie/). En voor het [aanmeldproces](https://www.philenflo.nl/portfolio/animatiefilm-pra-health-sciences/) voor een medisch onderzoek weer een andere stijl dan een [vertical farming](https://www.philenflo.nl/portfolio/kg-systems-3d-animatie-vertical-farming/) systeem. Om de juiste stijl te bepalen doe je onderzoek naar je doelgroep. Hoe ziet deze groep eruit? Waar ligt hun (informatie)behoefte en wat is het doel van de video (leads, autoriteit, uitleg, promotie). Ons team helpt je met het vinden van de juiste stijl voor jouw animaties.
+      Een uitleganimatie kan in vele verschillende stijlen, zowel [2D](https://www.philenflo.nl/2d-animatie/) als [3D](https://www.philenflo.nl/3-d-animatie-laten-maken/). Belangrijk is dat de stijl past bij het doel van de video. Zo gebruik  je voor de uitleg van een [softwareproduct](https://www.philenflo.nl/portfolio/documizers/) een totaal andere stijl, dan een uitleganimatie voor een [laadpaal](https://www.philenflo.nl/portfolio/alfen-smart-charging-network-3d-animatie/). En voor het aanmeldproces voor een medisch onderzoek weer een andere stijl dan een [vertical farming](https://www.philenflo.nl/portfolio/kg-systems-3d-animatie-vertical-farming/) systeem. Om de juiste stijl te bepalen doe je onderzoek naar je doelgroep. Hoe ziet deze groep eruit? Waar ligt hun (informatie)behoefte en wat is het doel van de video (leads, autoriteit, uitleg, promotie). Ons team helpt je met het vinden van de juiste stijl voor jouw [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
     align: left
     displaymedia: youtube_video
     youtube:
@@ -130,7 +130,7 @@ blocks:
 
       1. **Creatieve Sessie**
 
-         In deze gezamenlijke sessie bespreken we het fundament van de animatie. Hierin wordt alles doorgesproken en wordt de fundering voor de (voice-over)scripts gelegd.
+         In deze gezamenlijke sessie bespreken we het fundament van de animatie. Hierin wordt alles doorgesproken en wordt de fundering voor de (voice-over)[scripts](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) gelegd.
       2. **Scripts en stijlen concretiseren**
 
          Om écht doeltreffend te zijn, stemmen we alles nauw met onze opdrachtgevers af. Van de stijl tot aan de gekozen stemacteur. In ons werkproces heb je als opdrachtgever altijd één vast contactpersoon die alles weet van jouw project. Wanneer alles definitief is, beginnen we met animeren.

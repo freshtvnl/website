@@ -1,7 +1,7 @@
 ---
-title: TBS-SVA
+title: Jacobs Douwe Egberts Professional
 image:
-  source: images/tbs-sva-groep.png
+  source: images/jde-professional2.png
 seo:
   noindex: true
 ---

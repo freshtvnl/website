@@ -1,5 +1,5 @@
 ---
-title: Bedrijfsfilm laten maken
+title: Bedrijfsfilm
 slug: bedrijfsfilm-laten-maken
 draft: false
 blocks:
@@ -23,10 +23,25 @@ blocks:
     align_text: text-left
     displaymedia: custom_video
     cta:
-      url: /contact/
-      text: Neem direct contact op
-      color: yellow
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      color: pink
       type: button
+  - type: logoblock
+    logo_items:
+      - JDE
+      - ICON
+      - Alfen
+      - Hanze Hogeschool Groningen
+      - HZPC
+      - Maandag
+    title: Bewezen trackrecord
+  - type: selectedwork_block
+    items:
+      - beter-bed-employer-branding-film
+      - Infomercial hzpc sunita
+      - Elsun Zonnepanelen
+    title: Succesverhalen
   - type: content_block
     align: right
     content: >-
@@ -66,6 +81,8 @@ blocks:
     image:
       source: images/peter-opnames-douwe-egberts.jpg
     align_text: text-left
+    video:
+      autoplay: false
   - type: content_block
     align: left
     content: >-
@@ -228,7 +245,11 @@ blocks:
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
     title: Faq
 seo:
-  title: Bedrijfsfilm laten maken - Succesvol & duurzaam | Phil & Flo
+  title: Bedrijfsfilm laten maken - hoogwaardig, duurzaam en creatief | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
     en snel gerealiseerd
+  image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+menu:
+  main:
+    weight: 3
 ---

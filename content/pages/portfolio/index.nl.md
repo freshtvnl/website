@@ -20,5 +20,5 @@ seo:
     kwaliteit.  300+ organisaties kiezen voor onze video- en animatiefilms. "
 menu:
   main:
-    weight: 5
+    weight: 6
 ---

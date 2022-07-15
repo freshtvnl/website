@@ -68,7 +68,7 @@ blocks:
     image:
       source: images/phil-en-flo-icoon-gesprek-blauw.jpg
     cta:
-      url: /contact
+      url: /contact/
       text: Contact opnemen
       type: button
       color: blue
