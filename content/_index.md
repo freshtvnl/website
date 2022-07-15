@@ -21,7 +21,7 @@ blocks:
     youtube:
       id: 7TOmvPxRGC8
     align: left
-    align_text: text-justify
+    align_text: text-left
     cta:
       url: /offerte-ontvangen/
       text: Ontvang direct je offerte
