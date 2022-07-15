@@ -21,7 +21,7 @@ blocks:
     youtube:
       id: 7TOmvPxRGC8
     align: left
-    align_text: text-left
+    align_text: text-justify
     cta:
       url: /offerte-ontvangen/
       text: Ontvang direct je offerte
@@ -30,7 +30,8 @@ blocks:
     content: >-
       ### Wij verbeelden de wereld van morgen
 
-      Wij produceren creatieve en strategische content voor jou. Animatiefilms, videofilms, virtual reality, augmented reality en interactieve film helpen jou om impact te maken.
+
+      Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek. We verbeelden de Wereld van Morgen. Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken.
     type: content_block
     video:
       autoplay: true
