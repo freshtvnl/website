@@ -1834,6 +1834,10 @@ video {
   text-align: right;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 .font-sans {
   font-family: Bw Modelica SS01, sans-serif;
 }
@@ -1950,6 +1954,11 @@ video {
   color: rgba(209, 250, 229, var(--tw-text-opacity));
 }
 
+.text-purple-500 {
+  --tw-text-opacity: 1;
+  color: rgba(139, 92, 246, var(--tw-text-opacity));
+}
+
 .text-green-500 {
   --tw-text-opacity: 1;
   color: rgba(0, 127, 102, var(--tw-text-opacity));
@@ -1958,6 +1967,11 @@ video {
 .text-yellow-500 {
   --tw-text-opacity: 1;
   color: rgba(255, 194, 0, var(--tw-text-opacity));
+}
+
+.text-pink-500 {
+  --tw-text-opacity: 1;
+  color: rgba(236, 0, 140, var(--tw-text-opacity));
 }
 
 .opacity-100 {
@@ -3534,16 +3548,12 @@ span.flatpickr-weekday{
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .lg\:grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+  .lg\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
   .lg\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .lg\:grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
   .lg\:gap-6 {
