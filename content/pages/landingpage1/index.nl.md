@@ -55,6 +55,16 @@ blocks:
       url: /contact/
     displaymedia: custom_video
     form: ""
+  - type: logoblock
+    title: Bewezen trackrecord
+    content: ""
+    logo_items:
+      - AdiTech
+      - Alfen
+      - BinBin
+      - KG Systems
+      - Energy Towers
+      - U-Sport
   - type: content_block
     align: left
     content: >-
@@ -110,6 +120,12 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       autoplay: true
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - aditech-3d-promofilm
+      - KG Systems - 3D Animatie Vertical Farming
+      - Beckys - 3D animatie
   - type: content_block
     align: left
     content: >-
@@ -181,6 +197,18 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: selectedreviews_block
+    items:
+      - DMT
+      - ""
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - hoe-gaan-jullie-te-werk-met-een-animatie
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
+      - wat-is-de-beste-lengte-voor-een-animatie
+      - welke-stijl-past-bij-mijn-animatie
+      - in-welke-kwaliteit-ontvang-ik-mijn-animatie
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
   description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
