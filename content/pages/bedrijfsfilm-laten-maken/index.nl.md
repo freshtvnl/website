@@ -4,7 +4,7 @@ slug: bedrijfsfilm-laten-maken
 draft: false
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
+    title: "***Bedrijfsfilm*** laten maken"
     content: ""
     displaymedia: null
     video:
