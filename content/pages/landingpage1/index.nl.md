@@ -167,8 +167,9 @@ blocks:
       source: images/peter-suzan-kopie.jpg
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
     video:
       autoplay: false
   - type: content_block
@@ -194,13 +195,18 @@ blocks:
     form: ""
     align: left
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: contact_block
     contacts:
       - suzan-abbas
   - type: selectedreviews_block
     items:
       - DMT
-      - ""
+      - boknet-review
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
