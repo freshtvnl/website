@@ -4,7 +4,7 @@ slug: CSB Amsterdam interactieve tour
 weight: 1
 draft: false
 image:
-  source: images/csb-muziekles.jpg
+  source: images/cbs2.png
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
