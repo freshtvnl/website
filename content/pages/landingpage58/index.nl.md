@@ -80,7 +80,7 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: offerte ontvangen
+      text: Ontvang je offerte
       type: button
       color: pink
     align_text: text-left
@@ -107,9 +107,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
     cta:
-      url: ""
-      text: ""
-      type: null
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: selectedwork_block
     title: Succesveralen
     items:
@@ -129,8 +130,8 @@ blocks:
       Het kostenplaatje van een 2D animatie is afhankelijk van het totale aantal uren dat in het maken van de animatie zit. De stijl en de lengte is weer de belangrijkste peiler voor de totale animatie. Hoe langer de animatie, hoe meer illustraties er worden vormgegeven en hoe meer illustraties in beweging worden gezet. Neem contact met ons op voor een all-in offerte, wij helpen je graag verder!
     align: center
     cta:
-      url: /contact/
-      text: Informatie ontvangen
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       color: pink
       type: button
   - type: contact_block
