@@ -27,21 +27,6 @@ blocks:
       text: Ontvang je offerte
       color: pink
       type: button
-  - type: logoblock
-    logo_items:
-      - JDE
-      - ICON
-      - Alfen
-      - Hanze Hogeschool Groningen
-      - HZPC
-      - Maandag
-    title: Bewezen trackrecord
-  - type: selectedwork_block
-    items:
-      - beter-bed-employer-branding-film
-      - Infomercial hzpc sunita
-      - Elsun Zonnepanelen
-    title: Succesverhalen
   - type: content_block
     align: right
     content: >-
@@ -70,6 +55,15 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
     align_text: text-left
+  - type: logoblock
+    logo_items:
+      - JDE
+      - ICON
+      - Alfen
+      - Hanze Hogeschool Groningen
+      - HZPC
+      - Maandag
+    title: Bewezen trackrecord
   - type: content_block
     align: right
     content: >-
@@ -149,6 +143,12 @@ blocks:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
     video:
       autoplay: false
+  - type: selectedwork_block
+    items:
+      - beter-bed-employer-branding-film
+      - Infomercial hzpc sunita
+      - Elsun Zonnepanelen
+    title: Succesverhalen
   - type: content_block
     video:
       autoplay: true
@@ -177,22 +177,38 @@ blocks:
       Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het begint met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. 
 
 
-      De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en interviewvragen opgenomen. Als het zover is dan staan de regisseur, cameraman en assistent klaar om opnames te maken voor de bedrijfsfilm. Indien het om een groot project gaat, is er tevens een lichtspecialist aanwezig. 
-
-
-      Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons [portfolio](https://www.philenflo.nl/portfolio/) maar eens voor voorbeelden van bedrijfsfilms.
+      De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en interviewvragen opgenomen.
     align: left
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
-      text: Vraag een offerte aan
+      text: Ontvang je offerte
+      type: button
+      color: pink
     displaymedia: image
   - type: content_block
     video:
       autoplay: true
+    content: >-
+      ## Beelden voor de ***bedrijfsfilm*** verzamelen
+
+
+      Als het zover is dan staan de regisseur, cameraman en assistent klaar om opnames te maken voor de bedrijfsfilm. Indien het om een groot project gaat, is er tevens een lichtspecialist aanwezig. 
+
+
+      Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons portfolio maar eens voor voorbeelden van bedrijfsfilms.
     align: right
+    cta:
+      text: Bekijk ons portfolio
+      url: /portfolio/
+      type: button
+      color: green
+  - type: content_block
+    video:
+      autoplay: true
+    align: left
     content: >-
       ## Wat kost een bedrijfsfilm?
 
@@ -213,7 +229,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: null
     content: >-
       ## Hoe maak je een goede ***bedrijfsfilm***? 
@@ -234,16 +250,15 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
       - in-welke-kwaliteit-ontvang-ik-de-bedrijfsfilm
       - wat-moeten-wij-aanleveren-voor-een-bedrijfsfilm
-      - hoe-maken-jullie-bedrijfsfilms
-      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
       - wat-is-de-productietijd-van-een-bedrijfsvideo
-      - hebben-jullie-voorbeelden-van-bedrijfsfilms
       - met-hoeveel-mensen-komen-jullie-filmen
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
-      - is-het-ook-mogelijk-om-te-filmen-met-een-drone
-      - welke-voice-over-wordt-ingezet-bij-een-bedrijfsfilm
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
-    title: Faq
+    title: Veelgestelde vragen
+  - type: selectedreviews_block
+    items:
+      - park lyceum review
+      - Save The Children commercial
+      - adresults-video-review
 seo:
   title: Bedrijfsfilm laten maken - hoogwaardig, duurzaam en creatief | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
