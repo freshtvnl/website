@@ -59,6 +59,14 @@ blocks:
       autoplay: true
     youtube:
       id: ""
+  - type: logoblock
+    title: ""
+    logo_items:
+      - Gemeente Amstelveen
+      - Hanzehogeschool Groningen
+      - ICON
+      - OIO Systems
+      - Premium Positioning
   - type: content_block
     align: right
     content: >-
@@ -128,6 +136,13 @@ blocks:
     more_items: true
     contacts:
       - sophie
+  - type: selectedfaqs_block
+    items:
+      - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
+      - welke-stijl-past-bij-mijn-animatie
+      - wat-is-de-beste-lengte-voor-een-animatie
+      - in-welke-kwaliteit-ontvang-ik-mijn-animatie
 seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
