@@ -205,6 +205,9 @@ blocks:
       url: /portfolio/
       type: button
       color: green
+    displaymedia: image
+    image:
+      source: images/jde2.jpg
   - type: content_block
     video:
       autoplay: true
@@ -245,6 +248,11 @@ blocks:
   - type: contact_block
     contacts:
       - peter-de-graaf
+  - type: selectedreviews_block
+    items:
+      - park lyceum review
+      - Save The Children commercial
+      - adresults-video-review
   - type: selectedfaqs_block
     items:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
@@ -254,11 +262,6 @@ blocks:
       - met-hoeveel-mensen-komen-jullie-filmen
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
     title: Veelgestelde vragen
-  - type: selectedreviews_block
-    items:
-      - park lyceum review
-      - Save The Children commercial
-      - adresults-video-review
 seo:
   title: Bedrijfsfilm laten maken - hoogwaardig, duurzaam en creatief | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
