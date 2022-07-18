@@ -111,12 +111,12 @@ blocks:
       text: ""
       type: null
   - type: selectedwork_block
-    title: Selected work
+    title: Succesveralen
     items:
       - Documizers
       - Hanze Hogeschool - 2D Animaties
       - Animatiefilm ICON geneesmiddelenonderzoek
-    more_items: true
+    more_items: false
     contacts:
       - sophie
   - type: content_block
