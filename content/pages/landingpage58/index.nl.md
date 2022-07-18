@@ -113,9 +113,9 @@ blocks:
   - type: selectedwork_block
     title: Succesveralen
     items:
-      - Documizers
       - Hanze Hogeschool - 2D Animaties
       - Animatiefilm ICON geneesmiddelenonderzoek
+      - OIO systems
     more_items: false
     contacts:
       - sophie
