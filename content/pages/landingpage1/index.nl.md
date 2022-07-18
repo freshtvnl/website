@@ -4,7 +4,7 @@ slug: 3-d-animatie-laten-maken
 draft: false
 blocks:
   - type: hero_block
-    title: "***3D Animatie laten maken***"
+    title: "***3D Animatie*** laten maken"
     content: ""
     displaymedia: null
     video:
