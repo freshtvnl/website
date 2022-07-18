@@ -137,7 +137,7 @@ blocks:
     contacts:
       - inge
   - type: selectedreviews_block
-    title: Wat klanten zeggen
+    title: ""
     items:
       - netwerkz-review
       - premium-positioning-review
@@ -149,6 +149,7 @@ blocks:
       - welke-stijl-past-bij-mijn-animatie
       - wat-is-de-beste-lengte-voor-een-animatie
       - in-welke-kwaliteit-ontvang-ik-mijn-animatie
+    title: Veelgestelde vragen
 seo:
   title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
