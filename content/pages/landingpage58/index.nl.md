@@ -110,6 +110,15 @@ blocks:
       url: ""
       text: ""
       type: null
+  - type: selectedwork_block
+    title: Selected work
+    items:
+      - Documizers
+      - Hanze Hogeschool - 2D Animaties
+      - Animatiefilm ICON geneesmiddelenonderzoek
+    more_items: true
+    contacts:
+      - sophie
   - type: content_block
     video:
       autoplay: true
@@ -127,15 +136,6 @@ blocks:
   - type: contact_block
     contacts:
       - inge
-  - type: selectedwork_block
-    title: Selected work
-    items:
-      - Documizers
-      - Hanze Hogeschool - 2D Animaties
-      - Animatiefilm ICON geneesmiddelenonderzoek
-    more_items: true
-    contacts:
-      - sophie
   - type: selectedfaqs_block
     items:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
