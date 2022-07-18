@@ -37,7 +37,7 @@ blocks:
 
       3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
     displaymedia: custom_video
-    align: left
+    align: right
   - type: content_block
     video:
       autoplay: true
@@ -47,7 +47,7 @@ blocks:
 
 
       Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier over te brengen. De kansen die dit biedt voor bedrijven en organisaties zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en in beweging zetten. Dit biedt mogelijkheden op het gebied van productuitleg, productpromotie, en -marketing. Met een animatiefilm weet je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe technieken en producten inzichtelijk maakt.
-    align: right
+    align: left
     cta:
       type: button
       color: pink
@@ -66,7 +66,7 @@ blocks:
       - Energy Towers
       - U-Sport
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***3D product animatiefilm***
 
@@ -79,7 +79,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***3D animaties***
 
@@ -92,7 +92,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### Complexe ***product 3D animaties***
 
@@ -108,7 +108,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### ***3D design filosofie***
 
@@ -127,7 +127,7 @@ blocks:
       - KG Systems - 3D Animatie Vertical Farming
       - Beckys - 3D animatie
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### Vergroot je kansen met ***3D animaties***
 
@@ -143,7 +143,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: right
+    align: left
     content: >-
       ### 3D animatie ***video SEO***
 
@@ -156,7 +156,7 @@ blocks:
     image:
       source: images/20220329_113017_def.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ### ***3D animatie laten maken?***
 
@@ -181,7 +181,7 @@ blocks:
 
 
       Een animatieproject begint bij ons bij het eerste gesprek. Hierin denken we met je mee wat het doel van de animatie moet zijn. Dit is misschien wel het belangrijkste onderdeel van een samenwerking. Waarom? Omdat de stijl, toon, lengte en voice-over hierop moeten aansluiten. Zo heeft een 3D instructieanimatie een totaal andere insteek dan een geanimeerde promotie animatie. Laat ons met je meedenken, en laat weten wat jouw doelen zijn!
-    align: right
+    align: left
     displaymedia: custom_video
   - type: content_block
     video:
@@ -193,7 +193,7 @@ blocks:
 
       De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
     form: ""
-    align: left
+    align: right
     displaymedia: custom_video
     cta:
       url: /contact/
