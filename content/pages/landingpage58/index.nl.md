@@ -136,6 +136,12 @@ blocks:
   - type: contact_block
     contacts:
       - inge
+  - type: selectedreviews_block
+    title: Wat klanten zeggen
+    items:
+      - netwerkz-review
+      - premium-positioning-review
+      - pra-health-sciences-review
   - type: selectedfaqs_block
     items:
       - is-het-mogelijk-een-animatie-te-maken-in-meerdere-talen
