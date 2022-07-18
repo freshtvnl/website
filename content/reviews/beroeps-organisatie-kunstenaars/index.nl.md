@@ -1,5 +1,6 @@
 ---
 title: Beroeps Organisatie Kunstenaars
+slug: boknet-review
 draft: false
 quote:
   stars: 5
