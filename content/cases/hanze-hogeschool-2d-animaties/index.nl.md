@@ -3,7 +3,7 @@ title: Hanze Hogeschool - 2D Animaties
 slug: Hanze Hogeschool - 2D Animaties
 draft: false
 image:
-  source: images/hanzehogeschool_video_animatie_foto_1.jpg
+  source: images/vlcsnap-2022-07-18-15h52m17s341.png
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
