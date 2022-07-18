@@ -135,13 +135,18 @@ blocks:
       Een 3D animatievideo is dus een goede manier om je producten te verkopen of een bepaald onderwerp bij je doelgroep duidelijk te maken. Tekeningen zien er levendiger uit in een 3D-animatie en het maakt je boodschap aantrekkelijker en toegankelijker.
 
 
-      Bekijk eens [ons portfolio](https://www.philenflo.nl/portfolio/) voor meer animatie voorbeelden! Of lees hier meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/employer-branding/).
+      Lees meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/employer-branding/), of bekijk meer animatie voorbeelden.
     displaymedia: custom_video
     image:
       source: images/inge-bank.jpg
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /portfolio/
+      text: Bekijk ons portfolio
+      type: button
+      color: green
   - type: content_block
     align: left
     content: >-
