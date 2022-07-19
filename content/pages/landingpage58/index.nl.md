@@ -31,7 +31,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Wat is 2D animatie?
+      ## Wat is ***2D animatie***?
 
 
       2D animatie is een beeldtechniek van bewegende illustraties zonder diepte. Een 2D animatie kun je gebruiken om informatie levendiger en duidelijker te presenteren. Dit kan in allerlei kleuren en vormen. Het is effectief om processen uit te leggen, of diensten te promoten. Je spreekt laagdrempelig mensen aan en kunt er beter iets mee uitleggen dan met platte tekst. Het werkt beter dan een stilstaande illustratie, door de toevoeging van bewegende elementen, voice-over en muziek en geluid. Deze combinatie zorgt dat de kijker de boodschap goed onthoudt. Daarnaast zorgt het aanbieden van 2D animaties op je website voor betere online vindbaarheid, dat geldt trouwens voor videocontent in het algemeen. Als je laagdrempelig een product wilt uitleggen of promoten kies je voor 2D animatie.
@@ -49,7 +49,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## 2D animatie voor sfeer en stijl
+      ## 2D animatie voor ***sfeer en stijl***
 
 
       Visuele elementen zorgen altijd voor een duidelijker geheel. Daarnaast verlevendigen ze een presentatie, en geven deze een luchtig en aantrekkelijk geheel. Kleur, speelse en duidelijke vormen en een prettig achtergrondmuziekje zijn veel fijner om naar te kijken dan alleen saaie tekst. Als je een huisstijl hebt, kunnen de 2D-animatiespecialisten van Phil & Flo daar prima mee uit de voeten. Zo zorg je voor een consistente visuele stijl die doorwerkt in deze vrolijke vorm van videomarketing.
@@ -87,10 +87,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## 2D animatie laten maken bij Phil & Flo
+      ## ***2D animatie laten maken*** bij Phil & Flo
 
 
-      De specialisten van Phil & Flo adviseren je graag over welke vorm van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) geschikt is voor jou. Wij zijn thuis in allerlei videoproducties zoals [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), 3D- en 2D-animatie. We hebben getalenteerde animators die voor jou een aansprekend filmpje kunnen maken waarin je in stijlvolle 2D-animatie je boodschap kunt overbrengen.
+      De specialisten van Phil & Flo adviseren je graag over welke vorm van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) geschikt is voor jou. Bijvoorbeeld een [explainer animatie](https://www.philenflo.nl/explainer-animatie/), [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/), [educatieve animatie](https://www.philenflo.nl/educatieve-animatiefilm-maken/) of [bedrijfsanimatie](https://www.philenflo.nl/bedrijfsanimatie/). Wij zijn thuis in allerlei videoproducties zoals [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), 3D- en 2D-animatie. We hebben getalenteerde animators die voor jou een aansprekend filmpje kunnen maken waarin je in stijlvolle 2D-animatie je boodschap kunt overbrengen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
