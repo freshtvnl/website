@@ -1,5 +1,5 @@
 ---
-title: Save The Children - Commercial
+title: Save The Children - Campagne
 slug: Save The Children - Bordje Bij
 weight: 1
 draft: false
@@ -13,12 +13,19 @@ blocks:
     align: left
     video:
       autoplay: true
-    title: Save the Children - Bordje Bij
+    title: Save the Children - Bordje Bij ***Commercial***
     displaymedia: youtube_video
     youtube:
       id: v6NksEdVRno
+  - type: hero_block
+    align: left
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Save-the-Children-uitleganimatie.mp4
+    title: Save the Children - Bordje Bij ***Uitleganimatie***
+    displaymedia: custom_video
 seo:
-  title: Commercial Save The Children | Portfolio | Phil & Flo
+  title: Commercial Save The Children | Campagne | Portfolio | Phil & Flo
   description: Commercial voor Save The Children. Ontdek hier de unieke reclame in
     ons portfolio en neem contact op voor meer informatie.
 ---
