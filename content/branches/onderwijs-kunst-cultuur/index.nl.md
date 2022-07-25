@@ -65,11 +65,12 @@ blocks:
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
-      - Hanze Hogeschool Groningen
+      - CSB Amsterdam
       - Noorderpoort
       - EsMEI
       - Maandag
-      - CSB Amsterdam
+      - CSG Het Streek
+      - Hanzehogeschool Groningen
   - type: content_block
     align: right
     content: >-
