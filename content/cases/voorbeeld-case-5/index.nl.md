@@ -94,6 +94,13 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: logoblock
+    title: Andere partners in de zorg branche
+    logo_items:
+      - CoMaster
+      - Open Health
+      - ICON
+      - NetwerkZ
 seo:
   title: UMCG Employer Branding Chirurgie - Phil & Flo Videomarketing
   description: Employer Branding video voor UMCG | Phil & Flo video marketing |
