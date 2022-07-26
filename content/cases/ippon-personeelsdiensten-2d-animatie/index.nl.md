@@ -49,6 +49,17 @@ blocks:
     displaymedia: image
     image:
       source: images/ippon-2-.png
+  - type: logoblock
+    title: Andere partners uit de onderwijs branche
+    logo_items:
+      - EsMEI
+      - Coornhert Gymnasium
+      - Hanzehogeschool Groningen
+      - CSB Amsterdam
+      - Noorderpoort
+  - type: contact_block
+    contacts:
+      - suzan-abbas
   - type: content_block
     video:
       autoplay: true
@@ -60,12 +71,4 @@ blocks:
     align: center
     align_text: text-left
     form: contact-formulier
-  - type: logoblock
-    title: Andere partners uit de onderwijs branche
-    logo_items:
-      - EsMEI
-      - Coornhert Gymnasium
-      - Hanzehogeschool Groningen
-      - CSB Amsterdam
-      - CSG Het Streek
 ---
