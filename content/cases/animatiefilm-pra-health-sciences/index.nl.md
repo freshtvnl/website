@@ -90,6 +90,13 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+  - type: logoblock
+    logo_items:
+      - CoMaster
+      - Open Health
+      - UMCG
+      - ICON
+    title: Andere partners uit de zorg branche
   - type: contact_block
     contacts:
       - suzan-abbas
