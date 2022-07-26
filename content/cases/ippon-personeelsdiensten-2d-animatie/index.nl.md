@@ -60,4 +60,12 @@ blocks:
     align: center
     align_text: text-left
     form: contact-formulier
+  - type: logoblock
+    title: Andere partners uit de onderwijs branche
+    logo_items:
+      - EsMEI
+      - Coornhert Gymnasium
+      - Hanzehogeschool Groningen
+      - CSB Amsterdam
+      - CSG Het Streek
 ---
