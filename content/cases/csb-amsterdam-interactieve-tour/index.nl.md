@@ -1,7 +1,7 @@
 ---
 title: CSB - Interactieve Open Dag
 slug: CSB Amsterdam interactieve tour
-weight: 1
+weight: 4
 draft: false
 image:
   source: images/csb-amsterdam.jpg
