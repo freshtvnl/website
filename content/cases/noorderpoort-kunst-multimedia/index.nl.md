@@ -9,7 +9,7 @@ color: yellow
 branch: onderwijs-kunst-cultuur
 blocks:
   - type: hero_block
-    align: center
+    align: left
     video:
       autoplay: true
     title: "***Interactieve open dag - Noorderpoort***"
