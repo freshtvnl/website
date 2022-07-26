@@ -91,9 +91,6 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
-  - type: contact_block
-    contacts:
-      - suzan-abbas
   - type: logoblock
     title: Andere partners in de zorg branche
     logo_items:
@@ -101,6 +98,9 @@ blocks:
       - Open Health
       - ICON
       - NetwerkZ
+  - type: contact_block
+    contacts:
+      - suzan-abbas
 seo:
   title: UMCG Employer Branding Chirurgie - Phil & Flo Videomarketing
   description: Employer Branding video voor UMCG | Phil & Flo video marketing |
