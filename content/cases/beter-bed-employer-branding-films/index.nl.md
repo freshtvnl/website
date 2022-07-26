@@ -84,7 +84,7 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## Een Employer Branding film voor jouw organisatie?
+      ## Employer Branding film voor jouw organisatie?
 
 
       De oplevering van de twee films en de prettige samenwerking met Beter Bed, vierden we met taart! Ben jij benieuwd hoe een Employer Branding film jouw organisatie kan helpen aan nieuw talent? Maak gebruik van ons gratis, vrijblijvend adviesgesprek. Onze experts denken graag met je mee!
