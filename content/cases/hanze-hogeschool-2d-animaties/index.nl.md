@@ -72,10 +72,10 @@ blocks:
     title: Andere partners in de onderwijs branche
     logo_items:
       - Noorderpoort Kunst & Multimedia
-      - Coornhert Gymnasium
       - CSG Het Streek
       - Park Lyceum
       - RSG Sneek
+      - Coornhert Gymnasium
   - type: contact_block
     contacts:
       - suzan-abbas
