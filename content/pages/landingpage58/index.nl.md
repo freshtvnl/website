@@ -60,7 +60,7 @@ blocks:
     youtube:
       id: ""
   - type: logoblock
-    title: ""
+    title: Bewezen trackrecord
     logo_items:
       - Gemeente Amstelveen
       - Hanzehogeschool Groningen
