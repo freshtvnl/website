@@ -19,7 +19,9 @@ blocks:
       standaard vacaturetekst. Een Employer Branding film is daarom dé manier om
       kandidaten te overtuigen om bij jou te komen werken. En dat is precies de
       reden waarom Beter Bed bij Phil en Flo aanklopte.
-    displaymedia: custom_video
+    displaymedia: youtube_video
+    youtube:
+      id: /a6EHvtKzGlQ
   - type: content_block
     video:
       autoplay: true
@@ -37,7 +39,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: ""
+      source_mp4: https://video.philenflo.nl/video/Employer-branding-film-Beter-Bed-Logistiek.mp4
     align: right
     align_text: text-left
     content: >-
@@ -45,6 +47,7 @@ blocks:
 
 
       In een Employer Branding film kun je mogelijke kandidaten een sfeervolle blik geven over de organisatie. Het werkt goed om dagelijkse werkzaamheden te laten zien, maar ook alle leuke dingen tijdens werk, in de pauze of na het werk, zoals een gezellige borrel of sporten, en welke doorgroeimogelijkheden er zijn binnen het bedrijf. Met de juiste mix van beelden van de werkvloer, interviews die we houden met huidige werknemers en passende achtergrondmuziek, enthousiasmeer en motiveer je kandidaten om te solliciteren.
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
@@ -58,6 +61,9 @@ blocks:
 
       Tijdens een creatieve sessie met Beter Bed werd besloten om in te gaan op de vacatures Chauffeur / Bezorger én Verkoper bij Beter Bed. Echte medewerkers komen aan het woord om te vertellen over het leukste aan hun baan bij Beter Bed. Zij nemen ons mee in hun werkdag. Voor een krachtige, relevante video, is een lengte van maximaal 1 minuut perfect. Het totale concept deelden we met de klant en we kregen een GO! Tijdens een dynamische opnamedag op locatie bij Beter Bed, onderweg naar een klant én bij de klant thuis, schoten we toffe beelden. De edit kon beginnen!
     align: left
+    displaymedia: image
+    image:
+      source: images/beter-bed3.png
   - type: content_block
     video:
       autoplay: true
