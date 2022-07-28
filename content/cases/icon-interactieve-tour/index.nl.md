@@ -5,6 +5,9 @@ weight: 2
 draft: false
 image:
   source: images/icon-player-shot.jpg
+content_type: portfolio
+color: pink
+branch: zorg-pharma
 blocks:
   - type: hero_block
     align: left
