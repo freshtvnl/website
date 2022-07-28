@@ -1,6 +1,7 @@
 ---
 title: Link in bio Instagram
 slug: link-in-bio
+weight: -1
 draft: false
 color: green
 blocks:
@@ -12,11 +13,11 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![](images/oio-systems.png)"
+    content: "![](images/augustus_icon.jpg)"
     cta:
-      color: green
-      url: https://www.philenflo.nl/portfolio/oio-systems/
-      text: Bekijk de case
+      color: pink
+      url: https://www.philenflo.nl/portfolio/icon-interactieve-tour
+      text: Bekijk de interactieve tour
       type: button
   - type: content_block
     video:
