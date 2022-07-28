@@ -1,7 +1,7 @@
 ---
 title: ICON - Interactieve tour
 slug: icon-interactieve-tour
-weight: 0
+weight: 1
 draft: false
 image:
   source: images/icon-player-shot.jpg
