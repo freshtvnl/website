@@ -12,12 +12,8 @@ blocks:
       autoplay: true
     displaymedia: iframe
     iframe:
-      source: <div style="width:100%;position:relative;padding-top:56.25%;"><iframe
-        id="iv_iframe"
-        src="https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1"
-        style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;"
-        allow="autoplay; fullscreen" allowfullscreen></iframe></div>
-    title: ICON ***Interactieve tour* Geneesmiddelenonderzoek
+      source: https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1
+    title: ICON ***Interactieve tour*** Geneesmiddelenonderzoek
     content: Voor de geneesmiddelen onderzoeken van ICON is een lopende stroom aan
       kandidaten nodig. Maar potentiele kandidaten vinden zo'n onderzoek vaak
       spannend. Om deze angst weg te nemen werft ICON middels een always-on
