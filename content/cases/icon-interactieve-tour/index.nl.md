@@ -1,5 +1,5 @@
 ---
-title: ICON - Interactieve tour
+title: ICON Geneesmiddelenonderzoek - Interactieve tour
 slug: icon-interactieve-tour
 weight: 1
 draft: false
