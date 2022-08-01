@@ -17,7 +17,7 @@ blocks:
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1
     title: ICON ***Interactieve tour*** Geneesmiddelenonderzoek
-    content: Voor de geneesmiddelen onderzoeken van ICON is een lopende stroom aan
+    content: Voor de geneesmiddelenonderzoeken van ICON is een lopende stroom aan
       kandidaten nodig. Maar potentiele kandidaten vinden zo'n onderzoek vaak
       spannend. Om deze angst weg te nemen werft ICON middels een always-on
       campaign, waarvoor Phil & Flo testimonialvideo's, 2D animatievideo's en
