@@ -1,5 +1,5 @@
 ---
-title: Cushmand Wakefield
+title: Cushman Wakefield
 image:
   source: images/cushman-and-wakefield.png
 seo:
