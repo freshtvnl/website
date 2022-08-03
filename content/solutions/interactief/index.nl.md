@@ -63,6 +63,15 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Nomios
+      - CSB Amsterdam
+      - ICON
+      - The Rent Company
+      - RSG Sneek
+      - CSG Het Streek
   - type: content_block
     align: left
     content: >-
@@ -88,6 +97,8 @@ blocks:
       url: https://www.philenflo.nl/contact/
       type: button
       color: green
+    video:
+      autoplay: false
   - type: content_block
     video:
       autoplay: true
