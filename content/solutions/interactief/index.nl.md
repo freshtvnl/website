@@ -161,6 +161,15 @@ blocks:
     displaymedia: image
     image:
       source: images/ads_employer-branding-zorg_anios1.jpg
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - icon-interactieve-tour
+      - The-rent-company-interactieve-tour
+      - RSG-Sneek-interactieve-video-schooltour
+  - type: contact_block
+    contacts:
+      - suzan-abbas
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
@@ -173,9 +182,7 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
-  - type: contact_block
-    contacts:
-      - suzan-abbas
+  - type: selectedreviews_block
 parent: animatie-studio-amsterdam
 title: Interactief
 slug: interactieve-video
