@@ -93,6 +93,7 @@ blocks:
       - Discriminatie Meldpunt Groningen
       - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
       - Sleepfast
+      - Alfen
   - type: content_block
     align: left
     content: >-
