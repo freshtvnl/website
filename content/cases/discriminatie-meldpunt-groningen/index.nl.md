@@ -3,7 +3,7 @@ title: Discriminatie Meldpunt Groningen
 slug: Interactieve player Discriminatie Meldpunt Groningen
 draft: false
 image:
-  source: images/22_discriminatie-meldpunt-groningen.jpg
+  source: images/thumbnail-1-1-discriminatie-meldpunt-groningen.jpg
 content_type: portfolio
 color: red
 branch: goede-doelen
