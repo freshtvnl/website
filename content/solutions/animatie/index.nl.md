@@ -85,6 +85,14 @@ blocks:
       text: Lees meer
       type: button
     align_text: text-left
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Nederlandse Brandwonden Stichting
+      - Gemeente Amstelveen
+      - Discriminatie Meldpunt Groningen
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - Sleepfast
   - type: content_block
     align: left
     content: >-
@@ -100,13 +108,6 @@ blocks:
       url: /30-minuten/
       text: Boek een vrijblijvende 30 min sessie
       type: button
-  - type: selectedreviews_block
-    title: Google reviews
-    items:
-      - Bigshopper
-      - showa
-      - pra-health-sciences-review
-    more_items: false
   - type: content_block
     align: left
     content: >-
@@ -155,6 +156,13 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
+  - type: selectedreviews_block
+    title: Google reviews
+    items:
+      - Bigshopper
+      - showa
+      - pra-health-sciences-review
+    more_items: false
   - type: content_block
     align: left
     content: >-
