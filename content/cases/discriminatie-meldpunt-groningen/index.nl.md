@@ -2,6 +2,9 @@
 title: Discriminatie Meldpunt Groningen
 slug: Interactieve player Discriminatie Meldpunt Groningen
 draft: false
+content_type: portfolio
+color: red
+branch: goede-doelen
 blocks:
   - type: content_block
     video:
