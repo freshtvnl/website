@@ -90,7 +90,6 @@ blocks:
     logo_items:
       - Nederlandse Brandwonden Stichting
       - Gemeente Amstelveen
-      - Discriminatie Meldpunt Groningen
       - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
       - Sleepfast
       - Alfen
