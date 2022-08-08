@@ -1,4 +1,0 @@
----
-seo:
-  noindex: true
----
