@@ -198,9 +198,9 @@ blocks:
       - inge
   - type: selectedreviews_block
     items:
-      - adresults-video-review
       - Save The Children commercial
       - pra-health-sciences-review
+      - van-wijnen-review
   - type: selectedfaqs_block
     items:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo
