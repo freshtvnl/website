@@ -1,5 +1,5 @@
 ---
-title: Bedankt recensie
+title: bedankt recensie
 slug: bedankt-recensie
 draft: false
 blocks:
