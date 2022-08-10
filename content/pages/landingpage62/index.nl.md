@@ -1,5 +1,5 @@
 ---
-title: Animatie film eindhoven
+title: Animatie film Eindhoven
 slug: animatie-film-eindhoven
 draft: false
 image:
