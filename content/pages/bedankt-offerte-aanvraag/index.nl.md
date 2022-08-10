@@ -1,5 +1,5 @@
 ---
-title: bedankt-offerte-aanvraag
+title: bedankt offerte aanvraag
 slug: bedankt-offerte-aanvraag
 draft: false
 blocks:
