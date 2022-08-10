@@ -27,6 +27,11 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     displaymedia: iframe
@@ -170,6 +175,10 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: selectedreviews_block
+    items:
+      - review-csb-amsterdam
+      - park lyceum review
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
@@ -182,7 +191,6 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-interactieve-video
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
-  - type: selectedreviews_block
 parent: animatie-studio-amsterdam
 title: Interactief
 slug: interactieve-video
