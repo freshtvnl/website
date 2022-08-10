@@ -1,5 +1,5 @@
 ---
-title: video testimonial
+title: Video testimonial
 slug: video-testimonial
 draft: false
 blocks:
