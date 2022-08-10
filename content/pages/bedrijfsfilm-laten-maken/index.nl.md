@@ -252,7 +252,7 @@ blocks:
     items:
       - park lyceum review
       - Save The Children commercial
-      - adresults-video-review
+      - pra-health-sciences-review
   - type: selectedfaqs_block
     items:
       - hoe-gaan-jullie-te-werk-met-een-bedrijfsfilm
