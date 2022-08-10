@@ -25,7 +25,7 @@ blocks:
     displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
-      text: Ontvang snel een offerte
+      text: Ontvang je offerte
       color: pink
       type: button
   - type: content_block
@@ -257,8 +257,8 @@ blocks:
   - type: selectedreviews_block
     items:
       - premium-positioning-review
-      - Bigshopper
       - diataal
+      - netwerkz-review
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
