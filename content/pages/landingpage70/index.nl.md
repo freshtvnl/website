@@ -1,5 +1,5 @@
 ---
-title: Landing page 70
+title: landing page 70
 slug: landingpage
 weight: 1
 draft: true
