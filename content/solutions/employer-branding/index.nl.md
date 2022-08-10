@@ -29,10 +29,10 @@ blocks:
       werksfeer. En die film plaats je op Indeed, LinkedIn en Instagram!
     displaymedia: custom_video
     cta:
-      url: /contact/
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: yellow
+      color: pink
   - type: content_block
     align: right
     content: >-
