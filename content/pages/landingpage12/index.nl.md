@@ -1,5 +1,5 @@
 ---
-title: bedrijfsfilm laten maken groningen
+title: Bedrijfsfilm laten maken Groningen
 slug: bedrijfsfilm-laten-maken-groningen
 draft: false
 blocks:
