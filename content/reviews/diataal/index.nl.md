@@ -1,6 +1,6 @@
 ---
-title: Diataal animatie
-slug: diataal
+title: Diataal
+slug: diataal-review
 draft: false
 quote:
   stars: 4
