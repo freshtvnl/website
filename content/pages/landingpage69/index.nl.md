@@ -1,5 +1,5 @@
 ---
-title: animatie studio amsterdam
+title: Animatie Studio Amsterdam
 slug: animatie-studio-amsterdam
 weight: 1
 draft: false
