@@ -1,5 +1,5 @@
 ---
-title: animatie maken rotterdam
+title: Animatie maken rotterdam
 slug: animatie-maken-rotterdam
 weight: 1
 draft: false
