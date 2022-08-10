@@ -26,9 +26,14 @@ blocks:
       ding gemeen: ze brengen de boodschap veel duidelijker en blijvender over
       dan je met alleen tekst bereikt."
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/Solarroof-3d-animatie-Phil-en-Flo.mp4
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -70,13 +75,17 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /vr-animatie-laten-maken/
-      text: Virtual Reality animatie laten maken
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
   - type: logoblock
     logo_items:
       - Alfen
       - KG Systems
+      - Colect
+      - Discriminatie Meldpunt Groningen
+      - Hanzehogeschool Groningen
       - K3 Business Technology
     title: Bewezen trackrecord
   - type: content_block
@@ -116,6 +125,11 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: content_block
     align: right
     content: >-
@@ -162,11 +176,23 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - aditech-3d-promofilm
+      - Animatiefilm ICON geneesmiddelenonderzoek
+      - Hanze Hogeschool - 2D Animaties
   - type: contact_block
     contacts:
       - peter-de-graaf
+  - type: selectedreviews_block
+    items:
+      - k3-systems
+      - eic-review
+      - familienet
 seo:
   title: "Animatiefilm Laten Maken | Phil & Flo "
   description: Succesvolle animatiefilm laten maken? Neem contact op voor een
