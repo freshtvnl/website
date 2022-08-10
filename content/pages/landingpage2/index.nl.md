@@ -1,5 +1,5 @@
 ---
-title: YouTube Marketing
+title: YouTube marketing
 slug: you-tube-marketing
 draft: false
 blocks:
