@@ -3,7 +3,7 @@ draft: false
 color: green
 blocks:
   - type: hero_block
-    title: Interactieve video, interactie op ***hoog niveau***
+    title: "***Interactieve video***, interactie op hoog niveau"
     content: ""
     displaymedia: null
     image:
