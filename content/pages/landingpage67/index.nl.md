@@ -25,11 +25,16 @@ blocks:
       waardevolle informatie over je bedrijf geeft. Deze krachtige
       communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk
       manier je missie en visie te communiceren, zowel intern als extern. Heb je
-      onze eigen Phil & Flo bedrijfsanimatie al gezien?
+      onze eigen Phil & Flo bedrijfsanimatie al gezien? Wil jij dit ook?
     align: left
     displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -75,6 +80,20 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - BinBin
+      - Energy Towers
+      - ICON
+      - Jacobs Douwe Egberts Professional
+      - Stichting Welcome App
+      - Sleepfast
   - type: content_block
     align: right
     content: >-
@@ -120,9 +139,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: Contact opnemen
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
   - type: content_block
     video:
       autoplay: true
@@ -158,12 +178,12 @@ blocks:
 
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
   - type: selectedwork_block
-    title: Selected work
+    title: Succesverhalen
     items:
       - Animatiefilm ICON geneesmiddelenonderzoek
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
-    more_items: true
+    more_items: false
     contacts:
       - sophie
   - type: content_block
@@ -174,11 +194,12 @@ blocks:
       ### Wat ***kost*** het laten maken van een bedrijfsanimatie?
 
 
-      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een bedrijfsanimatie zijn voornamelijk afhankelijk van de gekozen stijl, en de lengte. De ene stijl kost meer tijd om te maken dan de andere. Voor de lengte geldt; hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
+      Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een bedrijfsanimatie zijn voornamelijk afhankelijk van de gekozen stijl, en de lengte. De ene stijl kost meer tijd om te maken dan de andere. Voor de lengte geldt; hoe langer de film, hoe meer tijd het kost om te maken. Vraag een vrijblijvende offerte op.
     cta:
-      url: /contact/
-      text: Contact opnemen
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: contact_block
     contacts:
       - inge
@@ -186,6 +207,11 @@ blocks:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+  - type: selectedreviews_block
+    items:
+      - DMT
+      - oio-systems
+      - eic-review
 seo:
   title: Bedrijfsanimatie laten maken | Phil & Flo Creative Studio
   description: Bedrijfsanimatie laten maken | Van productvideo tot aan
