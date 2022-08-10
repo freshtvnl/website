@@ -1,5 +1,5 @@
 ---
-title: videoproductie groningen
+title: Videoproductie Groningen
 slug: videoproductie-groningen
 draft: false
 blocks:
