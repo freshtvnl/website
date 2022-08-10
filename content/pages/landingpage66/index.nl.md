@@ -1,5 +1,5 @@
 ---
-title: animatie studio utrecht
+title: Animatie Studio Utrecht
 slug: animatie-studio-utrecht
 weight: 1
 draft: false
