@@ -1,5 +1,5 @@
 ---
-title: Animatie maken rotterdam
+title: Animatie maken Rotterdam
 slug: animatie-maken-rotterdam
 weight: 1
 draft: false
