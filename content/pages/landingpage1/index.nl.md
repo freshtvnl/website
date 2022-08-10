@@ -51,7 +51,7 @@ blocks:
     cta:
       type: button
       color: pink
-      text: Neem direct contact op
+      text: Neem contact op
       url: /contact/
     displaymedia: custom_video
     form: ""
