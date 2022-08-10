@@ -36,7 +36,7 @@ blocks:
     content: "![](images/vr-video.png)"
     cta:
       url: https://www.philenflo.nl/oplossingen/
-      text: Naar oplossingen
+      text: Naar producten
       type: button
       color: green
     align: center
