@@ -1,5 +1,5 @@
 ---
-title: familienet
+title: Familienet
 slug: familienet
 draft: false
 quote:
