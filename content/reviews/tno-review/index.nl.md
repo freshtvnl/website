@@ -1,5 +1,5 @@
 ---
-title: TNO review
+title: TNO
 slug: TNO-Review
 draft: false
 quote:
