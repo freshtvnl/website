@@ -1,5 +1,5 @@
 ---
-title: bedankt-factuurgegevens
+title: bedankt factuurgegevens
 slug: /bedankt-factuurgegevens
 draft: false
 blocks:
