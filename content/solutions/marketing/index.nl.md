@@ -83,7 +83,7 @@ blocks:
     align: right
     displaymedia: image
     image:
-      source: images/nomios-nl-6b-.jpg
+      source: images/img_6372-copy.jpg
   - type: contact_block
     contacts:
       - victor
