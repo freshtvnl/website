@@ -145,7 +145,7 @@ blocks:
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
     align: center
   - type: selectedwork_block
-    title: Selected work
+    title: Succesverhalen
     items:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
