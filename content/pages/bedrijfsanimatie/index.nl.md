@@ -26,6 +26,11 @@ blocks:
       business* is.
     align: left
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -59,6 +64,15 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+  - type: logoblock
+    logo_items:
+      - TNO
+      - Discriminatie Meldpunt Groningen
+      - Alfen
+      - ICON
+      - Hanzehogeschool Groningen
+      - Algemeen Dagblad
+    title: Bewezen trackrecord
   - type: content_block
     align: left
     content: >-
@@ -75,8 +89,9 @@ blocks:
       autoplay: true
     cta:
       url: /contact/
-      text: Neem direct contact op
+      text: Neem contact op
       type: button
+      color: green
   - type: content_block
     align: right
     content: >-
@@ -100,11 +115,19 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: contact_block
     contacts:
       - aron
+  - type: selectedreviews_block
+    items:
+      - boknet-review
+      - k3-systems
+      - hanzehogeschool-groningen-review
+      - premium-positioning-review
+      - showa
 seo:
   title: Bedrijfsanimatie | Phil & Flo Videomarketing
   description: Bedrijfsanimatie ✔ Klantscore 8.9 ✔ Onderscheidende content ✔ Uniek
