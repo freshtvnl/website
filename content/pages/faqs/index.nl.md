@@ -1,5 +1,5 @@
 ---
-title: faqs
+title: FAQS
 slug: faqs
 weight: 2
 draft: false
