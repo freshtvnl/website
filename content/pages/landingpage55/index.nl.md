@@ -24,9 +24,10 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Alfen-Smart-Charging-Network-Philenflo.mp4
     cta:
-      url: /contact/
-      text: Neem direct contact op
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
+      color: pink
     displaymedia: custom_video
   - type: content_block
     align: right
@@ -116,8 +117,9 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Contact opnemen
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -144,14 +146,6 @@ blocks:
 
          Onze specialisten helpen je met wat je nodig hebt. We kijken naar de kanalen die je wil inzetten, en leveren de juiste formaten. We optimaliseren de film met ondertiteling, teasers en we zetten eventuele campagnes op.
     align: center
-  - type: selectedwork_block
-    title: Succesverhalen
-    items:
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
-      - Animatiefilm PRA health sciences
-      - OIO systems
-    more_items: true
   - type: content_block
     video:
       autoplay: true
@@ -163,9 +157,18 @@ blocks:
       Nu je weet hoe een animatie wordt opgebouwd, is het interessant meer te weten over de opbouw van de kosten. De kosten van een uitleganimatie zijn afhankelijk van een aantal aspecten, zoals de stijl en lengte. De ene stijl kost meer tijd om te maken dan de andere. Hoe langer de film, hoe meer tijd het kost om te maken. Neem contact met ons op voor advies en een vrijblijvende offerte.
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
     align_text: text-left
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
+      - Animatiefilm PRA health sciences
+      - OIO systems
+    more_items: true
   - type: contact_block
     contacts:
       - victor
@@ -174,6 +177,14 @@ blocks:
       - animatiefilm-over-biogas
       - Animatiefilm PRA health sciences
       - OIO systems
+  - type: selectedreviews_block
+    items:
+      - k3-systems
+      - netwerkz-review
+      - hanzehogeschool-groningen-review
+      - familienet
+      - DMT
+      - review-noorderpoort-college
 seo:
   title: Uitleganimatie laten maken | Phil & Flo | Animatie & Video
   description: "Uitleganimatie laten maken? Phil & Flo produceert een unieke op
