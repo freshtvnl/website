@@ -1,6 +1,6 @@
 ---
 title: TNO
-slug: TNO-Review
+slug: TNO-review
 draft: false
 quote:
   stars: 4
