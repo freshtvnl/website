@@ -1,7 +1,7 @@
 ---
-title: Ouder 3 CSB
-draft: false
+title: CSB Ouder 3
 slug: ouder-3-csb
+draft: false
 quote:
   stars: 5
   auteur: Ouder van leerling groep 8
