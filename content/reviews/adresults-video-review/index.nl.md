@@ -1,6 +1,6 @@
 ---
-title: Adresults video review
-slug: adresults-video-review
+title: Adresults
+slug: adresults-review
 draft: false
 image:
   source: ""
