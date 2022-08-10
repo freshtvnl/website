@@ -1,5 +1,5 @@
 ---
-title: Stage MBO/HBO Animator 2D/3D (fulltime)
+title: Stageplek MBO/HBO Animator 2D/3D (fulltime)
 slug: stage animator 2D 3D groningen
 draft: false
 color: yellow
