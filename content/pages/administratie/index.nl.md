@@ -1,5 +1,5 @@
 ---
-title: Administratie factuur
+title: administratie factuur
 slug: factuur
 draft: false
 color: green
