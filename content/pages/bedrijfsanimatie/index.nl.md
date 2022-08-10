@@ -1,5 +1,5 @@
 ---
-title: bedrijfsanimatie
+title: Bedrijfsanimatie
 slug: bedrijfsanimatie
 draft: false
 blocks:
