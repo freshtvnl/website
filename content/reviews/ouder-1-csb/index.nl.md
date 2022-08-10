@@ -1,7 +1,7 @@
 ---
-title: Ouder 1 CSB
-draft: false
+title: CSB Ouder 1
 slug: ouder-1-csb
+draft: false
 quote:
   content: Wat een fantastische rondleiding hebben jullie gemaakt, complimenten
     aan de leerlingen en team!
