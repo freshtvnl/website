@@ -29,13 +29,18 @@ blocks:
       betekenen. Storytelling is de belangrijkste steunpilaar van goede
       videomarketing.
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
       ## Hoe korter, ***hoe beter***
 
 
-      Mensen hebben maar een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
+      Mensen hebben een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
     displaymedia: image
     youtube:
       image:
@@ -45,6 +50,40 @@ blocks:
     video:
       autoplay: false
     align_text: text-left
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## Een ***goede video*** voor jouw organisatie
+
+
+      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. 
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
+    align: left
+    displaymedia: image
+    image:
+      source: images/b991cf3e-8076-4063-a914-28ace887ace7-copy.jpg
+  - type: content_block
+    video:
+      autoplay: true
+    content: >-
+      ## Videoproductie door Phil & Flo
+
+
+      Videoproductie voor jouw videomarketing is niet alleen het maken van de video, maar het gehele proces daar vooraf en daarna. Phil & Flo helpt je met bepalen van het doel van je video, de invulling van de video aan de hand van een script en shotlist, het schieten van de beelden en het monteren van de uiteindelijke video die je in gaat zetten voor marketingdoeleinden. Onze experts denken graag met je mee met creatieve ideeën voor jouw videomarketing. Wat dit kost? Dat ligt aan de lengte en invulling van de video. Vraag vrijblijvend een offerte aan om te kijken te naar de mogelijkheden.
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
+    align: right
+    displaymedia: image
+    image:
+      source: images/nomios-nl-6b-.jpg
   - type: contact_block
     contacts:
       - victor
