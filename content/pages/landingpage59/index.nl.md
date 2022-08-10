@@ -1,5 +1,5 @@
 ---
-title: Animatie studio Den Haag
+title: Animatie Studio Den Haag
 slug: animatie-studio-den-haag
 weight: 1
 draft: false
