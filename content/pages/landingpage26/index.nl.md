@@ -24,9 +24,10 @@ blocks:
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     cta:
-      url: /contact/
-      text: Neem direct contact op
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -40,6 +41,15 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - JDE
+      - Save the Children
+      - Payconiq
+      - Sleepfast
+      - Noorderpoort
+      - Nomios
   - type: content_block
     align: left
     content: >-
@@ -63,11 +73,18 @@ blocks:
     image:
       source: images/inge-bank.jpg
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
     video:
       autoplay: false
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - uitlegfilm-over-betaalapp
+      - Douwe Egberts - Cafitesse Commercial
+      - Infomercial hzpc sunita
   - type: contact_block
     contacts:
       - inge
