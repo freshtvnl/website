@@ -21,16 +21,16 @@ blocks:
       stoel? Wil jij echt voorlopen op je concurrenten? Met een VR animatie van
       Phil & Flo bied jij jouw klanten, studenten of cliënten of prospects iets
       unieks, namelijk een levensechte ervaring. De mogelijkheden voor een VR
-      animatie laten maken zijn eindeloos. Wil je meer informatie? Neem contact
-      met ons op en weet vandaag nog meer over VR animaties.
+      animatie laten maken zijn eindeloos. Lees verder of...
     align: left
     displaymedia: youtube_video
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /contact/
-      text: Contact opnemen
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -115,18 +115,23 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## *Meet* our Phil & Flo team
+      ## Meet our ***Phil & Flo*** team
 
 
       Kom eens langs, of nodig ons uit om ons leuke team te ontmoeten. Met een passie voor Virtual reality en alle mogelijkheden die dit met zich meebrengt. Ons team van videomarketeers en designers vult elkaar aan om jou doelen met video te behalen! \
 
       \
 
-      *Bel ons nu op 085 – 273 8331*
+      Bel ons nu op ***085 – 273 8331*** of...
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: content_block
     align: left
     content: >-
@@ -140,11 +145,9 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
-  - type: contact_block
-    contacts:
-      - peter-de-graaf
+      color: pink
   - type: selectedwork_block
     title: Selected work
     items:
@@ -152,6 +155,22 @@ blocks:
       - animatiefilm-over-biogas
       - Beckys - 3D animatie
     more_items: true
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
+  - type: selectedreviews_block
+    items:
+      - boknet-review
+      - pra-health-sciences-review
+      - eic-review
+  - type: selectedfaqs_block
+    title: Veelgestelde vragen
+    items:
+      - hoe-gaan-jullie-te-werk-met-een-animatie
+      - welke-stijl-past-bij-mijn-animatie
+      - hoe-lang-duurt-het-gemiddeld-voordat-een-animatie-klaar-is
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
+      - kan-ik-vrijblijvend-sparren-voor-een-animatie
 seo:
   title: VR animatie laten maken | Phil & Flo Creative Studio
   description: VR animatie laten maken doe je bij Phil & Flo | ✔ Onderscheidende
