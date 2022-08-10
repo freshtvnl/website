@@ -13,11 +13,11 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![](images/augustus_icon.jpg)"
+    content: "![](images/discriminatie-meldpunt-groningen.jpg)"
     cta:
-      color: pink
-      url: https://www.philenflo.nl/portfolio/icon-interactieve-tour
-      text: Bekijk de interactieve tour
+      color: red
+      url: https://www.philenflo.nl/portfolio/interactieve-player-discriminatie-meldpunt-groningen/
+      text: Bekijk de interactieve player
       type: button
   - type: content_block
     video:
