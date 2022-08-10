@@ -26,6 +26,11 @@ blocks:
       creatief en helder overbrengen aan de juiste doelgroep!'
     align: left
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -75,6 +80,15 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Sleepfast
+      - Jacobs Douwe Egberts Professional
+      - Payconiq
+      - Sunita
+      - ICON
+      - Save the Children
   - type: content_block
     align: right
     content: >-
@@ -131,6 +145,12 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-behind-the-scenes.jpg
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - Douwe Egberts - Cafitesse Commercial
+      - NOM Innovatiefilm
+      - Elsun Zonnepanelen
   - type: content_block
     align: right
     content: >-
@@ -138,7 +158,7 @@ blocks:
 
 
       Ben jij het ook zat om een commercial of [reclame spot](https://www.philenflo.nl/reclamevideo/) te laten ontwikkelen die niet opvalt? Neem contact op met onze creatieve specialisten en maak vrijblijvend kennis met ons!
-    displaymedia: image
+    displaymedia: null
     image:
       source: images/peter-suzan-kopie.jpg
     cta:
@@ -162,6 +182,11 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-reclame
       - hoe-gaan-jullie-te-werk-met-een-reclame
       - welke-muziek-gebruiken-jullie-reclame
+  - type: selectedreviews_block
+    items:
+      - pra-health-sciences-review
+      - Save The Children commercial
+      - van-wijnen-review
   - type: selectedfaqs_block
     items:
       - hoe-maken-jullie-een-reclame
