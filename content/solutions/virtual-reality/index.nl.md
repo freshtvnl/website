@@ -29,10 +29,10 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /contact/
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: green
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -109,6 +109,11 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-groen.jpg
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: contact_block
     contacts:
       - peter-de-graaf
