@@ -1,5 +1,5 @@
 ---
-title: Animatiestudio Groningen
+title: Animatie Studio Groningen
 slug: animatiestudio-groningen
 weight: 1
 draft: false
