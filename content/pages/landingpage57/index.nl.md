@@ -1,5 +1,5 @@
 ---
-title: 3D productvideo
+title: 3D Productvideo
 slug: 3d-productvideo
 weight: 1
 draft: false
