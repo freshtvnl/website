@@ -30,10 +30,10 @@ blocks:
     align: left
     displaymedia: custom_video
     cta:
-      url: /contact/
-      text: Meer informatie
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: green
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -143,6 +143,15 @@ blocks:
 
       Het laten maken van een video is niet alleen het filmen van de juiste beelden. Er gaat een proces van concept, strategie en voorbereiding aan vooraf. Daarna komt het filmen van alle beelden zelf. We proberen altijd om alle beelden er in één draaidag op te zetten. Onze creative producers zorgen daarom voor een duidelijke planning en script. Een video waarin je medewerkers of acteurs inzet, duurt vaak langer dan het filmen van video’s waarin je dit niet doet. Maar met een goede voorbereiding is alles mogelijk. Ben je benieuwd hoeveel tijd het kost om voor jouw bedrijf een video te maken? Neem dan contact op met een van onze experts.
     displaymedia: custom_video
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Nomios
+      - Payconiq
+      - UMCG
+      - Beter Bed
+      - XpertHR
+      - NOM
   - type: content_block
     align: right
     content: >-
@@ -167,11 +176,6 @@ blocks:
 
       De kosten van een video laten maken zijn afhankelijk van jouw eigen wensen. Hoe lang moet een video zijn? Waarvoor ga je een video inzetten? Voor elk doel kunnen we een offerte op maat maken. Wil je weten hoeveel jouw video gaat kosten? Vraag dan vrijblijvend een offerte aan. Phil & Flo denkt graag met je mee en werkt met eerlijke tarieven.
     displaymedia: custom_video
-  - type: selectedreviews_block
-    items:
-      - adresults-video-review
-      - Save The Children commercial
-      - pra-health-sciences-review
   - type: content_block
     align: center
     content: >-
@@ -192,6 +196,18 @@ blocks:
   - type: contact_block
     contacts:
       - inge
+  - type: selectedreviews_block
+    items:
+      - adresults-video-review
+      - Save The Children commercial
+      - pra-health-sciences-review
+  - type: selectedfaqs_block
+    items:
+      - hoe-gaan-jullie-te-werk-met-een-bedrijfsvideo
+      - is-het-ook-mogelijk-om-te-filmen-met-een-drone-bedrijfsvideo
+      - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
+      - wat-is-de-productietijd-van-een-film
+      - hebben-jullie-voorbeelden-van-bedrijfsfilms
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
