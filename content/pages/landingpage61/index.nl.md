@@ -149,12 +149,12 @@ blocks:
       type: button
       color: pink
   - type: selectedwork_block
-    title: Selected work
+    title: Succesverhalen
     items:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
       - Beckys - 3D animatie
-    more_items: true
+    more_items: false
   - type: contact_block
     contacts:
       - peter-de-graaf
