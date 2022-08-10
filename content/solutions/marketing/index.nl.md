@@ -50,6 +50,15 @@ blocks:
     video:
       autoplay: false
     align_text: text-left
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Colect
+      - ICON
+      - U-Sport
+      - Sleepfast
+      - Becky's
+      - BinBin
   - type: content_block
     video:
       autoplay: true
@@ -87,6 +96,11 @@ blocks:
   - type: contact_block
     contacts:
       - victor
+  - type: selectedreviews_block
+    items:
+      - pra-health-sciences-review
+      - premium-positioning-review
+      - park lyceum review
 seo:
   title: "Videomarketing uitbesteden | Phil & Flo "
   description: Videomarketing - Vertel verhalen waarin de kijker zich herkent. ✔
