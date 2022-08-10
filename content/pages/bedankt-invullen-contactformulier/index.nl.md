@@ -1,5 +1,5 @@
 ---
-title: bedankt-invullen-contactformulier
+title: bedankt invullen contactformulier
 slug: bedankt-invullen-contactformulier
 draft: false
 blocks:
