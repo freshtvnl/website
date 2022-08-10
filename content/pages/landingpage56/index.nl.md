@@ -1,5 +1,5 @@
 ---
-title: Animatie bedrijf Amsterdam
+title: Animatie Bedrijf Amsterdam
 slug: animatie-bedrijf-amsterdam
 weight: 1
 draft: false
