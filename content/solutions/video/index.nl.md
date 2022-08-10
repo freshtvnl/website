@@ -208,6 +208,7 @@ blocks:
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
       - wat-is-de-productietijd-van-een-film
       - hebben-jullie-voorbeelden-van-bedrijfsfilms
+    title: Veelgestelde vragen
 seo:
   title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
   description: Een video laten maken door Phil & Flo | Wij maken een video die
