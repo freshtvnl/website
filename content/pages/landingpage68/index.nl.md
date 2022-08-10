@@ -29,6 +29,11 @@ blocks:
       je producten wilt verkopen, daarom moet je boodschap simpel en duidelijk
       zijn.
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -40,9 +45,10 @@ blocks:
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: ""
-      text: ""
-      type: null
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -82,8 +88,18 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier meer over VR
+      text: Lees meer
       type: button
+      color: green
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - SHOWA
+      - OIO Systems
+      - Energy Towers
+      - U-Sport
+      - Algemeen Dagblad
+      - MplusKASSA
   - type: content_block
     align: left
     content: >-
@@ -140,11 +156,12 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /offerte-ontvangen/
-      text: Contact opnemen
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
   - type: selectedwork_block
-    title: Selected work
+    title: Succesverhalen
     items:
       - algemeen-dagblad-animatie
       - NetwerkZ-zorg-2D-animatie
@@ -159,6 +176,14 @@ blocks:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+  - type: selectedreviews_block
+    items:
+      - diataal
+      - adresults-video-review
+      - Bigshopper
+      - premium-positioning-review
+      - review-noorderpoort-college
+      - eic-review
 seo:
   title: "Explainer animatie laten maken | Phil & Flo "
   description: Explainer animatie laten maken ✔ Klantscore 8.9 ✔ Onderscheidende
