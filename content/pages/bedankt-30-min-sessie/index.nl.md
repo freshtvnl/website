@@ -1,5 +1,5 @@
 ---
-title: Bedankt 30 min sessie
+title: bedankt 30 min sessie
 slug: bedankt-30-min-sessie
 draft: false
 blocks:
