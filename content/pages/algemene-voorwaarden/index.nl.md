@@ -1,5 +1,5 @@
 ---
-title: Algemene voorwaarden
+title: algemene voorwaarden
 slug: algemene-voorwaarden
 draft: false
 blocks:
