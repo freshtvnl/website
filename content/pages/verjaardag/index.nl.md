@@ -1,5 +1,5 @@
 ---
-title: "Verjaardag "
+title: verjaardag invullen
 slug: verjaardag
 draft: false
 blocks:
