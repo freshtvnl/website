@@ -1,6 +1,6 @@
 ---
-title: Settle service
-slug: settle service
+title: Settle Service
+slug: settle-service-review
 draft: false
 quote:
   stars: 5
