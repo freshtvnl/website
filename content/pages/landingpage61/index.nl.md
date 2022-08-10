@@ -1,5 +1,5 @@
 ---
-title: vr animatie laten maken
+title: VR animatie laten maken
 slug: vr-animatie-laten-maken
 weight: 1
 draft: false
