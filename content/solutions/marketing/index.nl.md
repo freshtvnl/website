@@ -8,7 +8,7 @@ image:
 color: green
 blocks:
   - type: hero_block
-    title: Videomarketing ***tips en tricks***
+    title: "***Videomarketing***"
     content: ""
     displaymedia: null
     video:
