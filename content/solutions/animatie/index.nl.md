@@ -105,8 +105,8 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /30-minuten/
-      text: Boek een vrijblijvende 30 min sessie
+      url: /contact/
+      text: Neem contact op
       type: button
   - type: content_block
     align: left
@@ -242,10 +242,10 @@ blocks:
       autoplay: true
     cta:
       url: /contact/
-      text: Contact opnemen
+      text: Neem contact op
       type: button
   - type: selectedwork_block
-    title: Animatie laten maken
+    title: Succesverhalen
     items:
       - alfen-Smart-Charging-Network-3D-animatie
       - algemeen-dagblad-animatie
@@ -254,6 +254,11 @@ blocks:
   - type: contact_block
     contacts:
       - aron
+  - type: selectedreviews_block
+    items:
+      - premium-positioning-review
+      - Bigshopper
+      - diataal
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
