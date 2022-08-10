@@ -22,7 +22,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: "![](images/linktree_portfolio.png)"
+    content: "![](images/portfolio-omslag.jpg)"
     cta:
       url: https://www.philenflo.nl/portfolio/
       color: green
