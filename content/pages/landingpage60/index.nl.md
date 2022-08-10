@@ -25,6 +25,11 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg-ICON1.mp4
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -42,6 +47,14 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Alfen
+      - Colect
+      - KG Systems
+      - BinBin
+      - CoMaster
   - displaymedia: custom_video
     youtube:
       image:
@@ -78,16 +91,17 @@ blocks:
     youtube:
       id: 0ljMPjPQjRI
     cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
   - type: selectedwork_block
-    title: Selected work
+    title: Succesverhalen
     items:
       - andrea-kruis
       - algemeen-dagblad-animatie
       - Animatiefilm ICON geneesmiddelenonderzoek
-    more_items: true
+    more_items: false
   - type: contact_block
     contacts:
       - peter-de-graaf
