@@ -144,6 +144,7 @@ blocks:
       url: /oplossingen/videomarketing/
       text: Lees meer
       type: button
+      color: green
   - type: content_block
     align: right
     content: >-
