@@ -119,6 +119,7 @@ blocks:
       - diataal-review
       - hanzehogeschool-groningen-review
       - review-csb-amsterdam
+    title: Klantverhalen
 seo:
   title: "Video, animatie en virtuele tours voor het onderwijs en de kunst sector
     | Phil & Flo "
