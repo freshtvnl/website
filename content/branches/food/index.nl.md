@@ -47,6 +47,11 @@ blocks:
 
 
       Phil & Flo zoekt samen met jou naar het beste middel om de doelgroep te bereiken. Of dit nu high-end [productanimatie](https://www.philenflo.nl/3d-productvideo/) is, een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) of een [persoonlijke](https://www.philenflo.nl/gepersonaliseerde-video/) en [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/). Wij zorgen dat je de juiste tools inzet. Bel ons vrijblijvend om te sparren over de mogelijkheden. 085 - 273 8331
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: content_block
     align: left
     displaymedia: image
