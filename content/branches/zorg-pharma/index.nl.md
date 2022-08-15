@@ -32,6 +32,11 @@ blocks:
       en [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/).
     align: left
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -49,6 +54,7 @@ blocks:
       url: /contact/
       text: Neem contact op
       type: button
+      color: green
   - type: content_block
     content: >-
       ## ***Interactieve oplossingen*** voor Pharma
@@ -64,8 +70,9 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     cta:
       url: https://www.philenflo.nl/oplossingen/interactieve-video/
-      text: Lees hier meer over interactieve video
-      type: link
+      text: Lees meer
+      type: button
+      color: green
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
@@ -88,8 +95,9 @@ blocks:
       alt: ""
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
-      text: Lees meer over animatie
-      type: link
+      text: Lees meer
+      type: button
+      color: green
   - type: content_block
     align: left
     content: >-
@@ -118,8 +126,15 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
+  - type: selectedwork_block
+    title: Succesverhalen
+    items:
+      - Pharmerit - Interactieve brochure
+      - UMCG - Werken Bij UMCG als ANIOS
+      - Animatiefilm ICON geneesmiddelenonderzoek
   - type: contact_block
     contacts:
       - suzan-abbas
@@ -129,12 +144,11 @@ blocks:
 
 
       Schroom niet op contact op te nemen. Onze specialist staan klaar om vrijblijvend te sparren over jouw communicatie uitdagingen!
-  - type: selectedwork_block
-    title: Succesverhalen
+  - type: selectedreviews_block
     items:
-      - Pharmerit - Interactieve brochure
-      - UMCG - Werken Bij UMCG als ANIOS
-      - Animatiefilm ICON geneesmiddelenonderzoek
+      - pra-health-sciences-review
+      - netwerkz-review
+      - familienet
 seo:
   title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
   description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
