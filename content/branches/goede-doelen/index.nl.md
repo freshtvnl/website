@@ -31,6 +31,11 @@ blocks:
       autoplay: true
     image:
       source: images/save-the-children.png
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -43,8 +48,9 @@ blocks:
     displaymedia: image
     cta:
       url: /contact/
-      text: Contact opnemen
+      text: Neem contact op
       type: button
+      color: green
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
@@ -60,6 +66,9 @@ blocks:
   - type: contact_block
     contacts:
       - victor
+  - type: selectedreviews_block
+    items:
+      - Save The Children commercial
 seo:
   title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo
   description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
