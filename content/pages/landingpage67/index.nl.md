@@ -21,11 +21,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Een bedrijfsanimatie is een stuk content dat binnen korte tijd
-      waardevolle informatie over je bedrijf geeft. Deze krachtige
-      communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk
-      manier je missie en visie te communiceren, zowel intern als extern. Heb je
-      onze eigen Phil & Flo bedrijfsanimatie al gezien? Wil jij dit ook?
+    content: "Marketeers weten het al langer: videomarketing gaat het overnemen van
+      tekst. Zeker voor het presenteren van je bedrijf onderscheid je jezelf
+      veel beter met een video of bedrijfsanimatie, waar de concurrentie alleen
+      saaie tekstpagina’s heeft. Met (getekende) animatie voeg je een luchtig
+      element toe en maak je het iets speelser. Dat spreekt meer aan dan wanneer
+      je alleen maar videobeelden en gesproken tekst laat zien. Bovendien kun je
+      animatie goed bij de visuele stijl van je bedrijf laten passen. Heb je
+      onze eigen Phil & Flo bedrijfsanimatie al gezien? Wil jij dit ook?"
     align: left
     displaymedia: youtube_video
     youtube:
@@ -38,14 +41,19 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***Bedrijfsanimatie*** effectief inzetten
+      ## ***Wat is een bedrijfsanimatie?***
 
 
-      Marketeers weten het al langer: videomarketing gaat het overnemen van tekst. Zeker voor het presenteren van je bedrijf onderscheid je jezelf veel beter met een video of bedrijfsanimatie, waar de concurrentie alleen saaie tekstpagina’s heeft. Met (getekende) animatie voeg je een luchtig element toe en maak je het iets speelser. Dat spreekt meer aan dan wanneer je alleen maar videobeelden en gesproken tekst laat zien. Bovendien kun je animatie goed bij de visuele stijl van je bedrijf laten passen.
+      Een bedrijfsanimatie is een stuk content dat binnen korte tijd waardevolle informatie over je bedrijf geeft. Deze krachtige communicatiemiddelen zijn bij uitstek geschikt om op een aantrekkelijk manier je missie en visie te communiceren, zowel intern als extern. Je kunt een bedrijfsanimatie inzetten op beurzen, evenementen en vergeet ook vooral je eigen website en social media niet. Een bedrijfsanimatie is mogelijk in zowel 3D als 2D. Benieuwd naar de mogelijkheden voor jouw bedrijf? Neem vrijblijvend contact op met een van onze experts!
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: content_block
     video:
       autoplay: true
