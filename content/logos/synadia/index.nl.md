@@ -1,7 +1,7 @@
 ---
 title: Synadia
 image:
-  source: images/logo_synadia_rgb-300px.png
+  source: images/synadia.png
 seo:
   noindex: true
 ---
