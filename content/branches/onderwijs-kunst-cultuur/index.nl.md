@@ -28,8 +28,8 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     align: left
     cta:
-      url: /contact/
-      text: Neem direct contact op
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
       color: pink
   - type: content_block
@@ -51,6 +51,7 @@ blocks:
       url: /portfolio/
       text: Bekijk ons portfolio
       type: button
+      color: green
   - type: content_block
     video:
       autoplay: true
@@ -100,7 +101,7 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
       color: pink
   - type: selectedwork_block
@@ -113,6 +114,11 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: selectedreviews_block
+    items:
+      - diataal-review
+      - hanzehogeschool-groningen-review
+      - review-csb-amsterdam
 seo:
   title: "Video, animatie en virtuele tours voor het onderwijs en de kunst sector
     | Phil & Flo "
