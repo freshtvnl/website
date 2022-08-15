@@ -72,7 +72,7 @@ blocks:
       ## ***Content klaar en dan?***
 
 
-      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Voor grote campagnes helpen onze specialisten je bij het testen van meerdere film varianten. Bel ons direct voor vrijblijvend concreet advies op 085 -273 8331.
+      Zodra de video af is kunnen we je begeleiden in het online verspreiden ervan. Zo weet je zeker dat de boodschap van de film ook bij de juiste doelgroep terecht komt. Dit kan op LinkedIn, Instagram, [YouTube](https://www.philenflo.nl/you-tube-marketing/) Twitter en nog veel meer kanalen. Voor grote campagnes helpen onze specialisten je bij het testen van meerdere film varianten. Bel ons direct voor vrijblijvend concreet advies op **[085 - 2738331](tel:0852738331)**.
     displaymedia: custom_video
     image:
       source: ""
@@ -104,7 +104,7 @@ blocks:
       ## ***Expertise*** duurzame energie
 
 
-      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op 085 -273 8331 om direct even te sparren over de mogelijkheden.
+      Peter de Graaf is binnen ons team gespecialiseerd in de branche duurzame energie en is het aanspreekpunt op dit vlak. Hij heeft veel expertise op dit gebied en samen met jou kan hij het verhaal duiden en begrijpbaar maken voor jouw doelgroep. Je kan Peter bellen op **[085 - 2738331](tel:0852738331)** om direct even te sparren over de mogelijkheden.
     displaymedia: image
     image:
       source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
