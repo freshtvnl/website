@@ -97,6 +97,12 @@ blocks:
     number_of_items: 3
     heading: h3
     title: Blogs
+  - type: selectedreviews_block
+    title: Klantverhalen
+    items:
+      - pra-health-sciences-review
+      - DMT
+      - Save The Children commercial
 seo:
   title: Phil & Flo · Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
