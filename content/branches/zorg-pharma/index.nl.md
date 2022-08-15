@@ -149,6 +149,7 @@ blocks:
       - pra-health-sciences-review
       - netwerkz-review
       - familienet
+    title: Klantverhalen
 seo:
   title: "Wij verbeelden de wereld van de zorg | Phil & Flo "
   description: "Van uitleganimatie tot employer branding. Phil & Flo helpt jouw
