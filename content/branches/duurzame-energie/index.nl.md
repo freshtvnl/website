@@ -23,7 +23,7 @@ blocks:
     cta:
       url: /offerte-ontvangen/
       type: button
-      text: Ontvang jeofferte
+      text: Ontvang je offerte
       color: pink
     displaymedia: custom_video
     image:
