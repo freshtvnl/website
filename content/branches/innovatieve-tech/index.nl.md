@@ -26,10 +26,10 @@ blocks:
       zijn dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
       expertises inzetten om hun inspirerende verhaal te verbeelden.
     cta:
-      color: yellow
+      color: pink
       type: button
-      text: Neem direct contact op
-      url: /contact/
+      text: Ontvang je offerte
+      url: /offerte-ontvangen/
     displaymedia: custom_video
     align: left
   - type: content_block
@@ -45,9 +45,10 @@ blocks:
       source_webm: https://video.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.webm
       autoplay: true
     cta:
-      url: /30-minuten/
-      text: 30 minuten sparren
+      url: /contact/
+      text: Neem contact op
       type: button
+      color: green
   - type: content_block
     align: left
     content: >-
@@ -91,9 +92,10 @@ blocks:
 
       Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     cta:
-      url: https://www.philenflo.nl/contact/
+      url: /contact/
       text: Neem contact op
       type: button
+      color: green
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
@@ -102,15 +104,21 @@ blocks:
       - Synadia
       - SHOWA
       - TNO
-  - type: selectedreviews_block
-    title: Google Reviews
+  - type: selectedwork_block
+    title: Succesverhalen
     items:
-      - TNO-Review
-      - Bigshopper
-      - showa
+      - premium-positioning-2d-animatiefilm
+      - KG Systems - 3D Animatie Vertical Farming
+      - OIO systems
   - type: contact_block
     contacts:
       - victor
+  - type: selectedreviews_block
+    title: Google Reviews
+    items:
+      - Bigshopper
+      - showa
+      - premium-positioning-review
 seo:
   title: Innovatieve tech | Phil & Flo creative studio voor elke branche
   description: Videomarketing voor de innovatieve technologie branche. Phil & Flo
