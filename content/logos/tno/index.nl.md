@@ -1,7 +1,7 @@
 ---
 title: TNO
 image:
-  source: images/tno-energy-transition-logo-partner.png
+  source: images/tno.png
 seo:
   noindex: true
 ---
