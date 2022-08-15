@@ -114,7 +114,7 @@ blocks:
     contacts:
       - victor
   - type: selectedreviews_block
-    title: Google Reviews
+    title: Klantverhalen
     items:
       - Bigshopper
       - showa
