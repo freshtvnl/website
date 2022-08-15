@@ -152,6 +152,11 @@ blocks:
       - algemene-voorwaarden
       - bedankt-nieuwsbrief
       - contact
+  - type: selectedreviews_block
+    title: Klantverhalen
+    items:
+      - oio-systems
+      - DMT
 seo:
   title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie. ✔
