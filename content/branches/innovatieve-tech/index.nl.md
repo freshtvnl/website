@@ -38,7 +38,7 @@ blocks:
       ## ***Vernieuwen en innoveren***
 
 
-      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. 085 -273 8331 of klik op de button hieronder.
+      Tech is vernieuwen en innoveren, nieuwe producten en oplossingen zijn zelfs zo vernieuwend dat je doelgroep een extra vertaalslag nodig heeft om het te begrijpen. Wij helpen hierbij en kennen de uitdagingen in de technologische sectoren. Victor is onze enthousiasteling en dus aanspreekpunt voor de Innovatieve Tech sector. Je kan hem direct bellen om even vrijblijvend te sparren over de mogelijkheden. **[085 - 2738331](tel:0852738331)** of klik op de button hieronder.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/innovatieve-tech-video-Phil-en-Flo.mp4
