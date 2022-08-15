@@ -21,9 +21,9 @@ blocks:
     content: Phil en Flo maakt specialistische video en animatiefilms met impact,
       speciaal voor jouw organisatie in de duurzame energie sector.
     cta:
-      url: /contact/
+      url: /offerte-ontvangen/
       type: button
-      text: Informatie ontvangen
+      text: Ontvang jeofferte
       color: pink
     displaymedia: custom_video
     image:
@@ -44,9 +44,9 @@ blocks:
       autoplay: true
     cta:
       url: /contact/
-      text: Neem direct contact op
+      text: Neem contact op
       type: button
-      color: pink
+      color: green
   - type: content_block
     video:
       autoplay: true
