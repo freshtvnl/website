@@ -103,7 +103,7 @@ blocks:
       ## ***Duurzaam inzetbaar***
 
 
-      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime inzetbaar zijn. Bel ons direct voor vrijblijvend advies op 085 -273 8331.
+      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime inzetbaar zijn. Bel ons direct voor vrijblijvend advies op **[085 - 2738331](tel:0852738331)**.
   - type: selectedwork_block
     items:
       - Douwe Egberts - Cafitesse Commercial
