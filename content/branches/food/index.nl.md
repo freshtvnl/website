@@ -32,10 +32,10 @@ blocks:
     align: left
     displaymedia: custom_video
     cta:
-      url: /contact/
-      text: Neem direct contact op
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
       type: button
-      color: green
+      color: pink
   - type: content_block
     align: right
     displaymedia: image
@@ -61,7 +61,8 @@ blocks:
     cta:
       url: /portfolio/
       text: Bekijk ons portfolio
-      type: link
+      type: button
+      color: green
   - type: logoblock
     title: Bewezen trackrecord
     content: ""
@@ -84,9 +85,9 @@ blocks:
       Phil & Flo Creative Studio specialiseert zich in het vastleggen en verbeelden van fair food. Als je kijkt naar de wereld van morgen, dan zie je dat er nog veel moet gebeuren om iedereen te voorzien van duurzame voedsel. Wij proberen dit te versnellen door jou te helpen met het verbeelden van je product of innovatie.
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang je offerte
       type: button
-      color: green
+      color: pink
   - type: content_block
     align: left
     displaymedia: image
@@ -103,7 +104,7 @@ blocks:
       - Douwe Egberts - Cafitesse Commercial
       - Beckys - 3D animatie
       - Infomercial hzpc sunita
-    title: Cases
+    title: Succesverhalen
   - type: contact_block
     contacts:
       - peter-de-graaf
