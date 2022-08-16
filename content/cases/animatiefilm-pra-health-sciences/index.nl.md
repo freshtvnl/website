@@ -81,7 +81,7 @@ blocks:
       ICON is een uitstekend voorbeeld van een geslaagde videocampagne. Het denkwerk voorafgaand aan de filmopnames en animeerwerk in combinatie met het goed online wegzetten op YouTube heeft geresulteerd tot een verdubbeling in het aantal aanmeldingen. Met name de uitleganimatie doet haar werk uitstekend met inmiddels meer dan 1 miljoen weergaven. Kijk voor alle videoresultaten eens naar het compleet ingerichte [YouTube kanaal van ICON geneesmiddelenonderzoek](https://www.youtube.com/c/ICONGeneesmiddelenonderzoek).
 
 
-      Wil je ook meer informatie over een videocampagne voor jouw organisatie? Neem contact op of bel onze adviseurs 085 273 8331
+      Wil je ook meer informatie over een videocampagne voor jouw organisatie? Neem contact op of bel onze adviseurs **[085 - 2738331](tel:0852738331)**
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg-ICON3.mp4
