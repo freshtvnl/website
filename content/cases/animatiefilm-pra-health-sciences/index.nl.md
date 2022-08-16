@@ -100,6 +100,9 @@ blocks:
   - type: contact_block
     contacts:
       - suzan-abbas
+  - type: selectedreviews_block
+    items:
+      - pra-health-sciences-review
 seo:
   title: Animatiefilm ICON Geneesmiddelenonderzoek - Phil & Flo Videomarketing
   description: "Phil & Flo Videomarketing presenteert de animatiefilm ICON
