@@ -1,7 +1,7 @@
 ---
 title: Interactieve school tours
 slug: interactieve-school-tours
-draft: true
+draft: false
 color: yellow
 blocks:
   - type: hero_block
