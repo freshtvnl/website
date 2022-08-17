@@ -17,6 +17,7 @@ blocks:
       - RSG-Sneek-interactieve-video-schooltour
       - park-lyceum
       - CSG-het-streek-college-interactieve-tour
+      - noorderpoort
   - type: selectedreviews_block
     items:
       - review-csb-amsterdam
