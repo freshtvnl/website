@@ -27,4 +27,9 @@ blocks:
       - CSG-het-streek-lyceum-interactieve-tour
     more_items: false
     title: Bekijk hier onze ***virtuele tours voor het onderwijs***.
+  - type: selectedwork_block
+    items:
+      - RSG-Sneek-interactieve-video-schooltour
+      - park-lyceum
+      - noorderpoort
 ---
