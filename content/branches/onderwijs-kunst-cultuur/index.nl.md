@@ -79,9 +79,9 @@ blocks:
 
 
       De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
-    displaymedia: image
+    displaymedia: iframe
     iframe:
-      source: ""
+      source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
       alt: Opname video onderwijs
