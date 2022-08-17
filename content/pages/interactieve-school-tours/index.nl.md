@@ -1,5 +1,5 @@
 ---
-title: Interactieve school tours
+title: interactieve school tours
 slug: interactieve-school-tours
 draft: true
 color: yellow
@@ -17,9 +17,9 @@ blocks:
       behulp van knoppen. Door de coronacrisis vielen open dagen in het
       onderwijs weg, hierdoor ontstond het idee dit op te vangen met een
       interactieve video. Hiermee wordt een virtuele tour gecreërd, waarbij je
-      al maker bepaalt welke routes er zijn, maar de kijker de vrijheid geeft om
-      te bekijken wat hij zelf wil. Perfect om in te zetten als virtuele tour in
-      het onderwijs.
+      als maker bepaalt welke routes er zijn, maar de kijker de vrijheid geeft
+      om te bekijken wat hij zelf wil. Perfect om in te zetten als virtuele tour
+      in het onderwijs.
   - type: selectedwork_block
     items:
       - CSB Amsterdam interactieve tour
