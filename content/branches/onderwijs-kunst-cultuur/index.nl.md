@@ -48,8 +48,8 @@ blocks:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     align: right
     cta:
-      url: /interactieve-school-tours/
-      text: Bekijk alle schooltours
+      url: /alle-interactieve-tours-onderwijs/
+      text: Bekijk alle interactieve onderwijs tours
       type: button
       color: green
   - type: content_block
