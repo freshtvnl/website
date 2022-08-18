@@ -75,7 +75,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: 3D animatie voor KG Systems | Phil & Flo | Verbeelden de wereld van morgen
+  title: 3D animatie voor KG Systems | Phil & Flo
   description: Phil & Flo heeft in een 3D animatie het verhaal van KG systems
     vertaald. Laat je inspireren door de voedselproductie van morgen.
 ---
