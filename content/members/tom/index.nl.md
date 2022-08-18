@@ -11,4 +11,6 @@ blocks:
       autoplay: true
     align: left
     content: "## ***Over Tom***"
+seo:
+  noindex: true
 ---
