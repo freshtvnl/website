@@ -69,7 +69,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Gemeente Amstelveen | Uitkering uitgelegd in 2D animatie | Phil & Flo
+  title: Gemeentezaken uitgelegd in 2D animatie | Phil & Flo
   description: "Uitkering uitgelegd in 2D animatie voor de gemeente Amstelveen |
     Bekijk het hierin het portfolio van Phil & Flo "
 ---
