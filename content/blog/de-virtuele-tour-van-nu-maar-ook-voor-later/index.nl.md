@@ -8,7 +8,8 @@ image:
 date: 2022-07-14T11:54:34.367Z
 color: yellow
 seo:
-  title: "Een virtuele tour "
+  title: Een virtuele tour laten maken | Phil & Flo
+  description: Laat een virtuele tour maken van jouw bedrijf of organisatie | Phil & Flo
 ---
 In de periode dat we geen fysieke evenementen en bijeenkomsten konden bijwonen, hebben veel bedrijven een [video laten maken](https://www.philenflo.nl/oplossingen/video-laten-maken/). En een virtuele tour was helemaal dé oplossing. Maar ook nu dit wel weer kan, blijft het een prachtige manier om online op te vallen. Je geeft met zo’n digitale rondleiding de kijker de mogelijkheid om op te gaan in de omgeving en echt de sfeer te proeven. Het resulteert in meer bezoekers, leads, omzet en waardering. Wil je weten hoe? In dit blog lees je over de verschillende mogelijkheden. 
 
