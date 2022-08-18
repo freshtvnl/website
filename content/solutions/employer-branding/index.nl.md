@@ -196,7 +196,7 @@ blocks:
       - wat-moeten-wij-aanleveren-voor-een-employer-branding-video
       - welke-voice-over-wordt-ingezet-bij-een-employer-branding-video
 seo:
-  title: Employer Branding video laten maken | Phil & Flo Creative studio
+  title: Employer Branding video laten maken | Phil & Flo
   description: Employer branding video laten maken op maat | Phil & Flo |  ✔ Uniek
     ✔ Gericht op de juiste doelgroep ✔ Klantscore van 8.9 ✔ Imponerend | Neem
     contact op
