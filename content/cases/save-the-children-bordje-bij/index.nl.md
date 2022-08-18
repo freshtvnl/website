@@ -22,7 +22,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Save-the-Children-uitleganimatie.mp4
-    title: Save the Children - Bordje Bij ***Uitleganimatie***
+    title: "***Uitleganimatie***"
     displaymedia: custom_video
 seo:
   title: Save the Children Campagne | Phil & Flo
