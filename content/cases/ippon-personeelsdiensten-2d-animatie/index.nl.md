@@ -13,7 +13,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatiefilm-IPPON-onderwijs-personeelsdiensten.mp4
-    title: Serieuze zaken in een leuke ***2D animatie***
+    title: IPPON Personeelszaken onderwijs - ***2D animatie***
     content: "IPPON is dé specialist voor vervanging van personeel in het onderwijs.
       Daarnaast zijn ze voor de student een 'vangnet' zodra ze net afgestudeerd
       zijn en nog niet precies weten waar ze willen werken. Maar hoe precies
