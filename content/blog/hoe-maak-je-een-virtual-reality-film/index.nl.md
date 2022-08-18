@@ -8,7 +8,7 @@ image:
 date: 2022-07-14T13:16:26.099Z
 color: green
 seo:
-  title: Een virtual reality film laten maken, hoe doe je dat? | Phil & Flo | Blog
+  title: Hoe moet je een virtual reality film laten maken? | Phil & Flo
   description: Hoe maak je een virtual reality film en hoe zet je deze in? Phil &
     Flo vertelt het je in dit blog.
 ---
