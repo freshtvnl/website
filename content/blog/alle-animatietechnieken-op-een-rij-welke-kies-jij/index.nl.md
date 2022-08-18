@@ -9,9 +9,9 @@ author: aron
 date: 2022-05-11T13:30:06.293Z
 color: green
 seo:
-  title: "Welk soort animatie moet ik kiezen? 2D of 3D animatie? | Phil & Flo | Blog "
-  description: "Welke animatietechnieken kun jij het beste gebruiken? In dit
-    artikel leggen wij de verschillen uit en welke het beste past bij jou. "
+  title: Een 2D of 3D animatie voor mijn bedrijf? | Phil & Flo
+  description: Welke animatietechnieken kun jij het beste gebruiken? Wat zijn de
+    de verschillen tussen 2D en 3D? Welke past het bij jouw bedrijf?
 ---
 Veel mensen denken bij animatie meteen aan een Disney of Pixar film, maar er zijn veel meer soorten en stijlen. In dit artikel zetten we een aantal zaken op een rijtje die helpen bij het maken van een goede keuze.
 
