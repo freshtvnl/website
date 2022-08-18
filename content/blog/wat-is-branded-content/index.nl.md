@@ -8,10 +8,9 @@ image:
 date: 2021-08-23T12:36:06.374Z
 color: green
 seo:
-  title: "Wat is branded content? | Phil & Flo verbeelden de wereld van morgen "
-  description: "Wat is branded content? In dit artikel leggen wij je wat branded
-    content is en hoe dit kunt inzetten. Phil & Flo helpt jou met een slimme
-    strategie. "
+  title: Wat is branded content? | Phil & Flo
+  description: "Wat is branded content? We leggen je uit wat branded content is en
+    hoe je dit kunt inzetten. Phil & Flo helpt jou met een slimme strategie. "
 ---
 We leven in een tijd waarin merken vechten om onze aandacht. Content is overal en prikkels zijn zo alomtegenwoordig zijn dat de gemiddelde consument er haast immuun voor is geraakt. Tv [commercials](https://www.philenflo.nl/commercial-laten-maken/), prerolls, banners, social media ads. Allemaal voorbeelden van content waarmee je mensen eerder mee verveelt dan verleidt. Tel daar de komst van adblockers bij op en er ontstaat een echte uitdaging: Hoe bereik je consumenten in 2021? 
 
