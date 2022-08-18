@@ -53,8 +53,8 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Youtube marketing - Adverteer op YouTube - Phil & Flo Videomarketing
+  title: YouTube video marketing; adverteren op YouTube | Phil & Flo
   description: Youtube Marketing. Wij adviseren je hoe je video en animatiefilms
     in kunt zetten in het reclamenetwerk van YouTube. Ontdek de kracht van
-    YouTube marketing!
+    YouTube marketing.
 ---
