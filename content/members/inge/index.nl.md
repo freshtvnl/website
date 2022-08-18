@@ -47,4 +47,5 @@ seo:
   title: Medewerker Inge van Phil & Flo | Wij verbeelden de wereld van morgen
   description: "De wereld van Inge | Medewerkster bij Phil & Flo | Maak kennis met
     ons team. "
+  noindex: true
 ---
