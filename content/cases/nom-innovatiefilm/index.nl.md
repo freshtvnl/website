@@ -12,7 +12,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Inspiratiefilm%20laten%20maken%20NOM%20-%20Phil%20en%20Flo.mp4
-    title: "***Innovatiefilm*** NOM"
+    title: NOM Investerings- en ontwikkelingsmaatschappij - ***Innovatiefilm***
     content: "Investerings- en Ontwikkelingsmaatschappij voor Noord-Nederland helpt
       ondernemingen groeien en de volgende stap te zetten. De komende jaren
       zetten zij in op een viertal trends: Slimmer, duurzamer, gezonder,
