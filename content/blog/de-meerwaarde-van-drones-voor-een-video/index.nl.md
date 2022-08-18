@@ -9,7 +9,7 @@ author: julia
 date: 2022-07-14T07:17:12.791Z
 color: pink
 seo:
-  title: Waarom je een drone video zou moeten maken | Phil & Flo | Blog
+  title: Meerwaarde waarom je een drone video moet maken | Phil & Flo
   description: Wat is de meerwaarde van drone's voor je video? In dit blog
     vertellen we waarom je een drone video zou moeten laten maken.
 ---
