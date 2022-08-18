@@ -31,7 +31,7 @@ blocks:
     displaymedia: null
 seo:
   noindex: true
-  title: "Suzan Abbas | Phil & Flo. "
+  title: Suzan Abbas | Phil & Flo
   description: Suzan Abbas | Eigenaar Phil & Flo | Marketing en video expert met
     specialisme in de zorg, pharma en onderwijs.
 ---
