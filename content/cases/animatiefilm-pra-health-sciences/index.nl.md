@@ -104,7 +104,7 @@ blocks:
     items:
       - pra-health-sciences-review
 seo:
-  title: Animatiefilm ICON Geneesmiddelenonderzoek - Phil & Flo Videomarketing
+  title: Animatiefilm ICON Geneesmiddelenonderzoek | Phil & Flo
   description: "Phil & Flo Videomarketing presenteert de animatiefilm ICON
     Geneesmiddelenonderzoek: Hoe werkt geneesmiddelenonderzoek?"
 ---
