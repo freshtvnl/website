@@ -8,10 +8,9 @@ image:
 date: 2021-09-12T12:47:04.091Z
 color: yellow
 seo:
-  title: Het nut van Employer Branding voor jouw bedrijf | Phil & Flo | Blog
-  description: "Wat is het nut van een employer branding video voor jouw bedrijf?
-    In dit artikel leggen wij het uit. Phil & Flo verbeeld de wereld van morgen.
-    "
+  title: Employer Branding voor jouw bedrijf | Phil & Flo
+  description: Wat is het nut van een employer branding video voor jouw bedrijf? |
+    Phil & Flo
 ---
 ## Het nut van een employer branding video voor jouw bedrijf
 
