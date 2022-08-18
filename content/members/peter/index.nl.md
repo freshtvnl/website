@@ -45,7 +45,7 @@ blocks:
       - umcg-chirurgie-employer-branding-film
       - coornhert-gymnasium-promotiefilm-school
 seo:
-  title: Peter de Graaf | Phil & Flo | Wij verbeelden de wereld van morgen
+  title: Peter de Graaf | Phil & Flo
   description: Peter de Graaf | Eigenaar Phil & Flo | De wereld van Peter, is de
     wereld van morgen. Maak snel kennis.
 ---
