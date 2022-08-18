@@ -12,7 +12,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Huis-zonnepanelen-drone-shot.mp4
-    title: "***Productfilm Elsun***"
+    title: Zonnepanelen van Elsun - ***Productfilm***
     content: Hoe wekken we onze energie op in de wereld van morgen? Geen
       kolencentrales, geen greenwashing zoals met biomassacentrales, maar échte
       duurzame energiebronnen. Één van die bronnen is de zon. Elsun vroeg ons om
