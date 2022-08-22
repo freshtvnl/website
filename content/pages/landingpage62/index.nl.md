@@ -98,7 +98,7 @@ blocks:
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
 seo:
-  title: Animatie film laten maken in Eindhoven | Phil & Flo Videomarketing
+  title: Animatie film laten maken in Eindhoven | Phil & Flo
   description: Animatie film laten maken in Eindhoven | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Interactief &
     innovatief | Neem contact op
