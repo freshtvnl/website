@@ -25,7 +25,7 @@ blocks:
       - ICON
       - Payconiq
 seo:
-  title: Ontvang jouw op maat gemaakte offerte binnen 1 werkdag | Phil & Flo
+  title: Offerte op maat binnen 1 werkdag | Phil & Flo
   description: Offerte aanvragen | Binnen 1 werkdag een prijs op maat voor
     professionele organisaties. Altijd op maat en voor de juiste prijs.
 menu:
