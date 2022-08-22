@@ -110,5 +110,5 @@ seo:
   title: Animatie laten maken in Amsterdam | Phil & Flo Videomarketing
   description: Animatie laten maken in Amsterdam | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Gepersonaliseerd verhaal ✔ Creatief, interactief &
-    innovatief | Neem contact op
+    innovatief
 ---
