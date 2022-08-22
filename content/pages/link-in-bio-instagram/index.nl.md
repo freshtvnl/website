@@ -74,4 +74,6 @@ blocks:
       text: MVO door Phil & Flo
       type: button
       color: green
+seo:
+  noindex: true
 ---
