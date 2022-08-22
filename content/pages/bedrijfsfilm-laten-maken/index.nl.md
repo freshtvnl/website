@@ -2,6 +2,9 @@
 title: Bedrijfsfilm
 slug: bedrijfsfilm-laten-maken
 draft: false
+image:
+  source: images/jde-phil-en-flo-behind-the-scenes.jpg
+  alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm*** laten maken"
@@ -36,7 +39,7 @@ blocks:
       Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
     displaymedia: custom_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
       autoplay: true
@@ -50,7 +53,7 @@ blocks:
       75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals [YouTube](https://www.philenflo.nl/you-tube-marketing/), Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/you-tube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
     displaymedia: custom_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
@@ -74,6 +77,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
     align_text: text-left
     video:
       autoplay: false
@@ -87,6 +91,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
@@ -99,7 +104,7 @@ blocks:
       Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)!
     displaymedia: custom_video
     image:
-      source: images/inge-bank.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
@@ -113,7 +118,7 @@ blocks:
       Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
     displaymedia: custom_video
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
@@ -126,7 +131,7 @@ blocks:
       Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
     displaymedia: custom_video
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
@@ -141,6 +146,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
     video:
       autoplay: false
   - type: selectedwork_block
@@ -165,6 +171,7 @@ blocks:
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
     displaymedia: custom_video
     align_text: text-left
   - type: content_block
@@ -182,6 +189,7 @@ blocks:
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Ontvang je offerte
@@ -208,6 +216,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde2.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -228,6 +237,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
     align_text: text-left
   - type: content_block
     video:
@@ -245,6 +255,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: contact_block
     contacts:
       - peter-de-graaf
