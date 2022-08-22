@@ -102,4 +102,6 @@ blocks:
       text: Meer informatie opvragen
       type: button
       color: green
+seo:
+  noindex: true
 ---
