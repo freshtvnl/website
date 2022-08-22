@@ -112,7 +112,7 @@ blocks:
     image:
       source: images/210505-philenflo-schermachtergrond3.jpg
 seo:
-  title: HBO Stage Marketing & Communicatie | Phil & Flo Creative Studio
+  title: HBO Stage Marketing & Communicatie | Phil & Flo
   description: HBO Stage Marketing & Communicatie bij Phil & Flo Creative Studio.
     Meld je nu aan en solliciteer op deze toffe functie.
 ---
