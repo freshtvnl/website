@@ -121,8 +121,8 @@ blocks:
       - review-csb-amsterdam
     title: Klantverhalen
 seo:
-  title: "Video, animatie en virtuele tours voor het onderwijs en de kunst sector
-    | Phil & Flo "
+  title: "Video, animatie & virtuele tour voor onderwijs en kunst sector | Phil &
+    Flo "
   description: Verbeeld met animatie, interactieve film, virtual reality jouw
     wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
     unieke video's.
