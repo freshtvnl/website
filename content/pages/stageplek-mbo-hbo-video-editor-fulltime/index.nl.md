@@ -93,4 +93,8 @@ blocks:
 
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
     align: center
+seo:
+  title: MBO/HBO Stage Video editor | Phil & FLo
+  description: MBO/HBO Stage Video editor bij Phil & FLo. Meld je nu aan en
+    solliciteer op deze toffe functie.
 ---
