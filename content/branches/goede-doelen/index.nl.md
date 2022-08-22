@@ -71,7 +71,7 @@ blocks:
       - Save The Children commercial
     title: Klantverhalen
 seo:
-  title: De wereld van morgen verbeelden voor goede doelen | Phil & Flo
+  title: Video & animatie voor goede doelen | Phil & Flo
   description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
     juiste animaitefilm of video. Zo wordt jouw boodschap gehoord. "
 ---
