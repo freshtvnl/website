@@ -54,7 +54,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
-      alt: Inge op de bank
+      alt: Inge - Phil & Flo
     video:
       autoplay: false
   - type: content_block
@@ -67,7 +67,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/peter-opnames-douwe-egberts.jpg
-      alt: Opnames Douwe Egberts
+      alt: JDE filmopnames - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
