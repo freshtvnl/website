@@ -26,7 +26,6 @@ blocks:
       geneesmiddelenonderzoek in beeld.
 seo:
   title: Interactieve tour ICON Geneesmiddelenonderzoek | Phil & Flo
-  description: Met een interactieve tour kun je je organisatie perfect in beeld
-    brengen. Zo ook het geneesmiddelenonderzoek van ICON Groningen | Neem
-    contact op voor de mogelijkheden | Phil & Flo
+  description: Breng je organisatie in beeld met een interactieve tour. |
+    Geneesmiddelenonderzoek ICON Groningen door Phil & Flo
 ---
