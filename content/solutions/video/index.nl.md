@@ -210,7 +210,7 @@ blocks:
       - hebben-jullie-voorbeelden-van-bedrijfsfilms
     title: Veelgestelde vragen
 seo:
-  title: Video laten maken - Professioneel en Goed - Phil & Flo Videomarketing
+  title: Professionele video laten maken | Phil & Flo
   description: Een video laten maken door Phil & Flo | Wij maken een video die
     scoort bij je doelgroep | Een video die je organisatie succesvol in beeld
     brengt. Bel ons nu.
