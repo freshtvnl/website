@@ -88,6 +88,7 @@ blocks:
 seo:
   title: Sitemap - Phil & Flo Video Creative Studio
   description: null
+  noindex: true
 menu:
   footer:
     weight: 6
