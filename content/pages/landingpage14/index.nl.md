@@ -79,8 +79,8 @@ blocks:
     contacts:
       - inge
 seo:
-  title: Branding video laten maken | Phil & Flo Videomarketing
-  description: Branding Video laten maken | Vertel jouw verhaal met storytelling ✔
+  title: Branding video laten maken | Phil & Flo
+  description: Branding video laten maken | Vertel jouw verhaal met storytelling ✔
     Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
-    Creatief & interactief
+    Creatief
 ---
