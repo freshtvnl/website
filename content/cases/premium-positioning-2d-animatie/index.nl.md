@@ -20,4 +20,6 @@ blocks:
       meten van bossen, bouwen van flats of het automatisch laten besturen van
       machines. Premium Positioning maakt dat mogelijk met hun RTK premium
       network. In deze 2D animatie zie je hoe dat in zijn werk gaat.
+seo:
+  noindex: true
 ---
