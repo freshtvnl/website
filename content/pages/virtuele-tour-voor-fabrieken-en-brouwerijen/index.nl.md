@@ -76,8 +76,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: "Digitale rondleiding laten maken door fabrieken en brouwerijen | Phil &
-    Flo "
+  title: "Virtuele tour fabrieken en brouwerijen | Phil & Flo "
   description: Digitale rondleiding fabrieken en brouwerijen laten maken door Phil
     & Flo. Wij verbeelden het ✔ Klantscore 8.9 ✔ Altijd origineel en uniek ✔
     Professioneel
