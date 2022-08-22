@@ -10,13 +10,13 @@ blocks:
     content: ""
     type: hero_block
     video:
-      source_mp4: https://video.philenflo.nl/video/Phil-Flo-Wij-verbeelden-de-wereld-van-morgen.mp4
+      source_mp4: ""
       autoplay: false
       image:
         source: phil-flo-animatie.jpg
     image:
-      source: phil-flo-animatie.jpg
-      alt: Phil en Flo
+      source: ""
+      alt: ""
   - displaymedia: youtube_video
     youtube:
       id: 7TOmvPxRGC8
@@ -39,7 +39,7 @@ blocks:
       image:
         source: phil-flo-animatie.jpg
     image:
-      source: phil-flo-animatie.jpg
+      source: ""
   - type: content_block
     video:
       autoplay: true
@@ -65,6 +65,7 @@ blocks:
     displaymedia: image
     image:
       source: jde-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: logoblock
     title: Onze klanten
     logo_items:
