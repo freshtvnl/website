@@ -98,4 +98,6 @@ blocks:
   - type: contact_block
     contacts:
       - SuvmI3S6V
+seo:
+  noindex: true
 ---
