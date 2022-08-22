@@ -15,7 +15,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: "30 minuten sessie | Phil & Flo | Wij verbeelden de wereld van morgen "
+  title: Creatieve sessie 30 minuten | Phil & Flo
   description: Boek nu een vrijblijvende sessie over de inzet van video, animatie
     of videomarketing. Phil & Flo verbeeld de wereld van morgen
 menu:
