@@ -106,7 +106,7 @@ blocks:
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
     displaymedia: null
 seo:
-  title: HBO/WO Stage International Business | Phil & Flo Creative Studio
+  title: HBO/WO Stage International Business | Phil & Flo
   description: HBO/WO Stage International Business bij Phil & Flo Creative Studio.
     Meld je nu aan en solliciteer op deze toffe functie.
 ---
