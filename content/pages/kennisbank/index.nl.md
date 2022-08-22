@@ -59,8 +59,7 @@ blocks:
       - wat-is-een-promotiefilm
       - wat-is-een-instructiefilm
 seo:
-  title: "Kennisbank | Wij verbeelden de wereld van morgen met animatie en video.
-    | Phil & Flo "
+  title: "Kennisbank over animatie en video | Phil & Flo "
   description: Meer weten over video en animatie? Lees en leer hier meer over
     video en animatie.
 menu:
