@@ -34,4 +34,6 @@ blocks:
       Neem contact op!
     align: center
     align_text: text-center
+seo:
+  noindex: true
 ---
