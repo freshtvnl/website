@@ -3,6 +3,7 @@ title: MVO
 slug: maatschappelijk-verantwoord-ondernemen
 image:
   source: images/rhinohorn_commercial-phil-en-flo.jpg
+  alt: Maatschappelijk verantwoord ondernemen - Phil & Flo
 color: orange
 blocks:
   - type: hero_block
@@ -11,6 +12,7 @@ blocks:
     displaymedia: null
     image:
       source: images/florian-geeft-water-mvo-phil-en-flo-2.jpg
+      alt: Florian - Phil & Flo
     video:
       source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
       autoplay: true
@@ -39,6 +41,7 @@ blocks:
     align: right
     image:
       source: images/rhinohorn_commercial-phil-en-flo.jpg
+      alt: Maatschappelijk verantwoord ondernemen - Phil & Flo
     displaymedia: image
     cta:
       url: /contact/
@@ -71,6 +74,7 @@ blocks:
       [](https://meewind.nl/fonds/energie-transitiefonds/)[](https://meewind.nl/fonds/zeewind-bestaande-parken/)Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
     image:
       source: images/phil-en-flo-mvo.jpg
+      alt: Milieuvriendelijk - Phil & Flo
     displaymedia: image
   - type: content_block
     content: >-
@@ -81,6 +85,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-keuze.jpg
+      alt: Keuze - Phil & Flo
     align: right
   - type: contact_block
     contacts:
