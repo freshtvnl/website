@@ -263,7 +263,7 @@ blocks:
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
     title: Veelgestelde vragen
 seo:
-  title: Bedrijfsfilm laten maken - hoogwaardig, duurzaam en creatief | Phil & Flo
+  title: Duurzame & creatieve bedrijfsfilm laten maken | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
     en snel gerealiseerd
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
