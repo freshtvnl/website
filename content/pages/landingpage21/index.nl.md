@@ -203,7 +203,7 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-reclame
       - welke-muziek-gebruiken-jullie-reclame
 seo:
-  title: Commercial laten maken voor tv en online | Phil & Flo Creative Studio
+  title: Commercial laten maken voor tv & online | Phil & Flo
   description: "Commercial laten maken voor tv of online  ✔ Klantscore 8.9 ✔ Uniek
     ✔ Gericht ✔ Imponerend | Neem contact op. "
 ---
