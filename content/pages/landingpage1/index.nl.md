@@ -2,6 +2,9 @@
 title: 3D Animatie
 slug: 3-d-animatie-laten-maken
 draft: false
+image:
+  source: images/alfen2.png
+  alt: Alfen - Phil & Flo
 blocks:
   - type: hero_block
     title: "***3D Animatie*** laten maken"
@@ -116,7 +119,7 @@ blocks:
       Onze animatoren gaan elke dag met veel enthousiasme naar hun werk. En dat kan alleen maar, omdat we geloven in onze eigen kracht en onze uitgesproken design filosofie. Een filosofie die aansluit bij onze eigen waarden. Wij geloven namelijk in de kracht van kleur en vormen en om deze te koppelen aan de eigen identiteit van de organisatie waar we de animatiefilms voor produceren. Zo creëren we een gave film die herkenbaar is voor jou organisatie maar die ook duidelijk onderscheidend is. Maak kennis met ons bureau voor meer informatie!
     displaymedia: custom_video
     image:
-      source: images/peter-suzan-kopie.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       autoplay: true
@@ -138,7 +141,7 @@ blocks:
       Lees meer over [animaties laten maken](https://www.philenflo.nl/oplossingen/employer-branding/), of bekijk meer animatie voorbeelden.
     displaymedia: custom_video
     image:
-      source: images/inge-bank.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
@@ -160,6 +163,7 @@ blocks:
     displaymedia: image
     image:
       source: images/20220329_113017_def.jpg
+      alt: Donatie Free A Girl - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -170,6 +174,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Ontvang je offerte
