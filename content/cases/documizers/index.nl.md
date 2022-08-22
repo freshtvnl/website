@@ -13,4 +13,6 @@ blocks:
     youtube:
       id: yA8xUdc4Obg
     title: "***2D Animatie Documizers***"
+seo:
+  noindex: true
 ---
