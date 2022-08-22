@@ -278,7 +278,7 @@ image:
   source: images/2d-animatie-laten-maken.jpg
 seo:
   title: Animatie laten maken | Phil & Flo | Uniek & Opvallend
-  description: Een Animatie laten maken doe je bij Phil & Flo | Opvallend ✔
-    Marketing geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons
-    nu voor meer info.
+  description: Een Animatie laten maken bij Phil & Flo | Opvallend ✔ Marketing
+    geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons nu voor
+    meer info.
 ---
