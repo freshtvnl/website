@@ -133,7 +133,7 @@ blocks:
       - hoe-lang-duurt-het-gemiddeld-voordat-een-drone-video-klaar-is
       - kan-ik-vrijblijvend-sparren-voor-een-drone-video
 seo:
-  title: Drone video laten maken | Phil & Flo verbeelden de wereld van morgen
+  title: Drone video laten maken | Phil & Flo
   description: Drone video laten maken voor passende content voor jouw doelgroep ✔
     Klantscore 8,9 ✔ Innovatief & interactief | Neem cotnact op
 ---
