@@ -152,7 +152,7 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-mijn-animatie
     title: Veelgestelde vragen
 seo:
-  title: 2D animatie laten maken | Phil & Flo verbeelden de wereld van morgen
+  title: 2D animatie laten maken | Phil & Flo
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design
 menu:
