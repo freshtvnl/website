@@ -12,7 +12,7 @@ blocks:
       Ben jij stemacteur of voice-over? Meld je dan zeker aan en neem contact met ons op.
     form: contact-formulier
 seo:
-  title: Aanmelden als stemacteur of -actrice voor voice-over - Phil & Flo
+  title: Aanmelden als stemacteur of stemactrice voor voice-over
   description: Ben jij een stemacteur- of actrice en lijkt het je leuk om in ons
     stemmenbestand te komen? Graag maken wij kennis met jouw voice-overstem,
     meld je snel aan!
