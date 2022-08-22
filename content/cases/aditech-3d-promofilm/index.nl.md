@@ -1,5 +1,5 @@
 ---
-title: AdiTech - 3D promofilm
+title: Aditech - 3D promofilm
 slug: aditech-3d-promofilm
 weight: -1
 draft: false
@@ -22,4 +22,6 @@ blocks:
       impactvolle promofilm om stakeholders kennis te laten maken met AdiTech en
       hun nieuwe branding.
     displaymedia: custom_video
+seo:
+  noindex: true
 ---
