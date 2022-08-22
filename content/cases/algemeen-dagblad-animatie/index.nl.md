@@ -16,4 +16,6 @@ blocks:
       image:
         source: images/algemeen-dagblad-amerikaanse-verkiezingen-2d-animatie-phil-en-flo.jpg
     title: Animatiefilm voor het ***Algemeen Dagblad***
+seo:
+  noindex: true
 ---
