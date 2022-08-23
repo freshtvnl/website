@@ -3,7 +3,8 @@ title: Drone video laten maken
 slug: drone-video-laten-maken
 draft: false
 image:
-  source: ""
+  source: images/filmdrone-expert-david-phil-flo.jpg
+  alt: David - Drone - Phil & Flo
 blocks:
   - type: hero_block
     align: center
@@ -64,6 +65,7 @@ blocks:
     displaymedia: image
     image:
       source: images/filmdrone-expert-david-phil-flo.jpg
+      alt: David - Drone - Phil & Flo
   - type: content_block
     video:
       autoplay: true
