@@ -5,7 +5,7 @@ weight: 4
 draft: false
 image:
   source: images/douwe-egberts-cafitesse.jpg
-  alt: ""
+  alt: JDE - Phil & Flo
 content_type: case
 color: orange
 branch: fair-food
@@ -52,6 +52,7 @@ blocks:
     displaymedia: image
     image:
       source: images/apjr_20190430_0001.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
