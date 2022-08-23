@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     video:
