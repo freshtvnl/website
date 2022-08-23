@@ -5,7 +5,7 @@ weight: 4
 draft: false
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
-  alt: "Videomarketing onderwijs "
+  alt: Onderwijs - Phil & Flo
 color: yellow
 blocks:
   - type: hero_block
@@ -84,7 +84,7 @@ blocks:
       source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
-      alt: Opname video onderwijs
+      alt: Coornhert - Phil & Flo
     video:
       autoplay: false
   - type: content_block
