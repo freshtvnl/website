@@ -5,6 +5,7 @@ weight: 6
 draft: false
 image:
   source: images/phil-en-flo-mvo.jpg
+  alt: Goede doelen - Phil & Flo
 color: red
 blocks:
   - type: hero_block
@@ -31,6 +32,7 @@ blocks:
       autoplay: true
     image:
       source: images/save-the-children.png
+      alt: Save the Children - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
@@ -45,6 +47,7 @@ blocks:
       Wil je meer weten over de mogelijkheden van een animatiefilm, een [virtuele tour](https://www.philenflo.nl/virtuele-tour/), een [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/) of een [persoonlijke film](https://www.philenflo.nl/gepersonaliseerde-video/) voor fondsenwerving, uitleg of begrip? Bel dan met Victor, hij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, **[085 - 2738331](tel:0852738331)**.
     image:
       source: images/home-start-goede-doelen.jpg
+      alt: Home Start - Phil & Flo
     displaymedia: image
     cta:
       url: /contact/
