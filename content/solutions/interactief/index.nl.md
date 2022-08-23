@@ -7,7 +7,7 @@ blocks:
     content: ""
     displaymedia: null
     image:
-      source: images/interactieve-video-philenflo.jpg
+      source: ""
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
     align: center
@@ -130,6 +130,7 @@ blocks:
     displaymedia: image
     image:
       source: images/cbs1.jpg
+      alt: CBS - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -154,6 +155,7 @@ blocks:
     displaymedia: image
     image:
       source: images/rsg-mag4.png
+      alt: RSG MAG Sneek - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -166,6 +168,7 @@ blocks:
     displaymedia: image
     image:
       source: images/ads_employer-branding-zorg_anios1.jpg
+      alt: UMCG - Phil & Flo
   - type: selectedwork_block
     title: Succesverhalen
     items:
@@ -197,6 +200,7 @@ slug: interactieve-video
 weight: 3
 image:
   source: images/interactieve-video-philenflo.jpg
+  alt: Interactieve video - Phil & Flo
 seo:
   title: Interactieve video | Phil & Flo Creative Studio
   description: "Interactieve video laten maken |  ✔ Passend voor jouw doelgroep ✔
