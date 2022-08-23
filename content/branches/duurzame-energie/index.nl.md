@@ -5,7 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/duurzame-energie-phil-en-flo.jpg
-  alt: text
+  alt: Duurzame energie - Phil & Flo
 color: green
 blocks:
   - type: hero_block
@@ -27,7 +27,7 @@ blocks:
       color: pink
     displaymedia: custom_video
     image:
-      source: images/phil-flo_icon_001.jpg
+      source: ""
   - type: content_block
     align: right
     content: >-
@@ -65,7 +65,7 @@ blocks:
       Wij begrijpen tot in detail de technische innovaties en complicaties in de energietransitie.
     displaymedia: custom_video
     image:
-      source: images/logo-xaam-alfen-tno.jpg
+      source: ""
   - type: content_block
     align: right
     content: >-
@@ -108,7 +108,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-de-graaf-phil-en-flo-duurzame-energie.jpg
-      alt: Peter de Graaf
+      alt: Peter - Phil & Flo
     video:
       autoplay: false
   - type: logoblock
@@ -158,7 +158,7 @@ blocks:
       - oio-systems
       - DMT
 seo:
-  title: Wij verbeelden de wereld van Duurzame Energie | Phil & Flo
+  title: Wij verbeelden de wereld van duurzame energie | Phil & Flo
   description: Videofilms of animatie's ter promotie van de duurzame energie. ✔
     Klantscore 8.9 ✔ Onderscheidende content ✔ Creatief & interactief | Neem
     contact op
