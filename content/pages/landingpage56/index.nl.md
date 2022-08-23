@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: content_block
     align: center
@@ -22,7 +23,7 @@ blocks:
       Wil je jezelf op een originele manier op de kaart zetten? Phil & Flo maakt voor jou een animatie om je bedrijf in Amsterdam te promoten. Een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) is vaak een leukere, luchtige manier dan alleen videobeelden, en geeft je bedrijf een frisse, levendige indruk. Er is van alles mogelijk: [2D-animatie](https://www.philenflo.nl/2d-animatie/), [3D-animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) en zelfs een combinatie met echte filmbeelden. Op ons kantoor in Amsterdam laten we je graag voorbeelden zien en vertellen je er alles over.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: ""
       text: ""
@@ -52,6 +53,7 @@ blocks:
       autoplay: true
     image:
       source: images/3d-animatie-laten-maken.jpg
+      alt: Alfen - Phil & Flo
   - type: content_block
     align: left
     content: >-
