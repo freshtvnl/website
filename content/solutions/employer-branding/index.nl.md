@@ -4,6 +4,7 @@ slug: employer-branding
 draft: false
 image:
   source: images/employer-branding-phil-en-flo.jpg
+  alt: Employer branding - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Employer Branding films***"
