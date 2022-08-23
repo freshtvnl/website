@@ -2,6 +2,9 @@
 title: Bedrijfsfilm Eindhoven
 slug: bedrijfsfilm-eindhoven
 draft: false
+image:
+  source: images/jde-phil-en-flo-behind-the-scenes.jpg
+  alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Bedrijfsfilm laten maken in Eindhoven***"
@@ -26,6 +29,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: JDE  filmopnames - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -36,6 +40,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -45,7 +50,8 @@ blocks:
       Iedereen kan tegenwoordig films maken. Met de camera op jouw smartphone en goedkope of zelfs gratis video editing software kun je al aan de slag. Maar vertel je dan het juiste verhaal, raak je dan de juiste snaar, en heb je er Uberhaupt tijd voor? Onze professionals leveren echt iets beters. Zeker in branches waar bedrijven over elkaar heen buitelen om aandacht te krijgen is een krachtige bedrijfsfilm cruciaal. Juist daarom kies je voor een professioneel videoproductiebedrijf dat vanuit jaren praktijkervaring jouw bedrijfsfilm produceert. In Eindhoven kun je hiervoor terecht bij Phil & Flo Creative Studio.
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Free a Girl - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -55,7 +61,8 @@ blocks:
       Een professionele film voor jouw bedrijf in Eindhoven is een mooi begin, maar hoe zorg je ervoor dat de juiste mensen hem nu ook daadwerkelijk onder ogen krijgen? Bij Phil & Flo hebben we veel ervaring met [videomarketingcampagne](https://www.philenflo.nl/oplossingen/videomarketing/)campagnes. Van traditionele Ad campagnes op je website tot “organische” video’s op social media. Haal ons in huis en je film wordt zeker gezien. [](https://www.freshtv.nl/contact/)
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte Ontvangen
@@ -70,6 +77,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil 7 Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
@@ -80,7 +88,7 @@ blocks:
   - contacts:
       - suzan-abbas
 seo:
-  title: Bedrijfsfilm Eindhoven | Snel en Professioneel | Phil & Flo
+  title: Bedrijfsfilm Eindhoven | Snel en professioneel | Phil & Flo
   description: Bedrijfsfilm laten maken in Eindhoven | Phil & Flo | ✔ Klantscore
     8.9 Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat | Neem contact
     op
