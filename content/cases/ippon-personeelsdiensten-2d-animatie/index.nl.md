@@ -4,6 +4,7 @@ slug: 2D-animatiefilm-IPPON
 draft: false
 image:
   source: images/thumbnail_ippon-1-1.jpg
+  alt: IPPON - Phil & Flo
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
@@ -33,6 +34,7 @@ blocks:
     displaymedia: image
     image:
       source: images/ippon1.png
+      alt: IPPON - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -49,6 +51,7 @@ blocks:
     displaymedia: image
     image:
       source: images/ippon-2-.png
+      alt: IPPON - Phil & Flo
   - type: logoblock
     title: Andere partners uit de onderwijs branche
     logo_items:
@@ -71,4 +74,6 @@ blocks:
     align: center
     align_text: text-left
     form: contact-formulier
+seo:
+  noindex: true
 ---
