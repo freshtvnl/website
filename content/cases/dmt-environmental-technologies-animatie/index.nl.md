@@ -4,7 +4,7 @@ slug: animatiefilm-over-biogas
 draft: false
 image:
   source: images/duurzame-energie-dmt-biogas.jpg
-  alt: ""
+  alt: DMT - Phil & Flo
 content_type: case
 color: green
 branch: duurzame-energie
@@ -17,7 +17,7 @@ blocks:
     title: "***Biogas productie*** - 3D animatie"
     displaymedia: custom_video
     image:
-      source: images/duurzame-energie-dmt-biogas.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       source_webm: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.webm
@@ -55,6 +55,7 @@ blocks:
       id: ""
     image:
       source: images/duurzame-energie-dmt-biogas-phil-en-flo.jpg
+      alt: Work in progress - DMT - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: vrijblijvend offerte aanvragen
