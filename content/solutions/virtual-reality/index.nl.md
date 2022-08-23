@@ -5,6 +5,7 @@ weight: 4
 draft: false
 image:
   source: images/vr-video-laten-maken.jpg
+  alt: Virtual reality - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Virtual Reality films***"
@@ -57,6 +58,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-geluid-groen-01.jpg
+      alt: Geluid - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -73,6 +75,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-360-groen.jpg
+      alt: 360 graden video - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -85,6 +88,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-marketing-groen.jpg
+      alt: Video marketing - Phil & Flo
   - type: content_block
     video:
       autoplay: true
