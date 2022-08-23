@@ -59,7 +59,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
-      alt: Animatie
+      alt: Showa - Phil & Flo
     video:
       source_mp4: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.mp4
       source_webm: https://video.philenflo.nl/video/innovatieve-tech-Phil-en-Flo-video-website.webm
@@ -73,6 +73,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
+      alt: OIO Systems - Phil & flo
     align: right
     video:
       autoplay: true
