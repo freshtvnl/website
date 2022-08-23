@@ -2,6 +2,9 @@
 title: Vacature video
 slug: vacature-video
 draft: false
+image:
+  source: images/beter-bed3.png
+  alt: Beter Bed - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Vacature*** video"
@@ -33,7 +36,8 @@ blocks:
       [Video](https://www.philenflo.nl/oplossingen/video-laten-maken/) is een activerend medium waardoor je talent activeert en attendeert op jouw boodschap. Met een vacature video kan je binnen één minuut uitleggen waar jouw organisatie voor staat en wat de functie inhoudt. Je neemt alle twijfel weg. Met jouw enthousiasme vertel je meteen waarom het zo leuk is om voor jullie te werken en kan het talent meteen proeven aan de sfeer. Daarna deel je de video op LinkedIn op adverteer je de video op de juiste doelgroep voor het allerbeste resultaat! Uiteraard helpen we je daarmee. We vertellen je ook graag meer over [virtuele employer branding tours](https://www.philenflo.nl/virtuele-tour-employer-branding/).
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -53,7 +57,7 @@ blocks:
       * Onderscheidend vermogen ten opzichte van alle concurrenten die ook vacatures open hebben staan.
     displaymedia: youtube_video
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
     youtube:
       id: zfG1OTMelcw
     cta:
