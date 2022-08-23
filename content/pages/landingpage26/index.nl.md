@@ -72,6 +72,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     cta:
       url: /contact/
       text: Neem contact op
