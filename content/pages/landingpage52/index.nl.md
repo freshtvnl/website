@@ -5,7 +5,7 @@ weight: 1
 id: wvUKuLAzh52
 image:
   source: images/2d-animatie-laten-maken.jpg
-  alt: Phil & Flo
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     align: center
