@@ -5,6 +5,7 @@ weight: 2
 draft: false
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
+  alt: JDE filmopnames - Phil & Flo
 color: green
 blocks:
   - type: hero_block
@@ -62,7 +63,7 @@ blocks:
       Wil je een commercial laten maken? Wij hebben maar één duidelijk doel: Jouw boodschap creatief en helder overbrengen aan de juiste doelgroep! Wij vinden het belangrijk dat de commercials die wij produceren van het hoogste niveau zijn. Daarnaast houden wij ons aan onze ethische normen. Lees hier meer over commercials.
     displaymedia: custom_video
     youtube:
-      id: uU_QxytkDYY
+      id: ""
       image:
         source: images/pra-louelle-commercial.jpg
     video:
@@ -84,7 +85,7 @@ blocks:
     video:
       autoplay: true
     youtube:
-      id: "7lgeGNnzvsQ "
+      id: ""
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
     cta:
