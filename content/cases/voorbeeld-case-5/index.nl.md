@@ -5,7 +5,7 @@ weight: 2
 draft: false
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
-  alt: zorg
+  alt: UMCG - Phil & Flo
 content_type: case
 color: pink
 branch: zorg-pharma
@@ -21,7 +21,7 @@ blocks:
     title: "***Werken als Anios*** - werken-bij video"
     displaymedia: youtube_video
     image:
-      source: images/foto-umcg.jpg
+      source: ""
     video:
       source_mp4: ""
       autoplay: true
@@ -37,7 +37,7 @@ blocks:
     align: left
     displaymedia: custom_video
     image:
-      source: images/niertransplantatie-1.jpg
+      source: ""
     video:
       source_webm: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.webm
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
@@ -53,6 +53,7 @@ blocks:
     displaymedia: image
     image:
       source: images/traumakamer.jpg
+      alt: UMCG - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -102,7 +103,7 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: UMCG Employer Branding Chirurgie - Phil & Flo Videomarketing
-  description: Employer Branding video voor UMCG | Phil & Flo video marketing |
-    Ontdek hier het resultaat van deze samenwerking.
+  title: UMCG Employer Branding Chirurgie | Phil & Flo
+  description: Employer Branding video voor UMCG | Ontdek het resultaat van deze
+    samenwerking | Phil & Flo
 ---
