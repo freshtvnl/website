@@ -22,6 +22,7 @@ blocks:
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      alt: UMCG - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -34,7 +35,8 @@ blocks:
       Like any film, a corporate video is bound to draw attention. And so with a film like this in your pocket, put yourself on the radar of some new customers and build up your reputation amongst older ones. Let people know exactly what you have to offer and do it in such a way, that they will not be forgetting any time soon. With a film like this, you can not only keep people up to date with all of your products, services, and new ideas but you can also document your progress over the years, as a visual record of sorts to learn from. Within the company itself, a corporate video is a great way to deliver a message or introduce a CEO in a way that will most definitely make an impact.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -45,6 +47,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -58,6 +61,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -68,6 +72,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Ask for a quote
