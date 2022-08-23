@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     align: center
@@ -39,7 +40,7 @@ blocks:
       Het is niet altijd eenvoudig om een gecompliceerd onderwerp even in een paar zinnen aan je doelgroep uit te leggen. Laat staan dat die boodschap blijft hangen bij jouw publiek. Door een educatie animatiefilm te maken kun je je doelgroep overtuigen met een ultrakorte, glasheldere en visuele uitleg. Animatie heeft namelijk de eigenschap niets tot de verbeelding toe te laten. Met andere woorden: animatie kan inzicht geven in zaken wat het menselijk oog niet kan waarnemen.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: /2d-animatie/
       text: Lees meer
@@ -76,7 +77,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: right
     content: >-
