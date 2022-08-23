@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     title: "***VR animatie laten maken***"
@@ -53,7 +54,7 @@ blocks:
       Bij een [360 graden video](https://www.philenflo.nl/360-graden-video-laten-maken/) wordt een virtuele 3D omgeving gebouwd, waarin een virtuele camera wordt geplaatst. Daarna wordt er een grote [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) van deze film gemaakt. Door gebruik te maken van een muis, toetsenbord of je mobiel kan je door de VR animatie kijken. De echte VR ervaring heb je met behulp van een VR bril. Door de bewegingen van je hoofd kijk je rond in de VR animatie net zoals in het dagelijkse leven.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: ""
       text: ""
@@ -92,7 +93,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: left
     content: |-
