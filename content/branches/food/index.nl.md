@@ -5,7 +5,7 @@ weight: 5
 draft: false
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
-  alt: Reclame Douwe Egberts
+  alt: Fair food - Phil & Flo
 color: orange
 blocks:
   - type: hero_block
@@ -13,9 +13,9 @@ blocks:
     content: ""
     displaymedia: null
     image:
-      source: images/douwe-egberts-food-phil-en-flo-creative-studio.jpg
+      source: ""
     video:
-      source_mp4: https://video.philenflo.nl/video/JDE-koffie-film-Phil-en-Flo-website-source.mp4
+      source_mp4: ""
       autoplay: false
     align: center
   - type: content_block
@@ -41,7 +41,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-2.jpg
-      alt: Infomercial Sunita
+      alt: Sunita infomercial  - Phil & Flo
     content: >-
       ## ***Oplossingen voor de fair food industrie***
 
@@ -57,7 +57,7 @@ blocks:
     displaymedia: image
     image:
       source: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
-      alt: Reclame voor Douwe Egberts
+      alt: JDE - Phil & Flo
     content: >-
       ## Meewerken voor de ***juiste balans***
 
@@ -82,7 +82,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio-4.jpg
-      alt: Infomercial Sunita
+      alt: Sunita infomercial  - Phil & Flo
     content: >-
       ## Verbeelden van onze ***primaire levensbehoefte***
 
@@ -98,7 +98,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hzpc-sunita-phil-en-flo-creative-studio.jpg
-      alt: Infomercial Sunita
+      alt: Sunita infomercial  - Phil & Flo
     content: >-
       ## ***Duurzaam inzetbaar***
 
@@ -114,7 +114,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  image: images/douwe-egberts-food-phil-en-flo-creative-studio-dame.jpg
+  image: ""
   title: "Wij verbeelden de wereld van Fair Food | Phil & Flo "
   description: Een productvideo, interactieve video of commercial voor jouw food
     en drink product. Ontdek de mogelijkheden voor de Fair Food branche bij Phil
