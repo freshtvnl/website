@@ -4,6 +4,7 @@ slug: Animatiefilm ICON geneesmiddelenonderzoek
 draft: false
 image:
   source: images/pra-animatie.jpg
+  alt: ICON 2d animatie - Phil & Flo
 content_type: case
 color: pink
 branch: zorg-pharma
@@ -72,6 +73,7 @@ blocks:
       id: Y7flBrst0eM
     image:
       source: images/icon-bedrijfsfilm.jpg
+      alt: ICON bedrijfsfilm - Phil & Flo
   - type: content_block
     align: right
     content: >-
