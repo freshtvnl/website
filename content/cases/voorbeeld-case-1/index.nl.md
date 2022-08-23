@@ -5,7 +5,7 @@ weight: 3
 draft: false
 image:
   source: images/alfen-smart-charging-network-beauty.jpg
-  alt: Alfen, Tesla model 3, charging infrastructure
+  alt: Alfen - Phil & Flo
 content_type: case
 color: green
 branch: duurzame-energie
@@ -37,6 +37,7 @@ blocks:
     displaymedia: image
     image:
       source: images/alfen-smart-charging-network-ao.jpg
+      alt: Alfen breakdown - Phil & Flo
     video:
       source_mp4: ""
       source_webm: ""
@@ -82,6 +83,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-3d-animatie.jpg
+      alt: Aron - Alfen - Phil & Flo
     cta:
       text: Ik wil ook graag met Aron samenwerken
       url: /offerte-ontvangen/
