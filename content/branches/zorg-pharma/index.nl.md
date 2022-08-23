@@ -5,7 +5,7 @@ weight: 3
 draft: false
 image:
   source: images/191211-umcg-wervings-video-v1.00_00_14_06.still001.jpg
-  alt: "Employer branding UMCG "
+  alt: UMCG  - Phil & Flo
 color: pink
 blocks:
   - type: hero_block
@@ -47,7 +47,7 @@ blocks:
     displaymedia: image
     image:
       source: images/foto-umcg.png
-      alt: "Employer branding UMCG "
+      alt: UMCG - Phil & Flo
     video:
       autoplay: false
     cta:
