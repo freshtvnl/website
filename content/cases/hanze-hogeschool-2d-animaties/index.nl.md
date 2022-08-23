@@ -1,9 +1,10 @@
 ---
-title: Hanze Hogeschool - 2D Animaties
-slug: Hanze Hogeschool - 2D Animaties
+title: Hanzehogeschool - 2D Animaties
+slug: Hanzehogeschool - 2D Animaties
 draft: false
 image:
   source: images/vlcsnap-2022-07-18-15h52m17s341.png
+  alt: Hanzehogeschool Groningen - Phil & Flo
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
@@ -14,11 +15,11 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Hanzehogeschool_PhilenFlo_Video_Animatie_1.mp4
     title: "***Kenniscentrum Biobased Economy***"
-    content: Hanze Hogeschool faciliteert het kenniscentrum Biobased Economy. In dit
-      kenniscentrum werken studenten, vakexperts en ondernemers samen om werk te
-      maken van een gezondere en meer duurzame samenleving. Deze introductie
-      klonk ons als muziek in de oren, dus na een leuke kennismaking kwam een
-      samenwerking tussen Hanze en Phil & Flo tot stand!
+    content: Hanzehogeschool Groningen faciliteert het kenniscentrum Biobased
+      Economy. In dit kenniscentrum werken studenten, vakexperts en ondernemers
+      samen om werk te maken van een gezondere en meer duurzame samenleving.
+      Deze introductie klonk ons als muziek in de oren, dus na een leuke
+      kennismaking kwam een samenwerking tussen Hanze en Phil & Flo tot stand!
     displaymedia: custom_video
   - type: content_block
     video:
