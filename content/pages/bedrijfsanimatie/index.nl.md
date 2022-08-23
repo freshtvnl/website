@@ -2,6 +2,9 @@
 title: Bedrijfsanimatie
 slug: bedrijfsanimatie
 draft: false
+image:
+  source: images/oio-systems.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     content: ""
