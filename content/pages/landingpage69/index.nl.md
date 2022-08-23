@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 color: red
 blocks:
   - type: hero_block
@@ -27,7 +28,7 @@ blocks:
       Op zoek naar een animatie studio in Amsterdam? Het team van Phil & Flo is klaar om samen met jou de uitdaging aan te gaan. We leveren geen standaardwerk, maar maken iedere animatie op maat. Er zijn immers al genoeg animaties online te vinden die er hetzelfde uitzien. Kijk samen met onze frisse blik hoe jij animatie effectief kunt inzetten in je marketing, en het een onmisbaar onderdeel maakt van je content strategie.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: ""
       text: ""
