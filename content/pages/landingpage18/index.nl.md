@@ -22,6 +22,7 @@ blocks:
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      alt: UMCG - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -31,7 +32,7 @@ blocks:
       Dankzij video onthouden mensen je boodschap beter. Als je als bedrijf bijvoorbeeld werkt met gevaarlijke grondstoffen of met zwaar materiaal, wil je alle veiligheidsinstructies bij iedereen binnen je organisatie duidelijk hebben. Een instructiefilm in de vorm van een (3D) [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of een [explanimation](https://www.philenflo.nl/explanimation-laten-maken/) is dan bij uitstek geschikt voor het laten zien van gevaarlijke stoffen of de reacties van chemische stoffen, zonder dit in het echt te hoeven nabootsen voor video-opnames.
     displaymedia: custom_video
     image:
-      source: images/aron-sophie.jpg
+      source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw.mp4
       autoplay: true
@@ -45,6 +46,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -58,6 +60,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -68,6 +71,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
