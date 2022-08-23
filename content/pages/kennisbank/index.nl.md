@@ -5,12 +5,12 @@ weight: ""
 draft: false
 blocks:
   - type: hero_block
-    align: left
+    align: center
     title: Kennisbank
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: ""
     content: Door Phil & Flo
-    displaymedia: image
+    displaymedia: null
   - type: content_list
     title: Animatie
     content: Vragen over Animatie
