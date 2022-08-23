@@ -37,7 +37,7 @@ blocks:
       Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) die aansluit bij jouw wensen. Lees meer over 2D animaties.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: /2d-animatie/
       text: Lees meer
@@ -67,7 +67,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: right
     content: >-
@@ -276,6 +276,7 @@ slug: animatie-laten-maken
 weight: 1
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: 2D animatie laten maken - Phil & Flo
 seo:
   title: Animatie laten maken | Phil & Flo | Uniek & Opvallend
   description: Een Animatie laten maken bij Phil & Flo | Opvallend ✔ Marketing
