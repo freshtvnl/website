@@ -4,6 +4,7 @@ slug: animatie-film-eindhoven
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     content: Ondernemer in Eindhoven? Vertaal je briljante concept, plan of
