@@ -88,7 +88,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-marketing-groen.jpg
-      alt: Video marketing - Phil & Flo
+      alt: Videomarketing - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -101,6 +101,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-contactpersoon-groen.jpg
+      alt: Neem contact op - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -113,6 +114,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-groen.jpg
+      alt: Vrijblijvend gesprek - Phil & Flo
     cta:
       url: /contact/
       text: Neem contact op
@@ -141,7 +143,7 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-de-vr-video
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject-vr
 seo:
-  title: Virtual reality videomarketing | Phil & Flo | Creative studio
+  title: Virtual reality videomarketing | Phil & Flo
   description: "Virtual reality videomarketing met VR animaties bij Phil & Flo | ✔
     Onderscheidende content ✔ Heldere boodschap ✔ Interactief & innovatief "
 ---
