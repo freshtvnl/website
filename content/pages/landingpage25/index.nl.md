@@ -28,7 +28,7 @@ blocks:
       Wij zetten succesvolle videocampagnes op, die jouw specifieke doelgroep(en) bereiken. We helpen je van a tot z en tackelen jouw uitdaging middels creatieve [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). Zorgaanbieders zoals het UMCG, PRA Health Science, Chipsoft, Erasmus MC, AMC, Maasstad en Medilime hebben het succes van Phil & Flo al ervaren!
     displaymedia: youtube_video
     image:
-      source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      source: ""
     youtube:
       id: F9_sYXmQRQY
   - type: content_block
@@ -55,7 +55,7 @@ blocks:
       Met duidelijke, begrijpbare animaties helpen wij je om jouw zorgproduct of dienstverlening uit te leggen aan de beoogde doelgroep. Afhankelijk van de complexiteit van de boodschap kiezen we tussen een [2D animatie](https://www.philenflo.nl/2d-animatie/), [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) of [Virtual Reality-animatie](https://www.philenflo.nl/vr-animatie-laten-maken/). We zijn bedreven in marketing en kennen de kracht van het weglaten, maar enkel waar dat mogelijk is! We gaan nauwkeurig te werk om hierin de juiste balans te vinden. We benadrukken de Unique Selling Points (USP’s) en geven de functionaliteiten versimpeld weer zodat de doelgroep het begrijpt.
     displaymedia: youtube_video
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
     youtube:
       id: zCAbmUrj74g
   - type: content_block
@@ -67,7 +67,7 @@ blocks:
       In deze digitale eeuw worden we dagelijks overspoeld met berichten en video’s op sociale media. Je moet dus echt iets unieks te bieden hebben, wil je opgemerkt worden. Wij van Phil & Flo zetten daarom in op creatieve, persoonlijke en innovatieve animaties en films. We blijven op de hoogte van de nieuwste technieken en mogelijkheden zodat jouw boodschap ook echt aankomt bij de beoogde doelgroep. We leveren niet alleen een animatie of video op, maar helpen je ook om deze effectief in te zetten in online marketingcampagnes. We kunnen je geheel ontzorgen als het gaat om videomarketing, en bieden passende oplossingen voor elk budget. Misschien nog wel het belangrijkste, we zijn de leukste videomarketeers van Nederland! [Neem contact met ons op](https://www.philenflo.nl/contact/), en we helpen je met jouw uitdagingen en wensen.
     displaymedia: youtube_video
     image:
-      source: images/peter-suzan-kopie.jpg
+      source: ""
     youtube:
       id: dEjwtwU7g-M
   - type: content_block
@@ -80,6 +80,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
