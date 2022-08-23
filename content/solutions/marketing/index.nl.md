@@ -5,6 +5,7 @@ weight: 5
 draft: false
 image:
   source: images/inge-bank.jpg
+  alt: Inge - Phil & Flo
 color: green
 blocks:
   - type: hero_block
@@ -47,6 +48,7 @@ blocks:
         source: images/inge-bank.jpg
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     video:
       autoplay: false
     align_text: text-left
@@ -76,6 +78,7 @@ blocks:
     displaymedia: image
     image:
       source: images/b991cf3e-8076-4063-a914-28ace887ace7-copy.jpg
+      alt: XpertHR filmopnames - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -93,6 +96,7 @@ blocks:
     displaymedia: image
     image:
       source: images/img_6372-copy.jpg
+      alt: NOMIOS filmopnames - Phil & Flo
   - type: contact_block
     contacts:
       - victor
