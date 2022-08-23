@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/beter-bed3.png
+  alt: Beter Bed - Phil & Flo
 content_type: case
 color: green
 branch: ""
@@ -64,6 +65,7 @@ blocks:
     displaymedia: image
     image:
       source: images/beter-bed3.png
+      alt: Beter Bed - Phil & Flo
   - type: content_block
     video:
       autoplay: true
