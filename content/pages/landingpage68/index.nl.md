@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 color: pink
 blocks:
   - type: hero_block
@@ -43,7 +44,7 @@ blocks:
       Phil & Flo helpt jou met het versimpelen van je boodschap. Hoe wij dat doen? Met een explainer animatie. Phil & Flo is de specialist op het gebied van explainer animaties. Wij zorgen er niet alleen voor dat jouw boodschap gemakkelijk te begrijpen is, je boodschap wordt dankzij onze animaties ook zeer aantrekkelijk voor je doelgroep. De mogelijkheden zijn oneindig!
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: /contact/
       text: Neem contact op
@@ -73,7 +74,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: right
     content: >-
@@ -173,10 +174,6 @@ blocks:
   - type: contact_block
     contacts:
       - inge
-  - items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
   - type: selectedreviews_block
     items:
       - diataal
@@ -185,6 +182,10 @@ blocks:
       - premium-positioning-review
       - review-noorderpoort-college
       - eic-review
+  - items:
+      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
+      - alfen-Smart-Charging-Network-3D-animatie
+      - animatiefilm-over-biogas
 seo:
   title: "Explainer animatie laten maken | Phil & Flo "
   description: Explainer animatie laten maken ✔ Klantscore 8.9 ✔ Onderscheidende
