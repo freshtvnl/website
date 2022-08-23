@@ -11,6 +11,7 @@ blocks:
     displaymedia: image
     image:
       source: images/404-phil-en-flo.jpg
+      alt: 404 - Phil & Flo
   - type: content_block
     align: center
     content: >-
@@ -21,4 +22,5 @@ blocks:
 seo:
   title: 404 | Pagina niet gevonden | Phil & Flo
   description: 404 | Pagina niet gevonden | Phil & Flo | Animatie, Video, Branding en meer
+  noindex: true
 ---
