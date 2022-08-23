@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Animatiestudio Groningen***"
@@ -28,7 +29,7 @@ blocks:
       Wanneer heb je een animatiestudio nodig? Simpel gezegd: altijd als je een verhaal te vertellen hebt waarvoor alleen video niet genoeg is. Daarbij kun je denken aan een filmpje om iets uit te leggen (dat wordt ook wel een [uitleg-animatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) genoemd), maar ook als het gaat om een luchtige, vrolijke toon aan te slaan. Dat laatste kan goed uitpakken voor een [commercial](https://www.philenflo.nl/reclamevideo/), maar bijvoorbeeld ook voor een bedrijfsanimatie. Daarin laat je kort en duidelijk zien waar jouw onderneming voor staat.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: ""
       text: ""
@@ -57,7 +58,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
       autoplay: true
     image:
-      source: images/3d-animatie-laten-maken.jpg
+      source: ""
   - type: content_block
     align: left
     content: >-
