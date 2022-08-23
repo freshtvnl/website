@@ -1,6 +1,6 @@
 ---
 title: Adverteren op YouTube
-slug: adverteren-op-you-tube
+slug: adverteren-op-youtube
 draft: false
 blocks:
   - type: hero_block
@@ -18,7 +18,8 @@ blocks:
       YouTube is een interessant medium om te adverteren met video via indisplay, instream, preroll en andere marketing-uitingen. Na Google is het de grootste zoekmachine; meer dan een miljard mensen wereldwijd gebruiken YouTube wekelijks al dan niet dagelijks. Je bereikt er ruim 95 procent van de internetgebruikers mee. En daarmee ook jouw doelgroep.
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -28,7 +29,8 @@ blocks:
       Advertentiemogelijkheden op YouTube. Video-advertenties op YouTube leveren meer op dan traditionele [tv-reclames](https://www.philenflo.nl/reclamevideo/). En dat is ook niet zo gek, want tot YouTube heb je altijd toegang. Of je nu thuis, op je werk of in de trein zit. Hier adverteren is ideaal voor het vergroten van je naamsbekendheid en branding. Je hebt verschillende advertentiemogelijkheden, waaronder **indisplay**, **instream** en **preroll**.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -39,6 +41,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil 7 Flo
   - type: content_block
     align: right
     content: >-
@@ -49,6 +52,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -58,7 +62,8 @@ blocks:
       Wil je ook aan de slag met YouTube-marketing? Onze specialisten weten hoe je met jouw [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) ads opvalt tussen de concurrentie en de juiste doelgroep bereikt. Stap voor stap adviseert Phil & Flo over hoe je video zo effectief mogelijk inzet in het reclamenetwerk van YouTube. Termen als indisplay, instream en preroll zijn ons niet vreemd. We weten jouw [YouTube-marketing](https://www.philenflo.nl/you-tube-marketing/) gericht in te zetten door vooraf de karakteristieken van jouw doelgroep in kaart te brengen.
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Free a Girl - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
@@ -67,7 +72,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Adverteren op YouTube - Phil & Flo Videomarketing
+  title: Adverteren op YouTube | Phil & Flo Videomarketing
   description: Adverteer op YouTube en vergroot je naamsbekendheid. Met de juiste
     video's trek jij jouw doelgroep aan. Neem contact op
 ---
