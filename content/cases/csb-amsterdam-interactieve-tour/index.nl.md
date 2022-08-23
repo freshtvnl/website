@@ -5,6 +5,7 @@ weight: 5
 draft: false
 image:
   source: images/csb-amsterdam.jpg
+  alt: CSB - Phil & Flo
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
@@ -36,6 +37,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-muziekles.jpg
+      alt: CSB - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -49,6 +51,7 @@ blocks:
     displaymedia: custom_video
     image:
       source: images/csb-kinderen-in-de-klas.jpg
+      alt: CSB - Phil & Flo
   - type: selectedreviews_block
     title: ""
     items:
@@ -68,7 +71,7 @@ blocks:
       De open dag van het CSB Amsterdam kon helaas niet plaatsvinden in verband met de Covid-19 gerelateerde wetgeving. De open dagen spelen een essentiële rol voor de werving van nieuwe leerlingen voor de school. Het doel van een open dag is dan ook om een leerling te binden aan je school. Met dit inzicht werd het doel van de film duidelijk. Tijd om een videovorm te kiezen.
     displaymedia: custom_video
     image:
-      source: images/csb-poster.jpg
+      source: ""
   - type: content_block
     video:
       autoplay: true
@@ -81,7 +84,7 @@ blocks:
       Zoals genoemd was het initiële idee, een 360 graden film. Deze films kenmerken zich door de grote vrijheid die een kijker heeft. Je kan hele organisaties ‘doorlopen’ en bekijken en zelf je focus of invulling kiezen als kijker. Toch hebben wij het CSB sterk afgeraden voor deze oplossing te kiezen. Elk voordeel heeft zijn nadeel. Voor een 360 graden film is het voordeel de ultieme vrijheid voor de kijker. Het nadeel is de grip die je als regisseur verliest. Je kan een kijker minder goed sturen.
     displaymedia: custom_video
     image:
-      source: images/csb-interactieve-keuze.jpg
+      source: ""
   - type: content_block
     video:
       autoplay: true
@@ -94,7 +97,7 @@ blocks:
       Ons advies was daarom een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) tour door de school. In een dergelijke tour kan de kijker zelf keuzes maken, maar houd je als filmmaker meer ruimte over om te sturen dankzij het tweedimensionale beeld. Zo kunnen we leerlingen en ouders sturen, en de belangrijkste onderdelen van de tour prominent naar voren halen.
     displaymedia: custom_video
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: ""
   - type: content_block
     video:
       autoplay: true
@@ -107,6 +110,7 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-muziekles.jpg
+      alt: CSB - Phil & Flo
     cta:
       url: ""
       text: ""
@@ -123,6 +127,7 @@ blocks:
     displaymedia: image
     image:
       source: images/csb-poster.jpg
+      alt: CSB poster - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -137,7 +142,8 @@ blocks:
       Volkert vertelt dat de film niet alleen goed ontvangen is door docenten en leerlingen, ook de aanmeldingen blijven niet achter en overtreffen de resultaten van voorgaande jaren. Geweldig! Lees hier meer over onze [360 graden virtuele school rondleidingen](https://www.philenflo.nl/virtuele-school-rondleiding/).
     displaymedia: custom_video
     image:
-      source: images/csb-in-de-klas.jpg
+      source: ""
+      alt: ""
   - type: content_block
     video:
       autoplay: true
@@ -165,7 +171,7 @@ blocks:
       - csb-ouder-4
       - csb-ouder-5
 seo:
-  description: Open dag voor school op een interactieve manier. - CSB Amsterdam
+  description: Open dag voor school op een interactieve manier | CSB Amsterdam
     laat zien hoe het kan, samen met Phil en Flo
   title: Interactieve video voor CBS Amsterdam | Phil & Flo
 ---
