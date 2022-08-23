@@ -4,6 +4,7 @@ slug: Gemeente-Amstelveen-2d-animatie-folder
 draft: false
 image:
   source: images/thumbnail-gemeente-amstelveen-2d-animatie-folder-phil-en-flo-1-1.png
+  alt: Gemeente Amstelveen - Phil & Flo
 content_type: case
 color: red
 branch: goede-doelen
@@ -43,6 +44,7 @@ blocks:
     displaymedia: image
     image:
       source: images/gemeente-amstelveen.jpg
+      alt: Gemeente Amstelveen folder - Phil & Flo
   - type: content_block
     video:
       autoplay: true
