@@ -80,6 +80,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
@@ -114,6 +115,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -145,6 +147,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-behind-the-scenes.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: selectedwork_block
     title: Succesverhalen
     items:
@@ -161,6 +164,7 @@ blocks:
     displaymedia: null
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
