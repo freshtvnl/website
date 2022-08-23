@@ -2,6 +2,9 @@
 title: Branding video laten maken
 slug: branding-video-laten-maken
 draft: false
+image:
+  source: images/jde-phil-en-flo-behind-the-scenes.jpg
+  alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
     title: Het gevoel en ***hart*** van je bedrijf in beeld
@@ -29,6 +32,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames- Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -39,6 +43,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -60,7 +65,8 @@ blocks:
       \- Professionaliteit. Met een vakkundig gefilmde en gemonteerde video onderscheid je je direct van de vele amateuristische films op internet.
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -70,7 +76,8 @@ blocks:
       Het unieke concept, het logo en de sfeer van jouw bedrijf communiceer je het best door een branding video te laten maken. Onze specialisten stemmen de [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) af op de stijl en toon van jouw doelgroep. Een branding video laten maken door Phil & Flo betekent een professionele productie met een verbluffend resultaat.
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Free a Girl - Phil & Flop
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
