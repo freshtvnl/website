@@ -3,6 +3,9 @@ title: Vacature 2D Animator (fulltime)
 slug: vacature-2d-animator
 weight: 1
 draft: false
+image:
+  source: images/aii04999.jpg
+  alt: Aron - Phil & Flo
 color: blue
 blocks:
   - type: hero_block
@@ -45,6 +48,7 @@ blocks:
     displaymedia: image
     image:
       source: images/20220329_113017_online.jpg
+      alt: Free a Girl - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -58,6 +62,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-inge.png
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     video:
       autoplay: true
