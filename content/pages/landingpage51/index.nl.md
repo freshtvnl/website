@@ -5,6 +5,7 @@ weight: 1
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 blocks:
   - type: hero_block
     align: center
@@ -43,7 +44,7 @@ blocks:
       Het menselijk brein denkt graag in verbanden. Als je die verbanden zelf uit tekst moet halen, kost dat veel meer moeite dan wanneer je ze voor je ziet. Als je dus wilt dat je boodschap goed overkomt, en beter blijft hangen, kies je het beste voor een animatiefilm. Met de visuele ondersteuning van bewegende beelden lukt het veel beter om een moeilijk concept uit te leggen, of de voordelen van een product te laten zien. Je doelgroep vindt een animatiefilm over het algemeen leuker, interessanter en makkelijker te begrijpen dan tekst of een diapresentatie.
     displaymedia: custom_video
     image:
-      source: images/2d-animatie-laten-maken.jpg
+      source: ""
     cta:
       url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
       text: Animatie laten maken
@@ -194,7 +195,7 @@ blocks:
       - eic-review
       - familienet
 seo:
-  title: "Animatiefilm Laten Maken | Phil & Flo "
+  title: "Animatiefilm laten maken | Phil & Flo "
   description: Succesvolle animatiefilm laten maken? Neem contact op voor een
     animatiefilm die past bij jouw organisatie. ✔ Klantscore 8.9 ✔ Uniek ✔
     Gericht ✔ Imponerend
