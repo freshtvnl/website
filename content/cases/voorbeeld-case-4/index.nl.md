@@ -4,7 +4,7 @@ slug: coornhert-gymnasium-promotiefilm-school
 draft: false
 image:
   source: images/coornhert-onderwijs-communicatie-1.jpg
-  alt: coornehr Lyceum film
+  alt: Coornhert - Phil & Flo
 content_type: case
 color: yellow
 branch: onderwijs-kunst-cultuur
@@ -60,7 +60,8 @@ blocks:
       Een volle en drukke draaidag is eigenlijk altijd een standaard en vraagt daarom altijd om een goede voorbereiding én samenwerking. Alleen zo kunnen we kwaliteit garanderen! De samenwerking met het Coornhert liep perfect, wat heeft bijgedragen aan een prachtig eindresultaat. Tijdens de draaidag hielden we bij het filmen rekening met onze doelgroep door korte en vlotte shots te schieten. De aandachtspanne van een 12-jarige is namelijk behoorlijk kort. Alleen door op elk vlak rekening te houden met je doelgroep kan je komen tot een film die specifiek de door jou beoogde doelgroep aanspreekt. Een lange, leuke én inspirerende draaidag heeft ons prachtige pakkende beelden opgeleverd.
     displaymedia: image
     image:
-      source: images/collegas-freshtv-tijdens-draaidag.jpg
+      source: images/coornhert1.jpg
+      alt: Behind the scenes - Coornhert - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -84,10 +85,11 @@ blocks:
       Wil je zelf een promotievideo of een [virtuele school rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/)? Lees hier meer over mogelijkheden van [virtuele tours](https://www.philenflo.nl/virtuele-tour/). 
 
 
-      Bel ons op 085 - 273 8331 voor meer informatie.
+      Bel ons op **[085 - 2738331](tel:0852738331)** voor meer informatie.
     displaymedia: image
     image:
       source: images/coornhert-onderwijs-communicatie-1.jpg
+      alt: Coornhert - Phil & Flo
     cta:
       url: https://www.philenflo.nl/offerte-ontvangen/
       text: Offerte ontvangen
