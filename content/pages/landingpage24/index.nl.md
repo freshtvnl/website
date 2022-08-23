@@ -23,7 +23,8 @@ blocks:
       Als je een Instagram video wilt laten maken, is het extra belangrijk dat je goed nadenkt over de stijl en de boodschap. Het is een erg trendgevoelig platform met een over het algemeen jongere doelgroep. Daar ligt dus het risico dat je de plank misslaat met een toon die niet aanspreekt. Gelukkig zijn onze videomakers creatieve professionals met een goed gevoel voor trends. Wij kunnen je dan ook goed adviseren, en maken filmpjes die goed bij je organisatie passen en aansluiting vinden bij je doelgroep.
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -33,7 +34,8 @@ blocks:
       Je onderneming heeft misschien al een zakelijk Instagram-account waarmee je je doelgroep kunt bereiken. Dan is het voor jou, net als voor iedere Instagram-gebruiker, mogelijk om video’s te plaatsen in de vorm van een Instagram story. Dit zijn korte slideshows of filmpjes die maar een beperkte tijd online staan, maar het wel erg goed doen op je tijdlijn. Met een professioneel geproduceerd filmpje in je story gooi je hoge ogen bij je volgers.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -44,6 +46,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -54,6 +57,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -63,17 +67,18 @@ blocks:
       In online marketing zijn sociale media al lang niet meer weg te denken en Instagram lijkt daar alleen maar te groeien. Als je dan ook nog bedenkt dat [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/) veel pakkender is dan niet-bewegend beeld, is het logisch om dit in te zetten in jouw marketingstrategie. Bij Phil & Flo helpen we je graag op alle gebieden: van het volledig produceren van video tot het effectief inzetten ervan, en alles daartussen. Zo scoor jij optimaal met video op Instagram.
     displaymedia: image
     image:
-      source: images/inge-bank.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Free a girl - Phil & Flo
   - type: content_block
-    align: right
+    align: center
     content: >-
       ## Een Instagram video laten maken?
 
 
       Wil je een Instagram video die tot de verbeelding spreekt? Neem contact op met onze specialisten. Uiteraard kun je ook vragen om een online prijsindicatie!
-    displaymedia: image
+    displaymedia: null
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: ""
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
