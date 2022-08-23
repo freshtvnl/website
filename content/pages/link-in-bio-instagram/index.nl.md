@@ -13,7 +13,8 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![](images/discriminatie-meldpunt-groningen.jpg)"
+    content: "![Discriminatie Meldpunt Groningen - Phil &
+      Flo](images/discriminatie-meldpunt-groningen.jpg)"
     cta:
       color: red
       url: https://www.philenflo.nl/portfolio/interactieve-player-discriminatie-meldpunt-groningen/
@@ -22,7 +23,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: "![](images/portfolio-omslag.jpg)"
+    content: "![Portfolio - Phil & Flo](images/portfolio-omslag.jpg)"
     cta:
       url: https://www.philenflo.nl/portfolio/
       color: green
@@ -33,7 +34,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: "![](images/vr-video.png)"
+    content: "![Producten - Phil & Flo](images/vr-video.png)"
     cta:
       url: https://www.philenflo.nl/oplossingen/
       text: Naar producten
@@ -46,7 +47,7 @@ blocks:
       autoplay: true
     align: center
     align_text: text-center
-    content: "![](images/branches.png)"
+    content: "![Branches - Phil & Flo](images/branches.png)"
     cta:
       url: https://www.philenflo.nl/branches/
       text: Naar branches
@@ -57,10 +58,10 @@ blocks:
       autoplay: true
     align: center
     align_text: text-center
-    content: "![](images/aii04982.jpg)"
+    content: "![Neem contact op - Phil & Flo](images/aii04982.jpg)"
     cta:
       url: https://www.philenflo.nl/contact/
-      text: Contact opnemen
+      text: Neem contact op
       type: button
       color: green
   - type: content_block
@@ -68,7 +69,7 @@ blocks:
       autoplay: true
     align: center
     align_text: text-center
-    content: "![](images/mvo.jpg)"
+    content: "![Maatshappelijk Verantwoord Ondernemen - Phil & Flo](images/mvo.jpg)"
     cta:
       url: https://www.philenflo.nl/maatschappelijk-verantwoord-ondernemen/
       text: MVO door Phil & Flo
