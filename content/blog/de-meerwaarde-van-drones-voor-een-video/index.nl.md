@@ -5,6 +5,7 @@ weight: 7
 draft: false
 image:
   source: images/vlcsnap-2022-07-14-13h39m10s497.png
+  alt: Colect filmopnames - Phil & Flo
 author: julia
 date: 2022-07-14T07:17:12.791Z
 color: pink
@@ -19,13 +20,13 @@ Een unieke [video laten maken](https://www.philenflo.nl/oplossingen/video-laten-
 
 Met een drone kun je vanuit veel verschillende standpunten filmen. Zo vlieg je met een drone over bijvoorbeeld jouw pand, bedrijf, terrein, landgoed of evenement. Maar ook binnen kan met een drone gevlogen worden, om bijvoorbeeld productieprocessen of andere werkzaamheden vast te leggen op een unieke manier. 
 
-![](images/vlcsnap-2022-07-14-13h39m10s497.png)
+![Colect filmopnames - Phil & Flo](images/vlcsnap-2022-07-14-13h39m10s497.png)
 
 ## Hoe maak je een drone video?
 
 Een drone video wordt gemaakt door een op afstand bestuurbaar vaartuig met een ingebouwde camera. Met de drone kunnen verschillende soorten beelden gemaakt worden. Denk aan vloeiende beelden, slow-motion shots of bewegende shots die voertuigen of mensen volgen. Dit maakt dat een drone video geschikt is voor veel soorten [branches](https://www.philenflo.nl/branches/). De beelden die worden gemaakt met de drone, worden daarna gemonteerd samen met beelden vanaf de grond gemaakt. Door deze mix van beelden, laat je met de drone beelden de zintuigen van de kijker op scherp zetten en creëer je een spectaculaire video. 
 
-![Drone video laten maken door Phil & Flo](images/1db1b0fa-fb95-42f8-98f5-fcb2e89ab505.jpg)
+![XpertHR filmopnames - Phil & Flo](images/1db1b0fa-fb95-42f8-98f5-fcb2e89ab505.jpg)
 
 ## Redenen voor het maken van een drone video
 
