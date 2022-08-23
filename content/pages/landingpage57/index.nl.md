@@ -4,7 +4,8 @@ slug: 3d-productvideo
 weight: 1
 draft: false
 image:
-  source: images/2d-animatie-laten-maken.jpg
+  source: images/u-sport-chain-cleaner.png
+  alt: U-Sport - Phil & Flo
 blocks:
   - type: hero_block
     video:
