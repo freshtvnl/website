@@ -255,7 +255,7 @@ blocks:
 
       Artikel 6.1 Betalingstermijn eerste vijftig procent: Toegevoegd dat er uiterlijk zes maanden na goedkeuring gefactureerd wordt.
 seo:
-  title: "Algemene voorwaarden | Phil & Flo | Animatie, Films & Branding "
+  title: "Algemene voorwaarden | Phil & Flo | Animatie, film & branding "
   description: "Algemene voorwaarden | Lees hier de spelregels van Phil & Flo.
     Voor meer informatie neem contact op. "
 menu:
