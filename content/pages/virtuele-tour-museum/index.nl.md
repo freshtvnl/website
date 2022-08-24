@@ -26,6 +26,7 @@ blocks:
     displaymedia: image
     image:
       source: images/boknet1.png
+      alt: BOKNET - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -39,6 +40,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema.jpg
+      alt: Script - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -52,6 +54,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hsl1.jpg
+      alt: Het Streek Lyceum - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -69,6 +72,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept.jpg
+      alt: Concept - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -87,6 +91,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek.jpg
+      alt: Vrijblijvende offerte - Phil & Flo
 seo:
   title: "Virtuele tour laten maken voor een museum | Phil & Flo "
   description: Virtuele tour voor een museum laten maken door Phil & Flo. Wij
