@@ -11,7 +11,7 @@ blocks:
       # Wij komen graag in contact met ***jou.***
 
 
-      We werken graag samen met organisaties die werken aan een betere wereld.\
+      We werken graag samen met organisaties die werken aan een betere wereld. Is dat met jou?\
 
       Bel: [085 273 8331](tel:+31852738331), vul het formulier in of stuur ons een e-mail op [hallo@philenflo.nl](mailto:hallo@philenflo.nl)
     form: contact-formulier
