@@ -41,6 +41,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-inge-kopie.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -69,6 +70,7 @@ blocks:
     displaymedia: image
     image:
       source: images/20220329_113017_online.jpg
+      alt: Team - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -95,7 +97,7 @@ blocks:
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefYt7AHsCDjjelhrQt9M2vcFS2nOBtCxrUXjfhcwVaYsCWqA/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
     displaymedia: null
     image:
-      source: images/210505-philenflo-schermachtergrond.jpg
+      source: ""
 seo:
   description: Stageplek MBO / HBO Vormgeving & Marketing (fulltime) | Solliciteer
     nu op een stageplek bij Phil & Flo Creative Studio of bel ons snel.
