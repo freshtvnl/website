@@ -25,6 +25,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -35,6 +36,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-marketing-groen.jpg
+      alt: Marketing - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -45,6 +47,7 @@ blocks:
     displaymedia: image
     image:
       source: images/20220329_113017_online.jpg
+      alt: Team - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
