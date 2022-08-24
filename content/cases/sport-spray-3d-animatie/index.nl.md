@@ -27,7 +27,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     displaymedia: youtube_video
     youtube:
       id: BzSk-Hj1iCk
