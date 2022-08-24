@@ -1,6 +1,6 @@
 ---
 title: Payconiq - Commercial
-slug: uitlegfilm-over-betaalapp
+slug: commercial-payconiq
 draft: false
 image:
   source: images/payconic-commercial.jpg
@@ -20,6 +20,7 @@ blocks:
     title: "***Product video*** Payconiq"
     image:
       source: images/payconiq-innovatieve-tech-phil-en-flo.jpg
+      alt: Payconiq - Phil & Flo
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
@@ -74,6 +75,7 @@ blocks:
       id: ""
     image:
       source: images/payconiq-phil-en-flo-achter-de-schermen.jpg
+      alt: Payconiq - Work in progress - Phil & Flo
   - type: content_block
     content: >-
       ## ***Resultaat***
@@ -97,7 +99,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Productvideo Payconiq P2P - Phil & Flo Videomarketing
+  title: Productvideo Payconiq P2P | Phil & Flo
   description: "Portfolio Phil & Flo Videomarketing presenteert de Productvideo
     Payconiq P2P: Your new pay to pay. Pay fast, pay easy, Payconiq"
 ---
