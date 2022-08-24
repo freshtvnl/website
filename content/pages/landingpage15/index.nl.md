@@ -2,6 +2,9 @@
 title: Reclamevideo
 slug: reclamevideo
 draft: false
+image:
+  source: images/payconiq3.jpg
+  alt: Payconiq - Phil & Flo
 blocks:
   - type: hero_block
     title: "***Reclamevideo*** om de aandacht te pakken"
@@ -60,7 +63,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
-      alt: Reclamevideo maken
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -92,6 +95,7 @@ blocks:
       Om de juiste doelgroep aan te spreken met jouw reclame film, breng je deze eerst in kaart. Bedenk wie je doelgroep is en wat het beste werkt om ze aan te spreken. Bepaal de toon waarop je ze aanspreekt en welk woordgebruik passend is. Welke stijl past daar goed bij? En welke kanalen kies je om je reclame op te tonen?
     image:
       source: images/sunita1.jpg
+      alt: Sunita - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
@@ -114,7 +118,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
-      alt: Team Phil & Flo
+      alt: Peter & Suzan - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
