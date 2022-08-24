@@ -4,7 +4,7 @@ slug: bouw-infra
 draft: false
 image:
   source: images/schermafbeelding-2021-08-26-om-14.43.15.png
-  alt: Drone shot Van Woonwijk
+  alt: Drone video - Phil & Flo
 color: blue
 blocks:
   - type: hero_block
@@ -22,7 +22,7 @@ blocks:
     displaymedia: image
     image:
       source: images/schermafbeelding-2021-08-26-om-11.20.57.png
-      alt: Drone Shot Nieuwbouwwijk
+      alt: Drone video - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -92,18 +92,15 @@ blocks:
       url: https://www.philenflo.nl/30-minuten/
       text: Vrijblijvende Sessie
       type: button
-  - type: content_block
-    video:
-      autoplay: true
-  - type: contact_block
-    contacts:
-      - victor
   - type: selectedwork_block
     more_items: false
     items:
       - Van Wijnen
       - OIO systems
       - Elsun Zonnepanelen
+  - type: contact_block
+    contacts:
+      - victor
 seo:
   title: Video inzetten in de Bouw & Infra | Phil & Flo
   description: Video inzetten voor jouw bouw/infra project ✔ Klantscore 8.9 ✔
