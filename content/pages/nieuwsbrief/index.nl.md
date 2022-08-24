@@ -10,7 +10,10 @@ blocks:
       autoplay: true
     form: newsletter-form
     align: center
-    content: "# ***Nieuwsbrief ontvangen!***"
+    content: |-
+      # ***Nieuwsbrief ontvangen?***
+
+      Inschrijven doe je hier!
 seo:
   title: Inschrijven op de nieuwsbrief van Phil & Flo | Doe het hier
   description: "Schrijf je in voor onze nieuwsbrief en krijg alle updates en
