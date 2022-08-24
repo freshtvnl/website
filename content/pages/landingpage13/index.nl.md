@@ -2,6 +2,8 @@
 title: Productfilm
 slug: productfilm
 draft: false
+image:
+  source: images/u-sport-chain-cleaner.png
 blocks:
   - type: hero_block
     title: "***Productfilm*** laten maken"
