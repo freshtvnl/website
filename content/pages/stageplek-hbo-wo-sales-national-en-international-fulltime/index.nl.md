@@ -49,6 +49,7 @@ blocks:
     displaymedia: image
     image:
       source: images/aron-inge-kopie.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -77,6 +78,7 @@ blocks:
     displaymedia: image
     image:
       source: images/20220329_113017_online.jpg
+      alt: Team - Phil & Flo
   - type: content_block
     video:
       autoplay: true
