@@ -4,6 +4,7 @@ slug: KG Systems - 3D Animatie Vertical Farming
 draft: false
 image:
   source: images/vertical-farming.jpg
+  alt: KG Systems - Phil & Flo
 content_type: case
 color: blue
 branch: Innovatieve-tech
@@ -40,7 +41,7 @@ blocks:
       Een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) leent zich bij uitstek als middel om complexe, innovatieve technieken uit te leggen. Maar een systeem uitleggen kan natuurlijk ook prima middels een film. Waarom dan toch 3D? Met een 3D animatie kunnen we niet alleen tot in detail een product of systeem laten zien, maar ook haar context. We bouwen een complete digitale filmset op vanuit het niets. Dus zodra we het product, in dit geval de vertical farm, gebouwd hebben, dan kunnen we nog alle kanten op. Vertical farming in China? Geen probleem! Volgende scène in Amsterdam? Is goed! De wereld van 3D animaties is visueel onbeperkt en enkel gelimiteerd door je eigen creatieve inzichten.
     displaymedia: youtube_video
     image:
-      source: images/kg-systems-bts.jpg
+      source: ""
     youtube:
       id: WrpEoC0Iox0
   - type: selectedreviews_block
