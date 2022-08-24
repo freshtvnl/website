@@ -48,7 +48,7 @@ blocks:
       ## Bedrijfsfilm laten maken in Groningen?
 
 
-      Ben je benieuwd naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/)? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het [maken van animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [bedrijfsfilms](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
+      Ben je benieuwd naar de concrete voordelen van een bedrijfsfilm voor jouw bedrijf? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/)? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het [maken van animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/), video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
