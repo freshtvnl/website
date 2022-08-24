@@ -97,7 +97,7 @@ blocks:
       ## ***Solliciteren***
 
 
-      Ben jij enthousiast over bovenstaande functie? Wil jij ook graag werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
+      Ben jij enthousiast over bovenstaande functie? Wil jij ook graag fulltime werken in ons hechte team en bijdragen aan een betere wereld? Solliciteer dan snel door je CV, portfolio, en motivatie (in video- of briefvorm) op te sturen. Heb je vragen, dan kan je ons altijd even bellen. Hopelijk tot binnenkort!
     align: center
     cta:
       url: /contact/
