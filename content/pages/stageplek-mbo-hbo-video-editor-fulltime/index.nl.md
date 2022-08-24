@@ -4,11 +4,11 @@ slug: Stageplek mbo en hbo video editor Groningen
 draft: false
 color: yellow
 blocks:
-  - type: content_block
+  - type: hero_block
+    align: center
     video:
       autoplay: true
-    content: "# MBO/HBO Stage Fulltime Video editor"
-    align: center
+    title: MBO/HBO Stage Fulltime ***Video editor***
   - type: content_block
     video:
       autoplay: true
