@@ -37,7 +37,7 @@ blocks:
       ## ***Interactieve*** open dagen
 
 
-      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). *'Wat te doen als een fysieke open dag niet mogelijk is?'* Ons antwoord was deze film voor onder andere het Park Lyceum in Almere en voor het CSB Amsterdam hierboven.
+      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Bijvoorbeeld: *'Wat te doen als een fysieke open dag niet mogelijk is?'* Ons antwoord was deze film voor onder andere het Park Lyceum in Almere en voor het CSB Amsterdam hierboven.
     displaymedia: iframe
     image:
       source: ""
@@ -78,7 +78,7 @@ blocks:
       ## ***Onderwijs*** voor de wereld van morgen
 
 
-      De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben.
+      De kinderen van vandaag bewonen de wereld van morgen. Daarom zetten wij ons in voor inspirerend en vernieuwend onderwijs. We willen de volgende generatie de mogelijkheden bieden die nodig zijn om onderdeel uit te maken van een betere en kansrijke toekomst. We doen dit door samenwerkingen aan te gaan met onderwijsinstellingen die dezelfde overtuiging en hebben; de opleiders van de wereld van morgen.
     displaymedia: iframe
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
