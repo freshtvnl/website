@@ -25,6 +25,7 @@ blocks:
     displaymedia: image
     image:
       source: images/2d-animation-partner-promo-bears-1.jpg
+      alt: Promo Bears - Phil & Flo
   - type: content_block
     video:
       autoplay: true
