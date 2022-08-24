@@ -21,15 +21,16 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/210314-florian-phil-en-flo-Phil-en-Flo.mp4
-    content: MVO is voor ons zeer belangrijk. De basis van ons team is hierop
-      gestoeld. Dit begon al toen we nog FreshTV heetten. Onze teamleden worden
-      ongemakkelijk om hun tijd te investeren in organisaties waar ze totaal
-      niet achter staan. Sowieso waren we het snel eens dat klimaatverandering
-      geen hoax is. Klimaatverwoestende organisaties waren daarom de eerste
-      organisaties die we hebben uitgesloten van onze inzet. Daarnaast kwamen er
-      vragen over andere maatschappelijke vraagstukken en integriteit. We zijn
-      hier zeer bewust mee bezig en zullen uiteraard meebewegen met de
-      voortschrijdende inzichten van ons team en de buitenwereld.
+    content: Maatschappelijk verantwoord ondernemen (MVO) is voor ons zeer
+      belangrijk. De basis van ons team is hierop gestoeld. Dit begon al toen we
+      nog FreshTV heetten. Onze teamleden worden ongemakkelijk om hun tijd te
+      investeren in organisaties waar ze totaal niet achter staan. Sowieso waren
+      we het snel eens dat klimaatverandering geen hoax is. Klimaatverwoestende
+      organisaties waren daarom de eerste organisaties die we hebben uitgesloten
+      van onze inzet. Daarnaast kwamen er vragen over andere maatschappelijke
+      vraagstukken en integriteit. We zijn hier zeer bewust mee bezig en zullen
+      uiteraard meebewegen met de voortschrijdende inzichten van ons team en de
+      buitenwereld.
     align: left
     displaymedia: custom_video
   - type: content_block
