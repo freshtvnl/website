@@ -18,9 +18,9 @@ blocks:
     content: In een super realistische 3D animatie maak je kennis met AdiTech,
       detachering in de metaaltechniek, elektrotechniek, leiding- en
       installatiewerk. Op maat gemaakte 3D omgevingen met paralellen uit het
-      werkveld van AdiTech, zoals pijpleidingen, gereedschappen en kabels. Een
-      impactvolle promofilm om stakeholders kennis te laten maken met AdiTech en
-      hun nieuwe branding.
+      werkveld van AdiTech, zoals geanimeerde pijpleidingen, gereedschappen en
+      kabels. Een impactvolle promofilm om stakeholders kennis te laten maken
+      met AdiTech en hun nieuwe branding.
     displaymedia: custom_video
 seo:
   noindex: true
