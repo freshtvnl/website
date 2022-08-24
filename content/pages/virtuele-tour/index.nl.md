@@ -2,6 +2,9 @@
 title: Virtuele tour
 slug: virtuele-tour
 draft: false
+image:
+  source: images/rsgs-mag1.jpg
+  alt: RSG Sneek MAG - Phil & Flo
 color: yellow
 blocks:
   - type: hero_block
@@ -27,6 +30,7 @@ blocks:
       Een virtuele tour is een digitale rondleiding. Deze online rondleiding vindt plaats in bijvoorbeeld een gebouw, school, bedrijf, fabriek of hotel. Je bekijkt virtueel alle ruimtes. Elke ruimte wordt vastgelegd met [interactieve video’s](https://www.philenflo.nl/oplossingen/interactieve-video/) waardoor een hele wereld tot leven komt op het scherm. Zo kan een bezoeker overal ter wereld in elke ruimte rondlopen en kijken.
     image:
       source: images/rsgs-mag1.jpg
+      alt: RSG Sneek MAG - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
@@ -41,6 +45,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-marcilla1.jpg
+      alt: JDE - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -58,6 +63,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema.jpg
+      alt: Script - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -75,6 +81,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept.jpg
+      alt: Concept - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -92,6 +99,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-grafiek.jpg
+      alt: Meetbaar - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -105,6 +113,7 @@ blocks:
     displaymedia: image
     image:
       source: images/hsc1.jpg
+      alt: Het Streek College - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -118,6 +127,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-responsive.jpg
+      alt: Responsive - Phil & Flo
   - displaymedia: image
     form: ""
     align: right
@@ -141,6 +151,7 @@ blocks:
       autoplay: true
     image:
       source: images/phil-en-flo-icoon-gesprek.jpg
+      alt: Vrijblijvende offerte - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -154,6 +165,7 @@ blocks:
     displaymedia: image
     image:
       source: images/boknet1.png
+      alt: BOKNET - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -180,6 +192,7 @@ blocks:
     align_text: text-left
     image:
       source: images/van-wijnen2.jpg
+      alt: Van Wijnen - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
@@ -193,24 +206,12 @@ blocks:
     align_text: text-left
     image:
       source: images/beter-bed3.png
+      alt: Beter Bed - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
       autoplay: true
     align: left
-    align_text: text-left
-    content: >-
-      ## Digitale rondleidingen voor ***makelaardij***
-
-
-      De huizenmarkt is grillig. De schaarste legt druk op het proces. Als makelaar wil jij het beste voor jouw klanten. Een digitale rondleiding van het een huis kan laten zien welke potentie er is. Zo trek je niet alleen kopers uit de buurt, maar ook verder weg. Steeds meer mensen nemen de stap om hun provincie te verlaten. Laat ze gemakkelijk jouw aanbod zien dankzij een [interactieve rondleiding in elk huis](https://www.philenflo.nl/virtuele-tour-makelaardij/).
-    image:
-      source: images/lamberink1.jpg
-    displaymedia: image
-  - type: content_block
-    video:
-      autoplay: true
-    align: right
     align_text: text-left
     content: >-
       ## De digitale rondleiding en ***sporten***
@@ -219,6 +220,7 @@ blocks:
       De strijd tussen sportscholen en sportclubs is groot. Je wilt natuurlijk de beste sporters aantrekken. Toon wat jouw sportschool of sportclub te bieden heeft dankzij een digitale rondleiding. Een sportieve interactieve video toont direct wat mensen mogen verwachten bij jou. Zo kun je sneller nieuwe sporters trekken.
     image:
       source: images/chipsoft3.jpg
+      alt: Chipsoft - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
@@ -232,6 +234,7 @@ blocks:
     align_text: text-left
     image:
       source: images/hsl1.jpg
+      alt: Het Streek Lyceum - Phil & Flo
     displaymedia: image
   - type: content_block
     video:
@@ -245,6 +248,7 @@ blocks:
     align_text: text-left
     image:
       source: images/sunita1.jpg
+      alt: Sunita - Phil & Flo
     displaymedia: image
   - type: contact_block
     contacts:
@@ -254,19 +258,8 @@ blocks:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
       - hoe-maken-jullie-een-interactieve-video
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-interactieve-video
-  - type: selectedfaqs_block
-    items:
-      - wat-is-virtuele-tour
-      - maken-virtuele-tour
-      - werk-tour
-      - sparren-virtuele-tour
-      - ideeen-virtuele-tour
-      - duur-tour
-      - kwaliteit-virtuele-tour
-      - moet-ik-zelf-alle-ideeen-aanleveren-of-bedenken-jullie-alles-productvideo
-      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
 seo:
-  title: Virtuele tour | Phil & Flo | Wij verbeelden de wereld van morgen
+  title: Virtuele tour | Phil & Flo
   description: "Virtuele tour laten maken voor jouw bedrijf. Interactieve video of
     digitale tour. ✔ Uniek  ✔ Op maat & Professioneel ✔ Klantscore 8.9 "
 menu:
