@@ -1,5 +1,5 @@
 ---
-title: Algemeen Dagblad - Heldere Uitleg Animatie 2D
+title: Algemeen Dagblad - 2D uitleganimatie
 slug: algemeen-dagblad-animatie
 weight: 6
 draft: false
