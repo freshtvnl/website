@@ -16,6 +16,7 @@ blocks:
     displaymedia: image
     image:
       source: images/sunita2.jpg
+      alt: Sunita - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -28,6 +29,7 @@ blocks:
     displaymedia: image
     image:
       source: images/jde-marcilla1.jpg
+      alt: JDE - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -40,6 +42,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-oranje.jpg
+      alt: Script - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -53,6 +56,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-oranje.jpg
+      alt: Concept - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -69,6 +73,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-oranje.jpg
+      alt: Vrijblijvende offerte - Phil & Flo
 seo:
   title: "Smakelijke virtuele rondleiding door een restaurant | Phil & Flo "
   description: Virtuele rondleiding door jouw restaurant laten maken door Phil &
