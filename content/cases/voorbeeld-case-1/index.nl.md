@@ -33,7 +33,7 @@ blocks:
       ## ***Alfen kiest voor 3D animatie***
 
 
-      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D animatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
+      Samen met Alfen hebben we gekeken naar het juiste communicatie middel. We hebben gekozen voor een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), dit is een prachtige manier om je eigen wereld tot leven te brengen. Ook de laadpalen van Alfen zijn op deze manier super realistisch. De modellen in deze 3D productanimatie zijn de populaire EV's van 2020, dit voor extra herkenbaarheid.
     displaymedia: image
     image:
       source: images/alfen-smart-charging-network-ao.jpg
@@ -48,7 +48,7 @@ blocks:
       ## ***Resultaten***
 
 
-      Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen.
+      Alfen heeft deze video gepubliceerd op LinkedIn en daar zijn een groot aantal likes op verschenen, ook het aantal views was zeer hoog. Dit zijn natuurlijk resultaten op views, maar de echte impact heeft het salesteam met deze video. De klanten begrijpen beter wat het aanbod is en kiezen daarom sneller voor de laadpaalinfrastructuur van Alfen. De techniek is begrijpelijk gemaakt.
     displaymedia: custom_video
     image:
       source: ""
