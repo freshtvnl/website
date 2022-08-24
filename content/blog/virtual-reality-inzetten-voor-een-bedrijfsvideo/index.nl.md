@@ -14,9 +14,9 @@ seo:
 ---
 Door nieuwe ontwikkelingen ontstaan nieuwe kansen. Virtual reality is zo'n innovatie waar je veel over hoort en waar je als bedrijf in de toekomst misschien wel niet meer zonder kunt.
 
-Virtual reality is de overtreffende trap van video. In plaats van kijker word je hoofdrolspeler en zelf onderdeel van het verhaal. Niet meer consumeren maar vooral beleven.
+Virtual reality is de overtreffende trap van video. In plaats van kijker wordt je hoofdrolspeler zelf onderdeel van het verhaal. Niet meer consumeren, maar vooral beleven.
 
-Als bedrijf kun je virtual reality op verschillende manieren gebruiken. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
+Als bedrijf kun je virtual reality op verschillende manieren inzetten. Het wordt bovendien steeds eenvoudiger - en goedkoper - om virtual reality te ontwikkelen en steeds meer mensen beschikken over de mogelijkheden om virtual reality video’s te bekijken.
 
 In dit artikel leggen we verder uit wat virtual reality is en kijken we naar de potentie hiervan voor verschillende bedrijven en sectoren. 
 
