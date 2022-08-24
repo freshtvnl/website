@@ -32,7 +32,7 @@ blocks:
       ## ***Videoproductie inzetten***
 
 
-      Wat je doel ook is met een video, als je deze door Phil & Flo laat produceren, ben je verzekerd van een eindresultaat van topkwaliteit. Deze kun je op allerlei manieren gebruiken: plaats een [bedrijfsfilm](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) bijvoorbeeld op een vaste plaats op je website, zodat potentiële klanten en/of werknemers hier altijd kennis met je kunnen maken. Of werk aan een uitgekiende marketingstrategie op social media met speciaal gemaakte [productfilmpjes](https://www.philenflo.nl/3d-productvideo/). Wat je ook doet, wij helpen je van begin tot eind.
+      Wat je doel ook is met een video, als je deze door Phil & Flo laat produceren, ben je verzekerd van een eindresultaat van topkwaliteit. Deze kun je op allerlei manieren gebruiken: plaats een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsfilm-laten-maken/) bijvoorbeeld op een vaste plaats op je website, zodat potentiële klanten en/of werknemers hier altijd kennis met je kunnen maken. Of werk aan een uitgekiende marketingstrategie op social media met speciaal gemaakte [productfilmpjes](https://www.philenflo.nl/3d-productvideo/). Wat je ook doet, wij helpen je van begin tot eind.
     displaymedia: image
     image:
       source: images/aron-sophie.jpg
