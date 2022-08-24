@@ -67,7 +67,7 @@ Bijna alle vormen van animaties zijn onder te verdelen in deze twee categorieën
 
 Op het eerste gezicht lijken de verschillen tussen de soorten animaties heel groot, maar in ongeveer honderd jaar animaties is niet veel veranderd. 
 
-Het begint met informatie, een verhaal. Dat wordt vastgelegd in een script of storyboard en vervolgens omgezet in een animatie. Techniek is daarbij ondergeschikt, omdat het uiteindelijk gaat om het zo goed mogelijk overbrengen van een bepaalde boodschap. 
+Het begint met informatie, een verhaal. Dat wordt vastgelegd in een script of storyboard en vervolgens omgezet in een animatie. Animatietechnieken zijn daarbij ondergeschikt, omdat het uiteindelijk gaat om het zo goed mogelijk overbrengen van een bepaalde boodschap. 
 
 Voor het maken van een keuze zijn uiteindelijk andere overwegingen belangrijker. Budget bijvoorbeeld. Maar ook: 
 
@@ -91,4 +91,4 @@ Wat wil de doelgroep en waar kijken ze vooral naar? Hoe gebruiken ze animaties e
 
 ## Final thoughts
 
-Het kan lastig zijn om een goede keuze te maken voor een animatietechniek of stijl. Gelukkig hebben wij dit vaker gedaan. Als je hier van gedachten over wilt wisselen met één van onze specialisten, [plan dan snel een sessie in](https://www.philenflo.nl/30-minuten/).
+Het kan lastig zijn om een goede keuze te maken voor een animatietechniek of stijl. Gelukkig hebben wij dit vaker gedaan. Als jij hierover van gedachten wilt wisselen met één van onze specialisten, [plan dan snel een sessie in](https://www.philenflo.nl/30-minuten/).
