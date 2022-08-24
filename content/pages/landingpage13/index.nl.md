@@ -21,6 +21,7 @@ blocks:
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      alt: UMCG filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -30,7 +31,8 @@ blocks:
       Met een frisse en duidelijke productvideo gaat het ons lukken om jouw product stevig(er) in de markt te zetten én maken we je klanten enthousiast. Een uitlegvideo laat namelijk zien dat je deskundig bent. Samen kijken we wat je doel en wie je doelgroep is. Wat wil je precies bereiken met je [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) of film? En op welke toon communiceren we dan? Waar heeft je klant behoefte aan en wat vinden zij leuk?
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -41,6 +43,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -51,6 +54,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -61,6 +65,7 @@ blocks:
     displaymedia: image
     image:
       source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -70,7 +75,8 @@ blocks:
       Het werk van Phil & Flo stopt echter niet bij het maken van alleen een film. Voorafgaand aan het produceren van je productfilm denken wij ook mee over hoe we jouw productvideo goed vindbaar kunnen maken. Het belangrijkste is natuurlijk dat zoveel mogelijk relevante mensen jouw producten in de productfilm te zien krijgen. Wil jij ook jouw producten op dé nieuwe manier presenteren? Neem contact met ons op en kom vandaag nog alles te weten over een productfilm. Wij hebben voor alle producten een passende film!
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
