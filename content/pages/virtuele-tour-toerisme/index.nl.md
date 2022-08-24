@@ -26,6 +26,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-route-groen-01.jpg
+      alt: Tour - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -38,6 +39,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-vrije-tijd-groen.jpg
+      alt: Overnachting in beeld - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -50,6 +52,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-camera-groen.jpg
+      alt: Foto - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -62,6 +65,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-video-groen.jpg
+      alt: Video - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -74,6 +78,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-groen.jpg
+      alt: Script - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -94,6 +99,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-groen.jpg
+      alt: Vrijblijvende offerte - Phil & Flo
   - type: contact_block
     contacts:
       - suzan-abbas
