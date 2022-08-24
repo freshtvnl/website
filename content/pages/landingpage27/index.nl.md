@@ -21,7 +21,8 @@ blocks:
       Een personalized video kun je volgens ons vergelijken met het krijgen van een ouderwets, handgeschreven verjaardagskaartje. Iemand is jouw verjaardag niet vergeten en heeft de moeite genomen om je persoonlijk te feliciteren. Datzelfde gevoel wanneer zo’n kaartje op je deurmat valt, willen we bij Phil & Flo ook bij jou en je klanten achterlaten. In een personalized video spreken we mensen persoonlijk aan, wist je dat maar liefst 85% van de doelgroep klikt op een persoonlijke video vanuit een mailing?
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -31,7 +32,8 @@ blocks:
       Onze professionals stemmen een gepersonaliseerde video af op degene die de video bekijkt. Ze zijn namelijk gebaseerd op informatie uit bijvoorbeeld jouw CRM-systeem en ze geven ons relevante inzichten om boeiende video’s voor diverse zakelijke doelen te creëren. Dankzij de nieuwste technieken kunnen we *real time* deze video’s bijsturen of wijzigen. Je klanten kunnen dan niet anders dan de video opmerken wanneer je ze direct aanspreekt. Mochten er bijvoorbeeld klantgegevens veranderen, dan past ons systeem de gepersonaliseerde boodschap automatisch aan.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
   - type: content_block
     align: left
     content: Een persoonlijke video kan je inzetten om bijvoorbeeld veelgestelde
@@ -41,7 +43,8 @@ blocks:
       en is je klant eerder geneigd iets voor je terug te doen.**
     displaymedia: image
     image:
-      source: images/feestje-phil-en-flo.jpg
+      source: images/20220329_113017_online.jpg
+      alt: Free a Girl - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -58,16 +61,17 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-suzan-kopie.jpg
+      alt: Peter & Suzan - Phil & Flo
   - type: content_block
-    align: left
+    align: center
     content: >-
       ## Wil jij ook opvallen?
 
 
       Je kunt het zo gek niet bedenken of het is te personaliseren. Bij Phil & Flo laten we je opvallen. Neem jij contact met ons op, dan zorgen wij voor een persoonlijk gemaakte koffie, geheel vrijblijvend uiteraard!
-    displaymedia: image
+    displaymedia: null
     image:
-      source: images/inge-bank.jpg
+      source: ""
     cta:
       url: /contact/
       text: Contact opnemen
