@@ -27,6 +27,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-brouwerij-blauw.jpg
+      alt: Fabriek in beeld - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -39,6 +40,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-schakelschema-blauw.jpg
+      alt: Script - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -51,6 +53,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-concept-blauw.jpg
+      alt: Concept - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -67,6 +70,7 @@ blocks:
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-gesprek-blauw.jpg
+      alt: Vrijblijvende offerte - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
