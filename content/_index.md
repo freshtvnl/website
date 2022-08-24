@@ -105,7 +105,7 @@ blocks:
       - DMT
       - Save The Children commercial
 seo:
-  title: Phil & Flo · Wij verbeelden de wereld van morgen
+  title: Phil & Flo | Wij verbeelden de wereld van morgen
   description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
     van morgen. Bel ons nu voor advies 0852738331
   image: phil-flo-animatie.jpg
