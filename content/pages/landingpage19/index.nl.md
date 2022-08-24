@@ -66,6 +66,7 @@ blocks:
     displaymedia: image
     image:
       source: images/layertec-testimonial-1-.png
+      alt: Layertec - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -77,7 +78,7 @@ blocks:
       Tekst.
     displaymedia: custom_video
     image:
-      source: images/peter-opnames-douwe-egberts.jpg
+      source: ""
   - type: content_block
     video:
       autoplay: true
