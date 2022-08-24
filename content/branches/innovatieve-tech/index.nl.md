@@ -55,7 +55,7 @@ blocks:
       ## ***Duurzaam inzetbaar***
 
 
-      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve en voornamelijk enthousiaste relaties met onze klanten kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn. Daarnaast is het fijn om tijdens de samenwerking plezier te maken en er samen iets moois van te bouwen.
+      Phil & Flo stuurt op duurzame klantrelaties. Door intensieve en voornamelijk enthousiaste relaties met onze klanten, kunnen we keer op keer duurzame producties maken. Producties die zowel op inhoudelijk als strategisch vlak voor geruime tijd inzetbaar zijn. Daarnaast is het fijn om tijdens de samenwerking plezier te maken en er samen iets moois van te bouwen.
     displaymedia: custom_video
     image:
       source: images/innovatieve-tech-showa-phil-en-flo-2.jpg
@@ -69,7 +69,7 @@ blocks:
       ## ***Campagnematige inzet***
 
 
-      Onze experts staan ook klaar om een strategie uit te denken om de doelgroep te bereiken met onze films. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan bijvoorbeeld op LinkedIn. Vraag ons naar de mogelijkheden.
+      Onze experts staan klaar om een strategie uit te denken om de doelgroep te bereiken met onze films. Op deze manier bereiken we jouw doelgroep precies op het moment dat ze op zoek zijn naar oplossingen. Dit kan bijvoorbeeld op LinkedIn. Vraag ons naar de mogelijkheden.
     displaymedia: custom_video
     image:
       source: images/innovatieve-tech-oio2-phil-en-flo.jpg
@@ -91,7 +91,7 @@ blocks:
       ## ***Interactieve brochures***
 
 
-      Als je je innovatieve oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
+      Als je je technische oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     cta:
       url: /contact/
       text: Neem contact op
