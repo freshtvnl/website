@@ -26,6 +26,7 @@ blocks:
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      alt: UMCG filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -35,7 +36,8 @@ blocks:
       Iets uitleggen, mensen informeren of overtuigen: een video kun je voor verschillende doelen inzetten. Wat jouw doel ook is, als je deze door Phil & Flo in Amsterdam laat produceren, ben je verzekerd van een goed scorende film. Waar is nagedacht over zaken als doel, marketingstrategie, lancering en video advertenties. Met het eindresultaat kun je alle kanten op: plaats jouw bedrijfsvideo bijvoorbeeld op je website, zodat klanten alvast kennis met je kunnen maken. Of werk aan een uitgekiende social mediastrategie met speciaal gemaakte [productfilmpjes](https://www.philenflo.nl/3d-productvideo/).
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -46,6 +48,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -55,7 +58,8 @@ blocks:
       Ben je benieuwd geworden naar de concrete voordelen van een videoproductie? Wij vertellen je er graag alles over in een persoonlijk gesprek. Of wil je graag meer weten over de mogelijkheden en kansen van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/)? Ook daarvoor ben je bij ons aan het juiste adres. We hebben ruime ervaring met het maken van [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), bedrijfsfilms, video’s voor [employer branding](https://www.philenflo.nl/oplossingen/employer-branding/), [virtuele tours](https://www.philenflo.nl/virtuele-tour/) en [explanimations](https://www.philenflo.nl/explanimation-laten-maken/), om maar eens wat te noemen. Leer ons kennen en kijk wat we voor je kunnen betekenen!
     displaymedia: image
     image:
-      source: images/inge-sophie-kopie.jpg
+      source: images/inge-bank.jpg
+      alt: Inge - Phil & Flo
     cta:
       url: /contact/
       text: Contact opnemen
