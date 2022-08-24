@@ -20,14 +20,14 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     displaymedia: youtube_video
     youtube:
       id: xaN7PTYXmnc
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     displaymedia: youtube_video
     youtube:
       id: BzSk-Hj1iCk
