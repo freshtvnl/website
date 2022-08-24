@@ -19,7 +19,7 @@ blocks:
       Dé internationale groothandel in gifts, zoetwaren en snacks. Dan hebben we
       het over Becky’s. 
 
-      Als je als zoetekauw opzoek bent naar een special item of een product op maat. Dan ben je daar op het juiste adres. En dat is dan ook direct de boodschap van de animatie!
+      Als je als zoetekauw op zoek bent naar een special item of een product op maat. Dan ben je daar op het juiste adres. En dat is dan ook direct de boodschap van de animatie!
     displaymedia: custom_video
   - type: content_block
     video:
