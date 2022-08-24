@@ -43,7 +43,7 @@ blocks:
       ## ***Samenwerking***
 
 
-      Vanuit onze passie en behoefte om bij te dragen aan innovatieve gezondheidszorg proberen wij dagelijks weer te excelleren. Of wij beter zijn dan onze concurrenten? Geen idee, wij focussen ons puur om elke dag beter te worden in ons eigen werk. Dat doen wij door middel van een plezierige samenwerking, waarin wij vanuit intrinsieke motivatie willen weten wat jij wilt vertellen. Wij willen je begrijpen en met jouw boodschap impact maken op het gebied van gezondheid en welzijn.
+      Vanuit onze passie en behoefte om bij te dragen aan innovatieve gezondheidszorg proberen wij dagelijks weer te excelleren. Of wij beter zijn dan onze concurrenten? Geen idee, wij focussen ons puur om elke dag beter te worden in ons eigen werk. Dat doen wij door middel van een plezierige samenwerking, waarin wij vanuit intrinsieke motivatie willen weten wat jij wilt vertellen. Wij willen je begrijpen en met jouw boodschap impact maken op het gebied van gezondheid, welzijn en pharmacie.
     displaymedia: image
     image:
       source: images/foto-umcg.png
