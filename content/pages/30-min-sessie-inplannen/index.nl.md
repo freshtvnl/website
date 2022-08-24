@@ -9,7 +9,7 @@ blocks:
       # Vrijblijvende ***30 minuten*** sessie boeken
 
 
-      Boek nu geheel vrijblijvend een sessie met onze specialisten over de inzet van video, animatie of videomarketing.
+      Je kunt een geheel vrijblijvende sessie boeken met onze specialisten, over de inzet van video, animatie of videomarketing.
     align: center
   - type: contact_block
     contacts:
