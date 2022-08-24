@@ -2,9 +2,6 @@
 title: YouTube video laten maken
 slug: you-tube-video-laten-maken
 draft: false
-seo:
-  title: YouTube video laten maken? - Phil & Flo Videomarketing
-  description: Ook scoren met YouTube video? Een Youtube video laten maken doe je door Phil & Flo. Neem vrijblijvend contact met ons op. We helpen je graag!
 blocks:
   - type: hero_block
     title: "***YouTube video laten maken***"
@@ -67,4 +64,8 @@ blocks:
       - victor
   - contacts:
       - suzan-abbas
+seo:
+  title: YouTube video laten maken? - Phil & Flo Videomarketing
+  description: Ook scoren met YouTube video? Een Youtube video laten maken doe je
+    door Phil & Flo. Neem vrijblijvend contact met ons op. We helpen je graag!
 ---

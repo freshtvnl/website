@@ -2,9 +2,6 @@
 title: YouTube video laten maken
 slug: you-tube-video-laten-maken
 draft: false
-seo:
-  title: YouTube video laten maken? - Phil & Flo Videomarketing
-  description: Ook scoren met YouTube video? Een Youtube video laten maken doe je door Phil & Flo. Neem vrijblijvend contact met ons op. We helpen je graag!
 blocks:
   - type: hero_block
     title: "***YouTube video laten maken***"
@@ -35,6 +32,7 @@ blocks:
     displaymedia: image
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
+      alt: UMCG filmopnames - Phil & Flo
   - type: content_block
     align: right
     content: >-
@@ -47,7 +45,8 @@ blocks:
       Daarnaast is YouTube de één na grootste zoekmachine van de wereld. Ga met de trend mee en laat ons meedenken over de inzet van video op YouTube. Wij adviseren je  en komen met een YouTube video die volledig aansluit bij jouw wensen.
     displaymedia: image
     image:
-      source: images/aron-sophie.jpg
+      source: images/aii04982.jpg
+      alt: Aron & Inge - Phil & Flo
   - type: content_block
     align: left
     content: >-
@@ -58,6 +57,7 @@ blocks:
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
@@ -67,4 +67,8 @@ blocks:
       - victor
   - contacts:
       - suzan-abbas
+seo:
+  title: YouTube video laten maken? | Phil & Flo Videomarketing
+  description: Ook scoren met YouTube video? Een Youtube video laten maken doe je
+    door Phil & Flo. Neem vrijblijvend contact met ons op. We helpen je graag!
 ---
