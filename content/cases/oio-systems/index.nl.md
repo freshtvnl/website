@@ -4,6 +4,7 @@ slug: OIO systems
 draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
+  alt: OIO Systems - Phil & Flo
 content_type: case
 color: blue
 branch: Innovatieve-tech
@@ -36,6 +37,7 @@ blocks:
     displaymedia: image
     image:
       source: images/oio-systems-still-toilet.png
+      alt: OIO Systems toilet - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -48,7 +50,7 @@ blocks:
       Tijdens een uitgebreide videocall met Gilbert en John van OIO Systems, leerden we hoe de put werkt en waar deze toe dient. Gelukkig konden we op voorhand een fysiek exemplaar ontvangen, zodat onze [2D-animator](https://www.philenflo.nl/2d-animatie/) een goed beeld kon krijgen van de put. Hierdoor konden we de put precies nabouwen.
     displaymedia: custom_video
     image:
-      source: images/210324-sophie-2d-animator-phil-en-flo.jpeg
+      source: ""
   - type: content_block
     video:
       autoplay: true
