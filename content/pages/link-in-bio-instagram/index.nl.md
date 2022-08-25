@@ -13,12 +13,12 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![Discriminatie Meldpunt Groningen - Phil &
-      Flo](images/discriminatie-meldpunt-groningen.jpg)"
+    content: "![Het Streek Lyceum - Phil &
+      Flo](images/september-2022_het-streek-lyceum.jpg)"
     cta:
-      color: red
-      url: https://www.philenflo.nl/portfolio/interactieve-player-discriminatie-meldpunt-groningen/
-      text: Bekijk de interactieve player
+      color: yellow
+      url: https://www.philenflo.nl/portfolio/csg-het-streek-lyceum-interactieve-tour/
+      text: Bekijk de interactieve tour van Het Streek
       type: button
   - type: content_block
     video:
