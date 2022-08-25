@@ -1,5 +1,5 @@
 ---
-title: Donatie - Alzeheimer Nederland
+title: Donatie - Alzheimer Nederland
 image:
   source: images/alzheimer-nederland-online.png
   alt: Alzheimer Nederland - Phil & Flo
