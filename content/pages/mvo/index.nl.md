@@ -80,11 +80,11 @@ blocks:
   - type: logoblock
     title: Donaties tot op heden
     logo_items:
-      - Donatie - Het Vergeten Kind
       - Donatie - The Ocean Cleanup
-      - Donatie - Proefdiervrij
       - Donatie - Stichting Vluchteling
+      - Donatie - Het Vergeten Kind
       - Donatie - Alzheimer Nederland
+      - Donatie - Proefdiervrij
   - type: content_block
     content: >-
       ## ***Uitsluitingen***
