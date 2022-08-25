@@ -20,7 +20,7 @@ Ben je op zoek naar een manier om nieuwe werknemers aan te trekken, kijk dan een
 
 Een [employer branding video](https://www.philenflo.nl/oplossingen/employer-branding/) is in principe een video waarmee je een vacature binnen je bedrijf promoot voor potentiële werknemers. Gemotiveerde werknemers van jouw bedrijf vertellen over de sfeer in het bedrijf en de werkzaamheden. Verder geven ze vaak aan wat ze juist leuk vinden aan het bedrijf of de werkzaamheden. Op deze manier maak je meer indruk op potentiële kandidaten dan wanneer je alleen een online vacature plaatst. De toekomstige werknemer krijg een beter beeld van het bedrijf, de sfeer, eventuele toekomstige collega’s en de inhoud van de vacature. In de praktijk blijkt dat werkzoekenden eerder geneigd zijn om op vacatures te reageren met een employer branding film, dan te solliciteren op een vacature met droge tekst.
 
-![Employer branding video ](images/employer-branding-film-umcg.jpg)
+![UMCG Anio Employer branding video - Phil & Flo](images/umcg-anios5b.jpg)
 
 ## Hoe maak je een employer branding video?
 
@@ -30,7 +30,7 @@ Zoals hierboven aangegeven wordt de [video](https://www.philenflo.nl/oplossingen
 
 Steeds meer bedrijven kiezen ervoor om een employer branding video te maken vanwege de vele voordelen die het biedt. Naast dat je betere kandidaten werft en eigenlijk de voorselectie vereenvoudigt, betrek je ook je eigen werknemers bij het proces. En zeg zelf? Hoor je liever van de baas of manager dat een bedrijf leuk is om bij te werken of van iemand die op de werkvloer aanwezig is? De kwaliteit van de aanmeldingen stijgt, wat weer tijd scheelt in het selectieproces.
 
-![Employer branding video](images/employer-branding-film-dotec.jpg)
+![Dotec Employer branding video - Phil & Flo](images/dotec1b.jpg)
 
 Een andere reden om een employer branding video te maken is dat je meer sollicitaties binnen krijgt die aansluiten bij het bedrijf. Mensen die solliciteren na het zien van een [vacaturevideo](https://www.philenflo.nl/vacature-video/) hebben vaak ook een beter beeld van de inhoud van de vacature en het bedrijf waar ze solliciteren. Hierdoor kom je sneller in contact met de juiste kandidaat. 
 
