@@ -5,6 +5,7 @@ weight: 15
 draft: false
 image:
   source: images/vr-headset-n9f6yfe.jpg
+  alt: VR bril - Phil & Flo
 date: 2021-09-08T10:53:02.144Z
 color: blue
 seo:
@@ -38,7 +39,7 @@ Augmented reality (AR) is een variant op virtual reality. Augmented reality is h
 
 De vorm waar we hier op focussen is de volledig virtuele ervaring. Met een VR-bril op waan jezelf in een kunstmatige 3d-werkelijkheid. Die kan er realistisch uitzien of opgebouwd zijn als een geanimeerde fantasie wereld. Doordat de bril alle bewegingen registreert, kun je 360 graden om je heen kijken en ben je vrij om in alle richtingen te bewegen. Zo ervaar je de 3D-omgeving als echt en kun je er ook aan deelnemen.
 
-![Wat is VR blog](images/gay-couple-playing-video-games-with-vr-glasses-eja59se.jpg)
+![Wat is VR? - Phil & Flo](images/vr2.jpg)
 
 ### Mixed reality
 
@@ -60,7 +61,7 @@ Je kunt je klanten laten zien hoe jullie nieuwe bedrijfspand eruitziet, en hem o
 
 De kracht van virtual reality is dat het mensen helemaal kan meenemen in een andere wereld. Ideaal voor het presenteren van producten: Online, of in de winkel of op een beurs. Ook kunnen producten makkelijk worden gevisualiseerd, bijvoorbeeld een nieuwe keuken die je hebt laten ontworpen.
 
-![Zakelijk VR inzetten blog](images/gaming-in-vr-zgmagr8.jpg)
+![Zakelijk VR inzetten - Phil & Flo](images/gaming-in-vr-zgmagr8.jpg)
 
 ### Virtueel winkelen
 
@@ -80,7 +81,7 @@ Als onderdeel van een behandeling zoals bij de behandeling van angststoornissen 
 
 Een andere nuttige toepassing van virtual reality is om naasten te laten ervaren hoe het is om te leven met een psychose of te laten zien hoe de belevingswereld van iemand met dementie eruitziet.
 
-![VR inzetten in de zorg](images/asian-businessmen-and-businesswomen-meeting-using-w3qy5es.jpg)
+![VR inzetten in de zorg - Phil & Flo](images/vr.jpg)
 
 ## Voordelen van virtual reality video
 
