@@ -84,7 +84,7 @@ blocks:
       - Donatie - The Ocean Cleanup
       - Donatie - Proefdiervrij
       - Donatie - Stichting Vluchteling
-      - Donatie - Alzeheimer Nederland
+      - Donatie - Alzheimer Nederland
   - type: content_block
     content: >-
       ## ***Uitsluitingen***
