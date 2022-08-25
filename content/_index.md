@@ -79,8 +79,8 @@ blocks:
     title: Cases
     items:
       - sport spray 3d animatie
-      - Save The Children - Bordje Bij
       - premium-positioning-2d-animatiefilm
+      - Save the Children - Bordje Bij
     more_items: true
   - type: content_block
     align: center
