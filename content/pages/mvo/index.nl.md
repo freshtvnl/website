@@ -69,7 +69,7 @@ blocks:
 
       * Wij participeren in het [energietransitiefonds](https://meewind.nl/fonds/energie-transitiefonds/).
 
-      * Wij doneren **1% van de omzet** per maand naar een goed doel die we met ons team uitkiezen. Donaties tot op heden: Het vergeten Kind, Stichting Vluchteling, Stichting Zwerfjongeren, Free A Girl...
+      * Wij doneren **1% van de omzet** per maand naar een goed doel die we met ons team uitkiezen. 
 
 
       [](https://meewind.nl/fonds/energie-transitiefonds/)[](https://meewind.nl/fonds/zeewind-bestaande-parken/)Ook spreken we ons uit voor een duurzame wereld, zie de post van [Peter de Graaf op LinkedIn](https://www.linkedin.com/posts/peterdegraaf1_marketing-klimaatverandering-onlinemedia-activity-6623877199214727168-Wwo8)
@@ -77,6 +77,14 @@ blocks:
       source: images/phil-en-flo-mvo.jpg
       alt: Milieuvriendelijk - Phil & Flo
     displaymedia: image
+  - type: logoblock
+    title: Donaties tot op heden
+    logo_items:
+      - Donatie - Het Vergeten Kind
+      - Donatie - The Ocean Cleanup
+      - Donatie - Proefdiervrij
+      - Donatie - Stichting Vluchteling
+      - Donatie - Alzeheimer Nederland
   - type: content_block
     content: >-
       ## ***Uitsluitingen***
