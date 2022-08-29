@@ -71,7 +71,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
     youtube:
-      id: nCiuDz461D8
+      id: 8tKtbeTsmfQ
   - type: content_block
     align: right
     content: >-
@@ -119,9 +119,9 @@ blocks:
   - type: selectedwork_block
     title: Selected work
     items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
       - alfen-Smart-Charging-Network-3D-animatie
       - animatiefilm-over-biogas
+      - sport spray 3d animatie
     more_items: true
   - items:
       - boknet-3d-animatie-beroeps-organisatie-kunstenaars
