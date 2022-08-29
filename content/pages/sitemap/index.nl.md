@@ -34,7 +34,6 @@ blocks:
       - reclamevideo
       - branding-video-laten-maken
       - stemacteur-of-actrice-aanmelden-voice-over
-      - you-tube-marketing
       - educatieve-animatiefilm-maken
       - animatie-studio-utrecht
       - animatiestudio-groningen
