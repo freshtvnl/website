@@ -48,19 +48,15 @@ blocks:
       ## ***Onze expertise***
 
 
-      **[\- 2D animatie laten maken](https://www.philenflo.nl/2d-animatie/)**
+      **[2D animatie laten maken](https://www.philenflo.nl/2d-animatie/)**
 
+      **[3D animatie laten maken](https://www.philenflo.nl/3-d-animatie-laten-maken/)**
 
-      **[\- 3D animatie laten maken](https://www.philenflo.nl/3-d-animatie-laten-maken/)**
+      **[Bedrijfsfilm laten maken](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)**
 
+      **[Employer Branding content](https://www.philenflo.nl/oplossingen/employer-branding/)**
 
-      **[\- Bedrijfsfilm laten maken](https://www.philenflo.nl/bedrijfsfilm-laten-maken/)**
-
-
-      **[\- Employer Branding content](https://www.philenflo.nl/oplossingen/employer-branding/)**
-
-
-      **[\- Interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)**
+      **[Interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/)**
     form: ""
     displaymedia: image
     image:
