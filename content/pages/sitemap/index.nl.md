@@ -86,7 +86,7 @@ blocks:
       - video laten maken
       - virtual-reality
 seo:
-  title: Sitemap | Phil & Flo
+  title: ""
   description: null
   noindex: true
 menu:
