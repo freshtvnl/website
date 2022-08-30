@@ -54,7 +54,7 @@ blocks:
       Je kunt ook links toevoegen in de video die naar jouw website gaat. In plaats van links naast de video, of eronder, zet je de links om op te klikken gewoon in de video. Integreer sociale media, polls, pdf-bestanden en meer… de mogelijkheden zijn ongekend!
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3439e022b9b8aaad7250b257
+      source: https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1
   - type: content_block
     align: right
     content: >-
@@ -86,7 +86,8 @@ blocks:
       In interactieve video’s kan je direct de interactie met de kijker opzoeken. Je kan de kijker de keuze geven welke richting het wil opgaan in de animatiefilm, of welke informatie belangrijk is voor hem of haar. Daarnaast zorgt interactieve video ervoor dat je niet meerdere video’s hoeft te publiceren. Aangezien alles in één heldere videoplayer past. Dit kan perfect met een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/TTuF0nvviqvx
+      source: "https://interactive.philenflo.nl/embed/projects/52d38f0ece1d9c7c895589\
+        d5?iv_branded=1\t\t\t\t\t\t\t\t\t"
   - type: content_block
     align: right
     content: >-
@@ -113,9 +114,12 @@ blocks:
 
       In een creatieve sessie bespreek je samen een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
     align: left
-    displaymedia: iframe
+    displaymedia: image
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
+    image:
+      source: images/wireframe-schooltour.jpg
+      alt: Wireframe interactieve tour - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -165,10 +169,12 @@ blocks:
 
       Een interactieve video is geschikt voor vrijwel elke branche, zoals [innovatieve tech](https://www.philenflo.nl/branches/innovatieve-tech/), [zorg](https://www.philenflo.nl/branches/zorg-pharma/) en [onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/). Het kan plaatsvinden in een ziekenhuis, school, hotel, brouwerij, fabriek of in de makelaardij, maar het kan ook ingezet worden in een stad of museum voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
     align: right
-    displaymedia: image
+    displaymedia: iframe
     image:
-      source: images/ads_employer-branding-zorg_anios1.jpg
-      alt: UMCG - Phil & Flo
+      source: ""
+      alt: ""
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/d5621e2835d285fdf02c56b6?iv_branded=1
   - type: selectedwork_block
     title: Succesverhalen
     items:
