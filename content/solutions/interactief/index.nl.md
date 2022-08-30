@@ -76,7 +76,7 @@ blocks:
       - The Rent Company
       - RSG Sneek
       - CSG Het Streek
-      - Discriminatie Meldpunt Groningen
+      - Meldpunt Discriminatie Groningen
   - type: content_block
     align: left
     content: >-
