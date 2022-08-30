@@ -71,12 +71,12 @@ blocks:
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
-      - Nomios
       - CSB Amsterdam
       - ICON
       - The Rent Company
       - RSG Sneek
       - CSG Het Streek
+      - Discriminatie Meldpunt Groningen
   - type: content_block
     align: left
     content: >-
