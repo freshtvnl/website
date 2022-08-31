@@ -115,9 +115,9 @@ blocks:
   - type: selectedwork_block
     title: Succesveralen
     items:
-      - Hanze Hogeschool - 2D Animaties
       - Animatiefilm ICON geneesmiddelenonderzoek
       - OIO systems
+      - andrea-kruis
     more_items: false
     contacts:
       - sophie
