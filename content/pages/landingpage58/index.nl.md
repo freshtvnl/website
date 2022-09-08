@@ -14,14 +14,6 @@ blocks:
     content: ""
     title: "***2D Animatie*** laten maken"
     align_text: center
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Gemeente Amstelveen
-      - Hanzehogeschool Groningen
-      - ICON
-      - OIO Systems
-      - Premium Positioning
   - type: content_block
     video:
       autoplay: true
@@ -37,6 +29,14 @@ blocks:
     displaymedia: custom_video
     align: left
     align_text: text-left
+  - type: logoblock
+    title: Bewezen trackrecord
+    logo_items:
+      - Gemeente Amstelveen
+      - Hanzehogeschool Groningen
+      - ICON
+      - OIO Systems
+      - Premium Positioning
   - type: content_block
     align: right
     content: >-
