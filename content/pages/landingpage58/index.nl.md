@@ -29,6 +29,14 @@ blocks:
     displaymedia: custom_video
     align: left
     align_text: text-left
+  - type: logoblock
+    title: ""
+    logo_items:
+      - Gemeente Amstelveen
+      - Hanzehogeschool Groningen
+      - ICON
+      - OIO Systems
+      - Premium Positioning
   - type: content_block
     align: right
     content: >-
@@ -60,14 +68,6 @@ blocks:
       autoplay: true
     youtube:
       id: ""
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Gemeente Amstelveen
-      - Hanzehogeschool Groningen
-      - ICON
-      - OIO Systems
-      - Premium Positioning
   - type: content_block
     align: right
     content: >-
@@ -113,7 +113,7 @@ blocks:
       type: button
       color: green
   - type: selectedwork_block
-    title: Succesveralen
+    title: Succesverhalen
     items:
       - Animatiefilm ICON geneesmiddelenonderzoek
       - OIO systems
