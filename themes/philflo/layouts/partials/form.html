@@ -558,7 +558,7 @@
 
   {{ end }}
 
-  {{ if eq $type "review_extern"}}
+  {{ if eq $type "review_extern_oud"}}
 
   <div class='col-span-4'>
     <label class="block">
@@ -817,6 +817,257 @@
     <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
     {{ else }}
     <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie verzenden</button>
+    {{ end }}
+  </div>
+
+  {{ end }}
+  {{ if eq $type "review_extern"}}
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span>Als bedankje wil ik een...<span class="text-red-500">*</span></span>
+      <select name="gift" id="gift" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
+        <option value="zalando25">Zalando Giftcard t.w.v. €25,-</option>
+        <option value="bol25">Bol.com cadeaubon t.w.v. €25,-</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="col-span-4"> 
+    <h3>Salestraject</h3>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wie was je Account Director?<span class="text-red-500">*</span></span>
+      <select name="accountDirector" id="accountDirector" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
+        <option value="ingeBoonstra">Inge Boonstra</option>
+        <option value="suzanAbbas">Suzan Abbas</option>
+        <option value="victorTeeselink">Victor Teeselink</option>
+      </select>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van het eerste contact (snelheid, communicatie)?<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eersteContactSales" name="eersteContactSales"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van de offerte?<span class="text-red-500">*</span></span>
+      <select name="offerteMening" id="offerteMening" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
+        <option value="tekort">Te kort</option>
+        <option value="preciesgoed">Precies goed</option>
+        <option value="telang">Te lang</option>
+      </select>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Licht toe:<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="toelichtingOfferteMening" name="toelichtingOfferteMening"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van de betrokkenheid tijdens het project?<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="betrokkenheidSales" name="betrokkenheidSales"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je vond de expertise? (cijfer tussen 1 en 10)<span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseSales" name="expertiseSales" type="number" min="1" max="10"  required>
+    </label>
+  </div>
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Zijn alle afspraken nagekomen en was alles in lijn met de verwachting?<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="afsprakenSales" name="afsprakenSales"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Tips en/ of Complimenten?<span class="text-red-500">*</span></span>
+      <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsSales" name="tipsSales"  required></textarea>
+    </label>
+  </div>
+
+  <div class="col-span-4"> 
+    <h3>Productietraject</h3>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wie was je Project Manager?<span class="text-red-500">*</span></span>
+      <select name="projectbegeleiding" id="projectbegeleiding" class="block w-full h-12 px-2 py-1 mt-1 text-gray-800 border border-gray-400">
+        <option value="IngeJonker">Inge Jonker</option>
+        <option value="JenniferGareth">Jennifer Gareth</option>
+      </select>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je vond de expertise? (cijfer tussen de 1 en 10) <span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="expertiseProductie" name="expertiseProductie" type="number" min="1" max="10"  required>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van het creatieve proces? (cijfer tussen de 1 en 10) <span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="creativeProces" name="creativeProces" type="number" min="1" max="10"  required>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Licht toe:<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="toelichtingCreativeProces" name="toelichtingCreativeProces"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van de flexibiliteit tijdens het proces? (cijfer tussen de 1 en 10)<span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="flexibiliteitProces" name="flexibiliteitProces" type="number" min="1" max="10"  required>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Licht toe:<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="toelichtingFlexibiliteitProces" name="toelichtingFlexibiliteitProces"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Wat vond je van het feedback proces? (cijfer tussen de 1 en 10)<span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="feedbackProces" name="feedbackProces" type="number" min="1" max="10"  required>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Licht toe:<span class="text-red-500">*</span></span>
+      <textarea rows="5" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="toelichtingFeedbackProces" name="toelichtingFeedbackProces"  required> </textarea>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Tips en/ of Complimenten?<span class="text-red-500">*</span></span>
+      <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="tipsProductie" name="tipsProductie"  required></textarea>
+    </label>
+  </div>
+
+  <div class="col-span-4"> 
+    <h3>Algemeen</h3>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Algemeen eindcijfer samenwerkin (cijfer tussen de 1 en 10)<span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijfer" name="eindcijfer" type="number" min="0" max="10"  required>
+    </label>
+  </div>
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Toelichting algemeen eindcijfer samenwerking  (Openbaar op Google).<span class="text-red-500">*</span></span>
+      <textarea rows="6" class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="eindcijferToelichting" name="eindcijferToelichting"  required></textarea>
+    </label>
+  </div>
+
+
+  <div class='col-span-4'>
+    <label class="block">
+      <span class="block">Welke onderwerpen rondom videomarketing vind je interessant? <span class="text-red-500">*</span></span>
+      <fieldset>
+        <div>
+          <input type="checkbox" id="merkontwikkeling" name="onderwerpVideoMarketing" value="merkontwikkeling">
+          <label for="merkontwikkeling">Merkontwikkeling</label>
+        </div>
+        <div>
+          <input type="checkbox" id="animatie" name="onderwerpVideoMarketing" value="animatie">
+          <label for="animatie">Animatie</label>
+        </div>
+        <div>
+          <input type="checkbox" id="bedrijfsfilm" name="onderwerpVideoMarketing" value="bedrijfsfilm">
+          <label for="bedrijfsfilm">Bedrijfsfilm</label>
+        </div>
+        <div>
+          <input type="checkbox" id="persoonlijkeFilm" name="onderwerpVideoMarketing" value="persoonlijkeFilm">
+          <label for="persoonlijkeFilm">Persoonlijke film</label>
+        </div>
+        <div>
+          <input type="checkbox" id="interactieveVideo" name="onderwerpVideoMarketing" value="interactieveVideo">
+          <label for="interactieveVideo">Interactieve video</label>
+        </div>
+        <div>
+          <input type="checkbox" id="commercials" name="onderwerpVideoMarketing" value="commercials">
+          <label for="commercials">Commercials</label>
+        </div>
+        <div>
+          <input type="checkbox" id="youtubeMarketing" name="onderwerpVideoMarketing" value="youtubeMarketing">
+          <label for="youtubeMarketing">Youtube Marketing</label>
+        </div>
+      </fieldset>
+    </label>
+  </div>
+
+  <div class="col-span-4"> 
+    <h3>Persoonsgegevens</h3>
+    <p>Zodat we contact met je kunnen opnemen.</p>
+  </div>
+
+  <div class='col-span-2'>
+    <label class="block">
+      <span >{{ T "name" }} <span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="name" name="name" type="name" required>
+    </label>
+  </div>
+  <div class='col-span-2'>
+    <label class="block">
+      <span >{{ T "organization" }} <span class="text-red-500">*</span></span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="organization" name="organization" type="text" required>
+    </label>
+  </div>
+  <div class='col-span-4'>
+    <label class="block">
+      <span >{{ T "email" }} <span class="text-red-500">*</span></span>
+      <span class="block mb-4 text-base text-gray-500">E-mailadres waar bon heen gaat</span>
+      <input class="block w-full px-2 py-1 mt-1 text-gray-800 border border-gray-400" id="email" name="email" type="email" required>
+    </label>
+  </div>
+
+
+  <div class="col-span-4"> 
+    <h3>Deel je recensie alvast online</h3>
+    <p>Via de bevestigingsmail ontvang je de link naar onze Google pagina, zodat je de recensie direct online kan delen. Dit is een vereiste om in aanmerking te komen voor de tegoedbon naar keuze. Bedankt voor het invullen!</p>
+  </div>
+
+  <div class="col-span-4">
+    <label class="flex items-center space-x-3 cursor-pointer">
+      <input type="checkbox" name="newsletter" id="newsletter" class="w-4 h-4">
+      <span >{{ T "newsletter" }}</span>
+    </label>
+  </div>
+
+  <div class="col-span-4">
+    {{ if $color }}
+    <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 bg-{{$color}}-500 hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie versturen</button>
+    {{ else }}
+    <button type="submit" class="inline-block px-4 py-4 mt-6 leading-none text-white transition duration-200 branch-element-bg hover:opacity-80" style="color: white !important; text-decoration: none !important;" >Recensie versturen</button>
     {{ end }}
   </div>
 
