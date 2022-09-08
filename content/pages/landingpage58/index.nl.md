@@ -113,7 +113,7 @@ blocks:
       type: button
       color: green
   - type: selectedwork_block
-    title: Succesveralen
+    title: Succesverhalen
     items:
       - Animatiefilm ICON geneesmiddelenonderzoek
       - OIO systems
