@@ -30,7 +30,7 @@ blocks:
     align: left
     align_text: text-left
   - type: logoblock
-    title: Bewezen trackrecord
+    title: ""
     logo_items:
       - Gemeente Amstelveen
       - Hanzehogeschool Groningen
