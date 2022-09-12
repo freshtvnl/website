@@ -113,7 +113,7 @@ blocks:
       - Save The Children commercial
 seo:
   title: Phil & Flo | Wij verbeelden de wereld van morgen
-  description: Phil & Flo produceert videofilms en animatiefilms voor de wereld
-    van morgen. Bel ons nu voor advies 0852738331
+  description: Phil & Flo produceert video en animatie voor de wereld van morgen |
+    Kies voor creativiteit en kwaliteit | Bel ons nu voor advies 0852738331
   image: phil-flo-animatie.jpg
 ---
