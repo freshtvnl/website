@@ -48,10 +48,10 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
     content: >-
-      ## **Wat is 3d animatie?**
+      ## **Wat is 3D animatie?**
 
 
-      3D Animatie is als de opvolger van 2D animatie. Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
+      3D Animatie is het uitgebreide zusje van 2D animatie ;). Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
     displaymedia: custom_video
     align: right
   - type: content_block
