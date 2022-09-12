@@ -48,7 +48,7 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## ***Onze expertise***
+      ## ***Kies uit de verschillende mogelijkheden***
 
 
       **[2D animatie laten maken](https://www.philenflo.nl/2d-animatie/)**
@@ -70,7 +70,7 @@ blocks:
       source: jde-behind-the-scenes.jpg
       alt: JDE filmopnames - Phil & Flo
   - type: logoblock
-    title: Onze klanten
+    title: ""
     logo_items:
       - Alfen
       - Algemeen Dagblad
@@ -82,20 +82,24 @@ blocks:
     title: Cases
     items:
       - sport spray 3d animatie
-      - premium-positioning-2d-animatiefilm
       - Save the Children - Bordje Bij
+      - premium-positioning-2d-animatiefilm
     more_items: true
   - type: content_block
-    align: center
+    align: left
     content: >-
       ## ***Waarom samenwerken met Phil & Flo?***
 
-       We verbeelden de Wereld van Morgen. Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken. Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
+
+      **Wij verbeelden de Wereld van Morgen.** Om dit te bereiken zetten we onze creativiteit in voor sectoren die in onze ogen het verschil gaan maken. Wij streven met ons team elke dag naar het beste eindresultaat. Onze klanten beoordelen ons niet voor niets met 4,9 sterren van de 5. Dat komt door de hoge kwaliteit videofilms en animatiefilms die we produceren. Daarnaast is een goede samenwerking bij ons cruciaal voor het beste eindresultaat. Onze kennis van de branches zorg, onderwijs, duurzame energie, innovatieve tech en goede doelen is zeer groot. Daarom begrijpen wij jouw doelen en uitdagingen als geen ander. Wacht niet langer en bel ons voor vrijblijvend advies. **[085 - 2738331](tel:0852738331)**
     cta:
       type: button
       text: Ontvang direct je offerte
       url: /offerte-ontvangen/
       color: pink
+    displaymedia: image
+    image:
+      source: 20220329_113017_def.jpg
   - type: collection_block
     collection: blog
     number_of_items: 3
