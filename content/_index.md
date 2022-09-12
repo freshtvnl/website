@@ -28,10 +28,13 @@ blocks:
       type: button
       color: pink
     content: >-
-      ### Wij verbeelden de wereld van morgen
+      ### Kies voor creatieve duurzame videocontent
 
 
       Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     type: content_block
     video:
       autoplay: true
