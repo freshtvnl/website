@@ -212,7 +212,7 @@ blocks:
       url: /contact/
       text: Neem contact op
       type: button
-      color: green
+      color: pink
   - type: contact_block
     contacts:
       - suzan-abbas
