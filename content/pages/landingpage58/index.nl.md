@@ -21,9 +21,9 @@ blocks:
       source_webm: ""
     content: >-
       Heb jij ook een product of dienst die niet goed wordt begrepen door je
-      doelgroep? Dan helpen onze 2d animaties jou om wel begrepen te worden!
-      Onze animatiestudio maakt een mooie, unieke 2D animatie voor je. Van
-      script tot marketing, Phil & Flo staat voor je klaar!
+      doelgroep? Dan helpen onze 2D animaties voor duidelijkheid! **Onze
+      animatiestudio maakt een mooie, unieke 2D animatie voor je.** Van script
+      tot marketing, Phil & Flo staat voor je klaar!
 
 
       [Bekijk ons portfolio](/portfolio/)
