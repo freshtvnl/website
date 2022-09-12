@@ -34,6 +34,15 @@ blocks:
       color: pink
       text: Ontvang je offerte
       type: button
+  - type: logoblock
+    title: ""
+    content: ""
+    logo_items:
+      - Alfen
+      - U-Sport
+      - Energy Towers
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - Sleepfast
   - type: content_block
     video:
       autoplay: true
@@ -62,16 +71,6 @@ blocks:
       url: /contact/
     displaymedia: custom_video
     form: ""
-  - type: logoblock
-    title: Bewezen trackrecord
-    content: ""
-    logo_items:
-      - AdiTech
-      - Alfen
-      - BinBin
-      - KG Systems
-      - Energy Towers
-      - U-Sport
   - type: content_block
     align: right
     content: >-
