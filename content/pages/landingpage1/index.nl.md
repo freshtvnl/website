@@ -20,9 +20,9 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
     content: >-
-      Wil jij een 3D animatie laten maken voor je product of dienst? Een 3D
+      Wil jij een 3D animatie laten maken voor je product of dienst? **Een 3D
       animatie laten maken is een prachtige manier om ingewikkelde producten of
-      diensten in de juiste context te zien. Laat je verrassen door ons
+      diensten in de juiste context te zien**. Laat je verrassen door ons
       creatieve team.
 
 
