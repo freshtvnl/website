@@ -28,7 +28,7 @@ blocks:
       type: button
       color: pink
     content: >-
-      ### Kies voor creatieve duurzame videocontent
+      #### Kies voor creatieve duurzame videocontent
 
 
       Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek.
