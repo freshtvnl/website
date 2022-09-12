@@ -37,11 +37,11 @@ blocks:
   - type: logoblock
     title: ""
     logo_items:
-      - Gemeente Amstelveen
-      - Hanzehogeschool Groningen
       - ICON
-      - OIO Systems
-      - Premium Positioning
+      - Gemeente Amstelveen
+      - Algemeen Dagblad
+      - Hanzehogeschool Groningen
+      - Cushman Wakefield
   - type: content_block
     align: right
     content: >-
