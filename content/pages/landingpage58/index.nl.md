@@ -12,15 +12,20 @@ blocks:
     video:
       autoplay: true
     content: ""
-    title: "***2D Animatie*** laten maken"
+    title: "***2D Animatie laten maken***"
     align_text: center
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering2.mp4
-    content: Ook een product of dienst die maar niet wordt begrepen door je
-      doelgroep? Dan helpt onze aanpak jou om wel begrepen te worden! Wij maken
-      namelijk een 2D animatie voor je, uniek, mooi design en inhoudelijk sterk.
+    content: >-
+      Heb jij ook een product of dienst die niet goed wordt begrepen door je
+      doelgroep? Dan helpen onze 2d animaties jou om wel begrepen te worden!
+      Onze animatiestudio maakt een mooie, unieke 2D animatie voor je. Van
+      script tot marketing, Phil & Flo staat voor je klaar!
+
+
+      [Bekijk ons portfolio](/portfolio/)
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
