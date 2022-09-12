@@ -7,7 +7,7 @@ image:
   alt: Alfen - Phil & Flo
 blocks:
   - type: hero_block
-    title: "***3D Animatie*** laten maken"
+    title: "***3D Animatie laten maken***"
     content: ""
     displaymedia: null
     video:
@@ -19,10 +19,14 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
-    content: Wil jij een 3D animatie laten maken voor je product of dienst? Een 3D
+    content: >-
+      Wil jij een 3D animatie laten maken voor je product of dienst? Een 3D
       animatie laten maken is een prachtige manier om ingewikkelde producten of
       diensten in de juiste context te zien. Laat je verrassen door ons
       creatieve team.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     align: left
     displaymedia: custom_video
     cta:
