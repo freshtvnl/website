@@ -48,7 +48,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Case-BinBin-Header.mp4
     content: >-
-      ## **Wat is 3D animatie?**
+      ## ***Wat is 3D animatie?***
 
 
       3D Animatie is het uitgebreide zusje van 2D animatie ;). Doordat je objecten driedimensionaal ontwerpt kan je er als kijker compleet omheen en zelfs erin kijken. Deze ontwerpen kan je vervolgens weergeven in een landschap of wereld die helemaal op maat te maken is. Met 3D animatie geef je de meest complexe producten vorm.
@@ -59,7 +59,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Solarroof-3d-animatie-Phil-en-Flo.mp4
     content: >-
-      ## ***3D animatie als marketingmiddel***
+      ### ***3D animatie als marketingmiddel***
 
 
       Deze beeldtechniek wordt gebruikt om informatie op een boeiende manier over te brengen. De kansen die dit biedt voor bedrijven en organisaties zijn enorm. Als jij het namelijk kan bedenken, kunnen wij het vormgeven en in beweging zetten. Dit biedt mogelijkheden op het gebied van productuitleg, productpromotie, en -marketing. Met een animatiefilm weet je zeker dat je een enorme overtuigingskracht hebt, en de meest complexe technieken en producten inzichtelijk maakt.
@@ -74,7 +74,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ***3D product animatiefilm***
+      ### ***3D product animatiefilm***
 
 
       Een 3D product animatie is een prachtige manier om de binnenkant van een product goed weer te geven. Of om de werking van het product uit te beelden, op micro niveau of juist op grote afstand. In een eigen gecreëerde omgeving, met decors en landschappen die we speciaal voor jou ontwikkelen. 3D animatiefilms zijn kwalitatief hoogstaande producten die absoluut de aandacht trekken en super realistisch zijn.
@@ -87,7 +87,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***3D animaties***
+      ### ***3D animaties***
 
 
       Computer [animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) in marketing en advertising zijn als communicatiemedium een klasse apart. Neem bijvoorbeeld een karakter (poppetje) of een animatie figuur: zij kunnen het hart van iedere (online) video of marketingcampagne vormen. Phil & Flo brengt ze tot leven in een 3D-animatie. Kijk maar naar animatiefilms van Disney, Dreamworks of Netflix, deze animatiefilms hebben levensechte monsters, dieren, mensen en andere fantasiefiguren. Ook een eigen fantasiefiguur voor jouw organisatie? Bel ons voor een vrijblijvend creatief advies gesprek: **[085 - 2738331](tel:0852738331)**
@@ -100,7 +100,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ### Complexe ***product 3D animaties***
+      ### ***Complexe product 3D animaties***
 
 
       Wil je liever niet gebruikmaken van een karakter, dan kun je er ook voor kiezen om bijvoorbeeld een langdradige powerpoint in een aantrekkelijke 3D animatie te laten vormgeven. Er is waarschijnlijk geen ander medium dan 3D-[animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/) die zo snel een visuele samenvatting kan geven of het idee van een complex product kan uitleggen. 3D-animaties zijn dynamisch en weten de aandacht vast te houden.
@@ -127,15 +127,15 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/DMT-biogas-Phil-en-Flo.mp4
       autoplay: true
   - type: selectedwork_block
-    title: Succesverhalen
+    title: Cases
     items:
+      - Beckys - 3D animatie
       - aditech-3d-promofilm
       - KG Systems - 3D Animatie Vertical Farming
-      - Beckys - 3D animatie
   - type: content_block
     align: right
     content: >-
-      ### Vergroot je kansen met ***3D animaties***
+      ### ***Vergroot je kansen met 3D animaties***
 
 
       Een 3D animatievideo is dus een goede manier om je producten te verkopen of een bepaald onderwerp bij je doelgroep duidelijk te maken. Tekeningen zien er levendiger uit in een 3D-animatie en het maakt je boodschap aantrekkelijker en toegankelijker.
@@ -156,7 +156,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### 3D animatie ***video SEO***
+      ### ***3D animatie - video SEO***
 
 
       Wist je dat een structurele inzet van verschillende media er voor kan zorgen dat je een goede positie verwerft bij de natuurlijke (organische) zoekresultaten? Met deze zogenoemde Video SEO houden we bij je 3D animatie ook rekening.
@@ -190,7 +190,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/21903-IQBin-V2.mp4
     content: >-
-      ### Hoe maak je een 3D animatie?
+      ### ***Hoe maak je een 3D animatie?***
 
 
       Een animatieproject begint bij ons bij het eerste gesprek. Hierin denken we met je mee wat het doel van de animatie moet zijn. Dit is misschien wel het belangrijkste onderdeel van een samenwerking. Waarom? Omdat de stijl, toon, lengte en voice-over hierop moeten aansluiten. Zo heeft een 3D instructieanimatie een totaal andere insteek dan een geanimeerde promotie animatie. Laat ons met je meedenken, en laat weten wat jouw doelen zijn!
@@ -201,7 +201,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/energy-3d-animatie-Phil-en-flo.mp4
     content: >-
-      ## **Wat kost een 3D animatie?**
+      ### ***Wat kost een 3D animatie?***
 
 
       De kosten van een 3D animatie zijn afhankelijk van het aantal arbeidsuren dat in het maken van de 3d animatie zit. Het aantal uren is weer afhankelijk van de totale lengte van de animatie en de complexiteit van de stijl. Om een goed beeld te geven van een kostenplaatje kan je nadenken over de hoeveelheid objecten die worden vormgegeven, en de omgevingen en landschappen waarin de objecten worden gevisualiseerd. Daarnaast denk je na over de lengte van de film. Graag voorzien we je van advies en creatieve input, neem contact met ons op voor een kennismaking.
@@ -218,8 +218,9 @@ blocks:
       - suzan-abbas
   - type: selectedreviews_block
     items:
+      - Save The Children commercial
+      - premium-positioning-review
       - DMT
-      - boknet-review
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
@@ -228,10 +229,15 @@ blocks:
       - wat-is-de-beste-lengte-voor-een-animatie
       - welke-stijl-past-bij-mijn-animatie
       - in-welke-kwaliteit-ontvang-ik-mijn-animatie
+      - kan-ik-vrijblijvend-sparren-voor-een-animatie
+      - hebben-jullie-voorbeeld-van-een-animatie
+      - hoe-maken-jullie-animaties
+    more_items: true
 seo:
   title: 3D Animatie laten maken | Phil & Flo Creative studio
-  description: 3D animatie laten maken voor je organisatie of product ✔ Klantscore
-    8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op voor meer informatie
+  description: 3D animatie laten maken - Hoogwaardige kwaliteit | Klantscore 8.9 |
+    Uniek  | Check ons portfolio
+  image: images/alfen2.png
 menu:
   main:
     weight: 2
