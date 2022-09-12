@@ -17,7 +17,8 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering2.mp4
+      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
+      source_webm: ""
     content: >-
       Heb jij ook een product of dienst die niet goed wordt begrepen door je
       doelgroep? Dan helpen onze 2d animaties jou om wel begrepen te worden!
@@ -82,7 +83,7 @@ blocks:
       Drie dimensies zijn met de huidige technieken niet per se een grotere uitdaging dan een 2D-animatie. Toch zijn er nog genoeg redenen om het bij twee dimensies te houden. Een [3D animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/) kan al snel overdreven overkomen, zeker als het voor de animatie niet nodig is om in drie dimensies te werken. Een 2D-animatie heeft een zekere charme die goed werkt en verloren gaat als je voor 3D kiest alleen maar omdat het kan. Bovendien zijn de kosten van 2D vaak minder dan bij 3D.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/14C-onderzoek-animatie-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-gemeente-amstelveen-bijstandsuitkering2.mp4
       autoplay: true
     cta:
       url: /offerte-ontvangen/
