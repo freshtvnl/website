@@ -67,7 +67,7 @@ blocks:
     form: ""
     displaymedia: image
     image:
-      source: jde-behind-the-scenes.jpg
+      source: 220712_teamuitje-1-.jpg
       alt: JDE filmopnames - Phil & Flo
   - type: logoblock
     title: ""
