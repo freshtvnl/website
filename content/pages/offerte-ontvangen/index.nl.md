@@ -8,7 +8,10 @@ blocks:
   - type: content_block
     align: center
     content: >-
-      ## ***Zijn wij voor elkaar gemaakt?***
+      # ***Offerte ontvangen.***
+
+
+      ### Zijn wij voor elkaar gemaakt?
 
 
       **Ontvang binnen 1 werkdag een *vrijblijvende* offerte op maat.** Onze experts hebben ervaring in vele branches en snappen precies waar je behoefte ligt.
