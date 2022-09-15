@@ -13,7 +13,8 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      source_webm: ""
     content: >-
       Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal
       dat duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor
@@ -90,7 +91,7 @@ blocks:
       type: button
     align_text: text-left
   - type: logoblock
-    title: Bewezen trackrecord
+    title: ""
     logo_items:
       - Nederlandse Brandwonden Stichting
       - Gemeente Amstelveen
@@ -158,8 +159,9 @@ blocks:
       Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/3d-animatie-duurzame-energie.mp4
+      source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
       autoplay: true
+      source_webm: ""
   - type: selectedreviews_block
     title: Google reviews
     items:
