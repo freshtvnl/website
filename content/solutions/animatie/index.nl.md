@@ -14,13 +14,17 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
-    content: Wil jij ook je eigen wereld creëren en de kijker meenemen in een
-      verhaal dat duidelijk, maar vooral interessant is om naar te kijken? Kies
-      dan voor onze unieke maatwerk animatiefilms. Animaties zijn er in
-      verschillende vormen, kies hieronder uit [3D
+    content: >-
+      Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal
+      dat duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor
+      onze unieke maatwerk animatiefilms. Animaties zijn er in verschillende
+      vormen, kies hieronder uit [3D
       animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), [2D
       animatie](https://www.philenflo.nl/2d-animatie/) of [VR
       animatie](/vr-animatie-laten-maken/).
+
+
+      [Bekijk ook ons portfolio](/portfolio/)
     align: left
     displaymedia: custom_video
     cta:
