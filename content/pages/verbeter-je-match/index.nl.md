@@ -40,6 +40,11 @@ blocks:
 
 
       Een ideale, sterke organisatie scoort zowel intern als extern hoog op merkherkenbaarheid. Verbeter en versterk het vermogen van medewerkers, teams en organisatie. Gebaseerd op unieke wetenschappelijk onderbouwde modellen.
+
+
+
+
+      **Download de whitepaper hiernaast voor meer informatie!**
     form: contact-formulier
     displaymedia: form
   - type: content_block
