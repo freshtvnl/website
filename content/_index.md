@@ -6,7 +6,7 @@ blocks:
       id: ""
     align: center
     align_text: center
-    title: "***Animatie, video en branding***."
+    title: "***Creativiteit voor je volgende stap***"
     content: ""
     type: hero_block
     video:
@@ -23,15 +23,15 @@ blocks:
     align: left
     align_text: text-left
     cta:
-      url: /offerte-ontvangen/
-      text: Ontvang direct je offerte
+      url: /contact/
+      text: Maak een afspraak
       type: button
       color: pink
     content: >-
-      #### Kies voor creatieve duurzame videocontent
+      #### ***Kies voor duurzame videocontent***
 
 
-      Wij zijn een creatief bureau dat strakke, esthetische, en vooral mooie videofilms en animaties maakt. Op deze manier helpen wij onze klanten hun producten en diensten zo effectief mogelijk te vertalen voor hun publiek.
+      Wij produceren esthetische, mooie en duurzame videocontent en animaties. Zo helpen wij onze partners om te groeien en hun ambities waar te maken.
 
 
       [Bekijk ons portfolio](/portfolio/)
