@@ -11,6 +11,7 @@ blocks:
     video:
       autoplay: true
     title: "***Verbeter je match***"
+    align_text: center
   - type: content_block
     video:
       autoplay: true
