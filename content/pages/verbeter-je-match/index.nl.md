@@ -7,7 +7,7 @@ image:
 color: pink
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
     title: "***Verbeter je match***"
@@ -37,6 +37,7 @@ blocks:
 
       Een ideale, sterke organisatie scoort zowel intern als extern hoog op merkherkenbaarheid. Verbeter en versterk het vermogen van medewerkers, teams en organisatie. Gebaseerd op unieke wetenschappelijk onderbouwde modellen.
     form: contact-formulier
+    displaymedia: form
   - type: content_block
     video:
       autoplay: true
