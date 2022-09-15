@@ -6,7 +6,7 @@ blocks:
       id: ""
     align: center
     align_text: center
-    title: "***Creativiteit voor je volgende stap***"
+    title: "***Creativiteit voor de volgende stap***"
     content: ""
     type: hero_block
     video:
@@ -116,4 +116,7 @@ seo:
   description: Phil & Flo produceert video en animatie voor de wereld van morgen |
     Kies voor creativiteit en kwaliteit | Bel ons nu voor advies 0852738331
   image: phil-flo-animatie.jpg
+image:
+  source: phil-flo-animatie.jpg
+color: pink
 ---
