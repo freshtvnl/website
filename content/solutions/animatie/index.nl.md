@@ -281,7 +281,7 @@ title: Animatie
 slug: animatie-laten-maken
 weight: 1
 image:
-  source: images/2d-animatie-laten-maken.jpg
+  source: images/3d-animatie-laten-maken.jpg
   alt: 2D animatie laten maken - Phil & Flo
 seo:
   title: Animatie laten maken | Phil & Flo | Uniek & Opvallend
