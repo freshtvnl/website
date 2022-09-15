@@ -48,4 +48,6 @@ blocks:
     displaymedia: image
     image:
       source: images/schermafbeelding-2022-09-15-om-13.05.14.png
+    content: Phil & Flo werkt hiervoor samen met de gedragsexperts van
+      [verbetervermogen.nl](verbetervermogen.nl)
 ---
