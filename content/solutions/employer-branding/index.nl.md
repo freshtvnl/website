@@ -3,7 +3,7 @@ title: Employer Branding
 slug: employer-branding
 draft: false
 image:
-  source: images/employer-branding-phil-en-flo.jpg
+  source: images/cheerful-girl-touching-face-smiling-to-camera-pin-2021-08-28-00-50-42-utc.jpg
   alt: Employer branding - Phil & Flo
 blocks:
   - type: hero_block
