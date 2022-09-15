@@ -106,7 +106,7 @@ blocks:
     heading: h3
     title: Blogs
   - type: selectedreviews_block
-    title: Klantverhalen
+    title: Reviews
     items:
       - pra-health-sciences-review
       - DMT
