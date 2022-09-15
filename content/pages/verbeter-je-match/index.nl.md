@@ -23,21 +23,18 @@ blocks:
 
 
       Veel mensen zien grote verschillen tussen de externe boodschap die organisaties naar buiten communiceren, en het daarbij horende herkenbare, passende gedrag van de medewerkers intern.
-
-
+    form: ""
+    displaymedia: youtube_video
+    youtube:
+      id: Pxy1SL9CxLg
+  - type: content_block
+    video:
+      autoplay: true
+    align: right
+    content: >-
       Wij noemen dit de in-ex mismatch. Wat staat voor intern-extern mismatch.
 
 
-      Een ideale, sterke organisatie scoort zowel intern als extern hoog op merkherkenbaarheid.
-
-
-      Om deze herkenbaarheden intern en extern op elkaar te laten aansluiten, hebben de gedragsexperts van Verbetervermogen en de communicatie experts van Phil & Flo de handen ineengeslagen.
-
-
-      Verbeter en versterk het vermogen van medewerkers, teams en organisatie. Gebaseerd op unieke wetenschappelijk onderbouwde modellen. 
-
-
-      Maak nu een afspraak, de ruimte Is beperkt. Ga naar verbeterjematch.nl
+      Een ideale, sterke organisatie scoort zowel intern als extern hoog op merkherkenbaarheid. Verbeter en versterk het vermogen van medewerkers, teams en organisatie. Gebaseerd op unieke wetenschappelijk onderbouwde modellen.
     form: contact-formulier
-    displaymedia: form
 ---
