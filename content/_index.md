@@ -48,7 +48,7 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## ***Kies uit verschillende mogelijkheden***
+      ## ***Kies het perfecte middel***
 
 
       **[2D animatie laten maken](https://www.philenflo.nl/2d-animatie/)**
