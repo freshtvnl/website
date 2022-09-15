@@ -1,7 +1,7 @@
 ---
 title: Verbeter je match
 slug: verbeterjematch
-draft: true
+draft: false
 image:
   source: images/schermafbeelding-2022-09-15-om-12.56.18.png
 color: pink
