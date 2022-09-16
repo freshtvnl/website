@@ -12,14 +12,18 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: Hoogwaardige video en animatie voor de ***duurzame energie sector***
+    title: Hoogwaardige videocontent voor de ***duurzame energie sector***
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
     align: left
-    content: Phil en Flo maakt hoogwaardige, specialistische video en animatiefilms
-      met impact, speciaal voor jouw organisatie in de duurzame energie sector.
+    content: >-
+      Phil en Flo maakt hoogwaardige, specialistische video en animatiefilms met
+      impact, speciaal voor jouw organisatie in de duurzame energie sector.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     cta:
       url: /offerte-ontvangen/
       type: button
@@ -28,6 +32,16 @@ blocks:
     displaymedia: custom_video
     image:
       source: ""
+  - type: logoblock
+    logo_items:
+      - Xaam
+      - Alfen
+      - NOM
+      - Sensorfact
+      - TNO
+      - MRA Elektrisch
+    content: ""
+    title: ""
   - type: content_block
     align: right
     content: >-
@@ -111,16 +125,6 @@ blocks:
       alt: Peter - Phil & Flo
     video:
       autoplay: false
-  - type: logoblock
-    logo_items:
-      - Xaam
-      - Alfen
-      - NOM
-      - Sensorfact
-      - TNO
-      - MRA Elektrisch
-    content: ""
-    title: Bewezen trackrecord
   - type: selectedwork_block
     items:
       - animatiefilm-over-biogas
