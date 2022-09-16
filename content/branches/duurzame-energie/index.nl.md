@@ -163,7 +163,6 @@ blocks:
       - DMT
 seo:
   title: Wij verbeelden de wereld van duurzame energie | Phil & Flo
-  description: Videofilms of animatie's ter promotie van de duurzame energie. ✔
-    Klantscore 8.9 ✔ Onderscheidende content ✔ Creatief & interactief | Neem
-    contact op
+  description: Video en animatie voor de duurzame energie sector. ✔ Opslag ✔
+    Zonnestroom ✔ windenergie | Neem contact op
 ---
