@@ -164,5 +164,5 @@ seo:
     Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design
 menu:
   main:
-    weight: 1
+    weight: ""
 ---
