@@ -7,7 +7,7 @@ image:
   alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm*** laten maken"
+    title: "***Bedrijfsfilm laten maken***"
     content: ""
     displaymedia: null
     video:
@@ -19,9 +19,13 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
-    content: Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons
-      team zet zich in om voor jou de mooiste film te maken waar je trots op kan
+    content: >-
+      Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team
+      zet zich in om voor jou de mooiste film te maken waar je trots op kan
       zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     align: left
     align_text: text-left
     displaymedia: custom_video
@@ -30,10 +34,19 @@ blocks:
       text: Ontvang je offerte
       color: pink
       type: button
+  - type: logoblock
+    logo_items:
+      - JDE
+      - ICON
+      - Alfen
+      - Hanze Hogeschool Groningen
+      - HZPC
+      - Maandag
+    title: ""
   - type: content_block
     align: right
     content: >-
-      ## Prachtige bedrijfsfilms voor ***organisaties met betekenis***
+      ## ***Prachtige bedrijfsfilms voor organisaties met betekenis***
 
 
       Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
@@ -58,15 +71,6 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/UMCG-chirurgie3-Phil-en-Flo-website-source.mp4
       autoplay: true
     align_text: text-left
-  - type: logoblock
-    logo_items:
-      - JDE
-      - ICON
-      - Alfen
-      - Hanze Hogeschool Groningen
-      - HZPC
-      - Maandag
-    title: Bewezen trackrecord
   - type: content_block
     align: right
     content: >-
