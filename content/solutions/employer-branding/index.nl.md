@@ -22,9 +22,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
     align: left
     content: >-
-      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? Kies voor
-      de succesvolle aanpak van Phil & Flo. Wij maken hoogwaardige en krachtige
-      employer branding video's, zodat jij snel nieuwe kandidaten vindt.
+      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
+      de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
+      krachtige employer branding video's, zodat jij snel nieuwe kandidaten
+      vindt.
 
 
       [Bekijk ons portfolio](/portfolio/)
