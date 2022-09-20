@@ -1,7 +1,7 @@
 ---
 title: Videomarketing
 slug: videomarketing
-weight: 5
+weight: 6
 draft: false
 image:
   source: images/inge-bank.jpg
