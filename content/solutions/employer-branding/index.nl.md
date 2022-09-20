@@ -35,6 +35,14 @@ blocks:
       text: Ontvang snel een offerte
       type: button
       color: pink
+  - type: logoblock
+    title: ""
+    logo_items:
+      - Beter Bed
+      - ChipSoft
+      - TNO
+      - Gemeente Amsterdam
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
   - type: content_block
     align: right
     content: >-
@@ -74,15 +82,6 @@ blocks:
 
       De beste werknemers zijn steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? Met een employer branding film val je alvast goed op. Zeker als de concurrentie alleen maar een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
     align_text: text-left
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - Beter Bed
-      - ChipSoft
-      - Gasunie
-      - Lode Cardiac Rehab Manager
-      - RBM
-      - TNO
   - type: content_block
     align: left
     displaymedia: youtube_video
