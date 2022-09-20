@@ -93,10 +93,10 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ### ***Van bedrijfsfilm kijkers naar klanten***
+      ### ***Van kijkers naar klanten***
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl. Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan veroorzaken.
+      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. **Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl.** Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan realiseren.
     displaymedia: custom_video
     image:
       source: images/peter-suzan-kopie.jpg
@@ -104,13 +104,18 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/JDE-marcilla-Phil-en-Flo-website-source.mp4
       autoplay: true
+    cta:
+      color: pink
+      text: Offerte ontvangen
+      url: /offerte-ontvangen/
+      type: button
   - type: content_block
     align: right
     content: >-
       ### ***Kort en krachtig je verhaal vertellen***
 
 
-      Wat is het verhaal van je bedrijf? Dat is vaak nog niet zo eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo veel ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)!
+      Wat is het verhaal van je bedrijf? Dat is vaak niet eenvoudig uit te leggen. Daarom is het goed om te weten dat de videomakers van Phil en Flo al ruim 13 jaar ervaring hebben met het maken van bedrijfsfilms. Samen met jou zetten ze alle informatie om in een korte boodschap met impact. Zij zorgen dat er niets ontbreekt wat er in een goede bedrijfsfilm hoort te zitten. Samen kom je tot een verhaal dat je doelgroep aanspreekt, past in je corporate branding en zorgt voor een beter bereik. Denk je echter dat jou verhaal zo ingewikkeld is, dat het niet in een film te pakken is? Dan kunnen we natuurlijk ook een [animatie laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)!
     displaymedia: custom_video
     image:
       source: ""
@@ -118,26 +123,36 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
       autoplay: true
     align_text: text-left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      color: pink
+      type: button
   - type: content_block
     align: left
     content: >-
       ### ***Je verhaal vertellen met een bedrijfsfilm***
 
 
-      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) een heel geschikte manier om het verhaal van je bedrijf te vertellen. Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.
+      Ieder bedrijf heeft een verhaal dat het waard is om te vertellen. Door dat verhaal te vertellen, laat je niet alleen aan de wereld zien wat voor product of dienst je verkoopt, maar ook waar je bedrijf voor staat. Dat komt in een bedrijfsfilm oprecht, duidelijk en doeltreffend over. Daarom is een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) een heel geschikte manier om het verhaal van je bedrijf te vertellen. **Wij vertalen wat je te zeggen hebt in een hoogwaardige video die met trots deelt.**
     displaymedia: custom_video
     image:
       source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/Payconiq-film-Phil-en-Flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      color: pink
+      type: button
   - type: content_block
     align: right
     content: >-
       ### ***Persoonlijke Storytelling***
 
 
-      Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest. [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
+      Storytelling laat de persoonlijke kant zien van je bedrijf. Dat kan heel goed door uitsluitend werknemers in je bedrijfsfilm te laten zien, maar nog beter is het als je ook bijvoorbeeld klanten en leveranciers aan het woord kunt laten. **Zo komt je verhaal nog authentieker over. Met een goede bedrijfsfilm die een oprecht verhaal vertelt, zorg je dat je doelgroep vertrouwen in je heeft, en eerder voor jou kiest.** [Kijk daarvoor ook eens op deze pagina over testimonials.](https://www.philenflo.nl/video-testimonial/)
     displaymedia: custom_video
     image:
       source: ""
@@ -145,62 +160,75 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/DE-Foodfilm-Phil-en-Flo-website-source.webm
       autoplay: true
     align_text: text-left
+    cta:
+      text: Offerte Ontvangen
+      url: /offerte-ontvangen/
+      color: pink
+      type: button
   - type: content_block
     align: left
     content: >-
       ### ***Je bedrijfsfilm laten maken voor sociale media***
 
 
-      Sociale media zijn niet meer weg te denken uit online marketing. En zeg nou zelf: hoe vaak zie je een stuk tekst gedeeld worden, in vergelijking met filmpjes? Als je bedrijfsfilm een goed verhaal vertelt of grappig of spannend genoeg in elkaar zit, zullen mensen deze gaan delen op sociale media. Dat kan zelfs leiden tot een sneeuwbaleffect en dan vergroot je het bereik exponentieel. Door te kiezen voor een bedrijfsfilm van Phil & Flo, vergroot je je kansen om opgepikt te worden. Wij zetten je liever op de kaart als trending dan als saai en statisch.
+      Als je bedrijfsfilm goed in elkaar zit of grappig of spannend genoeg is, zullen mensen deze gaan delen op sociale media. Dat kan zelfs leiden tot een sneeuwbaleffect en dan vergroot je het bereik exponentieel. Uiteraard kan je je succes vergroten door de inzet van specialistische video-ads. Door te kiezen voor een bedrijfsfilm van Phil & Flo, vergroot je je kansen om opgepikt te worden. **Wij zetten je liever op de kaart als trending dan als saai en statisch.**
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
       alt: JDE filmopnames - Phil & Flo
     video:
       autoplay: false
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: selectedwork_block
     items:
       - beter-bed-employer-branding-film
       - Infomercial hzpc sunita
       - Elsun Zonnepanelen
     title: Succesverhalen
-  - type: content_block
+    more_items: true
+  - displaymedia: custom_video
+    form: ""
+    align: right
+    align_text: text-left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      color: pink
+      type: button
+    content: >-
+      ## ***Wat moet er in een bedrijfsfilm?*** 
+
+
+      Het is belangrijk om in een bedrijfsfilm de kijker een zo compleet mogelijk en levendig beeld te geven van je bedrijf. Je wilt met een bedrijfsfilm een bepaald doel bereiken. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een  op nog langere termijn actueel. Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren.
+    type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-laten-maken-voor-de-zorg-ICON.mp4
-    content: >-
-      ## Wat moet er in een bedrijfsfilm? 
-
-
-      Het is belangrijk om in een bedrijfsfilm de kijker een zo compleet mogelijk en levendig beeld te geven van je bedrijf. Dat is te bereiken door in te spelen op emoties, want daarmee maak je indruk. Het is bijvoorbeeld mogelijk om je te richten op het achterlaten van een positief gevoel bij de kijker. 
-
-
-      Je wilt met een bedrijfsfilm een bepaald doel bereiken. Daarnaast is een tijdloos karakter belangrijk. Op deze manier is het verhaal niet alleen nu, maar ook over een  op nog langere termijn actueel. Door mensen aan het woord te laten in de bedrijfsfilm zorg je voor een levendige situatie, waarmee je voor de kijker herkenbaarheid kan creëren.
-    align: right
-    form: ""
     image:
       source: images/peter-suzan-kopie.jpg
       alt: Peter & Suzan - Phil & Flo
-    displaymedia: custom_video
-    align_text: text-left
   - type: content_block
     video:
       autoplay: true
     content: >-
-      ## Hoe gaat een bedrijfsfilm laten maken in zijn werk?
+      ## ***Hoe gaat een bedrijfsfilm laten maken in zijn werk?***
 
 
-      Je krijgt bij Phil & Flo een projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. Het begint met een creatieve sessie om alle ideeën te bespreken en concreet te maken. Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. 
+      Je krijgt bij Phil & Flo een dedicated projectmanager toegewezen, zodat je altijd met een vast aanspreekpunt hebt te maken. **Het begint met een creatieve sessie om alle ideeën te bespreken en concreet te maken.** Daarna volgt een eerste opzet voor een script en krijg je de gelegenheid feedback te geven. 
 
 
-      De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en interviewvragen opgenomen.
+      De projectmanager stemt alles met je af om een draaiboek met alle details voor de draaidag op te stellen. In het draaiboek zijn onder meer het [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) de planning en opnamelocaties opgenomen.
     align: left
     form: ""
     image:
       source: images/peter-suzan-kopie.jpg
       alt: Peter & Suzan - Phil & Flo
     cta:
-      url: https://www.philenflo.nl/offerte-ontvangen/
+      url: /offerte-ontvangen/
       text: Ontvang je offerte
       type: button
       color: pink
@@ -209,13 +237,16 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## Beelden voor de ***bedrijfsfilm*** verzamelen
+      ## ***Filmen en feedback voor de bedrijfsfilm***
 
 
       Als het zover is dan staan de regisseur, cameraman en assistent klaar om opnames te maken voor de bedrijfsfilm. Indien het om een groot project gaat, is er tevens een lichtspecialist aanwezig. 
 
 
-      Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te editen. Je krijgt daarna een eerste versie van de bedrijfsfilm te zien en als je feedback geeft, is dat te verwerken om tot een definitieve versie te komen. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken. Check ons portfolio maar eens voor voorbeelden van bedrijfsfilms.
+      Na de opnames is de bedrijfsfilm ruw van opzet en komt onze editor er aan te pas om de film te monteren. Je krijgt daarna een eerste concept versie van de bedrijfsfilm te zien. Hier kan je feedback opgeven die we verwerken tot een definitieve versie. Daarna is het nog mogelijk om ondertiteling toe te voegen of bijvoorbeeld een teaser van de bedrijfsfilm te maken.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     align: right
     cta:
       text: Bekijk ons portfolio
