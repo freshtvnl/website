@@ -5,10 +5,10 @@ weight: 2
 draft: false
 image:
   source: images/schermafbeelding-2022-09-20-om-15.11.11.png
-  alt: Employer branding - Phil & Flo
+  alt: Employer branding video - Phil & Flo
 blocks:
   - type: hero_block
-    title: "***Employer Branding films***"
+    title: "***Employer Branding video***"
     content: ""
     displaymedia: null
     video:
@@ -19,7 +19,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/employer-branding-phil-en-flo-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
     align: left
     content: Hoe overtuig je kandidaten dat ze bij jou moeten komen werken en niet
       ergens anders? In een vacaturetekst is het, puur door het tekstuele
