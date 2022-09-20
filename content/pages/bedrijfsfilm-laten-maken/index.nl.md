@@ -49,7 +49,7 @@ blocks:
       ## ***Prachtige bedrijfsfilms met betekenis***
 
 
-      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met de optimale lengte en uitnodigende call-to-action.
+      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. E**en bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten.** Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met de optimale lengte en uitnodigende call-to-action.
     displaymedia: custom_video
     image:
       source: ""
