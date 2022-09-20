@@ -39,9 +39,9 @@ blocks:
       - JDE
       - ICON
       - Alfen
-      - Hanze Hogeschool Groningen
       - HZPC
       - Maandag
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
     title: ""
   - type: content_block
     align: right
