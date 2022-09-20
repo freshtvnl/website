@@ -63,25 +63,6 @@ blocks:
       text: Offerte ontvangen
       url: /offerte-ontvangen/
   - type: content_block
-    align: right
-    content: >-
-      ### ***Voor wie maak je een bedrijfsfilm?***
-
-
-      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/oplossingen/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
-    displaymedia: image
-    image:
-      source: images/peter-opnames-douwe-egberts.jpg
-      alt: JDE filmopnames - Phil & Flo
-    align_text: text-left
-    video:
-      autoplay: false
-    cta:
-      url: /offerte-ontvangen/
-      text: Offerte Ontvangen
-      type: button
-      color: pink
-  - type: content_block
     align: left
     content: >-
       ### ***Van kijkers naar klanten***
@@ -100,6 +81,25 @@ blocks:
       text: Offerte ontvangen
       url: /offerte-ontvangen/
       type: button
+  - type: content_block
+    align: right
+    content: >-
+      ### ***Voor wie maak je een bedrijfsfilm?***
+
+
+      De eerste doelgroep waar je aan kunt denken zijn natuurlijk nieuwe opdrachtgevers en zelfs potentiële werknemers. Een emotionele connectie door je verhaal te vertellen in een bedrijfsfilm, garandeert een positieve indruk op je organisatie. Ook klanten voor je product of dienst moeten jouw bedrijf zien dankzij de bedrijfsfilm. Hetzelfde geldt voor potentiële werknemers: Als je het beste talent wilt aantrekken, moet je hun aandacht en interesse vangen ([bekijk ook onze Employer Branding aanpak](https://www.philenflo.nl/oplossingen/employer-branding/)). Dat lukt nu eenmaal beter met een professionele, visuele presentatie dan met tekst. Al deze doelgroepen bereik je optimaal door storytelling in een professionele bedrijfsfilm.
+    displaymedia: image
+    image:
+      source: images/peter-opnames-douwe-egberts.jpg
+      alt: JDE filmopnames - Phil & Flo
+    align_text: text-left
+    video:
+      autoplay: false
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
