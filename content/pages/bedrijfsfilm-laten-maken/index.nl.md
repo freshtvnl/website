@@ -7,7 +7,7 @@ image:
   alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
-    title: "***Bedrijfsfilm laten maken***"
+    title: "***Bedrijfsfilm laten maken met impact***"
     content: ""
     displaymedia: null
     video:
