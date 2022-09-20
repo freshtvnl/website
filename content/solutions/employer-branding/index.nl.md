@@ -21,18 +21,17 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
     align: left
-    content: Hoe overtuig je kandidaten dat ze bij jou moeten komen werken en niet
-      ergens anders? In een vacaturetekst is het, puur door het tekstuele
-      formaat, lastig om generalisaties en clichés te vermijden. Daardoor loop
-      je de kans dat potentiële werknemers een matige of verkeerde indruk
-      krijgen. Een veel betere manier is dan ook om een employer branding film
-      te laten maken. Zo’n film werkt prima als reclame voor je bedrijf als
-      werkgever, omdat je eigen werknemers en collega’s erin vertellen over de
-      werksfeer. En die film plaats je op Indeed, LinkedIn en Instagram!
+    content: >-
+      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? Kies voor
+      de succesvolle aanpak van Phil & Flo. Wij maken hoogwaardige en krachtige
+      employer branding video's, zodat jij snel nieuwe kandidaten vindt.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
-      text: Ontvang je offerte
+      text: Ontvang snel een offerte
       type: button
       color: pink
   - type: content_block
