@@ -39,10 +39,10 @@ blocks:
     title: ""
     logo_items:
       - Beter Bed
-      - ChipSoft
-      - TNO
-      - Gemeente Amsterdam
       - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - TNO
+      - Cushman Wakefield
+      - Alfen
   - type: content_block
     align: right
     content: >-
