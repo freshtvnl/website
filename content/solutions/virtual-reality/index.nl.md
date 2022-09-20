@@ -1,7 +1,7 @@
 ---
 title: Virtual Reality
 slug: virtual-reality
-weight: 4
+weight: 5
 draft: false
 image:
   source: images/vr-video-laten-maken.jpg
