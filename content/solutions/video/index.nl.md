@@ -1,7 +1,7 @@
 ---
 title: Video
 slug: video laten maken
-weight: 2
+weight: 4
 draft: false
 image:
   source: images/douwe-egberts-food-phil-en-flo-creative-studio-koffie.jpg
