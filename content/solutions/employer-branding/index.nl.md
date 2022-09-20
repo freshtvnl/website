@@ -1,6 +1,7 @@
 ---
 title: Employer Branding
 slug: employer-branding
+weight: 2
 draft: false
 image:
   source: images/cheerful-girl-touching-face-smiling-to-camera-pin-2021-08-28-00-50-42-utc.jpg
