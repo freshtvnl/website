@@ -22,7 +22,7 @@ blocks:
     content: >-
       Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team
       zet zich in om voor jou de mooiste film te maken waar je trots op kan
-      zijn. Daarbij zorgt een video tot wel 80% meer conversie op je site.
+      zijn. **Daarbij zorgt een video tot wel 80% meer conversie op je site.**
 
 
       [Bekijk ons portfolio](/portfolio/)
