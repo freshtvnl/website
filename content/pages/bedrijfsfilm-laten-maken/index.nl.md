@@ -90,6 +90,11 @@ blocks:
     align_text: text-left
     video:
       autoplay: false
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
