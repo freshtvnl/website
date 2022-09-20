@@ -18,7 +18,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/HZPC-Sunita2-k.mp4
+      source_mp4: https://video.philenflo.nl/video/Nomios-short.mp4
     content: >-
       Wij geloven in de kracht van goede bedrijfsfilms met betekenis. Ons team
       zet zich in om voor jou de mooiste film te maken waar je trots op kan
