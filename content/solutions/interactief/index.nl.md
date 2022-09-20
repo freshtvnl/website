@@ -3,7 +3,7 @@ draft: false
 color: green
 blocks:
   - type: hero_block
-    title: "***Interactieve video***, interactie op hoog niveau"
+    title: "***Interactieve video, next step video***"
     content: ""
     displaymedia: null
     image:
@@ -205,8 +205,8 @@ title: Interactief
 slug: interactieve-video
 weight: 3
 image:
-  source: images/interactieve-video-philenflo.jpg
-  alt: Interactieve video - Phil & Flo
+  source: images/icon-player-shot.jpg
+  alt: Interactieve video - Phil en Flo
 seo:
   title: Interactieve video | Phil & Flo Creative Studio
   description: "Interactieve video laten maken |  ✔ Passend voor jouw doelgroep ✔
