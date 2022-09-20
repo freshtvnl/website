@@ -49,21 +49,26 @@ blocks:
       ## ***Prachtige bedrijfsfilms voor organisaties met betekenis***
 
 
-      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met het juiste verhaal, de optimale lengte en voorzien van uitnodigende calls-to-action.
+      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten. Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met de optimale lengte en uitnodigende call-to-action.
     displaymedia: custom_video
     image:
       source: ""
     video:
-      source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/save-the-children.mp4
       autoplay: true
     align_text: text-left
+    cta:
+      type: button
+      color: pink
+      text: Offerte ontvangen
+      url: /offerte-ontvangen/
   - type: content_block
     align: left
     content: >-
       ### ***Wat zijn de voordelen van een bedrijfsfilm?***
 
 
-      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is dus een uitstekende manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals [YouTube](https://www.philenflo.nl/you-tube-marketing/), Instagram en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: helder, duidelijk en aansprekend. Met een goede bedrijfsfilm krijg je een groter bereik in [zoekmachines en op sociale media](https://www.philenflo.nl/you-tube-marketing/). En je maakt er een blijvende, emotionele connectie mee met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
+      75% van de marketingprofessionals zegt dat video de beste ROI geeft ten opzichte van andere content. Een bedrijfsfilm is de manier om je bedrijf op een opvallende manier te presenteren. Je kunt een bedrijfsvideo op verschillende platformen inzetten, zoals [YouTube](https://www.philenflo.nl/you-tube-marketing/), Instagram, TikTok en LinkedIn. Afhankelijk van je doelgroep. Het is een van de meest effectieve manieren om je boodschap over te brengen: krachtig, duidelijk en aansprekend. Met een goede bedrijfsfilm ben je beter vindbaar in [zoekmachines en op sociale media](https://www.philenflo.nl/you-tube-marketing/). En je maakt een blijvende, emotionele connectie met je doelgroep. Daardoor vergroot je de kans aanzienlijk dat ze voor jou kiezen. Sterker nog 59% van bestuurders/beslissers zijn het ermee eens dat als je kan kiezen voor tekst of video ze eerder geneigd zijn te kiezen voor video. ([check deze bron voor meer insights](https://www.smartinsights.com/digital-marketing-platforms/video-marketing/video-marketing-trends-2020/))
     displaymedia: custom_video
     image:
       source: ""
