@@ -31,7 +31,7 @@ blocks:
       url: /contact/
       text: Neem direct contact op
       type: button
-      color: green
+      color: pink
     image:
       source: images/20220329_113017_online.jpg
   - type: content_block
@@ -48,6 +48,11 @@ blocks:
     image:
       source: ""
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Leer ons kennen
+      type: button
+      color: pink
   - type: content_block
     content: >-
       ## ***Hoe?***
@@ -61,6 +66,11 @@ blocks:
       alt: Inge - Phil & Flo
     video:
       autoplay: false
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: pink
   - type: content_block
     content: >-
       ## ***Wat?***
