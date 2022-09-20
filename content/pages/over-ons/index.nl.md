@@ -1,6 +1,8 @@
 ---
 title: "Over ons "
 slug: over-ons
+image:
+  source: images/20220329_113017_online.jpg
 color: green
 blocks:
   - type: hero_block
@@ -21,7 +23,7 @@ blocks:
       Videomarketing. In 2020 hebben we met ons team besloten dat die naam niet
       meer bij ons paste. Na een intensief rebranding en purpose traject zijn we
       verder gegaan onder de nieuwe naam: ***Phil & Flo Creative Studio***."
-    displaymedia: custom_video
+    displaymedia: image
     youtube:
       id: ""
     align: left
@@ -30,6 +32,8 @@ blocks:
       text: Neem direct contact op
       type: button
       color: green
+    image:
+      source: images/20220329_113017_online.jpg
   - type: content_block
     video:
       autoplay: true
