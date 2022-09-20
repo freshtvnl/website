@@ -4,7 +4,7 @@ slug: employer-branding
 weight: 2
 draft: false
 image:
-  source: images/cheerful-girl-touching-face-smiling-to-camera-pin-2021-08-28-00-50-42-utc.jpg
+  source: images/schermafbeelding-2022-09-20-om-15.11.11.png
   alt: Employer branding - Phil & Flo
 blocks:
   - type: hero_block
