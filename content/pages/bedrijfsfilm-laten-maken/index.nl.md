@@ -249,10 +249,10 @@ blocks:
       [Bekijk ons portfolio](/portfolio/)
     align: right
     cta:
-      text: Bekijk ons portfolio
-      url: /portfolio/
+      text: Offerte ontvangen
+      url: /offerte-ontvangen/
       type: button
-      color: green
+      color: pink
     displaymedia: image
     image:
       source: images/jde2.jpg
@@ -262,18 +262,18 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ## Wat kost een bedrijfsfilm?
+      ## ***Wat kost een bedrijfsfilm?***
 
 
       De kosten van een bedrijfsfilm zijn afhankelijk van allerlei factoren. Er is in dat opzicht dan ook geen standaard gemiddelde bedrijfsfilm prijs te noemen, want de kosten variëren bij elke productie. Denk bijvoorbeeld ook maar aan de benodigde apparatuur die invloed heeft op de kosten van een bedrijfsfilm. Het kan ook zo zijn dat er gefilmd wordt op verschillende locaties met bijvoorbeeld een drone. Al deze aspecten tellen mee net als het eventueel inhuren van externe partijen, zoals een voice-over of andere specialist.
 
 
-      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen.
+      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. **Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen.**
     cta:
       text: Neem contact op
       url: https://www.philenflo.nl/contact/
       type: button
-      color: yellow
+      color: pink
     displaymedia: image
     image:
       source: images/jde-phil-en-flo-behind-the-scenes.jpg
@@ -285,17 +285,22 @@ blocks:
     align: right
     align_text: null
     content: >-
-      ## Hoe maak je een goede ***bedrijfsfilm***? 
+      ## ***Hoe maak je een goede bedrijfsfilm***? 
 
 
       Goede bedrijfsfilms beginnen met een creatieve sessie om alle ideeën op tafel te krijgen, gevolgd door een script waarop je feedback kan geven. Het script bepaalt onder meer wat er nodig is voor de bedrijfsfilm productie en dat regelen wij allemaal, van apparatuur tot voice-over en van een regisseur tot editor.
 
 
-      Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden. We houden de aandacht vast door emotie te verwerken in het verhaal. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
+      **Een goede bedrijfsfilm trekt de aandacht van de kijker al in de eerste seconden.** We houden de aandacht vast door emotie te verwerken in het verhaal. Bijvoorbeeld door muziek op te laten bouwen of door herkenbare situatie te schetsen. Hierdoor blijft de aandacht aanwezig en voelt de kijker zich bovendien betrokken bij het verhaal dat je wilt vertellen.
     displaymedia: image
     image:
       source: images/peter-opnames-douwe-egberts.jpg
       alt: JDE filmopnames - Phil & Flo
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: contact_block
     contacts:
       - peter-de-graaf
@@ -312,9 +317,12 @@ blocks:
       - wat-is-de-productietijd-van-een-bedrijfsvideo
       - met-hoeveel-mensen-komen-jullie-filmen
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
+      - hoe-maken-jullie-bedrijfsfilms
+      - met-hoeveel-mensen-komen-jullie-filmen-bedrijfsvideo
+      - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
     title: Veelgestelde vragen
 seo:
-  title: Duurzame & creatieve bedrijfsfilm laten maken | Phil & Flo
+  title: Creatieve en krachtige  bedrijfsfilm laten maken | Phil & Flo
   description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
     en snel gerealiseerd
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
