@@ -15,7 +15,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2D-animatie-laten-maken-voor-de-zorg.mp4
     title: Zorgbemiddelaar NetwerkZ - ***2D animatie***
     displaymedia: custom_video
-    content: "## 2D animatie voor ***zorgvragers***."
+    content: ""
   - type: hero_block
     align: left
     video:
