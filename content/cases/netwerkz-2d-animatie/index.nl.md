@@ -16,22 +16,17 @@ blocks:
     title: Zorgbemiddelaar NetwerkZ - ***2D animatie***
     displaymedia: custom_video
     content: "## 2D animatie voor ***zorgvragers***."
-  - type: content_block
+  - type: hero_block
+    align: left
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/2D-animatie-in-de-zorg.mp4
-    align: left
-    align_text: text-left
     displaymedia: custom_video
-    content: "## 2D animatie voor ***zorgverleners***."
-  - type: content_block
+  - type: hero_block
+    align: left
     video:
-      autoplay: false
-      source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg.mp4
-    align: left
-    align_text: text-left
+      autoplay: true
     displaymedia: custom_video
-    content: "## 2D animatie voor ***zorg organisaties***."
 seo:
   title: 2D animatie voor NetwerkZ | Phil & Flo
   description: 2D animatie voor NetwerkZ | Een animatie over het snel vinden van
