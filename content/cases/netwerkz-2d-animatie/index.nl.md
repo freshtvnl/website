@@ -26,6 +26,7 @@ blocks:
     align: left
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-maken-voor-in-de-zorg.mp4
     displaymedia: custom_video
 seo:
   title: 2D animatie voor NetwerkZ | Phil & Flo
