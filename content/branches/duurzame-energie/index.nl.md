@@ -162,7 +162,7 @@ blocks:
       - oio-systems
       - DMT
 seo:
-  title: Wij verbeelden de wereld van duurzame energie | Phil & Flo Creative Studio
+  title: Wij verbeelden de wereld van duurzame energie | Phil & Flo videomarketing
   description: Video en animatie voor de duurzame energie sector. ✔ Opslag ✔
     Zonnestroom ✔ windenergie | Neem contact op
 ---
