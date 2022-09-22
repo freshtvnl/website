@@ -51,7 +51,7 @@ blocks:
     align: left
     cta:
       url: https://www.philenflo.nl/3-d-animatie-laten-maken/
-      text: Lees hier meer
+      text: Lees meer
       type: button
     content: >-
       ## Animatie studio Den Haag en omgeving
@@ -78,7 +78,7 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
+      text: Lees meer
       type: button
   - type: content_block
     align: left
@@ -91,6 +91,10 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /contact
+      text: Contact opnemen
+      type: button
   - type: content_block
     align: right
     content: >-
@@ -104,8 +108,9 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Contact opnemen
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: contact_block
     contacts:
       - victor
