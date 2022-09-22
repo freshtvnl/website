@@ -102,16 +102,16 @@ blocks:
       url: /offerte-ontvangen/
       text: Contact opnemen
       type: button
+  - type: selectedwork_block
+    title: ""
+    items:
+      - aditech-3d-promofilm
+      - OIO systems
+      - Beckys - 3D animatie
+    more_items: true
   - type: contact_block
     contacts:
-      - sophie
-  - type: selectedwork_block
-    title: Selected work
-    items:
-      - boknet-3d-animatie-beroeps-organisatie-kunstenaars
-      - alfen-Smart-Charging-Network-3D-animatie
-      - animatiefilm-over-biogas
-    more_items: true
+      - victor
 seo:
   title: Animatie studio in Groningen | Phil & Flo videomarketing
   description: Animatie studio Groningen Phil & Flo ✔ Unieke content  ✔ 2D ✔ 3D ✔
