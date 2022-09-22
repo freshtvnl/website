@@ -9,6 +9,16 @@ image:
 blocks:
   - type: hero_block
     title: "***Animatiestudio Groningen***"
+    content: ""
+    displaymedia: null
+    video:
+      autoplay: true
+      source_mp4: ""
+    align: center
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
     content: "In het hoge noorden van Nederland broeit het van de creativiteit.
       Groningen heeft een allure die creatieve vakmensen aantrekt. Ook voor een
       professionele animatiestudio hoef je niet meer naar de Randstad: op het
@@ -17,11 +27,9 @@ blocks:
       animaties, van uitleganimatie tot VR animatie voor organisaties in en
       buiten Groningen."
     displaymedia: custom_video
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
-  - type: content_block
     align: left
+  - type: content_block
+    align: right
     content: >-
       ## Animatie is ***duidelijk en aansprekend***
 
@@ -43,7 +51,7 @@ blocks:
         source: images/3d-animatie-laten-maken.jpg
     iframe:
       source: ""
-    align: right
+    align: left
     cta:
       url: ""
       text: ""
@@ -60,7 +68,7 @@ blocks:
     image:
       source: ""
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## De leukste ***animatiestudio*** in Groningen
 
@@ -101,7 +109,7 @@ blocks:
       - animatiefilm-over-biogas
     more_items: true
 seo:
-  title: AnimatieStudio Groningen | Phil & Flo Creative studio
+  title: Animatie studio in Groningen | Phil & Flo videomarketing
   description: Animatie studio Groningen Phil & Flo ✔ Unieke content  ✔ 2D ✔ 3D ✔
     VR Animatie ✔ 8,9 klantscore ✔ Innovatief | Neem contact op
 ---
