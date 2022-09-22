@@ -74,7 +74,7 @@ blocks:
       - pra-health-sciences-review
     more_items: false
 seo:
-  title: "Contact opnemen | Phil & Flo | Creative studio "
+  title: Contact opnemen | Phil & Flo Groningen, Amsterdam, Eindhoven
   description: " Neem contact met ons op voor meer informatie of een offerte |
     Phil & Flo verbeelden de wereld van morgen | Animatie, Video & Content
     marketing"
