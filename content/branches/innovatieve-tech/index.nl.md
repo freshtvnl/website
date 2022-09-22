@@ -91,7 +91,7 @@ blocks:
       ## ***Interactieve brochures***
 
 
-      Als je je technische oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
+      Als je je technische oplossing op een innovatieve manier wilt presenteren, dan is een [interactieve](https://www.philenflo.nl/oplossingen/interactieve-video/) brochure of video een goede [oplossing](https://www.philenflo.nl/oplossingen/). Bekijk de interactieve brochure van Pharmerit hiernaast maar eens. Zo kan je de kijker ruimte geven om te zien wat ze zelf belangrijk vinden, en doordat de kijker actief bezig is met je merk, onthoudt hij je idee of merk ook beter! Of neem contact op voor de mogelijkheden van videomarketing in de vorm van [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/), [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) of een [virtuele tour](https://www.philenflo.nl/virtuele-tour/).
     cta:
       url: /contact/
       text: Neem contact op
@@ -100,11 +100,12 @@ blocks:
   - type: logoblock
     title: Bewezen trackrecord
     logo_items:
-      - Payconiq
-      - K3 Business Technology
       - Synadia
       - SHOWA
       - TNO
+      - Payconiq
+      - Aditech
+      - U-Sport
   - type: selectedwork_block
     title: Succesverhalen
     items:
@@ -121,7 +122,7 @@ blocks:
       - showa
       - premium-positioning-review
 seo:
-  title: Innovatieve tech | Phil & Flo creative studio voor elke branche
+  title: Innovatieve tech | Phil & Flo videomarketing
   description: Videomarketing voor de innovatieve technologie branche. Phil & Flo
     verbeelden de wereld van morgen met video en animatie.
 ---
