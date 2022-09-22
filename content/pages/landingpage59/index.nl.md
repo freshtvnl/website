@@ -6,15 +6,27 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
+  - type: hero_block
     align: center
-    content: >-
-      # Animatie studio Den Haag
-
-
-      Zoek je een animatiestudio in Den Haag? De animatiespecialisten van Phil en Flo staan klaar om voor bedrijven, organisaties en ondernemers in Den Haag pakkende animatiefilms te maken.
+    video:
+      autoplay: true
+    title: "***Animatie studio Den Haag***"
   - type: content_block
     align: left
+    content: Zoek je een animatiestudio in Den Haag? De animatiespecialisten van
+      Phil en Flo staan klaar om voor bedrijven, organisaties en ondernemers in
+      Den Haag pakkende animatiefilms te maken.
+    video:
+      autoplay: false
+      source_mp4: https://video.philenflo.nl/video/Aditech-3D-animatie.mp4
+    cta:
+      url: offerte-ontvangen
+      text: Ontvang je offerte
+      type: button
+      color: pink
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## Animatie studio gezocht Den Haag
 
@@ -53,7 +65,7 @@ blocks:
     image:
       source: images/3d-animatie-laten-maken.jpg
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Animatie studio en meer
 
@@ -69,7 +81,7 @@ blocks:
       text: Lees hier mee
       type: button
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Meer weten over onze animatiestudio?
 
@@ -80,7 +92,7 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Vandaag nog alles weten over onze animatie studio?
 
