@@ -19,15 +19,19 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
-    content: "In het hoge noorden van Nederland broeit het van de creativiteit.
+    content: In het hoge noorden van Nederland broeit het van de creativiteit.
       Groningen heeft een allure die creatieve vakmensen aantrekt. Ook voor een
-      professionele animatiestudio hoef je niet meer naar de Randstad: op het
-      kantoor in de Oude Boteringestraat 71 in Groningen kun je bij Phil & Flo
-      terecht voor al je animatiebehoeften. Wij maken creatieve en aanpsrekende
-      animaties, van uitleganimatie tot VR animatie voor organisaties in en
-      buiten Groningen."
+      professionele animatiestudio hoef je niet meer naar de Randstad. Bij Phil
+      & Flo kun je terecht voor al je animatiebehoeften. Wij maken creatieve en
+      aanpsrekende animaties, van uitleganimatie tot VR animatie voor
+      organisaties in en buiten Groningen.
     displaymedia: custom_video
     align: left
+    cta:
+      url: /offerte-ontvangen
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
@@ -53,9 +57,9 @@ blocks:
       source: ""
     align: left
     cta:
-      url: ""
-      text: ""
-      type: null
+      url: https://www.philenflo.nl/oplossingen/animatie-laten-maken/
+      text: Lees meer
+      type: button
     content: >-
       ## De mogelijkheden van een ***animatiestudio***
 
