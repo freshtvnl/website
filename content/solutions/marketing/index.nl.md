@@ -68,7 +68,7 @@ blocks:
       ## Een ***goede video*** voor jouw organisatie
 
 
-      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. 
+      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. Laat je videomarketing uitbesteden aan Phil & Flo.
     cta:
       url: /contact/
       text: Neem contact op
