@@ -234,7 +234,7 @@ blocks:
       - hoe-maken-jullie-animaties
     more_items: true
 seo:
-  title: 3D Animatie laten maken | Phil & Flo Creative studio
+  title: 3D Animatie laten maken | Phil & Flo videomarketing
   description: 3D animatie laten maken - Hoogwaardige kwaliteit | Klantscore 8.9 |
     Uniek  | Check ons portfolio
   image: images/alfen2.png
