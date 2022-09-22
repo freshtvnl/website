@@ -6,13 +6,11 @@ draft: false
 image:
   source: images/2d-animatie-laten-maken.jpg
 blocks:
-  - type: content_block
+  - type: hero_block
     align: center
-    content: >-
-      # ***Animatie video*** laten maken
-
-
-      Wil je je klanten op een aansprekende manier bereiken? Met een animatie-video kom je helder, luchtig en opvallend voor de dag.
+    video:
+      autoplay: true
+    title: "***Animatie video*** laten maken"
   - type: content_block
     align: left
     content: >-
@@ -24,9 +22,10 @@ blocks:
     image:
       source: images/2d-animatie-laten-maken.jpg
     cta:
-      url: ""
-      text: ""
-      type: null
+      url: /offerte-ontvangen
+      text: Ontvang je offerte
+      type: button
+      color: pink
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -66,7 +65,7 @@ blocks:
       id: 0ljMPjPQjRI
     cta:
       url: /vr-animatie-laten-maken/
-      text: Lees hier mee
+      text: Lees meer
       type: button
   - type: content_block
     align: right
