@@ -104,7 +104,7 @@ blocks:
       ## Juist voor ***online doelgroep***
 
 
-      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier. Even vrijblijvend sparren? Boek vrijblijvend een sessie!
+      Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Met videomarketing in de vorm van animatie! Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier.  Even vrijblijvend sparren? Boek vrijblijvend een sessie!
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -284,7 +284,7 @@ image:
   source: images/3d-animatie-laten-maken.jpg
   alt: 2D animatie laten maken - Phil & Flo
 seo:
-  title: Animatie laten maken | Phil & Flo | Uniek & Opvallend
+  title: Animatie laten maken | Phil & Flo videomarketing
   description: Een Animatie laten maken bij Phil & Flo | Opvallend ✔ Marketing
     geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons nu voor
     meer info.
