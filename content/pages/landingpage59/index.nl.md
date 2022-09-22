@@ -31,7 +31,7 @@ blocks:
       ## Animatie studio gezocht Den Haag
 
 
-      Wil je jezelf echt op de kaart zetten? [Animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zijn een sterke toevoeging aan je marketing, online content en sales tools. Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen. Wij werken graag met bedrijven, overheid, [scholen](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) en semi-overheid en zijn goed in zowel commerciële, zakelijke als educatieve animaties.
+      Wil je jezelf echt op de kaart zetten? [Animaties](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) zijn een sterke toevoeging aan je marketing, online content en sales tools. Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft getalenteerde en creatieve professionals, die werken aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen. Wij werken graag met bedrijven, (semi-)overheid en [scholen](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/) en zijn goed in zowel commerciële, zakelijke als educatieve animaties.
     displaymedia: custom_video
     image:
       source: images/2d-animatie-laten-maken.jpg
@@ -54,7 +54,7 @@ blocks:
       text: Lees meer
       type: button
     content: >-
-      ## Animatie studio Den Haag en omgeving
+      ## Samenwerken aan een unieke animatie
 
 
       Omdat Phil & Flo diverse projecten in uitvoer heeft voor de overheid, is het fijn dat we een animatiestudio dichtbij Den Haag hebben, in Rotterdam. Voor het ontwikkelen van concepten en het bespreken van strategie en scripts werkt persoonlijk overleg altijd nog het beste. Maar ook online hebben we alle tools om effectief te communiceren over je animatie. Wij betrekken je in alle stappen en verwerken je feedback. Zo streven we naar een unieke animatie die goed bij je past.
@@ -67,7 +67,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Animatie studio en meer
+      ## Videomarketing met animatie- en videofilms
 
 
       Phil & Flo doet meer dan alleen maar het maken van pakkende animaties. We zijn expert op het gebied van [videomarketing](https://www.philenflo.nl/oplossingen/videomarketing/). We weten dus als geen andere animatiestudio (in Den Haag of elders) hoe je een goede animatie in elkaar zet om je doelgroep te bereiken. En we helpen je op weg met het succesvol inzetten van de animatie. Het zou toch zonde zijn als je een animatie laat maken die niemand ziet?
@@ -86,7 +86,7 @@ blocks:
       ## Meer weten over onze animatiestudio?
 
 
-      We zijn trots op ons werk, daarom kun je onze [cases](https://www.philenflo.nl/portfolio/) ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag meer in persoon over wat we doen en wat we voor jou kunnen betekenen.
+      We zijn trots op ons werk, daarom kun je onze [cases](https://www.philenflo.nl/portfolio/) ook online bekijken. Daar zie je ons bereik in stijl en onderwerpen. Je kunt ook altijd langskomen op ons kantoor voor een vrijblijvend gesprek. We vertellen je graag persoonlijk meer over wat we doen en wat we voor jou kunnen betekenen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
@@ -95,22 +95,6 @@ blocks:
       url: /contact
       text: Contact opnemen
       type: button
-  - type: content_block
-    align: right
-    content: >-
-      ## Vandaag nog alles weten over onze animatie studio?
-
-
-      Zoek je een animatiestudio in Den Haag of omgeving? Phil & Flo heeft, naast kantoren in Amsterdam en Groningen, ook een vestiging in Rotterdam. Hier werken onze getalenteerde en creatieve professionals aan animaties die op een luchtige en duidelijke manier uitleggen en overtuigen.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: Ontvang je offerte
-      type: button
-      color: pink
   - type: contact_block
     contacts:
       - victor
