@@ -17,7 +17,7 @@ blocks:
       Phil en Flo staan klaar om voor bedrijven, organisaties en ondernemers in
       Den Haag pakkende animatiefilms te maken.
     video:
-      autoplay: false
+      autoplay: true
       source_mp4: https://video.philenflo.nl/video/Aditech-3D-animatie.mp4
     cta:
       url: offerte-ontvangen
