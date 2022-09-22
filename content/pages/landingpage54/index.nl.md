@@ -104,9 +104,6 @@ blocks:
       url: /offerte-ontvangen/
       text: offerte ontvangen
       type: button
-  - type: contact_block
-    contacts:
-      - aron
   - type: selectedwork_block
     title: ""
     items:
@@ -114,6 +111,9 @@ blocks:
       - Beckys - 3D animatie
       - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
+  - type: contact_block
+    contacts:
+      - aron
 seo:
   title: "Animatie video | Phil & Flo verbeeldt de wereld van morgen "
   description: Bereik met een animatie video jouw doelgroep. Neem contact op met
