@@ -99,7 +99,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Animatie studio in Den Haag | Phil & Flo | Creative studio
+  title: Animatie studio in Den Haag | Phil & Flo videomarketing
   description: "Animatie studio in Den Haag | ✔ Onderscheidende content ✔
     Creatief, interactief & innovatief ✔ Klantscore 8,9 | Neem contact op "
 ---
