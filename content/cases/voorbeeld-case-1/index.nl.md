@@ -14,10 +14,11 @@ blocks:
     title: "***Techniek verbeelden met productanimatie***"
     content: Alfen heeft ons gevraagd om een
       [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) te
-      produceren die inzichtelijk maakt hoe de verschillende laadpalen voor
-      elektrische auto's kunnen communiceren en slim kunnen samen werken. Wij
-      hebben een script uitgewerkt de stijl en samen met Alfen bepaald wie de
-      doelgroep is en wat hun mate van kennis op dit gebied is.
+      produceren die inzichtelijk maakt hoe hun Smart Charging Network werkt.
+      Dit netwerk zorgt ervoor dat verschillende laadpalen voor elektrische
+      auto's kunnen communiceren en slim kunnen samen werken. Wij hebben een
+      script uitgewerkt de stijl en samen met Alfen bepaald wie de doelgroep is
+      en wat hun mate van kennis op dit gebied is.
     displaymedia: youtube_video
     image:
       source: ""
