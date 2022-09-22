@@ -108,7 +108,7 @@ blocks:
     contacts:
       - aron
   - type: selectedwork_block
-    title: Selected work
+    title: ""
     items:
       - alfen-Smart-Charging-Network-3D-animatie
       - icon-interactieve-tour
