@@ -111,8 +111,8 @@ blocks:
     title: ""
     items:
       - alfen-Smart-Charging-Network-3D-animatie
-      - icon-interactieve-tour
       - Beckys - 3D animatie
+      - Animatiefilm ICON geneesmiddelenonderzoek
     more_items: true
 seo:
   title: "Animatie video | Phil & Flo verbeeldt de wereld van morgen "
