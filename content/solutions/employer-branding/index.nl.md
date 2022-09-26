@@ -8,7 +8,7 @@ image:
   alt: Employer branding video - Phil & Flo
 blocks:
   - type: hero_block
-    title: "***Employer Branding video***"
+    title: "***Employer Branding video*** vind snel je ideale kandidaat!"
     content: ""
     displaymedia: null
     video:
@@ -24,7 +24,7 @@ blocks:
     content: >-
       Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
       de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
-      krachtige employer branding video's, zodat jij snel nieuwe kandidaten
+      krachtige employer branding video's, zodat jij snel de ideale kandidaten
       vindt.
 
 
