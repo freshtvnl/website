@@ -39,9 +39,9 @@ footer:
         text: Ontvangen
         color: pink
     contactblock:
-      title: Laat je inspireren
-      text: via onze nieuwsbrief
-      form: newsletter-form
+      title: ""
+      text: ""
+      form: ""
     bottomtext: |-
       Wij verbeelden de wereld van morgen. 
       Animatie - Video - Branding
