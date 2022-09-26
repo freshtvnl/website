@@ -77,7 +77,7 @@ blocks:
       **Google beloont** websites die goede content bevatten, zoals goede bedrijfsvideo's. Daarmee verschijn je dus hoger in de zoekresultaten.
 
 
-      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies 085 273 8331.
+      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies over videomarketing 085 273 8331.
     displaymedia: custom_video
     image:
       source: ""
@@ -167,7 +167,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: "Bedrijfsvideo laten maken | Phil & Flo | Creative studio "
+  title: Bedrijfsvideo laten maken | Phil & Flo Videomarketing
   description: "Bedrijfsvideo’s laten zien hoe trots je bent op je medewerkers en
     klanten. Hoe mogen wij jouw corporate story visualiseren? ✔ Klantscore 8.9
     Neem contact op. "
