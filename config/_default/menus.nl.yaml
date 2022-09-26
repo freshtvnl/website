@@ -7,6 +7,10 @@ footermenu1:
     name: Animatie laten maken
     url: /oplossingen/animatie-laten-maken/
     parent: Oplossingen
+  - weight: -1
+    name: Employer Branding video laten maken
+    url: /oplossingen/employer-branding/
+    parent: Oplossingen
   - weight: -5
     name: Bedrijfsfilm laten maken
     url: /bedrijfsfilm-laten-maken/
@@ -22,10 +26,6 @@ footermenu1:
   - weight: -2
     name: Videomarketing
     url: /oplossingen/videomarketing/
-    parent: Oplossingen
-  - weight: -1
-    name: Employer Branding video laten maken
-    url: /oplossingen/employer-branding/
     parent: Oplossingen
 footermenu2:
   - weight: "0"
@@ -62,7 +62,7 @@ footermenu3:
     pre: Title
     url: /
   - weight: -6
-    name: CSB
+    name: Interactieve tour
     url: /portfolio/csb-amsterdam-interactieve-tour/
     parent: Cases
   - weight: -5
