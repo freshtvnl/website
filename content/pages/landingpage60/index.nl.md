@@ -107,7 +107,7 @@ blocks:
     contacts:
       - peter-de-graaf
 seo:
-  title: Educatieve animatievideo maken - Phil & Flo Videomarketing
+  title: Educatieve animatie maken | Phil & Flo Videomarketing
   description: Educatie animatiefilm maken? Maak jouw boodschap duidelijk voor
     jouw doelgroep. ✔ Innovatief & Interactief ✔ Klantscore 8,9
 ---
