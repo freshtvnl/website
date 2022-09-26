@@ -105,7 +105,7 @@ blocks:
       type: button
       color: blue
 seo:
-  title: Vacature 2D animator | Fulltime | Solliciteeer nu | Phil & Flo
+  title: Vacature 2D animator | Fulltime | Solliciteer nu | Phil & Flo
   description: Op zoek naar een nieuwe uitdaging als 2D animator? Solliciteer nu
     bij Phil & Flo. Lees hier meer over de functie.
 ---
