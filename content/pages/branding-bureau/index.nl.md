@@ -26,6 +26,9 @@ blocks:
       type: button
       color: pink
     displaymedia: image
+  - type: content_block
+    video:
+      autoplay: true
 seo:
   title: Branding bureau | Film en animatie | Phil & Flo
 ---
