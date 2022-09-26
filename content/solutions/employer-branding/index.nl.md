@@ -35,6 +35,14 @@ blocks:
       text: Ontvang snel een offerte
       type: button
       color: pink
+  - type: logoblock
+    title: ""
+    logo_items:
+      - Beter Bed
+      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
+      - TNO
+      - Cushman Wakefield
+      - Alfen
   - type: content_block
     align: right
     content: >-
@@ -53,14 +61,6 @@ blocks:
       color: pink
     video:
       autoplay: false
-  - type: logoblock
-    title: ""
-    logo_items:
-      - Beter Bed
-      - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
-      - TNO
-      - Cushman Wakefield
-      - Alfen
   - type: content_block
     align: left
     displaymedia: youtube_video
@@ -157,6 +157,21 @@ blocks:
     video:
       autoplay: false
   - type: content_block
+    align: left
+    content: >-
+      ## ***Employer branding film op Indeed en sociale media***
+
+
+      Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op *Instagram* en *LinkedIn* is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aantrekkelijk maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op *Indeed* beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je Employer Branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
+    displaymedia: youtube_video
+    youtube:
+      id: B_GiMlwjABE
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
+  - type: content_block
     align: right
     content: >-
       ## ***Vacatures met film beter online vindbaar***
@@ -170,21 +185,6 @@ blocks:
     cta:
       url: /offerte-ontvangen/
       text: Offerte Ontvangen
-      type: button
-      color: pink
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Employer branding film op Indeed en sociale media***
-
-
-      Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op *Instagram* en *LinkedIn* is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aantrekkelijk maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op *Indeed* beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je Employer Branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
-    displaymedia: youtube_video
-    youtube:
-      id: B_GiMlwjABE
-    cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
       type: button
       color: pink
   - type: content_block
