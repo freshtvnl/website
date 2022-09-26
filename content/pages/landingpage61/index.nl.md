@@ -22,7 +22,7 @@ blocks:
       stoel? Wil jij echt voorlopen op je concurrenten? Met een VR animatie van
       Phil & Flo bied jij jouw klanten, studenten of cliënten of prospects iets
       unieks, namelijk een levensechte ervaring. De mogelijkheden voor een VR
-      animatie laten maken zijn eindeloos. Lees verder of...
+      animatie laten maken zijn eindeloos.
     align: left
     displaymedia: youtube_video
     youtube:
