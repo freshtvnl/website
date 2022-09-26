@@ -202,15 +202,15 @@ blocks:
       text: Contact opnemen
       type: button
       color: pink
-  - type: contact_block
-    contacts:
-      - suzan-abbas
   - type: selectedreviews_block
     title: Google Reviews
     items:
       - DMT
       - adresults-review
       - pra-health-sciences-review
+  - type: contact_block
+    contacts:
+      - suzan-abbas
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
