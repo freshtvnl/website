@@ -43,6 +43,21 @@ blocks:
       - Cushman Wakefield
       - Alfen
   - type: content_block
+    align: left
+    displaymedia: youtube_video
+    content: >-
+      ## ***Waarom recruiters kiezen voor Phil & Flo***
+
+
+      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. **Phil & Flo Creative Studio maakt video’s voor Employer Branding doeleinden die potentiële werknemers graag willen zien.** Het is zelfs mogelijk een [virtuele employer branding tour te maken](https://www.philenflo.nl/virtuele-tour-employer-branding/).
+    youtube:
+      id: Mc0MxOCQVdo
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
+  - type: content_block
     align: right
     content: >-
       ## ***Employer Branding video, wat is dat?***
@@ -91,14 +106,14 @@ blocks:
       color: pink
   - type: content_block
     align: left
-    displaymedia: youtube_video
     content: >-
-      ## ***Waarom recruiters kiezen voor Phil & Flo***
+      ## ***Employer branding volgens Phil & Flo***
 
 
-      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. **Phil & Flo Creative Studio maakt video’s voor Employer Branding doeleinden die potentiële werknemers graag willen zien.** Het is zelfs mogelijk een [virtuele employer branding tour te maken](https://www.philenflo.nl/virtuele-tour-employer-branding/).
+      Wat maakt de werkwijze van Phil & Flo zo uniek? **Onze filmmakers zijn creatieve geesten**, die iedere keer de juiste invalshoek weten te vinden om je bedrijf en werksfeer in videovorm succesvol te presenteren. Dat doen ze met steeds het doel voor ogen: **het overtuigen van potentiële nieuwe werknemers**. Met dat doel voor ogen gaan we samen het proces door, van het eerste script en opnames tot de laatste stappen tijdens de montage. En dat doen we allemaal in overleg, met je eigen projectmanager.
+    displaymedia: youtube_video
     youtube:
-      id: Mc0MxOCQVdo
+      id: asB9nPdOCHk
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
@@ -121,21 +136,6 @@ blocks:
       color: pink
       type: button
   - type: content_block
-    align: left
-    content: >-
-      ## ***Employer branding volgens Phil & Flo***
-
-
-      Wat maakt de werkwijze van Phil & Flo zo uniek? **Onze filmmakers zijn creatieve geesten**, die iedere keer de juiste invalshoek weten te vinden om je bedrijf en werksfeer in videovorm succesvol te presenteren. Dat doen ze met steeds het doel voor ogen: **het overtuigen van potentiële nieuwe werknemers**. Met dat doel voor ogen gaan we samen het proces door, van het eerste script en opnames tot de laatste stappen tijdens de montage. En dat doen we allemaal in overleg, met je eigen projectmanager.
-    displaymedia: youtube_video
-    youtube:
-      id: asB9nPdOCHk
-    cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
-      type: button
-      color: pink
-  - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
@@ -155,21 +155,6 @@ blocks:
       type: button
       color: pink
   - type: content_block
-    align: left
-    content: >-
-      ## ***Employer branding film op Indeed en sociale media***
-
-
-      Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op *Instagram* en *LinkedIn* is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aantrekkelijk maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op *Indeed* beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je Employer Branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
-    displaymedia: youtube_video
-    youtube:
-      id: B_GiMlwjABE
-    cta:
-      url: /offerte-ontvangen/
-      text: Offerte ontvangen
-      type: button
-      color: pink
-  - type: content_block
     align: right
     content: >-
       ## ***Vacatures met film beter online vindbaar***
@@ -183,6 +168,21 @@ blocks:
     cta:
       url: /offerte-ontvangen/
       text: Offerte Ontvangen
+      type: button
+      color: pink
+  - type: content_block
+    align: left
+    content: >-
+      ## ***Employer branding film op Indeed en sociale media***
+
+
+      Veel mensen die op zoek zijn naar een vacature, krijgen deze wervingsteksten vaak doorgespeeld van mensen uit hun netwerk. Delen op *Instagram* en *LinkedIn* is al niet meer weg te denken uit het vacatureproces. Je wilt daarom je vacature ook aantrekkelijk maken voor mensen die er niet zelf op zullen reageren, maar wel iemand kennen of een relevant netwerk hebben. **Een korte en aansprekende film helpt deze mensen over de streep te trekken om je vacature te delen.** Daarnaast worden je vacatures op *Indeed* beter gewaardeerd als je er een film bij plaatst. En van het een komt het ander: als je Employer Branding film eenmaal gedeeld wordt, gaat de sneeuwbal rollen. Zo vergroot je je bereik exponentieel.
+    displaymedia: youtube_video
+    youtube:
+      id: B_GiMlwjABE
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
       type: button
       color: pink
   - type: content_block
