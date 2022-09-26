@@ -89,7 +89,7 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
-    align: left
+    align: right
     content: >-
       ## Wat is testimonial advertising?
 
