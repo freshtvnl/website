@@ -122,7 +122,7 @@ blocks:
 
       \
 
-      Bel ons nu op ***085 – 273 8331*** of...
+      Bel ons nu op **[085 - 2738331](tel:0852738331)**
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
