@@ -46,7 +46,7 @@ blocks:
       ### ***Uitleganimatie*** schept duidelijkheid
 
 
-      Zo hebben we een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) opgeleverd waarin we binnen 59 seconden duidelijk maken wat geneesmiddelenonderzoek is en hoe ICON te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
+      Zo hebben we ook een heldere [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/) opgeleverd. In deze animatiefilm maken we binnen 59 seconden duidelijk wat geneesmiddelenonderzoek is en hoe ICON te werk gaat. Van ontvangst tot het verlaten van de faciliteiten.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2D-animatie-laten-maken-voor-de-zorg-ICON2.mp4
