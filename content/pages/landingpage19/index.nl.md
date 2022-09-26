@@ -29,6 +29,11 @@ blocks:
     youtube:
       id: kK3X9kRxlJw
     displaymedia: youtube_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -45,19 +50,8 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
-    align: left
-    content: >-
-      ## Wat is testimonial advertising?
-
-
-      Wanneer je video testimonials in gaat zetten in je marketing campagne, spreek je van testimonial advertising. De klanten die bij jouw bedrijf een positieve klantreis hebben doorlopen, en vertellen in de testimonial video, worden op deze manier een ambassadeur van jouw merk. Delen ze hun goede ervaringen uit eigen beweging op hun social media, dan creëren ze een vorm van mond-tot-mondreclame.
-    displaymedia: custom_video
-  - type: content_block
-    video:
-      autoplay: true
       source_mp4: ""
-    align: right
+    align: left
     content: >-
       ## Waarom een testimonial?
 
@@ -71,11 +65,12 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken2.mp4
-    align: left
-    content: |-
+    align: right
+    content: >-
       ## Hoe maak je een video testimonial?
 
-      Tekst.
+
+      Om ervoor te zorgen dat de verteller een organisch verhaal vertelt, stel je interviewvragen op. Bij het opstellen van deze vragen, bedenk je alvast wat je wilt dat er gezegd gaat worden. Zo kun je structuur in het verhaal brengen en het gesprek sturen. Als je meerdere testimonials gaat opnemen, is het belangrijk om je niet in elke video op hetzelfde punt te focussen. Focus je per video op één unique selling point.
     displaymedia: custom_video
     image:
       source: ""
@@ -83,11 +78,23 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Testimonial-video-laten-maken1.mp4
-    align: right
-    content: |-
+    align: left
+    content: >-
       ## Waaraan koppel je een testimonial video het best op je website?
 
-      Tekst.
+
+      Je kunt een testimonial video perfect koppen aan een onderdeel van je website. Wordt er in de video gesproken over een bepaald product? Zet deze dan op de productpagina neer. Gaat het juist over het bedrijf in het algemeen? Plaats deze dan op de home- of over ons-pagina. Je kunt verschillende testimonial video's laten maken om in te zetten op meerdere landingspagina's of productpagina's.
+    displaymedia: custom_video
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Video-testimonial-laten-maken3.mp4
+    align: left
+    content: >-
+      ## Wat is testimonial advertising?
+
+
+      Wanneer je video testimonials in gaat zetten in je marketing campagne, spreek je van testimonial advertising. De klanten die bij jouw bedrijf een positieve klantreis hebben doorlopen, en vertellen in de testimonial video, worden op deze manier een ambassadeur van jouw merk. Delen ze hun goede ervaringen uit eigen beweging op hun social media, dan creëren ze een vorm van mond-tot-mondreclame.
     displaymedia: custom_video
   - type: content_block
     align: center
