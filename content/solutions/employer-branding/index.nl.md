@@ -65,20 +65,26 @@ blocks:
     youtube:
       id: Y4PzsL92oww
     cta:
-      url: /30-minuten/
-      text: Boek nu een vrijblijvende 30 minuten sessie
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
       type: button
+      color: pink
   - type: content_block
     align: right
     displaymedia: youtube_video
     youtube:
       id: DcsHQff1z8k
     content: >-
-      ## Opvallen met een ***employer branding video***
+      ## ***Opvallen met Employer Branding video***
 
 
-      De beste werknemers zijn steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? Met een employer branding film val je alvast goed op. Zeker als de concurrentie alleen maar een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
+      De ideale kandidaat is steeds moeilijker te vinden. De banen liggen letterlijk voor het oprapen, dus hoe zorg je dat talent juist voor jouw bedrijf kiest? **Met een Employer Branding film val je goed op**. Zeker als de concurrentie alleen een regeltje onderin de vacature schrijft over hun werksfeer, kun jij goed scoren met een vlotte film. Met de juiste mix van beelden van de werkvloer, interviews met huidige werknemers en goed gekozen achtergrondmuziek monteren we een sfeervolle film dat potentiële werknemers enthousiasmeert en motiveert om te solliciteren.
     align_text: text-left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     displaymedia: youtube_video
