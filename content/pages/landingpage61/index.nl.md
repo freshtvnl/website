@@ -74,10 +74,10 @@ blocks:
       text: ""
       type: null
     content: >-
-      ## Waarom kiezen voor een VR animatie?
+      ## Waarom  een VR animatie?
 
 
-      Een VR animatie is een zeer effectief middel om jouw boodschap over te brengen. Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Dit zorgt ervoor dat een VR animatie zeer effectief is. Er zijn vele mogelijkheden op het gebied van VR animatie:
+      Een VR animatie is een zeer effectief middel om jouw boodschap over te brengen. Een gemiddeld mens onthoudt 10% wat het hoort, 20% van wat het leest en maar liefst 90% van wat het ervaart. Dit zorgt ervoor dat een VR animatie zeer effectief is. Er zijn vele opties op het gebied van VR animatie, bijvoorbeeld:
 
 
       * E-learnings voor werknemers of scholieren
@@ -86,8 +86,7 @@ blocks:
 
       * Het visualiseren van jouw product
 
-
-      Naast deze verschillende onderwerpen zijn er nog vele andere mogelijkheden. Heb je zelf een idee? Wij komen graag met jou in contact om de mogelijkheden te bespreken. Een VR animatie zorgt ervoor dat jouw product of idee tot leven komt.
+      * Zelf een idee? Neem contact op!
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
