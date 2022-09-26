@@ -56,10 +56,10 @@ blocks:
     align_text: text-left
   - type: content_block
     content: >-
-      ## Hoe maken we jouw ***Employer Branding film***?
+      ## ***Hoe maken we jouw Employer Branding film?***
 
 
-      Wie kan er beter vertellen over hoe het is om bij jouw bedrijf te werken, dan de werknemers zelf? In een employer branding film laten we daarom echte mensen — werknemers en collega’s — aan het woord. Ze hoeven geen geboren acteur te zijn, want wij zorgen voor een **professionele begeleiding bij het filmen.** Daarna verpakken we hun enthousiaste verhalen in een kort en bondige film. We kiezen er de juiste achtergrondmuziek bij en brengen zo de unieke sfeer in jouw bedrijf binnen 1 minuut in beeld.
+      Wie kan er beter vertellen over hoe het is om bij jouw bedrijf te werken, dan de werknemers zelf? In een Employer Branding film laten we daarom echte mensen — werknemers en collega’s — aan het woord. Ze hoeven geen geboren acteur te zijn, want wij zorgen voor een **professionele begeleiding bij het filmen.** Daarna verpakken we hun enthousiaste verhalen in een kort en bondige film. We kiezen er de juiste achtergrondmuziek bij en brengen zo de unieke sfeer in jouw bedrijf over.
     align: left
     displaymedia: youtube_video
     youtube:
