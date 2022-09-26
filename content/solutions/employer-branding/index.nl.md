@@ -89,32 +89,23 @@ blocks:
     align: left
     displaymedia: youtube_video
     content: >-
-      ## Waarom ***recruiters*** aankloppen bij Phil & Flo
+      ## ***Waarom recruiters kiezen voor Phil & Flo***
 
 
-      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. Phil & Flo Creative Studio maakt video’s voor employer branding doeleinden die potentiële werknemers graag willen zien. Het is zelfs mogelijk een [virtuele employer branding tour te maken](https://www.philenflo.nl/virtuele-tour-employer-branding/).
+      Wie weet er beter hoe je nieuwe werknemers kunt aantrekken dan recruiters? Zij hebben er hun baan van gemaakt om werkgever en werknemer bij elkaar te brengen. Daarom zien ze ook de toegevoegde waarde van een employer branding video. **Phil & Flo Creative Studio maakt video’s voor Employer Branding doeleinden die potentiële werknemers graag willen zien.** Het is zelfs mogelijk een [virtuele employer branding tour te maken](https://www.philenflo.nl/virtuele-tour-employer-branding/).
     youtube:
       id: Mc0MxOCQVdo
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     content: >-
-      ## Succes voor ***elke branche***
+      ## ***Succes voor elke organisatie***
 
 
-      We hebben al vele employer branding films gemaakt voor verschillende branches:
-
-
-      * [Innovatieve Tech](https://www.philenflo.nl/branches/innovatieve-tech/)
-
-      * [Zorg en Pharmacie](https://www.philenflo.nl/branches/zorg-pharma/)
-
-      * [Duurzame Energie](https://www.philenflo.nl/branches/duurzame-energie/)
-
-      * [Onderwijs](https://www.philenflo.nl/branches/onderwijs-kunst-cultuur/)
-
-      * [Fair food](https://www.philenflo.nl/branches/fair-food/)
-
-
-      **Wij hebben een frisse en unieke blik op de presentatie in videovorm om talent aan te trekken**. Door de verhalen van je collega’s op een aantrekkelijke manier te presenteren, maken we potentiële werknemers enthousiast en geïnteresseerd in jouw bedrijf.
+      We produceren al jaren vele employer branding films. **Wij hebben een frisse en unieke blik op de presentatie in videovorm om de juiste kandidaat aan te trekken**. Vele organisaties hebben dankzij de succesvolle inzet van onze employer branding films de juiste kandidaten gevonden.
     align: right
     displaymedia: youtube_video
     youtube:
