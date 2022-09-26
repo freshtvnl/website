@@ -7,7 +7,7 @@ image:
   alt: JDE filmopnames - Phil & Flo
 blocks:
   - type: hero_block
-    title: Het gevoel en ***hart*** van je bedrijf in beeld
+    title: "***Het gevoel en hart van je bedrijf in beeld***"
     content: ""
     align: center
     align_text: center
@@ -22,10 +22,15 @@ blocks:
       unieke ‘brand’ of merk van de concurrentie.
     align: left
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
-      ## Waar sta je voor?
+      ## ***Waar sta je voor?***
 
 
       Wie zijn jullie? Waar staan jullie voor? Wat is de sfeer op de werkvloer? Hoe klinkt een tevreden klant? Dit vat je niet in tekst en afbeeldingen alleen. De kernwaarden van het bedrijf komen het beste over in een [bedrijfsvideo](https://www.philenflo.nl/bedrijfsvideo/) gemaakt door Phil & Flo. Ideeën nodig?
