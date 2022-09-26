@@ -28,7 +28,7 @@ blocks:
       verhalen vertellen waarin de kijker zich herkent. Hoe beter het verhaal is
       over jouw organisatie, hoe beter mensen begrijpen wat je voor hen kan
       betekenen. Storytelling is de belangrijkste steunpilaar van goede
-      videomarketing.
+      marketing en video.
     displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
@@ -65,10 +65,10 @@ blocks:
     video:
       autoplay: true
     content: >-
-      ## Een ***goede video*** voor jouw organisatie
+      ## Goede ***marketing & video*** voor jouw organisatie
 
 
-      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. Laat je videomarketing uitbesteden aan Phil & Flo.
+      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. Laat je marketing & video uitbesteden aan Phil & Flo.
     cta:
       url: /contact/
       text: Neem contact op
@@ -106,7 +106,7 @@ blocks:
       - premium-positioning-review
       - park lyceum review
 seo:
-  title: "Videomarketing uitbesteden | Phil & Flo "
+  title: "Videomarketing uitbesteden | Marketing & video | Phil & Flo "
   description: Videomarketing - Vertel verhalen waarin de kijker zich herkent. ✔
     Opvallend ✔ Creatief ✔ 8,9 klantscore
 ---
