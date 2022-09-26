@@ -55,7 +55,7 @@ blocks:
       ## Waarom een ***2D animatie?***
 
 
-      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie biedt de mogelijkheid om informatie laagdrempelig uitleggen. Het werkt beter dan een platte tekst of stilstaande illustratie. \
+      Naast het maken van een folder in zes verschillende talen, maakten we ook een 2D animatie. Een 2D animatie biedt de mogelijkheid om verschillende zaken laagdrempelig uitleggen. Het werkt beter dan een platte tekst of stilstaande illustratie. \
 
       \
 
@@ -71,7 +71,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Gemeentezaken uitgelegd in 2D animatie | Phil & Flo
+  title: Gemeente zaken uitgelegd in 2D animatie | Phil & Flo
   description: "Uitkering uitgelegd in 2D animatie voor de gemeente Amstelveen |
     Bekijk het hierin het portfolio van Phil & Flo "
 ---
