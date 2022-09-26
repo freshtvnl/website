@@ -138,7 +138,7 @@ blocks:
       ## Vandaag nog ***alles weten*** over een VR animatie?
 
 
-      Een Virtual Reality Animatie is de nieuwe manier om klanten, leerlingen of partners om jouw boodschap over te brengen. De combinatie van beeld, geluid en de ervaring zorgt voor een heldere boodschap die onthouden wordt. Ben je nieuwsgierig naar de mogelijkheden van een VR animatie? Kom snel met ons in contact en kom vandaag nog alles nog te weten over een VR animatie laten maken. Beleef bij ons in de VR Room de ervaring van Virtual Reality!
+      Een Virtual Reality Animatie is de nieuwe manier om klanten, leerlingen of partners om jouw boodschap over te brengen. De combinatie van beeld, geluid en de ervaring zorgt voor een heldere boodschap die onthouden wordt. Ben je nieuwsgierig naar de mogelijkheden van een VR animatie? Kom snel met ons in contact en kom vandaag nog alles nog te weten over een VR animatie laten maken. Beleef bij ons in de VR room de ervaring van Virtual Reality!
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
@@ -172,7 +172,7 @@ blocks:
       - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
       - kan-ik-vrijblijvend-sparren-voor-een-animatie
 seo:
-  title: VR animatie laten maken | Phil & Flo Creative Studio
+  title: VR animatie film laten maken | Phil & Flo
   description: VR animatie laten maken doe je bij Phil & Flo | ✔ Onderscheidende
     content ✔ Ontdek VR zelf ✔ Innovatief ✔ 8,9 klantscore | Neem contact op.
 ---
