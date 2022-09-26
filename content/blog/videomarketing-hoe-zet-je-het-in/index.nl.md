@@ -8,7 +8,7 @@ image:
 date: 2021-09-08T07:51:57.472Z
 color: pink
 seo:
-  title: Hoe zet je videomarkting in? | Phil & Flo
+  title: Hoe zet je videomarketing in? | Phil & Flo
   description: Hoe zet je video marketing? In dit artikel leggen wij je uit hoe
     videomarketing effectief inzet. Lees hier meer of neem contact op.
 ---
