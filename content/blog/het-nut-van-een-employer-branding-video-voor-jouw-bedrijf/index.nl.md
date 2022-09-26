@@ -10,7 +10,7 @@ color: yellow
 seo:
   title: Employer Branding voor jouw bedrijf | Phil & Flo
   description: Wat is het nut van een employer branding video voor jouw bedrijf? |
-    Phil & Flo
+    Phil en Flo Creative Studio
 ---
 ## Het nut van een employer branding video voor jouw bedrijf
 
@@ -18,9 +18,9 @@ Ben je op zoek naar een manier om nieuwe werknemers aan te trekken, kijk dan een
 
 ## Wat is een employer branding video?
 
-Een [employer branding video](https://www.philenflo.nl/oplossingen/employer-branding/) is in principe een video waarmee je een vacature binnen je bedrijf promoot voor potentiële werknemers. Gemotiveerde werknemers van jouw bedrijf vertellen over de sfeer in het bedrijf en de werkzaamheden. Verder geven ze vaak aan wat ze juist leuk vinden aan het bedrijf of de werkzaamheden. Op deze manier maak je meer indruk op potentiële kandidaten dan wanneer je alleen een online vacature plaatst. De toekomstige werknemer krijg een beter beeld van het bedrijf, de sfeer, eventuele toekomstige collega’s en de inhoud van de vacature. In de praktijk blijkt dat werkzoekenden eerder geneigd zijn om op vacatures te reageren met een employer branding film, dan te solliciteren op een vacature met droge tekst.
+Een [employer branding video](/oplossingen/employer-branding) is in principe een video waarmee je een vacature binnen je bedrijf promoot voor potentiële werknemers. Gemotiveerde werknemers van jouw bedrijf vertellen over de sfeer in het bedrijf en de werkzaamheden. Verder geven ze vaak aan wat ze juist leuk vinden aan het bedrijf of de werkzaamheden. Op deze manier maak je meer indruk op potentiële kandidaten dan wanneer je alleen een online vacature plaatst. De toekomstige werknemer krijg een beter beeld van het bedrijf, de sfeer, eventuele toekomstige collega’s en de inhoud van de vacature. In de praktijk blijkt dat werkzoekenden eerder geneigd zijn om op vacatures te reageren met een employer branding film, dan te solliciteren op een vacature met droge tekst.
 
-![UMCG Anio Employer branding video - Phil & Flo](images/umcg-anios5b.jpg)
+![UMCG Anios Employer branding video - Phil & Flo](images/umcg-anios5b.jpg)
 
 ## Hoe maak je een employer branding video?
 
