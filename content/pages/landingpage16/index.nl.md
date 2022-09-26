@@ -108,7 +108,7 @@ blocks:
     contacts:
       - suzan-abbas
 seo:
-  title: Wervingsvideo video laten maken | Phil & Flo Creative Studio
+  title: Wervingsvideo video laten maken | Phil & Flo
   description: Wervingsvideo laten maken voor openstaande vacatures door Phil &
     Flo  ✔ Onderscheidende content ✔ Klantscore 8.9 ✔ Voor alle branches | Neem
     contact op
