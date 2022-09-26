@@ -87,7 +87,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Productfilm laten maken | Phil & Flo creative Studio
+  title: Productfilm laten maken | Phil & Flo
   description: "Productfilm laten maken door Phil & Flo ✔ Onderscheidende content
     ✔ Gericht op jouw doelgroep ✔ Innovatief ✔ 8,9 klantscore | Neem contact op.
     "
