@@ -164,21 +164,26 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Vacatures met film beter ***online vindbaar***
+      ## ***Vacatures met film beter online vindbaar***
 
 
-      Niet alleen mensen zijn dol op video’s: **ook voor zoekmachines zoals Google vallen webpagina’s met video beter op, en worden beter geïndexeerd.** Ten minste, als je het goed doet. Gelukkig weten we bij Phil & Flo wel raad met video’s en zoekmachine-optimalisatie. De voordelen van een betere vindbaarheid in zoekmachines hoeven we natuurlijk niet uit te leggen: als je meer mensen bereikt, vergroot je je naamsbekendheid. En natuurlijk bereik je, in het geval van een vacature, meer potentiële werknemers als je vacature hoger scoort in zoekmachines.
+      Niet alleen mensen zijn dol op video’s: **ook voor zoekmachines zoals Google vallen webpagina’s met video beter op, en worden beter geïndexeerd.** Ten minste, als je het goed doet. Gelukkig weten we bij Phil & Flo wel raad met video’s en zoekmachine-optimalisatie. De voordelen van een betere vindbaarheid in zoekmachines hoeven we natuurlijk niet uit te leggen: als je meer mensen bereikt, vergroot je je naamsbekendheid. En natuurlijk bereik je, in het geval van een vacature, meer potentiële kandidaten als je vacature hoger scoort in zoekmachines.
     displaymedia: youtube_video
     youtube:
       id: quK6uD7_-1Y
     align_text: text-left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
-      ## Vandaag nog meer weten over ***employer branding***?
+      ## ***Vandaag nog meer weten over Employer Branding?***
 
 
-      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? Phil & Flo maakt hoogwaardige Employer branding video’s om werkgevers en werknemers bij elkaar te brengen. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen in persoon. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
+      Wil je niet meer het risico lopen dat de perfecte kandidaat voor je functie afhaakt omdat zij of hij geen goed beeld krijgt van je bedrijf? **Phil & Flo maakt hoogwaardige Employer branding video’s om werkgevers en werknemers bij elkaar te brengen**. Wij laten jouw bedrijf van de beste kant zien, zodat potentiële nieuwe werknemers enthousiast bij je zullen solliciteren. We vertellen je hier graag meer over, en beantwoorden al je vragen persoonlijk. Aarzel dus niet om contact op te nemen en meer te weten te komen over de kansen van employer branding en videomarketing voor jouw bedrijf!
     displaymedia: youtube_video
     youtube:
       id: zfG1OTMelcw
@@ -186,6 +191,7 @@ blocks:
       url: /contact/
       text: Contact opnemen
       type: button
+      color: pink
   - type: contact_block
     contacts:
       - suzan-abbas
