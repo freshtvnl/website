@@ -17,24 +17,23 @@ blocks:
     align: center
     align_text: center
   - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
-    align: left
+    align: right
     content: >-
-      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
-      de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
-      krachtige employer branding video's, zodat jij snel de ideale kandidaten
-      vindt.
+      ## ***Het bereik van employer branding films***
 
 
-      [Bekijk ons portfolio](/portfolio/)
-    displaymedia: custom_video
+      Een Employer Branding film om je als bedrijf te profileren kun je heel gericht voor een specifieke vacature maken, maar ook juist breed inzetbaar houden. Als je diep ingaat op een specifieke functie, laat je bijvoorbeeld een collega uitgebreid over het werk vertellen. Je geeft dan een heel goed beeld van de specifieke functie, maar de film is moeilijker te hergebruiken. **Als je kiest voor een meer algemene film over je bedrijf, kun je deze in verschillende vacatures gebruiken.** Bovendien heb je een grotere kans dat meer mensen je Employer Branding video gaan delen op sociale media.
+    displaymedia: youtube_video
+    youtube:
+      id: FFJ3QrYl1tA
+    align_text: text-left
     cta:
       url: /offerte-ontvangen/
-      text: Ontvang snel een offerte
+      text: Offerte Ontvangen
       type: button
       color: pink
+    video:
+      autoplay: false
   - type: logoblock
     title: ""
     logo_items:
@@ -137,19 +136,22 @@ blocks:
       type: button
       color: pink
   - type: content_block
-    align: right
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
+    align: left
     content: >-
-      ## ***Het bereik van employer branding films***
+      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
+      de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
+      krachtige employer branding video's, zodat jij snel de ideale kandidaten
+      vindt.
 
 
-      Een Employer Branding film om je als bedrijf te profileren kun je heel gericht voor een specifieke vacature maken, maar ook juist breed inzetbaar houden. Als je diep ingaat op een specifieke functie, laat je bijvoorbeeld een collega uitgebreid over het werk vertellen. Je geeft dan een heel goed beeld van de specifieke functie, maar de film is moeilijker te hergebruiken. **Als je kiest voor een meer algemene film over je bedrijf, kun je deze in verschillende vacatures gebruiken.** Bovendien heb je een grotere kans dat meer mensen je Employer Branding video gaan delen op sociale media.
-    displaymedia: youtube_video
-    youtube:
-      id: FFJ3QrYl1tA
-    align_text: text-left
+      [Bekijk ons portfolio](/portfolio/)
+    displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
-      text: Offerte Ontvangen
+      text: Ontvang snel een offerte
       type: button
       color: pink
   - type: content_block
