@@ -199,7 +199,8 @@ blocks:
     title: Google Reviews
     items:
       - DMT
-      - adresults-video-review
+      - adresults-review
+      - pra-health-sciences-review
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
@@ -215,9 +216,11 @@ blocks:
       - welke-muziek-gebruiken-jullie-employer
       - wat-moeten-wij-aanleveren-voor-een-employer-branding-video
       - welke-voice-over-wordt-ingezet-bij-een-employer-branding-video
+      - moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles-employer
 seo:
   title: Employer Branding video laten maken | Phil & Flo
-  description: Employer branding video laten maken op maat | Phil & Flo |  ✔ Uniek
-    ✔ Gericht op de juiste doelgroep ✔ Klantscore van 8.9 ✔ Imponerend | Neem
-    contact op
+  description: Employer branding video laten maken door Phil & Flo - Snel geleverd
+    - direct resultaat - Hoogwaardige videocontent - Succesvol op Indeed en
+    social media
+  image: images/employer-branding-phil-en-flo.jpg
 ---
