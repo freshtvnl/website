@@ -49,10 +49,10 @@ blocks:
       ## ***Employer Branding video***, wat is dat?
 
 
-      In een employer branding film zie je vooral je **werknemers aan het woord**. Ze vertellen de positieve kanten over hun werk en je bedrijf. Daarbij blijven we zo **authentiek** mogelijk. Daarom benoemen we ook  een wat mindere kant van het werk, dit werkt in je voordeel.
+      In een employer branding film kan je kiezen voor een authentieke aanpak, waarin je vooral je **werknemers aan het woord** laat. Ze vertellen de positieve kanten over hun werk en je organisatie. Daarbij blijven we zo **authentiek** mogelijk.
 
 
-      Natuurlijk is het ook een goed idee om de dagelijkse werkzaamheden te laten zien. En je kunt je werkgevers een sfeervolle blik geven op alle leuke dingen die er in de pauze of na het werk gebeuren, zoals **sporten of een gezellige borrel**. Zo’n kijkje in de keuken zegt veel meer dan een geschreven standaardzinnetje in een vacaturetekst. Mensen zijn visueel ingesteld, dus zien hoe het er echt aan toegaat door middel van een eerlijk verhaal geeft ze het duwtje in de rug om te reageren op je vacature.
+      Natuurlijk is het ook een goed idee om de dagelijkse werkzaamheden te laten zien. En je kunt je werkgevers een sfeervolle blik geven op alle leuke dingen die er in de pauze of na het werk gebeuren, zoals **sporten of een gezellige borrel**. De mens en daarbij jouw ideale kandidaat is visueel ingesteld, dus laten zien hoe het er echt aan toegaat door middel van een eerlijk verhaal, geeft ze het duwtje in de rug om te reageren op je vacature.
     displaymedia: youtube_video
     youtube:
       id: G_dlOtmAnas
