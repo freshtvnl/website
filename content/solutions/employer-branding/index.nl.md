@@ -54,6 +54,11 @@ blocks:
     youtube:
       id: G_dlOtmAnas
     align_text: text-left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     content: >-
       ## ***Hoe maken we jouw Employer Branding film?***
@@ -115,6 +120,7 @@ blocks:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
       color: pink
+      type: button
   - type: content_block
     align: left
     content: >-
