@@ -32,11 +32,11 @@ footer:
       text: "Of mail ons:"
     session:
       title: Vrijblijvend offerte ontvangen
-      text: Binnen 1 werkdag reactie
+      text: Binnen één werkdag reactie
       cta:
         url: /offerte-ontvangen/
         type: button
-        text: Aanvragen
+        text: Ontvangen
         color: pink
     contactblock:
       title: Laat je inspireren
