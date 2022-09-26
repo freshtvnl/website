@@ -17,6 +17,25 @@ blocks:
     align: center
     align_text: center
   - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
+    align: left
+    content: >-
+      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
+      de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
+      krachtige employer branding video's, zodat jij snel de ideale kandidaten
+      vindt.
+
+
+      [Bekijk ons portfolio](/portfolio/)
+    displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang snel een offerte
+      type: button
+      color: pink
+  - type: content_block
     align: right
     content: >-
       ## ***Het bereik van employer branding films***
@@ -135,25 +154,8 @@ blocks:
       text: Offerte ontvangen
       color: pink
       type: button
-  - type: content_block
     video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/NOM-employer-branding.mp4
-    align: left
-    content: >-
-      Hoe overtuig je kandidaten dat ze bij jou moeten komen werken? **Kies voor
-      de succesvolle aanpak van Phil & Flo**. Wij maken hoogwaardige en
-      krachtige employer branding video's, zodat jij snel de ideale kandidaten
-      vindt.
-
-
-      [Bekijk ons portfolio](/portfolio/)
-    displaymedia: custom_video
-    cta:
-      url: /offerte-ontvangen/
-      text: Ontvang snel een offerte
-      type: button
-      color: pink
+      autoplay: false
   - type: content_block
     align: right
     content: >-
