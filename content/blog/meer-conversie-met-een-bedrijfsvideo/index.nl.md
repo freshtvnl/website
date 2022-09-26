@@ -7,7 +7,7 @@ image:
 date: 2022-06-23T07:17:34.579Z
 color: green
 seo:
-  title: Krijg meer conversie met een bedrijfsvideo | Blog | Phil & Flo
+  title: Meer conversie met een bedrijfsvideo | Blog | Phil & Flo
   description: Hoe zorgt een bedrijfsvideo voor meer conversie voor jouw bedrijf?
     In dit blog vertellen we je er alles over.
 ---
