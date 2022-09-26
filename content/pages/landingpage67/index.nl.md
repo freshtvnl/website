@@ -29,7 +29,7 @@ blocks:
       element toe en maak je het iets speelser. Dat spreekt meer aan dan wanneer
       je alleen maar videobeelden en gesproken tekst laat zien. Bovendien kun je
       animatie goed bij de visuele stijl van je bedrijf laten passen. Heb je
-      onze eigen Phil & Flo bedrijfsanimatie al gezien? Wil jij dit ook?"
+      onze eigen Phil & Flo animatievideo al gezien? Wil jij dit ook?"
     align: left
     displaymedia: youtube_video
     youtube:
@@ -222,7 +222,7 @@ blocks:
       - oio-systems
       - eic-review
 seo:
-  title: Bedrijfsanimatie laten maken | Phil & Flo Creative Studio
+  title: Bedrijfsanimatie laten maken | Animatievideo | Phil & Flo
   description: Bedrijfsanimatie laten maken | Van productvideo tot aan
     uitleganimatie ✔  Klantscore 8.9 ✔  Onderscheidende content | Neem contact
     op
