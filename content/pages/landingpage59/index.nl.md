@@ -20,7 +20,7 @@ blocks:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Aditech-3D-animatie.mp4
     cta:
-      url: offerte-ontvangen
+      url: /offerte-ontvangen/
       text: Ontvang je offerte
       type: button
       color: pink
