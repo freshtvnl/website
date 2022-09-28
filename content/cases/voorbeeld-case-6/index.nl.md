@@ -27,7 +27,7 @@ blocks:
       ## ***Vraagstuk***
 
 
-      De klant heeft ons gevraagd een [promotiefilm](https://www.philenflo.nl/promotiefilm-laten-maken/) of [commercial](https://www.philenflo.nl/commercial-laten-maken/) te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijtig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
+      De klant heeft ons gevraagd een [promotiefilm](https://www.philenflo.nl/promotiefilm-laten-maken/) of [commercial](https://www.philenflo.nl/commercial-laten-maken/) te produceren waarin het nieuwe koffiesysteem wordt gepresenteerd. De doelgroep is uiteenlopend, van hotelketens tot aan bedrijfskantines. Echter de doelgroep bevindt zich over de hele wereld. We hebben de promotiefilm daarom in meer dan vijftig (!) variaties en talen opgeleverd. Check hiernaast bijvoorbeeld de Japanse versie!
     displaymedia: youtube_video
     youtube:
       id: DE5OAQNrQJY
