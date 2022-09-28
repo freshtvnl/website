@@ -54,7 +54,7 @@ blocks:
       alt: RSG Sneek MAG - Phil & Flo
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
   - type: content_block
     video:
       autoplay: true
@@ -137,10 +137,12 @@ blocks:
 
 
       Een virtuele tour maak je niet zomaar. Het kost tijd en energie en het moet wel een duidelijk doel hebben. Daarom is het belangrijk om van tevoren goed te bespreken wat de mogelijkheden zijn en wat jouw doelen zijn. Zo wordt er een concept gemaakt dat aansluiten op jouw doelen, maar ook geschikt is voor jouw doelgroep. Bekijk zeker eens onze virtuele tour van [CBS amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/). Een mooi voorbeeld hoe een virtuele tour interactief is, maar zeker ook aantrekkelijk en informatief.
-    displaymedia: image
+    displaymedia: iframe
     image:
       source: images/hsc1.jpg
       alt: Het Streek College - Phil & Flo
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     video:
       autoplay: true
