@@ -8,7 +8,7 @@ image:
 color: yellow
 blocks:
   - type: hero_block
-    align: right
+    align: center
     video:
       autoplay: true
     title: "***Virtuele tour***"
