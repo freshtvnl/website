@@ -8,16 +8,21 @@ image:
 color: yellow
 blocks:
   - type: hero_block
-    align: left
+    align: right
     video:
       autoplay: true
     title: "***Virtuele tour***"
+    content: ""
+  - type: content_block
+    video:
+      autoplay: true
     content: Vanuit je luie stoel de wereld ontdekken. Een virtuele tour laat een
       wereld tot leven komen waar je niet bent. Ga op pad door een school, hotel
       of zelfs door een complete fabriek. Ontdek de magie van een virtuele tour
       op de tablet, smartphone of zelfs in virtual reality. Phil & Flo helpt
       jouw organisatie online tot leven te laten komen op alle plekken ter
       wereld.
+    align: left
   - type: content_block
     video:
       autoplay: true
@@ -31,7 +36,9 @@ blocks:
     image:
       source: images/rsgs-mag1.jpg
       alt: RSG Sneek MAG - Phil & Flo
-    displaymedia: image
+    displaymedia: iframe
+    iframe:
+      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
   - type: content_block
     video:
       autoplay: true
@@ -42,10 +49,12 @@ blocks:
 
 
       Een digitale rondleiding is geschikt voor vrijwel elke branche. Een virtuele rondleiding kan plaatsvinden in een hotel, school, brouwerij, makelaardij, maar ook ingezet worden voor toerisme. Laat mensen over de hele wereld zien wat jij te bieden hebt. Met behulp van video, foto, [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) en [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/) kan jouw organisatie online bezocht worden. De mogelijkheden zijn eindeloos.
-    displaymedia: image
+    displaymedia: iframe
     image:
       source: images/jde-marcilla1.jpg
       alt: JDE - Phil & Flo
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1
   - type: content_block
     video:
       autoplay: true
