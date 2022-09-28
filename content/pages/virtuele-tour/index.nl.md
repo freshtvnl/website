@@ -23,6 +23,9 @@ blocks:
       jouw organisatie online tot leven te laten komen op alle plekken ter
       wereld.
     align: left
+    displaymedia: iframe
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/a6b92c6cdcf71d5f6e4f2e54?iv_branded=1
   - type: content_block
     video:
       autoplay: true
@@ -69,10 +72,12 @@ blocks:
       \
 
       Die unieke ervaring voor elke kijker wordt gerealiseerd aan de hand van jouw doelen en doelgroep. Maak bijvoorbeeld de tour interactief. Een [interactieve video](https://www.philenflo.nl/oplossingen/interactieve-video/) laat de kijker actief mee doen in de video. Zo beleven ze meer dan alleen een rondleiding, maar kunnen echt meedoen.
-    displaymedia: image
+    displaymedia: iframe
     image:
       source: images/phil-en-flo-icoon-schakelschema.jpg
       alt: Script - Phil & Flo
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/d5621e2835d285fdf02c56b6?iv_branded=1
   - type: content_block
     video:
       autoplay: true
