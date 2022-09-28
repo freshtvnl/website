@@ -42,7 +42,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## Wat is een ***virtuele tour***?
@@ -58,7 +58,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## ***Voor wie*** is deze digitale rondleiding geschikt?
@@ -74,7 +74,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## ***Mogelijkheden*** van een virtuele tour
@@ -103,7 +103,7 @@ blocks:
       \
 
       Je krijgt een eigen projectmanager. Met dit vaste aanspreekpunt loop je alle stappen door, van de creatieve sessie tot aan het daadwerkelijk maken van de tour. Wanneer de beelden zijn genomen, wordt er eerst een ruwe opzet opgestuurd. Vanuit daar wordt een definitieve versie gemaakt. Bekijk het [portfolio](https://www.philenflo.nl/portfolio/) voor mooie voorbeelden.
-    align: right
+    align: left
     align_text: text-left
     displaymedia: image
     image:
@@ -112,7 +112,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## De ***voordelen*** van een digitale rondleiding
@@ -130,7 +130,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## ***Voorbeelden*** van een virtuele tour
@@ -144,7 +144,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## Online tours voor ***dekstop & mobiel***
@@ -157,7 +157,7 @@ blocks:
       alt: Responsive - Phil & Flo
   - displaymedia: image
     form: ""
-    align: right
+    align: left
     align_text: text-left
     cta:
       url: https://www.philenflo.nl/contact/
@@ -182,7 +182,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## Digitale rondleiding voor ***museum***
@@ -196,7 +196,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     align_text: text-left
     content: >-
       ## Digitale rondleiding voor ***hotel***
@@ -215,7 +215,7 @@ blocks:
 
 
       Bezoekers trekken naar jouw stad, evenement of attractie kan met een 360 graden rondleiding. Laat zien wat jullie te bieden hebben. Een uitstapje doe je niet zomaar, dus je wilt weten wat de stad te bieden heeft. Laat met geweldige beelden zien wat jullie stad te bieden heeft. Van stadswandeling tot aan hotel, trek toeristen met een realistisch beeld en werk samen met lokale ondernemers. Lees hier meer over [virtuele tours voor toerisme](https://www.philenflo.nl/virtuele-tour-toerisme/).
-    align: left
+    align: right
     align_text: text-left
     image:
       source: images/van-wijnen2.jpg
@@ -229,7 +229,7 @@ blocks:
 
 
       Een werknemer zoekt meer dan een salaris. Je besteedt meer tijd op je werk dan dat je thuis bent. Een goede werkomgeving en maak het extra leuk met interactiviteit. Misschien kunnen ze zelf een biertje tappen. Lees hier meer over [virtuele tours inzetten voor employer branding](https://www.philenflo.nl/virtuele-tour-employer-branding/).
-    align: right
+    align: left
     align_text: text-left
     image:
       source: images/beter-bed3.png
@@ -238,7 +238,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     align_text: text-left
     content: >-
       ## De digitale rondleiding en ***sporten***
@@ -257,7 +257,7 @@ blocks:
 
 
       De keuze voor een school is niet zomaar gemaakt. Je wilt het beste voor de kinderen en daarom is de keuze niet zomaar gemaakt. Een [virtuele tour door een schoo](https://www.philenflo.nl/virtuele-school-rondleiding/)l laat zien wat de school te bieden heeft. Laat zien aan toekomstige leerlingen wat de school te bieden heeft. Zo hoeft een toekomstige leerling niet tijdens een drukke open dag langs te komen, maar kan online de sfeer alvast proeven.
-    align: left
+    align: right
     align_text: text-left
     image:
       source: images/hsl1.jpg
@@ -271,7 +271,7 @@ blocks:
 
 
       De horeca groeit, er komen steeds meer mogelijkheden bij om uiteten te gaan. Maar hoe onderscheid jij jezelf? Dat kan met een smakelijke online tour door het restaurant. Toon de ambiance waarvan jouw gasten mogen genieten. Geef een voorproefje in de keuken, laat geweldige gerechten zien en uiteraard de gastheren en gastvrouwen. Zo geef jij een kijkje in de keuken en trek je gemakkelijk meer gasten. Lees hier meer over een [virtuele tour door jouw restaurant](https://www.philenflo.nl/virtuele-tour-restaurant/).
-    align: right
+    align: left
     align_text: text-left
     image:
       source: images/sunita1.jpg
