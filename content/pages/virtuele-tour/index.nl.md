@@ -26,6 +26,19 @@ blocks:
     displaymedia: iframe
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/a6b92c6cdcf71d5f6e4f2e54?iv_branded=1
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
+  - type: logoblock
+    logo_items:
+      - CSB Amsterdam
+      - Meldpunt Discriminatie Groningen
+      - ICON
+      - CSG Het Streek
+      - RSG Sneek
+      - The Rent Company
   - type: content_block
     video:
       autoplay: true
