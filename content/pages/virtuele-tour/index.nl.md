@@ -262,9 +262,14 @@ blocks:
     align: right
     align_text: text-left
     image:
-      source: images/hsl1.jpg
+      source: images/rsgs-mag1.jpg
       alt: Het Streek Lyceum - Phil & Flo
     displaymedia: image
+    cta:
+      url: /alle-interactieve-tours-onderwijs/
+      text: Bekijk alle schooltours
+      type: button
+      color: yellow
   - type: content_block
     video:
       autoplay: true
