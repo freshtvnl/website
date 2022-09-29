@@ -188,6 +188,7 @@ blocks:
     items:
       - review-csb-amsterdam
       - park lyceum review
+      - csb-ouder-4
   - type: selectedfaqs_block
     items:
       - hebben-jullie-voorbeelden-van-een-interactieve-video
