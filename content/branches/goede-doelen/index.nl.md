@@ -60,9 +60,9 @@ blocks:
       - Stichting Welcome App
   - type: selectedwork_block
     items:
-      - LCB Apotheek retour
-      - BOK - Artistieke 3D Commercial
       - Save the Children - Bordje Bij
+      - BOK - Artistieke 3D Commercial
+      - stichting-welcome-app-2d-uitleganimatie
     more_items: true
   - type: contact_block
     contacts:
