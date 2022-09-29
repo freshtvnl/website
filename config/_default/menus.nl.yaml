@@ -29,7 +29,7 @@ footermenu1:
     parent: Oplossingen
   - weight: "0"
     name: Virtuele school tour
-    url: https://www.philenflo.nl/virtuele-school-rondleiding/
+    url: /virtuele-school-rondleiding/
 footermenu2:
   - weight: "0"
     name: Branches
