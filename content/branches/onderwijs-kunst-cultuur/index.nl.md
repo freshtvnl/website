@@ -96,23 +96,6 @@ blocks:
       text: Neem contact op
       color: pink
       type: button
-  - type: content_block
-    align: left
-    content: >-
-      ## ***Kunst & Cultuur***
-
-
-      Waarom plaatsen we de Kunst & Cultuur sector in dezelfde hoek als Onderwijs? Wij denken dat de wereld van morgen alleen kan bestaan als er kunst en cultuur is. Zonder deze basis heeft de wereld geen visie. Kunst & Cultuur wordt ook op scholen gegeven als vak. Wij helpen graag mee met de promotie van kunst en cultuur in Nederland. Dit kan op allerlei gebieden en wij denken graag mee met onze creatieve geesten om een interessante film of animatie te maken die het gevoel van kunst en cultuur goed overbrengt. Een film of animatie kan ook zelf kunst zijn. Of een interactieve vorm van kunst met onze fantastische [interactieve films](https://www.philenflo.nl/oplossingen/interactieve-video/) of [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/) ([360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/)) animatie films.
-    displaymedia: custom_video
-    video:
-      source_mp4: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.mp4
-      source_webm: https://video.philenflo.nl/video/Boknet-Phil-en-Flo-website-source.webm
-      autoplay: true
-    cta:
-      url: /offerte-ontvangen/
-      text: Ontvang je offerte
-      type: button
-      color: pink
   - type: selectedwork_block
     title: Succesverhalen
     items:
@@ -130,9 +113,7 @@ blocks:
       - review-csb-amsterdam
     title: Klantverhalen
 seo:
-  title: "Video, animatie & virtuele tour voor onderwijs en kunst sector | Phil &
-    Flo "
+  title: "Video, animatie & virtuele tour voor onderwijs | Phil & Flo "
   description: Verbeeld met animatie, interactieve film, virtual reality jouw
-    wereld. Phil & Flo helpt onderwijs, cultuur en kunst sectoren graag met
-    unieke video's.
+    wereld. Phil & Flo helpt het onderwijs graag met unieke video's.
 ---
