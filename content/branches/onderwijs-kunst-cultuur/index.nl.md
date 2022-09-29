@@ -52,7 +52,7 @@ blocks:
     align: right
     cta:
       url: /alle-interactieve-tours-onderwijs/
-      text: Bekijk alle interactieve onderwijs tours
+      text: Portfolio virtuele tours
       type: button
       color: pink
   - type: content_block
