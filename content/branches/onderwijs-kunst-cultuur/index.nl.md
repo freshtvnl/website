@@ -9,7 +9,7 @@ image:
 color: yellow
 blocks:
   - type: hero_block
-    title: Film en animatie voor de ***Opleiders van de wereld van morgen***
+    title: "***Video en animatie voor het onderwijs***"
     content: ""
     displaymedia: null
     iframe:
@@ -18,14 +18,17 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
+    content: >-
+      Het onderwijs is mede verantwoordelijk voor de wereld van morgen. Zij
       staan aan de basis van een nieuwe generatie die de wereld van morgen
-      vormgeeft. Daarom zijn wij extra gemotiveerd om te werken voor deze
-      prachtige branche met bijvoorbeeld een [virtuele school
-      rondleiding](https://www.philenflo.nl/virtuele-school-rondleiding/).
+      vormgeeft. Een nieuwe generatie die ook vernieuwende communicatie
+      verdient. [](https://www.philenflo.nl/virtuele-school-rondleiding/)
+
+
+      [Bekijk hier de virtuele school tour.](https://www.philenflo.nl/virtuele-school-rondleiding/)
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
     align: left
     cta:
       url: /offerte-ontvangen/
