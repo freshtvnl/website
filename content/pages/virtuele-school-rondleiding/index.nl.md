@@ -87,6 +87,11 @@ blocks:
 
       De volgende stap is het verder inkleuren van de kaders die getekend zijn. Wat en wie gaan we precies filmen? Gaan we mensen interviewen of werken we met een voice-over? Onze creative producers leiden een creatieve sessie waarin we samen alle ideeën en wensen doorspreken. Wij geven advies over wat wel en wat minder goed werkt. Al deze ideeën verzamelen we en verwerken we in een ***wireframe***.
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      color: blue
+      type: button
   - type: content_block
     video:
       autoplay: true
@@ -100,6 +105,11 @@ blocks:
     image:
       source: images/interactieve-digitale-school-rondleiding-wireframe.jpg
       alt: Wireframe interactieve tour - Phil & Flo
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: blue
   - type: content_block
     video:
       autoplay: true
@@ -111,6 +121,11 @@ blocks:
 
       Nu de basis staat in de vorm van een wireframe kan er een filmdag gepland worden. Op basis van het wireframe maakt de creative producer afspraken met jullie om de benodigde mensen en filmlocaties voor te bereiden. Alle informatie wordt verzameld in één overzichtelijk draaiboek. Dit draaiboek geeft per minuut aan wie, wat en waar er gefilmd wordt bij jullie op school.
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: blue
   - type: content_block
     video:
       autoplay: true
@@ -122,6 +137,11 @@ blocks:
 
       Het moment suprême is aangebroken, de filmdag. Alles is perfect voorbereid en we schieten een prachtige, effectieve film aan de hand van het draaiboek. Onze ervaring is dat het een gezellige dag is waaraan veel plezier wordt beleefd door de leerlingen en docenten. Onze ervaren filmcrew werkt hard door en zet waar nodig de puntjes op de i op alle filmlocaties. De perfecte draaidag is een samenspel tussen school en filmcrew. Na een lange dag filmen, is iedereen overgeleverd aan onze ervaren film editor. Spannend!
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: blue
   - type: content_block
     video:
       autoplay: true
@@ -129,28 +149,38 @@ blocks:
       ### ***Opleveren conceptversie***
 
 
-      Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback en verwerken wij dit. De interactieve schooltour is een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden op je website. **Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met qr-code.**
+      Allereerst leveren we na een eerste edit een conceptversie van de film op. Hierop kunnen jullie feedback geven. Vervolgens bespreken we de feedback en verwerken wij dit. De interactieve schooltour is een feit! Uiteraard helpen we bij het plaatsen van de interactieve player, welke je eenvoudig kan embedden op je website. **Ook maken we indien gewenst een pakkende teaserversie om mee te adverteren of een printklare poster met QR-code.**
     displaymedia: youtube_video
     image:
       source: ""
     align: right
     youtube:
       id: IEH4pIwepc4
-  - type: content_block
-    video:
-      autoplay: true
-    align: left
-    content: >-
-      ## ***Succes boeken met jouw interactieve schooltour***
-
-
-      Van begin tot eind helpt Phil & Flo jou om een interactieve schooltour te maken die je jarenlang kan inzetten. **Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen**. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
-    displaymedia: iframe
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: blue
+  - displaymedia: iframe
     youtube:
       id: ""
     form: ""
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+    align: left
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: blue
+    content: >-
+      ## ***Succes boeken met jouw interactieve schooltour***
+
+
+      Van begin tot eind helpt Phil & Flo jou om een virtuele schooltour te maken die je jarenlang kan inzetten. **Met slim geplaatste buttons in de video nodig je leerlingen en ouders uit om zich in te schrijven voor een open dag of om contact op te nemen**. In overzichtelijke statistieken zie je terug welke onderdelen van je tour het beste aanslaan bij de kijkers en hoe de rondleiding ervaren wordt. Samen met Phil & Flo bereik je het maximale resultaat.
+    type: content_block
+    video:
+      autoplay: true
   - type: content_block
     video:
       autoplay: true
@@ -166,7 +196,7 @@ blocks:
     cta:
       url: /contact/
       text: Neem contact op
-      color: pink
+      color: blue
       type: button
   - type: content_block
     video:
@@ -179,6 +209,11 @@ blocks:
 
       Phil & Flo werkt nauw samen met verschillende scholen en helpt hen om communicatievraagstukken op te lossen. Bijvoorbeeld de jaarlijks terugkerende uitdaging om voldoende instroom van leerlingen te hebben. Met een pakkende[ **interactieve video**](https://www.philenflo.nl/oplossingen/interactieve-video/) **school tour** van Phil & Flo spreek je zowel leerlingen als ouders aan met één pakkende interactieve ervaring.
     displaymedia: custom_video
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: blue
   - type: content_block
     video:
       autoplay: true
@@ -196,22 +231,6 @@ blocks:
       text: Meer over onze MVO
       type: button
       color: blue
-  - type: content_block
-    video:
-      autoplay: true
-      source_mp4: https://video.philenflo.nl/video/CSB_Amsterdam-Interactieve-tour-Phil-en-Flo-Phil-en-Flo.mp4
-    align: left
-    content: >-
-      ## ***360 graden video tour***
-
-
-      De mogelijkheden van videoproducties worden alsmaar uitgebreider. Phil & Flo blijft vernieuwen en hanteert innovatieve film- en interviewtechnieken zodat jouw film zo lang mogelijk blijft aanspreken bij je publiek. We hebben ook ervaring met [360 graden](https://www.philenflo.nl/360-graden-video-laten-maken/) school video’s en foto’s, maar ook met [virtual reality](https://www.philenflo.nl/oplossingen/virtual-reality/), 3D rondleidingen en allerlei subvormen hiertussen. Neem contact op voor de mogelijkheden!
-    displaymedia: custom_video
-    cta:
-      url: /contact/
-      text: Meer informatie
-      type: button
-      color: pink
   - type: contact_block
     contacts:
       - victor
@@ -229,6 +248,7 @@ blocks:
       - park-lyceum
 seo:
   title: Virtuele Interactieve school tour laten maken | Phil & Flo
-  description: Virtuele interactieve tour laten maken voor jouw school. ✔
-    Klantscore 8.9  ✔ Origineel en professioneel ✔ Op maat | Neem contact op
+  description: Virtuele interactieve tour laten maken voor jouw school.
+    Vernieuwend, opvallend en zeker weten meer aanmeldingen.
+  image: images/interactieve-school-rondleiding-poster-qr-code.jpg
 ---
