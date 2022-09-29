@@ -50,14 +50,14 @@ blocks:
     iframe:
       source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
   - type: logoblock
-    title: Scholen die voor ons kiezen
+    title: ""
     logo_items:
       - CSB Amsterdam
       - Noorderpoort
-      - Hanze Hogeschool Groningen
-      - Het Streek school
       - RSG Sneek
       - Coornhert Gymnasium
+      - CSG Het Streek
+      - Park Lyceum
   - type: content_block
     video:
       autoplay: true
