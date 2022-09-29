@@ -64,10 +64,10 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Noorderpoort-interactieve-video-tour.mp4
     align: left
     content: >-
-      ### ***Van idee naar opdracht***
+      ### ***Van visie naar virtuele tour***
 
 
-      Onze samenwerking begint met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en de communicatiedoelstellingen. Vervolgens schetst ons ervaren adviesteam, samen met jullie, de technische kaders om zo tot een opdracht te komen. Tijdens dit proces maak je ook kennis met je aangewezen creative producer en begeleidt je door het proces.
+      Onze samenwerking begint met een idee en een visie. Tijdens een intake gesprek bespreken we jouw ideeën, wensen, en de communicatiedoelstellingen. Vervolgens schetst ons ervaren adviesteam, samen met jullie, de technische kaders om zo tot een prachtige videotour te komen. Tijdens dit proces maak je ook kennis met je aangewezen creative producer en begeleidt je door het proces.
     displaymedia: iframe
     cta:
       url: /offerte-ontvangen/
