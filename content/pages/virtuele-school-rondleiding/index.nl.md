@@ -30,7 +30,7 @@ blocks:
       url: https://www.philenflo.nl/contact/
       text: Ja, ik wil meer informatie
       type: button
-      color: pink
+      color: blue
   - type: content_block
     video:
       autoplay: true
@@ -43,7 +43,7 @@ blocks:
       Jij wil met je school nieuwe leerlingen aantrekken. Vers van groep 8, of instromers. Een interactieve open dag waarmee ze opvallen en het hele jaar door open zijn, is dan de unieke oplossing, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de heldere en eenvoudige stappen van onze samenwerking.
     displaymedia: custom_video
     cta:
-      color: pink
+      color: blue
       type: button
       text: Offerte ontvangen
       url: /offerte-ontvangen/
