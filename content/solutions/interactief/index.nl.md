@@ -201,7 +201,7 @@ blocks:
       - welke-muziek-gebruiken-jullie
     title: Veelgestelde vragen
 parent: animatie-studio-amsterdam
-title: Interactief
+title: Interactieve video
 slug: interactieve-video
 weight: 3
 image:
