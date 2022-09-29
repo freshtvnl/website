@@ -61,12 +61,17 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Noorderpoort-interactieve-video-tour.mp4
     align: left
     content: >-
-      ### ***Video en Animatie oplossingen voor het onderwijs***
+      ### ***Video en Animatie voor het onderwijs***
 
 
       Jij bent op zoek naar communicatie die blijft hangen? Kies voor een [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/), [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) of interactieve video, speciaal op maat geproduceerd voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo en kies voor een leuke samenwerking.
     form: ""
     displaymedia: custom_video
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: pink
   - type: logoblock
     title: ""
     logo_items:
