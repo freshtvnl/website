@@ -54,7 +54,7 @@ blocks:
       url: /alle-interactieve-tours-onderwijs/
       text: Bekijk alle interactieve onderwijs tours
       type: button
-      color: green
+      color: pink
   - type: content_block
     video:
       autoplay: true
