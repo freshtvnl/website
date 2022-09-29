@@ -12,22 +12,20 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: "***Goede doelen***"
+    title: "***Communicatie voor Goede doelen***"
     align_text: center
   - type: content_block
     align: left
-    content: Phil & Flo zet zich in voor de wereld van morgen. Dat betekent dat we
-      onze kennis ook moeten inzetten voor goede doelen. Daarom produceren we
+    content: Phil & Flo zet zich in voor de wereld van morgen. Daarom produceren we
       elk jaar een aantal
       [animatiefilms](https://www.philenflo.nl/oplossingen/animatie-laten-maken/)
       of [videofilms](https://www.philenflo.nl/oplossingen/video-laten-maken/)
-      voor goede doelen tegen gereduceerd tarief of zelfs helemaal gratis. Wat
-      maakt iets voor ons een goed doel? Wij bepalen per goed doel of we daaraan
-      onze tijd willen besteden als team. Is het idee leuk, het goede doel goed
-      genoeg en hebben we een klik? Dan maken we een geweldige film voor je!
-    displaymedia: image
+      voor goede doelen tegen gereduceerd tarief of zelfs helemaal gratis. Is
+      het idee leuk en hebben we een klik? Dan maken we een geweldige film voor
+      je!
+    displaymedia: custom_video
     video:
-      source_mp4: ""
+      source_mp4: https://video.philenflo.nl/video/save-the-children.mp4
       source_webm: ""
       autoplay: true
     image:
@@ -41,7 +39,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Film voor ***goede doelen***
+      ## ***Film voor goede doelen***
 
 
       Wil je meer weten over de mogelijkheden van een animatiefilm, een [virtuele tour](https://www.philenflo.nl/virtuele-tour/), een [interactieve film](https://www.philenflo.nl/oplossingen/interactieve-video/) of een [persoonlijke film](https://www.philenflo.nl/gepersonaliseerde-video/) voor fondsenwerving, uitleg of begrip? Bel dan met Victor, hij kan je meer vertellen over de oplossingen die wij bieden op het gebied van marketing en communicatie voor goede doelen, **[085 - 2738331](tel:0852738331)**.
@@ -55,16 +53,16 @@ blocks:
       type: button
       color: green
   - type: logoblock
-    title: Bewezen trackrecord
+    title: ""
     logo_items:
       - Save the Children
-      - Welcome App
       - BokNET
+      - Stichting Welcome App
   - type: selectedwork_block
     items:
-      - Save The Children - Bordje Bij
       - LCB Apotheek retour
       - BOK - Artistieke 3D Commercial
+      - Save the Children - Bordje Bij
     more_items: true
   - type: contact_block
     contacts:
@@ -72,9 +70,12 @@ blocks:
   - type: selectedreviews_block
     items:
       - Save The Children commercial
+      - boknet-review
+      - ouder-2-csb
     title: Klantverhalen
 seo:
-  title: Video & animatie voor goede doelen | Phil & Flo
-  description: "Goede doelen hebben het niet breed. Phil & Flo helpen graag met de
-    juiste animaitefilm of video. Zo wordt jouw boodschap gehoord. "
+  title: Video en animatie voor goede doelen | Phil & Flo
+  description: Animatie of video laten maken voor het goede doel? Gespecialiseerd
+    in Goede Doel communicatie - Phil en Flo
+  image: images/phil-en-flo-mvo.jpg
 ---
