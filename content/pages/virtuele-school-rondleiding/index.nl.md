@@ -11,20 +11,24 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: "***Virtuele school tour*** - De oplossing voor je open dag!"
+    title: "***Virtuele school tour - 365 dagen open dag***"
   - type: content_block
     video:
       autoplay: true
     align: left
-    content: Hoe presenteer je jouw school aan ouders en kinderen op een
-      vernieuwende manier? Natuurlijk met een virtuele tour of interactieve
-      videotour van Phil & Flo.
+    content: >-
+      Hoe presenteer je jouw school aan ouders en kinderen op een vernieuwende
+      manier? Natuurlijk met een virtuele tour of interactieve videotour van
+      Phil & Flo.
+
+
+      [Lees hier de case van CSB Amsterdam](/portfolio/csb-amsterdam-interactieve-tour/)
     displaymedia: iframe
     iframe:
       source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
     cta:
       url: https://www.philenflo.nl/contact/
-      text: Direct contact
+      text: Ja, ik wil meer informatie
       type: button
       color: pink
   - type: content_block
