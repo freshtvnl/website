@@ -13,12 +13,11 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![Het Streek Lyceum - Phil &
-      Flo](images/september-2022_het-streek-lyceum.jpg)"
+    content: "![NOMIOS - Phil & Flo](images/link-in-bio-portfolio-nomios.jpg)"
     cta:
-      color: yellow
-      url: https://www.philenflo.nl/portfolio/csg-het-streek-lyceum-interactieve-tour/
-      text: Bekijk de interactieve tour van Het Streek
+      color: blue
+      url: https://www.philenflo.nl/portfolio/nomios-internationale-bedrijfsfilm/
+      text: Bekijk de bedrijfsfilm van NOMIOS
       type: button
   - type: content_block
     video:
