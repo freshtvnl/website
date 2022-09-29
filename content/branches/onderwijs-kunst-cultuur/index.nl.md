@@ -105,17 +105,17 @@ blocks:
     title: Succesverhalen
     items:
       - CSB Amsterdam interactieve tour
-      - Hanze Hogeschool - 2D Animaties
       - coornhert-gymnasium-promotiefilm-school
-    more_items: false
+      - CSG-het-streek-lyceum-interactieve-tour
+    more_items: true
   - type: contact_block
     contacts:
       - suzan-abbas
   - type: selectedreviews_block
     items:
-      - diataal-review
-      - hanzehogeschool-groningen-review
       - review-csb-amsterdam
+      - csb-ouder-4
+      - ouder-1-csb
     title: Klantverhalen
 seo:
   title: "Video, animatie & virtuele tour voor onderwijs | Phil & Flo "
