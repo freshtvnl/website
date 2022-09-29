@@ -37,10 +37,10 @@ blocks:
       color: pink
   - type: content_block
     content: >-
-      ## ***Interactieve*** open dagen
+      ## ***Interactieve open dagen***
 
 
-      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te benaderen. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/). Bijvoorbeeld: *'Wat te doen als een fysieke open dag niet mogelijk is?'* Ons antwoord was deze film voor onder andere het Park Lyceum in Almere en voor het CSB Amsterdam hierboven.
+      Als onderwijsinstelling wil je je leerlingen en hun ouders goed informeren. Daarom denkt Phil & Flo goed met je mee over de juiste inzet van middelen om deze doelgroep optimaal te informeren. Met deze mindset realiseren we resultaten die verder gaan dan alleen [video](https://www.philenflo.nl/oplossingen/video-laten-maken/) of een [animatie](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
     displaymedia: iframe
     image:
       source: ""
