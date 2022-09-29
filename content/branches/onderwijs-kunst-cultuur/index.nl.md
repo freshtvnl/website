@@ -58,6 +58,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Noorderpoort-interactieve-video-tour.mp4
     align: left
     content: >-
       ### ***Video en Animatie oplossingen voor het onderwijs***
