@@ -41,12 +41,14 @@ blocks:
 
 
       Jij wil met je school nieuwe leerlingen aantrekken. Vers van groep 8, of instromers. Een interactieve open dag waarmee ze opvallen en het hele jaar door open zijn, is dan de unieke oplossing, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de heldere en eenvoudige stappen van onze samenwerking.
-    displaymedia: custom_video
+    displaymedia: iframe
     cta:
       color: blue
       type: button
       text: Offerte ontvangen
       url: /offerte-ontvangen/
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/d471d745c81adaa616ce9290?iv_branded=1
   - type: logoblock
     title: Scholen die voor ons kiezen
     logo_items:
