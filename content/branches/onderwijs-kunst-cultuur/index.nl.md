@@ -65,7 +65,7 @@ blocks:
 
 
       Jij bent op zoek naar communicatie die blijft hangen? Kies voor een [animatiefilm](https://www.philenflo.nl/animatiefilm-laten-maken/), [video](https://www.philenflo.nl/oplossingen/video-laten-maken/), [virtuele tour](https://www.philenflo.nl/virtuele-tour/) of interactieve video, speciaal op maat geproduceerd voor jouw onderwijsinstelling. Werk samen met een videospecialist op het gebied van onderwijs, dit voorkomt misverstanden en stroeve samenwerkingen. Kies voor een strategisch en creatief partner zoals Phil & Flo en kies voor een leuke samenwerking.
-    form: contact-formulier
+    form: ""
     displaymedia: custom_video
   - type: logoblock
     title: ""
