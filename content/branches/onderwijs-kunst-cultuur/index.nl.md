@@ -31,8 +31,8 @@ blocks:
       source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
     align: left
     cta:
-      url: /offerte-ontvangen/
-      text: Ontvang je offerte
+      url: /contact/
+      text: Neem contact op
       type: button
       color: pink
   - type: content_block
