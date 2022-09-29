@@ -25,7 +25,7 @@ blocks:
       [Lees hier de case van CSB Amsterdam](/portfolio/csb-amsterdam-interactieve-tour/)
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1
     cta:
       url: https://www.philenflo.nl/contact/
       text: Ja, ik wil meer informatie
