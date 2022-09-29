@@ -205,7 +205,7 @@ title: Interactief
 slug: interactieve-video
 weight: 3
 image:
-  source: images/rsg-mag4.png
+  source: images/virtuele-interactieve-video.png
   alt: Interactieve video - Phil en Flo
 seo:
   title: Interactieve video | Phil & Flo videomarketing
