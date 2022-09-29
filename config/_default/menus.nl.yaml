@@ -27,7 +27,7 @@ footermenu1:
     name: Videomarketing
     url: /oplossingen/videomarketing/
     parent: Oplossingen
-  - weight: "0"
+  - weight: -7
     name: Virtuele school tour
     url: /virtuele-school-rondleiding/
 footermenu2:
