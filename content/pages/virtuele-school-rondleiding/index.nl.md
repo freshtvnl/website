@@ -37,11 +37,16 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/CSB%20Video%20tour%20school%20-%20Phil%20en%20Flo.mp4
     align: right
     content: >-
-      ## Hoe maken jullie een ***interactieve digitale open dag***?
+      ## ***Hoe maken jullie een interactieve virtuele open dag?***
 
 
-      Wij zien dat veel scholen een interactieve open dag willen hebben, waarmee ze opvallen en het hele jaar door de open zijn voor nieuwe instromers, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de stappen van onze samenwerking, en hoe jij volledig controle houdt.
+      Jij wil met je school nieuwe leerlingen aantrekken. Vers van groep 8, of instromers. Een interactieve open dag waarmee ze opvallen en het hele jaar door open zijn, is dan de unieke oplossing, maar een interactieve schoolrondleiding wat is dit nu precies? Hieronder volgen de heldere en eenvoudige stappen van onze samenwerking.
     displaymedia: custom_video
+    cta:
+      color: pink
+      type: button
+      text: Offerte ontvangen
+      url: /offerte-ontvangen/
   - type: logoblock
     title: Scholen die voor ons kiezen
     logo_items:
