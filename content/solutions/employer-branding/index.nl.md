@@ -101,7 +101,7 @@ blocks:
     align: left
     displaymedia: youtube_video
     youtube:
-      id: Y4PzsL92oww
+      id: C45WWzIogqo
     cta:
       url: /offerte-ontvangen/
       text: Offerte ontvangen
