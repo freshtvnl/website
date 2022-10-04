@@ -3,6 +3,9 @@ title: Employer Branding
 slug: employer-branding
 weight: 2
 draft: false
+menu:
+  main:
+    weight: 1
 image:
   source: images/schermafbeelding-2022-09-20-om-15.11.11.png
   alt: Employer branding video - Phil & Flo
@@ -233,4 +236,5 @@ seo:
     - direct resultaat - Hoogwaardige videocontent - Succesvol op Indeed en
     social media
   image: images/employer-branding-phil-en-flo.jpg
+
 ---
