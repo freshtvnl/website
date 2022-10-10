@@ -142,32 +142,31 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Jij ontvangt het
-      [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/)
-      om daarna je feedback erop te geven om vervolgens tot een definitief
-      script te komen. Daarna volgt het opstellen van een draaiboek waarin alles
-      tot in detail is uitgewerkt. De draaidag voor het maken van de
-      professionele bedrijfsvideo vindt plaats op de overeengekomen dag. De
-      regisseur is verantwoordelijk voor het gehele proces en de cameraman filmt
-      de beelden. Er volgt na de draaidag een briefing voor onze editor die
-      daarna aan de slag gaat. Daarna krijg je al snel de eerste filmversie te
-      zien waarop feedback mogelijk is die wij samen met je bespreken en
-      verwerken. Zo komen wij tot een eindversie van de bedrijfsvideo productie
-      en zijn er nog opties voor ondertiteling, teasers of het maken van
-      filmposters.
+      source_mp4: https://video.philenflo.nl/video/Nomios-short.mp4
+    content: Om tot een definitief script te komen, is er natuurlijk ruimte voor
+      feedback. Daarna volgt het opstellen van een draaiboek waarin alles tot in
+      detail is uitgewerkt. Tijdens de draaidag is de regisseur verantwoordelijk
+      voor het gehele proces en filmt de cameraman de beelden. Na de draaidag
+      gaat onze editor aan de slag met het editen en monteren van de beelden.
+      Daarna krijg je al snel de eerste filmversie te zien, waarop feedback
+      mogelijk is. Zo komen we tot een eindversie van de bedrijfsvideo
+      productie.
     align: right
+    displaymedia: custom_video
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: center
     content: >-
       ## Wat zijn de ***kosten*** van een bedrijfsvideo?
 
 
-      De kosten van een bedrijfsvideo zijn uiteraard afhankelijk van meerdere aspecten. De omvang van de productie speelt daarbij een rol net als de inzet van bijvoorbeeld lichtspecialisten en de locatie. Er zijn wat dat betreft verschillende bedrijfsvideo kosten te onderscheiden, zodat het niet mogelijk is om een gemiddelde bedrijfsvideo prijs direct hier met je te delen. 
-
-
-      Wij leveren voor het maken van een professionele bedrijfsvideo altijd maatwerk en daar stemmen wij de prijs op af. Overigens vinden wij het wel belangrijk om transparant te zijn in alle bedrijfsvideo kosten. Daar bieden wij dan ook helderheid in op het moment dat je een aanvraag voor een offerte bij ons indient.
+      De kosten van een bedrijfsvideo zijn afhankelijk van meerdere aspecten. De omvang van de productie speelt daarbij een rol net als de inzet van bijvoorbeeld lichtspecialisten en de locatie. Wij leveren voor het maken van een professionele bedrijfsvideo altijd maatwerk en daar stemmen wij de prijs op af. Vraag vrijblijvend een offerte aan of neem contact op met onze experts.
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      color: pink
+      type: button
   - type: contact_block
     contacts:
       - victor
