@@ -4,7 +4,7 @@ slug: bedrijfsvideo
 draft: false
 blocks:
   - type: hero_block
-    title: "***Een bedrijfsvideo maken***"
+    title: "***Bedrijfsvideo maken***"
     content: ""
     displaymedia: null
     youtube:
@@ -14,19 +14,24 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: Een goede bedrijfsvideo helpt je om je klanten een goede indruk van je
-      organisatie te geven. We spelen met de bedrijfsvideo in op de emoties van
-      je doelgroep en bevatten alle momenten van trots, geluk en succes binnen
-      je organisatie. Net als in het echte leven. Mensen kijken graag naar
-      andere mensen, daarom is er geen betere manier voor klanten om zich aan de
-      hand van een bedrijfsvideo te verbinden met je organisatie. Immers, als
-      een potentiële klant zich kan identificeren met waar je voor staat en waar
-      je voor gaat, geeft dat de klant meer zelfvertrouwen. Ook wordt de
-      waarschijnlijkheid groter dat een klant voor jouw product of dienst kiest.
+    content: Een goede bedrijfsvideo helpt om een goede indruk van je organisatie te
+      geven. Met een bedrijfsvideo spelen we in op de emoties van je doelgroep.
+      We laten alle momenten van trots, geluk en succes binnen je organisatie
+      zien. Mensen kijken graag naar andere mensen, daarom is er geen betere
+      manier voor klanten om zich aan de hand van een bedrijfsvideo te verbinden
+      met je organisatie. Als een potentiële klant zich kan identificeren met
+      waar je voor staat en waar je voor gaat, geeft dat de klant meer
+      zelfvertrouwen. En wordt de kans groter dat hij voor jouw product of
+      dienst kiest.
     youtube:
       id: PEXDnd9K_m4
     displaymedia: youtube_video
     align: left
+    cta:
+      url: /offerte-ontvangen/
+      text: Ontvang je offerte
+      type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
@@ -35,7 +40,7 @@ blocks:
       ## Wat is ***een bedrijfsvideo?***
 
 
-      Een bedrijfsvideo brengt in beeld en geluid over waar je bedrijf met product of dienst voor staat. Er zijn verschillende doelen te verbinden aan een bedrijfsvideo laten maken, zoals **het versterken van je bedrijfsidentiteit**. Zo kan je ook een bedrijfsvideo maken waarmee je met je product of dienst een **oplossing biedt** voor een probleem. De basis ligt erin om de boodschap die je wilt overdragen op een pakkende manier te vertonen.
+      In een bedrijfsvideo breng je in beeld en geluid over waar je bedrijf voor staat. Er zijn verschillende doelen te verbinden aan een bedrijfsvideo laten maken, zoals het versterken van je bedrijfsidentiteit. Maar ook het bieden van een oplossing voor een probleem met je product of dienst. De basis ligt erin om de boodschap die je wilt overdragen op een pakkende manier te vertonen.
     align: right
     displaymedia: custom_video
   - type: content_block
@@ -58,10 +63,7 @@ blocks:
       ## ***Corporate*** identiteit?
 
 
-      Bij Phil & Flo vinden we dat in de steeds verder digitaliserende klantrelatie de wensen en belangen van je klant altijd voorop moeten staan. Met de komst van verschillende social media, gecombineerd met [YouTube](https://www.philenflo.nl/you-tube-marketing/), is het nog nooit zo eenvoudig geweest om jouw corporate identiteit te delen met je doelgroep.
-
-
-      Phil & Flo maakt jouw verhaal persoonlijk, met **eigen mensen en eigen wensen**. Daarmee toont een bedrijfsvideo hoe trots je bent op je medewerkers en klanten merken dat verschil. In de producties van Phil & Flo spelen echte mensen de hoofdrol.
+      In de steeds verder digitaliserende klantrelatie, zouden de wensen en belangen van je klant voorop moeten staan. Met de komst van verschillende social media, waaronder [YouTube](https://www.philenflo.nl/you-tube-marketing/), is het nog nooit zo eenvoudig geweest om jouw corporate identiteit te delen met je doelgroep. Phil & Flo maakt jouw verhaal persoonlijk, in onze producties spelen echte mensen de hoofdrol. De bedrijfsvideo toont hoe trots je bent op je medewerkers en klanten merken dat verschil.
     displaymedia: custom_video
     image:
       source: ""
@@ -71,26 +73,28 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***Hoog in de zoekresultaten***
+      ## Hoog in ***zoekresultaten***
 
 
-      **Google beloont** websites die goede content bevatten, zoals goede bedrijfsvideo's. Daarmee verschijn je dus hoger in de zoekresultaten.
-
-
-      De bedrijfsvideo’s die we bij Phil & Flo maken zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en je service. Bel onze adviseurs voor vrijblijvend advies over videomarketing 085 273 8331.
+      Google beloont websites die goede content bevatten, zoals goede bedrijfsvideo's. Daarmee verschijn je hoger in Google zoekresultaten. De bedrijfsvideo’s die we bij Phil & Flo maken, zorgen ervoor dat klanten een beter gevoel krijgen bij jouw bedrijf, je producten, diensten en service. Bel onze adviseurs voor vrijblijvend advies over videomarketing **[085 - 2738331](tel:0852738331)**.
     displaymedia: custom_video
     image:
       source: ""
     video:
       source_mp4: https://video.philenflo.nl/video/PRA-louelle-commercial-Phil-en-Flo-website-source.mp4
       autoplay: true
+    cta:
+      url: /contact/
+      text: Neem contact op
+      type: button
+      color: green
   - type: content_block
     align: right
     content: >-
-      ## ***Over ons & bedrijfsvideo's***
+      ## ***Duurzame videoproducties***
 
 
-      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een [reclamespot](https://www.philenflo.nl/reclamevideo/). Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is veel beter voor specifieke zoekopdrachten.
+      Wanneer wij videocontent creëren, denken we nooit aan bedrijfsvideo’s voor eenmalig gebruik. De beelden voor een bedrijfsvideo kunnen we opnieuw inzetten voor bijvoorbeeld een online training video of een [reclamevideo](https://www.philenflo.nl/reclamevideo/). Daarnaast kan je beter tien verschillende films van één minuut maken dan één film van tien minuten, dit is beter voor specifieke zoekopdrachten.
     displaymedia: custom_video
     image:
       source: ""
@@ -99,8 +103,9 @@ blocks:
       autoplay: true
     cta:
       url: /offerte-ontvangen/
-      text: Ik wil graag een offerte ontvangen
+      text: Ontvang je offerte
       type: button
+      color: pink
   - type: content_block
     video:
       autoplay: true
