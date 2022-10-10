@@ -64,6 +64,11 @@ blocks:
     displaymedia: image
     image:
       source: images/210505-philenflo-schermachtergrond3.jpg
+    cta:
+      url: /contact/
+      text: Contact opnemen
+      type: button
+      color: green
   - type: contact_block
     contacts:
       - peter-de-graaf
