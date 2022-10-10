@@ -4,7 +4,7 @@ slug: inge-b
 draft: false
 image:
   source: images/geen-foto-phil-en-flo.jpg
-function: Sales en Creative Jr
+function: Account Director
 seo:
   noindex: true
 ---
