@@ -33,10 +33,10 @@ blocks:
       autoplay: true
     align: right
     content: >-
-      ## Missie en visie
+      ## ***Missie en visie***
 
 
-      Allereerst is het goed om in kaart te brengen wat jou als merk of bedrijf uniek maakt. Vraag jezelf af: Wat doe je? Waar sta je voor? Voor wie doe je het? Hoe wil je dat anderen over jou praten? Met het beantwoorden van deze vragen vorm je de missie en visie van je bedrijf. Vervolgens gaan we kijken hoe we deze het best kunnen overbrengen op je doelgroep.  
+      Allereerst is het goed om in kaart te brengen wat jou als merk of bedrijf uniek maakt. Vraag jezelf af: Wat doe je? Waar sta je voor? Voor wie doe je het? Hoe wil je dat anderen over jou praten? Met het beantwoorden van deze vragen vorm je de missie en visie van je bedrijf. Vervolgens gaan we kijken hoe we deze het best kunnen overbrengen op je doelgroep.
     displaymedia: image
     image:
       source: images/b47848a1-6696-43ef-bcc1-acadb5fd530c.jpg
