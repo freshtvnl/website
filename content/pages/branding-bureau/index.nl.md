@@ -43,7 +43,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: right
+    align: left
     content: >-
       ## ***Helicopter view***
 
@@ -55,7 +55,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    align: left
+    align: right
     content: >-
       ## ***Een goed brand***
 
