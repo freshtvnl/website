@@ -8,7 +8,7 @@ blocks:
     align: center
     video:
       autoplay: true
-    title: "***Brand bureau***"
+    title: "***Branding bureau***"
     align_text: center
   - type: content_block
     video:
@@ -79,4 +79,5 @@ blocks:
       - pra-health-sciences-review
 seo:
   title: Branding bureau | Film en animatie | Phil & Flo
+  description: Een goed brand | Branding bureau | Phil & Flo
 ---
