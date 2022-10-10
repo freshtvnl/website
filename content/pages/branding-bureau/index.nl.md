@@ -1,7 +1,7 @@
 ---
 title: Branding bureau
 slug: branding-bureau
-draft: true
+draft: false
 color: green
 blocks:
   - type: hero_block
@@ -62,6 +62,16 @@ blocks:
 
       Straalt jouw merk uit wat je wilt uitdragen? Slaat het aan bij je prospects? En is deze visuele identiteit onderscheidend van je concurrenten? Voor een goede branding kijken we naar een passend logo, passende kleuren, lettertypes, herkenbare elementen en beelden. Al deze onderdelen vormen de basis om je merk sterk te positioneren op de markt. Wil je aan de slag met (nieuwe) branding om jouw merk te versterken? Neem vrijblijvend contact met ons op.
     displaymedia: image
+    image:
+      source: images/210505-philenflo-schermachtergrond3.jpg
+  - type: contact_block
+    contacts:
+      - peter-de-graaf
+  - type: selectedreviews_block
+    items:
+      - premium-positioning-review
+      - review-csb-amsterdam
+      - pra-health-sciences-review
 seo:
   title: Branding bureau | Film en animatie | Phil & Flo
 ---
