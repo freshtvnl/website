@@ -25,7 +25,7 @@ blocks:
       je!
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/save-the-children.mp4
+      source_mp4: https://video.philenflo.nl/video/221006-Phil-Flo-Showreel-Goede-Doelen-v2.mp4
       source_webm: ""
       autoplay: true
     image:
