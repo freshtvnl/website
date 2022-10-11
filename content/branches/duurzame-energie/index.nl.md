@@ -16,7 +16,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/Duurzame-energie-phil-en-flo2.mp4
+      source_mp4: https://video.philenflo.nl/video/221006-Phil-Flo-Showreel-Duurzame-Energie-v3.mp4
     align: left
     content: >-
       Phil en Flo maakt hoogwaardige, specialistische video en animatiefilms met
