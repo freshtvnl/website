@@ -37,6 +37,15 @@ blocks:
       text: Ontvang je offerte
       type: button
       color: pink
+  - type: logoblock
+    title: ""
+    logo_items:
+      - UMCG
+      - ICON
+      - ZonMw
+      - Open Health
+      - ChipSoft
+      - Lentis
   - type: content_block
     align: right
     content: >-
@@ -73,14 +82,6 @@ blocks:
       text: Lees meer
       type: button
       color: green
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - ChipSoft
-      - ICON
-      - ZonMw
-      - Open Health
-      - Lentis
   - type: content_block
     align: right
     content: >-
