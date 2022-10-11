@@ -17,15 +17,14 @@ blocks:
       source_webm: ""
     content: >-
       Wil jij ook je eigen wereld creëren en de kijker meenemen in een verhaal
-      dat duidelijk, maar vooral interessant is om naar te kijken? Kies dan voor
-      onze unieke maatwerk animatiefilms. Animaties zijn er in verschillende
-      vormen, kies hieronder uit [3D
+      dat duidelijk, maar vooral doelgroepen activeert? Kies dan voor onze
+      unieke maatwerk animatiefilms. Kies uit [3D
       animatie](https://www.philenflo.nl/3-d-animatie-laten-maken/), [2D
       animatie](https://www.philenflo.nl/2d-animatie/) of [VR
       animatie](/vr-animatie-laten-maken/).
 
 
-      [Bekijk ook ons portfolio](/portfolio/)
+      [Bekijk ons portfolio](/portfolio/)
     align: left
     displaymedia: custom_video
     cta:
@@ -39,7 +38,7 @@ blocks:
       ## ***2D animatie***
 
 
-      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) die aansluit bij jouw wensen. Lees meer over 2D animaties.
+      Een 2D animatie is de basis die voor vele doelen een geweldige oplossing biedt. In je eigen huisstijl, uniek op maat gemaakt door onze animatoren. Met een script die aansluit bij jouw wensen. Lees meer over 2D animaties.
     displaymedia: custom_video
     image:
       source: ""
@@ -47,6 +46,7 @@ blocks:
       url: /2d-animatie/
       text: Lees meer
       type: button
+      color: pink
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatievideo-phil-en-flo.mp4
       autoplay: true
@@ -62,11 +62,12 @@ blocks:
       url: https://www.philenflo.nl/3-d-animatie-laten-maken/
       text: Lees meer
       type: button
+      color: pink
     content: >-
       ## ***3D Animatie***
 
 
-      Onze 3D animatie's zijn de meest realistische vorm van animatie. Het kost wat meer tijd om te maken dan een 2D animatie, maar het resultaat is verbluffend. Met een 3D animatie laat je ingewikkelde producten of diensten in de juiste context op een laagdrempelig manier zien. Ons creatieve team verrast je graag!
+      Onze 3D animatiefilms zijn de meest realistische vorm van animatie. Het kost wat meer tijd om te maken dan een 2D animatie, maar het resultaat is verbluffend. Met een 3D animatie laat je ingewikkelde producten of diensten in de juiste context op een laagdrempelige manier zien. Ons creatieve team verrast je graag!
     type: content_block
     video:
       source_mp4: https://video.philenflo.nl/video/Tesla-Semi-phil-en-flo.mp4
@@ -89,19 +90,20 @@ blocks:
       url: /vr-animatie-laten-maken/
       text: Lees meer
       type: button
+      color: pink
     align_text: text-left
   - type: logoblock
     title: ""
     logo_items:
-      - Nederlandse Brandwonden Stichting
       - Gemeente Amstelveen
+      - Beter Bed
       - Ministerie van Binnenlandse Zaken en Koninklijkerelaties
       - Sleepfast
       - Alfen
   - type: content_block
     align: right
     content: >-
-      ## Juist voor ***online doelgroep***
+      ## ***Juist voor online doelgroep***
 
 
       Juist in deze tijd wil je op een goede manier je doelgroep bereiken die nu veel online is. Maar hoe? Met videomarketing in de vorm van animatie! Laat een animatie maken door onze specialisten en verspreid deze onder je doelgroep. De juiste informatie verpakt op een creatieve heldere manier.  Even vrijblijvend sparren? Boek vrijblijvend een sessie!
@@ -110,13 +112,14 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/3d-animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
     cta:
-      url: /contact/
-      text: Neem contact op
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
       type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
-      ## Waarvoor kun je een ***animatie laten maken***?
+      ## ***Waarvoor kun je een animatie laten maken?***
 
 
       De inzet van animatie is effectief voor allerlei doelen binnen marketing en communicatie. Een [explainer animatie](https://www.philenflo.nl/explainer-animatie/), of [uitleganimatie](https://www.philenflo.nl/uitleganimatie-laten-maken/), legt je boodschap kort en duidelijk uit. De combinatie van beeld en geluid zorgt voor een sterke boodschap die blijft hangen. Met de juiste grafische elementen maak je processen, producten, en technieken inzichtelijk en begrijpelijk voor je doelgroep. Een [bedrijfsanimatie](https://www.philenflo.nl/bedrijfsanimatie/) is een verlengstuk van je merkidentiteit, met een bedrijfsanimatie straal je een gedegen, professionele organisatie uit. Daar komt nog eens bij dat de inzet van videocontent op je website je organische website een boost geeft, Google is namelijk dol op animatie en andere rijke content. Heb je een educatief doel? Dan is een [educatieve animatie](https://www.philenflo.nl/educatieve-animatiefilm-maken/) ook mogelijk.
@@ -125,31 +128,42 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo2.mp4
       autoplay: true
     cta:
-      url: ""
-      text: ""
-      type: null
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
-      ## Animatie laten maken om ***meer op te vallen***
+      ## ***Animatie laten maken om op te vallen***
 
 
-      Je verhaal vertellen begint met de aandacht vangen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. [De creatieve ontwerpers van Phil & Flo](https://www.philenflo.nl/over-ons/) kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past. Zo creëer je een herkenbare stijl die mensen niet snel zullen vergeten.
+      Je verhaal vertellen begint met aandacht krijgen. Zeker als je reclame voor jezelf of een van je producten of diensten maakt, wil je niet massaal worden genegeerd door potentiële klanten. Met een visueel aantrekkelijke animatie val je op en wek je de interesse van je doelgroep. [De creatieve ontwerpers van Phil & Flo](https://www.philenflo.nl/over-ons/) kunnen hier uitstekend mee uit de voeten. Heb je een huisstijl? Dan zorgen wij dat je animatie hier perfect in past.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-laten-maken-phil-en-flo-Phil-en-Flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
-      ## ***Hoe werkt*** een animatie laten maken?
+      ## ***Hoe werkt een animatie laten maken?***
 
 
-      In een animatie wil je een hoeveelheid informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die beter blijft hangen bij je doelgroep.
+      In een animatie wil je informatie overbrengen. Dat kan een ingewikkelde, technische uitleg zijn, of een heldere productpresentatie. In een animatie vertelt een voice-over stem deze informatie op een prettige toon, in iedere taal die je wilt, daarbij ondersteund door visuele elementen. Deze elementen maken het geheel niet alleen makkelijker te begrijpen: ze geven er vaak ook een luchtige, speelse toon aan. Zeker in combinatie met passende muziek. Zo creëren de specialisten van Phil & Flo een animatie die jouw doelgroep activeert.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
