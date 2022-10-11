@@ -22,9 +22,13 @@ blocks:
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
-    content: Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij
-      zijn dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
+    content: >-
+      Tech bedrijven staan aan de basis van disruptieve veranderingen. Wij zijn
+      dan ook trots op de wijze waarop onze innovatieve Tech klanten onze
       expertises inzetten om hun inspirerende verhaal te verbeelden.
+
+
+      [Bekijk ons portfolio](/portfolio/)
     cta:
       color: pink
       type: button
