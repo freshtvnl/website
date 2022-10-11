@@ -167,15 +167,20 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## Waarom werkt een ***animatie laten maken***?
+      ## ***Waarom werkt een animatie laten maken?***
 
 
-      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Met alleen tekst en uitleg bestaat het risico dat je doelgroep deze verbanden mist, en daardoor afhaakt. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken waarvan je wilt dat je doelgroep ze onthoudt.
+      Mensen denken graag in verbanden en er is geen betere manier om die verbanden te leggen dan visueel. Met beeldelementen en animaties maken we de samenhang tussen onderdelen duidelijk. Gesproken uitleg, beeld en geluid gaan goed samen in een animatie: ze versterken elkaar. **Door de synergie kan het menselijk brein veel makkelijker de belangrijke elementen oppikken** waarvan je wilt dat je doelgroep ze onthoudt.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/vertical-farming-Phil-en-Flo-website-source.mp4
       autoplay: true
       source_webm: ""
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: selectedreviews_block
     title: Google reviews
     items:
@@ -186,7 +191,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## Doelgericht aan de slag met de ***animatiefilms*** van Phil & Flo
+      ## ***Doelgericht aan de slag met de animatiefilms van Phil & Flo***
 
 
       Opvallen, uitleggen, een idee verkopen: wat je doel ook is, met een animatie lukt het altijd beter. Phil & Flo denkt met je mee van eerste concept tot het bereiken van je doelstellingen. Daarbij brengen we je boodschap in kaart en kijken we naar je doelgroep. Zo zorgen we ervoor dat de stijl en vorm van animatie optimaal werkt en er niets van je boodschap verloren gaat. Of je nu wilt overtuigen of informeren: met een aansprekende animatie klaar je de klus.
@@ -194,10 +199,15 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-karakter-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
-      ## ***Ongekende mogelijkheden*** met het laten maken van een animatie
+      ## ***Ongekende mogelijkheden met het laten maken van een animatie***
 
 
       Een animatie om jezelf te verkopen, een proces uit te leggen of een product te presenteren, kan op verschillende manieren. Er zijn verschillende concepten, tonen en stijlen om uit te kiezen. Dat zijn minstens net zo belangrijke gereedschappen als de moderne technieken waarmee we de animaties maken. Het zijn geen beperkingen, maar juist middelen om je doelgroep uit te breiden, en de effectiviteit van je boodschap te verhogen.
@@ -205,28 +215,43 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-laten-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
-      ## In ***stijl*** een animatie laten maken
+      ## ***In stijl een animatie laten maken***
 
 
-      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief en/of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
+      Het laatste dat je wil, is je publiek afschrikken met een animatiestijl die helemaal niet bij jou past. Als de stijl en inhoud van een animatie botsen, brengt dat kijkers in verwarring. Daarom maken de specialisten van Phil & Flo graag kennis met je. Zo zien we welke stijlen we beter kunnen hanteren dan andere: zakelijk, educatief of speels. Wat de grafische vormgeving betreft, houden we ons graag aan je huisstijl, maar ook zonder huisstijl vinden we de juiste toon en beeldtaal om je boodschap zo goed mogelijk uit te dragen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-laten-maken-phil-en-flo1.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
-      ## ***Voor wie*** laat je een animatie maken?
+      ## ***Voor wie laat je een animatie maken?***
 
 
-      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons portfolio voor de uitgebreide stijlen die we hanteren.
+      Minstens net zo belangrijk als voor welk doel je een animatie laat maken, is het publiek. De getekende elementen van een animatie lenen zich goed voor een vrolijke en luchtige presentatie, maar serieus kan ook. Het hangt er maar net van af hoe je de animaties gaat inzetten. Wil je flink veel likes en shares op sociale media? Of stuur je je accountmanagers met een tablet op pad met een uitleganimatie? Natuurlijk hoeft het een het ander niet uit te sluiten: dan kiezen we voor het beste van beide werelden in toon en stijl. Check ons [portfolio](/portfolio/) voor de uitgebreide stijlen die we hanteren.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/2d-animatie-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
