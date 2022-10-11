@@ -32,10 +32,10 @@ blocks:
       source: images/save-the-children.png
       alt: Save the Children - Phil & Flo
     cta:
-      url: /offerte-ontvangen/
-      text: Ontvang je offerte
+      url: /contact/
+      text: Neem contact op
       type: button
-      color: pink
+      color: yellow
   - type: content_block
     align: right
     content: >-
