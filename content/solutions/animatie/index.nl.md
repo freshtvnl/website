@@ -255,7 +255,7 @@ blocks:
   - type: content_block
     align: left
     content: >-
-      ## ***De juiste toon*** in een animatie
+      ## ***De juiste toon in een animatie***
 
 
       Met een sprekende animatie lukt het veel beter om een toon over te brengen. Door de combinatie van gesproken woorden, beelden en muziek, creëer je meteen de juiste sfeer. Door de juiste toon te kiezen en je verhaal goed te vertellen, kun je veel meer rekenen op het overbrengen van het juiste gevoel aan je doelgroep.
@@ -263,24 +263,34 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/animatie-psychische-zorg.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: right
     content: >-
-      ## ***De unieke designfilosofie*** van Phil & Flo
+      ## ***De unieke designfilosofie van Phil & Flo***
 
 
-      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
+      Goede vormgeving versterkt de betekenis en impact van beeld, maar wat is goede vormgeving? Vroeger dacht men de ideale verhoudingen van vormen te vinden in de Gulden Snede. **Tegenwoordig hebben die oude regels plaatsgemaakt voor persoonlijk stijlonderzoek, want ultieme schoonheid is voor iedereen anders**. Wij horen graag wat je wil vertellen en stellen, door middel van de juiste kleuren, lijnen, vormen, muziek en geluiden, een authentieke beeldtaal voor je animatie samen.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
       autoplay: true
+    cta:
+      url: /offerte-ontvangen/
+      text: Offerte Ontvangen
+      type: button
+      color: pink
   - type: content_block
     align: left
     content: >-
       ## ***Kies de juiste kleuren***
 
 
-      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie. Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor 'gevaar', 'warmte' en 'actie'. Kleur in je animatie zorgt dus voor verschillende acties.
+      We worden rustig van symmetrie. Door het gebruik van symmetrie in je vormgeving kun je een veilige, vertrouwde boodschap overbrengen. **Asymmetrische beelden zorgen daarentegen voor prikkelingen en zetten aan tot actie.** Ook kleuren spelen hierbij een grote rol. Zo staat bijvoorbeeld blauw voor ‘vertrouwen’ en groen voor ‘groei’ en ‘gezondheid’. Rood staat voor 'gevaar', 'warmte' en 'actie'. Kleur in je animatie zorgt dus voor verschillende acties.
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/AD-animatiefilm-phil-en-flo.mp4
@@ -289,21 +299,22 @@ blocks:
       url: /contact/
       text: Neem contact op
       type: button
+      color: pink
   - type: selectedwork_block
     title: Succesverhalen
     items:
-      - alfen-Smart-Charging-Network-3D-animatie
-      - algemeen-dagblad-animatie
-      - Animatiefilm ICON geneesmiddelenonderzoek
+      - BinBin
+      - Beckys - 3D animatie
+      - Hanzehogeschool - 2D Animaties
     more_items: true
   - type: contact_block
     contacts:
-      - aron
+      - peter-de-graaf
   - type: selectedreviews_block
     items:
       - premium-positioning-review
-      - diataal
       - netwerkz-review
+      - DMT
   - type: selectedfaqs_block
     title: Veelgestelde vragen
     items:
@@ -315,6 +326,7 @@ blocks:
       - hoe-gaan-jullie-te-werk-met-een-animatie
       - hoe-maken-jullie-animaties
       - hebben-jullie-voorbeeld-van-een-animatie
+      - hoeveel-aanpassingen-mogen-wij-maken-tijdens-het-traject
 parent: animatie-studio-amsterdam
 title: Animatie
 slug: animatie-laten-maken
@@ -323,8 +335,8 @@ image:
   source: images/3d-animatie-laten-maken.jpg
   alt: 2D animatie laten maken - Phil & Flo
 seo:
-  title: Animatie laten maken | Phil & Flo videomarketing
-  description: Een Animatie laten maken bij Phil & Flo | Opvallend ✔ Marketing
-    geoptimaliseerd ✔ Creatief ✔ imponerend ✔ 8,9 klantscore ✔ Bel ons nu voor
-    meer info.
+  title: "Animatie laten maken doe je bij de nr 1 van Nederland - Phil en Flo
+    Creative Studio "
+  description: Unieke animatie laten maken - Duurzaam | Hoogwaardig | Snel
+    gerealiseerd - Bekijk ons portfolio
 ---
