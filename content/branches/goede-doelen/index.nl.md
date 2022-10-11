@@ -4,7 +4,7 @@ slug: goede-doelen
 weight: 6
 draft: false
 image:
-  source: images/phil-en-flo-mvo.jpg
+  source: images/schermafbeelding-2022-10-11-om-13.23.36.png
   alt: Goede doelen - Phil & Flo
 color: red
 blocks:
