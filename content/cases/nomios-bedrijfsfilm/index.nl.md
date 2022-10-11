@@ -16,4 +16,6 @@ blocks:
       source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-NOMIOS-NL-Phil-en-Flo.mp4
     title: NOMIOS bedrijfsfilm
     displaymedia: custom_video
+seo:
+  noindex: true
 ---
