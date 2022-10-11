@@ -28,12 +28,14 @@ blocks:
       [Bekijk ons portfolio](/portfolio/)
     align: left
     align_text: text-left
-    displaymedia: custom_video
+    displaymedia: youtube_video
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
       color: pink
       type: button
+    youtube:
+      id: Pk6yJXYVb9k
   - type: logoblock
     logo_items:
       - JDE
