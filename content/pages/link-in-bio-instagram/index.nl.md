@@ -13,11 +13,11 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![NOMIOS - Phil & Flo](images/link-in-bio-portfolio-nomios.jpg)"
+    content: "![ZonMw - Phil & Flo](images/zonmw.png)"
     cta:
       color: blue
-      url: https://www.philenflo.nl/portfolio/nomios-internationale-bedrijfsfilm/
-      text: Bekijk de bedrijfsfilm van NOMIOS
+      url: https://www.philenflo.nl/portfolio/zonmw-interactieve-player/
+      text: Bekijk de interactieve player van ZonMw
       type: button
   - type: content_block
     video:
