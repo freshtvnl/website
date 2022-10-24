@@ -23,7 +23,7 @@ blocks:
       ## Een ***digitale rondleiding*** door jouw fabriek of brouwerij
 
 
-      Met een digitale rondleiding door een fabriek of brouwerij, kunnen kijkers het bedrijf op afstand ervaren. Als bedrijf bepaal je zelf welke ruimtes, processen en producten je laat zien en welke informatie je deelt. Dit kan door middel van tekst, beeld en geluid. Hoe meer relevante informatie je deelt, hoe meer je mogelijke vragen minimaliseert. Hiermee vergroot je het vertrouwen van (potentiële) klanten en verhoog je conversies van bezoekers.
+      Met een digitale rondleiding door een fabrieken of brouwerijen, kunnen kijkers het bedrijf op afstand ervaren. Als bedrijf bepaal je zelf welke ruimtes, processen en producten je laat zien en welke informatie je deelt. Dit kan door middel van tekst, beeld en geluid. Hoe meer relevante informatie je deelt, hoe meer je mogelijke vragen minimaliseert. Hiermee vergroot je het vertrouwen van (potentiële) klanten en verhoog je conversies van bezoekers.
     displaymedia: image
     image:
       source: images/phil-en-flo-icoon-brouwerij-blauw.jpg
