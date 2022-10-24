@@ -45,7 +45,7 @@ blocks:
       autoplay: true
     align: left
     content: >-
-      ## ***Helicopter view***
+      ## ***Helikopter view***
 
 
       Om je missie en visie over te brengen op je doelgroep, moet je weten wie je doelgroep is en wat er bij hun speelt. Met jouw product of dienst wil je hun pijnpunten wegnemen, maar dan moet je wel weten wat deze zijn. Wij helpen je hierachter te komen door een persona op te stellen, dit karakteriseert jouw ideale klant. Daarnaast maken we een concurrentieanalyse en kijken we naar marktontwikkelingen en trends om een sterke positie in de markt voor te bereiden.
