@@ -330,7 +330,7 @@ blocks:
     title: Veelgestelde vragen
 seo:
   title: Creatieve en krachtige bedrijfsfilm laten maken | Phil & Flo
-  description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
+  description: Bedrijfsfilm laten maken door Phil en Flo | Duurzaam, hoogwaardig
     en snel gerealiseerd
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
 menu:
