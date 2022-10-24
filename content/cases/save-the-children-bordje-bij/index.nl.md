@@ -17,6 +17,13 @@ blocks:
     displaymedia: null
     youtube:
       id: ""
+    content: Voor de campagnevideo ‘Zet een bordje bij’ van Save the Children
+      maakten we en commercial en 2D animatievideo. We spraken met kinderen en
+      volwassenen die in het verleden zelf hebben ervaren hoe het is om weinig
+      of geen eten tot hun beschikking te hebben. Deze persoonlijke ervaringen
+      benadrukken waarom zij voor iemand een bordje bijzetten. Met één bijgezet
+      bordje aan de digitale eettafel kan Save the Children een heel gezin een
+      week van eten voorzien.
   - type: content_block
     video:
       autoplay: true
