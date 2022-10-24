@@ -5,6 +5,11 @@ draft: false
 blocks:
   - type: hero_block
     title: "***Instructiefilm laten maken***"
+    content: ""
+  - type: content_block
+    video:
+      autoplay: true
+      source_mp4: https://video.philenflo.nl/video/Bedrijfsfilm-payconiq1.mp4
     content: "Stel je eens voor: je krijgt een nieuwe telefoon of tablet in handen.
       Wat je dan wilt, is zo snel mogelijk dat ding opstarten en ermee aan de
       slag! Het liefst pluis je niet eerst heel de handleiding uit, maar wil je
@@ -12,19 +17,23 @@ blocks:
       Flo. Wij creëren korte instructiefilms of voorlichtingsfilms die het jouw
       potentiële klanten makkelijker maken je product, dienst of een bepaalde
       instructie sneller te begrijpen."
-  - type: content_block
     align: left
+    displaymedia: custom_video
+  - type: content_block
+    align: right
     content: >-
       ## Simpele manier ***uitleggen***
 
 
       Een instructiefilm is een korte, bondige video die op een simpele manier uitlegt hoe bestaande, maar ook toekomstige klanten jouw [product](https://www.philenflo.nl/3d-productvideo/) of dienst kunnen gebruiken. Ook kun je een instructiefilm inzetten met als doel mensen voorlichting te geven of te informeren. Zo kun je in één keer duidelijk maken wat bijvoorbeeld de veiligheidseisen zijn in een productiehal of laboratorium. Een instructiefilm is een goede manier om stap voor stap in beeld te brengen hoe iets werkt of hoe iets moet worden gedaan.
-    displaymedia: image
+    displaymedia: custom_video
     image:
       source: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
       alt: UMCG - Phil & Flo
+    video:
+      source_mp4: https://video.philenflo.nl/video/2D-animatie-voor-goede-doelen-Stichting-Welcome-App.mp4
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## ***Ingewikkeld*** onderwerp uitleggen?
 
@@ -36,19 +45,28 @@ blocks:
     video:
       source_mp4: https://video.philenflo.nl/video/3d-animatie-bouw.mp4
       autoplay: true
+  - type: logoblock
+    logo_items:
+      - Payconiq
+      - De Aanbouw Expert
+      - BinBin
+      - U-Sport
+      - Stichting Welcome App
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## Instructiefilms voor ***personeel***
 
 
       Bij Phil & Flo brengen we de gevaren of problemen in beeld die kunnen ontstaan wanneer je personeel zich niet aan de regels houdt. Ook kun je er voor kiezen om een instructiefilm voor gebruik in de zorg te laten maken. Daar moeten er vaak ingewikkelde onderwerpen worden uitgelegd aan patiënten, cliënten of medewerkers. Een instructiefilm helpt ze om de materie begrijpelijker, speelser en minder zwaar te maken.
-    displaymedia: image
+    displaymedia: iframe
     image:
       source: images/peter-opnames-douwe-egberts.jpg
       alt: JDE filmopnames - Phil & Flo
+    iframe:
+      source: https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1
   - type: content_block
-    align: right
+    align: left
     content: >-
       ## Weg met saaie ***handleidingen***
 
@@ -62,7 +80,7 @@ blocks:
       source: images/peter-suzan-kopie.jpg
       alt: Peter & Suzan - Phil & Flo
   - type: content_block
-    align: left
+    align: right
     content: >-
       ## ***Afspraak*** maken
 
