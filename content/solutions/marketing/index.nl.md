@@ -23,12 +23,12 @@ blocks:
       image:
         source: images/phil-en-flo-videomarketing.jpg
     align: left
-    content: Een open deur, maar het begint allemaal met een goede video. Een video
-      die waarde toevoegt. En onze ervaring leert dat dit video’s zijn die
-      verhalen vertellen waarin de kijker zich herkent. Hoe beter het verhaal is
-      over jouw organisatie, hoe beter mensen begrijpen wat je voor hen kan
-      betekenen. Storytelling is de belangrijkste steunpilaar van goede
-      marketing en video.
+    content: Videomarketing, wat is dat? Een open deur, maar het begint allemaal met
+      een goede video. Een video die waarde toevoegt. En onze ervaring leert dat
+      dit video’s zijn die verhalen vertellen waarin de kijker zich herkent. Hoe
+      beter het verhaal is over jouw organisatie, hoe beter mensen begrijpen wat
+      je voor hen kan betekenen. Storytelling is de belangrijkste steunpilaar
+      van goede marketing en video.
     displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
@@ -41,7 +41,7 @@ blocks:
       ## Hoe korter, ***hoe beter***
 
 
-      Mensen hebben een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
+      Mensen hebben een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik voor goede marketing de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
     displaymedia: image
     youtube:
       image:
