@@ -14,7 +14,7 @@ seo:
   description: Wat is de meerwaarde van drone's voor je video? We vertellen je
     waarom je een drone video zou moeten laten maken voor jouw bedrijf.
 ---
-Een unieke [video laten maken](https://www.philenflo.nl/oplossingen/video-laten-maken/) voor jouw bedrijf? Je kunt natuurlijk gaan voor een ‘standaard’ video, maar je kunt het een stuk aantrekkelijker maken door een drone film te laten maken. Er zijn verschillende redenen om te kiezen voor drone beelden in jouw video. Je leest er alles over in dit blog. 
+Waarom bedrijven een unieke [video laten maken](https://www.philenflo.nl/oplossingen/video-laten-maken/)? Je kunt natuurlijk gaan voor een ‘standaard’ video, maar je kunt het een stuk aantrekkelijker maken door een drone film te laten maken. Er zijn verschillende redenen om te kiezen voor drone beelden in jouw video. Je leest er alles over in dit blog. 
 
 ## Welke soorten drone opnames zijn er?
 
