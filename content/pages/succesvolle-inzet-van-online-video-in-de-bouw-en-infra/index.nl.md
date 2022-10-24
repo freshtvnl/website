@@ -102,7 +102,7 @@ blocks:
     contacts:
       - victor
 seo:
-  title: Video inzetten in de Bouw & Infra | Phil & Flo
+  title: Video in de Bouw & Infra | Phil & Flo
   description: Video inzetten voor jouw bouw/infra project ✔ Klantscore 8.9 ✔
     Onderscheidende content ✔ Creatief & interactief | Neem contact op
 ---
