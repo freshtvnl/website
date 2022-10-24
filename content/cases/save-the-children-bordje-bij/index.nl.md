@@ -23,15 +23,15 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: v6NksEdVRno
-    content: "## Bordje bij ***commercial***"
-    align: left
+    content: ""
+    align: right
   - type: content_block
     video:
       autoplay: true
       source_mp4: https://video.philenflo.nl/video/Save-the-Children-uitleganimatie.mp4
-    content: "## Bordje bij ***uitleganimatie***"
+    content: ""
     displaymedia: custom_video
-    align: left
+    align: right
 seo:
   title: Save the Children Campagne | Phil & Flo
   description: Commercial voor Save The Children. Ontdek hier de unieke reclame in
