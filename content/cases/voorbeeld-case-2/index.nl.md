@@ -13,7 +13,7 @@ blocks:
     content: "Het gemak van online betalen: waar en wanneer je maar wilt. Geen
       pinpas, cash geld of verfrommelde coupons. Enkel een smartphone om binnen
       no time je betaling te voltooien. De revolutionaire betaal-app van
-      Payconiq is de toekomst op het gebied van betalen. Wat rest, is een
+      Payconiq is de toekomst op het gebied van betalen: P2P. Wat rest, is een
       succesvolle videostrategie om deze fantastische app succesvol te
       lanceren."
     displaymedia: custom_video
