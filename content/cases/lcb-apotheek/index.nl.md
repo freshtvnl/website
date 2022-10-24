@@ -15,6 +15,11 @@ blocks:
       id: Pxax1cOGSIk
       image:
         source: images/lcb-retourmedicatie-phil-en-flo.jpg
+    content: "Animatiecapsule Rik Retour  helpt Logistics Community Brabant met het
+      verspreiden van de boodschap: breng restmedicatie terug naar apotheken en
+      milieustraten. Met de campagne 'Breng ons terug' wil LCB hier aandacht
+      voor vragen en milieuvervuiling door het onjuist 'opruimen' van medicatie
+      te voorkomen."
 seo:
   title: 3D animatie voor LCB Apotheek | Phil & Flo
   description: "3D animatie voor LCB Apotheek | Een animatie over het terugbrengen
