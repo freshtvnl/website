@@ -92,7 +92,7 @@ footermenu4:
     parent: Blog
   - weight: "0"
     name: Voordelen van virtuele tours
-    url: /virtuele-tour-nu-en-later/
+    url: /blog/virtuele-tour-nu-en-later/
     parent: Blog
 footermenu5:
   - weight: "0"
