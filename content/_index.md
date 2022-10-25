@@ -6,7 +6,7 @@ blocks:
       id: ""
     align: center
     align_text: center
-    title: "***Ben jij klaar voor de volgende stap?***"
+    title: "***Video en animatie die jou laat groeien***"
     content: ""
     type: hero_block
     video:
@@ -28,7 +28,7 @@ blocks:
       type: button
       color: pink
     content: >-
-      #### ***Video en animatie met impact***
+      #### Video en animatie met impact
 
 
       Wij produceren esthetische, mooie en duurzame videocontent en animaties. Zo helpen wij onze partners om te groeien en hun ambities waar te maken.
