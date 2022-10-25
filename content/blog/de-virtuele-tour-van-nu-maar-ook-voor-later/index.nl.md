@@ -35,7 +35,7 @@ Er zijn verschillende mogelijkheden voor de virtuele tours. Zo is er de 360 grad
 
 Daarnaast is er de ***interactieve rondleiding***, waarbij de video klikbare knoppen krijgt. Met behulp van de knoppen kan de kijker door de video heen klikken en zelf kiezen welke onderdelen hij wil zien. Bijvoorbeeld in een virtuele rondleiding toerisme, waarin alle highlights van een stad terugkomen. Of in een virtuele rondleiding door een hotel, waarin je alvast alle faciliteiten kunt bekijken. Een virtuele tour voor jouw bedrijf is een mooie toevoeging aan jouw marketingmix.
 
-`{{<div style="width:100%;position:relative;padding-top:56.25%;"><iframe id="iv_iframe" src="https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1" style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;" allow="autoplay; fullscreen" allowfullscreen></iframe></div>}}`
+<div style="width:100%;position:relative;padding-top:56.25%;"><iframe id="iv_iframe" src="https://interactive.philenflo.nl/embed/projects/056cc645807e8fbb85880c90?iv_branded=1" style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 ## Virtual reality
 
@@ -47,7 +47,7 @@ Er komen steeds meer spectaculaire mogelijkheden om bezoekers aan te grijpen. Te
 
 Een virtuele tour is een perfect middel voor organisaties uit verschillende branches. Je kunt bijvoorbeeld een ***virtuele tour voor het onderwijs laten maken.*** Laat in deze virtuele rondleiding in een school bezoekers van over de hele wereld door de gangen van je school lopen. Onderweg komen ze verschillende vakken tegen en proeven ze de sfeer in elk klaslokaal.
 
-`{{<div style="width:100%;position:relative;padding-top:56.25%;"><iframe id="iv_iframe" src="https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1" style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;" allow="autoplay; fullscreen" allowfullscreen></iframe></div>}}`
+<div style="width:100%;position:relative;padding-top:56.25%;"><iframe id="iv_iframe" src="https://interactive.philenflo.nl/embed/projects/08f693b1e5172b3ebfa10e00?iv_branded=1" style="border:0;width:100%;height:100%;position:absolute;top:0px;bottom:0px;right:0px;left:0px;" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 Naast een virtuele tour voor het onderwijs zijn online tours natuurlijk ook geschikt voor andere [branches](https://www.philenflo.nl/branches/). Zo laat je een virtuele rondleiding in een fabriek maken, of een virtuele tour in een brouwerij, om belangrijke processen in beeld te brengen. Een virtuele tour voor bedrijven kan ook nieuwe medewerkers digitaal welkom heten of klantrelaties een rondleiding geven.
 
