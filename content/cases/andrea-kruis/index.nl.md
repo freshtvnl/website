@@ -15,6 +15,10 @@ blocks:
     displaymedia: youtube_video
     youtube:
       id: QTkY8qQOV9g
+    content: Ter ere van het 100-jarig bestaan van Den Hartogh maakten we een 2D
+      animatieviddeo. Hierin word je meegenomen door de evolutie van hoe de
+      communicatie de afgelopen 100 jaar is veranderd. In samenwerking met
+      Andrea Kruis creëerden we deze unieke 2D animatiestijl.
   - type: content_block
     video:
       autoplay: true

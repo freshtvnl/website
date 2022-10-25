@@ -4,7 +4,7 @@ slug: goede-doelen
 weight: 6
 draft: false
 image:
-  source: images/phil-en-flo-mvo.jpg
+  source: images/schermafbeelding-2022-10-11-om-13.23.36.png
   alt: Goede doelen - Phil & Flo
 color: red
 blocks:
@@ -25,17 +25,17 @@ blocks:
       je!
     displaymedia: custom_video
     video:
-      source_mp4: https://video.philenflo.nl/video/save-the-children.mp4
+      source_mp4: https://video.philenflo.nl/video/221006-Phil-Flo-Showreel-Goede-Doelen-v2.mp4
       source_webm: ""
       autoplay: true
     image:
       source: images/save-the-children.png
       alt: Save the Children - Phil & Flo
     cta:
-      url: /offerte-ontvangen/
-      text: Ontvang je offerte
+      url: /contact/
+      text: Neem contact op
       type: button
-      color: pink
+      color: yellow
   - type: content_block
     align: right
     content: >-

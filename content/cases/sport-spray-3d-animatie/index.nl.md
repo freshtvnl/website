@@ -17,6 +17,10 @@ blocks:
     youtube:
       id: ffvFXp830sY
     title: Sport Fiets Spray - 3D Animatie
+    content: Een 3D productanimatie laat tot in detail zien hoe jouw product
+      eruitziet en hoe het werkt. Ook de producten van U-Sport. Zelfs de
+      kleinste waterdruppels op het lichaam en vuildeeltjes op fietsonderdelen
+      zijn levensecht weergegeven. Niet van echt te onderscheiden!
   - type: content_block
     video:
       autoplay: true

@@ -28,12 +28,14 @@ blocks:
       [Bekijk ons portfolio](/portfolio/)
     align: left
     align_text: text-left
-    displaymedia: custom_video
+    displaymedia: youtube_video
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
       color: pink
       type: button
+    youtube:
+      id: Pk6yJXYVb9k
   - type: logoblock
     logo_items:
       - JDE
@@ -49,7 +51,7 @@ blocks:
       ## ***Prachtige bedrijfsfilms met betekenis***
 
 
-      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. E**en bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten.** Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met de optimale lengte en uitnodigende call-to-action.
+      Als merk wil je opvallen. Je boodschap overbrengen en je doelgroep overtuigen. **Een bedrijfsfilm laten maken door Phil & Flo is de manier om de aandacht te pakken, de toon te zetten en om een blijvende indruk achter te laten.** Is je doel om meer mensen op je site te converteren? Dan produceren wij een video met de optimale lengte en uitnodigende call-to-action.
     displaymedia: custom_video
     image:
       source: ""
@@ -68,7 +70,7 @@ blocks:
       ### ***Van kijkers naar klanten***
 
 
-      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. **Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl.** Maar uiteraard weten onze specialisten ook hoe onze videofilms tot wel 80% meer conversie kan realiseren.
+      Als je een bedrijfsfilm laat maken voor een bepaalde doelgroep, wil je deze ook tot actie aanzetten om met je in gesprek te komen. Storytelling is een uitstekende manier om een emotionele connectie te maken met je doelgroep. Daardoor hebben ze een goed gevoel bij jouw bedrijf en zullen ze eerder voor jou kiezen. Wanneer ze alleen maar oppervlakkige, zakelijke informatie hebben, haken de meeste mensen af. **Onze specialisten zorgen ervoor dat je bedrijfsfilm potentiële klanten aanspreekt in sfeer, toon en stijl.** Maar uiteraard weten onze specialisten ook hoe je tot wel 80% meer conversie kan realiseren met onze krachtige bedrijfsfilms.
     displaymedia: custom_video
     image:
       source: images/peter-suzan-kopie.jpg
@@ -273,7 +275,7 @@ blocks:
       De kosten van een bedrijfsfilm zijn afhankelijk van allerlei factoren. Er is in dat opzicht dan ook geen standaard gemiddelde bedrijfsfilm prijs te noemen, want de kosten variëren bij elke productie. Denk bijvoorbeeld ook maar aan de benodigde apparatuur die invloed heeft op de kosten van een bedrijfsfilm. Het kan ook zo zijn dat er gefilmd wordt op verschillende locaties met bijvoorbeeld een drone. Al deze aspecten tellen mee net als het eventueel inhuren van externe partijen, zoals een voice-over of andere specialist.
 
 
-      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. **Wil je weten wat de kosten zijn dan is het heel simpel. Neem gewoon contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen.**
+      Er is één ding zeker, en dat is dat wij je graag maatwerk bieden in alle opzichten. Dat betekent ook dat de offerte voor een bedrijfsfilm daarop is afgestemd. **Wil je weten wat de kosten zijn? Neem contact op met Phil & Flo om vrijblijvend een bedrijfsfilm offerte te ontvangen.**
     cta:
       text: Neem contact op
       url: https://www.philenflo.nl/contact/
@@ -327,8 +329,8 @@ blocks:
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
     title: Veelgestelde vragen
 seo:
-  title: Creatieve en krachtige  bedrijfsfilm laten maken | Phil & Flo
-  description: Bedrijfsfilm laten maken door Phil en Flo - Duurzaam, hoogwaardig
+  title: Creatieve en krachtige bedrijfsfilm laten maken | Phil & Flo
+  description: Bedrijfsfilm laten maken door Phil en Flo | Duurzaam, hoogwaardig
     en snel gerealiseerd
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
 menu:

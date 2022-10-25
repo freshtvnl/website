@@ -95,7 +95,7 @@ blocks:
       ## Vandaag nog alles weten over animatie video?
 
 
-      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen, en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook meteen vrijblijvend contact met ons opnemen om over de mogelijkheden te praten om een [animatie te laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
+      Je kunt deze animaties allemaal bekijken in ons online portfolio. Zo krijg je een goed idee van wat we kunnen en vind je inspiratie voor je eigen animatie. Je kunt natuurlijk ook vrijblijvend contact met ons opnemen over de mogelijkheden om een [animatie te laten maken](https://www.philenflo.nl/oplossingen/animatie-laten-maken/).
     displaymedia: custom_video
     video:
       source_mp4: https://video.philenflo.nl/video/animatievideo-maken-phil-en-flo.mp4
@@ -115,7 +115,7 @@ blocks:
     contacts:
       - aron
 seo:
-  title: "Animatie video | Phil & Flo verbeeldt de wereld van morgen "
+  title: Animatie video laten maken | Phil & Flo
   description: Bereik met een animatie video jouw doelgroep. Neem contact op met
     de specialisten van Phil & Flo voor een unieke video.
 ---

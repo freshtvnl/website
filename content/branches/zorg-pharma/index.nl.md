@@ -10,7 +10,7 @@ color: pink
 blocks:
   - type: hero_block
     content: ""
-    title: Oplossingen voor de ***gezondheidszorg en pharmacie***
+    title: "***Film en animatie voor de gezondheidszorg en pharmacie***"
     displaymedia: null
     video:
       source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
@@ -19,7 +19,7 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-      source_mp4: https://video.philenflo.nl/video/UMCG-Phil-en-Flo-website-source.mp4
+      source_mp4: https://video.philenflo.nl/video/221006-Phil-Flo-Showreel-Zorg-Pharma-v2.mp4
     content: Goede zorg vinden we vanzelfsprekend hier in Europa. We hebben het hier
       fantastisch voor elkaar. Dat betekent ook dat er tijd en geld is voor
       onderzoek die weer kan worden gebruikt in de rest van de wereld. Om
@@ -37,6 +37,15 @@ blocks:
       text: Ontvang je offerte
       type: button
       color: pink
+  - type: logoblock
+    title: ""
+    logo_items:
+      - UMCG
+      - ICON
+      - ZonMw
+      - Open Health
+      - ChipSoft
+      - Lentis
   - type: content_block
     align: right
     content: >-
@@ -73,14 +82,6 @@ blocks:
       text: Lees meer
       type: button
       color: green
-  - type: logoblock
-    title: Bewezen trackrecord
-    logo_items:
-      - ChipSoft
-      - ICON
-      - ZonMw
-      - Open Health
-      - Lentis
   - type: content_block
     align: right
     content: >-
