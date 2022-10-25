@@ -5,7 +5,7 @@ blocks:
     youtube:
       id: ""
     align: center
-    align_text: center
+    align_text: null
     title: "***Video en animatie die jou laat groeien***"
     content: ""
     type: hero_block
