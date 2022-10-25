@@ -1,6 +1,6 @@
 footermenu1:
   - weight: "0"
-    name: Oplossingen
+    name: Wat we maken
     pre: Title
     url: /
   - weight: -6
@@ -30,6 +30,7 @@ footermenu1:
   - weight: -7
     name: Virtuele school tour
     url: /virtuele-school-rondleiding/
+    parent: Oplossingen
 footermenu2:
   - weight: "0"
     name: Branches
@@ -88,6 +89,10 @@ footermenu4:
   - weight: -5
     name: Virtual reality
     url: /blog/virtual-reality-inzetten-voor-een-bedrijfsvideo/
+    parent: Blog
+  - weight: "0"
+    name: Voordelen van virtuele tours
+    url: /virtuele-tour-nu-en-later/
     parent: Blog
 footermenu5:
   - weight: "0"
