@@ -5,7 +5,7 @@ weight: 3
 draft: false
 image:
   source: images/vr2.jpg
-date: 2022-07-14T11:54:34.367Z
+date: 2022-10-25T10:07:54.068Z
 color: yellow
 seo:
   title: Een virtuele tour laten maken | Phil & Flo
