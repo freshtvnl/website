@@ -9,6 +9,7 @@ blocks:
     video:
       autoplay: true
     title: "***Interactieve tours onderwijs*** door Phil & Flo"
+    align_text: center
   - type: selectedwork_block
     title: ""
     items:
