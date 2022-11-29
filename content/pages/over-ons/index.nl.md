@@ -91,7 +91,7 @@ blocks:
       autoplay: true
   - type: collection_block
     collection: members
-    title: Team - We werken aan nieuwe foto's ;)
+    title: Team
     number_of_items: 11
     heading: h2
 seo:
