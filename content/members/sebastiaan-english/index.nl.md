@@ -1,7 +1,7 @@
 ---
 title: Jennifer
 slug: Jennifer
-weight: 3
+weight: 0
 draft: false
 function: Creative Producer
 cta: ""
