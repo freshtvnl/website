@@ -1,7 +1,7 @@
 ---
-title: Inge
+title: Inge J.
 slug: inge
-weight: 2
+weight: 0
 draft: false
 image:
   source: images/ingej-website.jpg
