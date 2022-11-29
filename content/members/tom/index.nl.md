@@ -3,7 +3,7 @@ title: Tom
 slug: Tom
 draft: false
 image:
-  source: images/geen-foto-phil-en-flo.png
+  source: images/tom.jpg
 function: 2D Animator
 blocks:
   - type: content_block
