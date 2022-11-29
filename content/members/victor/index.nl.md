@@ -4,7 +4,7 @@ slug: victor
 weight: 2
 draft: false
 image:
-  source: images/victor-phil-en-flo.jpg
+  source: images/victor.jpg
   alt: Victor
 function: Account Director
 cta: "Tijd om jouw marketing naar een hoger niveau te tillen? Laten we in een
