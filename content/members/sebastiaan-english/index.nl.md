@@ -7,7 +7,7 @@ function: Creative Producer
 cta: ""
 id: SuvmI3S6V
 image:
-  source: images/jennifer.jpg
+  source: images/jennifer-website.jpg
   alt: ""
 seo:
   noindex: true
