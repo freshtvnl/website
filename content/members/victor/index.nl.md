@@ -1,10 +1,10 @@
 ---
 title: Victor
 slug: victor
-weight: 2
+weight: ""
 draft: false
 image:
-  source: images/victor.jpg
+  source: images/victor-website.jpg
   alt: Victor
 function: Account Director
 cta: "Tijd om jouw marketing naar een hoger niveau te tillen? Laten we in een
