@@ -1,7 +1,7 @@
 ---
 title: Peter
 slug: peter-de-graaf
-weight: 2
+weight: ""
 draft: false
 image:
   source: images/peter-website.jpg
