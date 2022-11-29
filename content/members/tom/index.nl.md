@@ -3,7 +3,7 @@ title: Tom
 slug: Tom
 draft: false
 image:
-  source: images/tom.jpg
+  source: images/tom-website.jpg
 function: 2D Animator
 blocks:
   - type: content_block
