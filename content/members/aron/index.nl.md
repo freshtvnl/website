@@ -1,7 +1,7 @@
 ---
 title: Aron
 slug: aron
-weight: 2
+weight: 0
 draft: false
 image:
   source: images/aron-website.jpg
