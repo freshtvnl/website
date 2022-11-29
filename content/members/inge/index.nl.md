@@ -4,7 +4,7 @@ slug: inge
 weight: 2
 draft: false
 image:
-  source: images/ingej.jpg
+  source: images/ingej-website.jpg
   alt: Inge
 function: Creative Producer
 description: ""
