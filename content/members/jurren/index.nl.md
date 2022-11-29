@@ -4,7 +4,7 @@ slug: andrew
 weight: 2
 draft: false
 image:
-  source: images/foto-andrew.jpg
+  source: images/andrew-website.jpg
 function: 3D Animator & AR Specialist
 seo:
   noindex: true
