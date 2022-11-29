@@ -1,7 +1,7 @@
 ---
 title: Andrew
 slug: andrew
-weight: 2
+weight: 0
 draft: false
 image:
   source: images/andrew-website.jpg
