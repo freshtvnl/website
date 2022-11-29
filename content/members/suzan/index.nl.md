@@ -1,10 +1,10 @@
 ---
 title: Suzan
 slug: suzan-abbas
-weight: 2
+weight: ""
 draft: false
 image:
-  source: images/suzan.jpg
+  source: images/suzan-website.jpg
   alt: Suzan
 function: Account Director (Co-founder)
 description: "Ik ben Suzan Abbas, Account director en Co-Founder van Phil & Flo.
