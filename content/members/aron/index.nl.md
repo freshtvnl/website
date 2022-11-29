@@ -4,7 +4,7 @@ slug: aron
 weight: 2
 draft: false
 image:
-  source: images/aron-phil-en-flo.jpg
+  source: images/aron.jpg
   alt: Aron
 function: 3D Animator & VR Specialist
 cta: >-
