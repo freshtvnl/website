@@ -4,7 +4,7 @@ slug: peter-de-graaf
 weight: 2
 draft: false
 image:
-  source: images/peter-phil-en-flo.jpg
+  source: images/peter.jpg
   alt: Peter
 function: Creative Director (Co-founder)
 cta: Ik ben als echte creatieveling betrokken bij veel projecten op strategische
