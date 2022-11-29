@@ -4,7 +4,7 @@ slug: inge
 weight: 2
 draft: false
 image:
-  source: images/inge-phil-en-flo.jpg
+  source: images/ingej.jpg
   alt: Inge
 function: Creative Producer
 description: ""
