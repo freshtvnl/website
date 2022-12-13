@@ -210,6 +210,11 @@ image:
   alt: Interactieve video - Phil en Flo
 seo:
   title: Interactieve video | Phil & Flo videomarketing
-  description: "Interactieve video laten maken |  ✔ Passend voor jouw doelgroep ✔
-    Klantscore 8.9 ✔ Uniek ✔ Gericht ✔ Imponerend | Neem contact op. "
+  description: Interactieve video is een krachtige manier om uw doelgroep te
+    betrekken bij uw content. In plaats van passief naar een video te kijken,
+    kunnen kijkers bij interactieve video actief deelnemen door bijvoorbeeld te
+    klikken op bepaalde knoppen of te kiezen uit verschillende opties. Dit maakt
+    de video interessanter en houdt de aandacht van de kijker langer vast.
+    Probeer het eens en ervaar zelf het verschil!
+  image: images/interactieve-video-philenflo.jpg
 ---
