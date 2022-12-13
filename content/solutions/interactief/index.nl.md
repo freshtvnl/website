@@ -16,12 +16,10 @@ blocks:
     video:
       autoplay: true
       source_mp4: ""
-    content: Wil je echt interactie op hoog niveau met je doelgroep? Kies dan voor
-      onze interactieve video mogelijkheden. Je geeft de kijker allerlei keuzes
-      die voor hun relevant zijn. Ze zijn zelf in control. Het voordeel is dat
-      je relevant bent tijdens de video en dat ze actief bezig zijn met je merk.
-      Dit geeft onbewust een beter gevoel bij je doelgroep. Ook kan je een quiz
-      toevoegen, een link naar een PDF of website maken en nog veel meer.
+    content: Interactieve video betrekt je doelgroep bij je content en houdt hun
+      aandacht langer vast. Laat kijkers actief deelnemen door te klikken of te
+      kiezen uit opties. Dit maakt video's interessanter en helpt om je verhaal
+      duidelijker over te brengen. Probeer het en ervaar het verschil!
     align: left
     align_text: text-left
     displaymedia: iframe
@@ -209,7 +207,7 @@ image:
   source: images/virtuele-interactieve-video.png
   alt: Interactieve video - Phil en Flo
 seo:
-  title: Interactieve video | Phil & Flo videomarketing
+  title: Interactieve video | Phil & Flo Creative Studio
   description: Interactieve video is een krachtige manier om uw doelgroep te
     betrekken bij uw content. In plaats van passief naar een video te kijken,
     kunnen kijkers bij interactieve video actief deelnemen door bijvoorbeeld te
