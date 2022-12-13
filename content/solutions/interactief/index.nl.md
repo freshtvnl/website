@@ -9,7 +9,7 @@ blocks:
     image:
       source: ""
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+      source: ""
     align: center
     align_text: center
   - type: content_block
@@ -26,7 +26,7 @@ blocks:
     align_text: text-left
     displaymedia: iframe
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/AU4dDYT_VFMk
+      source: https://interactive.philenflo.nl/embed/projects/AU4dDYT_VFMk?iv_branded=1
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
@@ -41,7 +41,7 @@ blocks:
 
       Voor CBS, een middelbare school in Amsterdam, maakten we een [interactieve school tour](https://www.philenflo.nl/virtuele-school-rondleiding/). De open dagen spelen een essentiële rol voor de werving van nieuwe leerlingen voor de school. Met de interactieve tour kan het CBS zich 365 dagen per jaar presenteren aan groep 7 en 8-leerlingen en hun ouders. In de tour nemen leerlingen van de school je mee langs al het unieke aanbod dat het CBS te bieden heeft. Bijvoorbeeld de exacte en niet exacte vakken, sport en muziek en millennium skills. De kijker bepaald zelf welke routes hij doorloopt en welke onderdelen van het onderwijs of de school hij bekijkt. Bekijk hier het resultaat van de [interactieve tour voor CBS Amsterdam](https://www.philenflo.nl/portfolio/csb-amsterdam-interactieve-tour/).
     iframe:
-      source: https://projects.ivorystudio.net/embed/projects/3220d1f70cb359a9fe46b9b5
+      source: https://interactive.philenflo.nl/embed/projects/3220d1f70cb359a9fe46b9b5?iv_branded=1
   - type: content_block
     align: left
     content: >-
