@@ -16,10 +16,11 @@ blocks:
     video:
       autoplay: true
       source_mp4: ""
-    content: Interactieve video betrekt je doelgroep bij je content en houdt hun
+    content: Interactieve video betrekt je doelgroep bij je merk en houdt hun
       aandacht langer vast. Laat kijkers actief deelnemen door te klikken of te
-      kiezen uit opties. Dit maakt video's interessanter en helpt om je verhaal
-      duidelijker over te brengen. Probeer het en ervaar het verschil!
+      kiezen uit opties, of voeg extra functies toe zoals een quiz of een link.
+      Dit maakt video's interessanter en helpt om je verhaal duidelijker over te
+      brengen. Probeer het eens en ervaar het verschil!
     align: left
     align_text: text-left
     displaymedia: iframe
