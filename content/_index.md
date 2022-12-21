@@ -67,8 +67,8 @@ blocks:
     form: ""
     displaymedia: image
     image:
-      source: 220712_teamuitje-1-.jpg
-      alt: JDE filmopnames - Phil & Flo
+      source: ai300001-lq.jpg
+      alt: Team - Phil & Flo
   - type: logoblock
     title: ""
     logo_items:
@@ -99,7 +99,8 @@ blocks:
       color: pink
     displaymedia: image
     image:
-      source: 20220329_113017_def.jpg
+      source: ai300024-lq.jpg
+      alt: Sales - Phil & Flo
   - type: collection_block
     collection: blog
     number_of_items: 3
