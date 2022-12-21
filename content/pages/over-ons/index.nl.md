@@ -33,7 +33,8 @@ blocks:
       type: button
       color: pink
     image:
-      source: images/20220329_113017_online.jpg
+      source: images/ai300001-lq.jpg
+      alt: Team - Phil & Flo
   - type: content_block
     video:
       autoplay: true
@@ -62,8 +63,8 @@ blocks:
     align: left
     displaymedia: image
     image:
-      source: images/inge-bank.jpg
-      alt: Inge - Phil & Flo
+      source: images/ai300024-lq.jpg
+      alt: Sales - Phil & Flo
     video:
       autoplay: false
     cta:
