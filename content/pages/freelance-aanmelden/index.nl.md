@@ -1,7 +1,7 @@
 ---
 title: freelance aanmelden
 slug: freelance-aanmelden
-draft: false
+draft: true
 seo:
   title: Freelancer aanmelden - Phil & Flo Videomarketing
   description: Beschik jij tot waardevolle expertise of diensten waarmee je ons
