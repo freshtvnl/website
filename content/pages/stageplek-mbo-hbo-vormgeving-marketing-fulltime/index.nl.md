@@ -56,15 +56,22 @@ blocks:
   - type: content_block
     video:
       autoplay: true
-    content: |-
+    content: >-
       ## ***Wat wij bieden***
 
-      * Een jong en gezellig team vol professionals die jou helpen groeien;
+
+      * Een stageplek in een jong en gezellig team vol professionals die jou helpen groeien;
+
       * Een mooi gelegen kantoor in de binnenstad van Groningen;
+
       * De mogelijkheid om onder begeleiding veel ervaring op te doen;
+
       * Veel ruimte voor initiatieven;
+
       * Een passende stagevergoeding;
+
       * Gezellige lunchpauzes met een potje Halo of Forza voor de liefhebbers;
+
       * Lekkere lunch van de zaak op maandagen.
     align: right
     displaymedia: image
