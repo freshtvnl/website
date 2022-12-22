@@ -9,7 +9,7 @@ blocks:
       # Aanmelden als stemacteur of voice-over
 
 
-      Ben jij stemacteur of voice-over? Meld je dan zeker aan en neem contact met ons op.
+      Ben jij stemacteur, stemactrice of voice-over? Meld je dan zeker aan en neem contact met ons op.
     form: contact-formulier
 seo:
   title: Aanmelden als stemacteur of stemactrice voor voice-over
