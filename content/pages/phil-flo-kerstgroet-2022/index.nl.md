@@ -8,10 +8,11 @@ image:
 color: green
 blocks:
   - type: hero_block
-    align: left
+    align: center
     video:
       autoplay: true
     title: Fijne feestdagen en de beste wensen voor 2023!
     youtube:
       id: https://youtu.be/1YUsZSly7Nk
+    displaymedia: youtube_video
 ---
