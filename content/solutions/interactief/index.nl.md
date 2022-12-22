@@ -208,7 +208,7 @@ image:
   source: images/virtuele-interactieve-video.png
   alt: Interactieve video - Phil en Flo
 seo:
-  title: Interactieve video | Phil & Flo Creative Studio
+  title: Interactieve video | Phil & Flo
   description: Interactieve video is een krachtige manier om uw doelgroep te
     betrekken bij uw content. In plaats van passief naar een video te kijken,
     kunnen kijkers bij interactieve video actief deelnemen door bijvoorbeeld te
