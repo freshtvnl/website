@@ -13,6 +13,6 @@ blocks:
       autoplay: true
     title: Fijne feestdagen en de beste wensen voor 2023!
     youtube:
-      id: https://youtu.be/1YUsZSly7Nk
+      id: 1YUsZSly7Nk
     displaymedia: youtube_video
 ---
