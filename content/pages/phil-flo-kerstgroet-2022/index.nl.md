@@ -15,4 +15,5 @@ blocks:
     youtube:
       id: 1YUsZSly7Nk
     displaymedia: youtube_video
+    align_text: center
 ---
