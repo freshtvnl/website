@@ -111,7 +111,7 @@ blocks:
       ## ***Hoe werkt*** een interactieve video
 
 
-      In een creatieve sessie bespreek je samen een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
+      In een creatieve sessie bespreek je samen met een van onze creative producers alle unieke, onderscheidende en belangrijke onderdelen die jouw school te bieden heeft. Op basis daarvan maakt de creative producer een zogeheten wireframe, waarin een overzicht staat hoe de interactieve film opgebouwd is en hoe alle onderdelen met elkaar verbonden zijn in een route. In overleg werken we toe naar het definitieve wireframe voor de interactieve film. Op de draaidag wordt dit wireframe gevolgd aan de hand van een [script](https://www.philenflo.nl/kennisbank/hoe-maak-je-een-videoscript/) en worden alle routes gefilmd. Onze editor verbindt alle toffe beelden en voegt de knoppen toe, zodat de kijker op een interactieve manier de video kan bekijken.
     align: left
     displaymedia: image
     iframe:
