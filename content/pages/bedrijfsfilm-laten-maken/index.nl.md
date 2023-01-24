@@ -325,7 +325,6 @@ blocks:
       - met-hoeveel-mensen-komen-jullie-filmen
       - kunnen-jullie-meerdere-video-s-in-een-dag-filmen
       - hoe-maken-jullie-bedrijfsfilms
-      - met-hoeveel-mensen-komen-jullie-filmen-bedrijfsvideo
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
     title: Veelgestelde vragen
 seo:
