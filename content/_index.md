@@ -6,7 +6,7 @@ blocks:
       id: ""
     align: center
     align_text: null
-    title: "***Video en animatie die jou laat groeien***"
+    title: "***Video en animatie die jouw organisatie laat groeien***"
     content: ""
     type: hero_block
     video:
