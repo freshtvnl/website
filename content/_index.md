@@ -23,8 +23,8 @@ blocks:
     align: left
     align_text: text-left
     cta:
-      url: /contact/
-      text: Maak een afspraak
+      url: /offerte-ontvangen/
+      text: Offerte ontvangen
       type: button
       color: pink
     content: >-
