@@ -24,7 +24,7 @@ blocks:
     align_text: text-left
     cta:
       url: /offerte-ontvangen/
-      text: Offerte ontvangen
+      text: Ontvang direct een offerte
       type: button
       color: pink
     content: >-
