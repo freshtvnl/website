@@ -339,4 +339,5 @@ seo:
   description: Laat je boodschap opvallen met een op maat gemaakte animatie van
     Phil & Flo. Van eenvoudige uitleganimaties tot complexe 3D-animaties, wij
     brengen jouw ideeën tot leven!
+  image: images/2d-animatie-laten-maken.jpg
 ---
