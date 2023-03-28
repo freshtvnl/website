@@ -91,8 +91,9 @@ blocks:
     contacts:
       - inge
 seo:
-  title: Branding video laten maken | Phil & Flo
-  description: Branding video laten maken | Vertel jouw verhaal met storytelling ✔
-    Klantscore 8.9 ✔ Onderscheidende content ✔ Gepersonaliseerd verhaal ✔
-    Creatief
+  title: Branding Video Laten Maken | Krachtig Merkverhaal | Phil & Flo
+  description: Creëer een krachtig merkverhaal met een branding video van Phil &
+    Flo. Ons team helpt je om een emotionele connectie met je publiek op te
+    bouwen en je merkidentiteit te versterken.
+  image: images/peter-opnames-douwe-egberts.jpg
 ---
