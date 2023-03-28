@@ -328,9 +328,10 @@ blocks:
       - wat-dien-ik-aan-te-leveren-voor-een-offerte-voor-een-bedrijfsfilm
     title: Veelgestelde vragen
 seo:
-  title: Creatieve en krachtige bedrijfsfilm laten maken | Phil & Flo
-  description: Bedrijfsfilm laten maken door Phil en Flo | Duurzaam, hoogwaardig
-    en snel gerealiseerd
+  title: Bedrijfsfilm Laten Maken | Creatieve & Impactvolle Films | Phil & Flo
+  description: Zorg voor een blijvende indruk met een unieke bedrijfsfilm van Phil
+    & Flo. Ons toegewijde team maakt krachtige en betekenisvolle films die jouw
+    boodschap overbrengen. Ontdek nu hoe wij jouw verhaal tot leven brengen!
   image: images/bedrijfsfilm-laten-maken-door-philflo-umcg.png
 menu:
   main:
