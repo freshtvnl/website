@@ -4,8 +4,8 @@ slug: videomarketing
 weight: 6
 draft: false
 image:
-  source: images/inge-bank.jpg
-  alt: Inge - Phil & Flo
+  source: images/ai300025.jpg
+  alt: Inge en Suzan - Phil & Flo
 color: green
 blocks:
   - type: hero_block
@@ -23,12 +23,11 @@ blocks:
       image:
         source: images/phil-en-flo-videomarketing.jpg
     align: left
-    content: Videomarketing, wat is dat? Een open deur, maar het begint allemaal met
-      een goede video. Een video die waarde toevoegt. En onze ervaring leert dat
-      dit video’s zijn die verhalen vertellen waarin de kijker zich herkent. Hoe
-      beter het verhaal is over jouw organisatie, hoe beter mensen begrijpen wat
-      je voor hen kan betekenen. Storytelling is de belangrijkste steunpilaar
-      van goede marketing en video.
+    content: "Videomarketing, wat houdt het in? Het begint allemaal met een
+      krachtige video die waarde toevoegt. Je wilt video's creëren die
+      herkenbare verhalen vertellen, zodat je doelgroep begrijpt wat je voor hen
+      kunt betekenen. Storytelling is de fundering van succesvolle marketing en
+      video. En onthoud: hoe korter, hoe beter."
     displaymedia: custom_video
     cta:
       url: /offerte-ontvangen/
@@ -41,14 +40,14 @@ blocks:
       ## Hoe korter, ***hoe beter***
 
 
-      Mensen hebben een korte aandachtsspanne, binnen ongeveer vier seconden wordt bepaald of je video verder wordt bekeken. Je hebt dus weinig tijd om de aandacht van je kijkers te trekken én je boodschap goed over te brengen. Daarom zijn intro’s niet aan te raden binnen videomarketing. Gebruik voor goede marketing de eerste paar seconden heel verstandig. Val midden in je verhaal met een aantrekkelijk shot of creëer een snelle quick preview van je hoofdboodschap.
+      Je hebt slechts enkele seconden om de aandacht van je kijkers te grijpen en je boodschap duidelijk over te brengen. Daarom zijn intro's niet aanbevolen voor videomarketing. Gebruik die eerste momenten slim: start met een boeiend shot of geef snel een voorproefje van je belangrijkste boodschap. Zo zorg je voor effectieve marketing & video voor jouw organisatie.
     displaymedia: image
     youtube:
       image:
         source: images/inge-bank.jpg
     image:
-      source: images/inge-bank.jpg
-      alt: Inge - Phil & Flo
+      source: images/ai300037.jpg
+      alt: team - Phil & Flo
     video:
       autoplay: false
     align_text: text-left
@@ -68,7 +67,7 @@ blocks:
       ## Goede ***marketing & video*** voor jouw organisatie
 
 
-      Om een goede video in te kunnen zetten voor marketing, moet je weten wat je doelen zijn. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeftes? Hoe communiceer je naar beide groepen? En vooral; hoe breng je beide groepen samen om een optimale relatie te ontwikkelen? Als dit duidelijk is, weet je wat jouw doelgroep overhaalt om jouw product of dienst aan te schaffen. Vind je het moeilijk om deze doelen te bepalen? Dat snappen we en we helpen je er graag mee. Laat je marketing & video uitbesteden aan Phil & Flo.
+      Om een sterke video in te zetten voor marketing, moet je eerst je doelen bepalen. Wie zijn je stakeholders? Wat is je doelgroep? Wat zijn hun behoeften? Hoe communiceer je met beide groepen? En vooral, hoe breng je deze groepen samen om een optimale relatie te ontwikkelen? Als je dit helder hebt, weet je wat jouw doelgroep overtuigt om jouw product of dienst af te nemen. Vind je het lastig om deze doelen vast te stellen? Geen zorgen, we helpen je graag. Besteed je marketing & video uit aan Phil & Flo.
     cta:
       url: /contact/
       text: Neem contact op
@@ -86,7 +85,7 @@ blocks:
       ## Videoproductie door Phil & Flo
 
 
-      Videoproductie voor jouw videomarketing is niet alleen het maken van de video, maar het gehele proces daar vooraf en daarna. Phil & Flo helpt je met bepalen van het doel van je video, de invulling van de video aan de hand van een script en shotlist, het schieten van de beelden en het monteren van de uiteindelijke video die je in gaat zetten voor marketingdoeleinden. Onze experts denken graag met je mee met creatieve ideeën voor jouw videomarketing. Wat dit kost? Dat ligt aan de lengte en invulling van de video. Vraag vrijblijvend een offerte aan om te kijken te naar de mogelijkheden.
+      Videoproductie bij Phil & Flo omvat niet alleen het maken van de video, maar het gehele proces ervoor en erna. We helpen je met het bepalen van het doel van je video, het ontwikkelen van een script en shotlist, het filmen van de beelden en het monteren van de uiteindelijke video voor marketingdoeleinden. Onze experts denken graag met je mee en komen met creatieve ideeën voor jouw videomarketing. Benieuwd naar de kosten? Dat hangt af van de lengte en invulling van de video. Vraag vrijblijvend een offerte aan om de mogelijkheden te verkennen.
     cta:
       url: /offerte-ontvangen/
       text: Ontvang je offerte
@@ -99,7 +98,7 @@ blocks:
       alt: NOMIOS filmopnames - Phil & Flo
   - type: contact_block
     contacts:
-      - victor
+      - suzan-abbas
   - type: selectedreviews_block
     items:
       - pra-health-sciences-review
@@ -110,4 +109,5 @@ seo:
   description: Laat je merk groeien met videomarketing van Phil & Flo. Onze
     experts ontwikkelen strategieën en creëren video's die jouw doelgroep
     aanspreken en resultaten opleveren.
+  image: images/ai300025.jpg
 ---
