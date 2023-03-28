@@ -90,8 +90,9 @@ blocks:
     contacts:
       - inge
 seo:
-  title: Gepersonaliseerd video | Phil & Flo Videomarketing
-  description: Persoonlijke video laten maken door Phil & Flo | ✔ Onderscheidende
-    content ✔ Uniek en datagedreven ✔ Persoonlijk en interactief | Neem contact
-    op
+  title: Gepersonaliseerde Video | Unieke & Doelgerichte Content | Phil & Flo
+  description: Maak een blijvende indruk met gepersonaliseerde video's van Phil &
+    Flo. Wij creëren unieke en doelgerichte content die een sterkere band met je
+    doelgroep opbouwt.
+  image: images/ai300026.jpg
 ---
