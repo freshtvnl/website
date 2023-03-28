@@ -231,10 +231,9 @@ blocks:
       - welke-voice-over-wordt-ingezet-bij-een-employer-branding-video
       - moet-ik-zelf-ideeen-aanleveren-of-bedenken-jullie-alles-employer
 seo:
-  title: Employer Branding video laten maken | Phil & Flo
-  description: Employer branding video laten maken door Phil & Flo - Snel geleverd
-    - direct resultaat - Hoogwaardige videocontent - Succesvol op Indeed en
-    social media
+  title: Employer Branding | Aantrekkelijk Werkgeversimago | Phil & Flo
+  description: Verbeter je werkgeversimago met employer branding door Phil & Flo.
+    Wij helpen je bedrijfscultuur en waarden te communiceren met aansprekende
+    video's die talent aantrekken.
   image: images/employer-branding-phil-en-flo.jpg
-
 ---
