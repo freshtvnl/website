@@ -106,7 +106,8 @@ blocks:
       - premium-positioning-review
       - park lyceum review
 seo:
-  title: "Videomarketing uitbesteden | Marketing & video | Phil & Flo "
-  description: Videomarketing - Vertel verhalen waarin de kijker zich herkent. ✔
-    Opvallend ✔ Creatief ✔ 8,9 klantscore
+  title: Videomarketing | Effectieve & Aantrekkelijke Campagnes | Phil & Flo
+  description: Laat je merk groeien met videomarketing van Phil & Flo. Onze
+    experts ontwikkelen strategieën en creëren video's die jouw doelgroep
+    aanspreken en resultaten opleveren.
 ---
