@@ -9,7 +9,7 @@ image:
 color: green
 blocks:
   - type: hero_block
-    title: "***Videomarketing***"
+    title: "***Ontdek de Kracht van Videomarketing: Jouw Verhaal, Jouw Succes***"
     content: ""
     displaymedia: null
     video:
