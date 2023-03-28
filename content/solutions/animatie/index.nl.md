@@ -336,6 +336,7 @@ image:
   alt: 2D animatie laten maken - Phil & Flo
 seo:
   title: Animatie laten maken doe je bij de Nr. 1 van Nederland | Phil en Flo
-  description: Unieke animatie laten maken ✔ Duurzaam ✔ Hoogwaardig ✔ Snel
-    gerealiseerd | Bekijk ons portfolio
+  description: Laat je boodschap opvallen met een op maat gemaakte animatie van
+    Phil & Flo. Van eenvoudige uitleganimaties tot complexe 3D-animaties, wij
+    brengen jouw ideeën tot leven!
 ---
