@@ -13,11 +13,11 @@ blocks:
     image:
       source: ""
     displaymedia: null
-    content: "![ZonMw - Phil & Flo](images/zonmw.png)"
+    content: "![Jonge Ondernemersprijs 2023 aanmelden](images/omslagfoto-jop-2023.jpg)"
     cta:
-      color: blue
-      url: https://www.philenflo.nl/portfolio/zonmw-interactieve-player/
-      text: Bekijk de interactieve player van ZonMw
+      color: yellow
+      url: https://jongeondernemersprijs.nl/inschrijven/
+      text: Meld je aan voor de Jonge Ondernemersprijs
       type: button
   - type: content_block
     video:
