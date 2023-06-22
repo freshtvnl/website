@@ -2,7 +2,7 @@
 title: Vacature 2D Animator (fulltime)
 slug: vacature-2d-animator
 weight: 1
-draft: false
+draft: true
 image:
   source: images/aii04999.jpg
   alt: Aron - Phil & Flo
