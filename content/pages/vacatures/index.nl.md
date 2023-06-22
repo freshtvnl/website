@@ -16,7 +16,7 @@ blocks:
 
       \
 
-      We zoeken nog een [stagiair(e) MBO/HBO Video editor (fulltime)](https://www.philenflo.nl/stageplek-mbo-en-hbo-video-editor-groningen).
+      We zoeken nog een [Accountmanager Sales ](https://www.philenflo.nl/vacature-accountmanager-sales-groningen/)& een [stagiair(e) MBO/HBO Video editor (fulltime)](https://www.philenflo.nl/stageplek-mbo-en-hbo-video-editor-groningen).
     displaymedia: custom_video
 seo:
   title: Werken bij video of animatie bedrijf | Phil & Flo videomarketing
