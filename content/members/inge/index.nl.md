@@ -1,5 +1,5 @@
 ---
-title: Inge J.
+title: Inge
 slug: inge
 weight: ""
 draft: false
