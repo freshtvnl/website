@@ -16,12 +16,13 @@ blocks:
 
       \
 
-      We zoeken nog een [Accountmanager Sales ](https://www.philenflo.nl/vacature-accountmanager-sales-groningen/)& een [stagiair(e) MBO/HBO Video editor (fulltime)](https://www.philenflo.nl/stageplek-mbo-en-hbo-video-editor-groningen).
+      We zoeken nog een [Accountmanager Sales ](https://www.philenflo.nl/vacature-accountmanager-sales-groningen/)& een Projectmanager Animatie en Film.
     displaymedia: custom_video
 seo:
   title: Werken bij video of animatie bedrijf | Phil & Flo videomarketing
   description: Werken bij een videoproductie bedrijf of animatie studio in de
-    regio Groningen? Neem dan contact op met Phil & Flo via ons stageformulier!
+    regio Groningen? Neem dan contact op met Phil & Flo via ons
+    sollicitatieformulier!
 menu:
   footer:
     weight: 10
