@@ -1,7 +1,7 @@
 ---
 title: Vacature video
 slug: vacature-video
-draft: false
+draft: true
 image:
   source: images/beter-bed3.png
   alt: Beter Bed - Phil & Flo
