@@ -9,10 +9,10 @@ blocks:
       # ***Stage***
 
 
-      *Beschikbare stageplekken **vanaf september 2023** of **februari 2024** in **Groningen***
+      \*Beschikbare stageplekken **vanaf september 2023** of **februari 2024** in **Groningen***
 
 
-      * [MBO/HBO Animator 2D/3D](https://www.philenflo.nl/stage-animator-2d-3d-groningen/) (fulltime
+      * [MBO/HBO Animator 2D/3D](https://www.philenflo.nl/stage-animator-2d-3d-groningen/) (fulltime)
 
       * [HBO/WO Sales](https://www.philenflo.nl/stageplek-hbo-en-wo-sales-groningen/) (fulltime)
 
