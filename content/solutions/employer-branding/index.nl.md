@@ -1,7 +1,7 @@
 ---
 title: Employer Branding
 slug: employer-branding
-weight: 2
+weight: ""
 draft: false
 menu:
   main:
