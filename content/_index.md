@@ -81,9 +81,9 @@ blocks:
   - type: selectedwork_block
     title: Cases
     items:
-      - sport spray 3d animatie
       - Save the Children - Bordje Bij
-      - premium-positioning-2d-animatiefilm
+      - Beckys - 3D animatie
+      - BinBin
     more_items: true
   - type: content_block
     align: left
