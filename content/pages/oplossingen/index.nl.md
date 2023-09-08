@@ -1,5 +1,5 @@
 ---
-title: Wat we doen
+title: Inspiratie
 slug: oplossingen
 id: qos3pjrf_
 blocks:
