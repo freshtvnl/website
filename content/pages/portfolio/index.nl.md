@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Inspiratie
 slug: portfolio
 blocks:
   - type: collection_block
