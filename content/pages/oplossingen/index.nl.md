@@ -1,5 +1,5 @@
 ---
-title: Inspiratie
+title: Content
 slug: oplossingen
 id: qos3pjrf_
 blocks:
