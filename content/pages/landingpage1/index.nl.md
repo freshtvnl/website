@@ -240,5 +240,5 @@ seo:
   image: images/alfen2.png
 menu:
   main:
-    weight: 2
+    weight: ""
 ---
