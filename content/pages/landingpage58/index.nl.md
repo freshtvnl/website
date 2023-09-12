@@ -159,9 +159,10 @@ blocks:
       - in-welke-kwaliteit-ontvang-ik-mijn-animatie
     title: Veelgestelde vragen
 seo:
-  title: 2D animatie laten maken | Phil & Flo
+  title: 2D animatie laten maken | De experts met eigen studio in NL | Phil & Flo
+    Creative Studio
   description: 2D Animatie laten maken door Phil & Flo | ✔ Klantscore 8.9 ✔
-    Onderscheidende content ✔ Uniek en datagedreven ✔ Op maat en prachtig design
+    Onderscheidende content ✔ Doelgroep gericht ✔ Op maat en prachtig design
 menu:
   main:
     weight: ""
