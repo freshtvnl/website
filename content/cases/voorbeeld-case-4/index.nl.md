@@ -65,8 +65,7 @@ blocks:
   - type: content_block
     align: right
     content: >-
-      ## ‘’Coornhert daag je uit!’’ ***het eindresultaat***
-
+      ## ‘’Coornhert daagt je uit!’’ ***het eindresultaat***
 
 
       ‘’Coornhert daagt je uit!’’ is de titel van de film. In 80 seconden nemen we je mee naar het Coornhert, haar leerlingen, docenten, vakken en sfeer. De Coornhert introductiefilm werd enorm goed ontvangen onder (oud)leerlingen en docenten. In één dag had de video al ruim duizend organische views, wat een prachtig eerste resultaat! Oordeel zelf en bekijk de film.
